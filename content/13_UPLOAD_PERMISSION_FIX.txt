@@ -1,0 +1,195 @@
+OTAKU STORE NG — FIX: media uploads failed with "could not be moved to
+wp-content/uploads/2026/09" (Sep 2, 2026)
+=============================================================================
+Symptom: uploading ANY image failed, both in wp-admin > Media and in the
+WooCommerce mobile app:
+
+    1784799771791.jpeg
+    The uploaded file could not be moved to wp-content/uploads/2026/09.
+
+The app showed it as: "Image was not uploaded — WordPress API Error:
+[rest_upload_unknown_error]". Same error, same cause — it is server-side, so
+the app and the browser both hit it.
+
+STATUS: FIXED. Root cause = the month folder was owned by root instead of
+www-data. NOT disk space, NOT a plugin, NOT Cloudflare, NOT the app.
+
+
+=============================================================================
+HOW LONG IT HAD BEEN BROKEN
+=============================================================================
+Longer than anyone noticed. The newest attachment in the media library was
+2026-07-30 19:04. There were ZERO attachments dated August — the whole
+uploads/2026/08 folder was created and never received a single file. Uploads
+had been dead for a month; the September rollover just made it visible again.
+
+
+=============================================================================
+ROOT CAUSE
+=============================================================================
+WordPress stores uploads in uploads/YYYY/MM. The folder for the current month
+is created on demand by wp_upload_dir(), and it is owned by whichever OS user
+happened to trigger that call first.
+
+On this server (Coolify, Docker, official wordpress image) Apache/PHP runs as
+www-data (uid 33). But a scheduled job running as ROOT bootstraps WordPress at
+midnight UTC. On the 1st of each month that job is the first thing to call
+wp_upload_dir() after the rollover, so ROOT creates the month folder:
+
+    drwxr-xr-x 12 33 33  wp-content/uploads
+    drwxr-xr-x  6 33 33  wp-content/uploads/2026
+    drwxr-xr-x  2 33 33  wp-content/uploads/2026/07   <- last working month
+    drwxr-xr-x  2  0  0  wp-content/uploads/2026/08   <- root
+    drwxr-xr-x  2  0  0  wp-content/uploads/2026/09   <- root
+
+    created 2026-08-01 00:00:03 UTC
+    created 2026-09-01 00:00:05 UTC   (3-5s after month rollover, both times)
+
+At 0755 root:root, www-data can read the folder but cannot write into it. So
+for the rest of that month every upload fails — and it fails LATE, in
+_wp_handle_upload(), which is why the message is "could not be moved" and not
+"unable to create directory". Those two folders were the ONLY root-owned
+entries in the entire wp-content tree.
+
+Why it is easy to misdiagnose:
+  - "could not be moved" is normally caused by a full disk. Disk was 26% used,
+    inodes 8% — completely healthy.
+  - wp-content/uploads itself was fine and writable; Elementor was still
+    writing CSS into uploads/elementor/css on Aug 12. Only the month folder
+    was poisoned.
+  - The admin UI, the REST API and the mobile app all fail identically, which
+    makes it look like an app or API problem. It is neither.
+
+
+=============================================================================
+THE FIX (applied Sep 2, 2026)
+=============================================================================
+Run on the Coolify host as root (container name from `docker ps`):
+
+1) Hand the poisoned folders back to www-data:
+
+   docker exec wordpress-vfstrnnhfhwg6pc59sh9llif \
+     chown -R www-data:www-data \
+       /var/www/html/wp-content/uploads/2026/08 \
+       /var/www/html/wp-content/uploads/2026/09
+
+2) Verify PHP can now write there:
+
+   docker exec wordpress-vfstrnnhfhwg6pc59sh9llif \
+     su -s /bin/sh www-data -c 'touch /var/www/html/wp-content/uploads/2026/09/_wtest \
+       && echo WRITE_OK && rm -f /var/www/html/wp-content/uploads/2026/09/_wtest'
+
+   -> WRITE_OK   (confirmed)
+
+3) Pre-create every month folder through Dec 2027 AS www-data, so that even if
+   a root job fires first at a future rollover, the folder already exists and
+   is already owned correctly:
+
+   docker exec -u www-data wordpress-vfstrnnhfhwg6pc59sh9llif sh -c \
+     'for m in 10 11 12; do mkdir -p /var/www/html/wp-content/uploads/2026/$m; done; \
+      for m in 01 02 03 04 05 06 07 08 09 10 11 12; do mkdir -p /var/www/html/wp-content/uploads/2027/$m; done'
+
+   Empty month folders are harmless to WordPress.
+
+Nothing was lost. The folders were empty — no upload ever landed, so there
+were no orphaned files and no database rows to clean up.
+
+VERIFIED AFTER THE FIX: `find /var/www/html/wp-content ! -user www-data`
+returns nothing at all. Every month folder 2026/06 -> 2027/12 is 33:33.
+
+
+=============================================================================
+THE REAL FIX — THE ROOT CRON (confirmed Sep 2, 2026)
+=============================================================================
+Step 3 is a safety net, not a cure. The culprit is this line in ROOT'S CRONTAB
+on the host (`sudo crontab -l`), added ~Jul 20, 2026 — ten days before uploads
+broke:
+
+    */5 * * * * docker exec wordpress-vfstrnnhfhwg6pc59sh9llif php /var/www/html/wp-cron.php >/dev/null 2>&1
+
+It runs every 5 minutes AS ROOT inside the container. At 00:00 on the 1st of
+the month there is no shopper traffic to beat it, so it is the first process
+to call wp_upload_dir() after the rollover and the new folder inherits root.
+
+FIX — add `-u www-data` so it runs as the same user Apache does:
+
+    crontab -l > /root/crontab.backup-$(date +%F)
+    crontab -l | sed 's#docker exec wordpress-vfstrnnhfhwg6pc59sh9llif php#docker exec -u www-data wordpress-vfstrnnhfhwg6pc59sh9llif php#' | crontab -
+    crontab -l | tail -2
+
+Verify ~10 minutes later — this must stay empty:
+
+    docker exec wordpress-vfstrnnhfhwg6pc59sh9llif \
+      find /var/www/html/wp-content ! -user www-data
+
+RELATED: `DISABLE_WP_CRON` is NOT defined in wp-config.php, so WP-Cron is also
+still firing on every page load. That defeats the point of the external cron
+and doubles the work. Once the cron line runs as www-data, add to wp-config.php
+above the "That's all, stop editing" line:
+
+    define('DISABLE_WP_CRON', true);
+
+ALSO: the cron line ends in `>/dev/null 2>&1`, so if it ever starts failing
+nobody will find out. Consider `>> /var/log/wp-cron.log 2>&1` instead.
+
+Rule of thumb for this stack: NEVER run anything that bootstraps WordPress as
+root inside the container. Always `docker exec -u www-data`.
+
+
+=============================================================================
+IF IT EVER HAPPENS AGAIN — 30-SECOND TRIAGE
+=============================================================================
+1. Do NOT start with disk space or plugins. Check ownership first:
+
+     docker exec wordpress-<id> ls -ldn /var/www/html/wp-content/uploads/$(date +%Y)/$(date +%m)
+
+   Anything other than `33 33` is the bug. Fix with chown -R www-data:www-data.
+
+2. Confirm with a real write test as www-data (step 2 above).
+
+3. Only if ownership is correct, then check `df -h` / `df -i`, `/tmp` writable,
+   open_basedir, and upload_max_filesize (currently 64M via the Coolify
+   uploads.ini bind mount).
+
+4. Useful outside-in probe that needs no server access: an EXISTING uploads
+   folder returns HTTP 403 (Options -Indexes), a MISSING one returns 404. So
+   `curl -o /dev/null -w "%{http_code}" https://otakustoreng.com/wp-content/uploads/2026/09/`
+   tells you whether the folder exists before you log in anywhere.
+
+
+=============================================================================
+SERVER REFERENCE (for the next incident)
+=============================================================================
+Host      : server.0xsherif.dev — Coolify v4.3.14, Debian, TZ CEST
+Project   : Root Team / Otakustoreng / production / service "minimog-wp"
+Containers: wordpress-vfstrnnhfhwg6pc59sh9llif  (wordpress:latest,
+            Apache 2.4.68, PHP 8.3.32, container TZ = UTC)
+            mariadb-vfstrnnhfhwg6pc59sh9llif    (mariadb:11)
+Site files: docker volume vfstrnnhfhwg6pc59sh9llif_wordpress-files
+            -> /var/www/html   (NOT a bind mount)
+PHP config: /data/coolify/services/vfstrnnhfhwg6pc59sh9llif/uploads.ini
+Edge      : Cloudflare in front of Traefik
+Web user  : www-data = uid 33 / gid 33
+
+
+=============================================================================
+UNRELATED BUG FOUND IN THE SAME LOGS — NOT YET FIXED
+=============================================================================
+Multi-category shop filters return HTTP 500 to real customers:
+
+  /shop/                                        -> 200
+  /shop/?filter_product_cat=2334&filtering=1    -> 200
+  /shop/?filter_product_cat=<9 category ids>&filtering=1 -> 500
+
+  PHP Fatal error: Allowed memory size of 268435456 bytes exhausted
+    in wp-includes/class-wpdb.php and wp-includes/functions.php
+
+With 890 products the filter query blows the 256M memory_limit as soon as a
+shopper ticks several categories at once. Stopgap: raise memory_limit to 512M
+in the Coolify uploads.ini and restart the service. Note there are TWO limits
+and both are currently 256M — raise both:
+
+  /data/coolify/services/vfstrnnhfhwg6pc59sh9llif/uploads.ini  ->  memory_limit
+  wp-config.php line 131                                       ->  WP_MEMORY_LIMIT
+
+Real fix: the filter query itself. Tracked separately.

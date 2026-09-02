@@ -1,0 +1,275 @@
+OTAKU STORE NG — FIX: filtered shop pages returning HTTP 500
+(memory exhausted) — Sep 2, 2026
+=============================================================================
+Symptom: /shop/ with more than one category ticked returns a blank 500 page.
+
+  /shop/                                             -> 200
+  /shop/?filter_product_cat=2334&filtering=1         -> 200
+  /shop/?filter_product_cat=<9 category ids>&filtering=1 -> 500
+
+  PHP Fatal error: Allowed memory size of 268435456 bytes exhausted
+    (tried to allocate 12587008 / 26678914 bytes)
+    in wp-includes/functions.php:630        <- maybe_unserialize()
+    in wp-includes/class-wpdb.php:1277      <- reading the query result
+
+In the last 6 hours: 5,555 filtered requests, 3,871 of them 500 (70%).
+
+STATUS: root cause identified. NOT the filter query, NOT the theme, NOT the
+890-product catalogue. A WooCommerce cache had grown to 25 MB.
+
+
+=============================================================================
+ROOT CAUSE — a WooCommerce transient with no upper bound
+=============================================================================
+Two rows in wp_options:
+
+  _transient_wc_layered_nav_counts_pa_color   12.87 MB   163,857 entries
+  _transient_wc_layered_nav_counts_pa_size    12.73 MB    62,142 entries
+
+wp_options as a whole is 48.8 MB across only 6,545 rows. Those two rows are
+essentially all of it.
+
+WooCommerce caches the product counts shown next to each filter option. The
+code is in
+wp-content/plugins/woocommerce/src/Internal/ProductAttributesLookup/Filterer.php
+(lines ~193-210):
+
+    $query_hash    = md5( $query_sql );
+    $cached_counts = (array) get_transient( 'wc_layered_nav_counts_' . $taxonomy );
+
+    if ( ! isset( $cached_counts[ $query_hash ] ) ) {
+        $results                      = $wpdb->get_results( $query_sql, ARRAY_A );
+        $counts                       = array_map( 'absint', wp_list_pluck( ... ) );
+        $cached_counts[ $query_hash ] = $counts;
+        set_transient( 'wc_layered_nav_counts_' . $taxonomy, $cached_counts, DAY_IN_SECONDS );
+    }
+
+Three things compound:
+
+  1. ONE ENTRY PER DISTINCT FILTER COMBINATION. The key is md5 of the count
+     SQL, and the SQL changes with every different set of ticked categories.
+     N categories = 2^N possible combinations.
+  2. IT IS NEVER TRIMMED. Entries are only ever added.
+  3. IT NEVER EXPIRES. set_transient() rewrites the 24h TTL on every single
+     write, so as long as new combinations keep arriving the clock keeps
+     resetting. Confirmed: the timeout row was 24h in the future at the moment
+     we looked at it.
+
+So the array grew to 163,857 entries / 12.87 MB. Now EVERY render of the
+filter widget does:
+
+    read 12.87 MB from wp_options   (class-wpdb.php:1277)
+  + maybe_unserialize() it          (functions.php:630)
+  + the same again for pa_size
+
+Unserialising a 12.8 MB string costs several times its size in PHP memory. Two
+of them blow the 256 MB limit before the page even starts rendering. Note the
+allocation size in the fatal — 12,587,008 bytes — matches the option size.
+
+It is a feedback loop: more distinct filter combinations -> bigger transient
+-> more 500s.
+
+
+=============================================================================
+WHAT IS GENERATING 163,857 COMBINATIONS — a scraper
+=============================================================================
+Real shoppers do not produce six figures of unique filter combinations. From
+the Apache logs, last 6 hours:
+
+  5,555 requests containing filter_product_cat
+  4,741 of them a UNIQUE combination      <- 85% never repeated
+  Referer: "-" on all of them
+  User agents: Chrome/139 through Chrome/148, rotating per request
+               (Chrome 148 does not exist — the UA strings are fabricated)
+
+That is a scraper walking the filter permutation space. Because the site is
+behind Cloudflare, the origin only ever sees Cloudflare edge IPs
+(104.22.x, 172.69.x, 162.158.x ...), so blocking by IP at the origin is
+pointless — it has to be handled at Cloudflare.
+
+Same cause, second symptom: wp_woocommerce_sessions is 59,071 rows / 36 MB.
+Each bot hit opens a WooCommerce session. That will drain itself once the
+crawl is stopped; do NOT bulk-delete it, the rows are unexpired and real
+shoppers' carts are in there.
+
+
+=============================================================================
+THE FIX
+=============================================================================
+STEP 1 — delete the two runaway transients (immediate relief, safe: they are
+caches, WooCommerce rebuilds them on demand):
+
+  cat > /tmp/fix-lnav.sql <<'SQL'
+  DELETE FROM wp_options WHERE option_name IN (
+    '_transient_wc_layered_nav_counts_pa_color',
+    '_transient_timeout_wc_layered_nav_counts_pa_color',
+    '_transient_wc_layered_nav_counts_pa_size',
+    '_transient_timeout_wc_layered_nav_counts_pa_size');
+  OPTIMIZE TABLE wp_options;
+  SQL
+
+  docker exec -i mariadb-vfstrnnhfhwg6pc59sh9llif \
+    sh -c 'mariadb -u root -p$MYSQL_ROOT_PASSWORD $MYSQL_DATABASE' < /tmp/fix-lnav.sql
+
+OPTIMIZE TABLE reclaims the ~48 MB on disk (InnoDB rebuilds the table).
+
+
+STEP 2 — cap the cache so it cannot grow back. WordPress fires
+`pre_set_transient_{$transient}` just before a transient is written, so the
+array can be trimmed on the way out. Install as an mu-plugin, CREATED AS
+www-data (see 13_UPLOAD_PERMISSION_FIX.txt for why that matters):
+
+  docker exec -u www-data wordpress-vfstrnnhfhwg6pc59sh9llif \
+    mkdir -p /var/www/html/wp-content/mu-plugins
+
+  docker exec -i -u www-data wordpress-vfstrnnhfhwg6pc59sh9llif \
+    tee /var/www/html/wp-content/mu-plugins/osn-layered-nav-cache-guard.php >/dev/null <<'PHP'
+  <?php
+  /**
+   * Plugin Name: OSN - layered nav count cache guard
+   * Description: Bounds WooCommerce's wc_layered_nav_counts_* transients. Without
+   *              this they grow one entry per distinct filter combination, never
+   *              expire, and eventually exhaust PHP's memory limit on every shop
+   *              page render. See content/14_SHOP_FILTER_500_FIX.txt.
+   */
+
+  defined( 'ABSPATH' ) || exit;
+
+  const OSN_LAYERED_NAV_CACHE_MAX = 200;
+
+  function osn_cap_layered_nav_counts( $value ) {
+      if ( is_array( $value ) && count( $value ) > OSN_LAYERED_NAV_CACHE_MAX ) {
+          // Keep the most recently written entries.
+          $value = array_slice( $value, -OSN_LAYERED_NAV_CACHE_MAX, null, true );
+      }
+      return $value;
+  }
+
+  add_action( 'init', function () {
+      $taxonomies = array( 'product_brand' );
+
+      if ( function_exists( 'wc_get_attribute_taxonomy_names' ) ) {
+          $taxonomies = array_merge( $taxonomies, wc_get_attribute_taxonomy_names() );
+      }
+
+      foreach ( $taxonomies as $taxonomy ) {
+          add_filter(
+              'pre_set_transient_wc_layered_nav_counts_' . sanitize_title( $taxonomy ),
+              'osn_cap_layered_nav_counts'
+          );
+      }
+  }, 20 );
+  PHP
+
+Why a cap rather than switching the cache off: WooCommerce does expose
+`woocommerce_layered_nav_count_maybe_cache` (return false to bypass the
+transient entirely), but that runs the count query on every render forever.
+Capping keeps the cache useful for the handful of combinations real shoppers
+actually use, while making the worst case ~100 KB instead of 12.87 MB.
+
+200 entries x ~500 bytes = ~100 KB. Adjust OSN_LAYERED_NAV_CACHE_MAX if
+needed.
+
+Verify:
+
+  curl -s -o /dev/null -w "%{http_code}\n" \
+    "https://otakustoreng.com/shop/?filter_product_cat=2334%2C2840%2C3013%2C3012%2C3021%2C2250%2C1773%2C3020%2C1494&filtering=1"
+  -> expect 200
+
+  ...then re-check the size a day later; it must stay small:
+  SELECT option_name, ROUND(LENGTH(option_value)/1024,1) kb
+  FROM wp_options WHERE option_name LIKE '%wc_layered_nav_counts%';
+
+
+STEP 3 — stop the scraper at Cloudflare (the actual root cause). The origin
+cannot see the real client IP, so this must be a Cloudflare rule. A rate limit
+is better than an outright block, because real customers do use the filters:
+
+  Cloudflare > Security > WAF > Rate limiting rules
+    If  (http.request.uri.query contains "filter_product_cat")
+        and not cf.client.bot
+    Then  Managed Challenge
+    Rate  ~10 requests per minute per IP
+
+Do NOT block filter URLs outright and do not rely on robots.txt — robots.txt
+on this domain is currently Cloudflare's managed AI-bot file, and this crawler
+forges its user agent and sends no referer, so it would ignore robots.txt
+anyway.
+
+
+=============================================================================
+VERIFIED AFTER THE FIX (Sep 2, 2026, 09:05 UTC)
+=============================================================================
+filter_product_cat requests per minute, from the Apache log, either side of
+the mu-plugin going in at 09:04:
+
+    08:54    24 x 200    55 x 500
+    08:55    14 x 200    52 x 500
+    08:58    20 x 200    44 x 500
+    09:03    23 x 200    41 x 500
+    09:04    39 x 200    31 x 500   <- guard installed
+    09:05    73 x 200     0 x 500
+    09:06    84 x 200     0 x 500
+    09:07    76 x 200     0 x 500
+    09:08    48 x 200     0 x 500
+
+Zero 500s, at a HIGHER request rate than before — the scraper's requests now
+succeed instead of erroring. Last entry in wc-logs/fatal-errors-2026-09-02 is
+09:04:37; nothing after it.
+
+The cap holds. After deliberately firing 40 fresh unique filter combinations
+at the site:
+
+    _transient_wc_layered_nav_counts_pa_color   21.0 KB   200 entries
+    _transient_wc_layered_nav_counts_pa_size    58.4 KB   200 entries
+
+(was 12.87 MB / 163,857 entries and 12.73 MB / 62,142 entries)
+
+    wp_options on disk   48.8 MB  ->  8.1 MB
+    sum(option_value)    31.2 MB  ->  5.7 MB
+
+Page checks:
+
+    /                                   200   2.5s
+    /shop/                              200   2.0s
+    /cart/                              200   1.8s
+    /checkout/                          302   0.9s  (redirect, empty cart)
+    /shop/?filter_product_cat=<9 ids>   200   1.8s  <- was a hard 500
+
+The mu-plugin was verified on disk: 964 bytes, owned www-data:www-data,
+`php -l` clean.
+
+
+=============================================================================
+OPTIONAL — make the filter query itself cheaper
+=============================================================================
+WooCommerce's product attributes lookup table is currently DISABLED:
+
+  woocommerce_attribute_lookup_enabled = no
+  wp_wc_product_attributes_lookup      = 2,384 rows (partially populated)
+
+With it off, the filter count query falls back to the heavy postmeta /
+term_relationships join (get_product_counts_query_not_using_lookup_table()).
+Turning it on makes every filtered shop page materially faster:
+
+  WooCommerce > Status > Tools > "Regenerate the product attributes lookup table"
+  then WooCommerce > Settings > Products > Advanced > enable the lookup table
+
+Do the regeneration first, and expect it to run as a background Action
+Scheduler job. Worth doing AFTER steps 1-3 are confirmed working, so the two
+changes are not entangled.
+
+
+=============================================================================
+ON RAISING memory_limit
+=============================================================================
+Raising the limit does NOT fix this — the transient grows without bound, so a
+bigger limit just buys time before the same 500s return. Fix the cause first.
+
+If you do want headroom afterwards, note there are TWO ceilings and both are
+currently 256M; raising one alone does nothing:
+
+  /data/coolify/services/vfstrnnhfhwg6pc59sh9llif/uploads.ini  ->  memory_limit
+  wp-config.php                                                ->  WP_MEMORY_LIMIT
+
+Restart the service in Coolify after editing uploads.ini.

@@ -1,0 +1,84 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Dragon eye ring
+SLUG         : dragon-eye-ring
+BUMPA ID     : 3050669
+WOO TYPE     : variable
+PARENT SKU   : OSN-3050669
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Rings
+  - Shop by Anime > Hunter x Hunter
+
+TAGS: dragon eye ring, Hunter x Hunter ring, anime ring, stainless steel ring, anime jewellery, cosplay ring, blue dragon ring, purple anime ring
+FRANCHISE: Hunter x Hunter    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,500
+Total stock   : 36
+VARIATIONS (attribute: Color)
+  Blue           | ₦4,500 | stock 16   | SKU OSN-3050669-BLUE
+  Purple         | ₦4,500 | stock 20   | SKU OSN-3050669-PURPLE
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+A dragon's gaze, forged for your hand.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel Hunter x Hunter energy with this anime-inspired Dragon Eye ring. Stainless steel build with a deep enamel dragon-eye stone in Blue or Purple. Polished, tarnish-resistant, and built for everyday wear. Pick your size and own the look.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some stares cut sharper than any blade. The Dragon Eye ring captures that exact intensity, a fan-favourite Hunter x Hunter-inspired piece centred on a glowing dragon-eye stone that seems to follow the room. Available in cold Blue or shadowed Purple, it brings quiet menace to your knuckle without screaming for attention.</p>
+<p>Built from polished stainless steel for everyday durability, it pairs just as easily with a hoodie-and-chain fit as it does with full cosplay. Wear it solo for a statement, or stack it with the rest of your roster.</p>
+<ul>
+<li>Anime-inspired Dragon Eye design (fan-made, not affiliated with or endorsed by any rights holder)</li>
+<li>Material: stainless steel / alloy with set enamel dragon-eye centrepiece</li>
+<li>Finish: polished, tarnish-resistant for daily wear</li>
+<li>Colour options: Blue, Purple</li>
+<li>Sizing: choose your standard ring size at checkout</li>
+<li>Unisex fit, suitable for everyday styling or cosplay</li>
+<li>Care: wipe clean with a soft cloth; keep away from harsh chemicals and prolonged moisture</li>
+<li>Includes: 1x Dragon Eye ring</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Hunter x Hunter-inspired dragon-eye design with a piercing, lifelike stare
+  • Polished stainless steel build, tarnish-resistant for everyday wear
+  • Two moods to choose from: cold Blue or shadowed Purple
+  • Standard ring sizes, you pick your fit at checkout
+  • Unisex statement piece for daily styling or cosplay
+  • Fan-made and anime-inspired, not affiliated with any rights holder
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (44 chars)        : Dragon Eye Ring | Hunter x Hunter Anime Ring
+Meta Description (147 chars) : Anime-inspired Dragon Eye ring in stainless steel, Blue or Purple. Polished, tarnish-resistant, pick your size. Ships from Nigeria, nationwide and.
+Focus keyword                       : dragon eye ring
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Anime-inspired Dragon Eye stainless steel ring with a glowing blue dragon-eye stone set in the band
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product studio shot of a stainless steel Dragon Eye ring on a paper-white #FAFAFA backdrop, ink-black #111111 shadows, single manga-red #E2261C accent. Macro focus on the glowing dragon-eye enamel stone, halftone dot texture, sharp speed lines radiating from the ring, fine ink splatter at the edges, framed inside a clean manga panel border. Premium, cinematic, high-contrast inked lighting.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

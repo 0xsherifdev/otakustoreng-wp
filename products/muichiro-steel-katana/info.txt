@@ -1,0 +1,82 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Muichiro steel katana
+SLUG         : muichiro-steel-katana
+BUMPA ID     : 4026239
+WOO TYPE     : simple
+PARENT SKU   : OSN-4026239
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Katana & Weapons
+  - Shop by Anime > Demon Slayer
+
+TAGS: Muichiro katana, Demon Slayer katana, Mist Hashira sword, anime katana, cosplay katana, display katana, Kimetsu no Yaiba, Muichiro Tokito, collectible katana
+FRANCHISE: Demon Slayer    CHARACTER: Muichiro Tokito
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦98,000
+Total stock   : 500
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The Mist Hashira's blade, forged for display
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A fan-made replica of Muichiro Tokito's Mist Hashira blade, built for display, cosplay and collecting. Steel-look blade, themed handle wrap and matching scabbard bring the Demon Slayer roster to your shelf. Display only, not affiliated.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the Mist Hashira. This Muichiro Tokito-inspired katana is a decorative collector and cosplay piece, recreating the clean lines and pale-mist styling of one of Demon Slayer's quietest, deadliest swordsmen. Mount it on the wall, stage it for a shoot, or finish off your Hashira lineup in style.</p>
+<p>Built as a display prop rather than a functional weapon, it pairs a steel-look blade with a themed handle wrap and matching scabbard for a premium presence on any shelf or stand. A fan / anime-inspired piece, not official and not affiliated with the franchise.</p>
+<ul>
+<li>Themed after Muichiro Tokito's Mist Hashira blade from Demon Slayer (Kimetsu no Yaiba)</li>
+<li>Decorative display and cosplay katana — collector prop, not a functional weapon</li>
+<li>Stainless / alloy steel-look blade with a styled fuller and edge profile</li>
+<li>Wrapped tsuka (handle) with themed guard and pommel detailing</li>
+<li>Matching saya (scabbard) for clean display and storage</li>
+<li>Ideal for wall mounts, display stands, photography and convention cosplay</li>
+<li>Keep away from children; follow your local laws on bladed display items</li>
+<li>Fan / anime-inspired design — not official or licensed</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Muichiro Tokito Mist Hashira styling
+  • Steel-look blade with themed tsuka and saya
+  • Built for display, cosplay and collecting
+  • Premium prop for shelves, wall mounts and shoots
+  • Fan / anime-inspired, not official
+  • Keep away from children; follow local blade laws
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (52 chars)        : Muichiro Steel Katana | Demon Slayer Display Replica
+Meta Description (147 chars) : Muichiro Tokito steel-look display katana from Demon Slayer. Fan-made replica for cosplay and collecting, with themed handle and scabbard. ₦98,000.
+Focus keyword                       : Muichiro katana
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Muichiro Tokito-inspired Demon Slayer display katana with steel-look blade, wrapped handle and matching scabbard
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product studio shot of a Muichiro Tokito-inspired display katana resting on a black stand. Ink black #111111 background, paper white #FAFAFA mist haze, single manga-red #E2261C accent on the cord wrap. Halftone dot texture, dynamic speed lines, ink splatter framing manga panels. Cinematic rim light catching the steel-look blade and wrapped tsuka, scabbard angled beside it. Premium collector aesthetic, high contrast, sharp detail.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

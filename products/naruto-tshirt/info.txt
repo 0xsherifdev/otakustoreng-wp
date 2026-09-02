@@ -1,0 +1,81 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Naruto Tshirt
+SLUG         : naruto-tshirt
+BUMPA ID     : 1507025
+WOO TYPE     : simple
+PARENT SKU   : OSN-1507025
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+  - Shop by Anime > Naruto
+
+TAGS: Naruto, Naruto t-shirt, Naruto Uzumaki, Kurama, anime t-shirt, anime graphic tee, Hidden Leaf, unisex anime shirt
+FRANCHISE: Naruto    CHARACTER: Naruto Uzumaki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦12,000
+Total stock   : 96
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Sage-mode style, ramen-shop comfort.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel the Hidden Leaf's loudest ninja in this Naruto-inspired graphic tee. Soft, breathable cotton, unisex regular fit, and a bold Uzumaki x Kurama print built to survive every wash without fading.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Believe it. This Naruto Uzumaki graphic tee puts the Hidden Leaf's number-one knucklehead ninja front and centre, complete with the iconic forehead protector and Kurama, the Nine-Tails, snarling beneath. The bold "UZUMAKI" lettering finishes a print made for fans who wear the roster loud and proud.</p>
+<p>Cut for everyday rotation, it pairs a soft, breathable handfeel with a clean unisex shape that layers easily or stands alone. The print is fade-resistant, so the colours stay sharp from the first wear to the hundredth.</p>
+<ul>
+<li>Anime-inspired Naruto Uzumaki and Kurama front graphic with "UZUMAKI" text</li>
+<li>Soft, breathable cotton for all-day comfort</li>
+<li>Unisex regular fit with a classic crew neckline</li>
+<li>Durable, fade-resistant print that holds colour wash after wash</li>
+<li>Available in white, black, blue, pink and purple</li>
+<li>Machine wash cold, inside-out; do not tumble dry on high heat</li>
+<li>Fan-made, anime-inspired design; not affiliated with or endorsed by the rights holders</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Naruto Uzumaki and Kurama front graphic with bold UZUMAKI lettering
+  • Soft, breathable cotton in a unisex regular fit
+  • Classic crew neck that layers or stands alone
+  • Fade-resistant print built to survive every wash
+  • Choose from white, black, blue, pink or purple
+  • Fan-made anime-inspired design, not an official product
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (42 chars)        : Naruto Uzumaki T-Shirt | Anime Graphic Tee
+Meta Description (147 chars) : Naruto Uzumaki x Kurama anime-inspired graphic tee. Soft cotton, unisex fit, fade-resistant print. In white, black, blue, pink, purple. Ships NG +.
+Focus keyword                       : Naruto t-shirt
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black Naruto Uzumaki graphic t-shirt showing Naruto in his Hidden Leaf headband above a snarling Kurama fox, with blue UZUMAKI lettering.
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a black anime graphic t-shirt featuring a Naruto-inspired ninja face above a snarling nine-tailed fox. Ink black #111111 background, paper white #FAFAFA negative space, single manga-red #E2261C accent slashing across the frame. Halftone dot shading, dynamic speed lines, ink splatter, framed manga panels. Tee folded and floating on an invisible mannequin, premium cinematic studio lighting, sharp focus on the fade-resistant print, high contrast, magazine-quality, no text watermarks.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

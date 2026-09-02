@@ -1,0 +1,78 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Yuno And Asta Hoodie
+SLUG         : yuno-and-asta-hoodie
+BUMPA ID     : 2964491
+WOO TYPE     : variable
+PARENT SKU   : OSN-2964491
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+
+TAGS: Yuno and Asta hoodie, Black Clover hoodie, Black Clover merch, Asta hoodie, Yuno hoodie, anime hoodie, anime streetwear, manga print hoodie
+FRANCHISE: Black Clover    CHARACTER: Yuno and Asta
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦18,500
+Total stock   : 800
+VARIATIONS (attribute: Size & Material)
+  L-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964491-LTHICKCOTTON
+  L-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964491-LTHICKPOLYESTER
+  Xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964491-XLTHICKCOTTON
+  Xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964491-XLTHICKPOLYESTER
+  2xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964491-2XLTHICKCOTTON
+  2xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964491-2XLTHICKPOLYESTER
+  3xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964491-3XLTHICKCOTTON
+  3xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964491-3XLTHICKPOLYESTER
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Two rivals. One Wizard King dream.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Carry the Black Bulls' fiercest rivalry on a brushed-fleece pullover. A split-panel print pits Asta against Yuno across the chest, with bold red gothic lettering down both sleeves. Unisex streetwear fit, your pick of thick cotton or polyester.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Anti-magic versus wind magic, side by side. This Yuno and Asta hoodie splits the chest into a sharp manga panel: Asta mid-roar with his demon markings on the left, Yuno cool and unbothered with his grimoire crest on the right. Red gothic lettering streaks down both sleeves so the look hits from every angle, while the deep black base keeps it clean enough for daily rotation.</p><p>Built for comfort as much as flex, with a brushed-fleece interior, ribbed cuffs and hem, and a roomy kangaroo pocket. The unisex streetwear cut layers easy over tees and falls clean on its own. A fan-made, anime-inspired piece for Black Clover diehards chasing the Wizard King dream. Not affiliated with or endorsed by the rights holders.</p><ul><li>Pullover hoodie with split-panel Asta and Yuno chest print and red gothic sleeve graphics</li><li>Brushed-fleece interior for warmth and softness</li><li>Ribbed cuffs and hem; drawstring hood; front kangaroo pocket</li><li>Unisex streetwear fit</li><li>Fabric choice: thick cotton or thick polyester</li><li>Sizes: L, XL, 2XL, 3XL</li><li>Care: machine wash cold, inside-out; hang or low-tumble dry to protect the print</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Split-panel Asta vs Yuno manga print across the chest
+  • Red gothic lettering down both sleeves
+  • Brushed-fleece interior with ribbed cuffs and hem
+  • Choose thick cotton or thick polyester
+  • Unisex streetwear fit, sizes L to 3XL
+  • Fan-made, anime-inspired Black Clover design
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (48 chars)        : Yuno and Asta Hoodie | Black Clover Anime Hoodie
+Meta Description (148 chars) : Black Clover Yuno and Asta hoodie with split-panel chest print and red sleeve graphics. Brushed fleece, unisex fit, cotton or polyester. Ships from.
+Focus keyword                       : Yuno and Asta hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black Black Clover pullover hoodie with a split manga panel of Asta and Yuno on the chest and red gothic lettering down both sleeves
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a black anime pullover hoodie on an invisible mannequin, centered. Chest features a split manga panel: Asta snarling with dark facial markings on the left, Yuno calm with a grimoire crest on the right; bold manga-red (#E2261C) gothic lettering runs down both sleeves. Background ink black #111111 with paper white #FAFAFA halftone dots, diagonal speed lines and a single ink-splatter accent framing the garment in a manga panel border. Cinematic rim lighting, premium streetwear catalog feel, single manga-red accent only. High detail, sharp focus.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

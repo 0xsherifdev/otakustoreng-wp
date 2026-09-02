@@ -1,0 +1,86 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Demon Slayer Katana 03
+SLUG         : demon-slayer-katana-03
+BUMPA ID     : 1145026
+WOO TYPE     : variable
+PARENT SKU   : OSN-1145026
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Katana & Weapons
+  - Shop by Anime > Demon Slayer
+
+TAGS: Shinobu Kocho katana, Demon Slayer katana, Nichirin blade replica, Insect Hashira sword, anime cosplay katana, display katana, butterfly tsuba katana, Demon Slayer cosplay prop
+FRANCHISE: Demon Slayer    CHARACTER: Shinobu Kocho
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦40,000
+Total stock   : 197
+VARIATIONS (attribute: Material)
+  Steel          | ₦98,000 | stock 98   | SKU OSN-1145026-STEEL
+  Wooden         | ₦40,000 | stock 99   | SKU OSN-1145026-WOODEN
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Shinobu's butterfly Nichirin blade, built for display
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel the Insect Hashira with this Shinobu Kocho-inspired Nichirin katana. Signature butterfly tsuba, pink-gradient blade and crisp white saya make it a standout cosplay prop and shelf-worthy collector centrepiece for any Demon Slayer fan.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Wear the roster on your shelf. This Demon Slayer-inspired katana recreates Shinobu Kocho's iconic Nichirin blade in striking detail, from the orange-and-blue butterfly tsuba to the black handle wrap laced with hot-pink diamonds. The slender blade fades from soft white into Shinobu's signature pink, sheathed in a clean white saya that looks just as sharp on a display stand as it does on stage.</p>
+<p>Built as a decorative collector and cosplay display piece, it's the kind of statement prop that turns a shelf into a shrine. Choose your finish and bring the Insect Hashira's grace home.</p>
+<ul>
+<li>Character: Shinobu Kocho (the Insect Hashira), Demon Slayer-inspired fan design</li>
+<li>Material options: Steel blade or Wooden blade</li>
+<li>Approx. total length with scabbard: 104cm</li>
+<li>Approx. weight: 1.2kg (steel version)</li>
+<li>Signature details: butterfly-shaped tsuba, black-and-pink wrapped tsuka, pink-to-white gradient blade, white saya</li>
+<li>Steel version includes a display stand and sword belt</li>
+<li>Wooden version does not include the stand or belt</li>
+<li>Intended use: display, cosplay and collecting only</li>
+<li>Care: wipe with a soft dry cloth; keep away from moisture to protect the finish</li>
+<li>Keep out of reach of children; please follow your local laws on bladed display items</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Shinobu Kocho's signature butterfly tsuba and pink-gradient Nichirin blade
+  • Approx. 104cm total length with scabbard for a true display presence
+  • Choose Steel for heft and shine, or Wooden for a lighter cosplay carry
+  • Steel version ships with a display stand and sword belt
+  • Crisp white saya and pink-laced handle wrap, faithful to the Insect Hashira
+  • Fan-made collector and cosplay prop, anime-inspired and not affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (49 chars)        : Shinobu Kocho Katana | Demon Slayer Display Sword
+Meta Description (154 chars) : Shinobu Kocho-inspired Demon Slayer katana with butterfly tsuba and pink blade. Steel or wooden, approx 104cm, display stand included. Ships from Nigeria.
+Focus keyword                       : Shinobu Kocho katana
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Shinobu Kocho-inspired Demon Slayer Nichirin katana with butterfly-shaped tsuba, pink-and-black handle wrap, pink-gradient blade and white scabbard
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a Shinobu Kocho-inspired Demon Slayer display katana resting on a sleek black stand. Ink-black #111111 background with paper-white #FAFAFA halftone dots and dynamic speed lines radiating outward; a single manga-red #E2261C ink splatter accent framing the butterfly-shaped tsuba. Cinematic rim lighting catches the pink-to-white gradient blade and the black-and-pink wrapped handle; the white saya laid beside it. Premium manga-panel composition, high contrast, crisp shadows, collectible-prop hero shot.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

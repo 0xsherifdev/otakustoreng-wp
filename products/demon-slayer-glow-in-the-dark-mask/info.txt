@@ -1,0 +1,72 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Demon Slayer Glow In The Dark Mask
+SLUG         : demon-slayer-glow-in-the-dark-mask
+BUMPA ID     : 1259335
+WOO TYPE     : simple
+PARENT SKU   : OSN-1259335
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Masks
+  - Shop by Anime > Demon Slayer
+
+TAGS: Demon Slayer mask, glow in the dark mask, anime mask, Demon Slayer cosplay, anime cosplay mask, Demon Slayer merch, glow mask, otaku gear
+FRANCHISE: Demon Slayer    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦15,000
+Total stock   : 30
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Lights out, the hunt begins
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A Demon Slayer-inspired face mask that charges in light and glows in the dark. Bold manga-style artwork, comfortable fit and adjustable straps make it perfect for cosplay, conventions and everyday fan flexing.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Charge it under any light, kill the switch and watch your Demon Slayer-inspired mask come alive in the dark. Built for slayers who want their roster on full display, this fan-made mask pairs bold manga-style artwork with a glow-in-the-dark finish that turns every late-night con run, cosplay shoot or street fit into a scene.</p><p>The shape sits comfortably over the nose and mouth with adjustable ear straps for a secure, all-night fit. Whether you're completing a cosplay or just repping the series you love, this one earns its place in the rotation.</p><ul><li>Theme: Demon Slayer-inspired, fan-designed artwork (not affiliated, unofficial)</li><li>Feature: glow-in-the-dark print — charge under light, glows in the dark</li><li>Use: cosplay, conventions, display and everyday wear</li><li>Fit: contoured over nose and mouth with adjustable elastic ear straps</li><li>Style: bold manga-inspired graphic finish</li><li>Care: hand wash gently, air dry; avoid harsh chemicals to protect the glow layer</li><li>Includes: 1 x glow-in-the-dark mask</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Glow-in-the-dark print — charges in light, glows in the dark
+  • Demon Slayer-inspired manga-style artwork
+  • Adjustable ear straps for a secure, comfortable fit
+  • Perfect for cosplay, conventions and everyday fan wear
+  • Ships nationwide across Nigeria and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (51 chars)        : Demon Slayer Glow In The Dark Mask | Otaku Store NG
+Meta Description (150 chars) : Demon Slayer-inspired glow-in-the-dark mask. Charges in light, glows after dark. Adjustable fit for cosplay and fan wear. Ships from Nigeria, ₦15,000.
+Focus keyword                       : Demon Slayer glow in the dark mask
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Demon Slayer-inspired glow-in-the-dark face mask with manga-style artwork and adjustable ear straps
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a Demon Slayer-inspired glow-in-the-dark face mask, shown in two halves of one cinematic frame: left side lit in paper white #FAFAFA showing the printed manga-style artwork, right side in ink black #111111 where the print glows with an eerie cyan-green light. Single manga-red #E2261C accent on a slashing speed-line banner, halftone dot texture, ink splatter, sharp manga panel borders. Premium, high-contrast, cinematic lighting, floating product hero composition.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

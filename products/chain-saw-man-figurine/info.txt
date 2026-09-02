@@ -1,0 +1,70 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Chain Saw Man Figurine
+SLUG         : chain-saw-man-figurine
+BUMPA ID     : 1873980
+WOO TYPE     : simple
+PARENT SKU   : OSN-1873980
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Figurines
+  - Shop by Anime > Chainsaw Man
+
+TAGS: Chainsaw Man figurine, Denji figure, Chainsaw Devil, anime figurine, PVC statue, Chainsaw Man merch, anime collectible, otaku figure
+FRANCHISE: Chainsaw Man    CHARACTER: Denji (Chainsaw Man)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦18,000
+Total stock   : 9
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Rev up your shelf with the Chainsaw Devil
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A fan-favourite Chainsaw Man display figure capturing Denji mid-transformation, chainsaw head roaring and blades drawn. Pre-painted PVC on a round display base, posed for maximum impact on any otaku shelf.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>The roar is permanent. This Chainsaw Man figurine freezes Denji at full throttle, the Chainsaw Devil bursting out: chainsaw-blade head wide open, arm-blades extended, white shirt and black tie torn into the fight. Every panel of the sculpt leans into that feral, kinetic energy fans love about Chainsaw Man.</p><p>Pre-painted in crisp detail and mounted on a round display base for a stable, dramatic stance, it is a display statue built for collectors and shelves, not rough play. A standout centrepiece for any anime-inspired collection.</p><ul><li>Anime-inspired collector figurine of Denji in his Chainsaw Devil form</li><li>Sculpted PVC display statue, pre-painted with fine detailing</li><li>Dynamic crouched action pose with chainsaw head and twin arm-blades</li><li>Included round display base for stable, upright presentation</li><li>For shelf and cabinet display only, not a children's toy</li><li>Handle and dust with care to protect the paintwork and fine edges</li><li>Single figure; ships from Nigeria, nationwide and worldwide</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Denji in full Chainsaw Devil mode, chainsaw head roaring
+  • Pre-painted sculpted PVC display statue with sharp detail
+  • Dynamic action pose on an included round display base
+  • Collector-grade centrepiece for any Chainsaw Man shelf
+  • Fan-made, anime-inspired tribute, not affiliated with the official series
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (44 chars)        : Chainsaw Man Denji Figurine | Otaku Store NG
+Meta Description (146 chars) : Chainsaw Man Denji figurine in full Chainsaw Devil mode. Pre-painted PVC display statue on a base. Ships from Nigeria worldwide. Shop for ₦18,000.
+Focus keyword                       : Chainsaw Man figurine
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Chainsaw Man Denji figurine in Chainsaw Devil form with chainsaw head and arm-blades, posed on a round black display base beside its box
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a Chainsaw Man Denji collector figurine in Chainsaw Devil form, chainsaw-blade head roaring and twin arm-blades drawn, crouched action pose on a round black display base. Ink black #111111 background, paper white #FAFAFA rim light, single manga-red #E2261C accent slashing behind the figure. Halftone dot texture, dramatic speed lines and ink-splatter framing the silhouette, manga panel border. Premium, cinematic, high-contrast, sharp focus on the painted PVC detailing.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

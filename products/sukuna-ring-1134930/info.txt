@@ -1,0 +1,84 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Sukuna Ring
+SLUG         : sukuna-ring-1134930
+BUMPA ID     : 1134930
+WOO TYPE     : simple
+PARENT SKU   : OSN-1134930
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Rings
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Sukuna ring, Jujutsu Kaisen ring, anime ring, JJK accessories, King of Curses, stainless steel ring, anime jewellery, otaku accessories
+FRANCHISE: Jujutsu Kaisen    CHARACTER: Sukuna
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦3,000
+Total stock   : 995
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the King of Curses on your hand
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Anime-inspired Sukuna ring in tarnish-resistant stainless steel alloy with a polished finish. Built for daily wear, it channels the King of Curses straight onto your hand. Pick your size at checkout.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Domain expansion, on demand. This Sukuna ring brings the King of Curses to your everyday rotation, a clean stainless steel alloy band with a polished finish and Jujutsu Kaisen-inspired detailing that fans clock instantly. Subtle enough for class or work, sharp enough to flex at the next meetup.</p>
+<p>Tarnish-resistant and built for daily wear, it holds its shine through whatever your day throws at it. Just tell us your size in the product options and we will sort the rest.</p>
+<ul>
+<li>Theme: Sukuna / Jujutsu Kaisen-inspired fan design (not affiliated, unofficial)</li>
+<li>Material: stainless steel / alloy with a polished finish</li>
+<li>Tarnish-resistant for everyday wear</li>
+<li>Available in standard ring sizes, buyer selects size at checkout</li>
+<li>Unisex fit, works as a solo statement piece or stacked</li>
+<li>Care: wipe clean with a soft dry cloth, keep away from harsh chemicals</li>
+<li>Includes: 1 x Sukuna ring</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • King of Curses Sukuna design from Jujutsu Kaisen
+  • Stainless steel / alloy with a polished finish
+  • Tarnish-resistant and built for daily wear
+  • Choose your standard ring size at checkout
+  • Unisex fit, wear solo or stacked
+  • Fan-made anime-inspired piece, not affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (56 chars)        : Sukuna Ring | Jujutsu Kaisen Anime Ring | Otaku Store NG
+Meta Description (146 chars) : Anime-inspired Sukuna ring in tarnish-resistant stainless steel. Jujutsu Kaisen fan design, polished finish, pick your size. Ships nationwide and.
+Focus keyword                       : Sukuna ring
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Sukuna Jujutsu Kaisen-inspired stainless steel ring with polished finish on a plain background
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a polished stainless steel anime-inspired ring resting on ink-black surface, ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent glow, halftone dot texture, sharp speed lines radiating from the ring, subtle ink splatter, dramatic cinematic rim lighting, manga panel framing, premium macro detail, King of Curses energy
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

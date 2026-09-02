@@ -1,0 +1,86 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Luffy Op Jeans Jacket
+SLUG         : luffy-op-jeans-jacket
+BUMPA ID     : 1124887
+WOO TYPE     : variable
+PARENT SKU   : OSN-1124887
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Shop by Anime > One Piece
+
+TAGS: Luffy denim jacket, One Piece jacket, Luffy hoodie jacket, anime denim jacket, One Piece merch, Luffy clothing, anime jacket Nigeria, Straw Hat Pirates
+FRANCHISE: One Piece    CHARACTER: Monkey D. Luffy
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦27,500
+Total stock   : 500
+VARIATIONS (attribute: Size)
+  M              | ₦27,500 | stock 100  | SKU OSN-1124887-M
+  L              | ₦27,500 | stock 100  | SKU OSN-1124887-L
+  XL             | ₦27,500 | stock 100  | SKU OSN-1124887-XL
+  2XL            | ₦27,500 | stock 100  | SKU OSN-1124887-2XL
+  XXXL           | ₦27,500 | stock 100  | SKU OSN-1124887-XXXL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+King of the Pirates, stitched into denim.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A layered denim hooded jacket built for One Piece fans. Light-wash distressed denim, a removable-look white drawstring hood, ribbed cuffs and a bold Luffy back graphic. Sizes M to XXXL. Wear the roster.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Set sail in style. This Luffy denim hooded jacket fuses classic light-wash denim with a layered white hoodie panel, giving you that two-piece street look in a single throw-on layer. The back is dominated by a vivid print of Monkey D. Luffy tipping his straw hat, framed by bold lettering for that effortless One Piece statement on the streets, the campus or the next con.</p>
+<p>Distressed rips, frayed cuff trims and stitched-on patches add real attitude, while the drawstring hood and ribbed hem keep it comfortable and casual. Anime-inspired fan apparel, not affiliated with or endorsed by the official rights holders.</p>
+<ul>
+<li>Layered denim jacket with attached white hoodie panel and drawstring hood</li>
+<li>Large back print of Luffy with bold graphic lettering</li>
+<li>Light-wash denim body with distressed rips and frayed trims</li>
+<li>Stitched decorative patches on the sleeve and cuff</li>
+<li>Ribbed white cuffs and hem for a relaxed layered fit</li>
+<li>Front button closure with chest and side pockets</li>
+<li>Size options: M, L, XL, 2XL, XXXL</li>
+<li>Care: machine wash cold, inside out; hang dry to protect the print</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Layered denim-and-hoodie design in one easy throw-on jacket
+  • Bold Luffy straw-hat back print for instant One Piece cred
+  • Light-wash distressed denim with frayed cuffs and rips
+  • Stitched-on patches and drawstring hood for street-ready attitude
+  • Five-size range from M to XXXL
+  • Ships nationwide across Nigeria and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (54 chars)        : Luffy Denim Hooded Jacket | One Piece | Otaku Store NG
+Meta Description (149 chars) : Luffy One Piece denim hooded jacket: light-wash distressed denim, bold back print, drawstring hood. Sizes M-XXXL. Ships from Nigeria worldwide. From.
+Focus keyword                       : Luffy denim jacket
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Light-wash Luffy One Piece denim hooded jacket with white hood and large back print of Luffy tipping his straw hat
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga style studio product shot of a light-wash denim hooded jacket on an invisible mannequin, white drawstring hood and ribbed cuffs, bold One Piece Luffy straw-hat back graphic facing camera. Ink black #111111 background, paper white #FAFAFA rim light, single manga-red #E2261C accent on speed lines and ink splatter. Halftone dot texture, dramatic manga panel framing, premium cinematic lighting, high detail.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

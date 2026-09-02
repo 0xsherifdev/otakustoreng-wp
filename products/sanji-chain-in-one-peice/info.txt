@@ -1,0 +1,72 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Sanji  Chain In One Peice
+SLUG         : sanji-chain-in-one-peice
+BUMPA ID     : 1134703
+WOO TYPE     : simple
+PARENT SKU   : OSN-1134703
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > One Piece
+
+TAGS: One Piece, Sanji, anime necklace, pirate skull pendant, anime chain, One Piece merch, anime jewellery, Otaku Store NG
+FRANCHISE: One Piece    CHARACTER: Sanji
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,500
+Total stock   : 1000
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Pirate skull-and-swords pendant for the crew
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A One Piece-inspired pendant necklace built for daily wear. A silver-tone pirate skull with eyepatch and crossed katana hangs from an adjustable black cord, finished in tarnish-resistant metal. Light, low-key, and easy to style with anything.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Set sail in style with this One Piece-inspired pendant necklace from Otaku Store NG. The silver-tone charm features a grinning pirate skull with an eyepatch flanked by crossed katana, a bold pirate-crew emblem that lands clean against the dark cord and reads instantly to any fan who knows the Grand Line.</p><p>Cast in durable, tarnish-resistant metal and strung on an adjustable cord, it sits light on the chest and pairs just as well with a tee as it does with your fit for the next con. Wear the roster, fan-made and anime-inspired, not affiliated with the official series.</p><ul><li>Design: One Piece-inspired pirate skull with eyepatch and crossed katana pendant</li><li>Pendant finish: polished silver-tone metal with black enamel detailing</li><li>Material: durable stainless-steel/alloy that resists tarnish</li><li>Chain: black corded necklace with adjustable length</li><li>Fastening: easy lobster-style clasp</li><li>Care: wipe clean with a soft, dry cloth; keep away from water and perfume</li><li>Includes: 1 pendant necklace</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • One Piece-inspired pirate skull and crossed-katana pendant
+  • Polished silver-tone metal with black enamel detail
+  • Tarnish-resistant stainless-steel/alloy build
+  • Adjustable black cord chain for an easy fit
+  • Lightweight, everyday-wear comfort
+  • Ships nationwide and worldwide from Nigeria
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (49 chars)        : Sanji One Piece Pendant Necklace | Otaku Store NG
+Meta Description (149 chars) : One Piece-inspired Sanji pirate skull and crossed-katana pendant necklace. Tarnish-resistant, adjustable cord chain. Ships from Nigeria. Just ₦4,500.
+Focus keyword                       : Sanji One Piece necklace
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: One Piece-inspired silver-tone pirate skull pendant with eyepatch and crossed katana on a black cord necklace
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a silver-tone pirate skull pendant with eyepatch and crossed katana on a black cord necklace, laid on ink-black #111111 surface with paper-white #FAFAFA manga panel framing; single manga-red #E2261C accent slash, halftone dot shading, speed lines and subtle ink splatter; dramatic cinematic key light catching the polished metal, premium e-commerce hero composition, high detail, no text.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

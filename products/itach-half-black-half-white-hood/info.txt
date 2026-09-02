@@ -1,0 +1,88 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Itach Half Black Half White Hood
+SLUG         : itach-half-black-half-white-hood
+BUMPA ID     : 1121679
+WOO TYPE     : variable
+PARENT SKU   : OSN-1121679
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+  - Shop by Anime > Naruto
+
+TAGS: Itachi hoodie, Naruto hoodie, Akatsuki hoodie, Sharingan, Uchiha, anime hoodie, split black and white hoodie, Itachi Uchiha, anime streetwear, pullover hoodie
+FRANCHISE: Naruto    CHARACTER: Itachi Uchiha
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦16,000
+Total stock   : 1000
+VARIATIONS (attribute: Size)
+  M              | ₦16,000 | stock 200  | SKU OSN-1121679-M
+  L              | ₦16,000 | stock 200  | SKU OSN-1121679-L
+  XL             | ₦16,000 | stock 200  | SKU OSN-1121679-XL
+  2XL            | ₦16,000 | stock 200  | SKU OSN-1121679-2XL
+  3XL            | ₦16,000 | stock 200  | SKU OSN-1121679-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Split black-and-white Itachi with burning Sharingan eyes.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A split black-and-white pullover hoodie built around Itachi's face, glowing red Sharingan eyes and Akatsuki clouds down the sleeves. Brushed-fleece warmth, ribbed cuffs and a roomy unisex streetwear fit for everyday wear.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Two halves of the same shinobi. This Itachi-inspired pullover splits clean down the middle, ink-black on one side and paper-white on the other, with Itachi Uchiha's face printed across the seam and his Sharingan glowing manga-red. Akatsuki clouds drift down both sleeves, stacked with kanji and clan symbols for that full Akatsuki-rogue energy.</p>
+<p>Brushed-fleece interior keeps the warmth in, the ribbed cuffs and hem hold their shape wash after wash, and the unisex streetwear cut layers easily over a tee or under a jacket. Whether you are repping the Uchiha or just love a bold split-tone fit, this one wears the roster loud.</p>
+<ul>
+<li>Pullover hoodie with double-sided split black/white anime-inspired print</li>
+<li>Itachi face graphic across the front with red Sharingan eyes and kanji detail</li>
+<li>Akatsuki red clouds, clan symbols and tally marks running down both sleeves</li>
+<li>Brushed-fleece interior for warmth and softness against the skin</li>
+<li>Ribbed cuffs and hem for a snug, lasting fit</li>
+<li>Front kangaroo pocket for hands and essentials</li>
+<li>Unisex streetwear fit; sizes M, L, XL, 2XL, 3XL</li>
+<li>Machine wash cold, inside-out; do not iron directly over the print</li>
+<li>Fan-made, anime-inspired design; not official or affiliated with the rights holders</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Striking half-black, half-white split with Itachi's face printed across the seam
+  • Manga-red Sharingan eyes and Akatsuki clouds down both sleeves
+  • Brushed-fleece interior for cozy, layerable warmth
+  • Ribbed cuffs and hem plus a roomy front kangaroo pocket
+  • Unisex streetwear fit in sizes M through 3XL
+  • Fan-made anime-inspired design, not official
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (44 chars)        : Itachi Half Black Half White Hoodie | Naruto
+Meta Description (153 chars) : Itachi-inspired split black-and-white pullover hoodie with red Sharingan eyes and Akatsuki clouds. Brushed-fleece, unisex fit, M-3XL. Ships from Nigeria.
+Focus keyword                       : Itachi hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Itachi half black half white pullover hoodie with split Itachi Uchiha face, red Sharingan eyes and Akatsuki clouds on the sleeves
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a split half-black half-white pullover hoodie laid on a paper-white #FAFAFA surface, ink-black #111111 left half and white right half meeting at a sharp center seam. A single manga-red #E2261C Sharingan eye glows where the print meets the divide; faint Akatsuki red clouds on the sleeves. Halftone dot texture in the shadows, dynamic speed lines radiating from the seam, a touch of ink splatter in one corner, framed inside a clean manga panel border. Premium, cinematic, high-contrast lighting, sharp focus on fabric texture.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

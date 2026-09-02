@@ -1,0 +1,81 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Zenistu Land Yard
+SLUG         : zenistu-land-yard
+BUMPA ID     : 2789237
+WOO TYPE     : simple
+PARENT SKU   : OSN-2789237
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Lanyards
+  - Shop by Anime > Demon Slayer
+
+TAGS: Zenitsu lanyard, Demon Slayer lanyard, anime lanyard, Zenitsu Agatsuma, Kimetsu no Yaiba, ID badge lanyard, anime keychain strap, Demon Slayer merch
+FRANCHISE: Demon Slayer    CHARACTER: Zenitsu Agatsuma
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦5,000
+Total stock   : 8
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Thunder Breathing on your keys, badge and ID.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Carry the Thunder Hashira-in-training everywhere. This Zenitsu-inspired woven lanyard keeps your keys, ID and badge close with a sturdy metal clip and bold Demon Slayer print. Lightweight, everyday-ready, and built to show off the roster.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Zenitsu Agatsuma never looks calm, but your keys can be. This Demon Slayer-inspired lanyard wraps Thunder Breathing energy around a comfortable woven polyester strap, finished with a secure metal clip for your keys, ID card or work badge. The high-contrast print is made to stand out across a campus, a convention floor or a daily commute.</p>
+<p>Lightweight and built for everyday carry, it's an easy way to wear the roster without saying a word. Fan-made and anime-inspired, not affiliated with or endorsed by the official Demon Slayer license.</p>
+<ul>
+<li><strong>Character:</strong> Zenitsu Agatsuma (Demon Slayer / Kimetsu no Yaiba)</li>
+<li><strong>Material:</strong> Woven polyester strap with a metal clip</li>
+<li><strong>Use:</strong> Holds keys, ID cards, badges and small accessories</li>
+<li><strong>Print:</strong> Bold, full-colour anime-inspired artwork</li>
+<li><strong>Feel:</strong> Lightweight, comfortable everyday wear</li>
+<li><strong>Style:</strong> Single design, no variants</li>
+<li><strong>Care:</strong> Wipe clean; air dry, avoid harsh bleaching</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Zenitsu Agatsuma Thunder Breathing design from Demon Slayer
+  • Woven polyester strap with a secure metal clip
+  • Holds keys, ID cards and work badges with ease
+  • Lightweight, comfortable everyday accessory
+  • Bold full-colour anime-inspired print
+  • Fan-made, anime-inspired - not affiliated with the official license
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (51 chars)        : Zenitsu Lanyard - Demon Slayer Anime Key & ID Strap
+Meta Description (154 chars) : Zenitsu Agatsuma Demon Slayer-inspired lanyard. Woven strap, metal clip for keys, ID and badges. Lightweight fan-made anime accessory. Ships from Nigeria.
+Focus keyword                       : Zenitsu lanyard
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Zenitsu Agatsuma Demon Slayer-inspired woven anime lanyard with metal clip for keys and ID
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of an anime lanyard inspired by Zenitsu Agatsuma from Demon Slayer. Ink black #111111 background with paper white #FAFAFA panel borders and a single manga-red #E2261C accent. Woven polyester strap hanging vertically with a metal clip holding a blank ID card, halftone dot shading, dynamic speed lines and ink splatter framing the strap in a manga panel layout. Premium, cinematic lighting, high contrast, lightning-motif energy around the clip, sharp focus on strap texture.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

@@ -1,0 +1,79 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Bleach Chains
+SLUG         : bleach-chains
+BUMPA ID     : 1875955
+WOO TYPE     : variable
+PARENT SKU   : OSN-1875955
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Bleach
+
+TAGS: Bleach, Bleach necklace, Ichigo Kurosaki, Hollow mask pendant, anime necklace, Soul Reaper, anime chains, anime accessories
+FRANCHISE: Bleach    CHARACTER: Ichigo Kurosaki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦5,000
+Total stock   : 3570
+VARIATIONS (attribute: Style)
+  1              | ₦5,000 | stock 510  | SKU OSN-1875955-1
+  2              | ₦5,000 | stock 510  | SKU OSN-1875955-2
+  3              | ₦5,000 | stock 510  | SKU OSN-1875955-3
+  4              | ₦5,000 | stock 510  | SKU OSN-1875955-4
+  5              | ₦5,000 | stock 510  | SKU OSN-1875955-5
+  6              | ₦5,000 | stock 510  | SKU OSN-1875955-6
+  7              | ₦5,000 | stock 510  | SKU OSN-1875955-7
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Hollow masks and Soul Society crests on cord
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel your inner Soul Reaper with Bleach-inspired pendant necklaces. Pick from 7 designs spanning Ichigo's Hollow mask, blade crests and Soul Society emblems, each hung on a black cord chain with an adjustable clasp. Anime-inspired, fan-made.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Step into the Soul Society. This <strong>Bleach-inspired pendant necklace</strong> lets you wear the iconic emblems of Ichigo and the Gotei 13 every day, from Hollow and Vizard mask silhouettes to bold blade and crest motifs. Each pendant rides a clean black cord chain finished with a lobster clasp and an extender so you can fine-tune the drop.</p><p>Choose from <strong>7 different designs</strong> to match your favourite arc or stack a few for a layered Soul Reaper look. Built from durable, tarnish-resistant metal alloy, it is light enough for all-day wear and just wipes clean. Anime-inspired and fan-made, not affiliated with or endorsed by the official rights holders.</p><ul><li><strong>Theme:</strong> Bleach fan art, anime-inspired (Ichigo / Soul Society motifs)</li><li><strong>Designs:</strong> 7 styles, including Hollow mask, blade and crest pendants</li><li><strong>Pendant material:</strong> durable, tarnish-resistant metal alloy</li><li><strong>Chain:</strong> black cord with lobster-clasp closure and adjustable extender</li><li><strong>Fit:</strong> standard, adjustable length; suits most necklines</li><li><strong>Wear:</strong> lightweight and comfortable for everyday use</li><li><strong>Care:</strong> wipe clean with a soft, dry cloth; keep away from water and perfume</li><li><strong>Included:</strong> 1 pendant necklace in your chosen design</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • 7 Bleach-inspired designs: Hollow masks, blades and Soul Society crests
+  • Durable, tarnish-resistant metal alloy pendant
+  • Black cord chain with lobster clasp and adjustable extender
+  • Lightweight and comfortable for everyday wear
+  • Easy care: wipe clean with a soft, dry cloth
+  • Fan-made, anime-inspired piece for serious Bleach fans
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (47 chars)        : Bleach Chains | 7 Hollow Mask Pendant Necklaces
+Meta Description (147 chars) : Bleach-inspired pendant necklaces in 7 designs: Ichigo Hollow masks and Soul Society crests on adjustable black cord chains. Fan-made. From ₦5,000.
+Focus keyword                       : Bleach chain necklace
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Seven Bleach-inspired pendant necklaces on black cord chains, featuring Ichigo Hollow masks, blade and Soul Society crest designs
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a single Bleach-inspired Hollow-mask pendant on a black cord necklace, laid on ink-black #111111 surface with paper-white #FAFAFA negative space; one manga-red #E2261C accent glowing on the pendant; halftone dot texture, sharp speed lines radiating outward, subtle ink splatter, manga panel framing; premium cinematic lighting, crisp metallic highlights, shallow depth of field.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

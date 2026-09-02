@@ -1,0 +1,82 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Sasuke steel katana
+SLUG         : sasuke-steel-katana
+BUMPA ID     : 4032633
+WOO TYPE     : simple
+PARENT SKU   : OSN-4032633
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Katana & Weapons
+  - Shop by Anime > Naruto
+
+TAGS: Sasuke katana, Naruto katana, Sasuke Uchiha sword, anime display katana, Sword of Kusanagi, cosplay katana, Naruto cosplay, replica katana
+FRANCHISE: Naruto    CHARACTER: Sasuke Uchiha
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦98,000
+Total stock   : 497
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Channel the Sword of Kusanagi for display and cosplay
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A Sasuke-inspired display katana built for collectors and cosplayers. Stainless blade, themed handle wrap and matching scabbard deliver that sharp Uchiha silhouette on your wall or at your next con. Decorative piece, not a weapon.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Bring the cold edge of the Uchiha to your collection. This Sasuke-inspired steel katana channels the lean, no-nonsense look of his signature blade, finished with a dark themed handle wrap and a matching scabbard for that instantly recognisable silhouette. Whether it hangs on your wall or completes a full Sasuke cosplay, it commands attention.</p>
+<p>Built as a decorative display and cosplay prop, it is made to be seen, not swung. Mount it, pose with it, and let it anchor your Naruto shrine. This is a fan-made, anime-inspired piece and is not official or affiliated with the franchise.</p>
+<ul>
+<li>Themed display katana inspired by Sasuke Uchiha's blade</li>
+<li>Stainless / alloy display blade with a clean, polished finish</li>
+<li>Wrapped handle (tsuka) for a comfortable, authentic grip and pose</li>
+<li>Matching scabbard (saya) for storage and display</li>
+<li>Decorative collectible and cosplay prop, not a functional weapon</li>
+<li>Ideal for wall mounting, shelf display, photo shoots and conventions</li>
+<li>Keep away from children; follow your local laws on bladed display items</li>
+<li>Wipe the blade with a soft, dry cloth and store away from moisture</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Inspired by Sasuke Uchiha's signature Sword of Kusanagi
+  • Stainless display blade with themed wrapped handle and scabbard
+  • Built for display, cosplay and serious collectors
+  • Sharp Uchiha silhouette that owns any wall or shelf
+  • Decorative prop, not a functional weapon
+  • Fan-made and anime-inspired, not official or affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (42 chars)        : Sasuke Steel Katana | Naruto Display Sword
+Meta Description (151 chars) : Sasuke-inspired steel display katana for Naruto fans. Stainless blade, themed handle and scabbard for cosplay and collectors. Fan-made decorative prop.
+Focus keyword                       : Sasuke katana
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Sasuke Uchiha-inspired steel display katana with dark wrapped handle and matching scabbard
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a Sasuke-inspired display katana, straight steel blade drawn beside its dark scabbard. Ink black #111111 background, paper white #FAFAFA negative space, single manga-red #E2261C accent slicing diagonally. Halftone dot gradients, dynamic speed lines and a touch of ink splatter framing the blade in a manga panel. Premium, cinematic lighting, dramatic specular glint along the steel edge, high contrast, collector-grade hero composition.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

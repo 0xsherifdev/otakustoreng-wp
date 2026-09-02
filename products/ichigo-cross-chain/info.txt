@@ -1,0 +1,84 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Ichigo Cross Chain
+SLUG         : ichigo-cross-chain
+BUMPA ID     : 1927292
+WOO TYPE     : simple
+PARENT SKU   : OSN-1927292
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Bleach
+
+TAGS: Ichigo cross chain, Bleach necklace, Hollow mask pendant, Ichigo Kurosaki, anime chain, Bleach merch, anime necklace, Soul Reaper accessory
+FRANCHISE: Bleach    CHARACTER: Ichigo Kurosaki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦6,000
+Total stock   : 491
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Hollow mask cross pendant on a ball chain
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A silver-tone cross pendant with Ichigo's red-striped Hollow mask cast into the center, hung on a sturdy ball-bead chain. Tarnish-resistant, lightweight and street-ready. Bleach-inspired everyday wear for fans who carry their Zanpakuto with them.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Wear the roster. The <strong>Ichigo Cross Chain</strong> fuses gothic cross styling with the unmistakable Hollow mask of Ichigo Kurosaki, its white face streaked with that signature manga-red and finished with a fanged grin. Cast in polished silver-tone metal and hung on a chunky ball-bead chain, it reads clean from across the room and hits hard up close.</p>
+<p>Built to be worn, not boxed. The pendant resists tarnish, shrugs off daily wear and pairs just as well over a tee as it does layered with other chains. A Bleach-inspired piece for fans who keep their Soul Reaper energy on at all times.</p>
+<ul>
+<li><strong>Design:</strong> Ichigo Hollow-mask cross pendant, white face with red stripes and fanged detailing</li>
+<li><strong>Material:</strong> Durable tarnish-resistant stainless-steel / alloy, polished silver-tone finish</li>
+<li><strong>Chain:</strong> Ball-bead style chain, slips over the head and sits clean on the chest</li>
+<li><strong>Fit:</strong> Standard unisex length, suits everyday and layered looks</li>
+<li><strong>Care:</strong> Wipe clean with a soft dry cloth; keep away from water and perfume to preserve the shine</li>
+<li><strong>Includes:</strong> One Ichigo cross pendant on chain</li>
+<li><strong>Price:</strong> ₦6,000</li>
+<li><strong>Shipping:</strong> Ships from Nigeria, nationwide and worldwide</li>
+<li><strong>Note:</strong> Fan-made, anime-inspired merch. Not official or licensed; not affiliated with the rights holders.</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Ichigo Hollow-mask cross pendant with signature red-striped detailing
+  • Polished silver-tone stainless-steel / alloy that resists tarnish
+  • Chunky ball-bead chain, easy slip-over wear
+  • Lightweight and street-ready for everyday or layered looks
+  • Bleach-inspired fan piece, just ₦6,000
+  • Ships from Nigeria, nationwide and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (48 chars)        : Ichigo Cross Chain | Bleach Hollow Mask Necklace
+Meta Description (149 chars) : Ichigo Cross Chain: a Bleach-inspired Hollow-mask cross pendant on a ball chain. Tarnish-resistant silver-tone steel. ₦6,000. Ships NG and worldwide.
+Focus keyword                       : Ichigo cross chain
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Silver-tone Ichigo Hollow-mask cross pendant on a ball-bead chain held in an open hand
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga style studio product shot of a silver-tone stainless-steel cross pendant featuring Ichigo Kurosaki's Hollow mask at the center, white face with single manga-red #E2261C stripes and a fanged grin, hung on a chunky ball-bead chain. Ink black #111111 background with paper white #FAFAFA negative space, halftone dot texture, dynamic speed lines radiating from the pendant, subtle ink splatter, sharp manga panel framing. Premium, cinematic, high-contrast lighting catching the polished metal. No text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

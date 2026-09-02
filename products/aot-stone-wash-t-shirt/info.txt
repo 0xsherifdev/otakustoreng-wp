@@ -1,0 +1,75 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Aot stone wash T-shirt
+SLUG         : aot-stone-wash-t-shirt
+BUMPA ID     : 3168023
+WOO TYPE     : variable
+PARENT SKU   : OSN-3168023
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+  - Shop by Anime > Attack on Titan
+
+TAGS: Attack on Titan, Eren Yeager, anime t-shirt, stone wash tee, acid wash t-shirt, AOT merch, vintage anime shirt, anime streetwear, Attack Titan, unisex anime tee
+FRANCHISE: Attack on Titan    CHARACTER: Eren Yeager
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦24,000
+Total stock   : 75
+VARIATIONS (attribute: Size)
+  L              | ₦24,000 | stock 17   | SKU OSN-3168023-L
+  XL             | ₦24,000 | stock 18   | SKU OSN-3168023-XL
+  2XL            | ₦24,000 | stock 20   | SKU OSN-3168023-2XL
+  3XL            | ₦24,000 | stock 20   | SKU OSN-3168023-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Eren and the Attack Titan on washed-out vintage charcoal.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A vintage stone-wash tee built for Attack on Titan diehards. Eren Yeager and his snarling Titan loom in deep manga-red over faded charcoal cotton, with a soft worn-in feel and a print made to last wash after wash.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>The walls have fallen and Eren is done waiting. This Attack on Titan stone-wash tee puts Eren Yeager front and centre, the Attack Titan baring its teeth behind him, all rendered in blood-deep red against a faded charcoal canvas. The acid-wash finish gives every piece a one-of-a-kind worn-in look, so no two tees fade the same way.</p><p>Cut in a relaxed unisex fit with a clean crew neck, it wears easy on its own or layered under a jacket. Fan-made and anime-inspired, not affiliated with or endorsed by the official licence holders.</p><ul><li>Design: Eren Yeager x Attack Titan front graphic in manga-red</li><li>Finish: stone-wash / acid-wash for a vintage faded, lived-in look (each piece slightly unique)</li><li>Fabric: soft cotton-feel jersey, breathable and comfortable for all-day wear</li><li>Fit: unisex regular fit with a classic crew neck</li><li>Print: durable, fade-resistant graphic</li><li>Sizes: L, XL, 2XL, 3XL</li><li>Care: machine wash cold, inside-out; do not bleach; hang or line dry to protect the print</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Eren Yeager and the Attack Titan front graphic in deep manga-red
+  • Genuine stone-wash / acid-wash finish for a vintage faded look
+  • Each tee fades slightly differently, so yours is one of a kind
+  • Soft cotton-feel jersey, breathable for all-day wear
+  • Relaxed unisex regular fit with a classic crew neck
+  • Sizes L through 3XL
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (56 chars)        : Attack on Titan Eren Stone Wash T-Shirt | Otaku Store NG
+Meta Description (152 chars) : Attack on Titan Eren Yeager stone-wash tee in faded charcoal with a manga-red Titan graphic. Soft unisex fit, sizes L-3XL. Ships from Nigeria worldwide.
+Focus keyword                       : Attack on Titan stone wash t-shirt
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Charcoal stone-wash Attack on Titan t-shirt with an Eren Yeager and Attack Titan graphic in deep red on the front
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-Manga studio product shot of a faded charcoal stone-wash t-shirt featuring an Eren Yeager and Attack Titan graphic in single manga-red #E2261C, laid flat on ink black #111111 backdrop with paper white #FAFAFA negative space. Halftone dot shading, sharp speed lines radiating from the chest graphic, ink splatter at the edges, framed inside a clean manga panel border. Premium cinematic lighting, high contrast, crisp fabric texture showing the acid-wash mottling, minimalist composition.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

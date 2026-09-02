@@ -1,0 +1,73 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Ichigo Ring
+SLUG         : ichigo-ring
+BUMPA ID     : 1209753
+WOO TYPE     : simple
+PARENT SKU   : OSN-1209753
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Rings
+  - Shop by Anime > Bleach
+
+TAGS: Ichigo ring, Bleach ring, anime ring, Ichigo Kurosaki, Soul Reaper, stainless steel ring, anime accessories, Bleach merch
+FRANCHISE: Bleach    CHARACTER: Ichigo Kurosaki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦3,000
+Total stock   : 502
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the Soul Reaper's resolve on your hand
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+An Ichigo-inspired ring forged in tarnish-resistant stainless steel with a polished finish. Subtle Bleach styling built for everyday wear, sized to fit. Pick your size and wear the roster.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel Ichigo Kurosaki's quiet, unshakeable resolve with this Bleach-inspired ring. Cut from stainless steel with a clean polished finish, it reads bold up close and understated from across the room. The kind of piece that just works whether you're repping the Gotei 13 at a meetup or stacking it into an everyday rotation.</p><p>Built to live on your hand. The tarnish-resistant finish keeps its shine through daily wear, and the comfortable band sits smooth against the skin. Choose your size at checkout for a fit that stays put.</p><ul><li>Material: stainless steel / alloy with a polished finish</li><li>Tarnish-resistant for everyday wear</li><li>Smooth-edged band for all-day comfort</li><li>Available in standard ring sizes - buyer selects size at checkout</li><li>Fan-made, anime-inspired design; not official or affiliated with Bleach</li><li>Includes: 1 Ichigo-inspired ring</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bleach-inspired design honouring Ichigo Kurosaki
+  • Stainless steel build with a polished, tarnish-resistant finish
+  • Smooth, comfortable band for all-day wear
+  • Available in standard sizes - choose yours at checkout
+  • Subtle styling that pairs with any look
+  • Fan-made anime-inspired piece, not affiliated with Bleach
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (46 chars)        : Ichigo Ring | Bleach Anime-Inspired Steel Ring
+Meta Description (148 chars) : Ichigo-inspired Bleach ring in tarnish-resistant stainless steel with a polished finish. Standard sizes, built for daily wear. Ships nationwide and.
+Focus keyword                       : Ichigo ring
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Ichigo-inspired Bleach stainless steel ring with polished finish
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a polished stainless steel anime-inspired ring resting on ink-black surface #111111, single manga-red #E2261C accent slash behind it, halftone dot texture and dynamic speed lines radiating outward, ink splatter detailing, paper-white #FAFAFA highlight glint on the band, cinematic macro lighting, premium manga-panel framing, high detail, sharp focus.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

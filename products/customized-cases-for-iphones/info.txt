@@ -1,0 +1,87 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Customized Cases For iPhones
+SLUG         : customized-cases-for-iphones
+BUMPA ID     : 1508108
+WOO TYPE     : variable
+PARENT SKU   : OSN-1508108
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Phone Cases
+
+TAGS: anime iPhone case, custom phone case, anime phone case, silicone iPhone case, made to order case, anime merch Nigeria, iPhone cover, otaku accessories
+FRANCHISE: Generic Anime    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦7,000
+Total stock   : 106
+VARIATIONS (attribute: Style)
+  Fast Delivery  | ₦8,000 | stock 99   | SKU OSN-1508108-FASTDELIVERY
+  Longer Delivery | ₦7,000 | stock 7    | SKU OSN-1508108-LONGERDELIVERY
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Your favourite anime, printed on your iPhone.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Made-to-order anime-inspired iPhone case in flexible silicone. Pick your design, send your exact iPhone model, and we print it for you. Slim, grippy and built to shield your phone from daily bumps and scratches.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Wear the roster on your phone. This customised anime-inspired iPhone case lets you bring your favourite series, character or panel straight onto your device. Fully made to order: choose the exact artwork you want, tell us your iPhone model after checkout, and we print it just for you.</p>
+<p>The flexible silicone shell hugs your iPhone snugly with a grippy, comfortable feel, raised edges to help guard the screen and camera, and precise cutouts so every button, port and lens stays open. A fan-made, anime-inspired piece for everyday carry, not affiliated with any studio or publisher.</p>
+<ul>
+<li>Material: flexible silicone shell</li>
+<li>Fit: iPhone only, made to your specified model</li>
+<li>Fully customisable: send the exact case design you want after ordering</li>
+<li>Raised edges to help protect the screen and camera</li>
+<li>Precise cutouts for buttons, ports, speakers and camera</li>
+<li>Slim, lightweight profile that stays pocket-friendly</li>
+<li>Grippy finish for a secure, comfortable hold</li>
+<li>Design printed across the back for full anime artwork coverage</li>
+<li>Two delivery speeds available at checkout</li>
+<li>Anime-inspired fan art, not official or licensed merchandise</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Made-to-order: you choose the exact anime design
+  • Flexible silicone shell with a grippy, comfy hold
+  • Raised edges shield the screen and camera
+  • Precise cutouts for buttons, ports and lens
+  • iPhone-specific fit, made to your model
+  • Fast or longer delivery, picked at checkout
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (42 chars)        : Custom Anime iPhone Cases | Otaku Store NG
+Meta Description (148 chars) : Made-to-order anime iPhone cases in flexible silicone. Pick your design, send your model, get a slim protective shell with raised edges. Ships from.
+Focus keyword                       : custom anime iPhone case
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Customised anime-inspired silicone iPhone case with printed artwork on the back and precise camera cutout
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product studio shot of a customisable anime-inspired silicone iPhone case standing upright, printed back facing camera. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent. Halftone dot shading, dynamic speed lines radiating behind the case, subtle ink splatter, framed inside a clean manga panel border. Premium cinematic lighting, sharp focus on raised edges and precise camera cutout, glossy silicone texture. No text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

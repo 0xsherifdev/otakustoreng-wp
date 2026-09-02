@@ -1,0 +1,76 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Ichigo jersey
+SLUG         : ichigo-jersey-3009411
+BUMPA ID     : 3009411
+WOO TYPE     : variable
+PARENT SKU   : OSN-3009411
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Jerseys
+  - Shop by Anime > Bleach
+
+TAGS: Ichigo Kurosaki, Bleach, anime jersey, all-over-print jersey, Soul Reaper, anime streetwear, dye sublimation, Zangetsu
+FRANCHISE: Bleach    CHARACTER: Ichigo Kurosaki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦23,000
+Total stock   : 96
+VARIATIONS (attribute: Size)
+  L              | ₦23,000 | stock 96   | SKU OSN-3009411-L
+  XL             | ₦23,000 | stock 0    | SKU OSN-3009411-XL
+  2XL            | ₦23,000 | stock 0    | SKU OSN-3009411-2XL
+  3XL            | ₦23,000 | stock 0    | SKU OSN-3009411-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Rising sun. Drawn blade. Bankai-level drip.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+All-over-print Ichigo Kurosaki jersey in crisp white, with a red rising-sun front, ink-wash pagoda art and a full Zangetsu-wielding Ichigo on the back. Lightweight, breathable polyester built for cons, watch parties and everyday Soul Reaper energy.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel your inner Soul Reaper. This Ichigo Kurosaki anime jersey is a dye-sublimated, all-over-print piece that goes edge to edge: a bold red rising-sun front framed by ink-wash pagoda and cherry-blossom art, Ichigo standing ready with Zangetsu drawn, and a full-back hero print under the iconic BLEACH logo. The vivid white base keeps the artwork loud while staying clean enough to layer with anything.</p><p>Cut in a sporty short-sleeve football style with a V-neck collar, it's lightweight and breathable for long convention days, match-watch parties or just flexing your favourite series on the street. Unisex fit and true to size. Available in L, XL, 2XL and 3XL. Ships fast nationwide and worldwide with secure checkout and easy returns. Price: ₦23,000.</p><ul><li><strong>Material:</strong> 100% polyester, lightweight and breathable</li><li><strong>Print:</strong> All-over dye-sublimation, vivid edge-to-edge graphics that won't crack or peel</li><li><strong>Fit:</strong> Unisex, sporty short-sleeve jersey with V-neck collar</li><li><strong>Sizing:</strong> True to size &mdash; between sizes? Size up</li><li><strong>Care:</strong> Machine wash cold inside-out, do not iron directly on the print, hang to dry</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Full all-over-print Ichigo Kurosaki design, front and back
+  • Bold red rising-sun graphic with ink-wash pagoda and blossom art
+  • Lightweight, breathable 100% polyester for all-day wear
+  • Dye-sublimated print that won't crack, fade or peel
+  • Unisex, true-to-size fit in L to 3XL
+  • Fast nationwide + worldwide delivery, secure checkout
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (52 chars)        : Ichigo Kurosaki Bleach Anime Jersey | Otaku Store NG
+Meta Description (147 chars) : Shop the Ichigo Kurosaki Bleach anime jersey: all-over-print, breathable polyester. Sizes L-3XL. Fast worldwide shipping, secure checkout. ₦23,000.
+Focus keyword                       : Ichigo Bleach anime jersey
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: White all-over-print Bleach anime jersey featuring Ichigo Kurosaki with Zangetsu over a red rising-sun and ink-wash pagoda design
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga aesthetic studio shot of a white all-over-print anime soccer jersey featuring Ichigo Kurosaki and a red rising sun, displayed on an unseen mannequin against an ink-black #111111 backdrop. Dramatic high-contrast monochrome lighting with a single bold manga-red #E2261C accent glow echoing the jersey's rising-sun graphic. Halftone screentone dots and sharp manga speed lines radiating from behind the garment, brush-ink splatter at the edges, subtle manga panel border framing. Premium anime-streetwear mood, cinematic, paper-white #FAFAFA rim light catching the fabric folds, ultra-sharp detail.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

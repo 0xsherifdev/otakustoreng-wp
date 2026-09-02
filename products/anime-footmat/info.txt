@@ -1,0 +1,90 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Anime Footmat
+SLUG         : anime-footmat
+BUMPA ID     : 1141386
+WOO TYPE     : variable
+PARENT SKU   : OSN-1141386
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Home & Decor > Room Decor
+  - Shop by Anime > Demon Slayer
+
+TAGS: Demon Slayer footmat, anime footmat, anime floor mat, Kimetsu no Yaiba decor, anime room decor, otaku rug, anime door mat, Demon Slayer room decor
+FRANCHISE: Demon Slayer    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦8,000
+Total stock   : 496
+VARIATIONS (attribute: Style)
+  1              | ₦8,000 | stock 99   | SKU OSN-1141386-1
+  2              | ₦8,000 | stock 98   | SKU OSN-1141386-2
+  3              | ₦8,000 | stock 99   | SKU OSN-1141386-3
+  4              | ₦8,000 | stock 100  | SKU OSN-1141386-4
+  5              | ₦8,000 | stock 100  | SKU OSN-1141386-5
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Step onto the demon-slaying corps every morning.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A Demon Slayer-inspired anime footmat that turns any doorway, bedside or desk spot into otaku territory. Vivid edge-to-edge print, soft anti-slip backing, and five corps-worthy styles to match your roster.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Floor your space with a Demon Slayer-inspired footmat built for fans who treat their room like a battlefield shrine. The crisp, full-bleed print holds its colour underfoot, while a low-profile pile and grippy backing keep it planted by your bed, desk, doorway or kitchen sink.</p>
+<p>Pick from five anime-inspired styles and lay down a daily reminder of the corps before you even reach for your blade. A fan-made tribute, anime-inspired and not affiliated with any official rights holder.</p>
+<ul>
+<li>Anime-inspired floor mat / rug featuring Demon Slayer-style artwork</li>
+<li>5 styles to choose from (1, 2, 3, 4, 5) — pick your favourite at checkout</li>
+<li>Vivid edge-to-edge print designed to resist fading from foot traffic</li>
+<li>Soft low-pile top surface, comfortable underfoot</li>
+<li>Anti-slip backing helps the mat stay put on hard floors</li>
+<li>Great for bedroom, doorway, desk zone, gaming setup or otaku corner</li>
+<li>Spot clean or gently hand wash; air dry to keep colours sharp</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Demon Slayer-inspired artwork, printed edge to edge
+  • Choose from 5 distinct styles
+  • Soft low-pile top, comfortable underfoot
+  • Anti-slip backing grips hard floors
+  • Perfect for bedroom, doorway, desk or gaming setup
+  • Fan-made tribute, not an official product
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (43 chars)        : Demon Slayer Anime Footmat | Otaku Store NG
+Meta Description (145 chars) : Demon Slayer-inspired anime footmat with vivid print and anti-slip backing. 5 styles, ₦8,000. Ships nationwide and worldwide from Otaku Store NG.
+Focus keyword                       : Demon Slayer anime footmat
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.png  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+  05.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Demon Slayer-inspired anime footmat with vivid edge-to-edge print on a hard floor
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product shot of a Demon Slayer-inspired anime footmat resting on a polished hard floor in an otaku bedroom corner. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent on the corps emblem and print details. Halftone dot shading, dramatic speed lines radiating from the mat, subtle ink splatter at the edges, framed inside a clean manga panel. Cinematic top-down three-quarter angle, premium studio lighting, crisp focus on the woven texture and anti-slip backing edge.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

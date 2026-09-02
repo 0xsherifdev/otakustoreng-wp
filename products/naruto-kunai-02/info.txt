@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Naruto kunai 02
+SLUG         : naruto-kunai-02
+BUMPA ID     : 3074771
+WOO TYPE     : simple
+PARENT SKU   : OSN-3074771
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Katana & Weapons
+  - Shop by Anime > Naruto
+
+TAGS: Naruto kunai, Naruto, kunai replica, display kunai, Hidden Leaf, Konoha, anime cosplay prop, shinobi weapon, ninja kunai, collectible prop
+FRANCHISE: Naruto    CHARACTER: Naruto
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦7,000
+Total stock   : 6
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Hidden Leaf shinobi kunai, built to display.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A Naruto-inspired display kunai with a cord-wrapped handle and ring pommel, finished in matte black. Comes boxed with the Hidden Leaf crest, ready to mount on the shelf or finish your shinobi cosplay loadout.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Every ninja needs a blade on the wall, and this Naruto-inspired kunai earns its spot. The triangular leaf-shaped head, cord-wrapped grip and signature ring pommel nail the look pulled straight from the Hidden Leaf arsenal, all finished in a clean matte black that pops on any shelf or in any cosplay shot.</p><p>This is a decorative collector and cosplay display piece, not a functional weapon. It arrives in a presentation box stamped with the Konoha spiral-leaf crest, so it lands ready to gift, mount or pose. Fan-made and anime-inspired, not affiliated with or endorsed by the official rights holders.</p><ul><li>Anime-inspired Naruto display kunai with the classic leaf-shaped head</li><li>Cord-wrapped handle (tsuka) for an authentic shinobi feel and grip</li><li>Signature ring pommel at the base, true to the series prop</li><li>Matte black finish with a contrasting white handle wrap</li><li>Presentation box with the Hidden Leaf (Konoha) crest included</li><li>Built for display, collecting and cosplay loadouts</li><li>Keep away from children; follow your local laws on bladed display items</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Classic leaf-shaped kunai head pulled from the Hidden Leaf arsenal
+  • Cord-wrapped handle with a signature ring pommel
+  • Matte black finish with a contrast white wrap
+  • Comes boxed with the Konoha spiral-leaf crest
+  • Display, collecting and cosplay ready
+  • Fan-made anime-inspired prop, not a functional weapon
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : Naruto Kunai Display Replica | Otaku Store NG
+Meta Description (155 chars) : Naruto-inspired display kunai with cord-wrapped handle, ring pommel and Hidden Leaf crest box. Cosplay and collector prop for ₦7,000. Ships nationwide and.
+Focus keyword                       : Naruto kunai
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Naruto-inspired matte black display kunai with white cord-wrapped handle and ring pommel beside a Hidden Leaf crest presentation box.
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a matte black Naruto-inspired kunai with a white cord-wrapped handle and ring pommel, laid diagonally across a manga panel layout. Ink black #111111 background, paper white #FAFAFA negative space, single manga-red #E2261C accent on a slashing speed-line and a Hidden Leaf spiral motif. Halftone dot shading, sharp ink splatter behind the blade tip, dramatic cinematic rim lighting, high-contrast premium collectible feel, no text.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

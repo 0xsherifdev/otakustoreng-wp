@@ -1,0 +1,80 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Wado ichimonji steel katana
+SLUG         : wado-ichimonji-steel-katana
+BUMPA ID     : 4032625
+WOO TYPE     : simple
+PARENT SKU   : OSN-4032625
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Katana & Weapons
+  - Shop by Anime > One Piece
+
+TAGS: Wado Ichimonji, Zoro katana, One Piece sword, anime display katana, cosplay katana, Roronoa Zoro, collector katana, replica katana
+FRANCHISE: One Piece    CHARACTER: Roronoa Zoro
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦98,000
+Total stock   : 498
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Zoro's white blade, forged for the display rack.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A fan-inspired Wado Ichimonji display katana built for Zoro mains and One Piece collectors. Stainless blade, white tsuka wrap and matching saya, mounted on a stand to anchor any shelf, desk or cosplay loadout.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>The one blade Zoro never breaks. This Wado Ichimonji display katana brings the clean white silhouette of his signature sword off the page and onto your shelf, capturing the smooth saya, wrapped handle and straight stainless edge that One Piece fans know on sight. It is a decorative collector and cosplay prop, finished to read sharp from across the room.</p>
+<p>Pull it for your Santoryu loadout, mount it behind your setup, or let it headline the rack next to the rest of your roster. A fan-made tribute to Roronoa Zoro, anime-inspired and not affiliated with or endorsed by the official rights holders.</p>
+<ul>
+<li>Themed white tsuka (handle) wrap with guard, true to Zoro's Wado Ichimonji</li>
+<li>Stainless / alloy display blade with a clean, polished finish</li>
+<li>Matching white saya (scabbard) for storage and presentation</li>
+<li>Display stand included to showcase the katana on a shelf or desk</li>
+<li>Built as a decorative collector and cosplay prop, not a functional weapon</li>
+<li>Keep out of reach of children; follow your local laws on bladed display items</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Inspired by Zoro's iconic white Wado Ichimonji from One Piece
+  • Stainless / alloy display blade with a polished finish
+  • Matching white saya plus a display stand included
+  • Themed tsuka handle wrap with guard for an accurate look
+  • Cosplay-ready prop and shelf-worthy collector piece
+  • Fan-made tribute, anime-inspired and not officially affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (52 chars)        : Wado Ichimonji Katana - Zoro One Piece Display Sword
+Meta Description (154 chars) : Wado Ichimonji display katana inspired by Zoro from One Piece. White tsuka, stainless blade, matching saya and stand. Fan-made cosplay and collector prop.
+Focus keyword                       : Wado Ichimonji katana
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: White Wado Ichimonji display katana inspired by Zoro from One Piece, shown with matching saya and stand
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a white-handled Wado Ichimonji display katana resting on its stand, blade angled toward camera, matching white saya beside it. Ink black #111111 background, paper white #FAFAFA katana, single manga-red #E2261C accent on a thin cord and the stand base. Halftone dot shading, sharp speed lines radiating from the blade, subtle ink splatter in the corners, framed inside a clean manga panel. Premium, cinematic, high contrast.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

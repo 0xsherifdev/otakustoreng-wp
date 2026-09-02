@@ -1,0 +1,81 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Gojo Stanley bottle
+SLUG         : gojo-stanley-bottle
+BUMPA ID     : 4430222
+WOO TYPE     : simple
+PARENT SKU   : OSN-4430222
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Bottles & Drinkware
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Gojo bottle, Jujutsu Kaisen drinkware, Satoru Gojo, anime water bottle, insulated bottle, Stanley-style bottle, JJK merch, anime gifts
+FRANCHISE: Jujutsu Kaisen    CHARACTER: Satoru Gojo
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦28,000
+Total stock   : 499
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Limitless hydration, sorcerer style.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Keep your domain cold (or hot) all day with this Gojo-inspired Stanley-style insulated bottle. Double-wall stainless steel, leak-resistant lid, and bold Jujutsu Kaisen artwork built for fans who train hard and hydrate harder.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the strongest sorcerer with this Satoru Gojo Stanley-style insulated bottle, an anime-inspired drinkware piece for serious Jujutsu Kaisen fans. The double-wall vacuum build keeps cold drinks ice-cold and hot drinks steaming for hours, while crisp Gojo artwork turns your daily hydration into a flex on campus, in the gym, or at your desk.</p>
+<p>Built for everyday carry: a sturdy stainless steel body, a secure leak-resistant lid, and a wide mouth that swallows ice cubes with ease. Fan-made and anime-inspired, not affiliated with or endorsed by any official rights holder.</p>
+<ul>
+<li>Character: Satoru Gojo (Jujutsu Kaisen) anime-inspired artwork</li>
+<li>Material: double-wall vacuum-insulated stainless steel</li>
+<li>Insulation: keeps drinks cold or hot for extended periods</li>
+<li>Lid: secure, leak-resistant screw or press-fit cap</li>
+<li>Mouth: wide opening for easy filling, ice and cleaning</li>
+<li>Use: gym, school, office, travel and everyday hydration</li>
+<li>Care: hand-wash recommended to protect the printed design</li>
+<li>Includes: 1 x Gojo Stanley-style insulated bottle</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold Satoru Gojo Jujutsu Kaisen artwork
+  • Double-wall stainless steel keeps drinks cold or hot for hours
+  • Secure leak-resistant lid for everyday carry
+  • Wide mouth fits ice cubes and easy cleaning
+  • Ships from Nigeria nationwide and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (46 chars)        : Gojo Stanley Bottle | Jujutsu Kaisen Drinkware
+Meta Description (155 chars) : Gojo-inspired Stanley-style insulated bottle. Double-wall stainless steel keeps drinks cold or hot. Jujutsu Kaisen fan drinkware, ₦28,000. Ships worldwide.
+Focus keyword                       : Gojo Stanley bottle
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Gojo-inspired Stanley-style insulated stainless steel water bottle with Jujutsu Kaisen Satoru Gojo artwork
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a Stanley-style insulated stainless steel water bottle featuring Satoru Gojo from Jujutsu Kaisen. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent on the lid and a slashing diagonal speed-line. Halftone dot shading, dynamic ink splatter behind the bottle, framed inside a single bold manga panel border. Premium, cinematic studio lighting, sharp condensation droplets on the metal, low angle hero composition, high detail.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

@@ -1,0 +1,74 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : dog Tags
+SLUG         : dog-tags
+BUMPA ID     : 1484673
+WOO TYPE     : variable
+PARENT SKU   : OSN-1484673
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+
+TAGS: anime dog tag, dog tag necklace, anime chain, anime necklace, ball chain pendant, stainless steel dog tag, anime accessories, otaku jewelry
+FRANCHISE: Generic Anime    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦6,000
+Total stock   : 19
+VARIATIONS (attribute: Style)
+  1              | ₦6,000 | stock 9    | SKU OSN-1484673-1
+  2              | ₦6,000 | stock 10   | SKU OSN-1484673-2
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Stainless dog tags built to flex the roster.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Anime-inspired dog tag necklace in tough, tarnish-resistant metal on a ball chain. Pick from two designs and wear your roster everywhere. Lightweight, everyday-ready, and easy to wipe clean.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some fits need a little hardware. These anime-inspired dog tags drop a clean, military-style pendant onto a ball chain, so you can rep your roster whether you're at the function, on campus, or grinding through a late-night rewatch. Etched detailing and a bold silhouette make it read instantly as anime without screaming for attention.</p><p>Choose between Design 1 and Design 2 at checkout, then layer it solo or stack it with your other chains. Built from durable, tarnish-resistant metal that shrugs off daily wear and wipes clean in seconds.</p><ul><li>Style: anime-inspired military dog-tag pendant on a ball chain</li><li>Material: durable stainless-steel / alloy that resists tarnish</li><li>Design options: choose Design 1 or Design 2 at checkout</li><li>Finish: etched detail with a bold, premium silhouette</li><li>Wear: lightweight and everyday-ready; layers easily with other chains</li><li>Care: wipe clean with a soft dry cloth; keep away from moisture and chemicals</li><li>Style note: fan-made, anime-inspired design; not affiliated with or endorsed by any anime studio or rights holder</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Tough, tarnish-resistant metal built for daily wear
+  • Classic military dog-tag silhouette on a ball chain
+  • Pick from two designs at checkout
+  • Lightweight and easy to layer with other chains
+  • Wipes clean in seconds with a dry cloth
+  • Fan-made anime-inspired piece, not affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (39 chars)        : Anime Dog Tag Necklace | Otaku Store NG
+Meta Description (150 chars) : Anime-inspired dog tag necklace in tough, tarnish-resistant metal on a ball chain. Two designs to choose. Ships from Nigeria nationwide and worldwide.
+Focus keyword                       : anime dog tag necklace
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Anime-inspired stainless-steel dog tag pendant on a ball chain necklace
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a stainless-steel anime-inspired military dog-tag pendant hanging on a ball chain. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent glinting off the metal edge. Halftone dot texture, dramatic diagonal speed lines, subtle ink splatter framing the pendant, arranged like a manga panel. Premium, cinematic macro lighting, sharp etched detail, high contrast.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

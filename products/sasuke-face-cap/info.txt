@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Sasuke Face Cap
+SLUG         : sasuke-face-cap
+BUMPA ID     : 2789079
+WOO TYPE     : simple
+PARENT SKU   : OSN-2789079
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Headwear
+  - Shop by Anime > Naruto
+
+TAGS: Sasuke face cap, Naruto cap, Sasuke Uchiha, anime baseball cap, anime headwear, Naruto merch, anime streetwear, otaku cap
+FRANCHISE: Naruto    CHARACTER: Sasuke Uchiha
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦7,500
+Total stock   : 9
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the Uchiha crest everywhere you go.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+An anime-inspired Sasuke face cap built for daily wear. Clean curved-brim silhouette with a bold Uchiha-style motif, breathable structured crown and an adjustable strap that fits almost every head. Wear the roster.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the lone-wolf energy of the Uchiha prodigy. This Sasuke face cap pairs a clean, structured curved-brim silhouette with a sharp anime-inspired motif, so you can rep your favourite Naruto character without it ever feeling loud or cheap. It is the kind of everyday lid that sits as easily over a training fit as it does on a casual day out.</p><p>Cut for comfort and built to hold its shape, the crown keeps its form wash after wash while the adjustable closure dials in a snug, secure fit. A fan-made tribute for true Naruto heads, not affiliated with or endorsed by the official rights holders.</p><ul><li>Design: Sasuke Uchiha anime-inspired motif, embroidered/printed front</li><li>Style: structured curved-brim face cap (baseball cap silhouette)</li><li>Fit: one-size, adjustable rear strap closure</li><li>Crown: structured panels with breathable construction and eyelet venting</li><li>Use: everyday streetwear, training, conventions, casual outfits</li><li>Care: spot clean or hand wash, air dry, avoid machine tumble to protect the motif</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold Sasuke Uchiha anime-inspired front motif
+  • Structured curved brim with a clean, premium finish
+  • One-size adjustable strap fits almost every head
+  • Breathable construction with eyelet venting for all-day wear
+  • Versatile for streetwear, training and conventions
+  • Fan-made Naruto tribute, not officially affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (51 chars)        : Sasuke Face Cap | Naruto Anime Cap | Otaku Store NG
+Meta Description (151 chars) : Sasuke Uchiha anime-inspired face cap. Structured curved brim, breathable crown, one-size adjustable fit. Naruto streetwear from Otaku Store NG. Ships.
+Focus keyword                       : Sasuke face cap
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black Sasuke Uchiha anime-inspired face cap with curved brim and front motif from Otaku Store NG
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a structured curved-brim baseball cap featuring a Sasuke Uchiha-inspired motif on the front panel. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent on the embroidered crest and a thin speed-line streak. Halftone dot shading across the backdrop, subtle ink splatter, dramatic manga-panel framing with hard rim lighting on the cap. Premium, cinematic, high-detail product photography, three-quarter angle, shallow depth of field.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

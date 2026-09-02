@@ -1,0 +1,76 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Akaza B Jersey
+SLUG         : akaza-b-jersey
+BUMPA ID     : 4846007
+WOO TYPE     : variable
+PARENT SKU   : OSN-4846007
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Jerseys
+  - Shop by Anime > Demon Slayer
+
+TAGS: Akaza, Demon Slayer, anime jersey, all-over print jersey, Upper Rank Three, Kimetsu no Yaiba, anime streetwear, football jersey, dye sublimation
+FRANCHISE: Demon Slayer    CHARACTER: Akaza
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦23,000
+Total stock   : 250
+VARIATIONS (attribute: Size)
+  M              | ₦23,000 | stock 50   | SKU OSN-4846007-M
+  L              | ₦23,000 | stock 50   | SKU OSN-4846007-L
+  XL             | ₦23,000 | stock 50   | SKU OSN-4846007-XL
+  2XL            | ₦23,000 | stock 50   | SKU OSN-4846007-2XL
+  3XL            | ₦23,000 | stock 50   | SKU OSN-4846007-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Upper Rank Three, edge-to-edge in battle blue
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Bring Upper Rank Three to the streets. This all-over-print Akaza jersey blasts vivid blue Destructive Death energy across a crisp white football cut. Lightweight, breathable polyester built for conventions, watch parties, and everyday flex.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the relentless power of Upper Rank Three with the Akaza B Jersey. This all-over-print, dye-sublimated football-style jersey wraps edge-to-edge graphics around you: Akaza locked in his signature martial stance, surging blue Destructive Death energy, snowflake motifs, bold "23" numerals, and Japanese kanji detailing on a clean white-and-royal-blue base that pops from across the room.</p><p>Cut in a breathable, lightweight 100% polyester that moves with you, it is built for convention floors, match-watch parties, and serious streetwear layering. Unisex fit and true to size. Between sizes? Size up for a relaxed drape. Ships fast nationwide and worldwide with secure checkout and easy returns.</p><ul><li><strong>Material:</strong> 100% polyester, lightweight and breathable</li><li><strong>Print:</strong> All-over dye-sublimation, vivid edge-to-edge graphics that won't crack or peel</li><li><strong>Fit:</strong> Unisex, relaxed American-football jersey cut</li><li><strong>Sizing:</strong> True to size (M-3XL); size up if between sizes</li><li><strong>Care:</strong> Machine wash cold inside-out, do not iron print directly, hang or lay flat to dry</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • All-over dye-sublimated print, vivid edge-to-edge from collar to hem
+  • Akaza in full battle stance with blue Destructive Death energy
+  • Lightweight, breathable 100% polyester built for all-day wear
+  • Unisex relaxed football cut, true to size (M to 3XL)
+  • Convention-ready, watch-party-approved streetwear flex
+  • Fast nationwide + worldwide shipping, secure checkout, easy returns
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (48 chars)        : Akaza Demon Slayer Anime Jersey | Otaku Store NG
+Meta Description (150 chars) : Akaza all-over-print anime jersey from Demon Slayer. Vivid blue battle graphics, breathable polyester, unisex fit. ₦23,000. Ships worldwide. Shop now.
+Focus keyword                       : Akaza anime jersey
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Akaza Demon Slayer all-over-print anime jersey in white and royal blue, featuring Akaza in battle stance with blue energy, snowflakes, and number 23 numerals
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga aesthetic studio shot of an all-over-print anime football jersey on an invisible-mannequin, three-quarter angle. Palette: ink black #111111 background, paper-white jersey fabric #FAFAFA, single bold manga-red #E2261C accent used sparingly for energy pops. Heavy halftone screentone dots, dynamic manga speed lines radiating outward, brush-ink splatter, high-contrast monochrome lighting with one red glow. Akaza-inspired demon warrior silhouette and kanji detailing rendered in the print, cinematic premium anime-streetwear mood, dramatic rim light, manga panel border framing.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

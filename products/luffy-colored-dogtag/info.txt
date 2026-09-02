@@ -1,0 +1,73 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Luffy Colored Dogtag
+SLUG         : luffy-colored-dogtag
+BUMPA ID     : 1927496
+WOO TYPE     : simple
+PARENT SKU   : OSN-1927496
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Couple Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > One Piece
+
+TAGS: Luffy dogtag, One Piece necklace, Monkey D Luffy, Gear 5, anime couple set, bounty poster chain, One Piece accessories, anime dogtag
+FRANCHISE: One Piece    CHARACTER: Monkey D. Luffy
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦6,000
+Total stock   : 8
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+A ₿3,000,000,000 bounty around your neck
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Carry the Pirate King's wanted poster everywhere. This black metal dogtag prints Luffy's full-color Gear 5 bounty in vivid detail, hung on a stainless steel chain. Built for everyday wear and made for two to share.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some bounties are too big to keep quiet. This Luffy Colored Dogtag puts the Straw Hat captain's full "WANTED DEAD OR ALIVE" poster front and centre, his Gear 5 grin printed in vivid colour across a matte-black metal tag. It is the kind of piece that gets noticed in the queue, in the gym, and across the panel at every meet-up.</p><p>Worn solo it reads bold; worn as a duo it hits harder. Pair it up and you and your crewmate both rep the King of the Pirates, anime-inspired and made to take on daily wear without losing its shine. A clean gift for the One Piece fan who already has the manga shelf sorted.</p><ul><li>Character print: Monkey D. Luffy full-colour "Wanted Dead or Alive" bounty poster (Gear 5 art)</li><li>Pendant: black-finish metal dogtag with vivid colour print</li><li>Chain: stainless steel link chain, slips over the head, no clasp fiddling</li><li>Style: unisex, fits any neckline; great as a his-and-hers matching set for couples and crews</li><li>Wear: everyday-tough finish; built to resist tarnish with normal use</li><li>Care: wipe clean with a soft dry cloth; keep away from harsh chemicals and perfume to protect the print</li><li>In the box: 1 Luffy colored dogtag on chain (buy two to complete the couple set)</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Full-colour Monkey D. Luffy Gear 5 bounty poster print
+  • Matte black metal dogtag on a stainless steel chain
+  • Unisex fit, pairs perfectly as a his-and-hers couple set
+  • Everyday-tough finish made to resist tarnish
+  • Slip-over-the-head chain, no fiddly clasp
+  • Clean gift for any One Piece fan
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (54 chars)        : Luffy Colored Dogtag Necklace | One Piece Bounty Chain
+Meta Description (153 chars) : Rep the Pirate King with the Luffy Colored Dogtag: a full-colour Gear 5 bounty poster on a black metal tag and steel chain. Great couple set. Ships from.
+Focus keyword                       : Luffy colored dogtag
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black metal Luffy colored dogtag with a full-colour Monkey D. Luffy Gear 5 wanted bounty poster print, on a stainless steel chain held in hand
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a black metal anime dogtag pendant printed with a colourful pirate "wanted" bounty poster, hung on a stainless steel ball chain. Ink black #111111 background, paper white #FAFAFA negative space, single manga-red #E2261C accent on speed lines and a torn poster edge. Halftone dot texture, ink splatter, dramatic manga panel framing, hard rim lighting, premium cinematic close-up, shallow depth of field, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

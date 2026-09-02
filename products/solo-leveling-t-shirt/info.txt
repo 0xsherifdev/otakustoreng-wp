@@ -1,0 +1,85 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Solo leveling T-shirt
+SLUG         : solo-leveling-t-shirt
+BUMPA ID     : 3168157
+WOO TYPE     : variable
+PARENT SKU   : OSN-3168157
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+  - Shop by Anime > Solo Leveling
+
+TAGS: Solo Leveling t-shirt, Sung Jinwoo shirt, Shadow Monarch tee, ARISE anime shirt, Solo Leveling merch, anime t-shirt, manhwa apparel, Hunter tee
+FRANCHISE: Solo Leveling    CHARACTER: Sung Jinwoo
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦15,000
+Total stock   : 77
+VARIATIONS (attribute: Size)
+  L              | ₦15,000 | stock 18   | SKU OSN-3168157-L
+  XL             | ₦15,000 | stock 19   | SKU OSN-3168157-XL
+  2XL            | ₦15,000 | stock 20   | SKU OSN-3168157-2XL
+  3XL            | ₦15,000 | stock 20   | SKU OSN-3168157-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Arise. Wear the Shadow Monarch.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A black anime-inspired tee built for the Solo Leveling faithful. Clean "Solo Leveling" chest wordmark up front, a bold Sung Jinwoo and shadow-soldier "ARISE" graphic across the back. Soft, unisex regular fit with a durable, fade-resistant print.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Step into the System. This Solo Leveling tee keeps it minimal on the front with a crisp "Solo Leveling" chest wordmark, then goes full Shadow Monarch on the back, a haunting Sung Jinwoo portrait beneath his summoned shadow soldier with the command every Hunter knows: ARISE. It is the kind of fit that reads clean from the front and lands a finishing blow when you turn around.</p>
+<p>Cut for everyday rotation in a soft, breathable unisex regular fit with a classic crew neck, this is a fan-made, anime-inspired piece for diehards of Sung Jinwoo's rise from E-rank to Monarch. Not affiliated with or endorsed by the official rights holders.</p>
+<ul>
+<li><strong>Design:</strong> Front "Solo Leveling" chest wordmark; full back print of Sung Jinwoo with shadow soldier and "ARISE" graphic</li>
+<li><strong>Colour:</strong> Black with white, blue and purple artwork</li>
+<li><strong>Material:</strong> Soft, breathable cotton / cotton-blend jersey</li>
+<li><strong>Fit:</strong> Unisex regular fit, classic crew neck</li>
+<li><strong>Print:</strong> Durable, fade-resistant graphic</li>
+<li><strong>Sizes:</strong> L, XL, 2XL, 3XL</li>
+<li><strong>Care:</strong> Machine wash cold, inside-out; hang or lay flat to dry; do not iron directly over the print</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Front "Solo Leveling" chest wordmark for a clean, understated look up front
+  • Bold full-back Sung Jinwoo and shadow-soldier "ARISE" graphic
+  • Soft, breathable cotton-blend jersey in everyday black
+  • Unisex regular fit with a classic crew neck
+  • Durable, fade-resistant print that survives the wash
+  • Available in L, XL, 2XL and 3XL
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : Solo Leveling T-Shirt | Sung Jinwoo Arise Tee
+Meta Description (146 chars) : Solo Leveling T-shirt with a Sung Jinwoo "ARISE" back print and chest wordmark. Soft black unisex tee, sizes L-3XL. Ships from Nigeria, worldwide.
+Focus keyword                       : Solo Leveling T-shirt
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black Solo Leveling T-shirt showing the front chest wordmark and a back print of Sung Jinwoo with a shadow soldier and "ARISE" text
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a black anime t-shirt on an invisible mannequin, three-quarter angle. Ink black #111111 background with paper white #FAFAFA halftone dots and dynamic speed lines radiating from the garment. A single manga-red #E2261C accent slashes through the frame as an ink splatter. The tee shows a clean white "Solo Leveling" chest wordmark on the front; faint blue-purple shadow-soldier silhouette implied behind. Cinematic rim lighting, premium high-contrast manga-panel composition, sharp focus on fabric weave.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

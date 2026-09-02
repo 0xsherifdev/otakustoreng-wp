@@ -1,0 +1,88 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : 3d Asta's Demon Hoodie
+SLUG         : 3d-asta-s-demon-hoodie
+BUMPA ID     : 1122820
+WOO TYPE     : variable
+PARENT SKU   : OSN-1122820
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+
+TAGS: Asta hoodie, Black Clover hoodie, anime hoodie, 3D all-over print hoodie, Asta demon, Black Clover merch, anime streetwear, pullover hoodie
+FRANCHISE: Black Clover    CHARACTER: Asta
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦28,000
+Total stock   : 500
+VARIATIONS (attribute: Size)
+  M              | ₦28,000 | stock 100  | SKU OSN-1122820-M
+  L              | ₦28,000 | stock 100  | SKU OSN-1122820-L
+  XL             | ₦28,000 | stock 100  | SKU OSN-1122820-XL
+  2XL            | ₦28,000 | stock 100  | SKU OSN-1122820-2XL
+  XXXL           | ₦28,000 | stock 100  | SKU OSN-1122820-XXXL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Devil-Union energy, wearable every day.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel Asta's demon-fueled power in this 3D all-over-print Black Clover hoodie. Brushed-fleece interior keeps you warm, a unisex streetwear cut keeps it sharp, and ribbed cuffs lock the heat in. Anime-inspired gear for fans who go beyond their limits.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>When Asta taps into his demon, limits stop existing. This 3D all-over-print hoodie brings that Devil-Union intensity to your everyday rotation with bold, edge-to-edge artwork inspired by Black Clover's anti-magic underdog. Wear the roster.</p>
+<p>Built for comfort and built to be seen: a brushed-fleece interior traps warmth, the unisex streetwear fit drapes clean, and ribbed cuffs and hem keep everything locked in. A statement piece for fans who refuse to give up.</p>
+<ul>
+<li>Vivid 3D all-over sublimation print inspired by Asta's demon form</li>
+<li>Pullover hoodie with adjustable drawstring hood</li>
+<li>Soft brushed-fleece interior for cold-weather warmth</li>
+<li>Ribbed cuffs and hem to hold shape and seal in heat</li>
+<li>Front kangaroo pocket</li>
+<li>Cotton and polyester blend fabric</li>
+<li>Unisex streetwear fit; sizes M, L, XL, 2XL, XXXL</li>
+<li>Machine wash cold, inside-out; do not bleach</li>
+<li>Fan-made, anime-inspired design; not official or affiliated with the franchise</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • 3D all-over print inspired by Asta's demon form
+  • Brushed-fleece interior for serious warmth
+  • Ribbed cuffs and hem keep heat locked in
+  • Unisex streetwear fit, sizes M to XXXL
+  • Cotton-polyester blend with kangaroo pocket
+  • Fan-made Black Clover design, not official
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (50 chars)        : Asta's Demon Hoodie | Black Clover 3D Anime Hoodie
+Meta Description (153 chars) : 3D all-over-print Asta's Demon hoodie inspired by Black Clover. Brushed-fleece warmth, unisex fit, sizes M-XXXL. Fan-made anime gear, ships from Nigeria.
+Focus keyword                       : Asta's Demon hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: 3D all-over-print Black Clover hoodie featuring Asta's demon form, front view
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a pullover hoodie featuring Asta's demon form from Black Clover, ink black #111111 background with paper white #FAFAFA negative space, single manga-red #E2261C accent on the demon's horns and eyes. Halftone dot shading, dynamic speed lines radiating from the figure, ink splatter framing, divided manga panels. Hoodie shown on an invisible mannequin, cinematic rim lighting, premium streetwear catalog look, high detail, dramatic shadows.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

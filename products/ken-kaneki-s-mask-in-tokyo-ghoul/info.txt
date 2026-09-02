@@ -1,0 +1,70 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Ken Kaneki's Mask In Tokyo Ghoul
+SLUG         : ken-kaneki-s-mask-in-tokyo-ghoul
+BUMPA ID     : 1286791
+WOO TYPE     : simple
+PARENT SKU   : OSN-1286791
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Masks
+
+TAGS: Ken Kaneki mask, Tokyo Ghoul mask, Kaneki cosplay mask, Tokyo Ghoul cosplay, anime mask, zipper mouth mask, one-eyed ghoul, cosplay mask Nigeria
+FRANCHISE: Tokyo Ghoul    CHARACTER: Ken Kaneki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦17,000
+Total stock   : 996
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The one-eyed ghoul's iconic zipper-mouth mask.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Become the one-eyed ghoul. This anime-inspired Ken Kaneki mask brings the matte-black build, blood-red zip mouth and X-strap eye panel straight off the screen, finished with side bolts and an adjustable strap for cosplay or display.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Step into the world of Tokyo Ghoul with the mask that defined Ken Kaneki's transformation. This fan-made replica nails the look fans obsess over: a sleek matte-black face shell, the unmistakable white-and-red toothy mouth with a working zipper, an X-strapped panel over the eye and chunky metal bolts on the sides. It is built to make heads turn the second you walk into a con.</p><p>Designed for cosplayers, collectors and anyone who wants Kaneki energy on display. Slip it on for your costume, mount it on a shelf, or finish off a full Tokyo Ghoul fit. Anime-inspired and made for fans, not affiliated with or endorsed by the official rights holders.</p><ul><li>Character: Ken Kaneki, from Tokyo Ghoul</li><li>Type: full-face cosplay and display mask</li><li>Finish: matte-black leather-look face shell</li><li>Signature details: white-and-red teeth with a functional center zipper</li><li>Accents: X-strap eye panel and metal side bolts</li><li>Fit: adjustable rear strap for a range of head sizes</li><li>Use: cosplay, conventions, photoshoots, costume parties and shelf display</li><li>Care: wipe clean with a soft dry or slightly damp cloth; avoid soaking</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Screen-accurate Ken Kaneki design from Tokyo Ghoul
+  • Signature white-and-red teeth with a working zipper mouth
+  • Matte-black leather-look shell with metal side bolts
+  • X-strap eye panel for that one-eyed ghoul look
+  • Adjustable rear strap fits a range of head sizes
+  • Built for cosplay, photoshoots and shelf display
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (42 chars)        : Ken Kaneki Mask - Tokyo Ghoul Cosplay Mask
+Meta Description (154 chars) : Ken Kaneki mask from Tokyo Ghoul. Matte-black shell, zipper teeth, X-strap eye panel and adjustable strap. Anime-inspired cosplay and display mask. Ships.
+Focus keyword                       : Ken Kaneki mask
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Ken Kaneki Tokyo Ghoul mask in matte black with white-and-red zipper teeth, X-strap eye panel and metal side bolts
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a Ken Kaneki Tokyo Ghoul cosplay mask: matte ink-black #111111 leather-look face shell, signature white-and-red zipper-teeth mouth as the single manga-red #E2261C accent, X-strap eye panel and metal side bolts, adjustable strap. Mask displayed on a minimalist stand against paper-white #FAFAFA backdrop with halftone dot texture, dramatic speed lines and a single ink-splatter burst behind it, manga-panel framing, hard cinematic side lighting, premium high-contrast finish.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

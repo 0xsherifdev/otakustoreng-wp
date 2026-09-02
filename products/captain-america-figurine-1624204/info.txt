@@ -1,0 +1,79 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Captain America Figurine
+SLUG         : captain-america-figurine-1624204
+BUMPA ID     : 1624204
+WOO TYPE     : simple
+PARENT SKU   : OSN-1624204
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Figurines
+
+TAGS: Captain America figurine, Avengers figure, Captain America statue, Marvel collectible, PVC figurine, anime-inspired figure, collector display statue, Captain America shield
+FRANCHISE: Marvel / Avengers    CHARACTER: Captain America
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦20,000
+Total stock   : 10
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Land the shield. Hold the line.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A battle-ready Captain America collector figurine caught mid-landing, shield raised, on an Avengers display base. Detailed pre-painted PVC sculpt built for the shelf, not the toy box. Add the First Avenger to your roster.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>The First Avenger touches down. This Captain America collector figurine freezes Cap in a low landing crouch, vibranium shield drawn and ready to swing, every panel of the classic blue Avengers suit sculpted in crisp detail right down to the chest star and battle-worn boots. It is a display-grade fan piece for collectors who want their shelf to hit as hard as the hero.</p>
+<p>Pre-painted PVC with clean colour separation and a glossy finish, mounted on a round Avengers-style base that keeps the dynamic pose locked and steady. Anime-inspired collectible, not affiliated with or endorsed by any rights holder.</p>
+<ul>
+<li>Character: Captain America in classic blue Avengers combat suit with shield</li>
+<li>Material: detailed pre-painted PVC display statue</li>
+<li>Pose: dynamic low landing crouch, shield raised</li>
+<li>Base: included round Avengers-style display stand</li>
+<li>Use: shelf and cabinet display piece for collectors (not a toy)</li>
+<li>Finish: factory pre-painted, ready to display out of the box</li>
+<li>Care: dust gently with a soft dry cloth; keep out of direct sunlight to protect paint</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Battle-ready landing crouch with shield raised
+  • Detailed pre-painted PVC collector sculpt
+  • Classic blue Avengers suit with chest star
+  • Round Avengers-style display base included
+  • Display-grade fan piece, not a toy
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (42 chars)        : Captain America Figurine | Avengers Statue
+Meta Description (155 chars) : Captain America collector figurine in a battle-ready shield pose. Detailed pre-painted PVC statue on an Avengers display base. Ships from Nigeria. ₦20,000.
+Focus keyword                       : Captain America figurine
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Captain America PVC figurine in a battle-ready landing crouch holding his shield, mounted on a round Avengers display base
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a Captain America collector figurine in a low landing crouch with shield raised, on a round display base. Ink black #111111 background, paper white #FAFAFA rim lighting, single manga-red #E2261C accent on speed lines and the shield rim. Halftone dot texture, dynamic manga speed lines radiating outward, subtle ink splatter framing the base, comic panel border. Premium cinematic lighting, sharp focus on the sculpt, hero centred. No text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Demon Slayer Key Chain
+SLUG         : demon-slayer-key-chain
+BUMPA ID     : 1734018
+WOO TYPE     : simple
+PARENT SKU   : OSN-1734018
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Demon Slayer
+
+TAGS: Demon Slayer keychain, Tanjiro keychain, Nezuko keychain, Zenitsu keychain, anime acrylic charm, Demon Slayer Corps, anime keychain, Hanafuda earring, chibi keychain, anime merch Nigeria
+FRANCHISE: Demon Slayer    CHARACTER: Tanjiro
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦3,000
+Total stock   : 7
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Clip the Corps to your keys and bags
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Carry the Demon Slayer Corps everywhere with these double-sided acrylic charm keychains. Chibi Tanjiro, Nezuko, Zenitsu or the Hanafuda sword-and-earring crest, each on a sturdy swivel ring and lobster clasp. Anime-inspired, clip-and-go, scratch-resistant.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Strap a little Demon Slayer Corps energy to your everyday carry. This anime-inspired acrylic charm keychain pairs crisp, full-colour chibi art with a clear-acrylic body, so your favourite Hashira-in-training rides shotgun on your keys, schoolbag, backpack zip or pencil case. Choose chibi Tanjiro, Nezuko or Zenitsu, or go subtle with the Hanafuda earring and Nichirin sword crest panel.</p><p>Each charm is finished with a swivel split-ring and a snap lobster clasp, so it clips on fast and turns freely without tangling. Lightweight, glossy and built to take the daily knocks of pocket and bag life. Wear the roster.</p><ul><li>Material: clear printed acrylic charm with metal swivel ring and lobster-clasp clip</li><li>Designs available: chibi Tanjiro, Nezuko, Zenitsu, and the Hanafuda earring / sword crest panel</li><li>Print: vivid full-colour, double-sided artwork</li><li>Hardware: swivel split-ring plus snap lobster clasp for quick attach and tangle-free spin</li><li>Clips to: keys, backpacks, bag zips, pencil cases, lanyards</li><li>Care: wipe clean with a soft dry cloth; avoid harsh solvents</li><li>Fan-made, anime-inspired design; not official or affiliated with the franchise</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Double-sided clear-acrylic charm with vivid full-colour chibi art
+  • Choose Tanjiro, Nezuko, Zenitsu or the Hanafuda sword-and-earring crest
+  • Swivel split-ring plus snap lobster clasp clips on fast, spins tangle-free
+  • Lightweight and glossy, built for keys, bags and zip pulls
+  • Wipe-clean finish that resists everyday scratches
+  • Fan-made, anime-inspired, not affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (52 chars)        : Demon Slayer Keychain - Tanjiro Nezuko Zenitsu Charm
+Meta Description (148 chars) : Demon Slayer acrylic charm keychain in Tanjiro, Nezuko, Zenitsu or sword-crest designs. Swivel ring and lobster clasp. Ships from Nigeria worldwide.
+Focus keyword                       : Demon Slayer keychain
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Four clear acrylic Demon Slayer keychains showing the Hanafuda sword crest panel and chibi Zenitsu, Nezuko and Tanjiro, each on a swivel ring and lobster clasp
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a clear acrylic Demon Slayer chibi charm keychain clipped to a backpack zip pull. Ink black #111111 background with paper white #FAFAFA manga panel borders, a single manga-red #E2261C accent on the charm's clasp and speed lines. Halftone dot shading, ink splatter, dramatic cinematic side lighting, sharp macro focus on the glossy acrylic charm and metal swivel ring. Premium, high-contrast, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

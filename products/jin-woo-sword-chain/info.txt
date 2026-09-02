@@ -1,0 +1,87 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Jin Woo Sword Chain
+SLUG         : jin-woo-sword-chain
+BUMPA ID     : 1875938
+WOO TYPE     : simple
+PARENT SKU   : OSN-1875938
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Solo Leveling
+
+TAGS: Jin Woo sword chain, Solo Leveling necklace, Sung Jin-Woo pendant, anime sword necklace, Shadow Monarch chain, anime chains and necklaces, Solo Leveling merch, anime accessories
+FRANCHISE: Solo Leveling    CHARACTER: Sung Jin-Woo
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,800
+Total stock   : 9
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the Shadow Monarch's blade everywhere
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A silver-tone sword pendant inspired by Sung Jin-Woo's iconic blade from Solo Leveling. Hung on a slim cable chain with a secure clasp, it is lightweight, tarnish-resistant, and built for daily wear. Arise.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Level up your everyday fit with the Jin Woo Sword Chain, a fan-inspired tribute to Sung Jin-Woo, the Shadow Monarch of Solo Leveling. The pendant is sculpted as a jagged, demon-king blade with a wrapped hilt and razor silhouette, hanging from a slim silver-tone cable chain that sits clean against the collarbone. Subtle enough for daily wear, sharp enough for the next con or anime meetup.</p>
+<p>Cast in durable, tarnish-resistant metal with a bright polished finish, it slips on in seconds with a secure lobster clasp and shrugs off the sweat of a long day. A standout layering piece for any hunter in your roster.</p>
+<ul>
+<li><strong>Design:</strong> Sung Jin-Woo demon-king sword pendant (Solo Leveling fan-inspired)</li>
+<li><strong>Material:</strong> Durable stainless-steel / alloy, silver-tone polished finish</li>
+<li><strong>Finish:</strong> Tarnish-resistant; holds its shine with everyday wear</li>
+<li><strong>Chain:</strong> Slim cable chain with secure lobster-clasp closure</li>
+<li><strong>Wear:</strong> Lightweight, unisex; great solo or layered</li>
+<li><strong>Care:</strong> Wipe clean with a soft, dry cloth; keep away from water and perfume</li>
+<li><strong>Includes:</strong> 1 sword pendant on chain</li>
+<li><strong>Price:</strong> ₦4,800</li>
+<li><strong>Shipping:</strong> Ships from Nigeria, nationwide and worldwide</li>
+</ul>
+<p><em>Fan / anime-inspired merch. Not official or licensed; not affiliated with the rights holders.</em></p>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Sung Jin-Woo demon-king sword pendant, inspired by Solo Leveling
+  • Durable, tarnish-resistant metal with a bright silver-tone shine
+  • Slim cable chain with a secure lobster-clasp closure
+  • Lightweight and unisex, perfect solo or layered
+  • Easy care, just wipe clean with a soft, dry cloth
+  • Ships from Nigeria, nationwide and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (44 chars)        : Jin Woo Sword Chain - Solo Leveling Necklace
+Meta Description (148 chars) : Solo Leveling Jin Woo sword pendant necklace in tarnish-resistant silver-tone metal. Slim cable chain, secure clasp. Ships nationwide and worldwide.
+Focus keyword                       : Jin Woo sword chain
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Silver-tone Sung Jin-Woo sword pendant on a slim cable chain, Solo Leveling inspired necklace held in hand
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product shot of a silver sword pendant necklace, Solo Leveling Shadow Monarch blade design, resting on ink-black surface #111111 with paper-white #FAFAFA negative space. Single manga-red #E2261C accent slash behind the pendant. Halftone dot texture, dynamic speed lines and ink splatter framing a manga panel layout. The polished silver blade pendant catches a sharp highlight, slim chain coiled cinematically. Premium studio lighting, high contrast, crisp focus on the sword tip.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+  - QA fixes applied: meta_description exceeded the 155-character limit: 156 chars as raw text (with the &#8358; Naira entity) and 150 chars rendered. Fixed by removing the trailing price (already carried in the price field and long description), bringing it to 148 chars.; Highlight 'Sung Jin-Woo demon-king sword pendant, straight from Solo Leveling' used 'straight from', which implies a screen-accurate/official item and conflicts with the fan-inspired, not-affiliated positioning. Changed to 'inspired by Solo Leveling'.
+================================================================================

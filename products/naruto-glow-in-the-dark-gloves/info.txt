@@ -1,0 +1,82 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Naruto Glow In The Dark Gloves
+SLUG         : naruto-glow-in-the-dark-gloves
+BUMPA ID     : 1208585
+WOO TYPE     : simple
+PARENT SKU   : OSN-1208585
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Shop by Anime > Naruto
+
+TAGS: Naruto gloves, glow in the dark gloves, Sharingan, fingerless gloves, Naruto accessories, anime gloves, Uchiha, Sasuke, anime cosplay accessories, luminous gloves
+FRANCHISE: Naruto    CHARACTER: Sasuke Uchiha
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,000
+Total stock   : 99
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Sharingan that lights up when the lights drop
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Fingerless Naruto gloves with a glow-in-the-dark Mangekyo Sharingan print that charges in light and burns blue in the dark. Soft stretch knit, half-finger cut for full grip. Sold as a pair, one size fits most.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Charge them under a lamp, kill the lights, and watch the Mangekyo Sharingan glow electric blue across your knuckles. These fan-inspired Naruto fingerless gloves pair a clean black knit with a luminous shuriken-Sharingan print and the NARUTO wordmark, so you rep the Uchiha bloodline by day and light up the room by night.</p>
+<p>The half-finger cut keeps your fingertips free for your phone, controller or pen, while the soft stretch fabric hugs your hands without choking circulation. Lightweight enough for everyday wear, anime cons or photo sets, and built to draw eyes either way the lights go.</p>
+<ul>
+<li>Design: glow-in-the-dark Mangekyo Sharingan motif with NARUTO wordmark, anime-inspired (not affiliated)</li>
+<li>Style: fingerless / half-finger gloves, sold as a matching pair</li>
+<li>Material: soft stretch knit fabric (cotton-blend feel)</li>
+<li>Glow: charges under light, emits a blue luminous glow in the dark; non-permanent, recharges with exposure</li>
+<li>Fit: stretchy, one size fits most teens and adults</li>
+<li>Wear: cons, cosplay, everyday street layering, gaming, photoshoots</li>
+<li>Care: hand wash cool, air dry, avoid harsh bleach to protect the glow print</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Glow-in-the-dark Mangekyo Sharingan print that burns blue once charged
+  • Fingerless half-finger cut keeps fingertips free for phone, pad and pen
+  • Soft stretch knit fabric, one size fits most
+  • Sold as a matching left and right pair
+  • Anime-inspired Naruto design, not affiliated
+  • Ships from Nigeria nationwide and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (57 chars)        : Naruto Glow In The Dark Sharingan Gloves | Otaku Store NG
+Meta Description (148 chars) : Fingerless Naruto gloves with a glow-in-the-dark Sharingan print. Soft stretch knit, one size, sold as a pair. ₦4,000. Ships from Nigeria worldwide.
+Focus keyword                       : Naruto glow in the dark gloves
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Pair of black fingerless Naruto gloves with a glow-in-the-dark blue Mangekyo Sharingan print and NARUTO text, shown worn on both hands
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product studio shot of black fingerless half-finger anime gloves laid in a manga panel layout, glowing manga-red #E2261C Sharingan-style emblem accent against ink black #111111 background and paper white #FAFAFA negative space, halftone dot shading, dynamic speed lines and ink splatter radiating from the gloves, premium cinematic lighting, high detail, no text watermark
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

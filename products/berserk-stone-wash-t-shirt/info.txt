@@ -1,0 +1,75 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Berserk stone wash T-shirt
+SLUG         : berserk-stone-wash-t-shirt
+BUMPA ID     : 3167895
+WOO TYPE     : variable
+PARENT SKU   : OSN-3167895
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+  - Shop by Anime > Berserk
+
+TAGS: Berserk, Guts, stone wash t-shirt, anime t-shirt, vintage faded tee, Black Swordsman, dark fantasy anime, anime merch Nigeria
+FRANCHISE: Berserk    CHARACTER: Guts
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦24,000
+Total stock   : 77
+VARIATIONS (attribute: Size)
+  L              | ₦24,000 | stock 17   | SKU OSN-3167895-L
+  XL             | ₦24,000 | stock 20   | SKU OSN-3167895-XL
+  2XL            | ₦24,000 | stock 20   | SKU OSN-3167895-2XL
+  3XL            | ₦24,000 | stock 20   | SKU OSN-3167895-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Vintage-faded Black Swordsman energy, washed for the long road
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A Berserk-inspired stone wash tee with a lived-in, vintage faded finish that hits like Guts after a hundred battles. Soft cotton, unisex regular fit, crew neck and a durable fade-resistant print built to wear hard and look harder.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some heroes get armour. Guts got a slab of iron and an oath to keep swinging. This Berserk-inspired stone wash T-shirt carries that same battle-worn energy, finished with a vintage faded wash so it looks like it has already survived its own dark fantasy. Pull it on and you are wearing the roster, no apologies.</p><p>Built on soft cotton with a unisex regular fit and a clean crew neck, the print is durable and fade-resistant so the artwork stays sharp wash after wash. A fan / anime-inspired piece for Berserk diehards and dark-fantasy fans alike (not official, not affiliated).</p><ul><li>Material: soft cotton with a stone-wash, vintage faded finish</li><li>Fit: unisex regular fit</li><li>Neckline: classic crew neck</li><li>Print: durable, fade-resistant graphic</li><li>Sizes available: L, XL, 2XL, 3XL</li><li>Care: machine wash cold, inside-out; tumble dry low</li><li>Theme: Berserk / Guts, the Black Swordsman, fan anime-inspired design</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Stone wash vintage faded finish for an authentic battle-worn look
+  • Soft cotton, unisex regular fit with a classic crew neck
+  • Durable fade-resistant Berserk-inspired Guts graphic
+  • Sizes L, XL, 2XL and 3XL
+  • Machine wash cold inside-out to keep the print sharp
+  • Fan anime-inspired design, not official or affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : Berserk Stone Wash T-Shirt | Guts Vintage Tee
+Meta Description (155 chars) : Berserk-inspired stone wash T-shirt with a vintage faded finish and durable Guts print. Soft cotton, unisex fit, sizes L-3XL. Ships from Nigeria worldwide.
+Focus keyword                       : Berserk stone wash T-shirt
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Berserk-inspired stone wash T-shirt with a faded vintage finish and Guts graphic, unisex regular fit crew neck
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a folded stone wash T-shirt with a vintage faded finish, ink black #111111 background, paper white #FAFAFA garment tones, single manga-red #E2261C accent. Berserk-inspired Guts silhouette with a massive sword rendered in bold ink lines, halftone dot shading, dramatic speed lines and ink splatter framing the tee in manga panels. Cinematic premium lighting, high detail, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

@@ -1,0 +1,72 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Gaara Figurine
+SLUG         : gaara-figurine
+BUMPA ID     : 1624215
+WOO TYPE     : simple
+PARENT SKU   : OSN-1624215
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Figurines
+  - Shop by Anime > Naruto
+
+TAGS: Gaara figurine, Naruto figurine, anime figurine, collector statue, PVC figure, Sand Village, Kazekage, anime collectibles
+FRANCHISE: Naruto    CHARACTER: Gaara
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦28,000
+Total stock   : 10
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The Sand Kazekage, sculpted for the shelf
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Bring the Sand Village's coolest shinobi home. This anime-inspired Gaara figurine is a pre-painted PVC/resin display piece with crisp sculpting and clean detail, built for collectors who want their roster on full show.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Gaara stands ready, calm and lethal, with that signature gourd of sand and the kanji-marked stare every Naruto fan knows on sight. This collector figurine captures the Sand Village shinobi in detailed, pre-painted form, with sharp linework on the robes, layered shading, and a stable base built to hold the pose for years on your shelf.</p><p>It is a display piece, not a toy, and it rewards a good spot in your lineup. Set it next to the rest of your roster, hit it with a little light, and let the detail do the talking. Anime-inspired fan collectible, not affiliated with or endorsed by the official rights holders.</p><ul><li>Character: Gaara from the Naruto franchise</li><li>Material: detailed pre-painted PVC/resin</li><li>Type: static display statue / collector figurine (not a poseable toy)</li><li>Finish: hand-detailed paintwork with layered shading</li><li>Includes: figurine on display base</li><li>Care: dust gently with a soft dry brush or microfibre cloth; keep out of direct sunlight to protect the paint</li><li>Best for: shelf, desk, and detolf-style display cabinets</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Anime-inspired Gaara collector figurine from the Naruto franchise
+  • Detailed pre-painted PVC/resin display statue
+  • Signature sand gourd and kanji detailing captured in the sculpt
+  • Stable display base for shelf, desk or cabinet
+  • Hand-detailed paintwork with layered shading
+  • Fan collectible, not a poseable toy
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (40 chars)        : Gaara Figurine | Naruto Collector Statue
+Meta Description (151 chars) : Anime-inspired Gaara figurine from Naruto. Pre-painted PVC/resin collector statue with sand gourd detail and display base. ₦28,000, ships nationwide &.
+Focus keyword                       : Gaara figurine
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Pre-painted Gaara figurine from Naruto with sand gourd, standing on a display base
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a Gaara collector figurine from Naruto, centered on a clean display base. Ink black #111111 background, paper white #FAFAFA rim light, single manga-red #E2261C accent on the sand gourd glow. Halftone dots and speed lines radiating behind the figure, subtle ink splatter at the base, framed inside a sharp manga panel border. Premium cinematic lighting, shallow depth of field, high detail on the sculpt and paintwork.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

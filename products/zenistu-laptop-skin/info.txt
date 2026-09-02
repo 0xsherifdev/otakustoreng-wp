@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Zenistu Laptop Skin
+SLUG         : zenistu-laptop-skin
+BUMPA ID     : 1875684
+WOO TYPE     : simple
+PARENT SKU   : OSN-1875684
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Laptop Skins
+  - Shop by Anime > Demon Slayer
+
+TAGS: Zenitsu laptop skin, Demon Slayer laptop skin, anime laptop skin, vinyl laptop decal, Kimetsu no Yaiba, Thunder Breathing, Zenitsu Agatsuma, anime decal Nigeria
+FRANCHISE: Demon Slayer    CHARACTER: Zenitsu
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦7,500
+Total stock   : 9
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Thunder Breathing energy for your everyday carry.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Wrap your laptop in Zenitsu's golden Thunder Breathing energy. A bubble-free vinyl skin with crisp manga-inspired art, snug edge-to-edge fit, and clean residue-free removal. Pick your laptop size and model at checkout.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the speed of Thunder Breathing onto your daily driver. This Zenitsu laptop skin is a precision-printed vinyl decal that gives your machine a bold Demon Slayer makeover, with electric yellow tones, lightning-charged detail and a finish built to handle real desk life. Fan-made and anime-inspired, it is the easiest way to wear the roster without committing to a permanent paint job.</p><p>Applies bubble-free with a smooth adhesive layer and lifts off clean when you want a change, leaving no sticky residue behind. Choose your exact laptop size and model at checkout so the cut lines up edge to edge.</p><ul><li>Material: printed adhesive vinyl decal/wrap</li><li>Finish: vivid full-colour print with protective top layer</li><li>Application: bubble-free, repositionable during placement</li><li>Removal: residue-free, leaves no marks on your laptop</li><li>Fit: select your laptop brand, size and model at checkout for an edge-to-edge cut</li><li>Coverage: top lid panel (cut to your selected model)</li><li>Design: Zenitsu / Demon Slayer fan art in manga-inspired style</li><li>Care: wipe gently with a soft dry cloth; avoid harsh solvents</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Zenitsu Thunder Breathing art in bold, electric colour
+  • Bubble-free application with a smooth adhesive layer
+  • Residue-free removal that leaves no marks behind
+  • Cut to your exact laptop brand, size and model
+  • Durable vinyl with a protective top layer for daily use
+  • Fan-made, anime-inspired Demon Slayer design
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (46 chars)        : Zenitsu Laptop Skin | Demon Slayer Vinyl Decal
+Meta Description (151 chars) : Zenitsu Demon Slayer laptop skin: bubble-free vinyl decal, residue-free removal, cut to your laptop model. Anime-inspired Thunder Breathing art. Ships.
+Focus keyword                       : Zenitsu laptop skin
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Zenitsu Demon Slayer laptop skin vinyl decal showing Thunder Breathing art on a laptop lid
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of an open laptop with its lid wrapped in a Zenitsu Demon Slayer vinyl skin. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent edging the panel. Halftone dot shading, dynamic speed lines and ink splatter radiating from the lid, framed inside a manga panel border. Lightning motifs echoing Thunder Breathing across the skin. Premium, cinematic three-quarter angle, sharp focus on the decal texture and edge-to-edge cut.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

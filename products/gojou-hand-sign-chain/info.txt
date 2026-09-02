@@ -1,0 +1,85 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Gojou Hand Sign Chain
+SLUG         : gojou-hand-sign-chain
+BUMPA ID     : 1927500
+WOO TYPE     : simple
+PARENT SKU   : OSN-1927500
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Gojo necklace, Jujutsu Kaisen chain, Satoru Gojo, anime pendant, hand sign chain, JJK merch, stainless steel necklace, anime chain
+FRANCHISE: Jujutsu Kaisen    CHARACTER: Satoru Gojo
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,500
+Total stock   : 490
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Throw the hand sign. Unlimited drip.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Gojo's iconic cursed-technique hand sign, cast in polished stainless steel on a curb-link chain. Tarnish-resistant, lightweight and everyday-ready, this Jujutsu Kaisen-inspired pendant is the cleanest way to rep the strongest sorcerer.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some sorcerers raise their voice. Gojo just lifts his hand. This pendant captures Satoru Gojo's signature cursed-technique hand sign in crisp, polished stainless steel, with the inked detailing etched right into the metal so the gesture reads clean from across the room. Slim, sharp and unmistakably Jujutsu Kaisen, it hangs from a sturdy curb-link chain that sits flat and looks just as good over a tee as it does under a hoodie.</p>
+<p>Built to be worn, not babied. The steel resists tarnish and rust, the polished finish wipes back to a mirror shine in seconds, and the adjustable clasp dials in the drop you want. Throw it on for the convention, the link-up, or just the daily fit. Fan-made, anime-inspired tribute to the strongest, not an official or licensed product.</p>
+<ul>
+<li><strong>Design:</strong> Gojo cursed-technique hand-sign pendant (Jujutsu Kaisen-inspired)</li>
+<li><strong>Material:</strong> Stainless-steel alloy, polished silver-tone finish</li>
+<li><strong>Pendant style:</strong> Etched line-art relief, smooth edges, lightweight</li>
+<li><strong>Chain:</strong> Curb / cuban-style link with lobster clasp</li>
+<li><strong>Length:</strong> Standard unisex chain, adjustable clasp positions</li>
+<li><strong>Durability:</strong> Tarnish- and rust-resistant for daily wear</li>
+<li><strong>Care:</strong> Wipe clean with a soft dry cloth; keep dry to preserve shine</li>
+<li><strong>In the box:</strong> 1 x pendant on chain</li>
+<li><strong>Price:</strong> ₦4,500</li>
+<li><strong>Shipping:</strong> Ships from Nigeria, nationwide and worldwide</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Gojo's iconic cursed-technique hand sign in polished steel
+  • Etched line-art detail that reads clean at any distance
+  • Tarnish- and rust-resistant stainless-steel alloy
+  • Curb-link chain with adjustable lobster clasp
+  • Lightweight, unisex and built for everyday wear
+  • Fan-made Jujutsu Kaisen-inspired tribute, not licensed
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (46 chars)        : Gojo Hand Sign Chain | Jujutsu Kaisen Necklace
+Meta Description (149 chars) : Gojo cursed-technique hand-sign pendant in polished stainless steel on a curb-link chain. Tarnish-resistant Jujutsu Kaisen-inspired necklace. ₦4,500.
+Focus keyword                       : Gojo hand sign chain
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Polished stainless-steel Gojo cursed-technique hand-sign pendant on a curb-link chain, held in hand
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a polished silver stainless-steel pendant shaped like a hand making a cursed-technique sign, on a curb-link chain coiled on a flat surface. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent ray cutting across the frame. Halftone dot shading, dramatic speed lines radiating from the pendant, fine ink splatter in the corners, manga panel border. Premium, cinematic, high-contrast macro lighting, sharp metallic reflections. No text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

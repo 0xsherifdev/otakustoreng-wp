@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Sukuna Credit Card Cover
+SLUG         : sukuna-credit-card-cover
+BUMPA ID     : 1395794
+WOO TYPE     : simple
+PARENT SKU   : OSN-1395794
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Stickers
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Sukuna, Jujutsu Kaisen, credit card cover, card skin, anime sticker, vinyl skin, King of Curses, Ryomen Sukuna
+FRANCHISE: Jujutsu Kaisen    CHARACTER: Sukuna
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦3,500
+Total stock   : 10
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+King of Curses, riding shotgun in your wallet
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Turn an ordinary card into a flex. This die-cut vinyl skin wraps Ryomen Sukuna in full King of Curses glory across the front of your debit or credit card, with a precise chip cutout and a smooth, fingerprint-resistant finish.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some people carry a card. You carry the King of Curses. This Sukuna credit card cover is a fan-made, anime-inspired vinyl skin that wraps the front of your debit, credit, or transit card in Ryomen Sukuna's blood-red battle aura, cursed markings and all. Peel, line it up to the chip, smooth it down, and your everyday plastic suddenly hits different at the checkout.</p><p>Cut for standard-size bank cards with a clean chip cutout, it lays flat, resists fingerprints, and survives the daily grind of pockets, wallets, and card machines. A small upgrade that turns the most boring thing you own into a piece of the Jujutsu Kaisen roster.</p><ul><li>Design: Ryomen Sukuna (Jujutsu Kaisen-inspired) King of Curses artwork</li><li>Type: die-cut adhesive vinyl card skin / cover (the card is not included)</li><li>Fit: sized for standard bank, credit, debit and transit cards with a pre-cut chip window</li><li>Finish: vivid, fade-resistant print with a smooth, fingerprint-resistant surface</li><li>Durable: water-resistant vinyl that stands up to everyday wallet wear</li><li>Application: peel-and-stick, repositionable while you line it up, no bubbles when smoothed from the centre out</li><li>Coverage: front-face skin; leaves the magnetic strip and chip fully usable</li><li>Care: wipe clean with a dry or slightly damp cloth; avoid soaking</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • King of Curses Sukuna art wraps the front of your card
+  • Die-cut vinyl skin with a precise pre-cut chip window
+  • Sized for standard debit, credit and transit cards
+  • Vivid, fade-resistant print with a fingerprint-resistant finish
+  • Water-resistant vinyl built for daily wallet wear
+  • Peel-and-stick, repositionable, no-bubble application
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (46 chars)        : Sukuna Credit Card Cover | Jujutsu Kaisen Skin
+Meta Description (150 chars) : Sukuna credit card cover from Jujutsu Kaisen. Die-cut vinyl card skin with chip cutout, fade-resistant print. Fan-made. Ships from Nigeria for ₦3,500.
+Focus keyword                       : Sukuna credit card cover
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Jujutsu Kaisen Sukuna credit card cover, a die-cut vinyl card skin showing the King of Curses with cursed markings and a pre-cut chip window
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-Manga style product shot of a Sukuna anime credit card skin applied to a bank card held between two fingers. Ink black #111111 background, paper white #FAFAFA card edge highlights, single manga-red #E2261C accent glow around the card. Halftone dot shading, dynamic speed lines radiating outward, ink splatter framing the corners, framed inside a clean manga panel border. The card shows the King of Curses figure with a visible chip cutout. Premium, cinematic, high-contrast studio lighting, shallow depth of field.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

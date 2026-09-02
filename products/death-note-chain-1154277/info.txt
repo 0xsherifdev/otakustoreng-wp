@@ -1,0 +1,83 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Death  Note Chain
+SLUG         : death-note-chain-1154277
+BUMPA ID     : 1154277
+WOO TYPE     : simple
+PARENT SKU   : OSN-1154277
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+
+TAGS: Death Note, Death Note necklace, Death Note chain, anime necklace, cross pendant, L pendant, anime chain, anime accessories
+FRANCHISE: Death Note    CHARACTER: L
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,500
+Total stock   : 999
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The cross that carries the verdict.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A Death Note-inspired cross pendant in blackened steel, engraved with the series title and the iconic gothic "L". Strung on an adjustable black cord, it's a clean, dark statement piece for everyday wear. Fan-made, not affiliated.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some names get written, others get worn. This Death Note-inspired cross pendant channels the show's whole gothic mood into one piece you can actually wear every day. Cast in blackened steel and laser-engraved with the <strong>DEATH NOTE</strong> title plus the unmistakable gothic <strong>"L"</strong>, it carries a raised chain accent down the face of the cross for that extra bit of detail under the light.</p>
+<p>Strung on a slim black cord, it sits clean over a tee or layered under a hoodie. Subtle enough for the office, sharp enough for the convention floor. A fan favourite for anyone who knows exactly who holds the notebook.</p>
+<ul>
+<li><strong>Theme:</strong> Death Note anime-inspired cross pendant with engraved title and gothic "L" detail</li>
+<li><strong>Pendant material:</strong> Blackened stainless-steel / alloy that resists tarnish and everyday wear</li>
+<li><strong>Finish:</strong> Matte gunmetal-black with laser-engraved lettering and a raised chain accent</li>
+<li><strong>Chain:</strong> Slim black cord with adjustable/standard length to sit where you like</li>
+<li><strong>Wear:</strong> Unisex; great solo or layered with other chains</li>
+<li><strong>Care:</strong> Wipe clean with a soft, dry cloth; keep away from harsh chemicals and water</li>
+<li><strong>In the box:</strong> 1x Death Note cross pendant on cord</li>
+<li><strong>Note:</strong> Fan-made and anime-inspired; not official or affiliated with the rights holders</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Blackened steel cross engraved with the DEATH NOTE title and gothic L
+  • Raised chain accent across the face for depth and detail
+  • Slim black cord, adjustable to sit where you want it
+  • Unisex piece, perfect solo or layered with other chains
+  • Tarnish-resistant and easy to wipe clean
+  • Fan-made anime-inspired design, not affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (43 chars)        : Death Note Chain - L Cross Pendant Necklace
+Meta Description (153 chars) : Death Note-inspired cross pendant in blackened steel, engraved with the title and gothic "L" on an adjustable black cord. Ships nationwide and worldwide.
+Focus keyword                       : Death Note chain
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Death Note-inspired blackened steel cross pendant engraved with the title and gothic L on a black cord, held in hand
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a blackened steel cross pendant necklace engraved "DEATH NOTE" with a gothic "L" and a raised chain accent, hanging on a slim black cord. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent glint on the metal edge. Halftone dot shading, dramatic speed lines radiating outward, subtle ink splatter, framed inside a manga panel border. Premium, cinematic, high-contrast macro detail, sharp focus on the engraving.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

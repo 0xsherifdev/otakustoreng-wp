@@ -1,0 +1,78 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Mini Katana Key Chain
+SLUG         : mini-katana-key-chain
+BUMPA ID     : 1733991
+WOO TYPE     : variable
+PARENT SKU   : OSN-1733991
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+
+TAGS: mini katana keychain, anime keychain, katana sword keyring, samurai accessory, anime sword keychain, metal keychain, shonen merch, otaku accessories
+FRANCHISE: Generic Anime    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦5,000
+Total stock   : 13
+VARIATIONS (attribute: Color)
+  Blue           | ₦5,000 | stock 5    | SKU OSN-1733991-BLUE
+  Black          | ₦5,000 | stock 4    | SKU OSN-1733991-BLACK
+  Black With Purple Touch | ₦5,000 | stock 4    | SKU OSN-1733991-BLACKWITHPURPLETOUCH
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the blade. Rep the roster.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A miniature katana keychain forged for fans of samurai and shonen anime. Sleek metal blade, detailed scabbard and tsuba, clipped to a sturdy ring so your keys carry serious main-character energy everywhere you go.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Every great anime arc has a blade behind it. This Mini Katana Key Chain puts that energy right on your keyring with a detailed scabbard, wrapped-style handle and tsuba guard that nods to the swordsmen you grew up watching. Small enough to live in your pocket, sharp enough in detail to start a conversation.</p><p>Choose from Blue, Black, or Black with a Purple Touch to match your vibe, then clip it to keys, a bag zip or your gym kit. It is an affordable, everyday way to carry your fandom without saying a word. Fan-made, anime-inspired design; not affiliated with or endorsed by any studio or franchise.</p><ul><li>Item: miniature katana (sword) keychain with sheathable blade and scabbard</li><li>Materials: durable metal blade with alloy fittings and a sturdy split key ring</li><li>Colour options: Blue, Black, Black With Purple Touch</li><li>Details: sculpted tsuba guard, wrapped-look handle, slide-out blade design</li><li>Use: keys, backpacks, bag zips, lanyards and everyday carry</li><li>Care: wipe clean with a dry cloth; keep away from moisture to protect the finish</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Mini katana with slide-out blade and detailed scabbard
+  • Durable metal build with a sturdy split key ring
+  • Three finishes: Blue, Black, Black With Purple Touch
+  • Sculpted tsuba guard and wrapped-look handle
+  • Clips onto keys, bags, zips and lanyards
+  • Anime-inspired everyday carry for samurai and shonen fans
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (43 chars)        : Mini Katana Key Chain | Anime Sword Keyring
+Meta Description (147 chars) : Mini Katana Key Chain in Blue, Black or Black with Purple. Durable metal anime sword keyring for keys and bags. Ships from Nigeria, nationwide and.
+Focus keyword                       : mini katana key chain
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+  05.jpg  (gallery)
+  06.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Mini katana anime keychain with detailed scabbard, tsuba guard and split key ring shown in blue and black finishes
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a miniature katana keychain resting on ink-black surface, blade half-drawn from its scabbard catching a single manga-red #E2261C highlight, paper-white #FAFAFA backdrop with halftone dots, speed lines and ink splatter radiating from the blade, dramatic manga-panel framing, cinematic premium lighting, high detail on the tsuba guard and wrapped handle.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

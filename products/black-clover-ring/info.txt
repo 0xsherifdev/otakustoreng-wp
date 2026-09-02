@@ -1,0 +1,72 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Black Clover Ring
+SLUG         : black-clover-ring
+BUMPA ID     : 1507982
+WOO TYPE     : simple
+PARENT SKU   : OSN-1507982
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Rings
+
+TAGS: Black Clover ring, anime ring, Black Clover merch, stainless steel ring, anime accessories, grimoire ring, Asta, Yuno, fan-made anime jewelry
+FRANCHISE: Black Clover    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦3,000
+Total stock   : 4
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Channel the grimoire. Wear the magic.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A Black Clover-inspired stainless steel ring built for everyday wear. Polished, tarnish-resistant finish and a clean clover-magic motif that stacks easily or stands alone. Pick your size and rep the squad.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Swear fealty to the Clover Kingdom with this Black Clover-inspired ring. The design nods to Asta and Yuno's grimoire-magic world with a bold clover motif, finished in polished stainless steel that catches the light without screaming for attention. It's a subtle flex for fans who'd rather show their fandom in the details.</p><p>Crafted for daily wear, the band stays comfortable on the hand and resists tarnish so it keeps its shine through training arc after training arc. Stack it, gift it, or wear it solo as your everyday signature piece.</p><ul><li>Material: durable stainless steel / alloy with a polished finish</li><li>Design: Black Clover-inspired clover-magic motif</li><li>Sizing: available in standard ring sizes (select your size at checkout)</li><li>Finish: tarnish-resistant, suitable for daily wear</li><li>Style: unisex, easy to stack or wear on its own</li><li>Includes: 1 anime-inspired ring</li><li>Note: fan-made, anime-inspired design; not official or affiliated with the franchise</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Black Clover-inspired grimoire/clover-magic motif
+  • Polished stainless steel with a tarnish-resistant finish
+  • Available in standard ring sizes, choose yours at checkout
+  • Comfortable, unisex fit built for daily wear
+  • Stacks easily or stands alone as a signature piece
+  • Fan-made design, ships nationwide and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (46 chars)        : Black Clover Ring | Stainless Steel Anime Ring
+Meta Description (153 chars) : Black Clover-inspired stainless steel ring with a clover-magic motif. Tarnish-resistant, daily wear, standard sizes. Ships nationwide and worldwide from.
+Focus keyword                       : Black Clover ring
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Black Clover-inspired polished stainless steel ring with clover-magic motif
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a polished stainless steel anime-inspired ring resting on ink-black #111111 surface, single manga-red #E2261C clover-magic emblem accent catching light, halftone dot texture and faint speed lines radiating in the background, ink splatter framing a manga panel border, paper-white #FAFAFA highlight on the band, premium cinematic macro lighting, sharp focus, high detail
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

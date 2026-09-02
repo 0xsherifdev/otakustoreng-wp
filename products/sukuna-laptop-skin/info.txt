@@ -1,0 +1,82 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Sukuna Laptop Skin
+SLUG         : sukuna-laptop-skin
+BUMPA ID     : 1875681
+WOO TYPE     : simple
+PARENT SKU   : OSN-1875681
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Laptop Skins
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Sukuna laptop skin, Jujutsu Kaisen laptop skin, anime laptop skin, Sukuna decal, King of Curses, vinyl laptop wrap, JJK merch, anime laptop sticker
+FRANCHISE: Jujutsu Kaisen    CHARACTER: Sukuna
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦7,500
+Total stock   : 9
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The King of Curses, wrapped on your lid.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Drape your laptop in the King of Curses. This Sukuna-inspired vinyl skin lands his marked stare and cursed-red energy in a premium matte print. Bubble-free to apply, residue-free to peel. Pick your exact size and model at checkout.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Ryomen Sukuna doesn't share the spotlight, and neither will your laptop. This Jujutsu Kaisen-inspired vinyl skin wraps your lid in the King of Curses himself, marked face, four-eyed glare and crackling cursed-red energy printed edge to edge in crisp, fade-resistant ink. It's the kind of art that turns a plain device into a statement before you even open it.</p>
+<p>Engineered for clean application and clean removal, the skin goes on bubble-free and peels off residue-free, so you can refresh your look whenever a new arc drops. Choose your exact laptop size and model at checkout for a precise, edge-hugging fit. Fan-made and anime-inspired, not affiliated with or endorsed by the official rights holders.</p>
+<ul>
+<li>Character art: Sukuna (Jujutsu Kaisen) in full marked, cursed-energy form</li>
+<li>Material: durable printed vinyl decal with a smooth, low-glare finish</li>
+<li>Application: air-channel adhesive for a bubble-free, repositionable install</li>
+<li>Removal: peels cleanly with no sticky residue left behind</li>
+<li>Fit: select your laptop size / model at checkout for an accurate cut</li>
+<li>Protection: shields the lid from light scratches, scuffs and everyday wear</li>
+<li>Coverage: top-lid skin; cutouts for logos vary by selected model</li>
+<li>Care: wipe gently with a soft, dry or slightly damp cloth</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • King of Curses art, Sukuna's marked face and cursed-red energy printed edge to edge
+  • Bubble-free air-channel adhesive for a smooth, beginner-friendly install
+  • Peels off residue-free so you can re-skin whenever you want
+  • Pick your exact laptop size and model at checkout for a precise fit
+  • Durable low-glare vinyl that guards the lid from scratches and scuffs
+  • Fan-made, anime-inspired design, not affiliated with the official series
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (47 chars)        : Sukuna Laptop Skin | Jujutsu Kaisen Vinyl Decal
+Meta Description (154 chars) : Sukuna laptop skin from Jujutsu Kaisen. Premium vinyl decal, bubble-free apply, residue-free peel. Pick your size and model. Ships from Nigeria worldwide.
+Focus keyword                       : Sukuna laptop skin
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Sukuna Jujutsu Kaisen vinyl laptop skin showing the King of Curses with marked face and red cursed energy
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a laptop with its lid wrapped in a Sukuna (Jujutsu Kaisen) vinyl skin, three-quarter angle on an ink-black #111111 surface. Manga-red #E2261C accent glow tracing the lid edge, paper-white #FAFAFA rim light. Background filled with halftone dot gradients, diagonal speed lines and a single splash of ink splatter framed like a manga panel. Sukuna's marked four-eyed glare and cursed-red energy visible on the skin. Premium, cinematic, high-contrast, sharp focus on the device, shallow depth of field. No text, no logos, no watermarks.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

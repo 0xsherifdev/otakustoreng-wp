@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : White Beard Kimono
+SLUG         : white-beard-kimono
+BUMPA ID     : 1771963
+WOO TYPE     : simple
+PARENT SKU   : OSN-1771963
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Kimono
+  - Shop by Anime > One Piece
+
+TAGS: Whitebeard kimono, One Piece kimono, Whitebeard haori, One Piece haori, anime kimono, anime haori, One Piece merch, anime layering robe
+FRANCHISE: One Piece    CHARACTER: Whitebeard
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦15,000
+Total stock   : 100
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Channel the strongest man in the world.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A Whitebeard-inspired open-front haori built to drape. Lightweight, wide-sleeved and unisex free-size, it layers effortlessly over a tee for that captain-of-the-Moby-Dick presence. One Piece fan art, energy on, every entrance owned.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Wear the roster like the man who shook the seas. This Whitebeard-inspired kimono is a lightweight open-front haori cut for movement and impact, with wide sleeves that catch the air and bold One Piece fan-art graphics across the back. Throw it over a plain tee or a fitted top and the whole fit levels up instantly.</p><p>Unisex free-size with a relaxed drape, it works as a statement layer for cons, photoshoots, or just owning the room. Fan / anime-inspired design, not affiliated with or endorsed by the official rights holders.</p><ul><li>Style: open-front haori / kimono robe layering piece</li><li>Fit: unisex free-size, relaxed drape</li><li>Sleeves: wide, flowing cut for a dramatic silhouette</li><li>Print: Whitebeard One Piece fan-art graphic</li><li>Wear: ideal as a statement layer over a tee or top</li><li>Care: gentle wash, hang dry to keep colours sharp</li><li>Includes: 1x kimono (single option, no variants)</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Whitebeard-inspired One Piece fan-art graphics
+  • Lightweight open-front haori, easy to layer
+  • Unisex free-size with a relaxed drape
+  • Wide flowing sleeves for a bold silhouette
+  • Gentle wash and hang dry to keep colours sharp
+  • Statement layer over any tee or top
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (52 chars)        : Whitebeard Kimono | One Piece Haori - Otaku Store NG
+Meta Description (151 chars) : Whitebeard-inspired One Piece kimono. Lightweight open-front haori, unisex free-size, wide sleeves. Layer it over a tee. Ships from Nigeria, worldwide.
+Focus keyword                       : Whitebeard kimono
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Whitebeard-inspired One Piece open-front kimono haori with wide sleeves and back fan-art graphic
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio shot: a model wearing an open-front Whitebeard-inspired One Piece haori with wide flowing sleeves, viewed mid-turn so the fabric catches motion. Ink black #111111 background, paper white #FAFAFA garment highlights, single manga-red #E2261C accent on the back graphic. Halftone dot shading, sharp diagonal speed lines, ink splatter framing, segmented manga panel border. Premium, cinematic, high-contrast lighting, dramatic captain-of-the-seas presence.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

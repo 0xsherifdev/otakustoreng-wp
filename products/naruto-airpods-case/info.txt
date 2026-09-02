@@ -1,0 +1,82 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Naruto Airpods Case
+SLUG         : naruto-airpods-case
+BUMPA ID     : 2337121
+WOO TYPE     : simple
+PARENT SKU   : OSN-2337121
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > AirPods Cases
+  - Shop by Anime > Naruto
+
+TAGS: Naruto AirPods case, anime AirPods case, Akatsuki AirPods cover, Sharingan AirPods case, Naruto accessories, anime earbuds case, silicone AirPods case, Naruto merch
+FRANCHISE: Naruto    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦6,500
+Total stock   : 9
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Clip the ninja way. Anime-inspired AirPods armor.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Shinobi-grade AirPods case in soft, shock-absorbing silicone with a Naruto-inspired print and a snap-on carabiner clip. Precise port cutout keeps charging easy. Pick your design, hook it to your bag, and carry the village everywhere.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Suit up your buds, shinobi. This Naruto-inspired AirPods case wraps your earbuds in flexible, shock-absorbing silicone that takes the daily drops, bumps and bag-dives so your AirPods don't have to. From the Hidden Leaf crest and Uchiha fan to the iconic Akatsuki red cloud, Sharingan and Rinnegan, every design is sharp matte ink on a stealth-black shell, built for fans who want the roster on their gear.</p>
+<p>A spring-loaded metal carabiner snaps it to a backpack, belt loop or keyring, so your case is always within reach and never buried at the bottom of your bag. A precise cutout lines up with the charging port, so you can top up without ever pulling the case off. Fan-made, anime-inspired and not affiliated with the official franchise.</p>
+<ul>
+<li>Material: flexible, shock-absorbing silicone shell</li>
+<li>Designs: choose from Hidden Leaf, Akatsuki cloud, Uchiha crest, Sharingan, Rinnegan, Kakashi, Itachi and more</li>
+<li>Carabiner: spring-loaded metal clip for bags, belt loops and keyrings</li>
+<li>Access: precise charging-port cutout, no need to remove the case</li>
+<li>Fit: select your AirPods model at checkout for a snug, button-aligned fit</li>
+<li>Finish: matte black shell with crisp printed artwork</li>
+<li>Care: wipe clean with a slightly damp cloth; air dry</li>
+<li>Includes: 1 AirPods case with attached carabiner clip (AirPods not included)</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Soft shock-absorbing silicone shields against drops and scratches
+  • Snap-on metal carabiner clips to bags, belt loops and keyrings
+  • Precise port cutout lets you charge without removing the case
+  • Choose your design: Akatsuki cloud, Sharingan, Hidden Leaf and more
+  • Snug, button-aligned fit when you select your AirPods model
+  • Matte black shell with crisp anime-inspired artwork
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (49 chars)        : Naruto AirPods Case - Anime Silicone Cover & Clip
+Meta Description (152 chars) : Naruto-inspired AirPods case in shock-absorbing silicone with a carabiner clip and precise port cutout. Pick your design. Ships from Nigeria, worldwide.
+Focus keyword                       : Naruto AirPods case
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black silicone Naruto-inspired AirPods case with red Akatsuki cloud print and a metal carabiner clip
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a matte black silicone AirPods case printed with a bold red Akatsuki cloud, a spring-loaded metal carabiner clipped to its side. Ink black #111111 background, paper white #FAFAFA rim light, single manga-red #E2261C accent on the cloud emblem. Halftone-dot texture and sharp speed lines radiating behind the case, subtle ink-splatter in one corner, framed inside a clean manga panel border. Premium, cinematic, high-contrast, shallow depth of field, product centered, no text.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

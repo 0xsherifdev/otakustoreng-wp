@@ -1,0 +1,89 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Onepiece Luffy T Shirt
+SLUG         : onepiece-luffy-t-shirt
+BUMPA ID     : 1125430
+WOO TYPE     : variable
+PARENT SKU   : OSN-1125430
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+  - Shop by Anime > One Piece
+
+TAGS: Luffy t-shirt, One Piece t-shirt, Monkey D Luffy, anime t-shirt, One Piece merch, Straw Hat Pirates, anime graphic tee, Luffy shirt
+FRANCHISE: One Piece    CHARACTER: Monkey D. Luffy
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦14,000
+Total stock   : 492
+VARIATIONS (attribute: Size)
+  M              | ₦14,000 | stock 99   | SKU OSN-1125430-M
+  L              | ₦14,000 | stock 97   | SKU OSN-1125430-L
+  XL             | ₦14,000 | stock 99   | SKU OSN-1125430-XL
+  2XL            | ₦14,000 | stock 97   | SKU OSN-1125430-2XL
+  XXXL           | ₦14,000 | stock 100  | SKU OSN-1125430-XXXL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Set sail with the future Pirate King.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A bold Luffy graphic tee built for One Piece fans. Soft, thick cotton with a durable fade-resistant print, unisex regular fit and a clean crew neck. Wear the Straw Hat captain everywhere from Grand Line marathons to street days.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Hoist the colours and rep the captain. This anime-inspired Luffy graphic tee puts the Straw Hats' rubber-powered leader front and centre, printed sharp and bold on heavyweight cotton that feels as good as it looks. Cut in a relaxed unisex fit with a clean crew neck, it sits right whether you're deep in a One Piece rewatch or out causing chaos on the street.</p>
+<p>The print is built to last, fade-resistant and ready for the long voyage. A true everyday staple for any fan chasing the One Piece dream.</p>
+<ul>
+<li>Character: Monkey D. Luffy (One Piece) anime-inspired front graphic</li>
+<li>Material: soft, thick cotton fabric with a substantial hand-feel</li>
+<li>Fit: unisex regular fit, true to size</li>
+<li>Neckline: classic ribbed crew neck</li>
+<li>Print: durable, fade-resistant graphic</li>
+<li>Sizes available: M, L, XL, 2XL, XXXL</li>
+<li>Care: machine wash cold, inside-out; hang or line dry to protect the print</li>
+<li>Note: indicate your preferred design slide at checkout</li>
+<li>Fan / anime-inspired apparel, not affiliated with or endorsed by the official rights holders</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold Monkey D. Luffy front graphic for One Piece fans
+  • Soft, thick cotton with a premium heavyweight feel
+  • Durable fade-resistant print that survives the wash
+  • Unisex regular fit with a clean crew neck
+  • Sizes M through XXXL
+  • Choose your preferred design slide at checkout
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (40 chars)        : Luffy One Piece T-Shirt | Otaku Store NG
+Meta Description (153 chars) : Anime-inspired Monkey D. Luffy One Piece tee in soft thick cotton. Unisex fit, fade-resistant print, sizes M-XXXL. ₦14,000. Ships nationwide & worldwide.
+Focus keyword                       : Luffy One Piece t-shirt
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Monkey D. Luffy One Piece anime graphic t-shirt in soft cotton, unisex crew neck fit
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a folded anime graphic t-shirt featuring a bold Monkey D. Luffy print, captured cinematically. Ink black #111111 backdrop, paper white #FAFAFA fabric, single manga-red #E2261C accent on the Straw Hat motif. Halftone dot shading, dramatic speed lines radiating outward, scattered ink splatter framing the shirt inside crisp manga panel borders. Premium high-contrast lighting, sharp focus, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

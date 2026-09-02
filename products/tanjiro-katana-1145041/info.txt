@@ -1,0 +1,77 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Tanjiro Katana
+SLUG         : tanjiro-katana-1145041
+BUMPA ID     : 1145041
+WOO TYPE     : variable
+PARENT SKU   : OSN-1145041
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Katana & Weapons
+  - Shop by Anime > Demon Slayer
+
+TAGS: Tanjiro katana, Demon Slayer katana, Tanjiro Kamado sword, anime display katana, cosplay katana, Kimetsu no Yaiba, anime weapon replica, collectible katana
+FRANCHISE: Demon Slayer    CHARACTER: Tanjiro Kamado
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦40,000
+Total stock   : 180
+VARIATIONS (attribute: Material)
+  Wooden         | ₦40,000 | stock 99   | SKU OSN-1145041-WOODEN
+  Steel          | ₦98,000 | stock 81   | SKU OSN-1145041-STEEL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the Water Breathing blade into your collection
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A Demon Slayer-inspired Tanjiro display katana built for cosplay and collectors. Choose a steel display blade with stand and belt, or a safer wooden version, and bring the Water Breathing swordsman home.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel Tanjiro Kamado with this Demon Slayer-inspired display katana, modelled on the blade that cuts through every demon Tanjiro faces. The themed handle wrap and scabbard nail the look fans love, making it a standout piece for cosplay shoots, anime corners and serious collections.</p><p>Pick the finish that fits you: a steel display blade for that authentic collector weight and shine, or a lighter wooden version that is easier to handle for cosplay and safer around the house. This is a decorative collectible prop made for display and cosplay only, not a functional weapon. Keep away from children and follow your local laws on bladed display items. Fan-made and anime-inspired, not affiliated with or endorsed by the official rights holders.</p><ul><li>Material options: steel display blade or wooden blade</li><li>Themed handle wrap (tsuka) and scabbard (saya) styled after Tanjiro's katana</li><li>Steel version includes a display stand and a sword belt</li><li>Wooden version does not include the stand or belt</li><li>Intended use: display, cosplay and collecting only</li><li>Not a functional or sharpened weapon; keep away from children</li><li>Care: wipe the blade with a soft, dry cloth and store in the scabbard</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Tanjiro Kamado display katana inspired by Demon Slayer
+  • Choose steel for collector weight or wood for safer cosplay handling
+  • Steel version ships with a display stand and sword belt
+  • Themed tsuka wrap and saya scabbard styled after the anime
+  • Decorative collectible prop for display and cosplay, not a real weapon
+  • Ships nationwide across Nigeria and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (43 chars)        : Tanjiro Katana - Demon Slayer Display Sword
+Meta Description (149 chars) : Demon Slayer-inspired Tanjiro display katana in steel or wood. Steel comes with stand and belt. Built for cosplay and collectors. Ships from Nigeria.
+Focus keyword                       : Tanjiro katana
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+  05.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Tanjiro Kamado Demon Slayer-inspired display katana with themed handle wrap and scabbard on a stand
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a Demon Slayer-inspired Tanjiro display katana resting on its stand, blade unsheathed beside the scabbard. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent on the handle wrap and rim light. Halftone dot texture, dynamic speed lines and ink splatter framing the blade, composed inside a cinematic manga panel. Premium, high-contrast, dramatic key lighting, sharp focus on the steel edge.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

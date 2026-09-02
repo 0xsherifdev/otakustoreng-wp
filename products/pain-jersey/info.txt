@@ -1,0 +1,82 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Pain Jersey
+SLUG         : pain-jersey
+BUMPA ID     : 2193835
+WOO TYPE     : variable
+PARENT SKU   : OSN-2193835
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Jerseys
+  - Shop by Anime > Naruto
+
+TAGS: Pain, Nagato, Naruto, Akatsuki, anime jersey, all-over print, sumi-e, anime streetwear, Rinnegan, dye sublimation
+FRANCHISE: Naruto    CHARACTER: Pain
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦23,000
+Total stock   : 18
+VARIATIONS (attribute: Size)
+  L              | ₦23,000 | stock 5    | SKU OSN-2193835-L
+  XL             | ₦23,000 | stock 4    | SKU OSN-2193835-XL
+  2XL            | ₦23,000 | stock 9    | SKU OSN-2193835-2XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Six Paths in sumi-e ink, one Rinnegan stare
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel the Akatsuki's most feared leader. This all-over-print Pain jersey blends sumi-e ink-wash landscapes, a Japan football crest and a rising-sun red pop into one premium anime-streetwear statement. Lightweight, breathable polyester built for conventions, watch parties and everyday flex.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some shinobi chase power. Pain wields it. This <strong>Pain anime jersey</strong> puts Nagato's Rinnegan stare dead-centre in a hand-painted sumi-e diamond, surrounded by misty mountains, a lone boat, bamboo and a pagoda rendered in flowing Japanese ink-wash. A bandana-pattern collar, a Japan football-style crest and a single rising-sun red accent finish a piece that reads like a manga panel you can wear.</p>
+<p>Made for Naruto fans who want their fit to do the talking. The edge-to-edge dye-sublimated print never cracks, peels or fades, and the airy weave keeps you cool whether you're at a convention, a match-watch party or layering it into an everyday streetwear look. Secure checkout, fast nationwide and worldwide delivery, and easy returns come standard.</p>
+<ul>
+<li><strong>Material:</strong> 100% polyester, lightweight and breathable</li>
+<li><strong>Print:</strong> All-over dye-sublimation, edge-to-edge graphics that won't crack or fade</li>
+<li><strong>Fit:</strong> Unisex, true to size button-up football jersey cut; if between sizes, size up</li>
+<li><strong>Sizing:</strong> Available in L, XL and 2XL</li>
+<li><strong>Care:</strong> Machine wash cold inside-out; do not iron directly on the print</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Vivid all-over sumi-e ink-wash print featuring Pain's Rinnegan stare
+  • Premium dye-sublimation graphics that won't crack, peel or fade
+  • Lightweight, breathable 100% polyester for all-day comfort
+  • Bandana collar, Japan-style football crest and bold rising-sun red accent
+  • Unisex true-to-size fit in L, XL and 2XL
+  • Fast nationwide and worldwide delivery with easy returns
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (41 chars)        : Pain Anime Jersey | Naruto All-Over Print
+Meta Description (142 chars) : Shop the Pain anime jersey from Naruto: sumi-e ink-wash all-over print on breathable polyester. Sizes L-2XL, ₦23,000. Fast worldwide delivery.
+Focus keyword                       : Pain anime jersey
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: White Naruto Pain anime jersey with sumi-e ink-wash landscape print, Rinnegan portrait and red rising-sun accent
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga aesthetic studio product shot of a white all-over-print anime football jersey featuring Pain from Naruto, hung on a matte black mannequin against an ink-black #111111 backdrop. Sumi-e ink-wash landscape print with Rinnegan portrait, single bold manga-red #E2261C rising-sun accent. Halftone screentone dots and manga speed lines radiating from behind the jersey, subtle brush-ink splatter at the edges, manga panel framing. High-contrast monochrome with one red pop, cinematic rim lighting, premium anime-streetwear mood, paper-white #FAFAFA highlights, sharp focus, 4k.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - QA fixes applied: seo_title is 47 chars (within limit) but says "All-Over Print Tee" — a jersey is not a tee; minor mismatch worth tightening to keep the "Anime Jersey" hook and franchise. Not a hard fail, but corrected for clarity.; meta_description is 139 chars (within 155 limit) — compliant, kept with minor polish.; Franchise (Naruto) and character (Pain) correctly match the title.; No "official/licensed" or trademark-claiming language present — compliant.; Sizing claims (L, XL, 2XL) match available sizes — compliant.; HTML is clean (<p>/<ul>/<li>, no <h1>) — compliant.; Fabric/print claims are generic-true for sublimated polyester jerseys; no invented weights, awards, or fake reviews — compliant.; Brand tagline content does not appear in these fields; no Nigeria-only identity issues — compliant.
+================================================================================

@@ -1,0 +1,80 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Ryun Kimono
+SLUG         : ryun-kimono
+BUMPA ID     : 1771951
+WOO TYPE     : simple
+PARENT SKU   : OSN-1771951
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Kimono
+
+TAGS: Ryun kimono, anime kimono, anime haori, open-front robe, unisex kimono, anime layering piece, anime-inspired robe, otaku fashion
+FRANCHISE: Generic Anime    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦15,000
+Total stock   : 10
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Anime-inspired open-front haori that finishes any fit.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+An anime-inspired open-front haori built for everyday flexing. Lightweight drape, wide sleeves and a bold Ryun print layer effortlessly over a tee or hoodie. Unisex free-size, gentle-wash care, and an instant statement upgrade for any fit.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Throw the Ryun Kimono over a plain tee and watch the whole fit level up. This anime-inspired haori brings clean line work and bold panel energy to a lightweight open-front cut, so it drapes instead of weighing you down. Wide sleeves, a relaxed silhouette and a print that reads from across the room make it the layer you reach for on repeat.</p>
+<p>Cut as a unisex free-size piece, it sits easy over hoodies, tees or tanks and works just as well thrown on for a quick coffee run as it does for con day. Wear the roster.</p>
+<ul>
+<li>Open-front haori / kimono robe with no closure, built for easy layering</li>
+<li>Lightweight, breathable fabric with a smooth drape</li>
+<li>Wide kimono-style sleeves and a relaxed, free-flowing silhouette</li>
+<li>Unisex free-size fit designed to layer over tees, hoodies and tanks</li>
+<li>Bold all-over Ryun print with crisp, high-contrast detailing</li>
+<li>Fan-made, anime-inspired design (not affiliated with or endorsed by any studio)</li>
+<li>Care: gentle cold wash, hang dry, do not bleach, cool iron if needed</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Open-front haori cut for effortless layering over any fit
+  • Lightweight, breathable fabric with a smooth drape
+  • Wide kimono sleeves and a relaxed unisex free-size silhouette
+  • Bold all-over Ryun print with crisp, high-contrast detailing
+  • Fan-made anime-inspired design, not affiliated with any studio
+  • Easy care: gentle cold wash and hang dry
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (47 chars)        : Ryun Kimono | Anime Haori Robe - Otaku Store NG
+Meta Description (149 chars) : Shop the Ryun Kimono, an anime-inspired open-front haori with wide sleeves and a bold print. Lightweight unisex layer, ₦15,000. Ships nationwide and.
+Focus keyword                       : Ryun kimono
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Anime-inspired Ryun Kimono open-front haori robe with wide sleeves and a bold all-over print
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio shot of an anime-inspired open-front haori kimono on an invisible mannequin, three-quarter view, wide sleeves spread to show the bold all-over print. Ink black #111111 background, paper white #FAFAFA garment highlights, single manga-red #E2261C accent on the print. Halftone dot shading, dramatic speed lines, subtle ink splatter framing the edges, manga panel borders. Cinematic rim lighting, premium product photography, high contrast, crisp fabric drape detail.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

@@ -1,0 +1,70 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Berserk chain
+SLUG         : berserk-chain
+BUMPA ID     : 3050680
+WOO TYPE     : simple
+PARENT SKU   : OSN-3050680
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Berserk
+
+TAGS: Berserk chain, Brand of Sacrifice necklace, Guts pendant, Berserk necklace, anime chain, anime necklace, anime jewelry, manga pendant
+FRANCHISE: Berserk    CHARACTER: Guts
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦5,000
+Total stock   : 105
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the Brand of Sacrifice.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+An anime-inspired Berserk pendant necklace stamped with the Brand of Sacrifice in bold manga-red enamel. Tarnish-resistant chain with an adjustable clasp, built to wear daily and made for fans who refuse to drop the sword.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>The mark that follows Guts to the ends of the world, now hanging at your chest. This anime-inspired Berserk pendant features the Brand of Sacrifice rendered in deep manga-red enamel against a polished silver-tone finish, a clean, striking piece that reads instantly to anyone who knows the Black Swordsman.</p><p>Built for everyday wear, the durable, tarnish-resistant chain pairs with the lightweight pendant so it sits comfortably under a tee or over your favourite drop. Stack it, layer it, or let it stand alone. Either way, you are wearing the roster.</p><ul><li>Brand of Sacrifice pendant in bold manga-red enamel with silver-tone detailing</li><li>Durable, tarnish-resistant metal chain built for daily wear</li><li>Secure lobster-clasp closure with an adjustable, true-to-type fit</li><li>Lightweight pendant that layers cleanly with other chains</li><li>Wipe clean with a soft, dry cloth; keep away from moisture to preserve the finish</li><li>Fan-made, anime-inspired design; not official or affiliated with the Berserk franchise</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Brand of Sacrifice pendant in bold manga-red enamel
+  • Durable, tarnish-resistant chain for everyday wear
+  • Secure lobster clasp with adjustable fit
+  • Lightweight pendant that layers cleanly with other chains
+  • Fan-made, anime-inspired Berserk design
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (43 chars)        : Berserk Chain - Brand of Sacrifice Necklace
+Meta Description (152 chars) : Anime-inspired Berserk pendant necklace with the Brand of Sacrifice in manga-red enamel. Tarnish-resistant adjustable chain. Ships from Nigeria. ₦5,000.
+Focus keyword                       : Berserk chain
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Berserk Brand of Sacrifice pendant necklace in manga-red enamel on a silver-tone chain
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a Berserk-inspired Brand of Sacrifice pendant necklace, single manga-red #E2261C enamel symbol on a polished silver-tone chain, laid across an ink-black #111111 surface with paper-white #FAFAFA halftone dots and diagonal speed lines radiating outward, ink splatter accents at the edges, framed inside a single bold manga panel, dramatic cinematic side lighting catching the chain links, premium, high-contrast, sharp focus, no text.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

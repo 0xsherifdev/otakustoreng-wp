@@ -1,0 +1,82 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : One Peice Key Chain
+SLUG         : one-peice-key-chain
+BUMPA ID     : 1210360
+WOO TYPE     : simple
+PARENT SKU   : OSN-1210360
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > One Piece
+
+TAGS: One Piece keychain, Straw Hat Pirates, Jolly Roger keychain, anime keychain, One Piece accessories, Luffy merch, anime gift, pirate keyring
+FRANCHISE: One Piece    CHARACTER: Straw Hat Pirates (Jolly Roger)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦3,500
+Total stock   : 509
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Set sail with the Straw Hat helm on your keys.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A One Piece-inspired ship's-helm keychain stamped with the Straw Hat Jolly Roger, cast in antique-bronze alloy with a spinning centre. Sturdy split ring keeps your keys, bag or pouch flying the pirate flag everywhere you go.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Hoist the colours. This One Piece-inspired keychain is shaped like a pirate ship's helm, with the Straw Hat Jolly Roger front and centre and "ONE PIECE" lettering ringing the wheel. The antique-bronze finish and crisp red straw-hat accent give it real weight in the hand and serious crew energy on your keys.</p>
+<p>A spinning centre disc adds a satisfying fidget detail, while the solid split ring snaps onto keys, backpack zips, belt loops or a gym bag in seconds. Built for fans who want to carry the roster wherever the next adventure takes them.</p>
+<ul>
+<li>Design: One Piece-inspired ship's-helm pendant with Straw Hat Jolly Roger and rotating centre detail</li>
+<li>Material: durable zinc-alloy metal in an antique-bronze tone with painted red accent</li>
+<li>Hardware: chunky split key ring with linked chain connector</li>
+<li>Form factor: compact charm-style keychain that clips to keys, bags, zips and belt loops</li>
+<li>Finish: solid metal feel; wipe clean with a soft dry cloth</li>
+<li>Includes: 1 x One Piece-inspired helm keychain</li>
+<li>Fan-made, anime-inspired accessory; not affiliated with or endorsed by the rights holders</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Straw Hat Jolly Roger on a pirate-helm design
+  • Antique-bronze alloy with a painted red hat accent
+  • Spinning centre disc for a fun fidget detail
+  • Chunky split ring clips to keys, bags and zips
+  • Solid metal feel that resists everyday wear
+  • Fan-inspired collectible for every One Piece nakama
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (41 chars)        : One Piece Keychain - Straw Hat Helm Charm
+Meta Description (151 chars) : One Piece-inspired ship's-helm keychain with the Straw Hat Jolly Roger in antique bronze. Spinning centre, sturdy ring. Ships nationwide and worldwide.
+Focus keyword                       : One Piece keychain
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: One Piece-inspired ship's-helm keychain in antique bronze featuring the Straw Hat Pirates Jolly Roger skull with a red straw hat, shown front and back with a silver split ring.
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product shot of an antique-bronze One Piece ship's-helm keychain featuring the Straw Hat Jolly Roger skull with a single manga-red #E2261C hat accent, resting on ink-black #111111 surface with paper-white #FAFAFA negative space; halftone dot texture, dramatic speed lines and ink-splatter framing the metal charm, dynamic manga panel composition, cinematic studio lighting, premium high-detail close-up, shallow depth of field.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

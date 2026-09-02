@@ -1,0 +1,76 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Dennis B Jersey
+SLUG         : dennis-b-jersey
+BUMPA ID     : 4846028
+WOO TYPE     : variable
+PARENT SKU   : OSN-4846028
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Jerseys
+
+TAGS: Dennis B, anime jersey, all-over-print jersey, dye sublimation jersey, anime streetwear, manga graphic jersey, otaku fashion, unisex jersey
+FRANCHISE: Generic Anime    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦23,000
+Total stock   : 250
+VARIATIONS (attribute: Size)
+  M              | ₦23,000 | stock 50   | SKU OSN-4846028-M
+  L              | ₦23,000 | stock 50   | SKU OSN-4846028-L
+  XL             | ₦23,000 | stock 50   | SKU OSN-4846028-XL
+  2XL            | ₦23,000 | stock 50   | SKU OSN-4846028-2XL
+  3XL            | ₦23,000 | stock 50   | SKU OSN-4846028-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+All-over-print anime jersey built for fandom flex
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Step into the Dennis B Jersey — a vivid edge-to-edge dye-sublimated anime jersey in lightweight, breathable polyester. Bold manga graphics, unisex fit, true to size. Made for conventions, watch parties, and everyday streetwear layering.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Wear the hype. The <strong>Dennis B Jersey</strong> is an all-over-print (dye-sublimated) anime jersey with vivid, edge-to-edge graphics that wrap the entire panel — no cracked screen prints, no fading at the seams. Lightweight 100% polyester keeps you cool and breathable whether you're deep in a convention crowd or layering it over a tee for the street.</p><p>Unisex cut with a clean, true-to-size fit that drops perfectly for match-watch parties, cosplay days, or everyday otaku streetwear. If you're between sizes, size up for a relaxed drape. Secure checkout, fast nationwide and worldwide delivery, and easy returns — order with confidence in ₦.</p><ul><li><strong>Material:</strong> 100% polyester, lightweight and breathable</li><li><strong>Print:</strong> All-over dye-sublimation, vivid edge-to-edge graphics that won't crack or peel</li><li><strong>Fit:</strong> Unisex, true to size — between sizes? Size up</li><li><strong>Sizing:</strong> Available in M, L, XL, 2XL, 3XL</li><li><strong>Care:</strong> Machine wash cold inside-out; do not iron directly on the print; hang dry recommended</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • All-over dye-sublimated print — vivid graphics edge to edge, no peeling or cracking
+  • Lightweight, breathable 100% polyester keeps you cool all day
+  • Unisex fit, true to size (size up if between sizes)
+  • Perfect for conventions, watch parties, cosplay, and streetwear layering
+  • Sizes M to 3XL
+  • Secure checkout, fast nationwide + worldwide delivery, easy returns
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (55 chars)        : Dennis B Anime Jersey | All-Over Print | Otaku Store NG
+Meta Description (141 chars) : Shop the Dennis B anime jersey: all-over-print, breathable polyester, unisex fit, sizes M-3XL. Fast nationwide + worldwide shipping. ₦23,000.
+Focus keyword                       : Dennis B anime jersey
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Dennis B anime jersey with bold all-over-print manga graphics, lightweight breathable polyester, unisex fit
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga aesthetic studio product shot of an all-over-print anime jersey hanging on a matte black hanger against an ink-black #111111 background. High-contrast monochrome with halftone screentone dots and dynamic manga speed lines radiating outward; subtle brush-ink splatter framing the jersey. Paper-white #FAFAFA accents and a single bold manga-red #E2261C pop on a sleeve stripe and a small panel detail. Cinematic premium anime-streetwear mood, sharp focus, dramatic side lighting, manga panel layout composition.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+  - QA fixes applied: image_alt described the jersey as a "button-up" — an unsupported style specific; the title is only "Jersey" and the rest of the copy never claims a button-up placket. Removed.; supplemental_image_prompt and the tags list called the product a "baseball jersey" — an invented style not supported by the title or description (it's described as an all-over-print anime jersey throughout). Generalized the prompt and replaced the "baseball jersey" tag with a neutral style keyword.; Note (not changed): "Dennis B" is not a recognizable anime franchise/character, so "Generic Anime" with an empty character is the correct, non-hallucinated choice. SEO title (55), meta description (141), HTML, sizing, and no official/licensed language all pass.
+================================================================================

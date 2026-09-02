@@ -1,0 +1,70 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Fairytale Chain
+SLUG         : fairytale-chain
+BUMPA ID     : 1927517
+WOO TYPE     : simple
+PARENT SKU   : OSN-1927517
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+
+TAGS: Fairy Tail necklace, Fairy Tail guild emblem, anime pendant necklace, Fairy Tail merch, anime chain, guild mark pendant, Natsu necklace, anime accessories
+FRANCHISE: Fairy Tail    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,500
+Total stock   : 499
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The guild mark, worn around your neck.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Rep the strongest guild in Fiore with this Fairy Tail emblem pendant. The iconic winged guild mark in dark enamel with a silver-tone border, strung on an adjustable cord. Lightweight, everyday-ready and built to resist tarnish.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Every Fairy Tail wizard wears the mark — now you can too. This anime-inspired pendant recreates the guild's iconic winged emblem in a deep dark enamel finish, framed by a polished silver-tone border that catches the light with every move. It is the kind of subtle, clean piece that reads as a real accessory first and a fandom flex second.</p><p>Strung on a slim braided cord with an adjustable extender, it sits comfortably for daily wear, layering, or matching with your other Fairy Tail gear. Confident, lightweight and made to handle the everyday — wipe it clean and keep the roster close.</p><ul><li>Design: Fairy Tail guild emblem pendant (fan / anime-inspired, not affiliated)</li><li>Pendant finish: dark enamel inlay with polished silver-tone border</li><li>Chain: slim braided cord with lobster-style clasp and adjustable extender</li><li>Material: durable alloy / stainless-steel hardware that resists tarnish</li><li>Wear: lightweight, comfortable for everyday use and layering</li><li>Care: wipe clean with a soft, dry cloth; keep away from water and perfume</li><li>Includes: 1 pendant necklace</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Iconic Fairy Tail guild emblem in dark enamel with a silver-tone border
+  • Slim braided cord with an adjustable extender for the right fit
+  • Tarnish-resistant alloy / stainless-steel hardware
+  • Lightweight and comfortable for everyday wear and layering
+  • Clean, subtle design that works beyond the convention floor
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (49 chars)        : Fairy Tail Guild Emblem Necklace | Otaku Store NG
+Meta Description (154 chars) : Fairy Tail guild emblem pendant necklace in dark enamel on an adjustable cord. Tarnish-resistant, lightweight, everyday-ready. Ships from Nigeria. ₦4,500.
+Focus keyword                       : Fairy Tail necklace
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Fairy Tail guild emblem pendant in dark enamel with silver-tone border on a black braided cord necklace
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product hero shot of a Fairy Tail guild emblem pendant necklace, dark enamel inlay with polished silver-tone border on a slim black braided cord. Ink black #111111 background, paper white #FAFAFA negative space, single manga-red #E2261C accent on a sharp speed-line streak behind the pendant. Halftone dot shading, dramatic ink splatter, cinematic studio rim light catching the metal border, manga-panel framing, premium and high-contrast. The pendant centered and crisply in focus, cord coiling elegantly below.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

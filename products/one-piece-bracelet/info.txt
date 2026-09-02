@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : One Piece Bracelet
+SLUG         : one-piece-bracelet
+BUMPA ID     : 1734038
+WOO TYPE     : simple
+PARENT SKU   : OSN-1734038
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Shop by Anime > One Piece
+
+TAGS: One Piece bracelet, Straw Hat Pirates, Luffy, Jolly Roger, anime bracelet, anime accessories, One Piece merch, braided bracelet
+FRANCHISE: One Piece    CHARACTER: Monkey D. Luffy
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,000
+Total stock   : 7
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Fly the Straw Hat flag on your wrist.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Set sail with the Straw Hat crew. This braided black cord bracelet carries an antique bronze Jolly Roger charm topped with Luffy's red straw hat, finished with a secure metal clasp for everyday wear.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Raise the flag without saying a word. This One Piece-inspired bracelet wraps your wrist in a tough braided black cord and centres an antique bronze-tone Jolly Roger, complete with Luffy's signature red straw hat painted across the skull. It is the kind of subtle, premium-looking piece that other fans clock instantly while everyone else just sees a sharp accessory.</p><p>Built for daily rep duty, it dresses up a plain tee, layers cleanly with watches, and slides on fast thanks to a solid metal clasp. A fan-made tribute to the Straw Hat Pirates, designed for fans by fans and not affiliated with or endorsed by the official rights holders.</p><ul><li>Design: Straw Hat Pirates Jolly Roger with Luffy's red straw hat</li><li>Centerpiece: antique bronze / gold-tone metal alloy charm with red enamel accent</li><li>Band: braided black cord with a faux-leather finish</li><li>Closure: metal clasp for quick, secure fastening</li><li>Fit: unisex, sized for most adult wrists</li><li>Wear: everyday-friendly; layers well with watches and other bracelets</li><li>Care: keep dry, wipe with a soft cloth, store away from moisture to protect the finish</li><li>In the box: 1x One Piece-inspired bracelet</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Antique bronze Jolly Roger charm with Luffy's red straw hat
+  • Braided black cord band with a faux-leather finish
+  • Secure metal clasp slides on and off in seconds
+  • Unisex sizing fits most adult wrists
+  • Layers cleanly with watches and other bracelets
+  • Subtle Straw Hat flex any true One Piece fan will spot
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (48 chars)        : One Piece Bracelet - Straw Hat Jolly Roger Charm
+Meta Description (148 chars) : One Piece bracelet with an antique bronze Straw Hat Jolly Roger charm on a braided black cord. Unisex fit, secure metal clasp. Ships nationwide and.
+Focus keyword                       : One Piece bracelet
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: One Piece braided black cord bracelet with antique bronze Straw Hat Pirates Jolly Roger charm worn on a wrist
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a braided black cord bracelet with an antique bronze Jolly Roger skull charm wearing a small red straw hat, ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent on the straw hat. Halftone dot shading, sharp diagonal speed lines, subtle ink splatter framing the bracelet inside a clean manga panel border. Cinematic premium product lighting, macro focus on the metal charm and braided texture, high detail.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

@@ -1,0 +1,72 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Wings Of Freedom Chain With Swords
+SLUG         : wings-of-freedom-chain-with-swords
+BUMPA ID     : 1134910
+WOO TYPE     : simple
+PARENT SKU   : OSN-1134910
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Attack on Titan
+
+TAGS: Wings of Freedom chain, Attack on Titan necklace, Survey Corps pendant, Scout Regiment chain, AOT jewelry, anime pendant necklace, ODM gear chain, anime chains
+FRANCHISE: Attack on Titan    CHARACTER: Survey Corps (Scout Regiment)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦5,000
+Total stock   : 1000
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Survey Corps emblem flanked by twin ODM blades
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Carry the Scout Regiment crest with this Wings of Freedom pendant chain. The blue-and-white shield emblem sits between two bronze-tone ODM-style sword grips on a tarnish-resistant chain. Anime-inspired, built for everyday wear.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Dedicate your heart. This Wings of Freedom pendant puts the Survey Corps shield front and centre, the iconic blue-and-white wings layered in crisp enamel and framed by twin bronze-tone ODM-style sword grips. It is a clean, instantly recognisable nod to Attack on Titan that reads loud from across the room and still looks sharp up close.</p><p>Built on a durable metal chain that resists tarnish, it slips on over a tee, a hoodie or a uniform-style fit without fuss. Wipe it clean and it stays looking fresh, raid after raid. An anime-inspired piece for Scouts who wear the roster.</p><ul><li>Detailed Survey Corps "Wings of Freedom" shield pendant in blue and white enamel</li><li>Twin bronze-tone ODM-gear sword grips flanking the crest</li><li>Durable stainless-steel / alloy build that resists tarnish</li><li>Silver-tone link chain with secure lobster-clasp closure</li><li>Lightweight pendant that sits comfortably for all-day wear</li><li>Wipe clean with a soft dry cloth; keep away from moisture to preserve finish</li><li>Anime-inspired fan design; one pendant chain per order</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Survey Corps Wings of Freedom shield in crisp blue-and-white enamel
+  • Twin bronze-tone ODM-gear sword grips frame the crest
+  • Tarnish-resistant stainless-steel / alloy build
+  • Silver-tone chain with secure lobster-clasp closure
+  • Lightweight and comfortable for everyday wear
+  • Anime-inspired Attack on Titan fan piece
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (50 chars)        : Wings of Freedom Chain - AOT Survey Corps Necklace
+Meta Description (152 chars) : Attack on Titan Wings of Freedom pendant chain with twin ODM swords. Survey Corps crest in blue-and-white enamel, tarnish-resistant. Ships from Nigeria.
+Focus keyword                       : Wings of Freedom chain
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Attack on Titan Wings of Freedom pendant chain - blue and white Survey Corps shield emblem flanked by two bronze-tone ODM-gear swords on a silver-tone chain
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of an Attack on Titan Wings of Freedom pendant necklace: a blue-and-white enamel Survey Corps shield crest flanked by twin bronze sword grips on a silver-tone chain, laid on ink-black #111111 surface with paper-white #FAFAFA negative space. Single manga-red #E2261C accent slashing through the frame as a speed-line, halftone dot texture, sharp ink splatter, dramatic manga-panel framing, cinematic rim lighting, premium high-detail macro focus on the enamel wings.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

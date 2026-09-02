@@ -1,0 +1,80 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Black Clover Kimono
+SLUG         : black-clover-kimono
+BUMPA ID     : 1771945
+WOO TYPE     : simple
+PARENT SKU   : OSN-1771945
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Kimono
+
+TAGS: Black Clover kimono, Black Clover haori, Asta kimono, anime haori, anime kimono robe, five-leaf clover grimoire, anime layering piece, unisex anime kimono
+FRANCHISE: Black Clover    CHARACTER: Asta
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦15,000
+Total stock   : 99
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Split black-and-white clover haori for the chaser of the Wizard King throne
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+An anime-inspired Black Clover haori in a bold split black-and-white drape, splattered ink print and the five-leaf clover grimoire mark across the back. Lightweight, open-front and free-size, it layers like armour over any tee.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Surpass your limits without slowing down. This Black Clover kimono channels Asta's never-give-up grind into a striking half-black, half-white haori, finished with all-over ink splatter and the five-leaf clover grimoire crest blazing across the back beside the "BLACK CLOVER" logo and katakana. It is the kind of layer that turns a plain tee into a full statement.</p>
+<p>Cut as a lightweight, open-front robe with wide three-quarter sleeves and a relaxed free-size drape, it wears clean over a tee, hoodie or fitted top for everyday flexing, cons and photo sets. A fan / anime-inspired piece, not affiliated with or endorsed by the official licensors.</p>
+<ul>
+<li><strong>Style:</strong> open-front haori / kimono robe, no fastenings</li>
+<li><strong>Design:</strong> split black-and-white panels, all-over ink-splatter print, five-leaf clover grimoire crest with logo and katakana on the back</li>
+<li><strong>Fit:</strong> unisex free-size, relaxed drape with wide three-quarter sleeves</li>
+<li><strong>Wear:</strong> layering piece over tees, hoodies or fitted tops</li>
+<li><strong>Material:</strong> lightweight, breathable woven fabric with a soft hand-feel</li>
+<li><strong>Care:</strong> gentle cold wash, hang dry, do not tumble dry; iron low if needed</li>
+<li><strong>In the box:</strong> 1x Black Clover kimono (single option, no variants)</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Split black-and-white haori with the five-leaf clover grimoire crest on the back
+  • All-over ink-splatter manga print plus BLACK CLOVER logo and katakana
+  • Open-front layering robe with wide three-quarter sleeves
+  • Unisex free-size drape that throws straight over any tee
+  • Lightweight and breathable for everyday wear, cons and photo sets
+  • Fan / anime-inspired design, not affiliated with the official licensors
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (44 chars)        : Black Clover Kimono Haori | Asta Clover Robe
+Meta Description (149 chars) : Anime-inspired Black Clover kimono haori in split black & white with the five-leaf clover crest. Open-front, free-size layering robe. ₦15,000, ships.
+Focus keyword                       : Black Clover kimono
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black Clover anime kimono haori with split black-and-white panels, ink-splatter print and the white five-leaf clover grimoire crest across the back
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-Manga style studio product shot of an open-front anime haori kimono displayed on an invisible mannequin, split half ink black #111111 and half paper white #FAFAFA, all-over ink-splatter detailing, a single five-leaf clover crest accented in manga-red #E2261C, set against a paper-white #FAFAFA backdrop with halftone dots, bold speed lines and ink splatter framing the manga panel, dramatic cinematic side lighting, premium catalogue composition, high detail.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

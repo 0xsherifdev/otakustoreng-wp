@@ -1,0 +1,82 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Ace Jersey
+SLUG         : ace-jersey
+BUMPA ID     : 2193788
+WOO TYPE     : variable
+PARENT SKU   : OSN-2193788
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Jerseys
+  - Shop by Anime > One Piece
+
+TAGS: Ace, Portgas D. Ace, One Piece, anime jersey, all-over print, dye-sublimated jersey, anime streetwear, baseball jersey
+FRANCHISE: One Piece    CHARACTER: Portgas D. Ace
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦23,000
+Total stock   : 26
+VARIATIONS (attribute: Size)
+  L              | ₦23,000 | stock 8    | SKU OSN-2193788-L
+  XL             | ₦23,000 | stock 8    | SKU OSN-2193788-XL
+  2XL            | ₦23,000 | stock 10   | SKU OSN-2193788-2XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Wear the flame of the Whitebeard Pirates.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel Portgas D. Ace with this all-over-print One Piece anime jersey. Vivid edge-to-edge Flame-Flame graphics on lightweight, breathable polyester. Unisex, true-to-size, and built for conventions, watch parties, and everyday streetwear layering.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Light it up like the Second Division Commander himself. This Ace anime jersey brings Portgas D. Ace's blazing presence to life with bold all-over dye-sublimated artwork that runs edge to edge, capturing the heat of the Mera Mera no Mi and that unmistakable Whitebeard Pirates energy. The colours stay vivid wash after wash because the print is fused into the fabric, never cracking or peeling.</p>
+<p>Cut for a relaxed unisex fit and made from lightweight, breathable 100% polyester, it keeps you cool whether you're at a convention, a match-watch party, or layering it over a tee for everyday streetwear. Secure checkout, fast nationwide and worldwide delivery, plus easy returns. Priced at ₦23,000.</p>
+<ul>
+<li><strong>Material:</strong> 100% polyester, lightweight and breathable</li>
+<li><strong>Print:</strong> All-over dye-sublimated graphics, edge to edge, fade-resistant</li>
+<li><strong>Fit:</strong> Unisex, relaxed; true to size &mdash; if between sizes, size up</li>
+<li><strong>Sizing:</strong> Available in L, XL and 2XL</li>
+<li><strong>Care:</strong> Machine wash cold inside-out; do not iron directly on the print</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • All-over dye-sublimated Portgas D. Ace artwork, vivid edge to edge
+  • Lightweight, breathable 100% polyester that keeps you cool
+  • Relaxed unisex fit, true to size (size up if in between)
+  • Perfect for conventions, watch parties and streetwear layering
+  • Fade-resistant print that survives wash after wash
+  • Secure checkout with fast nationwide and worldwide delivery
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (43 chars)        : Ace Anime Jersey | One Piece All-Over Print
+Meta Description (139 chars) : Shop the Ace anime jersey: all-over-print One Piece design in breathable polyester. Unisex, true to size. Fast worldwide delivery. ₦23,000.
+Focus keyword                       : Ace anime jersey
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Portgas D. Ace One Piece all-over-print anime jersey in lightweight polyester, front view
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga aesthetic studio shot of a young model wearing an all-over-print One Piece baseball jersey featuring Portgas D. Ace. Ink black #111111 background with paper white #FAFAFA highlights and a single bold manga-red #E2261C accent used sparingly for the flame energy around the fabric. Halftone screentone dots, dramatic manga speed lines, brush-ink splatter, high-contrast monochrome with one red pop. Cinematic premium anime-streetwear mood, three-quarter pose, sharp rim lighting, manga panel framing.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

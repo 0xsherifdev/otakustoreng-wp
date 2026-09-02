@@ -1,0 +1,88 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Hidden Leaf Logo Ring
+SLUG         : hidden-leaf-logo-ring
+BUMPA ID     : 1508028
+WOO TYPE     : variable
+PARENT SKU   : OSN-1508028
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Rings
+  - Shop by Anime > Naruto
+
+TAGS: Hidden Leaf ring, Naruto ring, Konoha ring, Konohagakure, anime ring, stainless steel ring, Naruto accessories, anime jewelry
+FRANCHISE: Naruto    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦2,800
+Total stock   : 44
+VARIATIONS (attribute: Size)
+  7              | ₦2,800 | stock 2    | SKU OSN-1508028-7
+  8              | ₦2,800 | stock 7    | SKU OSN-1508028-8
+  9              | ₦2,800 | stock 7    | SKU OSN-1508028-9
+  10             | ₦2,800 | stock 9    | SKU OSN-1508028-10
+  11             | ₦2,800 | stock 9    | SKU OSN-1508028-11
+  12             | ₦2,800 | stock 10   | SKU OSN-1508028-12
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Konohagakure on your hand, every day.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Carry the Hidden Leaf with you. A blacked-out stainless steel band engraved with the Konohagakure symbol, beveled edges, and a brushed matte face. Tarnish-resistant and built for everyday wear, on or off the mission.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>The Will of Fire, sized to your finger. This anime-inspired band wears the Hidden Leaf Village (Konohagakure) symbol on a blacked-out stainless steel ring, engraved in clean silver against a brushed matte face with polished beveled edges. It is the kind of subtle flex that fellow shinobi clock instantly.</p>
+<p>Stainless steel keeps it tarnish-resistant and comfortable for daily wear, so it holds up whether you are stacking it with chains or wearing it solo. Pick your size at checkout and lock in your headband-free allegiance.</p>
+<ul>
+<li>Hidden Leaf Village (Konohagakure) symbol engraved on the band face</li>
+<li>Stainless steel construction with a blacked-out matte finish</li>
+<li>Polished beveled edges for a premium, comfortable feel</li>
+<li>Tarnish-resistant and built for everyday wear</li>
+<li>Available in sizes 7, 8, 9, 10, 11 and 12 (select your size at checkout)</li>
+<li>Unisex fit, ideal for stacking or wearing solo</li>
+<li>Fan-made, anime-inspired design; not affiliated with or endorsed by the rights holders</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Konohagakure symbol engraved on a blacked-out stainless steel band
+  • Brushed matte face with polished beveled edges
+  • Tarnish-resistant, made for everyday wear
+  • Available in sizes 7 through 12, unisex fit
+  • Stacks easily or stands on its own
+  • Fan-made Naruto-inspired design, not official
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (48 chars)        : Hidden Leaf Logo Ring | Naruto Konoha Steel Band
+Meta Description (142 chars) : Naruto-inspired Hidden Leaf (Konoha) ring in blacked-out stainless steel. Engraved Konohagakure symbol, sizes 7-12, tarnish-resistant. ₦2,800.
+Focus keyword                       : Hidden Leaf ring
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Blacked-out stainless steel ring engraved with the silver Hidden Leaf Village (Konohagakure) symbol from Naruto, shown on a dark textured surface.
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product still life of a blacked-out stainless steel band ring engraved with the Hidden Leaf Village (Konohagakure) leaf-and-swirl symbol in single manga-red #E2261C. Ink black #111111 background with paper white #FAFAFA halftone dot gradients, dynamic speed lines radiating outward, and a fine ink-splatter accent. Manga panel framing, cinematic studio lighting, sharp macro focus on the engraved symbol, premium glossy reflections on the polished beveled edges. No text, no logos other than the leaf symbol.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

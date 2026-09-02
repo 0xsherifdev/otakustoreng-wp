@@ -1,0 +1,76 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Sukuna B Jersey
+SLUG         : sukuna-b-jersey
+BUMPA ID     : 4846023
+WOO TYPE     : variable
+PARENT SKU   : OSN-4846023
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Jerseys
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Sukuna, Jujutsu Kaisen, anime jersey, all-over print, dye sublimation, manga streetwear, football jersey, King of Curses
+FRANCHISE: Jujutsu Kaisen    CHARACTER: Sukuna
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦23,000
+Total stock   : 249
+VARIATIONS (attribute: Size)
+  M              | ₦23,000 | stock 49   | SKU OSN-4846023-M
+  L              | ₦23,000 | stock 50   | SKU OSN-4846023-L
+  XL             | ₦23,000 | stock 50   | SKU OSN-4846023-XL
+  2XL            | ₦23,000 | stock 50   | SKU OSN-4846023-2XL
+  3XL            | ₦23,000 | stock 50   | SKU OSN-4846023-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The King of Curses, edge to edge.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel the King of Curses in this all-over-print Sukuna football jersey. Grayscale manga panels, a bold varsity 67, and that iconic four-eyed grin wrap edge to edge on lightweight, breathable polyester built for cons and watch parties.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Step out like Ryomen Sukuna himself in this all-over-print Jujutsu Kaisen jersey. Dye-sublimated manga panels flood the entire shirt in high-contrast black and grayscale, anchored by a bold varsity "67" up front, the King of Curses' unmistakable four-eyed grin on the chest, and a clean "JUJUTSU KAISEN" banner across the hem. The American-football cut with a ribbed V-neck and contrast trim makes it pure anime-streetwear energy.</p><p>Lightweight and breathable, it keeps you cool through long convention days, match-watch parties, and everyday layering. Vivid edge-to-edge graphics that won't crack or peel because the print is woven into the fabric, not slapped on top.</p><ul><li><strong>Material:</strong> 100% polyester, lightweight and breathable</li><li><strong>Print:</strong> All-over dye-sublimation, edge-to-edge graphics that won't crack or peel</li><li><strong>Cut:</strong> American-football style jersey with ribbed V-neck and contrast trim, unisex fit</li><li><strong>Sizing:</strong> True to size, sizes M to 3XL. Between sizes? Size up for a relaxed drape</li><li><strong>Care:</strong> Machine wash cold inside-out, do not iron directly on the print, hang to dry</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • All-over dye-sublimated print: vivid Sukuna manga-panel graphics edge to edge
+  • Iconic four-eyed grin and bold varsity 67 front and center
+  • Lightweight, breathable 100% polyester built for all-day wear
+  • Unisex American-football cut, true to size (M to 3XL)
+  • Perfect for conventions, watch parties, and streetwear layering
+  • Secure checkout, fast nationwide and worldwide delivery
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (51 chars)        : Sukuna Anime Jersey | Jujutsu Kaisen All-Over Print
+Meta Description (155 chars) : Sukuna anime jersey with all-over Jujutsu Kaisen manga print, bold 67 varsity number & breathable polyester. ₦23,000. Fast nationwide & worldwide delivery.
+Focus keyword                       : Sukuna anime jersey
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Sukuna Jujutsu Kaisen all-over-print football jersey in black and grayscale with varsity number 67 and four-eyed grin motif
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga aesthetic studio shot of a Jujutsu Kaisen Sukuna all-over-print football jersey on a faceless streetwear model, three-quarter pose. Palette strictly ink black #111111 and paper white #FAFAFA with a single bold manga-red #E2261C accent used sparingly. Background layered with halftone screentone dots, sharp manga speed lines radiating outward, and brush-ink splatter. High-contrast monochrome lighting, cinematic premium anime-streetwear mood, manga panel border framing, subtle red pop on a stray ink splash. No text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

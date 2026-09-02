@@ -1,0 +1,72 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Ichigo Black Dogtag
+SLUG         : ichigo-black-dogtag
+BUMPA ID     : 1927295
+WOO TYPE     : simple
+PARENT SKU   : OSN-1927295
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Bleach
+
+TAGS: Ichigo dogtag, Bleach necklace, Hollow mask pendant, anime dog tag, Ichigo Kurosaki, Bleach merch, stainless steel necklace, anime necklace, black dogtag chain, Soul Reaper accessory
+FRANCHISE: Bleach    CHARACTER: Ichigo Kurosaki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦6,000
+Total stock   : 8
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Hollow mask, etched in matte black steel.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A matte black stainless-steel dog tag with Ichigo's Hollow mask laser-etched in stark white, strung on a blacked-out ball chain. Tarnish-resistant, wipe-clean, and built to anchor any Bleach fit. Fan-inspired, not affiliated.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Hollowfication, on a chain. The <strong>Ichigo Black Dogtag</strong> puts Ichigo Kurosaki's iconic Hollow mask front and centre, laser-etched in crisp white against a blacked-out stainless-steel tag. Matte finish, sharp linework, zero glare - it reads clean from across the room and even cleaner up close.</p><p>Strung on a blacked-out ball chain that drops over a tee, hoodie or jersey without fighting your fit, it's a slept-on essential for any Soul Reaper. Tough enough for daily wear, easy to keep fresh - just wipe it down. Wear the roster.</p><ul><li><strong>Design:</strong> Ichigo Kurosaki Hollow mask, laser-etched white on matte black (Bleach-inspired)</li><li><strong>Pendant:</strong> Classic dog-tag silhouette in durable, tarnish-resistant stainless steel</li><li><strong>Chain:</strong> Blacked-out ball chain, standard wearable length</li><li><strong>Finish:</strong> Matte black with high-contrast white etch detail</li><li><strong>Care:</strong> Wipe clean with a soft dry cloth; keep away from moisture and harsh chemicals</li><li><strong>Style:</strong> Unisex - layers easily or wears solo</li><li><strong>Shipping:</strong> Ships from Nigeria, nationwide and worldwide</li></ul><p>Fan / anime-inspired merch. Not official or licensed, and not affiliated with the rights holders.</p>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Ichigo's Hollow mask laser-etched in stark white on matte black steel
+  • Durable, tarnish-resistant stainless-steel dog-tag pendant
+  • Blacked-out ball chain in a standard, easy-to-wear length
+  • High-contrast design that layers over any Bleach fit
+  • Unisex piece - wear it solo or stacked
+  • Wipe clean and built for everyday wear
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (49 chars)        : Ichigo Black Dogtag Necklace | Bleach Hollow Mask
+Meta Description (150 chars) : Ichigo Hollow mask dog tag in matte black stainless steel on a blacked-out chain. Tarnish-resistant Bleach-inspired necklace. ₦6,000. Ships worldwide.
+Focus keyword                       : Ichigo dogtag necklace
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Matte black stainless-steel dog-tag pendant laser-etched with Ichigo's white Hollow mask, on a black ball chain
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product studio shot: a matte black stainless-steel dog-tag pendant etched with Ichigo's white Hollow mask, hanging on a blacked-out ball chain, suspended against an ink-black #111111 backdrop. Halftone dot texture and sharp diagonal manga speed lines radiating behind the tag, a single ink splatter accent in manga-red #E2261C, paper-white #FAFAFA highlight on the etched mask. Cinematic premium lighting, tight focus on the pendant, manga-panel framing, high contrast, dramatic shadow.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

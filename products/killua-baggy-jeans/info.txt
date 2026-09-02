@@ -1,0 +1,76 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Killua Baggy Jeans
+SLUG         : killua-baggy-jeans
+BUMPA ID     : 2119166
+WOO TYPE     : variable
+PARENT SKU   : OSN-2119166
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Trousers
+  - Shop by Anime > Hunter x Hunter
+
+TAGS: Killua, Hunter x Hunter, Killua Zoldyck, anime jeans, baggy jeans, anime denim, anime streetwear, Hunter x Hunter clothing, anime trousers, manga merch
+FRANCHISE: Hunter x Hunter    CHARACTER: Killua Zoldyck
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦27,000
+Total stock   : 50
+VARIATIONS (attribute: Size)
+  M              | ₦27,000 | stock 10   | SKU OSN-2119166-M
+  L              | ₦27,000 | stock 10   | SKU OSN-2119166-L
+  XL             | ₦27,000 | stock 10   | SKU OSN-2119166-XL
+  2XL            | ₦27,000 | stock 10   | SKU OSN-2119166-2XL
+  3XL            | ₦27,000 | stock 10   | SKU OSN-2119166-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Godspeed energy, full-leg print, baggy fit
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Dark indigo baggy denim with a full-leg Killua print and crackling electric aura. Relaxed, streetwear cut for everyday wear and matches any Hunter x Hunter fit. Unisex sizing M through 3XL.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the Zoldyck assassin in motion. These baggy denim jeans drop in deep indigo with a bold full-leg print of Killua mid-strike, his Godspeed lightning crackling across the thigh in electric white. It is a fan-made, anime-inspired piece built for fans who want their roster on their legs, not just their chest.</p><p>The relaxed, wide-leg cut gives you that authentic loose streetwear silhouette with room to move. Stack them over chunky sneakers or cuff them clean, then pair with a matching Hunter x Hunter tee or hoodie to complete the drop.</p><ul><li>Material: durable cotton-blend denim</li><li>Fit: baggy, relaxed wide-leg, unisex sizing</li><li>Print: full-leg Killua graphic with electric lightning aura</li><li>Closure: zip fly with button, belt loops</li><li>Pockets: classic five-pocket styling</li><li>Sizes: M, L, XL, 2XL, 3XL</li><li>Pair with: matching anime jersey, tee or hoodie</li><li>Care: turn inside out, machine wash cold, hang dry to protect the print</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Full-leg Killua Zoldyck print with crackling Godspeed lightning aura
+  • Baggy, relaxed wide-leg denim in deep indigo
+  • Durable cotton-blend denim with classic five-pocket styling
+  • Unisex sizing from M to 3XL
+  • Fan-made, anime-inspired, not affiliated with any official brand
+  • Pairs perfectly with matching Hunter x Hunter tees and hoodies
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (42 chars)        : Killua Baggy Jeans | Hunter x Hunter Denim
+Meta Description (149 chars) : Killua Zoldyck baggy denim jeans with full-leg print and electric aura. Anime-inspired Hunter x Hunter streetwear, sizes M-3XL. Ships nationwide and.
+Focus keyword                       : Killua baggy jeans
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Deep indigo baggy denim jeans with a full-leg print of Killua Zoldyck in a white tank top, surrounded by his electric blue lightning aura
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-Manga studio product shot of deep indigo baggy denim jeans laid flat on paper-white #FAFAFA backdrop, full-leg Killua-inspired character print with crackling electric aura rendered in single manga-red #E2261C accent against ink black #111111 line art, halftone dot shading, sharp speed lines radiating outward, subtle ink splatter in corners, manga panel framing, premium cinematic lighting, high detail
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

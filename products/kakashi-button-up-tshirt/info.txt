@@ -1,0 +1,75 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Kakashi button up Tshirt
+SLUG         : kakashi-button-up-tshirt
+BUMPA ID     : 3099574
+WOO TYPE     : variable
+PARENT SKU   : OSN-3099574
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+  - Shop by Anime > Naruto
+
+TAGS: Kakashi tshirt, Naruto tshirt, Kakashi Hatake, anime tshirt, Copy Ninja, Hidden Leaf, Naruto merch, button-up anime tee
+FRANCHISE: Naruto    CHARACTER: Kakashi Hatake
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦18,000
+Total stock   : 36
+VARIATIONS (attribute: Size)
+  L              | ₦18,000 | stock 7    | SKU OSN-3099574-L
+  XL             | ₦18,000 | stock 9    | SKU OSN-3099574-XL
+  2XL            | ₦18,000 | stock 10   | SKU OSN-3099574-2XL
+  3XL            | ₦18,000 | stock 10   | SKU OSN-3099574-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Copy Ninja swagger, off the field and on the streets
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A Kakashi-inspired button-up tee that channels the Copy Ninja's cool. Soft, breathable, unisex regular fit with a crew-collar comfort and durable fade-resistant graphics built for everyday Leaf Village energy. Sizes L to 3XL.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Bring the Copy Ninja's calm, unbothered swagger to your everyday rotation. This Kakashi Hatake button-up tee is an anime-inspired Naruto piece for fans who want the Sixth Hokage's silver-haired, masked-up mystique without shouting about it. Clean lines, bold graphics and that signature low-key cool.</p><p>Cut for comfort in a unisex regular fit, it layers easily over a tee or wears solo when the mission calls for it. The print is built to hold up wash after wash so your Hidden Leaf loyalty never fades.</p><ul><li>Character: Kakashi Hatake, anime-inspired (fan design, not affiliated or official)</li><li>Fit: unisex regular fit, true to size</li><li>Fabric: soft, breathable cotton-rich blend with a comfortable hand-feel</li><li>Print: durable, fade-resistant graphic finish</li><li>Sizes available: L, XL, 2XL, 3XL</li><li>Care: machine wash cold, inside-out; do not bleach; hang or low tumble dry</li><li>Styling: wear open as a layer or solo for a relaxed streetwear look</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Kakashi Hatake anime-inspired Naruto design for true Hidden Leaf fans
+  • Unisex regular fit, true to size and easy to layer
+  • Soft, breathable cotton-rich blend for all-day wear
+  • Durable, fade-resistant print that survives wash after wash
+  • Available in L, XL, 2XL and 3XL
+  • Machine washable cold, inside-out for lasting color
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (43 chars)        : Kakashi Button-Up Tshirt | Naruto Anime Tee
+Meta Description (147 chars) : Kakashi Hatake button-up tshirt, anime-inspired Naruto design. Soft cotton-rich, unisex fit, fade-resistant print. Sizes L-3XL. Ships from Nigeria.
+Focus keyword                       : Kakashi button-up tshirt
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Kakashi Hatake anime-inspired Naruto button-up t-shirt in front view
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a folded button-up t-shirt featuring a Kakashi Hatake-inspired ninja graphic. Ink black #111111 background, paper white #FAFAFA garment highlights, single manga-red #E2261C accent on the Sharingan eye motif. Halftone dot shading, dynamic speed lines, ink splatter framing, manga panel borders. Premium cinematic lighting, sharp focus on fabric texture, high-end apparel catalog feel. No text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

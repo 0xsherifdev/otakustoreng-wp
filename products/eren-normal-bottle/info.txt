@@ -1,0 +1,82 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Eren normal bottle
+SLUG         : eren-normal-bottle
+BUMPA ID     : 4430169
+WOO TYPE     : simple
+PARENT SKU   : OSN-4430169
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Bottles & Drinkware
+  - Shop by Anime > Attack on Titan
+
+TAGS: Eren water bottle, Attack on Titan bottle, Eren Yeager, Survey Corps, anime water bottle, AOT drinkware, anime bottle Nigeria, fan bottle
+FRANCHISE: Attack on Titan    CHARACTER: Eren Yeager
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦11,000
+Total stock   : 500
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the Survey Corps everywhere you go.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+An Eren Yeager water bottle for Attack on Titan fans. Wraparound character art, flip-top lock lid and easy-sip spout. Lightweight everyday drinkware built to carry the roster to class, training or the gym.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Devote your heart to staying hydrated. This Eren Yeager water bottle wraps full-colour Attack on Titan artwork around the body, complete with Survey Corps Wings of Freedom detailing, so the whole roster rides with you to class, the gym, the office or the next late-night rewatch.</p>
+<p>The flip-top cap snaps open with a locking button and a comfortable carry loop, while the moulded spout makes one-handed sipping easy on the move. A clean fan-inspired piece that looks as good on your desk as it does in your bag.</p>
+<ul>
+<li>Franchise: Attack on Titan, featuring Eren Yeager and Survey Corps emblem artwork</li>
+<li>Type: single-wall sports water bottle with full wraparound print</li>
+<li>Lid: flip-top cap with locking button, sip spout and carry loop</li>
+<li>Materials: food-safe plastic body and lid</li>
+<li>Use: ideal for water and cold drinks; everyday school, gym and travel use</li>
+<li>Care: hand-wash gently and air-dry to protect the print; avoid dishwasher, microwave and boiling liquids</li>
+<li>In the box: 1 x Eren water bottle (single option, no variants)</li>
+<li>Fan / anime-inspired design, not affiliated with or endorsed by the official licence holders</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Full wraparound Eren Yeager and Survey Corps artwork
+  • Flip-top lid with locking button and easy-sip spout
+  • Built-in carry loop for bag, gym and travel
+  • Food-safe plastic, lightweight everyday drinkware
+  • Hand-wash recommended to keep the print sharp
+  • Fan / anime-inspired, not affiliated with the licence holder
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : Eren Water Bottle | Attack on Titan Drinkware
+Meta Description (154 chars) : Eren Yeager Attack on Titan water bottle with wraparound art, flip-top lock lid and sip spout. Fan drinkware at Otaku Store NG, ₦11,000. Ships nationwide.
+Focus keyword                       : Eren water bottle
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Attack on Titan Eren Yeager water bottle with flip-top lid, held up showing wraparound character and Survey Corps artwork
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of an Attack on Titan Eren Yeager sports water bottle with a flip-top lid and sip spout, standing upright centre frame. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent. Halftone dot shading, dynamic speed lines and ink splatter radiating behind the bottle, framed inside a manga panel border. Premium, cinematic lighting, sharp focus on the wraparound character print. No text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

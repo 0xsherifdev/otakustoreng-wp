@@ -1,0 +1,81 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Akastuki Bucket Hat
+SLUG         : akastuki-bucket-hat
+BUMPA ID     : 1143825
+WOO TYPE     : simple
+PARENT SKU   : OSN-1143825
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Headwear
+  - Shop by Anime > Naruto
+
+TAGS: Akatsuki bucket hat, Naruto bucket hat, Akatsuki cloud, anime bucket hat, Naruto headwear, anime hat Nigeria, Akatsuki merch, Naruto streetwear
+FRANCHISE: Naruto    CHARACTER: Akatsuki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦7,000
+Total stock   : 998
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Rain of red clouds. Rogue-ninja drip.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A black bucket hat splashed with the iconic red Akatsuki clouds. Bold all-over print, topstitched brim and a soft, breathable build that pulls any Naruto fit together. One-size, anime-inspired, and ready to wear daily.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Pull the hood down and let the clouds do the talking. This Akatsuki bucket hat covers a deep ink-black base in the rogue organisation's signature red clouds, each one crisply outlined in white so the motif reads loud from across the room. It's the kind of piece that finishes a streetwear fit, shades you on the walk home, and instantly flags you as someone who knows the roster.</p>
+<p>Built with a soft, breathable fabric and a clean topstitched brim, it sits comfortably for long wear and packs flat for the bag. Anime-inspired fan design, not affiliated with or endorsed by the official rights holders.</p>
+<ul>
+<li>Style: classic bucket hat with a downturned, topstitched brim</li>
+<li>Design: all-over red Akatsuki cloud print on a black base, white outlines</li>
+<li>Fit: one-size, suits most adult head sizes</li>
+<li>Feel: soft, lightweight, breathable fabric for everyday wear</li>
+<li>Wear: great for sun cover, casual streetwear and convention looks</li>
+<li>Care: hand wash cold, reshape and air dry to protect the print</li>
+<li>Note: fan / anime-inspired design, not an official licensed product</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Iconic red Akatsuki cloud print on deep ink black
+  • Crisp white-outlined clouds wrap the whole hat
+  • One-size bucket fit for most adult head sizes
+  • Soft, breathable fabric with a clean topstitched brim
+  • Perfect cap-off for any Naruto streetwear fit
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (43 chars)        : Akatsuki Bucket Hat | Naruto Cloud Headwear
+Meta Description (148 chars) : Black bucket hat with the iconic red Akatsuki cloud print. One-size, soft and breathable. Anime-inspired Naruto headwear from Otaku Store NG. Ships.
+Focus keyword                       : Akatsuki bucket hat
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Black Akatsuki bucket hat covered in the red Naruto rogue-ninja clouds with white outlines
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a black bucket hat covered in bold red cloud motifs with crisp white outlines, single manga-red #E2261C accent against ink-black #111111 and paper-white #FAFAFA backdrop. Hat shown three-quarter angle on a minimal pedestal, dramatic cinematic side lighting, halftone-dot shading, sharp speed lines radiating from behind, subtle ink-splatter framing in manga panels. Premium, high-contrast, editorial product photography, sharp focus on the topstitched brim and all-over print.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

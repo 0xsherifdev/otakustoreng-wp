@@ -1,0 +1,81 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Luffy gym bottle
+SLUG         : luffy-gym-bottle
+BUMPA ID     : 4430193
+WOO TYPE     : simple
+PARENT SKU   : OSN-4430193
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Bottles & Drinkware
+  - Shop by Anime > One Piece
+
+TAGS: Luffy gym bottle, Gear 5 Luffy, One Piece water bottle, anime tumbler, Sun God Nika, One Piece drinkware, stainless steel bottle, anime gym bottle
+FRANCHISE: One Piece    CHARACTER: Monkey D. Luffy
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦19,000
+Total stock   : 500
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Gear 5 Nika energy in every sip
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A tall, slim stainless-steel gym bottle wrapped in Gear 5 Luffy "Sun God Nika" artwork. Insulated double walls keep your water cold through the whole workout, the leak-resistant lid travels easy, and that bold manga print turns heads at the rack.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Train like the future Pirate King. This Gear 5 Luffy gym bottle is wrapped in full-colour "Sun God Nika" artwork — the laughing, white-haired awakening straight from the Onigashima rooftop — printed bold across a tall, slim stainless-steel body that fits most cup holders and gym bag pockets. Whether you're chasing PRs or just chasing your next chapter, it carries the same free, unstoppable energy.</p>
+<p>Double-wall construction helps keep cold drinks cold through long sessions, while the secure screw-on lid keeps water where it belongs in your bag. A fan-made tribute for One Piece crews who like their hydration loud.</p>
+<ul>
+<li>Anime-inspired Gear 5 Monkey D. Luffy "Nika" artwork (fan design, not affiliated with the official series)</li>
+<li>Tall, slim stainless-steel body with insulated double-wall build to help keep drinks cold</li>
+<li>Secure screw-on lid for travel; includes drinking lid</li>
+<li>Slim profile sized to slip into gym bags and most cup holders</li>
+<li>Food-safe materials; ideal for water and cold drinks</li>
+<li>Single capacity option, no variants</li>
+<li>Hand-wash only to protect the print; avoid dishwasher, microwave and freezer</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Gear 5 Luffy Sun God Nika full-wrap manga artwork
+  • Insulated double-wall stainless steel keeps drinks cold
+  • Slim, tall build fits gym bags and most cup holders
+  • Secure screw-on lid for spill-resistant travel
+  • Hand-wash only to keep the print sharp
+  • Fan-made One Piece tribute, not affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (43 chars)        : Luffy Gym Bottle | Gear 5 One Piece Tumbler
+Meta Description (149 chars) : Gear 5 Luffy gym bottle in slim insulated stainless steel with Sun God Nika art. Keeps drinks cold for every workout. Ships nationwide and worldwide.
+Focus keyword                       : Luffy gym bottle
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Tall slim stainless-steel gym bottle featuring full-colour Gear 5 Luffy Sun God Nika artwork held in hand inside an anime merch store
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a tall slim stainless-steel gym tumbler wrapped in Gear 5 Luffy "Sun God Nika" line art, ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent on the lid and a slash of speed lines, halftone dot shading, dramatic ink splatter, manga panel framing, condensation droplets on the metal, cinematic rim lighting, premium catalogue hero composition, centered, high detail
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

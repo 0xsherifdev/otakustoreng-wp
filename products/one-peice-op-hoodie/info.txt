@@ -1,0 +1,87 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : One Peice Op Hoodie
+SLUG         : one-peice-op-hoodie
+BUMPA ID     : 1125263
+WOO TYPE     : variable
+PARENT SKU   : OSN-1125263
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+  - Shop by Anime > One Piece
+
+TAGS: One Piece hoodie, anime hoodie, One Piece merch, pullover hoodie, anime streetwear, graphic hoodie, otaku fashion, manga hoodie
+FRANCHISE: One Piece    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦22,000
+Total stock   : 500
+VARIATIONS (attribute: Size)
+  M              | ₦22,000 | stock 100  | SKU OSN-1125263-M
+  L              | ₦22,000 | stock 100  | SKU OSN-1125263-L
+  XL             | ₦22,000 | stock 100  | SKU OSN-1125263-XL
+  2XL            | ₦22,000 | stock 100  | SKU OSN-1125263-2XL
+  XXXL           | ₦22,000 | stock 100  | SKU OSN-1125263-XXXL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Set sail in heavyweight Grand Line style.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Pull on the pirate energy with this anime-inspired One Piece hoodie. Brushed-fleece interior keeps you warm, a roomy kangaroo pocket and ribbed cuffs lock in that streetwear fit. Bold print, all-day comfort, ready for the Grand Line.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Hoist the Jolly Roger and rep the crew. This One Piece-inspired pullover hoodie pairs a bold, fan-favourite graphic with a thick, cosy build made for everyday wear. The brushed-fleece interior traps warmth while the unisex streetwear cut keeps things relaxed, so it layers clean over a tee or under a jacket.</p>
+<p>Built from thick cotton fabric with reinforced ribbed cuffs and hem, it holds its shape wash after wash. Whether you're heading out or settling in for a binge, this is the kind of hoodie you reach for on repeat.</p>
+<ul>
+<li>Pullover hoodie with bold anime-inspired One Piece graphic print</li>
+<li>Thick cotton fabric with a soft brushed-fleece interior for warmth</li>
+<li>Ribbed cuffs and hem for a snug, structured finish</li>
+<li>Roomy front kangaroo pocket for hands and essentials</li>
+<li>Unisex streetwear fit</li>
+<li>Available in M, L, XL, 2XL and XXXL</li>
+<li>Machine wash cold, inside-out, to protect the print</li>
+<li>Fan-made design, anime-inspired and not affiliated with or endorsed by the rights holders</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Thick cotton build with brushed-fleece interior for serious warmth
+  • Bold One Piece-inspired graphic print
+  • Ribbed cuffs and hem hold their shape
+  • Roomy kangaroo pocket and unisex streetwear fit
+  • Sizes M through XXXL
+  • Machine wash cold inside-out
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (50 chars)        : One Piece Hoodie | Anime Pullover | Otaku Store NG
+Meta Description (155 chars) : Anime-inspired One Piece pullover hoodie. Thick cotton, brushed-fleece warmth, ribbed cuffs, kangaroo pocket. Sizes M-XXXL. Ships nationwide and worldwide.
+Focus keyword                       : One Piece hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: One Piece-inspired pullover hoodie with bold anime graphic print, kangaroo pocket and ribbed cuffs
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga style studio product shot of a One Piece-inspired pullover hoodie on an invisible mannequin, centered in a manga panel. Ink black #111111 background, paper white #FAFAFA garment, single manga-red #E2261C accent on the drawstrings and graphic. Halftone dot shading, dynamic speed lines radiating outward, ink splatter in the corners, sharp manga panel border. Premium, cinematic lighting, high contrast, crisp fabric texture showing ribbed cuffs and kangaroo pocket.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

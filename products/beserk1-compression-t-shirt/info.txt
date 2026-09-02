@@ -1,0 +1,75 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Beserk1 compression T-shirt
+SLUG         : beserk1-compression-t-shirt
+BUMPA ID     : 2987812
+WOO TYPE     : variable
+PARENT SKU   : OSN-2987812
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+  - Shop by Anime > Berserk
+
+TAGS: Berserk, Guts, Berserk t-shirt, compression t-shirt, anime compression shirt, Black Swordsman, anime gym shirt, Berserk merch, anime t-shirt Nigeria
+FRANCHISE: Berserk    CHARACTER: Guts
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦17,000
+Total stock   : 400
+VARIATIONS (attribute: Size)
+  L              | ₦17,000 | stock 100  | SKU OSN-2987812-L
+  XL             | ₦17,000 | stock 100  | SKU OSN-2987812-XL
+  2XL            | ₦17,000 | stock 100  | SKU OSN-2987812-2XL
+  3XL            | ₦17,000 | stock 100  | SKU OSN-2987812-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Strap on the Dragonslayer. Compression-fit Berserk armour.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A Berserk-inspired compression tee built for the Black Swordsman. Second-skin performance fit in stretch polyester, with bold Guts graphics and a fade-resistant print made to survive every fight, gym set and convention run.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some heroes flinch. Guts swings the Dragonslayer. This Berserk-inspired compression T-shirt channels the relentless energy of the Black Swordsman into a second-skin athletic fit, hugging the frame so the artwork moves with you through every rep, raid and rooftop sprint. The high-contrast graphic is engineered to read sharp under any light, while the stretch knit keeps you cool when the Eclipse heats up.</p><p>Cut for fans who train as hard as they collect, this is everyday battle armour for the gym, the dojo or the next con floor. A fan-made, anime-inspired piece for serious Berserk diehards (not affiliated with or endorsed by the official rights holders).</p><ul><li>Berserk / Guts-inspired graphic, fan-designed art</li><li>Compression performance fit, true second-skin silhouette</li><li>Lightweight stretch polyester knit, moisture-friendly and quick-drying</li><li>Crew neck with four-way stretch for full range of motion</li><li>Durable, fade-resistant sublimation-style print</li><li>Unisex sizing: L, XL, 2XL, 3XL</li><li>Machine wash cold, inside-out; hang or lay flat to dry; do not iron the print</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Berserk / Guts-inspired graphic for hardcore Black Swordsman fans
+  • Compression second-skin fit in lightweight stretch polyester
+  • Four-way stretch crew neck moves with every rep and raid
+  • Durable fade-resistant print that survives gym, dojo and con runs
+  • Unisex sizing L to 3XL
+  • Ships nationwide across Nigeria and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (49 chars)        : Berserk Guts Compression T-Shirt | Otaku Store NG
+Meta Description (151 chars) : Berserk-inspired Guts compression T-shirt in stretch polyester. Second-skin fit, fade-resistant print, sizes L-3XL. Ships across Nigeria and worldwide.
+Focus keyword                       : Berserk compression t-shirt
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Berserk-inspired Guts compression T-shirt in black with bold manga graphic, fitted athletic cut
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a black compression athletic T-shirt with a bold Berserk Guts-inspired graphic, displayed on a muscular mannequin torso. Ink black #111111 background, paper white #FAFAFA rim light, single manga-red #E2261C accent slashing across the frame. Halftone dot shading, sharp speed lines and a streak of ink splatter behind the figure, framed inside a clean manga panel border. Premium, cinematic, high-contrast lighting emphasizing the second-skin compression fit; no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

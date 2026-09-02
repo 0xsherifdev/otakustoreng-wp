@@ -1,0 +1,75 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Gojou hoodie
+SLUG         : gojou-hoodie-3167919
+BUMPA ID     : 3167919
+WOO TYPE     : variable
+PARENT SKU   : OSN-3167919
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Gojo hoodie, Gojo Satoru, Jujutsu Kaisen hoodie, anime hoodie, JJK merch, pullover hoodie, anime streetwear, manga hoodie
+FRANCHISE: Jujutsu Kaisen    CHARACTER: Gojo Satoru
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦21,000
+Total stock   : 79
+VARIATIONS (attribute: Size)
+  L              | ₦21,000 | stock 19   | SKU OSN-3167919-L
+  XL             | ₦21,000 | stock 20   | SKU OSN-3167919-XL
+  2XL            | ₦21,000 | stock 20   | SKU OSN-3167919-2XL
+  3XL            | ₦21,000 | stock 20   | SKU OSN-3167919-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Six Eyes energy. Domain-level drip.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A black pullover hoodie built for Gojo Satoru fans: bold front manga panel, hand-sign graphic across the back, brushed-fleece warmth and a roomy kangaroo pocket. Unisex streetwear fit that carries the strongest sorcerer wherever you go.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the strongest sorcerer. This Gojo Satoru hoodie pairs a stark black-and-white manga panel on the front, framed in kanji and his name, with his unmistakable hand-sign graphic running up the back. Clean, high-contrast, and built to turn heads on campus, in the studio or out on the street.</p><p>Brushed-fleece on the inside means real warmth without the bulk, while the unisex streetwear cut layers easily over a tee or under a jacket. Anime-inspired and made for fans, not affiliated with or endorsed by the rights holders.</p><ul><li>Pullover hoodie with double-lined drawstring hood</li><li>Front manga-panel print plus full back hand-sign graphic</li><li>Brushed-fleece interior for soft, cosy warmth</li><li>Ribbed cuffs and hem to lock in heat and hold shape</li><li>Roomy front kangaroo pocket</li><li>Unisex streetwear fit, available in L, XL, 2XL and 3XL</li><li>Machine wash cold, inside-out; do not tumble dry the print</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold Gojo Satoru manga panel on the front
+  • Iconic hand-sign graphic across the full back
+  • Brushed-fleece interior for everyday warmth
+  • Ribbed cuffs, hem and roomy kangaroo pocket
+  • Unisex streetwear fit in L to 3XL
+  • Anime-inspired fan design, not affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (56 chars)        : Gojo Hoodie | Jujutsu Kaisen Fan Hoodie | Otaku Store NG
+Meta Description (150 chars) : Shop the Gojo Satoru hoodie: black pullover with front manga panel and back hand-sign print, brushed-fleece warmth. Sizes L-3XL. Ships nationwide and.
+Focus keyword                       : Gojo hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black Gojo Satoru pullover hoodie showing a front manga-panel print and a back hand-sign graphic with kanji
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a black pullover hoodie on an invisible mannequin, three-quarter angle. Ink black #111111 background with paper white #FAFAFA halftone dots and dramatic speed lines radiating outward, a single manga-red #E2261C accent slashing through the frame like ink splatter. Hoodie front shows a high-contrast black-and-white Gojo Satoru manga panel; cinematic rim lighting, premium streetwear catalogue feel, sharp ink linework, manga panel borders framing the composition.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

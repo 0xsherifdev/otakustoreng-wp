@@ -1,0 +1,72 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Aot Hand Gloves
+SLUG         : aot-hand-gloves
+BUMPA ID     : 1146079
+WOO TYPE     : simple
+PARENT SKU   : OSN-1146079
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Shop by Anime > Attack on Titan
+
+TAGS: attack on titan gloves, survey corps gloves, aot fingerless gloves, wings of freedom, glow in the dark gloves, anime gloves, aot accessories, anime fingerless gloves
+FRANCHISE: Attack on Titan    CHARACTER: Survey Corps
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦3,800
+Total stock   : 1000
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Glow-in-the-dark Wings of Freedom fingerless gloves
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Rep the Survey Corps with these black knit fingerless gloves. The Wings of Freedom emblem prints crisp white by day and glows electric blue in the dark. Stretchy, warm and built for everyday wear.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Join the Survey Corps every time you step out. These Attack on Titan-inspired fingerless gloves carry the iconic Wings of Freedom emblem and "Survey Corps" wordmark across the back of the hand, in clean white that flips to a glowing electric-blue under low light. It is the kind of subtle detail that real fans clock instantly.</p><p>Knit from soft, stretchy fabric, they hug the wrist and forearm while leaving fingers and thumb free, so you can scroll, game, ride and grip without taking them off. Lightweight enough for layering, warm enough for cool evenings, and an easy way to rep the roster on a budget.</p><ul><li>Design: Survey Corps "Wings of Freedom" crest with Attack on Titan / Survey Corps lettering</li><li>Glow feature: print appears white in daylight and glows electric blue in the dark</li><li>Style: fingerless, half-finger knit gloves covering wrist and lower forearm</li><li>Material: soft, stretchy knit fabric for a snug, flexible fit</li><li>Fit: one-size stretch, suits most adult hands</li><li>Sold as: one matching pair</li><li>Care: hand wash cold, lay flat to dry; avoid bleach and high heat to protect the glow print</li><li>Fan / anime-inspired merch — not official or affiliated with the licensor</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Survey Corps Wings of Freedom emblem on the back of each hand
+  • Glow-in-the-dark print: white by day, electric blue in the dark
+  • Soft stretchy knit with a snug, flexible fit
+  • Fingerless design keeps fingers free for phone, gaming and grip
+  • One-size stretch fits most adult hands
+  • Sold as a matching pair for ₦3,800
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (56 chars)        : AOT Survey Corps Glow Fingerless Gloves | Otaku Store NG
+Meta Description (155 chars) : Attack on Titan Survey Corps fingerless gloves with glow-in-the-dark Wings of Freedom print. Soft stretchy knit pair. ₦3,800. Ships nationwide & worldwide.
+Focus keyword                       : attack on titan gloves
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Black Attack on Titan fingerless knit gloves with glowing blue Survey Corps Wings of Freedom emblem on the back of the hands
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of black fingerless knit gloves bearing the Attack on Titan Survey Corps "Wings of Freedom" crest. Ink black #111111 background with paper white #FAFAFA negative space, single manga-red #E2261C accent line. Halftone dot shading, sharp speed lines radiating outward, ink splatter in corners, framed in a manga panel. The crest print glows soft blue-white as if luminous in darkness. Premium, cinematic, high-contrast lighting, crisp focus on the woven fabric texture.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - QA fixes applied: meta_description was 157 characters, exceeding the 155-character limit. Trimmed to 155 by changing 'nationwide and worldwide' to 'nationwide & worldwide'.; Minor glow-color inconsistency: subtitle, short_description and highlights say 'electric blue', but long_description_html said 'glows blue-green'. Harmonized the long description to 'electric blue' for a consistent, non-contradictory claim.
+================================================================================

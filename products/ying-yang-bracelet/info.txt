@@ -1,0 +1,83 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Ying Yang Bracelet
+SLUG         : ying-yang-bracelet
+BUMPA ID     : 1149187
+WOO TYPE     : simple
+PARENT SKU   : OSN-1149187
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Couple Accessories
+  - Accessories > Bracelets
+
+TAGS: yin yang bracelet, couple bracelet set, matching bracelets, his and hers bracelet, anime bracelet, dragon bracelet, couple accessories, best friend bracelet
+FRANCHISE: Generic Anime    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦3,500
+Total stock   : 93
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Two halves, one bond — split the yin-yang.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A matching his-and-hers bracelet duo that snaps together into one yin-yang dragon medallion. Black and white braided cords with crystal spacers — split between you and your partner. Anime-inspired, made for everyday wear.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>One symbol, two wearers. The Ying Yang Bracelet is a couple set built around a split yin-yang medallion — interlock the black and white halves and the dragon-flame motif lines up into a single circle. Keep one, give one, and carry your matching half wherever you go.</p>
+<p>Each bracelet pairs a braided cord with shimmering crystal spacer beads and a polished enamel charm, so the set reads premium on the wrist without the fragile feel. Anime-inspired and built for daily wear — this is fan gear, not affiliated with or endorsed by any studio.</p>
+<ul>
+<li>Sold as a his-and-hers / duo set — two bracelets that combine into one yin-yang medallion</li>
+<li>Colours: one black braided cord, one white braided cord</li>
+<li>Charm finish: black-and-white enamel yin-yang with engraved dragon-flame detail</li>
+<li>Accents: clear crystal rhinestone spacer beads on each strand</li>
+<li>Adjustable braided cord for a flexible, comfortable fit on most wrists</li>
+<li>Everyday-friendly materials: alloy charm, woven cord, glass crystal beads</li>
+<li>Gift-ready: a natural pick for partners, best friends, or anniversary gifting</li>
+<li>Care: keep dry, avoid perfume and water contact, wipe the charm with a soft cloth</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Matching duo set — two halves form one yin-yang medallion
+  • Black and white braided cords with crystal spacer beads
+  • Engraved dragon-flame detail on a polished enamel charm
+  • Adjustable cord fits most wrists comfortably
+  • Perfect couple or best-friend gift
+  • Anime-inspired fan piece, not affiliated with any studio
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (46 chars)        : Ying Yang Couple Bracelet Set | Otaku Store NG
+Meta Description (145 chars) : Matching yin-yang dragon couple bracelet set — black & white braided cords with crystal beads. Anime-inspired duo, adjustable fit. ₦3,500. Ships.
+Focus keyword                       : yin yang couple bracelet
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Matching yin-yang couple bracelet set with black and white braided cords, crystal spacer beads and a dragon-flame enamel medallion charm worn on a wrist
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-Manga studio product shot: a matching yin-yang couple bracelet set photographed on ink-black #111111 surface, two braided cords (one black, one white) curving toward each other so the split enamel medallion halves interlock into a single yin-yang dragon circle. Paper-white #FAFAFA backdrop with halftone dot texture, dynamic manga speed lines radiating from the medallion, a single manga-red #E2261C ink-splatter accent behind the charm. Cinematic key light, crisp macro focus on the engraved dragon-flame detail and crystal spacer beads, premium high-contrast manga panel framing.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

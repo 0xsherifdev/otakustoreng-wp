@@ -1,0 +1,70 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Bleach Silver Pendant
+SLUG         : bleach-silver-pendant
+BUMPA ID     : 1170099
+WOO TYPE     : simple
+PARENT SKU   : OSN-1170099
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Bleach
+
+TAGS: Bleach, Bleach necklace, anime pendant, Soul Reaper, silver pendant, anime chain, Bleach merch, anime necklace
+FRANCHISE: Bleach    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,000
+Total stock   : 0
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Soul Reaper steel for your everyday rotation
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A Bleach-inspired silver pendant necklace built for daily wear. Tarnish-resistant metal, a clean adjustable chain, and a bold Soul Society-themed charm that finishes any fit without screaming for attention.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Carry the spirit of the Gotei 13 with the Bleach Silver Pendant, a fan-made tribute to Tite Kubo's Soul Reaper saga. The silver-tone charm hangs clean on a slim chain, catching light without going overboard, so it slides into your everyday rotation as easily as it tops off a full anime fit.</p><p>Made from a durable, tarnish-resistant metal that holds its shine through daily wear, this is the kind of subtle flex fellow fans clock instantly. Layer it, wear it solo, or stack it with your other Otaku Store NG pieces.</p><ul><li>Anime-inspired Bleach silver-tone pendant on a matching chain</li><li>Durable stainless-steel / alloy build that resists tarnish</li><li>Adjustable, easy-fasten clasp for a comfortable fit</li><li>Lightweight feel, smooth polished finish</li><li>Unisex design, layers well with other chains</li><li>Wipe clean with a soft dry cloth; keep away from moisture and perfume</li><li>Fan / anime-inspired design, not affiliated with or endorsed by the official rights holders</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bleach-inspired silver-tone pendant for everyday wear
+  • Tarnish-resistant metal that keeps its shine
+  • Adjustable chain with an easy-fasten clasp
+  • Lightweight, unisex, and easy to layer
+  • Wipe-clean finish for low-maintenance care
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (47 chars)        : Bleach Silver Pendant Necklace | Otaku Store NG
+Meta Description (144 chars) : Bleach-inspired silver pendant necklace. Tarnish-resistant metal, adjustable chain, unisex. Ships from Nigeria nationwide and worldwide. ₦4,000.
+Focus keyword                       : Bleach silver pendant
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.png  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Bleach-inspired silver-tone anime pendant necklace on a slim chain
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a silver-tone Bleach-inspired Soul Reaper pendant necklace coiled on a flat surface. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent. Halftone dot texture, diagonal speed lines, subtle ink splatter framing the chain in a manga panel. Premium, cinematic, high-contrast, sharp metallic reflections on the pendant. No text, no watermark.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

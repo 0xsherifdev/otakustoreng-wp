@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Jjk Landyard
+SLUG         : jjk-landyard
+BUMPA ID     : 2476088
+WOO TYPE     : simple
+PARENT SKU   : OSN-2476088
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Lanyards
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Jujutsu Kaisen lanyard, JJK lanyard, anime lanyard, Yuji Itadori, Gojo, Sukuna, card holder lanyard, ID badge lanyard, anime accessories
+FRANCHISE: Jujutsu Kaisen    CHARACTER: Yuji Itadori
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦5,000
+Total stock   : 5
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry your curses close. Cast the roster.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Anime-inspired Jujutsu Kaisen lanyard with all-over cast print and a clip-on card holder. Woven polyester strap, sturdy metal clasp and a detachable ID pocket for keys, badge or transit card. Everyday sorcerer-grade carry.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Sling the entire Tokyo Jujutsu High roster around your neck. This Jujutsu Kaisen-inspired lanyard runs an all-over manga print of Yuji Itadori, Gojo, Sukuna, Megumi and Nobara down a woven polyester strap, finished with the bold red-and-ink colourway that fans clock instantly.</p><p>It comes as a set: a clip-on hard card holder printed front-and-centre with the cast, plus a metal lobster clasp and a quick-detach loop so you can swap your keys, work ID, student badge or transit card in seconds. Lightweight enough to wear all day, loud enough to start a conversation at the next con.</p><ul><li>Franchise: Jujutsu Kaisen (fan / anime-inspired, not affiliated or official)</li><li>Featured: Yuji Itadori and the main cast, all-over print</li><li>Strap material: woven polyester webbing</li><li>Hardware: metal lobster clasp plus a quick-detach connector</li><li>Includes: printed clip-on card / ID holder and a small phone-strap loop</li><li>Use for: keys, work or student ID, badge, transit card, USB or small charms</li><li>Wear: lightweight neck strap for everyday and convention carry</li><li>Care: wipe the strap clean with a damp cloth; air dry</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • All-over Jujutsu Kaisen cast print in the signature red and ink colourway
+  • Includes a clip-on card / ID holder printed with Yuji and the crew
+  • Woven polyester strap with a sturdy metal lobster clasp
+  • Quick-detach loop to swap keys, badge or transit card in seconds
+  • Lightweight everyday and convention-ready neck carry
+  • Fan / anime-inspired design, not affiliated or official
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (56 chars)        : Jujutsu Kaisen Lanyard with Card Holder | Otaku Store NG
+Meta Description (149 chars) : Jujutsu Kaisen anime-inspired lanyard with all-over cast print, metal clasp and clip-on card holder. For keys, ID or badge. ₦5,000, ships nationwide.
+Focus keyword                       : Jujutsu Kaisen lanyard
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Jujutsu Kaisen lanyard with all-over cast print and a clip-on card holder featuring Yuji Itadori, with a metal clasp.
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-Manga studio product shot of an anime-inspired lanyard with a clip-on ID card holder, laid on ink black #111111 with paper white #FAFAFA negative space. A single manga-red #E2261C strap accent threads through halftone-dot texture and sharp speed lines; subtle ink splatter framing one corner. The metal lobster clasp catches a cinematic rim light. Premium hero composition, shallow depth of field, manga-panel border, high contrast, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

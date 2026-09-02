@@ -1,0 +1,84 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Op Double Twisted Leather Bracelet
+SLUG         : op-double-twisted-leather-bracelet
+BUMPA ID     : 1734119
+WOO TYPE     : simple
+PARENT SKU   : OSN-1734119
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Bracelets
+  - Shop by Anime > One Piece
+
+TAGS: One Piece bracelet, Straw Hat Pirates, Luffy bracelet, anime leather bracelet, One Piece jewellery, skull charm bracelet, anime bracelet, One Piece merch
+FRANCHISE: One Piece    CHARACTER: Monkey D. Luffy
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,000
+Total stock   : 498
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Fly the Straw Hat flag on your wrist
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A multi-strand black leather bracelet built around the Straw Hat Pirates Jolly Roger charm. Braided cords, wood and metal spacer beads, and a snap stud make it an everyday, anime-inspired piece for any One Piece fan.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Set sail in style. This double-twisted leather bracelet stacks braided cord and a flat leather strap around a silver-tone Straw Hat Pirates Jolly Roger charm, complete with the enamel straw hat in classic yellow and red. It is the kind of subtle anime nod that reads as clean street jewellery first, fan flex second.</p>
+<p>Wood and metal spacer beads break up the black leather for a worn-in, well-travelled look, while a secure snap stud keeps it locked on through the day. Wear it solo or stack it with your other pieces. Unisex by design, built to be worn, not boxed away.</p>
+<ul>
+<li>Franchise: One Piece, inspired by the Straw Hat Pirates and Monkey D. Luffy</li>
+<li>Centrepiece: silver-tone skull-and-crossbones charm with enamel straw hat detail</li>
+<li>Material: genuine and braided leather strands with metal and wood accent beads</li>
+<li>Style: multi-strand twisted leather, layered look in one bracelet</li>
+<li>Closure: secure metal snap stud fastening</li>
+<li>Fit: standard wrist fit, unisex</li>
+<li>Wear: everyday-durable, casual to street styling</li>
+<li>In the box: 1 One Piece double-twisted leather bracelet</li>
+<li>Note: fan-made, anime-inspired design; not official or affiliated with the rights holders</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Straw Hat Pirates Jolly Roger charm with enamel straw hat detail
+  • Multi-strand twisted leather: braided cords plus flat leather strap
+  • Wood and metal spacer beads for a worn-in, layered look
+  • Secure metal snap stud closure stays put all day
+  • Unisex everyday fit, stack it or wear it solo
+  • Fan-made One Piece-inspired design, not official
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (44 chars)        : One Piece Leather Bracelet | Straw Hat Charm
+Meta Description (152 chars) : One Piece-inspired twisted leather bracelet with the Straw Hat Pirates skull charm, wood and metal beads, snap closure. Unisex everyday fit. Ships from.
+Focus keyword                       : One Piece leather bracelet
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: One Piece-inspired black twisted leather bracelet with the silver Straw Hat Pirates skull charm, wood and metal beads
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a black multi-strand twisted leather bracelet with a silver skull-and-crossbones charm wearing a small enamel straw hat, braided cords and wood beads, snap stud closure. Ink black #111111 backdrop, paper white #FAFAFA negative space, single manga-red #E2261C accent on a thin speed-line burst behind the charm. Halftone dot texture, fine ink splatter, framed inside a clean manga panel border. Premium, cinematic macro lighting, crisp metal and leather detail. No text, no logos, no watermark.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

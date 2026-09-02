@@ -1,0 +1,85 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Animr Katana
+SLUG         : animr-katana
+BUMPA ID     : 1145023
+WOO TYPE     : variable
+PARENT SKU   : OSN-1145023
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Katana & Weapons
+  - Shop by Anime > Demon Slayer
+
+TAGS: Demon Slayer, Nichirin katana, anime katana, cosplay katana, display katana, Kimetsu no Yaiba, Hashira sword, anime sword replica, collector katana, cosplay prop
+FRANCHISE: Demon Slayer    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦40,000
+Total stock   : 196
+VARIATIONS (attribute: Material)
+  Wooden         | ₦40,000 | stock 99   | SKU OSN-1145023-WOODEN
+  Steel          | ₦98,000 | stock 97   | SKU OSN-1145023-STEEL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Black Nichirin blade, green-wrapped tsuka. Built to be displayed.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A Demon Slayer-inspired Nichirin display katana with a deep-black blade, jade-green diamond tsuka wrap and bold orange fittings. A premium fan-made collector and cosplay prop, built to be mounted, posed and shown off. Not affiliated with the franchise.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>The slayer aesthetic, full size. This Demon Slayer-inspired Nichirin display katana pairs a darkened black blade with a jade-green diamond-pattern tsuka wrap, burnt-orange collar and pommel, and a gold-tone tsuba. Every detail is built to read on a shelf or in a cosplay shot, framed in clean Hashira styling that fans clock instantly.</p>
+<p>This is a decorative collector and cosplay prop for display only, not a functional weapon. Choose Steel for a weighted, true-to-screen presentation piece, or Wooden for a lighter, training-style and travel-friendly build. The Steel option arrives ready to mount with its stand and belt; pick the variant that fits your setup.</p>
+<ul>
+<li><strong>Type:</strong> Demon Slayer-inspired Nichirin-style display katana (fan-made, anime-inspired, not affiliated)</li>
+<li><strong>Material options:</strong> Steel blade or Wooden blade</li>
+<li><strong>Blade finish:</strong> Deep matte-black blade with curved katana profile</li>
+<li><strong>Handle (tsuka):</strong> Jade-green diamond-pattern ito wrap over black, with orange collar and pommel</li>
+<li><strong>Fittings:</strong> Gold-tone tsuba (guard) for an authentic Hashira look</li>
+<li><strong>Steel option includes:</strong> Sword display stand and sword belt</li>
+<li><strong>Wooden option:</strong> Blade only — stand and belt not included</li>
+<li><strong>Best for:</strong> Cosplay props, anime room decor, collectors and display</li>
+<li><strong>Care:</strong> Wipe with a dry cloth; keep dry to protect the finish; keep away from children and follow local laws on bladed display items</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Demon Slayer-inspired Nichirin styling with a signature black blade
+  • Jade-green diamond tsuka wrap with bold orange fittings
+  • Gold-tone tsuba for an authentic Hashira-grade look
+  • Steel option ships with sword stand and belt, ready to display
+  • Two builds: weighted Steel or lighter Wooden training-style
+  • Display and cosplay prop, fan-made and not affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (53 chars)        : Demon Slayer Nichirin Display Katana | Otaku Store NG
+Meta Description (155 chars) : Demon Slayer-inspired Nichirin display katana, black blade with green tsuka wrap. Steel or wooden, steel ships with stand and belt. ₦40,000. Fan-made prop.
+Focus keyword                       : Demon Slayer Nichirin katana
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Demon Slayer-inspired Nichirin display katana with black blade, green diamond tsuka wrap, orange fittings and gold tsuba on a stand
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a Demon Slayer-inspired Nichirin display katana mounted on a black sword stand, three-quarter angle. Deep matte-black curved blade catching a single edge of light, jade-green diamond-pattern handle wrap over black, burnt-orange collar and pommel, gold-tone guard. Ink black #111111 background, paper white #FAFAFA rim light, single manga-red #E2261C accent slashing through the composition. Halftone dot texture, dynamic speed lines, subtle ink splatter at the base, framed like a manga panel. Premium, cinematic, high-contrast, sharp focus on the handle detail.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

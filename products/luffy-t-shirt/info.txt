@@ -1,0 +1,75 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Luffy T-shirt
+SLUG         : luffy-t-shirt
+BUMPA ID     : 3168102
+WOO TYPE     : variable
+PARENT SKU   : OSN-3168102
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+  - Shop by Anime > One Piece
+
+TAGS: Luffy t-shirt, One Piece t-shirt, Monkey D Luffy, anime t-shirt, Straw Hat Pirates, One Piece merch, anime shirt Nigeria, graphic tee
+FRANCHISE: One Piece    CHARACTER: Monkey D. Luffy
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦13,000
+Total stock   : 78
+VARIATIONS (attribute: Size)
+  L              | ₦13,000 | stock 19   | SKU OSN-3168102-L
+  XL             | ₦13,000 | stock 19   | SKU OSN-3168102-XL
+  2XL            | ₦13,000 | stock 20   | SKU OSN-3168102-2XL
+  3XL            | ₦13,000 | stock 20   | SKU OSN-3168102-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Straw Hat captain, front and centre
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Wear the captain of the Straw Hats. This black crew-neck tee pairs the Jolly Roger chest mark with a bold seated-Luffy silhouette in soft, breathable cotton. Unisex regular fit, durable fade-resistant print, sizes L to 3XL.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Set sail with the Pirate King in the making. This anime-inspired Luffy tee runs deep matte black, stamped with the Straw Hat Jolly Roger and "Monkey D. Luffy" across the chest, then carries a striking white silhouette of Luffy kicking back along the hem. Clean, confident, and unmistakably One Piece.</p><p>Cut as a unisex regular fit with a classic crew neck, it sits easy whether you're out with the crew or deep in a binge-watch. The print is built to last wash after wash, so the design stays as sharp as Luffy's resolve.</p><ul><li>Design: Straw Hat Jolly Roger chest mark with seated Monkey D. Luffy silhouette graphic</li><li>Material: soft, breathable cotton / cotton-blend jersey</li><li>Fit: unisex regular fit, classic crew neck, short sleeve</li><li>Colour: black with white print detailing</li><li>Print: durable, fade-resistant graphic</li><li>Sizes: L, XL, 2XL, 3XL</li><li>Care: machine wash cold, inside-out; do not tumble dry hot; do not iron directly over the print</li><li>Style: fan-made, anime-inspired apparel (not affiliated with or endorsed by the rights holders)</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Straw Hat Jolly Roger chest mark with Monkey D. Luffy text
+  • Bold seated-Luffy silhouette graphic along the hem
+  • Soft, breathable cotton-blend in deep matte black
+  • Unisex regular fit with a classic crew neck
+  • Durable, fade-resistant print that survives the wash
+  • Sizes L to 3XL for an easy everyday fit
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (52 chars)        : Luffy T-Shirt | One Piece Anime Tee | Otaku Store NG
+Meta Description (150 chars) : Anime-inspired Monkey D. Luffy T-shirt in soft black cotton with Straw Hat Jolly Roger print. Unisex fit, sizes L-3XL. Ships nationwide and worldwide.
+Focus keyword                       : Luffy t-shirt
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black One Piece Luffy t-shirt with Straw Hat Jolly Roger chest print and a white seated Monkey D. Luffy silhouette near the hem
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a folded black crew-neck anime t-shirt featuring a white Straw Hat Jolly Roger chest mark and a seated Monkey D. Luffy silhouette. Ink black #111111 backdrop, paper white #FAFAFA garment highlights, single manga-red #E2261C accent on a torn paper tag. Halftone dot texture, dynamic speed lines, ink splatter, framed in a manga panel; premium, cinematic studio lighting, high detail.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

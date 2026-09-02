@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Levi Tote Bag
+SLUG         : levi-tote-bag
+BUMPA ID     : 2221766
+WOO TYPE     : simple
+PARENT SKU   : OSN-2221766
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Tote Bags
+  - Shop by Anime > Attack on Titan
+
+TAGS: Levi tote bag, Attack on Titan tote, Levi Ackerman, anime tote bag, canvas tote bag, Attack on Titan merch, anime canvas bag, AOT accessories
+FRANCHISE: Attack on Titan    CHARACTER: Levi Ackerman
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦7,000
+Total stock   : 9
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the strongest soldier's edge everywhere.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A sturdy canvas tote built for the everyday haul, fronted by bold Levi Ackerman artwork. Roomy enough for books, groceries or con loot, with reinforced handles that hold up when you load it down. Anime-inspired carry for serious Attack on Titan fans.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Humanity's strongest soldier, slung over your shoulder. This Levi Ackerman tote pairs clean, high-impact Attack on Titan artwork with a rugged canvas body that's ready for whatever your day throws at it. Whether it's a manga run, a grocery sweep or a full con haul, the roomy interior swallows it all while the print keeps your roster front and centre.</p><p>Reinforced handles mean you can pack it heavy without worry, and the durable weave holds its shape wash after wash. A fan-made, anime-inspired piece designed for collectors who want their gear to hit as hard as the squad leader himself.</p><ul><li>Material: sturdy woven canvas with reinforced stitched handles</li><li>Print: vivid, fade-resistant Levi Ackerman character artwork</li><li>Capacity: roomy main compartment for books, groceries or con hauls</li><li>Carry: shoulder-length handles for comfortable everyday use</li><li>Use: everyday tote, shopping, study, travel and conventions</li><li>Care: gentle machine or hand wash, hang to dry, do not iron the print</li><li>Style: fan-made, anime-inspired design (not affiliated with or endorsed by the rights holders)</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold Levi Ackerman artwork printed on durable canvas
+  • Reinforced handles built to carry a heavy load
+  • Roomy main compartment for books, groceries or con loot
+  • Fade-resistant print that stays sharp wash after wash
+  • Fan-made, anime-inspired Attack on Titan design
+  • Ships nationwide and worldwide from Nigeria
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (43 chars)        : Levi Tote Bag | Attack on Titan Canvas Tote
+Meta Description (154 chars) : Levi Ackerman canvas tote bag with bold Attack on Titan artwork. Roomy, reinforced handles for everyday carry. Fan-inspired. Ships worldwide from Nigeria.
+Focus keyword                       : Levi tote bag
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black canvas tote bag printed with bold Levi Ackerman artwork from Attack on Titan
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a canvas tote bag standing upright on ink black #111111 backdrop, bold paper white #FAFAFA Levi Ackerman manga panel artwork printed across the front with a single manga-red #E2261C accent slash. Halftone dot shading, dynamic speed lines and ink splatter framing the bag, cinematic premium lighting, sharp focus on reinforced handles and canvas weave, high-contrast monochrome with selective red pop.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

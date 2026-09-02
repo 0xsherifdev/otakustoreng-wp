@@ -1,0 +1,235 @@
+OTAKU STORE NG — CATEGORY ICON IMAGE PROMPTS (1:1)
+====================================================
+For: "Popular Categories" / "Shop all categories" circular icon thumbnails.
+Tool: Google Flow (Imagen). Aspect ratio: 1:1 square.
+Brand: Dark Manga — ink black #111111, paper white #FAFAFA, manga-red #E2261C,
+halftone dots, speed lines, ink splatter.
+Generated from build/woocommerce_MASTER_import.csv (46 categories; "Uncategorized" excluded).
+
+HOW TO USE
+----------
+1. Keep the STYLE BLOCK identical on EVERY image so the grid reads as one set.
+2. Paste: <category subject>  +  <STYLE BLOCK>
+3. Run them in one batch with the same style/seed if possible (matched linework weight).
+4. Keep every subject ~70% of the frame so no icon looks bigger than its neighbors
+   inside the circular crop.
+5. Franchise icons = fan/anime-INSPIRED symbolic motifs ONLY. No copyrighted
+   characters, faces, or official logos (brand rule: never imply official/licensed).
+
+
+====================================================
+STYLE BLOCK  (append to every prompt below)
+====================================================
+flat 2D manga ink illustration, bold confident black linework, halftone dot shading,
+subtle speed lines and a touch of ink splatter, single manga-red accent (#E2261C),
+clean paper-white (#FAFAFA) background, centered emblem composition filling ~70% of
+the frame with even padding on all sides (safe for a circular crop), crisp vector-like
+icon, high contrast, minimal, no text, no words, no logos, no watermark,
+1:1 square aspect ratio
+
+
+====================================================
+A. PRODUCT CATEGORIES
+====================================================
+
+Accessories
+ A neat centered cluster of anime-streetwear accessories — an enamel pin, a keychain
+ charm, a woven patch, and a badge — arranged in a tidy flat-lay rosette. [STYLE BLOCK]
+
+AirPods Cases
+ A single wireless-earbud charging case at a clean three-quarter angle with a small
+ dangling charm strap, glossy rounded form. [STYLE BLOCK]
+
+Bottles & Drinkware
+ An insulated stainless steel water bottle beside a short tumbler mug, paired and
+ centered, with a small red halftone liquid splash accent. [STYLE BLOCK]
+
+Bracelets
+ A small centered cluster of wristwear — two beaded bracelets and a flat cuff band —
+ stacked and overlapping, fine ink detailing on the beads. [STYLE BLOCK]
+
+Chains & Necklaces
+ A bold curb-link chain necklace looped in a centered teardrop shape with a single
+ manga-red pendant charm at the bottom. [STYLE BLOCK]
+
+Cosplay
+ A dramatic dynamic silhouette of a costumed figure with a flowing cape and a raised
+ prop sword, heroic stance, speed lines radiating behind. [STYLE BLOCK]
+
+Couple Accessories
+ Two matching pendant halves that together form a single heart, paired side by side
+ with two thin matching bracelets, symmetry and balance. [STYLE BLOCK]
+
+Figurines
+ A dynamic anime-style collectible action figure in a mid-action pose on a round
+ display base, generic original character. [STYLE BLOCK]
+
+Headwear
+ A snapback baseball cap and a folded beanie paired and overlapping, centered,
+ clean stitching detail. [STYLE BLOCK]
+
+Hoodies
+ A single oversized pullover hoodie shown three-quarter on an invisible form, hood up,
+ drawstrings, bold fabric folds. [STYLE BLOCK]
+
+Jerseys
+ A sports jersey on a hanger, short sleeves, blank generic crest and number panel,
+ athletic mesh texture. [STYLE BLOCK]
+
+Katana & Weapons
+ A slim curved katana crossed diagonally with a kunai blade, sheath behind,
+ sharp gleam highlight. [STYLE BLOCK]
+
+Kimono
+ A traditional open kimono / haori robe displayed spread wide, wide sleeves,
+ sash belt, elegant fabric folds. [STYLE BLOCK]
+
+LED Lamps
+ A glowing acrylic LED night lamp on a small round base emitting soft light rings,
+ halftone glow. [STYLE BLOCK]
+
+Lanyards
+ A neck lanyard strap looped in an oval with an ID badge / card clip hanging at the
+ bottom. [STYLE BLOCK]
+
+Laptop Skins
+ An open laptop shown from a three-quarter rear angle with a decorated patterned lid
+ skin, clean device silhouette. [STYLE BLOCK]
+
+Masks
+ A stylized oni / face mask, front-facing, bold features and stripe markings,
+ single red accent. [STYLE BLOCK]
+
+Phone Cases
+ A smartphone shown from the back with a decorated protective case and camera cutout,
+ clean rounded silhouette. [STYLE BLOCK]
+
+Rings
+ A small stack of rings including one bold signet ring, arranged centered and
+ overlapping. [STYLE BLOCK]
+
+Room Decor
+ A wall tapestry / poster with a tiny floating shelf holding a small figure and a
+ plant, cozy corner motif. [STYLE BLOCK]
+
+Shoes
+ A single high-top sneaker shown three-quarter, bold sole and laces, dynamic stance.
+ [STYLE BLOCK]
+
+Shorts
+ A folded pair of athletic shorts, drawstring waistband, crisp fabric folds, centered.
+ [STYLE BLOCK]
+
+Stickers
+ A loose scattered cluster of die-cut stickers with white borders, slightly peeling
+ corners, playful arrangement. [STYLE BLOCK]
+
+T-Shirts
+ A single short-sleeve t-shirt shown flat / front view on an invisible form, clean
+ crew neck, subtle fabric folds. [STYLE BLOCK]
+
+Ties
+ A necktie tied in a neat knot, hanging straight down, smooth diagonal weave texture.
+ [STYLE BLOCK]
+
+Tote Bags
+ A canvas tote bag standing upright with sturdy handles, slight slouch, blank panel.
+ [STYLE BLOCK]
+
+Trousers
+ A folded pair of cargo trousers / joggers, cuffed ankles, pocket detail, centered.
+ [STYLE BLOCK]
+
+Wallets
+ A bifold wallet shown slightly open at a three-quarter angle, stitched edges,
+ card slot hint. [STYLE BLOCK]
+
+
+====================================================
+B. PARENT / BROWSE CATEGORIES
+====================================================
+
+Apparel
+ A folded stack of streetwear garments — a tee on top of a hoodie on top of trousers —
+ neat centered pile. [STYLE BLOCK]
+
+Collectibles
+ A collectible figure on a round base beside a small display window box, paired and
+ centered. [STYLE BLOCK]
+
+Home & Decor
+ A framed wall poster next to a small glowing lamp and a tiny potted plant, cozy
+ vignette. [STYLE BLOCK]
+
+Shop by Anime
+ A neat stack of manga volumes with a manga-red ribbon bookmark, speed lines bursting
+ behind to imply "browse all series". [STYLE BLOCK]
+
+
+====================================================
+C. ANIME FRANCHISES
+(fan/anime-inspired symbolic motifs ONLY — no copyrighted characters or logos)
+====================================================
+
+Attack on Titan
+ A towering faceless colossal humanoid silhouette looming behind a crumbling stone
+ wall, ominous scale, dramatic low angle, red sky glow. Original fan interpretation.
+ [STYLE BLOCK]
+
+Berserk
+ An enormous slab-style greatsword driven point-down into rocky ground, a small
+ ominous branded skull mark beside it, gothic dark-fantasy mood. Original fan
+ interpretation. [STYLE BLOCK]
+
+Bleach
+ A slim curved katana crossed behind a white hollow-style mask with bold red stripe
+ markings, spirit-energy wisps. Original fan interpretation. [STYLE BLOCK]
+
+Blue Lock   *** palette exception: electric blue, not red ***
+ A soccer ball engulfed in stylized electric-blue flame, dynamic and explosive, speed
+ lines bursting outward. Use electric blue (#1E6BFF) as the accent. Original fan
+ interpretation. [STYLE BLOCK]
+
+Chainsaw Man
+ A roaring handheld chainsaw raised diagonally, its pull-cord whipping, set against a
+ small horned devil silhouette, crimson splatter accent. Original fan interpretation.
+ [STYLE BLOCK]
+
+Demon Slayer
+ A single nichirin katana standing vertical with a black-and-white checkerboard-
+ patterned haori cloth draping off the hilt, breathing-technique water-and-flame swirl
+ behind. Original fan interpretation. [STYLE BLOCK]
+
+Dragon Ball   *** palette exception: warm orange, not red ***
+ A glowing translucent orange crystal sphere containing red stars, radiant aura with
+ halftone glow rings. Use warm orange (#F5821F) as the accent. Original fan
+ interpretation. [STYLE BLOCK]
+
+Hunter x Hunter
+ A glowing open hand emitting wreathing aura energy (nen-style), with a small hunter
+ license card motif below. Original fan interpretation. [STYLE BLOCK]
+
+Jujutsu Kaisen
+ A bandage-wrapped cursed-finger talisman emitting curling dark smoke, ominous
+ cursed-energy wisps. Original fan interpretation. [STYLE BLOCK]
+
+My Hero Academia
+ A clenched fist crackling with energy lightning arcs, heroic upward thrust, speed
+ lines. Original fan interpretation. [STYLE BLOCK]
+
+Naruto
+ A swirling sphere of spiral chakra energy hovering above an open palm, with a crossed
+ kunai and shuriken behind. Original fan interpretation, no village logo. [STYLE BLOCK]
+
+One Piece
+ A worn straw hat resting atop two crossed cutlasses with a rolled treasure map,
+ adventurous pirate motif. Original fan interpretation. [STYLE BLOCK]
+
+Solo Leveling   *** optional palette exception: shadow blue/purple ***
+ A glowing dagger plunged into the ground with rising shadowy wisps and a faint blue
+ "level-up" glow halo. Optionally use shadow blue/purple (#5B4BFF) as accent.
+ Original fan interpretation. [STYLE BLOCK]
+
+Tokyo Revengers
+ A vintage pocket watch resting over a draped embroidered bomber jacket, with a small
+ flame, delinquent-era mood. Original fan interpretation, no gang logo. [STYLE BLOCK]

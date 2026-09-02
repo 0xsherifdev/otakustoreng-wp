@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Sukuna normal bottle
+SLUG         : sukuna-normal-bottle
+BUMPA ID     : 4430178
+WOO TYPE     : simple
+PARENT SKU   : OSN-4430178
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Bottles & Drinkware
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Sukuna water bottle, Jujutsu Kaisen drinkware, Sukuna bottle, anime water bottle, JJK merch, King of Curses, anime drinkware, flip-top straw bottle
+FRANCHISE: Jujutsu Kaisen    CHARACTER: Sukuna
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦11,000
+Total stock   : 499
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the King of Curses everywhere you go.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Hydrate like the King of Curses. This Sukuna water bottle wraps Jujutsu Kaisen's most feared villain around a tall, easy-grip body with a flip-top lid, lock latch and built-in straw spout for one-handed sips on the move.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>The King of Curses doesn't do half-measures, and neither should your hydration. This anime-inspired Sukuna water bottle wraps the Jujutsu Kaisen antagonist's grinning face, blazing red eyes and signature cursed markings around the full body, finished in inked manga linework that pops on the shelf and on the go.</p><p>The flip-top lid clicks open with a latch lock and built-in straw spout, so you get fast, one-handed sips whether you're at the gym, the desk or deep in a binge. The tall, slim body is easy to grip and drops into most bag pockets and bottle holders. Hand-wash to keep the artwork sharp for the long haul.</p><ul><li><strong>Design:</strong> full-wrap Sukuna artwork, manga-style inked linework, fan / anime-inspired (not affiliated or licensed)</li><li><strong>Lid:</strong> flip-top cap with latch lock, built-in straw spout and a top carry handle</li><li><strong>Build:</strong> tall, slim, easy-grip body with a clear dome cap over the spout</li><li><strong>Use:</strong> single capacity option, ideal for gym, school, work and travel</li><li><strong>Care:</strong> hand-wash recommended to protect the print; do not microwave</li><li><strong>In the box:</strong> 1 x Sukuna water bottle</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Full-wrap Sukuna artwork in bold manga-style inked linework
+  • Flip-top lid with latch lock and built-in straw spout for one-handed sips
+  • Top carry handle clips onto bags and gym kit
+  • Tall, slim, easy-grip body fits most cup holders and bottle pockets
+  • Hand-wash friendly to keep the print sharp
+  • Fan / anime-inspired Jujutsu Kaisen design, not affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (46 chars)        : Sukuna Water Bottle | Jujutsu Kaisen Drinkware
+Meta Description (155 chars) : Sukuna water bottle with full-wrap Jujutsu Kaisen artwork, flip-top lid and straw spout. Anime-inspired drinkware, ships nationwide and worldwide. ₦11,000.
+Focus keyword                       : Sukuna water bottle
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Tall Sukuna water bottle with full-wrap Jujutsu Kaisen artwork, flip-top straw lid and carry handle held in hand
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a tall slim anime water bottle wrapped in inked Sukuna artwork (grinning King of Curses face, red eyes, cursed markings), black flip-top lid with clear dome cap, straw spout and carry handle. Ink black #111111 background, paper white #FAFAFA rim light, single manga-red #E2261C accent splash. Halftone dot texture, sharp speed lines radiating behind the bottle, ink splatter at the base, cinematic high-contrast lighting, premium product photography, manga panel framing.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

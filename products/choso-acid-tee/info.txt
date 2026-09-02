@@ -1,0 +1,76 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Choso acid tee
+SLUG         : choso-acid-tee
+BUMPA ID     : 4434817
+WOO TYPE     : variable
+PARENT SKU   : OSN-4434817
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Choso, Jujutsu Kaisen, Choso shirt, acid wash tee, anime t-shirt, vintage anime tee, JJK merch, Blood Manipulation, Death Painting, anime streetwear
+FRANCHISE: Jujutsu Kaisen    CHARACTER: Choso
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦24,000
+Total stock   : 2500
+VARIATIONS (attribute: Size)
+  M              | ₦24,000 | stock 500  | SKU OSN-4434817-M
+  L              | ₦24,000 | stock 500  | SKU OSN-4434817-L
+  XL             | ₦24,000 | stock 500  | SKU OSN-4434817-XL
+  2XL            | ₦24,000 | stock 500  | SKU OSN-4434817-2XL
+  XXXL           | ₦24,000 | stock 500  | SKU OSN-4434817-XXXL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Blood Manipulation, washed into vintage ink
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A faded acid-wash crew tee built around Choso mid-technique, his Blood Manipulation streaking across the front in manga-red. Soft, durable cotton with a lived-in vintage finish. Unisex regular fit, sizes M to XXXL.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>The eldest of the Death Painting brothers gets the treatment he deserves. This acid-wash tee frames Choso mid-fight, blood technique tearing across the chest in a single manga-red streak against a high-contrast monochrome render. The stone-washed black ground gives every piece its own faded, lived-in character, so no two tees fade quite the same.</p><p>Cut for everyday rotation with a relaxed crew-neck silhouette and a fade-resistant front print that holds up wash after wash. Wear the roster.</p><ul><li>Fan-made, anime-inspired Choso (Jujutsu Kaisen) design; not official or affiliated</li><li>Acid-wash / stone-wash finish for a vintage faded look that varies slightly per piece</li><li>Soft, durable cotton-feel fabric with a comfortable everyday weight</li><li>Unisex regular fit with a crew neckline</li><li>Large front graphic with manga-red accent; durable fade-resistant print</li><li>Sizes: M, L, XL, 2XL, XXXL</li><li>Care: machine wash cold, inside-out; hang or low tumble dry to protect the print and wash finish</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Choso mid-technique with Blood Manipulation streaking across the front in manga-red
+  • Acid-wash vintage finish so every tee fades with its own character
+  • Soft, durable cotton-feel fabric built for daily wear
+  • Unisex regular fit, crew neck, sizes M to XXXL
+  • Fade-resistant front print that survives the wash cycle
+  • Fan-designed Jujutsu Kaisen art, not affiliated or official
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (42 chars)        : Choso Acid Wash Tee | Jujutsu Kaisen Shirt
+Meta Description (147 chars) : Choso acid-wash tee from Jujutsu Kaisen. Vintage faded black crew with Blood Manipulation art in manga-red. Unisex fit, M-XXXL. Ships from Nigeria.
+Focus keyword                       : Choso acid wash tee
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black acid-wash t-shirt with monochrome Choso from Jujutsu Kaisen mid-attack and a red Blood Manipulation streak across the front
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a black acid-wash crew-neck t-shirt laid on ink-black #111111 seamless backdrop, paper-white #FAFAFA halftone-dot texture bleeding in from one corner, single manga-red #E2261C accent echoing the shirt's blood-streak graphic. Dramatic cinematic side lighting raking across the stone-washed fabric to reveal its faded mottled texture, sharp speed lines and a thin ink-splatter flourish framing the garment, manga panel border, premium editorial apparel photography, high detail, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

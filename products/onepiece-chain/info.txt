@@ -1,0 +1,83 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Onepiece Chain
+SLUG         : onepiece-chain
+BUMPA ID     : 1210416
+WOO TYPE     : simple
+PARENT SKU   : OSN-1210416
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > One Piece
+
+TAGS: One Piece chain, One Piece necklace, anime necklace, Jolly Roger pendant, Straw Hat pendant, anime jewelry, pendant necklace, One Piece merch
+FRANCHISE: One Piece    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,500
+Total stock   : 510
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Fly your Jolly Roger every single day
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A One Piece-inspired pendant necklace on an adjustable black cord. Pick your crew emblem, from the Straw Hat skull to the Heart Pirates mark, in tarnish-resistant metal that wears clean and reads loud on the streets.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Set sail with the crew on your chest. This One Piece-inspired pendant necklace puts your favourite emblem front and centre, cast in tarnish-resistant metal with crisp detailing that holds up to daily wear. Strung on a slim black cord with a lobster clasp, it sits clean over a tee or layers easily with the rest of your stack.</p>
+<p>Choose the design that flies your flag, then wear it loud. A fan-made, anime-inspired piece for the One Piece faithful, not affiliated with or endorsed by the official rights holders.</p>
+<ul>
+<li>Anime-inspired pendant necklace celebrating One Piece crew emblems</li>
+<li>Choice of designs where offered, including the Straw Hat Jolly Roger, Heart Pirates and Marine-style marks</li>
+<li>Durable tarnish-resistant metal pendant with detailed finish</li>
+<li>Slim black cord chain with a secure lobster clasp</li>
+<li>Adjustable length with extender chain for a comfortable fit</li>
+<li>Lightweight and everyday-friendly for streetwear or layering</li>
+<li>Wipe clean with a soft, dry cloth; keep away from moisture to protect the finish</li>
+<li>Unisex; a ready-to-gift pick for any One Piece fan</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • One Piece-inspired pendant on a slim black cord chain
+  • Choose your crew emblem where designs are offered
+  • Tarnish-resistant metal with crisp, detailed finish
+  • Adjustable length with extender for an easy fit
+  • Lightweight, unisex and built for daily wear
+  • Fan-made tribute, not official or affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (40 chars)        : One Piece Chain | Anime Pendant Necklace
+Meta Description (154 chars) : One Piece-inspired pendant necklace on an adjustable black cord. Tarnish-resistant metal crew emblems. Ships from Nigeria, nationwide and worldwide. Just.
+Focus keyword                       : One Piece chain
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: One Piece-inspired pendant necklaces on black cord chains, including Straw Hat Jolly Roger, Heart Pirates and Marine emblem designs in metal
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a One Piece-inspired metal pendant necklace on a slim black cord, laid on ink-black #111111 surface with paper-white #FAFAFA negative space; single manga-red #E2261C accent on the pendant emblem; halftone dot texture, sharp speed lines and a touch of ink splatter framing the piece in manga panels; dramatic cinematic lighting, premium high detail, the metal pendant catching a crisp highlight, lobster clasp and extender chain visible.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

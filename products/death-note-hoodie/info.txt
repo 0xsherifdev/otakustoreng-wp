@@ -1,0 +1,85 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Death note hoodie
+SLUG         : death-note-hoodie
+BUMPA ID     : 3167988
+WOO TYPE     : variable
+PARENT SKU   : OSN-3167988
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+
+TAGS: Death Note hoodie, Light Yagami hoodie, anime hoodie, Death Note merch, Ryuk hoodie, anime pullover hoodie, otaku streetwear, manga hoodie
+FRANCHISE: Death Note    CHARACTER: Light Yagami
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦21,000
+Total stock   : 77
+VARIATIONS (attribute: Size)
+  L              | ₦21,000 | stock 18   | SKU OSN-3167988-L
+  XL             | ₦21,000 | stock 19   | SKU OSN-3167988-XL
+  2XL            | ₦21,000 | stock 20   | SKU OSN-3167988-2XL
+  3XL            | ₦21,000 | stock 20   | SKU OSN-3167988-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Write the rules. Own the night.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A Death Note-inspired pullover hoodie with brushed-fleece warmth and bold anime graphics. Unisex streetwear fit, ribbed cuffs and hem, roomy kangaroo pocket. For fans who play god of the new world. Fan-made, not affiliated.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Pick up the notebook and pick your side. This Death Note-inspired pullover hoodie channels Light Yagami, Ryuk and the cat-and-mouse mind games that made the series legendary, all rendered in striking anime graphics on a heavyweight everyday hoodie. Brushed-fleece interior keeps you warm through late-night reads and cold seasons alike.</p>
+<p>Cut in a relaxed unisex streetwear fit, it layers clean over tees and sits easy under a jacket. A fan-made design for true otaku, anime-inspired and not affiliated with or endorsed by the official rights holders.</p>
+<ul>
+<li>Pullover hoodie with brushed-fleece interior for warmth</li>
+<li>Bold Death Note-inspired anime graphic print</li>
+<li>Unisex streetwear fit, true to size</li>
+<li>Ribbed cuffs and hem to lock in shape and heat</li>
+<li>Roomy kangaroo front pocket and lined drawstring hood</li>
+<li>Available in sizes L, XL, 2XL and 3XL</li>
+<li>Machine wash cold, inside-out; do not tumble dry hot</li>
+<li>Fan / anime-inspired design, not official or licensed merchandise</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Death Note-inspired graphic print featuring the series' iconic look
+  • Brushed-fleece interior for genuine warmth and comfort
+  • Relaxed unisex streetwear fit, true to size
+  • Ribbed cuffs and hem plus a roomy kangaroo pocket
+  • Sizes L through 3XL for an inclusive range
+  • Ships from Nigeria, nationwide and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (47 chars)        : Death Note Hoodie | Light Yagami Anime Pullover
+Meta Description (145 chars) : Death Note-inspired pullover hoodie with brushed fleece, ribbed cuffs and bold anime graphics. Unisex fit, sizes L-3XL. ₦21,000. Ships worldwide.
+Focus keyword                       : Death Note hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Death Note-inspired pullover hoodie with bold anime graphic print, kangaroo pocket and drawstring hood
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a Death Note-inspired pullover hoodie laid flat then floating, ink black #111111 background with paper white #FAFAFA negative space, single manga-red #E2261C accent on the graphic and drawstrings. Halftone dot shading, sharp speed lines radiating outward, scattered ink splatter, framed inside crisp manga panel borders. Cinematic premium lighting, high detail on brushed-fleece texture, ribbed cuffs and kangaroo pocket. No text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

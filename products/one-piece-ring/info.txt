@@ -1,0 +1,78 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : One Piece Ring
+SLUG         : one-piece-ring
+BUMPA ID     : 1508134
+WOO TYPE     : variable
+PARENT SKU   : OSN-1508134
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Rings
+  - Shop by Anime > One Piece
+
+TAGS: One Piece ring, anime ring, One Piece accessories, stainless steel ring, anime jewelry, Straw Hat, otaku accessories, anime-inspired ring
+FRANCHISE: One Piece    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦3,300
+Total stock   : 42
+VARIATIONS (attribute: Size)
+  7              | ₦3,300 | stock 7    | SKU OSN-1508134-7
+  8              | ₦3,300 | stock 4    | SKU OSN-1508134-8
+  9              | ₦3,300 | stock 4    | SKU OSN-1508134-9
+  10             | ₦3,300 | stock 7    | SKU OSN-1508134-10
+  11             | ₦3,300 | stock 10   | SKU OSN-1508134-11
+  12             | ₦3,300 | stock 10   | SKU OSN-1508134-12
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the Jolly Roger on your hand.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Stack the seas onto your finger with this One Piece-inspired stainless steel ring. Polished, tarnish-resistant, and built for daily wear. Pick your size and rep the crew everywhere you go.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Every great crew leaves a mark, and this One Piece-inspired ring lets you wear yours. Forged in stainless steel with a clean polished finish, it nods to the world of the Straw Hats without shouting, perfect for fans who want their fandom on point and on hand.</p><p>Tarnish-resistant and comfortable for everyday wear, it stacks easily with other pieces or stands alone as a quiet flex. A fan-made tribute, anime-inspired and not affiliated with the official series.</p><ul><li>Material: stainless steel / alloy with polished finish</li><li>Available sizes: 7, 8, 9, 10, 11, 12 (buyer selects at checkout)</li><li>Tarnish-resistant, built for daily wear</li><li>Design: One Piece-inspired motif</li><li>Includes: 1 ring</li><li>Care: keep dry, wipe clean with a soft cloth, store away from moisture</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Stainless steel with a polished, tarnish-resistant finish
+  • One Piece-inspired design for everyday fandom
+  • Six sizes available: 7 to 12
+  • Comfortable for daily wear, easy to stack
+  • Fan-made tribute, anime-inspired and unaffiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (43 chars)        : One Piece Ring | Anime Stainless Steel Ring
+Meta Description (155 chars) : One Piece-inspired stainless steel ring. Polished, tarnish-resistant, daily wear. Sizes 7-12. Ships from Nigeria nationwide and worldwide. Wear the roster.
+Focus keyword                       : One Piece ring
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: One Piece-inspired polished stainless steel ring shown on a plain background
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a polished stainless steel One Piece-inspired ring resting on ink-black surface. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent glow. Halftone dot texture, dynamic speed lines, ink splatter framing the ring, manga panel composition. Premium, cinematic macro lighting, sharp reflections on polished metal.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

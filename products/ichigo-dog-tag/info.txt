@@ -1,0 +1,88 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Ichigo Dog Tag
+SLUG         : ichigo-dog-tag
+BUMPA ID     : 1875932
+WOO TYPE     : variable
+PARENT SKU   : OSN-1875932
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Bleach
+
+TAGS: Ichigo dog tag, Bleach necklace, Ichigo Kurosaki, anime dog tag, Bleach merch, anime necklace, Soul Reaper chain, stainless steel pendant
+FRANCHISE: Bleach    CHARACTER: Ichigo Kurosaki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦6,000
+Total stock   : 5
+VARIATIONS (attribute: Style)
+  Chain 1        | ₦6,000 | stock 0    | SKU OSN-1875932-CHAIN1
+  Chain2         | ₦6,000 | stock 5    | SKU OSN-1875932-CHAIN2
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the Substitute Soul Reaper's badge
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+An Ichigo-inspired dog tag pendant for every Bleach fan. Tarnish-resistant stainless steel with crisp engraving, hung on an adjustable chain. Pick your chain style and wear the Substitute Soul Reaper everywhere you go.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Bankai-ready and built for daily wear. This Ichigo-inspired dog tag pendant channels the raw energy of the Substitute Soul Reaper, with bold engraving that nods to Bleach's most relentless protagonist. Whether you're repping the Gotei 13 at a meet-up or just want a clean, edgy everyday piece, this chain hits hard without trying too hard.</p>
+<p>Crafted from durable, tarnish-resistant metal and finished with a smooth, comfortable hang, it's an accessory you can throw on with anything. Choose your preferred look between Chain 1 and Chain 2 at checkout. Ships from Nigeria, nationwide and worldwide.</p>
+<ul>
+<li><strong>Character:</strong> Ichigo Kurosaki (Bleach) anime-inspired design</li>
+<li><strong>Type:</strong> Dog tag pendant necklace</li>
+<li><strong>Material:</strong> Durable stainless-steel / alloy, resists tarnish and everyday wear</li>
+<li><strong>Chain options:</strong> Choose Chain 1 or Chain 2 at checkout</li>
+<li><strong>Fit:</strong> Adjustable / standard length, suits most necklines</li>
+<li><strong>Finish:</strong> Crisp engraved detailing with a clean metallic sheen</li>
+<li><strong>Care:</strong> Wipe clean with a soft, dry cloth; keep away from harsh chemicals</li>
+<li><strong>Includes:</strong> 1 pendant on your selected chain</li>
+<li><strong>Price:</strong> ₦6,000</li>
+<li><strong>Note:</strong> Fan-made, anime-inspired merch. Not official or licensed; not affiliated with the rights holders.</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Ichigo Kurosaki (Bleach) anime-inspired dog tag pendant
+  • Durable, tarnish-resistant stainless-steel / alloy build
+  • Two chain styles to pick from: Chain 1 or Chain 2
+  • Adjustable length that suits most necklines
+  • Crisp engraved detailing with a clean metallic finish
+  • Ships from Nigeria, nationwide and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (55 chars)        : Ichigo Dog Tag Necklace | Bleach Chain | Otaku Store NG
+Meta Description (144 chars) : Ichigo Kurosaki dog tag pendant necklace inspired by Bleach. Tarnish-resistant steel, two chain styles, adjustable fit. ₦6,000. Ships worldwide.
+Focus keyword                       : Ichigo dog tag necklace
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Ichigo Kurosaki Bleach-inspired stainless-steel dog tag pendant necklace on a chain
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a stainless-steel anime dog tag pendant necklace inspired by Ichigo from Bleach, coiled on a flat surface. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent glint on the chain. Halftone dot shading, dramatic speed lines radiating outward, subtle ink splatter, framed inside a clean manga panel border. Premium, cinematic macro lighting, sharp metallic reflections, high detail.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

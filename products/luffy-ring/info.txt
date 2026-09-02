@@ -1,0 +1,73 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Luffy Ring
+SLUG         : luffy-ring
+BUMPA ID     : 1875961
+WOO TYPE     : simple
+PARENT SKU   : OSN-1875961
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Rings
+  - Shop by Anime > One Piece
+
+TAGS: Luffy ring, One Piece ring, anime ring, Monkey D. Luffy, Straw Hat Pirates, anime accessories, adjustable ring, anime jewellery
+FRANCHISE: One Piece    CHARACTER: Monkey D. Luffy
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦3,800
+Total stock   : 499
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+King of the Pirates energy on your finger
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Carry the future Pirate King's spirit everywhere. This One Piece-inspired Luffy ring is forged in tarnish-resistant metal with a clean polished finish and an adjustable band that fits almost any finger. Stack it, gift it, wear it daily.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Set sail in style with the Luffy Ring, a bold One Piece-inspired piece built for fans who live by the Straw Hat code. Monkey D. Luffy never backs down, and neither does this everyday accessory: a clean, polished band that holds its shine and slides effortlessly into your daily rotation, whether you are repping the crew at a con or just adding edge to a casual fit.</p><p>The open, resizable design means no guesswork on sizing. Gently adjust the band for a comfortable, secure fit, then stack it with chains, bracelets and other pieces from the roster. It is anime-inspired and made for fans, not affiliated with the official series, so you get the look without the markup.</p><ul><li>Theme: One Piece-inspired Monkey D. Luffy fan design</li><li>Material: durable stainless steel / alloy</li><li>Finish: polished, tarnish-resistant for daily wear</li><li>Sizing: adjustable / resizable open band, one size fits most</li><li>Style: unisex, stackable everyday statement ring</li><li>In the box: 1x Luffy ring</li><li>Care: wipe clean with a soft dry cloth; keep away from harsh chemicals and prolonged moisture</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • One Piece-inspired Monkey D. Luffy fan design
+  • Adjustable, resizable band fits most fingers
+  • Polished, tarnish-resistant metal for daily wear
+  • Unisex and stackable with chains and bracelets
+  • Durable stainless steel / alloy build
+  • Anime-inspired, not affiliated with the official series
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (53 chars)        : Luffy Ring - One Piece Anime-Inspired Adjustable Ring
+Meta Description (152 chars) : Luffy ring inspired by One Piece. Adjustable, tarnish-resistant polished band that fits most fingers. Unisex, stackable. Ships nationwide and worldwide.
+Focus keyword                       : Luffy ring
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: One Piece-inspired Luffy adjustable ring in polished tarnish-resistant metal
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a single polished metal anime-inspired ring resting on a slab of paper-white #FAFAFA stone, set against an ink-black #111111 background. One bold manga-red #E2261C accent: a sweep of speed lines and a splash of ink splatter cutting diagonally behind the ring. Halftone dot texture in the shadows, framed inside a clean manga panel border. Cinematic key light catching the ring's edge, premium jewellery photography, sharp focus, high contrast, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

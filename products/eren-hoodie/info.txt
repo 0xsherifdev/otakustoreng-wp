@@ -1,0 +1,91 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Eren Hoodie
+SLUG         : eren-hoodie
+BUMPA ID     : 2964624
+WOO TYPE     : variable
+PARENT SKU   : OSN-2964624
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+  - Shop by Anime > Attack on Titan
+
+TAGS: Eren hoodie, Attack on Titan hoodie, Eren Jaeger, anime hoodie, Survey Corps, Attack Titan, AOT merch, anime streetwear
+FRANCHISE: Attack on Titan    CHARACTER: Eren Yeager
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦18,500
+Total stock   : 800
+VARIATIONS (attribute: Size & Material)
+  L-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964624-LTHICKCOTTON
+  L-Thick Polyester. | ₦18,500 | stock 100  | SKU OSN-2964624-LTHICKPOLYESTER
+  Xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964624-XLTHICKCOTTON
+  Xl-Thick Polyester. | ₦18,500 | stock 100  | SKU OSN-2964624-XLTHICKPOLYESTER
+  2xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964624-2XLTHICKCOTTON
+  2xl-Thick Polyester. | ₦18,500 | stock 100  | SKU OSN-2964624-2XLTHICKPOLYESTER
+  3xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964624-3XLTHICKCOTTON
+  3xl-Thick Polyester. | ₦18,500 | stock 100  | SKU OSN-2964624-3XLTHICKPOLYESTER
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Split-face Eren graphic. Built to brawl.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Black pullover hoodie with a split-face Eren Jaeger and Attack Titan chest print, Survey Corps wings down both sleeves, and bold Japanese kanji. Brushed-fleece warmth, kangaroo pocket, unisex streetwear fit. Choose Thick Cotton or Thick Polyester.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Half-human, half-Titan. This Eren Jaeger pullover splits his face down the middle with the Attack Titan in inked black-and-white, framed by the 進撃の巨人 panel and the "EREN JAEGER" wordmark. Survey Corps wings run down both sleeves alongside bold kanji, so the loadout reads from every angle. An anime-inspired piece for Attack on Titan fans who want their roster on their back.</p>
+<p>The body is built for warmth and everyday rotation: a soft brushed-fleece interior, a roomy kangaroo pocket, and a drawstring hood that holds its shape. Pick your fabric weight and grab your size.</p>
+<ul>
+<li>Front graphic: split-face Eren / Attack Titan with "EREN JAEGER" text and 進撃の巨人 kanji panel</li>
+<li>Sleeve print: Survey Corps wing emblem and kanji down both arms</li>
+<li>Pullover hoodie with drawstring hood and front kangaroo pocket</li>
+<li>Brushed-fleece interior for warmth; ribbed cuffs and hem</li>
+<li>Unisex streetwear fit</li>
+<li>Fabric choice: Thick Cotton or Thick Polyester</li>
+<li>Sizes: L, XL, 2XL, 3XL</li>
+<li>Care: machine wash cold, inside-out; do not tumble dry print</li>
+<li>Fan-made, anime-inspired design; not official or affiliated with the franchise</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Split-face Eren / Attack Titan chest graphic in crisp black-and-white
+  • Survey Corps wings and kanji printed down both sleeves
+  • Brushed-fleece interior with ribbed cuffs and hem for warmth
+  • Roomy kangaroo pocket and shape-holding drawstring hood
+  • Choose your weight: Thick Cotton or Thick Polyester
+  • Unisex streetwear fit in sizes L to 3XL
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (49 chars)        : Eren Jaeger Hoodie | Attack on Titan Anime Hoodie
+Meta Description (149 chars) : Eren Jaeger hoodie with a split-face Attack Titan print and Survey Corps sleeves. Brushed-fleece warmth, unisex fit, Thick Cotton or Polyester. Shop.
+Focus keyword                       : Eren hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black Eren Jaeger pullover hoodie with split-face Eren and Attack Titan chest print and Survey Corps wings on the sleeves
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio shot of a black pullover hoodie laid flat on paper-white #FAFAFA backdrop, dramatic cinematic side lighting. Split-face Eren Jaeger / Attack Titan chest graphic in ink black #111111 line art, single manga-red #E2261C accent on a slash detail. Background of halftone dots, diagonal speed lines, and subtle ink splatter framing the garment in manga panels. Premium product photography, high contrast, crisp ink linework, no text overlay.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

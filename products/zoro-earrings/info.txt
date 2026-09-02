@@ -1,0 +1,70 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Zoro Earrings
+SLUG         : zoro-earrings
+BUMPA ID     : 1729919
+WOO TYPE     : simple
+PARENT SKU   : OSN-1729919
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Rings
+  - Shop by Anime > One Piece
+
+TAGS: Zoro earrings, One Piece earrings, Roronoa Zoro, anime earrings, One Piece merch, gold hoop earrings, Straw Hat crew, anime jewelry
+FRANCHISE: One Piece    CHARACTER: Roronoa Zoro
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦6,500
+Total stock   : 20
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Three gold hoops. One first mate.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel the Pirate Hunter with this Zoro-inspired earring set, modeled on the three gold hoops worn on his left ear. Lightweight, tarnish-resistant metal with a polished finish, built for everyday wear by serious One Piece fans.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some looks are unmistakable. Three gold hoops stacked down one ear is pure Roronoa Zoro, the Pirate Hunter and first mate of the Straw Hats, and this anime-inspired earring set lets you wear that signature without saying a word. Clean, minimal, and instantly recognizable to anyone who knows the crew.</p><p>Crafted from lightweight, tarnish-resistant metal with a smooth polished finish, these hoops sit comfortably for all-day wear and pair just as easily with streetwear as with your con fit. A subtle nod for the fans who get it, sharp enough to stand on its own.</p><ul><li>Design: Zoro-inspired triple hoop set, modeled on his iconic three left-ear earrings</li><li>Material: lightweight tarnish-resistant alloy / stainless steel</li><li>Finish: polished gold-tone</li><li>Style: hoop / drop earrings, minimalist everyday wear</li><li>Wear: smooth secure fit, suitable for daily use</li><li>Care: wipe clean with a soft dry cloth; keep away from water and perfume</li><li>Fandom: One Piece, anime-inspired fan merch</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Inspired by Zoro's iconic three gold ear hoops from One Piece
+  • Lightweight tarnish-resistant metal with a polished gold-tone finish
+  • Minimalist design that pairs with streetwear or cosplay
+  • Comfortable, secure fit built for everyday wear
+  • A subtle flex for true Straw Hat crew fans
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (42 chars)        : Zoro Earrings | One Piece Anime Gold Hoops
+Meta Description (153 chars) : Zoro-inspired triple gold hoop earrings from One Piece. Lightweight, tarnish-resistant, polished finish for daily wear. Ships from Nigeria, nationwide &.
+Focus keyword                       : Zoro earrings
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.png  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Zoro-inspired One Piece triple gold hoop earring set with a polished tarnish-resistant finish
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a set of three gold-tone hoop earrings inspired by Roronoa Zoro from One Piece, arranged in a vertical stack on an ink-black #111111 surface with paper-white #FAFAFA highlights. A single manga-red #E2261C accent slash cuts diagonally behind the hoops. Halftone dot shading, dynamic speed lines and a touch of ink splatter framed in a clean manga panel. Cinematic premium lighting, sharp metallic reflections, macro detail, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

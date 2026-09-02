@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : One Piece Wallet
+SLUG         : one-piece-wallet
+BUMPA ID     : 2789147
+WOO TYPE     : simple
+PARENT SKU   : OSN-2789147
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Wallets
+  - Shop by Anime > One Piece
+
+TAGS: One Piece wallet, Straw Hat Pirates, anime wallet, bifold wallet, PU leather wallet, Luffy Jolly Roger, anime card holder, One Piece merch
+FRANCHISE: One Piece    CHARACTER: Straw Hat Pirates (Jolly Roger)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦9,000
+Total stock   : 4
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the Straw Hat crew everywhere you go
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A slim bifold wallet repping the Straw Hat Jolly Roger in embossed two-tone PU leather. Multiple card slots, a full note compartment and clean stitched edges make it the everyday carry every One Piece fan deserves.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Set sail with your everyday carry. This One Piece bifold wallet wears the Straw Hat Pirates' Jolly Roger embossed across the front, paired with a two-tone tan and sage panel stamped with the iconic series logo. Subtle enough for daily use, bold enough that any fan will catch the reference.</p><p>Built from soft PU leather with neat stitched edges and a slim profile, it keeps your cards and notes organised without bulking out your pocket. A premium fan piece, anime-inspired and not affiliated with the official franchise.</p><ul><li>Material: durable PU (faux) leather with stitched trim</li><li>Design: embossed Straw Hat Jolly Roger with two-tone tan and sage colourway</li><li>Layout: multiple card slots plus a full-length note/cash compartment</li><li>Style: classic bifold, slim everyday-carry profile</li><li>Use: pairs with cards, cash and folded receipts; great gift for One Piece fans</li><li>Care: wipe clean with a dry or slightly damp cloth; avoid soaking</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Embossed Straw Hat Pirates Jolly Roger front panel
+  • Two-tone tan and sage PU leather with the One Piece logo
+  • Multiple card slots plus a full-length note compartment
+  • Slim bifold profile that sits flat in your pocket
+  • Stitched edges for a clean, premium finish
+  • Fan-favourite gift for any One Piece crew member
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (47 chars)        : One Piece Wallet | Straw Hat Bifold Card Holder
+Meta Description (153 chars) : One Piece bifold wallet in two-tone PU leather with the embossed Straw Hat Jolly Roger. Slim, with card slots and a note compartment. Shop now at ₦9,000.
+Focus keyword                       : One Piece wallet
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: One Piece bifold wallet in tan and sage PU leather with the embossed Straw Hat Pirates Jolly Roger and series logo, held in hand
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-Manga style studio product shot of a tan two-tone bifold wallet embossed with a skull-and-crossbones Jolly Roger and a straw hat motif, opened slightly to reveal card slots. Ink black #111111 background, paper white #FAFAFA rim light, single manga-red #E2261C accent slashing across the frame. Halftone dot texture, dramatic speed lines, subtle ink splatter, cinematic manga-panel composition, premium product photography, high detail, sharp focus.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

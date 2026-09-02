@@ -1,0 +1,74 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Yuta Promise Rings
+SLUG         : yuta-promise-rings
+BUMPA ID     : 1134953
+WOO TYPE     : simple
+PARENT SKU   : OSN-1134953
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Rings
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Yuta promise rings, Yuta Okkotsu, Jujutsu Kaisen rings, anime couple rings, JJK accessories, anime promise ring, matching rings, anime ring set
+FRANCHISE: Jujutsu Kaisen    CHARACTER: Yuta Okkotsu
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦2,500
+Total stock   : 993
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The vow that binds Yuta and Rika
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A matching promise ring pair inspired by Yuta Okkotsu's bond with Rika. Slim polished bands, each set with a single crystal, in silver-tone and rose-gold-tone. Tarnish-resistant and built for everyday wear, alone or as a couple.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some promises never break. These matching bands channel Yuta Okkotsu's vow from Jujutsu Kaisen 0 into something you can actually wear, a quiet link between two people who get the reference. One slim polished band in silver-tone, one in warm rose-gold-tone, each carrying a single crystal that catches the light like a cursed energy spark.</p><p>The smooth domed profile sits comfortably for all-day wear, and the tarnish-resistant finish keeps that mirror shine going whether you stack it, gift it, or split the pair with someone who matters. Anime-inspired, fan-made, and not affiliated with the official series, this is a fan piece for fans who carry their roster everywhere.</p><ul><li>Style: matching anime-inspired promise / couple ring pair</li><li>Material: stainless steel / alloy with polished mirror finish</li><li>Colour: one silver-tone band and one rose-gold-tone band</li><li>Accent: single bezel-set clear crystal stone on each band</li><li>Profile: slim, smooth domed comfort band</li><li>Sizing: standard ring sizes, select your size at checkout</li><li>Wear: tarnish-resistant, suited to daily wear</li><li>In the box: pair of two rings</li><li>Care: keep dry, wipe clean with a soft cloth, store away from harsh chemicals</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Inspired by Yuta and Rika's promise from Jujutsu Kaisen 0
+  • Matching pair: one silver-tone, one rose-gold-tone band
+  • Single crystal accent bezel-set on each ring
+  • Polished, tarnish-resistant finish for daily wear
+  • Slim comfort-fit profile in standard ring sizes
+  • Wear solo or split the set with someone
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (51 chars)        : Yuta Promise Rings | Jujutsu Kaisen Couple Ring Set
+Meta Description (155 chars) : Yuta Okkotsu promise ring pair inspired by Jujutsu Kaisen. Matching silver and rose-gold-tone bands with crystal accents, tarnish-resistant. Shop at Otaku.
+Focus keyword                       : Yuta promise rings
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Pair of Yuta Okkotsu promise rings, silver-tone and rose-gold-tone polished bands each with a crystal accent, shown with a Jujutsu Kaisen scene
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a matching pair of slim polished promise rings, one silver-tone and one rose-gold-tone, each with a single tiny clear crystal, resting on ink-black surface #111111 with paper-white #FAFAFA negative space. Single manga-red #E2261C accent in a thin speed-line streak behind the rings, halftone dot texture, subtle ink splatter, manga panel framing, dramatic cinematic key light glinting off the metal, premium jewelry catalog feel, high detail.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

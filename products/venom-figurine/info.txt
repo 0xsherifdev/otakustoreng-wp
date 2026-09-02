@@ -1,0 +1,79 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Venom Figurine
+SLUG         : venom-figurine
+BUMPA ID     : 1873969
+WOO TYPE     : simple
+PARENT SKU   : OSN-1873969
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Figurines
+
+TAGS: Venom figurine, Venom statue, symbiote figure, PVC figurine, collectible figurine, anime-inspired figure, Venom collectible, display statue
+FRANCHISE: Marvel    CHARACTER: Venom
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦17,500
+Total stock   : 10
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The symbiote crouches, fangs out, tongue lashing
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A menacing crouched Venom statue cast in detailed PVC, fangs bared and crimson tongue lashing. Pre-painted with the classic white spider emblem and mounted on a branded display base. Shelf-ready, anime-inspired symbiote energy for any collector lineup.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Lethal protector or pure chaos, you decide. This Venom figurine catches the symbiote mid-pounce, hulking arm raised, fanged maw split wide and that signature crimson tongue whipping out for the kill. Every coiled muscle, webbed vein and gnashing tooth is sculpted in crisp detail and finished in glossy ink-black with the bold white spider crest across the chest.</p>
+<p>Pre-painted and ready to display straight out of the box, it sits on a black oval base marked with the Venom name so the pose stays locked and dramatic on any shelf. A statement piece for collectors who like their roster a little dangerous. Fan-made, anime-inspired collectible, not affiliated with or endorsed by any rights holder.</p>
+<ul>
+<li>Character: Venom, crouched attack pose with extended tongue</li>
+<li>Material: detailed pre-painted PVC display statue</li>
+<li>Approx. size: 12.5cm tall; display base footprint approx. 21cm x 13.5cm</li>
+<li>Includes: figurine plus fitted black oval display base</li>
+<li>Finish: glossy ink-black body with white spider emblem and red accents</li>
+<li>Use: shelf and desk display collectible, not a toy</li>
+<li>Care: keep out of direct sunlight; dust gently with a soft dry brush or cloth</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Dynamic crouched attack pose with the iconic lashing red tongue
+  • Crisp PVC sculpt: webbed veins, gnashing fangs and bold white spider crest
+  • Pre-painted glossy ink-black finish, display-ready out of the box
+  • Includes a fitted black oval base for a locked, dramatic stance
+  • Compact approx. 12.5cm height, fits any shelf or desk lineup
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (53 chars)        : Venom Figurine | PVC Symbiote Statue | Otaku Store NG
+Meta Description (145 chars) : Venom figurine in a crouched attack pose with lashing red tongue. Detailed pre-painted PVC statue with display base. Ships from Nigeria, ₦17,500.
+Focus keyword                       : Venom figurine
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Pre-painted PVC Venom figurine in a crouched attack pose with white spider emblem and long red tongue on a black oval display base
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a crouched Venom symbiote PVC statue, fangs bared with a long crimson tongue lashing out, white spider emblem on the chest, mounted on a glossy black oval display base. Ink black #111111 backdrop, paper white #FAFAFA rim light, single manga-red #E2261C accent on the tongue and speed lines. Halftone dot texture, dramatic ink splatter, manga panel framing, sharp cinematic studio lighting, premium collector hero shot, high detail, shallow depth of field.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

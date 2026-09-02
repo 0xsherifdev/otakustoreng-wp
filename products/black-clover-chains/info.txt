@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Black Clover Chains
+SLUG         : black-clover-chains
+BUMPA ID     : 1734140
+WOO TYPE     : variable
+PARENT SKU   : OSN-1734140
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Chains & Necklaces
+
+TAGS: Black Clover, Black Clover necklace, Black Bulls emblem, four-leaf clover pendant, anime necklace, Asta, Clover Kingdom, anime chain, pendant necklace, anime jewelry
+FRANCHISE: Black Clover    CHARACTER: Asta / Black Bulls
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦5,000
+Total stock   : 187
+VARIATIONS (attribute: Style)
+  Black Bull     | ₦5,000 | stock 95   | SKU OSN-1734140-BLACKBULL
+  Clover         | ₦5,000 | stock 92   | SKU OSN-1734140-CLOVER
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Black Bulls emblem or four-leaf clover grimoire pendant
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Carry the magic knight energy. This Black Clover pendant chain comes as the Black Bulls squad emblem or the iconic four-leaf clover grimoire motif, on a durable tarnish-resistant ball chain built for everyday wear.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Surpass your limits. This anime-inspired Black Clover necklace lets you rep the Clover Kingdom with two icons every fan knows on sight: the Black Bulls squad emblem worn by Asta and Yuno's rivals-turned-family, or the four-leaf clover grimoire that promises good luck and the rare fifth-leaf twist. Crisp enamel-style detailing on a clean, lightweight pendant.</p><p>Built for daily wear on a smooth ball chain that resists tarnish and keeps its shine, it sits clean under a hoodie or over a tee. Pick your design and wear the roster.</p><ul><li>Design options: Black Bulls squad emblem or four-leaf clover grimoire</li><li>Material: durable tarnish-resistant stainless-steel / alloy pendant and ball chain</li><li>Pendant finish: gold-tone Black Bull emblem with black detailing; silver-tone clover</li><li>Chain: ball-chain style, comfortable everyday length</li><li>Unisex; pairs with casual and streetwear fits</li><li>Care: wipe clean with a soft, dry cloth; keep away from moisture and perfume</li><li>Includes: 1 pendant necklace in your chosen design</li><li>Fan-made, anime-inspired design; not official or affiliated with the franchise</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Two iconic designs: Black Bulls squad emblem or four-leaf clover grimoire
+  • Durable, tarnish-resistant pendant and ball chain
+  • Lightweight and comfortable for everyday wear
+  • Unisex, layers cleanly with hoodies and tees
+  • Fan-made Black Clover design, not official or affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (50 chars)        : Black Clover Chains | Black Bulls & Clover Pendant
+Meta Description (147 chars) : Black Clover pendant chain in two designs: Black Bulls squad emblem or four-leaf clover grimoire. Durable, tarnish-resistant. Ships nationwide and.
+Focus keyword                       : Black Clover chains
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Two Black Clover pendant necklaces on ball chains: gold-tone Black Bulls squad emblem and silver-tone four-leaf clover grimoire.
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a Black Clover pendant necklace, single magic-knight grimoire clover pendant on a steel ball chain laid on textured paper-white #FAFAFA surface. Ink black #111111 background with manga halftone dots, speed lines and a single manga-red #E2261C ink splatter accent behind the pendant. Dramatic cinematic side lighting catching the metal edges, shallow depth of field, premium product photography, manga panel framing. No text, no logos, no watermark.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

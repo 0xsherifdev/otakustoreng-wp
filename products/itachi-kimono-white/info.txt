@@ -1,0 +1,88 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Itachi Kimono White
+SLUG         : itachi-kimono-white
+BUMPA ID     : 1131356
+WOO TYPE     : variable
+PARENT SKU   : OSN-1131356
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+  - Apparel > Cosplay
+  - Shop by Anime > Naruto
+
+TAGS: Itachi, Itachi Uchiha, Naruto, Akatsuki, anime t-shirt, Uchiha, white tee, Naruto shirt, anime graphic tee, cosplay
+FRANCHISE: Naruto    CHARACTER: Itachi Uchiha
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦15,000
+Total stock   : 500
+VARIATIONS (attribute: Size)
+  M              | ₦15,000 | stock 100  | SKU OSN-1131356-M
+  L              | ₦15,000 | stock 100  | SKU OSN-1131356-L
+  XL             | ₦15,000 | stock 100  | SKU OSN-1131356-XL
+  2XL            | ₦15,000 | stock 100  | SKU OSN-1131356-2XL
+  3XL            | ₦15,000 | stock 100  | SKU OSN-1131356-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Itachi's calm, worn in white cotton.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Fan-inspired Itachi Uchiha graphic tee in clean white, built for everyday wear. Soft cotton, unisex regular fit, crew neck and a durable fade-resistant print that keeps the Uchiha legend sharp wash after wash.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Carry the weight of the Uchiha with the Itachi Kimono White tee. This anime-inspired Naruto piece pairs a crisp white body with bold Itachi artwork, giving you that quiet, lethal energy of the Akatsuki's most haunting genius. It's the kind of tee that reads as effortless on campus and turns heads at any anime meet.</p>
+<p>Cut for comfort and built to last, it's a soft, breathable everyday staple you'll keep reaching for. Wear the roster, repeat the legend.</p>
+<ul>
+<li>Anime-inspired Itachi Uchiha (Naruto) graphic print on a clean white body</li>
+<li>Soft, breathable cotton for all-day comfort</li>
+<li>Unisex regular fit with a classic crew neck</li>
+<li>Durable, fade-resistant print that holds up wash after wash</li>
+<li>Available in M, L, XL, 2XL and 3XL</li>
+<li>Care: machine wash cold, inside-out; do not iron directly on the print</li>
+<li>Fan / anime-inspired design, not affiliated with or endorsed by the official rights holders</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Anime-inspired Itachi Uchiha artwork on clean white cotton
+  • Unisex regular fit with classic crew neck
+  • Soft, breathable everyday fabric
+  • Durable, fade-resistant print
+  • Sizes M through 3XL
+  • Machine wash cold, inside-out
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (46 chars)        : Itachi Kimono White Tee | Naruto Anime T-Shirt
+Meta Description (145 chars) : Itachi Uchiha white anime tee, soft cotton, unisex fit, fade-resistant print. Sizes M-3XL, ₦15,000. Ships from Nigeria, nationwide and worldwide.
+Focus keyword                       : Itachi Naruto t-shirt
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: White cotton t-shirt with anime-inspired Itachi Uchiha graphic from Naruto, front view
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio shot of a white cotton t-shirt with an anime-inspired Itachi Uchiha graphic, displayed flat-lay on ink-black #111111 surface. Paper-white #FAFAFA fabric, single manga-red #E2261C accent on the Sharingan detail. Halftone dot shading, dramatic speed lines radiating outward, subtle ink-splatter texture framed in manga panel borders. Premium, cinematic product lighting, high contrast, sharp focus.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

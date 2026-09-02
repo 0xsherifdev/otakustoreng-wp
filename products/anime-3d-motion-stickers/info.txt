@@ -1,0 +1,97 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Anime 3d Motion Stickers
+SLUG         : anime-3d-motion-stickers
+BUMPA ID     : 1210595
+WOO TYPE     : variable
+PARENT SKU   : OSN-1210595
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+
+TAGS: anime 3d motion stickers, lenticular stickers, anime stickers, tilt motion stickers, laptop stickers, phone case stickers, naruto stickers, jujutsu kaisen stickers
+FRANCHISE: Multi-Anime    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦2,800
+Total stock   : 70
+VARIATIONS (attribute: Style)
+  1              | ₦2,800 | stock 10   | SKU OSN-1210595-1
+  2              | ₦2,800 | stock 10   | SKU OSN-1210595-2
+  3              | ₦2,800 | stock 10   | SKU OSN-1210595-3
+  4              | ₦2,800 | stock 10   | SKU OSN-1210595-4
+  5              | ₦2,800 | stock 10   | SKU OSN-1210595-5
+  6              | ₦2,800 | stock 10   | SKU OSN-1210595-6
+  7              | ₦2,800 | stock 10   | SKU OSN-1210595-7
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Tilt it. Watch them transform.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Lenticular 3D motion stickers that shift through a three-stage transformation as you tilt them. Roughly 5cm each, with seven anime designs spanning Bleach, Naruto, Demon Slayer, One Piece and Jujutsu Kaisen. Slap one on your phone, laptop or scooter and watch your favourite hit their power-up.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some stickers just sit there. These ones <strong>move</strong>. Each Anime 3D Motion Sticker uses a lenticular finish so that, as you tilt it, the character runs through a three-stage transformation right in front of your eyes, from calm to charged to full power-up. It is the kind of detail that makes people pick up your phone just to flick it back and forth.</p>
+<p>Choose from seven fan-favourite designs, each a roughly 5cm panel of three frames printed left to right: Ichigo's Hollowfication, Pain's Akatsuki stare, Tanjiro's mark, the Straw Hat trio, Gojo unleashed, Sukuna's awakening and Naruto going Sage. Anime-inspired fan art, perfect for your phone case, laptop lid, water bottle, console or scooter. An easy, affordable way to rep the roster.</p>
+<ul>
+<li><strong>Type:</strong> Lenticular 3D motion (tilt-to-animate) sticker</li>
+<li><strong>Effect:</strong> Three-frame transformation sequence, numbered left to right</li>
+<li><strong>Approx. size:</strong> 5cm / 1.97in per sticker</li>
+<li><strong>Style options:</strong> 7 designs (1-7) spanning Bleach, Naruto, Demon Slayer, One Piece and Jujutsu Kaisen</li>
+<li><strong>Finish:</strong> Glossy lenticular surface with self-adhesive backing</li>
+<li><strong>Surfaces:</strong> Phones, cases, laptops, tablets, bottles, consoles, notebooks, helmets and scooters</li>
+<li><strong>Care:</strong> Apply to a clean, dry, flat surface; wipe gently and avoid prolonged soaking</li>
+<li><strong>Price:</strong> ₦2,800</li>
+<li><strong>Shipping:</strong> 1-4 day delivery within Nigeria; nationwide and worldwide</li>
+<li>Anime-inspired fan art. Not official or licensed; not affiliated with any studio or rights holder.</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Lenticular 3D effect animates a 3-stage transformation as you tilt it
+  • Seven designs across Bleach, Naruto, Demon Slayer, One Piece and JJK
+  • Compact ~5cm size fits phones, laptops, bottles and scooters
+  • Self-adhesive backing applies clean to any smooth, flat surface
+  • Affordable way to rep your favourite character's power-up moment
+  • Ships 1-4 days within Nigeria, plus nationwide and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (51 chars)        : Anime 3D Motion Stickers | Lenticular Tilt Stickers
+Meta Description (153 chars) : Anime 3D motion stickers that animate a transformation as you tilt them. 7 designs, ~5cm, for phones & laptops. ₦2,800. Ships across Nigeria & worldwide.
+Focus keyword                       : anime 3d motion stickers
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+  05.jpg  (gallery)
+  06.jpg  (gallery)
+  07.jpg  (gallery)
+  08.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Anime 3D lenticular motion stickers showing three-stage character transformations, about 5cm each
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product photo of a single anime 3D lenticular motion sticker held at an angle between two fingers, mid-tilt so the three transformation frames smear into a motion blur. Ink black #111111 background, paper white #FAFAFA accents, single manga-red #E2261C glow catching the sticker edge. Halftone dot texture, sharp diagonal speed lines and a touch of ink splatter framing the hand. Premium, cinematic studio lighting, shallow depth of field, glossy lenticular surface catching a red rim light. No text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - QA fixes applied: franchise is set to "Generic Anime" but this product spans five specific named franchises (Bleach, Naruto, Demon Slayer, One Piece, Jujutsu Kaisen). Set to "Multi-Anime" to be more accurate than the generic fallback.; Internal consistency: short_description and highlights say "seven anime designs" / "Seven designs", but the long_description lists exactly seven named designs while the spec line says "7 designs (1-7)". This is consistent, but the named list omits a distinct character per slot vs the count — verified all seven are named, so this is fine. No change needed here.; Minor: short_description uses "kick scooter" which is slightly off-voice/clunky; tightened to "scooter" to match the rest of the copy and the highlights.; No official/licensed/trademark violations found — disclaimer is present and correct. SEO title (51 chars) and meta description (151 chars) are within limits. HTML is clean and valid for an Accessories product.
+================================================================================

@@ -1,0 +1,91 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Naruto Black And Silver  Bracelet
+SLUG         : naruto-black-and-silver-bracelet
+BUMPA ID     : 1920157
+WOO TYPE     : variable
+PARENT SKU   : OSN-1920157
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Bracelets
+  - Shop by Anime > Naruto
+
+TAGS: Naruto bracelet, Naruto, anime bracelet, stainless steel bracelet, silicone strap bracelet, Itachi, Kakashi, anime accessories, anime jewellery, shinobi merch
+FRANCHISE: Naruto    CHARACTER: Naruto Uzumaki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦5,000
+Total stock   : 56
+VARIATIONS (attribute: Style)
+  Naruto         | ₦5,000 | stock 7    | SKU OSN-1920157-NARUTO
+  Kakashi        | ₦5,000 | stock 10   | SKU OSN-1920157-KAKASHI
+  Minato         | ₦5,000 | stock 9    | SKU OSN-1920157-MINATO
+  Gara           | ₦5,000 | stock 10   | SKU OSN-1920157-GARA
+  Itachi         | ₦5,000 | stock 10   | SKU OSN-1920157-ITACHI
+  Pain           | ₦5,000 | stock 10   | SKU OSN-1920157-PAIN
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Engraved ID plate. Wear your favourite shinobi.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A sleek black-strap bracelet with a polished steel ID plate laser-etched with the NARUTO logo and your chosen shinobi. Watch-style buckle for an adjustable, everyday fit. Pick from six character designs.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Lock in your loyalty to the Hidden Leaf. This anime-inspired bracelet pairs a matte black silicone strap with a mirror-polished stainless-steel ID plate, laser-etched with the bold <strong>NARUTO</strong> logo and a detailed portrait of your chosen shinobi. Clean, understated and built to live on your wrist daily.</p>
+<p>A watch-style buckle clasp with multiple adjustment holes dials in the fit, so it sits snug whether you're stacking it or wearing it solo. Choose your fighter: Naruto, Kakashi, Minato, Gara, Itachi or Pain. Fan-made and anime-inspired, not affiliated with or endorsed by the official rights holders.</p>
+<ul>
+<li><strong>Style options:</strong> Naruto, Kakashi, Minato, Gara, Itachi, Pain</li>
+<li><strong>Plate:</strong> polished stainless steel, laser-etched NARUTO logo and character art</li>
+<li><strong>Strap:</strong> matte black flexible silicone, soft and water-friendly</li>
+<li><strong>Clasp:</strong> watch-style metal buckle with adjustment holes for an adjustable fit</li>
+<li><strong>Wear:</strong> unisex, everyday-durable, comfortable for all-day wear</li>
+<li><strong>In the box:</strong> 1 Naruto black and silver bracelet in your chosen design</li>
+<li><strong>Care:</strong> wipe the strap clean with a damp cloth; pat the steel plate dry to keep its shine</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Mirror-polished steel ID plate laser-etched with the NARUTO logo and character art
+  • Six shinobi to choose from: Naruto, Kakashi, Minato, Gara, Itachi, Pain
+  • Soft matte-black silicone strap, comfortable for all-day wear
+  • Watch-style buckle clasp with adjustment holes for an adjustable fit
+  • Unisex, everyday-durable design that stacks or stands alone
+  • Fan-made anime-inspired piece, not officially affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (47 chars)        : Naruto Black & Silver Bracelet | Otaku Store NG
+Meta Description (149 chars) : Naruto black and silver bracelet with a steel ID plate etched with your favourite shinobi. Adjustable silicone strap, six styles. Ships from Nigeria.
+Focus keyword                       : Naruto bracelet
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Naruto black silicone strap bracelet with a polished stainless-steel ID plate laser-etched with the NARUTO logo and character portrait
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a black silicone-strap bracelet with a mirror-polished stainless-steel ID plate etched with a bold NARUTO logo and a shinobi portrait, watch-style buckle clasp. Ink-black background #111111, paper-white #FAFAFA key light, single manga-red #E2261C accent slashing across the frame. Halftone dot texture, dynamic speed lines, ink-splatter detail, framed inside a clean manga panel border. Premium, cinematic, high-contrast macro lighting catching the steel plate.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

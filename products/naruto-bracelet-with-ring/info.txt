@@ -1,0 +1,72 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Naruto Bracelet With Ring
+SLUG         : naruto-bracelet-with-ring
+BUMPA ID     : 1920146
+WOO TYPE     : simple
+PARENT SKU   : OSN-1920146
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Bracelets
+  - Shop by Anime > Naruto
+
+TAGS: Naruto bracelet, Naruto ring, Konoha, Hidden Leaf, anime hand chain, anime bracelet, Naruto accessories, anime jewelry
+FRANCHISE: Naruto    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦6,500
+Total stock   : 501
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Konoha cuff and ring, linked by chain.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A Naruto-inspired hand chain: a black faux-leather cuff stamped with the Hidden Leaf crest, linked by a silver-tone chain to a matching adjustable Konoha ring. One connected piece that runs from wrist to finger for full ninja drip.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Lock in the look of the Hidden Leaf. This Naruto-inspired hand chain pairs a black faux-leather cuff with a silver-tone metal plate engraved with the Konoha leaf crest, then links it by chain to a matching ring carrying the same emblem. Worn together, it runs clean from your wrist across the back of your hand to your finger, the kind of layered, anime-inspired statement piece that does the talking.</p><p>Built to be worn, not just shelved. The cuff buckles to a comfortable everyday fit while the ring sits open-band so it adjusts to your size, making this an easy go-to for cons, fits, and daily reps. A standout gift for any shinobi in your roster.</p><ul><li>Set includes: 1 leather-style cuff bracelet + 1 connecting chain + 1 matching ring (one connected piece)</li><li>Theme: Naruto-inspired Konoha (Hidden Leaf Village) crest, engraved on both plates</li><li>Materials: black faux-leather strap with silver-tone alloy plates, chain and ring</li><li>Cuff fit: buckle-style fastening for an adjustable, secure wrist fit</li><li>Ring fit: open adjustable band to suit most finger sizes</li><li>Style: hand chain / wrist-to-finger statement accessory</li><li>Wear: everyday-durable; keep dry and wipe clean to maintain the finish</li><li>Fan-made, anime-inspired design; not official or affiliated with the franchise</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Connected cuff-to-ring hand chain for full wrist-to-finger drip
+  • Konoha (Hidden Leaf) crest engraved on both metal plates
+  • Black faux-leather cuff with silver-tone alloy hardware
+  • Buckle-adjustable cuff and open adjustable ring fit most sizes
+  • Everyday-durable statement piece, great for cons and fits
+  • Fan-made, anime-inspired Naruto design
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : Naruto Bracelet With Ring | Konoha Hand Chain
+Meta Description (148 chars) : Naruto-inspired hand chain: black leather cuff with engraved Konoha crest linked to a matching adjustable ring. Ships from Nigeria. Wear the roster.
+Focus keyword                       : Naruto bracelet with ring
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Naruto-inspired black leather cuff bracelet with engraved Konoha leaf plate linked by chain to a matching silver-tone ring worn on a hand
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a Naruto-inspired hand chain: a black faux-leather cuff bracelet with a silver-tone metal plate engraved with the Konoha Hidden Leaf swirl crest, linked by a fine chain to a matching open-band ring bearing the same crest, arranged on an ink-black #111111 surface against paper-white #FAFAFA. A single manga-red #E2261C accent ribbon and ink splatter, halftone dot texture, sharp speed lines radiating outward, manga panel framing, dramatic rim lighting, premium cinematic close-up, high detail.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

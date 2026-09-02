@@ -1,0 +1,17 @@
+[
+  {
+    "file": "wf_products_batch01.js",
+    "count": 100,
+    "agents": 200
+  },
+  {
+    "file": "wf_products_batch02.js",
+    "count": 100,
+    "agents": 200
+  },
+  {
+    "file": "wf_products_batch03.js",
+    "count": 87,
+    "agents": 174
+  }
+]

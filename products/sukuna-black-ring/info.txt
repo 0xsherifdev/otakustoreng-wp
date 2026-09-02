@@ -1,0 +1,78 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Sukuna Black Ring
+SLUG         : sukuna-black-ring
+BUMPA ID     : 1874003
+WOO TYPE     : variable
+PARENT SKU   : OSN-1874003
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Rings
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Sukuna ring, Jujutsu Kaisen ring, anime ring, black ring, JJK merch, King of Curses, stainless steel ring, Ryomen Sukuna
+FRANCHISE: Jujutsu Kaisen    CHARACTER: Ryomen Sukuna
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦3,000
+Total stock   : 3501
+VARIATIONS (attribute: Size)
+  7              | ₦3,000 | stock 500  | SKU OSN-1874003-7
+  8              | ₦3,000 | stock 500  | SKU OSN-1874003-8
+  9              | ₦3,000 | stock 500  | SKU OSN-1874003-9
+  10             | ₦3,000 | stock 500  | SKU OSN-1874003-10
+  11             | ₦3,000 | stock 500  | SKU OSN-1874003-11
+  12             | ₦3,000 | stock 500  | SKU OSN-1874003-12
+  13             | ₦3,000 | stock 501  | SKU OSN-1874003-13
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the King of Curses on your hand.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A blacked-out Sukuna ring inspired by the King of Curses. Stainless steel build with a stealthy polished finish, tarnish-resistant for everyday wear, and sized to fit. Subtle Jujutsu Kaisen energy, no loadout swap needed.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the King of Curses with this Sukuna-inspired black ring, built for fans of Jujutsu Kaisen who want a darker, low-key way to wear the roster. The murdered-out black finish keeps it stealthy enough for daily rotation while still landing a quiet nod to Ryomen Sukuna for anyone who knows.</p><p>Forged in durable stainless steel with a smooth polished surface, it is tarnish-resistant and comfortable for all-day wear. Choose your size and stack it, solo it, or pair it with the rest of your cursed energy lineup.</p><ul><li>Material: stainless steel / alloy with a black coated finish</li><li>Theme: Sukuna (Ryomen Sukuna) inspired, Jujutsu Kaisen fan design</li><li>Finish: polished, tarnish-resistant for daily wear</li><li>Available sizes: 7, 8, 9, 10, 11, 12, 13 (buyer selects)</li><li>Style: unisex, everyday-friendly statement ring</li><li>Care: wipe with a soft dry cloth; avoid harsh chemicals and prolonged water contact</li><li>Includes: 1 x Sukuna black ring in selected size</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Murdered-out black finish for stealthy, everyday styling
+  • Sukuna (King of Curses) inspired Jujutsu Kaisen fan design
+  • Durable stainless steel build, tarnish-resistant
+  • Smooth polished surface, comfortable for daily wear
+  • Seven sizes from 7 to 13 so you get the right fit
+  • Unisex piece, easy to stack or wear solo
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (43 chars)        : Sukuna Black Ring | Jujutsu Kaisen Fan Ring
+Meta Description (152 chars) : Sukuna black ring inspired by Jujutsu Kaisen. Tarnish-resistant stainless steel, polished finish, sizes 7-13. Ships from Nigeria nationwide & worldwide.
+Focus keyword                       : Sukuna black ring
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black Sukuna-inspired stainless steel ring with polished finish, a Jujutsu Kaisen fan design from Otaku Store NG
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product studio shot of a matte black stainless steel ring resting on a paper-white #FAFAFA surface, ink black #111111 background with bold manga panel borders, single manga-red #E2261C accent slash behind the ring, halftone dot shading and dramatic speed lines radiating outward, faint ink splatter, cinematic premium lighting with sharp reflection on the polished band, Sukuna King of Curses energy, high detail, no text.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

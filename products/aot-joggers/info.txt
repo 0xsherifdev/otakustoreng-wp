@@ -1,0 +1,95 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Aot Joggers
+SLUG         : aot-joggers
+BUMPA ID     : 1145175
+WOO TYPE     : variable
+PARENT SKU   : OSN-1145175
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Trousers
+  - Shop by Anime > Naruto
+  - Shop by Anime > Attack on Titan
+
+TAGS: Attack on Titan joggers, AOT joggers, Survey Corps trousers, Shingeki no Kyojin sweatpants, anime joggers, Wings of Freedom, anime trousers, Scout Regiment merch, unisex joggers
+FRANCHISE: Attack on Titan    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦17,000
+Total stock   : 259
+VARIATIONS (attribute: Size & Color)
+  M-Black        | ₦17,000 | stock 100  | SKU OSN-1145175-MBLACK
+  M-Pink         | ₦17,000 | stock 100  | SKU OSN-1145175-MPINK
+  L-Black        | ₦17,000 | stock 10   | SKU OSN-1145175-LBLACK
+  L-Pink         | ₦17,000 | stock 10   | SKU OSN-1145175-LPINK
+  Xl-Black       | ₦17,000 | stock 9    | SKU OSN-1145175-XLBLACK
+  Xl-Pink        | ₦17,000 | stock 10   | SKU OSN-1145175-XLPINK
+  Xxl-Black      | ₦17,000 | stock 10   | SKU OSN-1145175-XXLBLACK
+  Xxl-Pink       | ₦17,000 | stock 10   | SKU OSN-1145175-XXLPINK
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Survey Corps joggers built for the front line
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Suit up like the Scout Regiment in these Attack on Titan joggers. Thick, cosy cotton-blend fabric, the Wings of Freedom crest on the thigh and the 進撃の巨人 kanji down the leg. Tapered cuffs, drawstring waist, unisex fit.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Dedicate your heart to comfort. These Attack on Titan joggers carry the Survey Corps Wings of Freedom emblem on the thigh and the bold 進撃の巨人 kanji running down the leg, so you wear the roster wherever the walls fall. Cut from a thick, brushed cotton-blend that feels soft on the inside and holds its shape on the outside.</p>
+<p>The elastic drawstring waist and tapered, ribbed cuffs lock in a clean street silhouette, while the relaxed unisex fit means anyone in the squad can rep them. Pair with a matching AOT hoodie or tee for a full Scout Regiment fit. Fan-made and anime-inspired, not affiliated with the official series.</p>
+<ul>
+<li>Franchise: Attack on Titan (Shingeki no Kyojin) fan-inspired design</li>
+<li>Style: tapered jogger trousers with ribbed cuffs</li>
+<li>Graphics: Wings of Freedom Survey Corps crest on the thigh, 進撃の巨人 kanji print down the leg</li>
+<li>Fabric: thick, brushed cotton-blend with a soft inner face</li>
+<li>Waist: elastic waistband with adjustable drawstring</li>
+<li>Pockets: side slip pockets</li>
+<li>Fit: unisex, relaxed</li>
+<li>Colours: Black or Pink</li>
+<li>Sizes: M, L, XL, XXL</li>
+<li>Care: machine wash cold, inside out, hang or tumble dry low</li>
+<li>Pairs with: matching AOT hoodie, jersey or tee</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Survey Corps Wings of Freedom crest printed on the thigh
+  • Bold 進撃の巨人 kanji print down the leg
+  • Thick brushed cotton-blend, soft inside and warm
+  • Elastic drawstring waist with tapered ribbed cuffs
+  • Unisex relaxed fit in Black or Pink, M to XXL
+  • Pairs perfectly with a matching AOT hoodie or tee
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (53 chars)        : Attack on Titan Joggers | Survey Corps AOT Sweatpants
+Meta Description (152 chars) : Attack on Titan joggers with the Survey Corps crest and 進撃の巨人 kanji. Thick cotton-blend, drawstring waist, tapered cuffs. Black or Pink, M-XXL. ₦17,000.
+Focus keyword                       : Attack on Titan joggers
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Black Attack on Titan joggers with the white Survey Corps Wings of Freedom crest on the thigh and 進撃の巨人 kanji down the leg
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-Manga style studio product shot of folded Attack on Titan joggers in ink black #111111 with a single manga-red #E2261C accent stripe of halftone dots, the white Survey Corps Wings of Freedom emblem catching the light; dramatic speed lines and ink splatter radiating behind, paper white #FAFAFA backdrop, manga panel framing, cinematic premium lighting, sharp focus on the fabric texture and ribbed cuff.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

@@ -1,0 +1,70 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Luffy Straw Hat Chain
+SLUG         : luffy-straw-hat-chain
+BUMPA ID     : 1927309
+WOO TYPE     : simple
+PARENT SKU   : OSN-1927309
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Shop by Anime > One Piece
+
+TAGS: Luffy Straw Hat Chain, One Piece necklace, Straw Hat Pirates, Jolly Roger pendant, One Piece accessories, Luffy necklace, anime necklace, anime jewellery
+FRANCHISE: One Piece    CHARACTER: Monkey D. Luffy
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,500
+Total stock   : 9
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Fly the Straw Hat Jolly Roger every day.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Rep the Straw Hat Pirates with a brass-tone Jolly Roger medallion on an adjustable black cord. The skull-and-crossbones motif gets a manga-red ring accent for fans who set sail daily and never miss a beat.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Set sail in style. This One Piece-inspired pendant puts Luffy's Straw Hat Pirates Jolly Roger right on your chest, with the skull-and-crossbones engraved into a warm brass-tone medallion and circled by a bold manga-red ring. It is the kind of low-key flex that One Piece fans clock instantly across the room.</p><p>Strung on a slim black braided cord with a clasp and extender so it sits where you want it, this is an everyday piece built to layer with tees, hoodies and jackets. Affordable, durable and unmistakably crew-approved.</p><ul><li>Design: Straw Hat Pirates skull-and-crossbones Jolly Roger, engraved medallion with manga-red ring accent</li><li>Pendant material: brass/alloy with antique-style finish</li><li>Necklace: black braided cord with metal lobster-style clasp and adjustable extender</li><li>Style: round medallion pendant, unisex</li><li>Wear: pairs easily with tees, hoodies and jackets; great for layering or solo</li><li>Care: keep dry, wipe with a soft cloth, store away from moisture to preserve the finish</li><li>Fan / anime-inspired piece, not affiliated with or endorsed by the official rights holders</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Straw Hat Pirates Jolly Roger engraved on a warm brass-tone medallion
+  • Signature manga-red ring accent circles the skull motif
+  • Adjustable black braided cord with clasp and extender for the perfect drop
+  • Unisex everyday piece that layers with tees, hoodies and jackets
+  • Affordable way to rep your favourite crew, no Devil Fruit required
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (42 chars)        : Luffy Straw Hat Chain | One Piece Necklace
+Meta Description (150 chars) : Luffy Straw Hat Chain - One Piece Jolly Roger medallion on an adjustable black cord. Brass-tone pendant for Straw Hat crew fans. Ships nationwide and.
+Focus keyword                       : Luffy Straw Hat Chain
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: One Piece Luffy Straw Hat Pirates Jolly Roger brass-tone medallion pendant with red ring accent on a black cord necklace, held in hand.
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product hero shot of a brass-tone round medallion pendant engraved with a straw-hat skull-and-crossbones Jolly Roger, single manga-red #E2261C ring accent around the skull, hung on a slim black braided cord. Ink black #111111 background, paper white #FAFAFA negative space, halftone dot texture, sharp manga speed lines radiating behind the pendant, subtle ink splatter, dramatic cinematic studio lighting catching the metal engraving, premium high-detail, shallow depth of field, framed inside a single clean manga panel.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

@@ -1,0 +1,90 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Nezuko Shoes
+SLUG         : nezuko-shoes
+BUMPA ID     : 1141459
+WOO TYPE     : variable
+PARENT SKU   : OSN-1141459
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Shoes
+  - Shop by Anime > Demon Slayer
+
+TAGS: Nezuko shoes, Demon Slayer sneakers, Nezuko Kamado, anime sneakers, anime shoes, Demon Slayer merch, all-over print sneakers, unisex anime footwear
+FRANCHISE: Demon Slayer    CHARACTER: Nezuko Kamado
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦35,000
+Total stock   : 800
+VARIATIONS (attribute: Size)
+  38             | ₦35,000 | stock 100  | SKU OSN-1141459-38
+  39             | ₦35,000 | stock 100  | SKU OSN-1141459-39
+  40             | ₦35,000 | stock 100  | SKU OSN-1141459-40
+  41             | ₦35,000 | stock 100  | SKU OSN-1141459-41
+  42             | ₦35,000 | stock 100  | SKU OSN-1141459-42
+  43             | ₦35,000 | stock 100  | SKU OSN-1141459-43
+  44             | ₦35,000 | stock 100  | SKU OSN-1141459-44
+  45             | ₦35,000 | stock 100  | SKU OSN-1141459-45
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+All-over Nezuko art on a clean low-top silhouette.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Step into Demon Slayer with these Nezuko-inspired low-top sneakers. All-over character art, pink checkered and asanoha panels, black laces and a cushioned white sole. Unisex, true to size, and built for everyday wear. Pick your size below.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Wear the roster. These Nezuko Kamado sneakers bring Demon Slayer straight to your feet, with all-over character art wrapped across the upper and finished in her signature pink checkered and asanoha hemp-leaf pattern. The clean low-top silhouette, black laces and crisp white midsole keep them versatile enough for daily rotation while the art does the talking.</p>
+<p>Cut for fans who want statement footwear that still feels easy to style. Unisex fit, true to size, and printed with vivid colour that holds up to everyday wear. This is a fan-made, anime-inspired design and is not official or affiliated with the franchise.</p>
+<ul>
+<li>Anime-inspired all-over print: Nezuko Kamado artwork with pink checkered and asanoha panels</li>
+<li>Low-top lace-up sneaker silhouette with black flat laces</li>
+<li>Cushioned sole with white midsole for all-day comfort</li>
+<li>Unisex design; true to size, choose your size at checkout</li>
+<li>Available sizes: 38, 39, 40, 41, 42, 43, 44, 45</li>
+<li>Care: wipe clean with a damp cloth; air dry, avoid soaking and direct heat</li>
+<li>Fan / anime-inspired design, not official or licensed merchandise</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • All-over Nezuko Kamado print with pink checkered and asanoha panels
+  • Clean low-top sneaker silhouette with black laces
+  • Cushioned white sole for all-day comfort
+  • Unisex fit, true to size
+  • Sizes 38 to 45 available
+  • Fan-made, anime-inspired design
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (59 chars)        : Nezuko Shoes | Demon Slayer Anime Sneakers | Otaku Store NG
+Meta Description (154 chars) : Nezuko Kamado anime sneakers with all-over Demon Slayer print, cushioned sole and unisex true-to-size fit. Sizes 38-45 at Otaku Store NG. Ships worldwide.
+Focus keyword                       : Nezuko shoes
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Nezuko Kamado Demon Slayer low-top sneakers with all-over pink checkered print, asanoha pattern, black laces and white cushioned sole
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-Manga studio product shot of a pair of anime-inspired low-top sneakers floating at a dynamic angle. Ink black #111111 background with paper white #FAFAFA manga panel borders, halftone dot shading and bold diagonal speed lines radiating outward. A single manga-red #E2261C accent slashes across as an ink splatter behind the shoes. Cinematic rim lighting, crisp white midsoles, premium catalog feel, high contrast, sharp focus, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

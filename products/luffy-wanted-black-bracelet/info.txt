@@ -1,0 +1,87 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Luffy Wanted Black Bracelet
+SLUG         : luffy-wanted-black-bracelet
+BUMPA ID     : 1507808
+WOO TYPE     : variable
+PARENT SKU   : OSN-1507808
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Bracelets
+  - Shop by Anime > One Piece
+
+TAGS: Luffy bracelet, One Piece bracelet, Luffy Wanted poster, Roronoa Zoro bracelet, anime bracelet, One Piece accessories, stainless steel bracelet, anime merch Nigeria
+FRANCHISE: One Piece    CHARACTER: Monkey D. Luffy
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦5,000
+Total stock   : 19
+VARIATIONS (attribute: Style)
+  1              | ₦5,000 | stock 9    | SKU OSN-1507808-1
+  2              | ₦5,000 | stock 10   | SKU OSN-1507808-2
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the highest bounty on the Grand Line.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Strap on the Straw Hat's most infamous bounty. A black silicone band meets a polished steel ID plate engraved with Luffy's WANTED poster, finished with an adjustable buckle clasp for an everyday-durable fit.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some bounties demand to be worn. The Luffy Wanted Black Bracelet pairs a matte-black silicone strap with a mirror-polished stainless-steel ID plate, laser-detailed with the iconic "Wanted: Dead or Alive" poster of Monkey D. Luffy himself. Up close you get the rookie's grin, the ₿1.5 billion bounty and that Marine stamp, rendered crisp in monochrome ink-style engraving.</p>
+<p>Built for daily wear, the steel plate resists scratching while the flexible silicone band stays comfortable through long days. The adjustable buckle clasp locks in your perfect fit, so it sits clean whether you're stacking it with chains or letting it ride solo. Pick your crewmate at checkout: Style 1 flies Luffy's flag, Style 2 carries Roronoa Zoro's bounty.</p>
+<ul>
+<li>Two style options: Style 1 - Monkey D. Luffy "Wanted" poster; Style 2 - Roronoa Zoro "Wanted" poster</li>
+<li>Materials: flexible silicone strap with a polished stainless-steel ID plate and steel accents</li>
+<li>Engraved monochrome "Wanted: Dead or Alive" bounty-poster artwork</li>
+<li>Adjustable buckle clasp for a secure, customisable fit</li>
+<li>Everyday-durable, sweat- and water-friendly silicone band</li>
+<li>Unisex design, suits most wrist sizes</li>
+<li>In the box: 1 anime-inspired bracelet in your chosen style</li>
+<li>Care: wipe clean with a soft cloth; avoid harsh chemicals to keep the plate bright</li>
+</ul>
+<p>Fan-made, anime-inspired design. Not official or affiliated with One Piece or its creators.</p>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Engraved steel WANTED poster plate of Monkey D. Luffy
+  • Black silicone strap built for everyday wear
+  • Adjustable buckle clasp dials in your fit
+  • Two styles: pick Luffy or Zoro at checkout
+  • Unisex sizing that suits most wrists
+  • Fan-made One Piece-inspired design
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (50 chars)        : Luffy Wanted Black Bracelet | One Piece Steel Band
+Meta Description (148 chars) : Luffy Wanted black bracelet: silicone strap with an engraved steel WANTED poster plate and adjustable clasp. One Piece fan gear. Ships from Nigeria.
+Focus keyword                       : Luffy Wanted bracelet
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Black silicone bracelet with a polished steel ID plate engraved with Monkey D. Luffy's One Piece WANTED poster and an adjustable buckle clasp
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product still life of a black silicone wristband with a polished stainless-steel ID plate engraved with a One Piece-style "WANTED: Dead or Alive" bounty poster. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent on the bounty stamp. Halftone-dot shading, speed lines radiating from the steel plate, ink-splatter flourishes, framed inside a clean manga panel. Premium, cinematic studio lighting, sharp specular glint on the steel buckle clasp, shallow depth of field. No text watermark.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

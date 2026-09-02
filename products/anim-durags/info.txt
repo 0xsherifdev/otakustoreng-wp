@@ -1,0 +1,85 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Anim Durags
+SLUG         : anim-durags
+BUMPA ID     : 2135525
+WOO TYPE     : variable
+PARENT SKU   : OSN-2135525
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Headwear
+
+TAGS: anime durag, Akatsuki durag, Tanjiro durag, Nezuko durag, Demon Slayer headwear, Naruto durag, satin durag, anime headwear, durag for waves, Otaku Store NG
+FRANCHISE: Demon Slayer / Naruto    CHARACTER: Tanjiro, Nezuko, Akatsuki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦8,000
+Total stock   : 24
+VARIATIONS (attribute: Style)
+  Tanjiro        | ₦8,000 | stock 8    | SKU OSN-2135525-TANJIRO
+  Akastuki       | ₦8,000 | stock 6    | SKU OSN-2135525-AKASTUKI
+  Nezuko         | ₦8,000 | stock 10   | SKU OSN-2135525-NEZUKO
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Silky anime durags built to keep your waves on rotation.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Anime-inspired satin durags with long tails and wide ties for a locked-in wrap. Choose Tanjiro's checks, Nezuko's hemp-leaf pink, or the Akatsuki red clouds. Smooth, breathable and built for waves, braids and locs day or night.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Wrap up in fan-favourite anime energy. These satin-finish durags carry instantly recognisable motifs straight from your watchlist: Tanjiro's teal-and-black checkered haori, Nezuko's soft-pink asanoha hemp-leaf pattern, and the unmistakable red Akatsuki clouds. The silky surface glides over your hair to help lay waves, hold braids and lock in moisture overnight, while the long flowing tail brings that classic street-ready drape.</p>
+<p>Wide ties wrap securely without digging in, so you get even compression and a clean finish whether you are training your 360s, protecting a fresh style or just repping the roster on the move. Anime-inspired, made for fans, not affiliated with any studio.</p>
+<ul>
+<li><strong>Style options:</strong> Tanjiro (teal/black check), Nezuko (pink hemp-leaf), Akatsuki (black with red clouds)</li>
+<li><strong>Material:</strong> smooth satin-finish polyester with a soft, breathable feel</li>
+<li><strong>Design:</strong> all-over printed anime motif, long tail with extra-wide tying straps</li>
+<li><strong>Fit:</strong> one size, fully adjustable tie closure for a snug, custom wrap</li>
+<li><strong>Best for:</strong> waves, braids, locs, twists and overnight hair protection</li>
+<li><strong>Wear it:</strong> solo for the drip or under a cap and hood</li>
+<li><strong>Care:</strong> hand wash cold, air dry, do not iron the printed satin</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Silky satin-finish polyester glides over hair to help lay waves and hold styles
+  • Three iconic prints: Tanjiro checks, Nezuko hemp-leaf, Akatsuki red clouds
+  • Long tail and extra-wide ties for even compression and a clean wrap
+  • One size with fully adjustable tie closure for a snug custom fit
+  • Great for waves, braids, locs and overnight hair protection
+  • Anime-inspired fan design, not affiliated with any studio
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (53 chars)        : Anime Durags - Tanjiro, Nezuko & Akatsuki Satin Wraps
+Meta Description (150 chars) : Satin anime durags with long tails and wide ties. Pick Tanjiro checks, Nezuko hemp-leaf pink or Akatsuki red clouds. For waves, braids & locs. ₦8,000.
+Focus keyword                       : anime durag
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Black satin anime durag with red Akatsuki cloud print, long tail and wide ties
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of three silky satin anime durags arranged on a flat ink-black #111111 surface: one black durag with red Akatsuki-style cloud motif, one teal-and-black checkered durag, one pink hemp-leaf patterned durag. Paper-white #FAFAFA backdrop panel with bold halftone dots and diagonal speed lines, a single manga-red #E2261C accent stripe and subtle ink splatter framing the layout in manga panels. Long tails fanned out to show drape, crisp focus on the satin sheen, premium cinematic lighting, high detail, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

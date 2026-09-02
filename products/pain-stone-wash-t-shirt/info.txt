@@ -1,0 +1,85 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Pain stone wash T-shirt
+SLUG         : pain-stone-wash-t-shirt
+BUMPA ID     : 3167836
+WOO TYPE     : variable
+PARENT SKU   : OSN-3167836
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+  - Shop by Anime > Naruto
+
+TAGS: Pain T-shirt, Naruto T-shirt, Akatsuki shirt, stone wash tee, acid wash anime shirt, Pain Rinnegan, anime graphic tee, Naruto merch
+FRANCHISE: Naruto    CHARACTER: Pain
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦24,000
+Total stock   : 79
+VARIATIONS (attribute: Size)
+  XL             | ₦24,000 | stock 19   | SKU OSN-3167836-XL
+  2XL            | ₦24,000 | stock 20   | SKU OSN-3167836-2XL
+  3XL            | ₦24,000 | stock 20   | SKU OSN-3167836-3XL
+  L              | ₦24,000 | stock 20   | SKU OSN-3167836-L
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Almighty Push energy in faded vintage wash
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel the leader of the Akatsuki in this Pain-inspired stone wash tee. Soft cotton with a vintage faded finish, bold Rinnegan-and-red-cloud graphic, and a relaxed unisex crew-neck fit built to ride with your whole roster.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Shinra Tensei, in fabric form. This Pain-inspired stone wash tee captures the Akatsuki's most feared leader mid-gesture, hand raised, Rinnegan glowing, framed by inky red splatter and that unmistakable red cloud. The acid-wash treatment gives every piece a one-of-a-kind faded, lived-in look, so no two tees ever wear exactly the same.</p>
+<p>Cut for an easy unisex fit and printed to hold its punch wash after wash, it is the kind of fan tee you reach for on repeat. Wear the roster.</p>
+<ul>
+<li>Fan-made, Naruto / Pain anime-inspired design (not official or affiliated)</li>
+<li>Soft cotton construction with a stone-wash / acid-wash vintage faded finish</li>
+<li>Unisex regular fit with a classic crew neck</li>
+<li>Front graphic print: Pain, Rinnegan eyes and red Akatsuki cloud with ink-splatter detail</li>
+<li>Durable, fade-resistant print built to last</li>
+<li>Available sizes: L, XL, 2XL, 3XL</li>
+<li>Care: machine wash cold, inside-out; do not bleach; hang or low-tumble dry</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Vintage stone-wash finish unique to every tee
+  • Bold Pain graphic with Rinnegan and red Akatsuki cloud
+  • Soft cotton, relaxed unisex crew-neck fit
+  • Durable fade-resistant front print
+  • Sizes L through 3XL
+  • Fan-inspired Naruto design, not affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : Pain Stone Wash T-Shirt | Naruto Akatsuki Tee
+Meta Description (150 chars) : Pain stone wash T-shirt, a Naruto Akatsuki-inspired vintage faded tee in soft cotton. Unisex fit, bold Rinnegan graphic. Ships from Nigeria worldwide.
+Focus keyword                       : Pain stone wash T-shirt
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Pain stone wash T-shirt, charcoal acid-wash Naruto Akatsuki tee with Pain raising his hand, Rinnegan eyes and red cloud graphic
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a charcoal stone-wash anime tee on an invisible mannequin, centered in frame against an ink-black #111111 backdrop with paper-white #FAFAFA halftone dot texture and diagonal speed lines. A single manga-red #E2261C accent splatter behind the garment echoes the red Akatsuki cloud on the chest print. Dramatic cinematic side lighting picks out the faded acid-wash texture; manga panel framing, ink splatter edges, premium high-contrast e-commerce hero shot, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

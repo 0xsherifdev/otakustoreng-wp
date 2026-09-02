@@ -1,0 +1,92 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Black Clover Hoodie
+SLUG         : black-clover-hoodie-2964482
+BUMPA ID     : 2964482
+WOO TYPE     : variable
+PARENT SKU   : OSN-2964482
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+
+TAGS: Black Clover hoodie, anime hoodie, Black Clover merch, Asta hoodie, anime pullover hoodie, unisex anime hoodie, anime streetwear, fan-made anime hoodie
+FRANCHISE: Black Clover    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦18,500
+Total stock   : 800
+VARIATIONS (attribute: Size & Material)
+  L-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964482-LTHICKCOTTON
+  L-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964482-LTHICKPOLYESTER
+  Xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964482-XLTHICKCOTTON
+  Xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964482-XLTHICKPOLYESTER
+  2xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964482-2XLTHICKCOTTON
+  2xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964482-2XLTHICKPOLYESTER
+  3xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964482-3XLTHICKCOTTON
+  3xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964482-3XLTHICKPOLYESTER
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Push your magic past its limits.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A Black Clover-inspired pullover hoodie built for everyday wear. Brushed-fleece interior, ribbed cuffs and hem, roomy kangaroo pocket, and a unisex streetwear fit. Choose thick cotton or thick polyester in sizes L through 3XL.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the grit of the Clover Kingdom's wildest mages. This Black Clover-inspired hoodie pairs a bold anime graphic with a brushed-fleece interior that keeps the warmth in without the bulk, so it reads as cosy as it looks. The unisex streetwear cut layers clean over a tee or under a jacket whether you're grinding through a long day or repping the squad at the next meet-up.</p>
+<p>Pick your feel: thick cotton for a soft, breathable weight or thick polyester for a smoother, hard-wearing finish. Either way you get a fan-made piece that earns its place in the rotation.</p>
+<ul>
+<li>Pullover hoodie with a Black Clover anime-inspired graphic</li>
+<li>Brushed-fleece interior for soft, warm wear</li>
+<li>Ribbed cuffs and hem to hold their shape</li>
+<li>Roomy kangaroo front pocket</li>
+<li>Unisex streetwear fit</li>
+<li>Fabric choice: thick cotton or thick polyester</li>
+<li>Sizes: L, XL, 2XL, 3XL</li>
+<li>Machine wash cold, inside-out; do not bleach</li>
+<li>Fan-made, anime-inspired design; not official or affiliated with the rights holders</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Brushed-fleece interior for soft, everyday warmth
+  • Bold Black Clover anime-inspired graphic
+  • Ribbed cuffs and hem plus a roomy kangaroo pocket
+  • Choose thick cotton or thick polyester
+  • Unisex streetwear fit, sizes L to 3XL
+  • Fan-made design, not official or affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (53 chars)        : Black Clover Hoodie | Anime Pullover - Otaku Store NG
+Meta Description (148 chars) : Black Clover-inspired pullover hoodie with brushed-fleece interior, kangaroo pocket and unisex fit. Thick cotton or polyester, sizes L-3XL. ₦18,500.
+Focus keyword                       : Black Clover hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Black Clover anime-inspired pullover hoodie with kangaroo pocket and bold graphic print
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a folded pullover hoodie bearing a bold Black Clover-inspired graphic, ink black #111111 background, paper white #FAFAFA fabric highlights, single manga-red #E2261C accent on the print. Halftone dot texture and diagonal speed lines radiating behind the hoodie, subtle ink splatter, framed inside a clean manga panel border. Premium, cinematic, high-contrast lighting; crisp focus on the brushed-fleece texture, ribbed cuffs and kangaroo pocket.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

@@ -1,0 +1,77 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Anya 3d Hoodie
+SLUG         : anya-3d-hoodie
+BUMPA ID     : 1123031
+WOO TYPE     : variable
+PARENT SKU   : OSN-1123031
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+
+TAGS: Anya hoodie, Spy x Family hoodie, Anya Forger, 3D anime hoodie, all-over print hoodie, anime streetwear, pullover hoodie, unisex anime hoodie
+FRANCHISE: Spy x Family    CHARACTER: Anya Forger
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦28,000
+Total stock   : 500
+VARIATIONS (attribute: Size)
+  M              | ₦28,000 | stock 100  | SKU OSN-1123031-M
+  L              | ₦28,000 | stock 100  | SKU OSN-1123031-L
+  XL             | ₦28,000 | stock 100  | SKU OSN-1123031-XL
+  2XL            | ₦28,000 | stock 100  | SKU OSN-1123031-2XL
+  XXXL           | ₦28,000 | stock 100  | SKU OSN-1123031-XXXL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Read the room. Wear the roster.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+All-over 3D Anya Forger print on a brushed-fleece pullover hoodie. Unisex streetwear fit with ribbed cuffs, hem and a roomy kangaroo pocket. Anime-inspired and built to keep you warm wherever the mission takes you.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Slip into the world of Spy x Family with this all-over 3D-print pullover hoodie built around fan-favourite Anya Forger. The vivid graphic wraps the body and sleeves for a head-turning look, while the brushed-fleece interior keeps you cosy on cool nights and easy commutes.</p><p>Cut in a relaxed unisex streetwear fit, it layers clean over a tee and pairs with everything from joggers to denim. An anime-inspired piece for fans of the Forger family, not affiliated with or endorsed by the official rights holders.</p><ul><li>Style: pullover hoodie with all-over 3D anime-inspired Anya Forger print</li><li>Material: thick cotton and polyester blend; brushed-fleece interior for warmth</li><li>Fit: unisex streetwear cut, true to anime hoodie sizing</li><li>Construction: ribbed cuffs and hem, lined drawstring hood, kangaroo front pocket</li><li>Sizes available: M, L, XL, 2XL, XXXL</li><li>Colour: choose your preferred colour at checkout</li><li>Care: machine wash cold inside-out, hang or line dry to protect the print</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • All-over 3D Anya Forger print wrapping body and sleeves
+  • Brushed-fleece interior for everyday warmth
+  • Ribbed cuffs and hem with a lined drawstring hood
+  • Roomy kangaroo pocket and relaxed unisex fit
+  • Sizes M to XXXL with colour choice at checkout
+  • Anime-inspired fan piece, not official merchandise
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (42 chars)        : Anya 3D Hoodie | Spy x Family Anime Hoodie
+Meta Description (146 chars) : Anya Forger 3D hoodie from Spy x Family. All-over print, brushed-fleece warmth, unisex fit. Sizes M-XXXL. Ships nationwide and worldwide. ₦28,000.
+Focus keyword                       : Anya 3D hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Anya Forger 3D all-over-print pullover hoodie from Spy x Family on a plain background
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of an all-over-print pullover hoodie featuring Anya Forger, folded and floating against an ink black #111111 backdrop. Paper white #FAFAFA halftone dot gradients, sharp manga speed lines radiating from the garment, a single manga-red #E2261C ink splatter accent and thin red panel borders. Premium cinematic lighting, crisp fabric texture on the brushed fleece and ribbed cuffs, kangaroo pocket visible, dramatic high-contrast shadows, magazine-quality composition.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

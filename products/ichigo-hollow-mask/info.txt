@@ -1,0 +1,82 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Ichigo hollow mask
+SLUG         : ichigo-hollow-mask
+BUMPA ID     : 3009421
+WOO TYPE     : simple
+PARENT SKU   : OSN-3009421
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Masks
+  - Shop by Anime > Bleach
+
+TAGS: Ichigo Hollow mask, Bleach mask, Ichigo Kurosaki, anime cosplay mask, Bleach cosplay, Hollow mask, full-face anime mask, Soul Reaper costume
+FRANCHISE: Bleach    CHARACTER: Ichigo Kurosaki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦27,000
+Total stock   : 9
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Channel the inner Hollow. Full-face Bleach cosplay mask.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Become the Substitute Soul Reaper at the edge of control. This full-face Hollow mask recreates Ichigo's signature red-striped war paint and jagged teeth in sculpted hard plastic, finished with an adjustable strap for cosplay, conventions and display.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>The moment Ichigo's Hollow takes over is one of the most iconic in <em>Bleach</em>, and this fan-made mask puts it in your hands. Sculpted in lightweight hard plastic, it captures the bone-white face, the slashing red war-paint stripes and the rows of jagged Hollow teeth in crisp, screen-accurate detail, ready to finish a Substitute Soul Reaper cosplay or anchor a shelf of anime hardware.</p>
+<p>An adjustable elastic-and-buckle strap keeps it locked in place whether you are tearing through a convention floor or staging the perfect photo. Anime-inspired fan collectible, not affiliated with or endorsed by the official rights holders.</p>
+<ul>
+<li>Character: Ichigo Kurosaki Hollow mask from Bleach</li>
+<li>Type: full-face cosplay and display mask</li>
+<li>Material: moulded hard plastic with hand-finished red and white paintwork</li>
+<li>Design: sculpted Hollow teeth, war-paint stripes and cut-out eyes</li>
+<li>Fit: adjustable strap with side-release buckles for one-size wear</li>
+<li>Best for: cosplay, conventions, costume photography and wall or shelf display</li>
+<li>Includes: 1 x Ichigo Hollow mask with strap</li>
+<li>Care: wipe clean with a soft dry cloth; keep away from direct heat to protect the finish</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Screen-accurate Hollow war-paint stripes and jagged teeth
+  • Full-face sculpted hard-plastic build
+  • Adjustable strap with buckles for a secure one-size fit
+  • Convention-ready for cosplay and costume photography
+  • Display-worthy collectible for any Bleach fan
+  • Anime-inspired fan piece, not affiliated with the official series
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (40 chars)        : Ichigo Hollow Mask | Bleach Cosplay Mask
+Meta Description (152 chars) : Full-face Ichigo Hollow mask from Bleach in sculpted hard plastic with adjustable strap. Anime-inspired cosplay and display piece. Ships nationwide and.
+Focus keyword                       : Ichigo Hollow mask
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: White full-face Ichigo Hollow mask from Bleach with red war-paint stripes, jagged teeth and adjustable black strap
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a white full-face Ichigo Hollow cosplay mask with bold manga-red #E2261C war-paint stripes and jagged sculpted teeth, displayed on a matte black stand. Ink black #111111 background, paper white #FAFAFA rim light, single manga-red accent. Halftone dot shading, dynamic speed lines radiating behind the mask, subtle ink splatter in one corner, framed inside a clean manga panel border. Premium cinematic lighting, sharp focus, high contrast, no text.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

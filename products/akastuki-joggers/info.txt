@@ -1,0 +1,76 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Akastuki Joggers
+SLUG         : akastuki-joggers
+BUMPA ID     : 1145182
+WOO TYPE     : variable
+PARENT SKU   : OSN-1145182
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Trousers
+  - Shop by Anime > Naruto
+
+TAGS: Akatsuki joggers, Naruto joggers, anime joggers, Akatsuki sweatpants, Naruto trousers, anime streetwear, red cloud Akatsuki, unisex joggers
+FRANCHISE: Naruto    CHARACTER: Akatsuki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦17,000
+Total stock   : 399
+VARIATIONS (attribute: Size)
+  M              | ₦17,000 | stock 99   | SKU OSN-1145182-M
+  L              | ₦17,000 | stock 100  | SKU OSN-1145182-L
+  XL             | ₦17,000 | stock 100  | SKU OSN-1145182-XL
+  2XL            | ₦17,000 | stock 100  | SKU OSN-1145182-2XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Rogue red clouds, cuffed for the streets.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Step out like a rogue ninja in these Akatsuki joggers. The iconic red cloud and scratched-out village symbols run down the leg, with a drawstring waist, side pockets and cuffed ankles for an all-day comfortable, street-ready fit.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the most feared organisation in the Hidden Leaf with these Akatsuki-inspired joggers. The unmistakable red cloud sits high on each leg, trailed by the scratched-out village headband symbols, the mark every rogue ninja wears with pride. It is a clean, cinematic Naruto fit that reads loud to fans and sharp to everyone else.</p><p>Built for comfort first, the soft cotton-blend fabric, elastic drawstring waist and ribbed cuffed ankles keep the silhouette tapered and easy to move in. Unisex sizing means anyone in the village can pull these on. Pair them with the matching Akatsuki hoodie or tee to complete the roster.</p><ul><li>Anime-inspired Akatsuki red cloud and scratched-village symbol print down the leg</li><li>Soft, comfortable cotton-blend fabric with a brushed feel</li><li>Elastic waist with adjustable drawstring for a secure fit</li><li>Ribbed cuffed ankles for a tapered jogger silhouette</li><li>Side slip pockets for everyday carry</li><li>Unisex fit, available in sizes M, L, XL and 2XL</li><li>Fan-made, anime-inspired design; not affiliated with or endorsed by the official rights holders</li><li>Machine wash cold, inside out; do not tumble dry hot to protect the print</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Iconic Akatsuki red cloud and scratched-village symbols down the leg
+  • Soft cotton-blend fabric built for all-day comfort
+  • Elastic drawstring waist for a secure, adjustable fit
+  • Ribbed cuffed ankles deliver a clean tapered jogger look
+  • Side pockets for everyday essentials
+  • Unisex sizing in M, L, XL and 2XL
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (42 chars)        : Akatsuki Joggers | Naruto Anime Sweatpants
+Meta Description (152 chars) : Akatsuki joggers with the red cloud and scratched-village symbols. Soft cotton-blend, drawstring waist, cuffed ankles. Unisex M-2XL. Ships from Nigeria.
+Focus keyword                       : Akatsuki joggers
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Black Akatsuki joggers with red cloud symbol and scratched-out Hidden Village headband symbols printed down the leg, drawstring waist and cuffed ankles
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product studio shot of black tapered Akatsuki joggers laid flat, the red cloud symbol and scratched-village headband symbols running down one leg. Ink black #111111 background, paper white #FAFAFA garment highlights, single manga-red #E2261C accent on the cloud motif. Halftone dot shading, sharp speed lines radiating from the cloud, subtle ink splatter in the corners, framed in a clean manga panel border. Premium, cinematic, high-contrast product photography.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

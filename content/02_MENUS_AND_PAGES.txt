@@ -1,0 +1,132 @@
+################################################################################
+  OTAKU STORE NG  —  TOP NAV MENUS  +  ALL COLLECTIONS PAGE
+  (Companion to 01_HOMEPAGE.txt — covers the SHOP ▾ and PAGES ▾ dropdowns and
+   the "All Collections" page that currently shows the demo "Trending Collection")
+################################################################################
+
+There are TWO navigations in your Minimog header:
+  A) The black "SHOP BY CATEGORIES" vertical mega-menu (LEFT) — fully speced in
+     01_HOMEPAGE.txt, Section 2. That is your primary category browser.
+  B) The top horizontal nav: HOME · SHOP ▾ · BLOG · PAGES ▾ — speced below.
+
+================================================================================
+ TOP NAV — HOME · SHOP ▾ · BLOG · PAGES ▾
+================================================================================
+
+HOME  ->  homepage (no dropdown).
+BLOG  ->  /blog (your posts).
+
+--------------------------------------------------------------------------------
+ SHOP ▾   (right now it shows Cart / Checkout / My account — those are WRONG here)
+--------------------------------------------------------------------------------
+FIRST: move Cart, Checkout and My account OUT of this menu. In Minimog they belong
+on the header ICONS — the cart bag icon (Cart + Checkout) and the person icon
+(My account / Login). Keep SHOP for products only.
+
+Make SHOP ▾ a dropdown (or mega-menu) with these items:
+
+  FEATURED
+    REPLACE WITH: New Arrivals
+    REPLACE WITH: Best Sellers
+    REPLACE WITH: Sale & Deals
+    REPLACE WITH: All Collections
+
+  APPAREL ▸
+    REPLACE WITH: Anime Jerseys, Hoodies, T-Shirts, Kimono, Trousers, Shorts, Headwear, Shoes, Ties, Cosplay
+
+  ACCESSORIES ▸
+    REPLACE WITH: Chains & Necklaces, Bracelets, Rings, Wallets, Lanyards, Phone Cases, AirPods Cases, Laptop Skins, Masks, Tote Bags, Couple Accessories
+
+  COLLECTIBLES ▸
+    REPLACE WITH: Figurines, Katana & Weapons, Stickers, Bottles & Drinkware
+
+  HOME & DECOR ▸
+    REPLACE WITH: Room Decor, LED Lamps
+
+  SHOP BY ANIME ▸
+    REPLACE WITH: Naruto, One Piece, Attack on Titan, Demon Slayer, Bleach, Jujutsu Kaisen, Dragon Ball, Hunter x Hunter, Berserk, Solo Leveling, Chainsaw Man, My Hero Academia, Blue Lock
+
+(Tip: you can simply re-use MEGA 2 + MEGA 3 + MEGA 4 from 01_HOMEPAGE.txt here, so
+the top SHOP ▾ and the left sidebar share the same panels.)
+
+--------------------------------------------------------------------------------
+ PAGES ▾   (right now it shows only "All Collections")
+--------------------------------------------------------------------------------
+REPLACE WITH: All Collections
+REPLACE WITH: About Otaku Store NG
+REPLACE WITH: Contact Us
+REPLACE WITH: Track Your Order
+REPLACE WITH: Size Guide
+REPLACE WITH: Shipping & Returns
+REPLACE WITH: FAQs
+
+(Copy for each of these pages is in 03_STANDARD_PAGES.txt — paste into each page.)
+
+================================================================================
+ "ALL COLLECTIONS" PAGE   (replaces the demo "Trending Collection" grid)
+================================================================================
+
+Breadcrumb stays: Home > All Collections
+
+Page H1 REPLACE WITH: All Collections
+Intro line REPLACE WITH: Every corner of the store, one place. Shop by gear or by series — and build your roster.
+
+Each card = image + title + "Shop now ›" linking to that WooCommerce category.
+Below are the cards to feature (replace the demo cards 1-for-1, then add the rest).
+Every card image uses the Dark-Manga look: ink black #111111, paper white #FAFAFA,
+single manga-red #E2261C accent, halftone dots, speed lines, ink splatter.
+
+------------------------------ BY GEAR (primary 9 — fills the 3×3 demo grid) -----
+
+CARD 1 — Anime Jerseys        -> /product-category/apparel/jerseys
+  IMAGE PROMPT (Google Flow): Folded and hung vivid all-over-print anime baseball jerseys grouped together, ink-black #111111 backdrop, paper-white #FAFAFA highlights, single manga-red #E2261C accent, halftone screentone, ink splatter. Premium product cover. Aspect ratio 4:3. No text overlay, no watermark.
+
+CARD 2 — Hoodies              -> /product-category/apparel/hoodies
+  IMAGE PROMPT (Google Flow): Dark anime-graphic hoodie, hood up, on an invisible mannequin, three-quarter angle, ink-black #111111 background, red #E2261C drawstring accent, halftone dots, speed lines, ink splatter. Studio-lit, premium. Aspect ratio 4:3. No text overlay, no watermark.
+
+CARD 3 — T-Shirts             -> /product-category/apparel/t-shirts
+  IMAGE PROMPT (Google Flow): Folded stack of anime graphic tees with the top tee facing forward, ink-black #111111 surface, paper-white #FAFAFA light, manga-red #E2261C accent, halftone, ink splatter. Clean premium flat-lay. Aspect ratio 4:3. No text overlay, no watermark.
+
+CARD 4 — Chains & Necklaces   -> /product-category/accessories/chains-necklaces
+  IMAGE PROMPT (Google Flow): Macro of a stainless anime-inspired pendant chain on textured black paper, dramatic single-source light, ink-black #111111, paper-white #FAFAFA metal highlights, manga-red #E2261C glint, halftone background, ink splatter. Premium jewelry mood. Aspect ratio 4:3. No text overlay, no watermark.
+
+CARD 5 — Katana & Weapons     -> /product-category/collectibles/katana-weapons
+  IMAGE PROMPT (Google Flow): Sleek anime display katana on a black stand, ink-black #111111 backdrop, paper-white #FAFAFA key light raking the blade, manga-red #E2261C glow on the edge, halftone gradient, ink splatter. Moody premium product lighting. Aspect ratio 4:3. No text overlay, no watermark.
+
+CARD 6 — Figurines            -> /product-category/collectibles/figurines
+  IMAGE PROMPT (Google Flow): Premium anime collector figurine on a pedestal, dramatic rim light, ink-black #111111 background, paper-white #FAFAFA highlights, single manga-red #E2261C accent, halftone screentone, ink splatter, manga panel frame. Aspect ratio 4:3. No text overlay, no watermark.
+
+CARD 7 — Kimono & Cosplay     -> /product-category/apparel/kimono
+  IMAGE PROMPT (Google Flow): Flowing anime-style haori robe on a hanger caught mid-motion, ink-black #111111 background, paper-white #FAFAFA, manga-red #E2261C inner-lining accent, halftone dots, speed lines, ink splatter. Cinematic. Aspect ratio 4:3. No text overlay, no watermark.
+
+CARD 8 — Room Decor & Lamps   -> /product-category/home-decor
+  IMAGE PROMPT (Google Flow): An anime LED frame lamp glowing on a dark shelf beside a rolled poster, ink-black #111111 room, paper-white #FAFAFA glow, manga-red #E2261C accent light, halftone, ink splatter. Premium otaku-room mood. Aspect ratio 4:3. No text overlay, no watermark.
+
+CARD 9 — Phone Cases & Tech   -> /product-category/accessories/phone-cases
+  IMAGE PROMPT (Google Flow): Anime-graphic phone case and matching laptop skin arranged diagonally on ink-black #111111, paper-white #FAFAFA light, manga-red #E2261C accent, halftone dots, ink splatter. Clean premium tech flat-lay. Aspect ratio 4:3. No text overlay, no watermark.
+
+------------------------------ BY SERIES (add a second row/section) --------------
+
+Add these franchise collection cards (same card style). Use one repeatable prompt,
+swapping the character set per series:
+
+  REPLACE WITH: Naruto            -> /product-category/shop-by-anime/naruto
+  REPLACE WITH: One Piece         -> /product-category/shop-by-anime/one-piece
+  REPLACE WITH: Jujutsu Kaisen    -> /product-category/shop-by-anime/jujutsu-kaisen
+  REPLACE WITH: Demon Slayer      -> /product-category/shop-by-anime/demon-slayer
+  REPLACE WITH: Bleach            -> /product-category/shop-by-anime/bleach
+  REPLACE WITH: Attack on Titan   -> /product-category/shop-by-anime/attack-on-titan
+  REPLACE WITH: Dragon Ball       -> /product-category/shop-by-anime/dragon-ball
+  REPLACE WITH: Blue Lock         -> /product-category/shop-by-anime/blue-lock
+
+  REPEATABLE IMAGE PROMPT (Google Flow) — swap [SERIES] + [ICONIC MOTIF]:
+  Bold manga-poster collection cover for [SERIES] fan merch — a dramatic silhouette
+  with [ICONIC MOTIF] (e.g. Naruto = swirling leaf + orange spiral; One Piece =
+  straw hat + jolly-roger; Demon Slayer = nichirin blade + checkered pattern),
+  high-contrast ink-black #111111 / paper-white #FAFAFA with a single manga-red
+  #E2261C accent, halftone screentone, speed lines, ink splatter, manga panel
+  gutters. Aspect ratio 4:3. No text overlay, no watermark.
+
+NOTE: In WooCommerce, each "collection" above is simply a product Category. Create
+the categories (Apparel>Jerseys, Shop by Anime>Naruto, etc.) — the product import
+in build/ already assigns products to them, so these pages populate automatically.

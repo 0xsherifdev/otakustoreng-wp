@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Ace chain
+SLUG         : ace-chain
+BUMPA ID     : 3050676
+WOO TYPE     : simple
+PARENT SKU   : OSN-3050676
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > One Piece
+
+TAGS: Ace chain, One Piece necklace, Portgas D. Ace, anime necklace, beaded chain, One Piece merch, anime jewellery, Whitebeard Pirates
+FRANCHISE: One Piece    CHARACTER: Portgas D. Ace
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦8,000
+Total stock   : 509
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Smile-and-frown faces on a bold red beaded chain.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Carry the Spade Pirates' captain with you. This Ace-inspired beaded chain pairs deep red beads with twin enamel charms of his signature smiling and frowning faces. Tarnish-resistant, adjustable fit, and built for daily wear, fan-made for One Piece diehards.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Ace went out the way he lived, smiling. This Ace-inspired chain channels that energy, stringing bold red beads around two enamel charms of Portgas D. Ace's iconic smiling and frowning faces, the same emblem stitched across his back. It is a quiet nod to the Whitebeard era and the brother who taught Luffy what it means to be free.</p><p>Crafted from durable, tarnish-resistant materials and finished with crisp blue-and-white enamel detailing, it reads loud against any fit and shrugs off everyday wear. Stack it with your other One Piece pieces or let it ride solo. Fan-made and anime-inspired, not affiliated with or endorsed by the official rights holders.</p><ul><li>Design: Portgas D. Ace smiling and frowning enamel face charms (One Piece inspired)</li><li>Material: durable, tarnish-resistant alloy charms on a beaded chain</li><li>Bead colour: bold manga-red</li><li>Charm finish: blue and white enamel with detailed line work</li><li>Fit: adjustable / standard beaded length, suits most necklines</li><li>Care: wipe clean with a soft, dry cloth; keep away from water and perfume</li><li>Status: fan / anime-inspired, not official or licensed merchandise</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Twin enamel charms of Ace's signature smile-and-frown faces
+  • Bold manga-red beaded chain that stands out on any fit
+  • Durable, tarnish-resistant build for everyday wear
+  • Adjustable, comfortable fit for most necklines
+  • Wipe-clean enamel and beads keep their colour
+  • Fan-made One Piece tribute, anime-inspired and unofficial
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (54 chars)        : Ace Chain - One Piece Beaded Necklace | Otaku Store NG
+Meta Description (146 chars) : Ace-inspired red beaded chain with twin smile-and-frown enamel charms. Tarnish-resistant, adjustable One Piece fan necklace. Ships nationwide and.
+Focus keyword                       : Ace chain One Piece necklace
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Red beaded Ace chain with two blue enamel charms of Portgas D. Ace's smiling and frowning faces from One Piece
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a red beaded necklace with two round blue-and-white enamel charms showing a smiling face and a frowning face, displayed on an ink-black #111111 surface with paper-white #FAFAFA halftone dots and a single manga-red #E2261C accent ring behind the pendants; dramatic speed lines and a faint ink-splatter border, manga-panel framing, premium cinematic lighting, sharp focus on the enamel charm detailing, high-contrast, no text.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

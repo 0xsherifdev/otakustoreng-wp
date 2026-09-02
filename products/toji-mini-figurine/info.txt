@@ -1,0 +1,70 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Toji Mini Figurine
+SLUG         : toji-mini-figurine
+BUMPA ID     : 1873956
+WOO TYPE     : simple
+PARENT SKU   : OSN-1873956
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Figurines
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Toji figurine, Toji Fushiguro, Jujutsu Kaisen figure, chibi figurine, anime figurine, JJK collectible, mini figure, PVC figurine, desk figure, anime collectible
+FRANCHISE: Jujutsu Kaisen    CHARACTER: Toji Fushiguro
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦10,000
+Total stock   : 7
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The Sorcerer Killer, palm-sized and ready to flex
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A palm-sized chibi Toji Fushiguro figurine in his signature smirk and crouching pose. Pre-painted PVC display piece with sharp sculpted detail, sized to perch on your desk, shelf, or beside the rest of your roster.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>The Sorcerer Killer never needed cursed energy to win, and this deformed-style mini captures every bit of that swagger. Our Toji Fushiguro figurine shrinks Jujutsu Kaisen's deadliest fixer into a palm-sized chibi: dark spiked hair, that signature scarred smirk, sleeveless black top and grey trousers, frozen mid-crouch like he is about to spring on his next target.</p><p>Hand-finished in pre-painted PVC with crisp face printing and clean colour work, it is built to sit pretty on a desk, shelf, or display cabinet next to the rest of your roster. A display collectible, not a toy, so give it a spot it deserves.</p><ul><li>Character: Toji Fushiguro (Jujutsu Kaisen, fan / anime-inspired, not affiliated or licensed)</li><li>Style: chibi / deformed mini collector figurine in a crouching pose</li><li>Material: pre-painted PVC with printed facial detail</li><li>Size: mini / palm-sized desk-and-shelf scale</li><li>Finish: matte body with fine sculpted hair and outfit detail</li><li>Use: indoor display piece for shelves, desks, and cabinets (not a toy)</li><li>Care: dust gently with a soft dry cloth; keep out of direct sunlight to protect the paint</li><li>In the box: 1 x Toji mini figurine</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Palm-sized chibi Toji Fushiguro from Jujutsu Kaisen
+  • Signature smirk and crouching pose, faithfully sculpted
+  • Pre-painted PVC with crisp printed facial detail
+  • Perfect desk, shelf, and cabinet display scale
+  • Fan / anime-inspired collectible, not a toy
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (48 chars)        : Toji Mini Figurine | Jujutsu Kaisen Chibi Figure
+Meta Description (154 chars) : Palm-sized chibi Toji Fushiguro figurine from Jujutsu Kaisen. Pre-painted PVC display collectible. Ships from Nigeria, nationwide and worldwide. Shop now.
+Focus keyword                       : Toji mini figurine
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Chibi Toji Fushiguro mini figurine from Jujutsu Kaisen held in two hands, smirking in a crouching pose
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-Manga studio product shot of a palm-sized chibi Toji Fushiguro figurine: spiked black hair, scarred smirk, sleeveless black top and grey trousers, crouching pose. Ink black #111111 backdrop with paper white #FAFAFA negative space, a single manga-red #E2261C accent slash behind the figure. Halftone dot texture, dynamic speed lines, subtle ink splatter, framed inside a manga panel border. Premium, cinematic lighting, sharp focus on sculpted detail, shallow depth of field. No text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

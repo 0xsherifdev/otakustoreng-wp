@@ -1,0 +1,93 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Death Note Tshirt
+SLUG         : death-note-tshirt
+BUMPA ID     : 1131342
+WOO TYPE     : variable
+PARENT SKU   : OSN-1131342
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+
+TAGS: Death Note, Death Note t-shirt, anime t-shirt, anime graphic tee, Kira, Death Note merch, anime streetwear, unisex tee, otaku fashion
+FRANCHISE: Death Note    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦12,000
+Total stock   : 999
+VARIATIONS (attribute: Size & Color)
+  M-Black        | ₦12,000 | stock 100  | SKU OSN-1131342-MBLACK
+  M-White        | ₦12,000 | stock 100  | SKU OSN-1131342-MWHITE
+  L-Black        | ₦12,000 | stock 99   | SKU OSN-1131342-LBLACK
+  L-White        | ₦12,000 | stock 100  | SKU OSN-1131342-LWHITE
+  Xl-Black       | ₦12,000 | stock 100  | SKU OSN-1131342-XLBLACK
+  Xl-White       | ₦12,000 | stock 100  | SKU OSN-1131342-XLWHITE
+  2xl-Black      | ₦12,000 | stock 100  | SKU OSN-1131342-2XLBLACK
+  2xl-White      | ₦12,000 | stock 100  | SKU OSN-1131342-2XLWHITE
+  3xl-Black      | ₦12,000 | stock 100  | SKU OSN-1131342-3XLBLACK
+  3xl-White      | ₦12,000 | stock 100  | SKU OSN-1131342-3XLWHITE
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The human whose name is written shall die.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel Kira with this Death Note graphic tee. The hand-scrawled logo, that ominous tagline, and the soundtrack lineart sit on soft, breathable cotton with a durable fade-resistant print. Unisex crew neck in black or white, M to 3XL.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Pick up the notebook. This Death Note tee carries the franchise's most haunting line, "the human whose name is written in this note shall die," beneath the iconic scrawled DEATH NOTE logo and that eerie "2309" mark. The full-front print is finished with the "Album: Death Note Anime Original Soundtrack" lineart for a moody, music-merch feel that lands hard whether you bias L over Light or you simply rule like Kira.</p>
+<p>Built for daily rotation, it pairs soft, breathable cotton with a relaxed unisex cut that drapes clean over jeans or layers under an open shirt. Anime-inspired streetwear for true fans, no shinigami required. Otaku Store NG, fan-made and not affiliated with the official rights holders.</p>
+<ul>
+<li>Design: hand-drawn DEATH NOTE logo, "the human whose name is written in this note shall die" tagline and Original Soundtrack lineart, full-front print</li>
+<li>Material: soft, breathable cotton for everyday comfort</li>
+<li>Fit: unisex regular fit with a relaxed drop-shoulder feel</li>
+<li>Neckline: ribbed crew neck</li>
+<li>Print: durable, fade-resistant graphic</li>
+<li>Colours: Black or White</li>
+<li>Sizes: M, L, XL, 2XL, 3XL</li>
+<li>Care: machine wash cold, inside-out; hang or line dry to protect the print</li>
+<li>Ships from Nigeria, nationwide and worldwide</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Iconic scrawled DEATH NOTE logo with the full chilling tagline
+  • Soft, breathable cotton built for everyday wear
+  • Durable, fade-resistant full-front print
+  • Unisex regular fit, crew neck, M to 3XL
+  • Choose classic Black or clean White
+  • Ships from Nigeria, nationwide and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (55 chars)        : Death Note T-Shirt | Anime Graphic Tee | Otaku Store NG
+Meta Description (153 chars) : Death Note anime graphic t-shirt in soft cotton with a fade-resistant front print. Unisex crew neck, black or white, M-3XL. Ships from Nigeria worldwide.
+Focus keyword                       : Death Note t-shirt
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Death Note anime graphic t-shirt in black and white with the scrawled DEATH NOTE logo and tagline print
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a folded Death Note graphic t-shirt, ink black #111111 background with paper white #FAFAFA garment, single manga-red #E2261C accent on a torn paper tag; halftone dot shading, dramatic speed lines and ink-splatter framing the front print of the scrawled DEATH NOTE logo and tagline; cinematic top-down lighting, premium streetwear catalogue feel, high contrast manga panel composition, sharp focus on fabric texture.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

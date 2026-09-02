@@ -1,0 +1,81 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Itachi Face Cap
+SLUG         : itachi-face-cap
+BUMPA ID     : 2789090
+WOO TYPE     : simple
+PARENT SKU   : OSN-2789090
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Headwear
+  - Shop by Anime > Naruto
+
+TAGS: Itachi face cap, Naruto cap, Akatsuki hat, Itachi Uchiha, anime trucker cap, Naruto headwear, anime snapback, Uchiha merch
+FRANCHISE: Naruto    CHARACTER: Itachi Uchiha
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦7,500
+Total stock   : 7
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Trucker cap built for the Uchiha faithful
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Black trucker cap with a woven Itachi Uchiha front patch and a red Akatsuki cloud on the side. Foam front, breathable mesh back and an adjustable snap closure that fits almost everyone. Anime-inspired headwear for fans who wear the roster loud.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some clan secrets you keep. This one you wear on your head. The Itachi Face Cap puts the Uchiha prodigy front and centre on a clean black trucker silhouette, with a woven character patch reading "Uchiha Itachi" and a single manga-red Akatsuki cloud riding the side panel for the fans who clock the details.</p>
+<p>The structured foam front holds its shape all day while breathable mesh side and back panels keep things cool through Lagos heat or a late-night convention run. A curved brim, low-profile crown and adjustable rear closure round out a cap that goes with everything from a hoodie to a fit-check. Anime-inspired, fan-made tribute headwear, not affiliated with or endorsed by the rights holders.</p>
+<ul>
+<li>Style: structured trucker cap with curved pre-shaped brim and low-profile crown</li>
+<li>Motif: woven front patch of Itachi Uchiha plus a red Akatsuki cloud accent on the side panel</li>
+<li>Construction: foam front panel with breathable mesh side and back panels</li>
+<li>Closure: adjustable rear snap, one-size-fits-most</li>
+<li>Colourway: ink black with manga-red accent</li>
+<li>Wear: everyday streetwear, conventions, cosplay finishing piece</li>
+<li>Care: spot clean with a damp cloth and air dry; avoid machine wash to protect the patch</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Woven Itachi Uchiha front patch with crisp detail
+  • Red Akatsuki cloud accent on the side panel
+  • Foam front with breathable mesh back for all-day cool
+  • Adjustable rear snap, one-size-fits-most
+  • Curved brim, low-profile black trucker silhouette
+  • Anime-inspired fan tribute, not officially affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : Itachi Face Cap | Naruto Akatsuki Trucker Cap
+Meta Description (153 chars) : Black Itachi Uchiha trucker cap with woven Akatsuki patch, foam front and mesh back. Adjustable, one-size anime headwear. Ships nationwide and worldwide.
+Focus keyword                       : Itachi face cap
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black Itachi Uchiha trucker cap with a woven front patch and red Akatsuki cloud on the mesh side panel
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-Manga studio product shot of a black trucker cap with a woven Itachi Uchiha front patch and a red Akatsuki cloud on the mesh side panel. Ink black #111111 backdrop, paper white #FAFAFA rim light, single manga-red #E2261C accent. Halftone dot texture, dynamic speed lines radiating from the cap, subtle ink splatter, manga panel framing. Premium, cinematic, high-contrast, three-quarter angle on a matte pedestal, sharp focus on the embroidered patch.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

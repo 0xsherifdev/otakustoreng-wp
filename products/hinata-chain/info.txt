@@ -1,0 +1,72 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Hinata Chain
+SLUG         : hinata-chain
+BUMPA ID     : 1134718
+WOO TYPE     : simple
+PARENT SKU   : OSN-1134718
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Naruto
+
+TAGS: Hinata necklace, Naruto chain, Hinata Hyuga, anime necklace, four-leaf clover pendant, Naruto accessories, anime chain Nigeria, clover necklace
+FRANCHISE: Naruto    CHARACTER: Hinata Hyuga
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,500
+Total stock   : 1000
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Lucky clover charm for the gentle Byakugan princess
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A Hinata-inspired four-leaf clover necklace in green enamel on a silver-tone ball chain. Light, tarnish-resistant and wear-anywhere, it carries the quiet good-luck energy of the Hyuga heiress for everyday fan flexing.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Soft-spoken but never to be underestimated, Hinata Hyuga carries quiet luck and unshakeable heart wherever she goes. This anime-inspired clover necklace channels that same gentle good-fortune energy with a green enamel four-leaf charm built from four heart-shaped petals, hung on a clean silver-tone beaded ball chain that catches the light without shouting.</p><p>Lightweight, smooth and easy to layer over hoodies, jerseys or a plain tee, it is the kind of everyday piece you forget you are wearing until someone asks about it. A subtle way to wear the roster and rep your favourite Hyuga without a single printed logo.</p><ul><li><strong>Character / inspiration:</strong> Hinata Hyuga (Naruto-inspired fan design)</li><li><strong>Pendant:</strong> green enamel four-leaf clover, heart-petal design</li><li><strong>Chain style:</strong> silver-tone beaded ball chain</li><li><strong>Material:</strong> durable tarnish-resistant alloy / stainless-steel finish</li><li><strong>Fit:</strong> standard unisex necklace length, suits men and women</li><li><strong>Care:</strong> wipe clean with a soft dry cloth; keep away from water and perfume</li><li><strong>Included:</strong> 1 clover pendant necklace</li><li><strong>Shipping:</strong> ships from Nigeria, nationwide and worldwide</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Hinata-inspired green four-leaf clover good-luck pendant
+  • Silver-tone beaded ball chain, smooth and lightweight
+  • Durable, tarnish-resistant finish for daily wear
+  • Unisex length, easy to layer or stack
+  • Wipe-clean care, keeps its shine
+  • Fan-made Naruto-inspired design, not official merch
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (54 chars)        : Hinata Chain - Naruto Clover Necklace | Otaku Store NG
+Meta Description (151 chars) : Hinata-inspired four-leaf clover necklace on a silver-tone ball chain. Tarnish-resistant, unisex, ₦4,500. Ships from Nigeria, nationwide and worldwide.
+Focus keyword                       : Hinata necklace
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Hinata-inspired green enamel four-leaf clover pendant on a silver-tone beaded ball chain
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a silver-tone beaded ball-chain necklace with a single green enamel four-leaf clover pendant (four heart-shaped petals) resting on an ink-black #111111 surface against a paper-white #FAFAFA backdrop; manga-red #E2261C used only as the accent in dramatic halftone dots and speed lines radiating outward, subtle ink splatter and manga-panel framing; soft cinematic rim light catching the chain and the glossy green enamel, premium high-contrast editorial jewelry photography
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - QA fixes applied: supplemental_image_prompt misrepresents the product: it describes a 'manga-red #E2261C four-leaf clover pendant', but every other field (subtitle, short_description, long_description, highlights, image_alt) describes a GREEN enamel clover. A product shot must show the real product color. Fixed by rendering the pendant as a green enamel clover while keeping the dark-manga palette (#111111 / #FAFAFA) and using manga-red #E2261C only as the accent for lighting, speed lines, halftone and panel framing.; Minor: 'byakugan' in the subtitle should be capitalized as the proper noun 'Byakugan'. Corrected in fixed.
+================================================================================

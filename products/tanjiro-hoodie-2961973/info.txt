@@ -1,0 +1,79 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Tanjiro Hoodie
+SLUG         : tanjiro-hoodie-2961973
+BUMPA ID     : 2961973
+WOO TYPE     : variable
+PARENT SKU   : OSN-2961973
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+  - Shop by Anime > Demon Slayer
+
+TAGS: Tanjiro hoodie, Demon Slayer hoodie, anime hoodie, Tanjiro Kamado, Demon Slayer merch, pullover hoodie, anime streetwear, Kimetsu no Yaiba
+FRANCHISE: Demon Slayer    CHARACTER: Tanjiro Kamado
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦18,500
+Total stock   : 800
+VARIATIONS (attribute: Size & Material)
+  L-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2961973-LTHICKCOTTON
+  L-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2961973-LTHICKPOLYESTER
+  Xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2961973-XLTHICKCOTTON
+  Xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2961973-XLTHICKPOLYESTER
+  2xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2961973-2XLTHICKCOTTON
+  2xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2961973-2XLTHICKPOLYESTER
+  3xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2961973-3XLTHICKCOTTON
+  3xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2961973-3XLTHICKPOLYESTER
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Breathe steady. Wear the Water Hashira's heir.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A Tanjiro-inspired pullover hoodie built for everyday wear, with brushed fleece warmth, ribbed cuffs and hem, and a roomy kangaroo pocket. Pick your size and your fabric, thick cotton or thick polyester, in a unisex streetwear fit.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the calm focus of Tanjiro Kamado with this Demon Slayer-inspired pullover hoodie from Otaku Store NG. Brushed-fleece interior keeps you warm through cold mornings and late-night episodes, while the unisex streetwear cut layers clean over a tee or under a jacket. Bold anime graphic energy meets a fit you'll actually live in.</p><p>Choose the fabric that matches your vibe: thick cotton for a soft, breathable feel or thick polyester for extra durability and colour that stays crisp wash after wash. Sized L through 3XL so the whole squad can match.</p><ul><li>Pullover hoodie, Demon Slayer / Tanjiro anime-inspired graphic (fan-made, not affiliated)</li><li>Fabric options: Thick Cotton or Thick Polyester</li><li>Brushed-fleece interior for warmth</li><li>Ribbed cuffs and hem to hold shape</li><li>Roomy kangaroo front pocket</li><li>Unisex streetwear fit</li><li>Sizes: L, XL, 2XL, 3XL</li><li>Care: machine wash cold, inside-out; do not bleach; hang or tumble dry low</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Brushed-fleece interior for real warmth
+  • Choose Thick Cotton or Thick Polyester
+  • Ribbed cuffs and hem keep their shape
+  • Roomy kangaroo pocket, unisex streetwear fit
+  • Sizes L to 3XL for the whole squad
+  • Tanjiro Demon Slayer anime-inspired graphic
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (42 chars)        : Tanjiro Hoodie | Demon Slayer Anime Hoodie
+Meta Description (147 chars) : Tanjiro Demon Slayer-inspired pullover hoodie with brushed fleece, kangaroo pocket and unisex fit. Thick cotton or polyester, sizes L-3XL. ₦18,500.
+Focus keyword                       : Tanjiro hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Tanjiro Kamado Demon Slayer-inspired pullover hoodie in front view, brushed-fleece pullover with kangaroo pocket and ribbed cuffs
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a folded pullover hoodie on ink-black #111111 surface, paper-white #FAFAFA backdrop, single manga-red #E2261C accent. Halftone dot texture and dynamic speed lines radiating behind the garment, ink-splatter detail in one corner, framed inside a clean manga panel border. Tanjiro Demon Slayer-inspired graphic energy on the chest, cinematic top-down lighting, premium streetwear catalogue aesthetic, high contrast, crisp focus.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

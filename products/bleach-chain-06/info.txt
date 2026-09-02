@@ -1,0 +1,73 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Bleach Chain 06
+SLUG         : bleach-chain-06
+BUMPA ID     : 1248706
+WOO TYPE     : simple
+PARENT SKU   : OSN-1248706
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Bleach
+
+TAGS: Bleach, Ichigo Kurosaki, anime necklace, Bleach pendant, Hollow flame crest, anime chain, stainless steel necklace, Soul Reaper, anime jewellery, fan-made
+FRANCHISE: Bleach    CHARACTER: Ichigo Kurosaki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦5,000
+Total stock   : 98
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Hollow-flame crest pendant on a box-link chain
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A Bleach-inspired pendant necklace built around a red-enamel Hollow-flame crest on a tarnish-resistant box-link chain. Wear Ichigo's Soul Reaper energy every day, on campus or in the streets. Fan-made, not affiliated.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel Ichigo Kurosaki's Hollow mask and flaming Bankai energy with the Bleach Chain 06. The crest pendant is finished in deep manga-red enamel against a polished silver-tone border, cut into a jagged flame silhouette that reads loud from across the room. It hangs from a slim box-link chain that sits clean over a tee, hoodie, or open collar.</p><p>Built for daily wear, it shrugs off everyday knocks and resists tarnish, so the shine stays sharp drop after drop. A standout piece for any Soul Reaper in the roster. This is a fan-made, anime-inspired design and is not official or affiliated with the franchise.</p><ul><li>Bleach-inspired Hollow-flame crest pendant, Ichigo Kurosaki theme</li><li>Red enamel infill with a polished silver-tone metal border</li><li>Durable stainless-steel / alloy build that resists tarnish and rust</li><li>Slim box-link chain with a secure lobster-clasp closure</li><li>Unisex piece that layers easily or wears solo</li><li>Wipe clean with a soft dry cloth; store dry between wears</li><li>Ships from Nigeria nationwide and worldwide</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Red-enamel Hollow-flame crest inspired by Ichigo's Bankai
+  • Polished silver-tone border for a premium finish
+  • Tarnish-resistant stainless-steel / alloy build
+  • Slim box-link chain with secure lobster clasp
+  • Unisex - layer it or wear it solo
+  • Fan-made, anime-inspired - not affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (54 chars)        : Bleach Chain 06 - Ichigo Hollow-Flame Pendant Necklace
+Meta Description (145 chars) : Bleach-inspired Ichigo Hollow-flame pendant on a tarnish-resistant box-link chain. Fan-made anime necklace. ₦5,000. Ships from Nigeria worldwide.
+Focus keyword                       : Bleach pendant necklace
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Bleach-inspired pendant necklace with a red-enamel Hollow-flame crest on a silver box-link chain, displayed on a black jewelry bust
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a Bleach-inspired pendant necklace: a jagged red-enamel Hollow-flame crest with a polished silver-tone border on a slim silver box-link chain, laid on ink-black #111111 surface with paper-white #FAFAFA negative space. Single manga-red #E2261C accent glow behind the pendant, halftone dot texture, diagonal speed lines, subtle ink splatter framing the composition into manga panels. Premium, cinematic, high-contrast macro lighting, sharp focus on the enamel and chain links.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

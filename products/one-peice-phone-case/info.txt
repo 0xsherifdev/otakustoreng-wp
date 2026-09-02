@@ -1,0 +1,89 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : One Peice Phone Case
+SLUG         : one-peice-phone-case
+BUMPA ID     : 1138617
+WOO TYPE     : variable
+PARENT SKU   : OSN-1138617
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Phone Cases
+  - Shop by Anime > One Piece
+
+TAGS: One Piece phone case, One Piece iPhone case, anime phone case, Straw Hat crew, anime iPhone case, One Piece merch, anime accessories, manga phone case
+FRANCHISE: One Piece    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦6,500
+Total stock   : 599
+VARIATIONS (attribute: Style)
+  1              | ₦6,500 | stock 99   | SKU OSN-1138617-1
+  2              | ₦6,500 | stock 100  | SKU OSN-1138617-2
+  3              | ₦6,500 | stock 100  | SKU OSN-1138617-3
+  4              | ₦6,500 | stock 100  | SKU OSN-1138617-4
+  5              | ₦6,500 | stock 100  | SKU OSN-1138617-5
+  6              | ₦6,500 | stock 100  | SKU OSN-1138617-6
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Set sail with the Straw Hat crew on your iPhone.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Anime-inspired One Piece iPhone case with bold Straw Hat crew artwork. Slim protective shell, raised edges that guard your screen, and precise cutouts. Pick from six designs and tell us your exact iPhone model.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Carry the spirit of the Grand Line wherever you go. This One Piece iPhone case wraps your phone in bold, fan-favourite Straw Hat artwork printed sharp and saturated against a slim, pocket-friendly shell. Choose your favourite from six designs and rep the roster every time you pull out your phone.</p>
+<p>Built to protect without the bulk: a snug shell hugs your iPhone while raised edges lift the screen and camera off flat surfaces, and clean cutouts keep every port, button and lens fully usable. Anime-inspired fan art, not affiliated with or endorsed by the official rights holders.</p>
+<ul>
+<li>Slim protective phone case with vivid One Piece anime-inspired print</li>
+<li>iPhone only - tell us your exact model after checkout for the correct fit</li>
+<li>6 designs to choose from (Styles 1-6)</li>
+<li>Raised edges help shield the screen and camera from scratches</li>
+<li>Precise cutouts for charging port, buttons, speakers and camera</li>
+<li>Lightweight, grippy feel that slips easily in and out of pockets</li>
+<li>Wipe clean with a soft, slightly damp cloth</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold One Piece Straw Hat crew artwork
+  • Slim shell with raised screen-guard edges
+  • Precise cutouts for ports, buttons and camera
+  • Six designs to choose from
+  • iPhone only - confirm your exact model after ordering
+  • Anime-inspired fan art, not official
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (51 chars)        : One Piece iPhone Case | Anime Phone Case - Otaku NG
+Meta Description (147 chars) : Anime-inspired One Piece iPhone case with bold Straw Hat artwork. Slim shell, raised edges, precise cutouts. 6 designs. ₦6,500. Ships from Nigeria.
+Focus keyword                       : One Piece iPhone case
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: One Piece anime-inspired slim iPhone case with bold Straw Hat crew artwork
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a slim One Piece anime-inspired iPhone case standing upright on a flat surface. Ink black #111111 background with paper white #FAFAFA halftone dot gradient, dynamic speed lines radiating outward and a single manga-red #E2261C ink splatter accent behind the case. The case art shows a bold manga-panel illustration of a Straw Hat pirate crew in red and white. Raised edges and precise camera cutout visible at a slight three-quarter angle, cinematic rim lighting, premium glossy finish, sharp focus, high contrast monochrome with selective red accent.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

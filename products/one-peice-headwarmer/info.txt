@@ -1,0 +1,82 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : One Peice Headwarmer
+SLUG         : one-peice-headwarmer
+BUMPA ID     : 1143819
+WOO TYPE     : simple
+PARENT SKU   : OSN-1143819
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Headwear
+  - Shop by Anime > One Piece
+
+TAGS: One Piece beanie, Straw Hat Pirates, Luffy merch, anime beanie, knit head warmer, embroidered beanie, Jolly Roger, anime headwear, One Piece merch, black beanie
+FRANCHISE: One Piece    CHARACTER: Monkey D. Luffy
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,500
+Total stock   : 997
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Embroidered Straw Hat Jolly Roger knit beanie
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Fly the Straw Hat flag in cold weather. A soft ribbed-knit cuffed beanie in deep black, finished with a crisp embroidered Luffy Jolly Roger on the fold. One-size stretch fit that hugs without squeezing. Fan-made, anime-inspired.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Set sail in style. This One Piece head warmer is a classic cuffed beanie cut from soft, stretchy ribbed knit in pirate black, topped with a clean embroidered Straw Hat Pirates Jolly Roger, Luffy's grinning skull, crossed bones and that unmistakable straw hat front and centre on the fold. It is the kind of everyday piece that reads streetwear first and crew flag second, so you can rep the Grand Line on the commute, on campus or on a cold-night manga binge.</p>
+<p>The knit holds warmth without the bulk, and the turned-up cuff keeps the embroidery sitting proud above your brow. Pair it with a black hoodie for full Straw Hat energy or let it do the talking over a plain fit. This is a fan / anime-inspired design, not affiliated with or licensed by the rights holders.</p>
+<ul>
+<li>Style: cuffed knit beanie / head warmer with folded ribbed brim</li>
+<li>Motif: embroidered Straw Hat Pirates Jolly Roger (Luffy skull and crossbones)</li>
+<li>Colour: black with multicolour embroidery</li>
+<li>Material: soft stretch knit (cotton blend feel)</li>
+<li>Fit: one size, stretch fit for most adults and teens</li>
+<li>Wear: snug all-day comfort; great for cold weather and layering</li>
+<li>Care: hand or gentle cold wash, reshape and air dry to protect the stitching</li>
+<li>Included: 1 x One Piece embroidered beanie</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Embroidered Straw Hat Jolly Roger, Luffy's skull, crossbones and straw hat
+  • Soft ribbed stretch knit with a turned-up cuff
+  • Classic black colourway that goes with any fit
+  • One-size stretch fit for most adults and teens
+  • Lightweight warmth for cold-weather wear and layering
+  • Fan / anime-inspired design, not affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (51 chars)        : One Piece Straw Hat Beanie | Luffy Knit Head Warmer
+Meta Description (144 chars) : One Piece knit beanie with embroidered Straw Hat Jolly Roger. Soft ribbed one-size head warmer in black. ₦4,500. Ships nationwide and worldwide.
+Focus keyword                       : One Piece beanie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black ribbed-knit cuffed beanie with embroidered One Piece Straw Hat Pirates Jolly Roger skull and crossbones on the fold
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-Manga style studio product shot of a black cuffed ribbed-knit beanie with an embroidered One Piece Straw Hat Jolly Roger (skull with straw hat and crossed bones) on the folded cuff. Ink black #111111 background, paper white #FAFAFA negative space, single manga-red #E2261C accent on a diagonal slash and halftone burst behind the hat. Halftone dots, dramatic speed lines, subtle ink splatter, framed inside a clean manga panel border. Premium, cinematic studio lighting, sharp focus on the embroidery, high contrast, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

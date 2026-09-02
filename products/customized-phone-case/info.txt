@@ -1,0 +1,70 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Customized Phone Case
+SLUG         : customized-phone-case
+BUMPA ID     : 1248428
+WOO TYPE     : simple
+PARENT SKU   : OSN-1248428
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Phone Cases
+
+TAGS: customized anime phone case, custom phone case, anime phone case, personalised phone case, manga phone case, custom photo phone case, anime merch nigeria, otaku store ng
+FRANCHISE: Generic Anime    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,500
+Total stock   : 0
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Your art, your roster, your phone
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Build a phone case that's 100% you. Send any anime art, character collage, manga panel, or personal photo and we print it razor-sharp onto a slim protective shell with raised edges and precise cutouts. Pick your phone model, pick your design.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Stop scrolling stock designs and build the case you actually want. With our Customized Phone Case, you send the art and we bring it to life: a single hero character, a multi-panel manga collage, a glowing key visual, or even your own photo. Whatever roster you rep, it goes edge to edge on a slim shell that still feels great in the hand.</p><p>Each case is printed in vivid, high-resolution colour onto a protective shell with raised lips around the screen and camera so your phone takes the knocks, not the glass. Tell us your phone model and drop your image; we handle the rest. Fan-made and anime-inspired, designed by Otaku Store NG and not affiliated with or endorsed by any studio or rights holder.</p><ul><li><strong>Fully custom print:</strong> send any anime art, character, manga panel, collage, or personal photo</li><li><strong>Build:</strong> slim protective shell in durable TPU/hard PC</li><li><strong>Protection:</strong> raised edges shield the screen and camera lens</li><li><strong>Cutouts:</strong> precise openings for ports, buttons, speakers and cameras</li><li><strong>Compatibility:</strong> made to fit your chosen phone model, just specify at checkout</li><li><strong>Finish:</strong> vivid full-wrap colour print, smooth matte-style surface</li><li><strong>Care:</strong> wipe clean with a soft, slightly damp cloth; avoid harsh chemicals</li><li><strong>Included:</strong> one custom-printed phone case made to your design</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Send any anime art, character or even your own photo
+  • Slim protective shell in tough TPU / hard PC
+  • Raised edges guard the screen and camera lens
+  • Precise cutouts for every port, button and camera
+  • Made to fit your exact phone model, your pick at checkout
+  • Vivid full-wrap colour print that stays sharp
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (44 chars)        : Customized Anime Phone Case | Otaku Store NG
+Meta Description (144 chars) : Build a custom anime phone case. Send any art, character or photo, printed sharp on a slim protective shell. Pick your phone model. From ₦4,500.
+Focus keyword                       : customized anime phone case
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.png  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Customized anime phone case printed with a fiery red-haired character design, held in hand over a display of other anime cases
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product studio shot of a slim anime-print phone case standing upright, three-quarter angle. Palette: ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent glow. Halftone dot shading, sharp speed lines radiating from the case, subtle ink-splatter at the base, framed inside a clean manga panel border. The case shows a bold anime character print wrapping the back with raised camera cutouts visible. Premium, cinematic, high-contrast studio lighting, crisp focus on the case, dramatic shadow. No text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

@@ -1,0 +1,80 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Skull Couple Chain
+SLUG         : skull-couple-chain
+BUMPA ID     : 1254742
+WOO TYPE     : simple
+PARENT SKU   : OSN-1254742
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Couple Accessories
+  - Accessories > Chains & Necklaces
+
+TAGS: skull couple chain, couple necklace set, matching couple pendant, his and hers chain, anime couple jewelry, split heart necklace, skull pendant, couple gift
+FRANCHISE: Generic Anime    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦6,000
+Total stock   : 507
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Two halves, one heart, one crew.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A matching his-and-hers skull pendant set: two black chains and two heart halves that snap together into one skull-and-crossbones heart. Anime-inspired pirate energy and the perfect couple gift for fans who ride together.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Wear the bond. The Skull Couple Chain is a paired pendant set built for two — each half carries a skull-and-crossbones motif, and when you bring them together they lock into a single heart with a bold manga-red accent. It is the pirate-crew romance trope made wearable: separate when you are apart, whole when you are side by side.</p>
+<p>Cast in a blacked-out finish for everyday wear, this anime-inspired duo set ships as a his-and-hers pair so you both get a piece from day one. Drop one on your partner, keep the other, and let the heart only complete when you do. (Fan-made, anime-inspired design — not affiliated with or endorsed by any anime studio or rights holder.)</p>
+<ul>
+<li><strong>Set includes:</strong> 2 pendants (matching heart halves) + 2 chains — one full his-and-hers couple set</li>
+<li><strong>Design:</strong> split-heart that joins into one heart, raised skull-and-crossbones detail, single red heart accent</li>
+<li><strong>Finish:</strong> blacked-out gunmetal-tone, polished pendants on slim cable-link chains</li>
+<li><strong>Material:</strong> durable alloy metal built for everyday wear</li>
+<li><strong>Worn as:</strong> pendant necklaces — wear together or one each</li>
+<li><strong>Great for:</strong> couples, best friends, gifting to a fellow anime fan</li>
+<li><strong>Care:</strong> keep dry, wipe clean with a soft cloth, store apart from other jewellery to avoid scratches</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Two heart halves that snap together into one skull-and-crossbones heart
+  • Ships as a complete his-and-hers couple set: 2 pendants + 2 chains
+  • Blacked-out finish with a bold red heart accent
+  • Durable alloy metal made for everyday wear
+  • An easy, high-impact gift for a fellow anime fan
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (52 chars)        : Skull Couple Chain | Matching His & Hers Pendant Set
+Meta Description (155 chars) : Skull Couple Chain set: two black chains and two heart halves that join into one skull heart. Anime-inspired his-and-hers gift. ₦6,000, ships from Nigeria.
+Focus keyword                       : skull couple chain
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black skull-and-crossbones split-heart couple pendant set on two chains, joining into one heart with a red heart accent
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a matching couple necklace set: two blacked-out heart-half pendants with skull-and-crossbones detailing and a single manga-red #E2261C heart accent, snapped together into one heart, hanging on two slim black cable chains. Ink black #111111 background, paper white #FAFAFA rim light, halftone dot texture, dynamic speed lines and a single ink splatter, manga panel framing, premium cinematic macro lighting, sharp reflections on polished metal.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

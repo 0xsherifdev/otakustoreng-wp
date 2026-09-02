@@ -1,0 +1,74 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Uchiha Logo Jeans Jacket
+SLUG         : uchiha-logo-jeans-jacket
+BUMPA ID     : 1124881
+WOO TYPE     : variable
+PARENT SKU   : OSN-1124881
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Shop by Anime > Naruto
+
+TAGS: Uchiha jacket, Naruto denim jacket, Uchiha clan crest, Naruto jeans jacket, anime denim jacket, Sasuke fan merch, Itachi merch, anime-inspired apparel
+FRANCHISE: Naruto    CHARACTER: Uchiha Clan
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦27,500
+Total stock   : 500
+VARIATIONS (attribute: Size)
+  M              | ₦27,500 | stock 100  | SKU OSN-1124881-M
+  L              | ₦27,500 | stock 100  | SKU OSN-1124881-L
+  XL             | ₦27,500 | stock 100  | SKU OSN-1124881-XL
+  2XL            | ₦27,500 | stock 100  | SKU OSN-1124881-2XL
+  XXXL           | ₦27,500 | stock 100  | SKU OSN-1124881-XXXL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Rep the Uchiha crest in denim.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A rugged denim jacket built for Uchiha loyalists, with the iconic clan crest front and center. Layer it over tees or hoodies for everyday wear that reps your favorite shinobi bloodline. Anime-inspired, made for fans who wear the roster.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some clans you admire. The Uchiha, you rep. This denim jacket carries the iconic clan crest as a bold statement piece, built for fans who want their Naruto fandom woven into everyday fits. Sturdy denim construction means it layers clean over tees, hoodies and longsleeves through every season.</p><p>From street to campus to convention floor, it is the kind of jacket that earns a nod from anyone who knows the bloodline. Anime-inspired fan apparel from Otaku Store NG — wear the roster.</p><ul><li>Style: classic jeans / denim jacket with button front</li><li>Design: Uchiha clan crest graphic, fan-inspired</li><li>Sizes available: M, L, XL, 2XL, XXXL</li><li>Fit: true-to-size unisex cut, easy to layer</li><li>Wear: chest pockets and full-length sleeves for everyday coverage</li><li>Care: machine wash cold, inside out; hang or tumble dry low to protect the print</li><li>Note: fan / anime-inspired apparel, not affiliated with or endorsed by the official rights holders</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold Uchiha clan crest for true Naruto fans
+  • Durable denim built to layer over tees and hoodies
+  • Unisex true-to-size fit from M up to XXXL
+  • Versatile everyday street-to-convention styling
+  • Anime-inspired fan design, not officially affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (50 chars)        : Uchiha Logo Denim Jacket | Naruto Fan Jeans Jacket
+Meta Description (147 chars) : Rep the Uchiha clan crest in a rugged denim jacket. Naruto-inspired fan jeans jacket in sizes M-XXXL. Ships from Nigeria, nationwide and worldwide.
+Focus keyword                       : Uchiha denim jacket
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Blue denim jeans jacket featuring the red and white Uchiha clan crest, Naruto fan-inspired apparel
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a blue denim jeans jacket displayed on an invisible mannequin against an ink black #111111 background. The Uchiha clan crest glows in a single manga-red #E2261C accent on paper white #FAFAFA fabric detailing. Halftone dot texture and bold diagonal speed lines radiate behind the jacket, manga panel borders framing the composition, subtle ink splatter at the edges. Premium, cinematic lighting, high-contrast, sharp focus on the denim weave and the clan crest.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

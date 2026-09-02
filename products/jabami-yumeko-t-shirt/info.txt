@@ -1,0 +1,76 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Jabami Yumeko T Shirt
+SLUG         : jabami-yumeko-t-shirt
+BUMPA ID     : 1125447
+WOO TYPE     : variable
+PARENT SKU   : OSN-1125447
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+
+TAGS: Yumeko Jabami, Kakegurui, anime t-shirt, Kakegurui merch, anime tee, graphic t-shirt, unisex anime shirt, Yumeko Jabami shirt
+FRANCHISE: Kakegurui    CHARACTER: Yumeko Jabami
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦12,000
+Total stock   : 500
+VARIATIONS (attribute: Size)
+  M              | ₦12,000 | stock 100  | SKU OSN-1125447-M
+  L              | ₦12,000 | stock 100  | SKU OSN-1125447-L
+  XL             | ₦12,000 | stock 100  | SKU OSN-1125447-XL
+  2XL            | ₦12,000 | stock 100  | SKU OSN-1125447-2XL
+  XXXL           | ₦12,000 | stock 100  | SKU OSN-1125447-XXXL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+All in on the compulsive gambler.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel Kakegurui's most dangerous player with this Yumeko Jabami anime-inspired tee. Soft, breathable cotton, unisex regular fit and a bold fade-resistant print built for every fan who plays to win.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Place your bet. This Yumeko Jabami tee captures the wild-eyed thrill of Kakegurui's most fearless gambler, the kind of statement piece that turns heads before the cards are even dealt. Crisp linework, high-contrast graphics and that unmistakable Hyakkaou energy make it an easy pick for fans of high-stakes anime.</p><p>Cut for everyday wear, it pairs a soft hand-feel with a comfortable unisex shape, so it works just as well at a convention as it does on a casual day out. Anime-inspired fan design, not affiliated with or endorsed by the official rights holders.</p><ul><li>Soft, breathable cotton (cotton/poly blend on all-over-print runs)</li><li>Unisex regular fit with a classic crew neck</li><li>Durable, fade-resistant graphic print</li><li>Available sizes: M, L, XL, 2XL, XXXL</li><li>Machine wash cold, inside-out; hang or tumble dry low</li><li>Anime-inspired fan art, not officially licensed</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • High-contrast Yumeko Jabami Kakegurui graphic
+  • Soft, breathable cotton for all-day comfort
+  • Unisex regular fit, classic crew neck
+  • Durable, fade-resistant print
+  • Sizes M through XXXL
+  • Anime-inspired fan design
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (43 chars)        : Yumeko Jabami T-Shirt | Kakegurui Anime Tee
+Meta Description (148 chars) : Shop the Yumeko Jabami Kakegurui T-shirt. Soft cotton, unisex fit, fade-resistant print. Sizes M-XXXL. Ships from Nigeria, nationwide and worldwide.
+Focus keyword                       : Yumeko Jabami T-Shirt
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Yumeko Jabami Kakegurui anime-inspired graphic t-shirt in black, unisex crew neck
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio shot of a folded black anime graphic t-shirt featuring a bold Yumeko Jabami Kakegurui-style illustration with wild gambler eyes, ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent on lips and playing-card motif; halftone dot shading, dramatic speed lines, scattered ink splatter, manga panel borders framing the shirt; premium cinematic product photography, high contrast, crisp detail.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

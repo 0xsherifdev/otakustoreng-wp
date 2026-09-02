@@ -1,0 +1,82 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Customised Hoodie
+SLUG         : customised-hoodie
+BUMPA ID     : 1286692
+WOO TYPE     : simple
+PARENT SKU   : OSN-1286692
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+
+TAGS: custom anime hoodie, personalised hoodie, anime pullover hoodie, custom print hoodie, unisex anime hoodie, anime streetwear, fleece hoodie, otaku hoodie
+FRANCHISE: Generic Anime    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦16,500
+Total stock   : 996
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Your design, printed on premium fleece
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Print any anime art on a cosy unisex pullover hoodie. Send us your character, panel or crest via WhatsApp or Instagram and we bring it to life on brushed-fleece comfort built for everyday wear.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Build the hoodie you actually want. The Customised Hoodie from Otaku Store NG turns your favourite anime moment into wearable streetwear, whether it's a clean character portrait, a full manga panel, a clan crest or your own original art. You pick the design, we print it.</p>
+<p>Cut for an everyday unisex streetwear fit and lined with brushed fleece for warmth, this pullover keeps the comfort high while your art does the talking. Send a picture of what you'd like to print to us on WhatsApp or Instagram and our team will sort the rest.</p>
+<ul>
+<li>Pullover hoodie with a relaxed unisex streetwear fit</li>
+<li>Fully customisable graphic print: send your anime art, character, panel or crest</li>
+<li>Brushed-fleece interior for soft, warm everyday wear</li>
+<li>Ribbed cuffs and hem to hold shape and lock in heat</li>
+<li>Front kangaroo pocket for hands and essentials</li>
+<li>Made from quality cotton fabric</li>
+<li>Care: machine wash cold, inside-out, to protect the print</li>
+<li>Fan-made and anime-inspired design; not affiliated with or endorsed by any studio or rights holder</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Print any anime design you send us
+  • Brushed-fleece interior for cosy warmth
+  • Unisex streetwear fit, pullover style
+  • Ribbed cuffs and hem plus kangaroo pocket
+  • Quality cotton fabric
+  • Ships nationwide and worldwide from Nigeria
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (56 chars)        : Custom Anime Hoodie | Print Your Design | Otaku Store NG
+Meta Description (151 chars) : Custom anime hoodie in cosy brushed fleece. Send any character, panel or art via WhatsApp or Instagram and we print it. Unisex fit, ships from Nigeria.
+Focus keyword                       : custom anime hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Customised anime pullover hoodie with kangaroo pocket and ribbed cuffs from Otaku Store NG
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a folded pullover hoodie on an ink-black #111111 surface, paper-white #FAFAFA halftone-dot backdrop, single manga-red #E2261C accent in diagonal speed lines and a small ink-splatter burst behind it; framed inside a clean manga panel border, cinematic premium lighting, soft shadow, no text, no logos, focus on brushed-fleece texture and ribbed cuffs.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

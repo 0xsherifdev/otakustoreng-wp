@@ -1,0 +1,70 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : luffy door mat
+SLUG         : luffy-door-mat
+BUMPA ID     : 3041188
+WOO TYPE     : simple
+PARENT SKU   : OSN-3041188
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Shop by Anime > One Piece
+
+TAGS: Luffy door mat, One Piece door mat, anime door mat, Monkey D. Luffy, One Piece merch, anime home decor, entryway mat, Otaku Store NG
+FRANCHISE: One Piece    CHARACTER: Monkey D. Luffy
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦18,000
+Total stock   : 8
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Set sail at your front door, captain.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A bold Luffy-inspired door mat that turns any entryway into Pirate King territory. Anti-slip backing, durable woven top, and crisp One Piece artwork that greets every crew member the second they step in.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Plant your flag at the threshold with a Monkey D. Luffy door mat built for fans who treat the front door like the bow of the Thousand Sunny. The crisp, high-contrast artwork holds its punch underfoot, while the dense pile traps dirt and dust before it ever crosses into your base. It is the easiest way to make your entrance unmistakably One Piece.</p><p>Tough enough for daily traffic and easy to keep clean, it works just as well at the front door, kitchen, bedroom, or anywhere your crew gathers. This is a fan-made, anime-inspired piece and is not affiliated with or endorsed by the official rights holders.</p><ul><li>Design: Monkey D. Luffy / One Piece anime-inspired fan artwork</li><li>Top surface: soft, absorbent woven pile that grabs dirt and moisture</li><li>Backing: non-slip anti-skid base to keep the mat planted on hard floors</li><li>Placement: front door, entryway, kitchen, bedroom or living room</li><li>Care: vacuum or shake out regularly; spot-clean with mild soap and water, air dry</li><li>Finish: vivid, fade-resistant print for everyday wear</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold Monkey D. Luffy / One Piece fan artwork that owns the entryway
+  • Non-slip anti-skid backing stays put on hard floors
+  • Absorbent woven pile traps dirt and moisture at the door
+  • Built for daily foot traffic and easy spot-cleaning
+  • Fits front doors, kitchens, bedrooms and living spaces
+  • Ships from Nigeria, nationwide and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : Luffy Door Mat | One Piece Anime Entryway Mat
+Meta Description (152 chars) : Shop a Luffy One Piece door mat with bold anime art, anti-slip backing and absorbent pile. Fan-made entryway mat, ₦18,000. Ships from Nigeria worldwide.
+Focus keyword                       : Luffy door mat
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: One Piece Luffy anime-inspired door mat with bold character artwork laid at a front entryway
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga style studio shot of an anime-inspired door mat resting on a polished floor at a front entrance. Ink black #111111 background, paper white #FAFAFA mat field, single manga-red #E2261C accent on the printed character motif. Halftone dot shading, sharp speed lines radiating from the mat, subtle ink-splatter framing, manga-panel border. Premium, cinematic top-down three-quarter angle, soft realistic shadow under the mat, high detail, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

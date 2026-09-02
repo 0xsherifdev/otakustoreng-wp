@@ -1,0 +1,86 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Eren T Shirt
+SLUG         : eren-t-shirt-1125427
+BUMPA ID     : 1125427
+WOO TYPE     : variable
+PARENT SKU   : OSN-1125427
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+  - Shop by Anime > Attack on Titan
+
+TAGS: Eren t shirt, Attack on Titan t shirt, Eren Yeager, anime t shirt, Attack on Titan merch, AOT shirt, anime graphic tee, Eren Yeager shirt
+FRANCHISE: Attack on Titan    CHARACTER: Eren Yeager
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦15,000
+Total stock   : 496
+VARIATIONS (attribute: Size)
+  M              | ₦15,000 | stock 100  | SKU OSN-1125427-M
+  L              | ₦15,000 | stock 99   | SKU OSN-1125427-L
+  XL             | ₦15,000 | stock 100  | SKU OSN-1125427-XL
+  2XL            | ₦15,000 | stock 97   | SKU OSN-1125427-2XL
+  XXXL           | ₦15,000 | stock 100  | SKU OSN-1125427-XXXL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Devote your heart. Wear the will to fight.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+An Eren Yeager-inspired Attack on Titan graphic tee in soft, durable cotton. Unisex regular fit with a crew neck and a bold, fade-resistant print built for fans who refuse to stay behind the walls.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Step beyond the walls in the Eren T Shirt, an Attack on Titan-inspired graphic tee built for fans who carry the fight in their chest. The artwork channels Eren Yeager's relentless drive with a bold, high-contrast print that holds up wear after wear, while the soft cotton body keeps it comfortable enough for everyday rotation.</p>
+<p>Cut in a unisex regular fit with a clean crew neck, it layers easily and wears true straight out of the pack. Anime-inspired and made by fans, for fans, this is your everyday armour for con runs, marathon rewatches and the streets in between.</p>
+<ul>
+<li>Material: soft, breathable cotton for all-day comfort</li>
+<li>Fit: unisex regular fit, true to size</li>
+<li>Neckline: ribbed crew neck</li>
+<li>Print: bold Eren Yeager / Attack on Titan-inspired graphic, durable and fade-resistant</li>
+<li>Sizes available: M, L, XL, 2XL, XXXL</li>
+<li>Care: machine wash cold, inside-out; do not tumble dry hot; avoid ironing directly on the print</li>
+<li>Design: fan-made, anime-inspired; not official or affiliated with the rights holders</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Eren Yeager / Attack on Titan-inspired graphic with bold, high-contrast detail
+  • Soft, breathable cotton that stays comfortable all day
+  • Unisex regular fit with a clean crew neck, true to size
+  • Durable, fade-resistant print built to survive the wash cycle
+  • Sizes M through XXXL for an inclusive fit
+  • Fan-made and anime-inspired, never official or affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (40 chars)        : Eren T Shirt | Attack on Titan Anime Tee
+Meta Description (148 chars) : Eren Yeager Attack on Titan-inspired t-shirt in soft cotton. Unisex regular fit, fade-resistant print, sizes M-XXXL. Ships nationwide and worldwide.
+Focus keyword                       : Eren t shirt
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Eren Yeager Attack on Titan-inspired graphic t-shirt in soft cotton with bold front print
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a folded anime graphic t-shirt featuring an Eren Yeager-inspired Attack on Titan illustration. Ink black #111111 background, paper white #FAFAFA tee, single manga-red #E2261C accent on the print. Halftone dot shading, dynamic speed lines radiating outward, subtle ink splatter framing the shirt, arranged within crisp manga panel borders. Premium, cinematic lighting, high contrast, sharp focus, editorial merch photography.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

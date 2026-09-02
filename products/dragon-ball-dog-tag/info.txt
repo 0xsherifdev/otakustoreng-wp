@@ -1,0 +1,75 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Dragon Ball Dog Tag
+SLUG         : dragon-ball-dog-tag
+BUMPA ID     : 1146294
+WOO TYPE     : variable
+PARENT SKU   : OSN-1146294
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Dragon Ball
+
+TAGS: Dragon Ball dog tag, Dragon Ball necklace, anime dog tag, anime pendant necklace, Dragon Ball accessories, stainless steel necklace, anime chain, otaku jewellery
+FRANCHISE: Dragon Ball    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦6,000
+Total stock   : 200
+VARIATIONS (attribute: Style)
+  1              | ₦6,000 | stock 100  | SKU OSN-1146294-1
+  2              | ₦6,000 | stock 100  | SKU OSN-1146294-2
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the Z on your chest. Dog-tag energy.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A Dragon Ball-inspired dog tag pendant on a durable, tarnish-resistant chain. Bold engraved styling, two designs to choose from, and an adjustable fit that wears every day from training to the streets.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Power up your everyday fit with the Dragon Ball Dog Tag, a fan-favourite pendant built for fighters who like to wear the roster. The clean dog-tag silhouette and bold engraved detailing nod straight to the saga, sitting flat and comfortable whether you are layering it over a tee or running it solo.</p><p>Forged from durable, tarnish-resistant steel, this pendant is made to take the daily grind without losing its shine. Pick from two styles to match your vibe, then set the chain to the length you want for a fit that feels custom. A quick wipe keeps it looking fresh between battles.</p><ul><li>Anime-inspired Dragon Ball dog-tag pendant (fan-made, not affiliated with or endorsed by the rights holders)</li><li>Material: durable stainless steel that resists tarnish and everyday wear</li><li>Two style options to choose from: Style 1 or Style 2</li><li>Adjustable chain length for a comfortable, customised fit</li><li>Smooth, lightweight feel that sits flat for all-day wear</li><li>Pairs easily with tees, hoodies and layered chains</li><li>Care: wipe clean with a soft, dry cloth; keep away from moisture when not worn</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Dragon Ball-inspired dog-tag pendant with bold engraved styling
+  • Durable stainless steel that resists tarnish
+  • Two designs to choose from: Style 1 or Style 2
+  • Adjustable chain length for a comfy, custom fit
+  • Lightweight and sits flat for all-day wear
+  • Easy care: just wipe clean with a soft, dry cloth
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : Dragon Ball Dog Tag Necklace | Otaku Store NG
+Meta Description (149 chars) : Dragon Ball-inspired dog tag pendant on a tarnish-resistant steel chain. Two styles, adjustable fit. Ships nationwide and worldwide. Wear the roster.
+Focus keyword                       : Dragon Ball dog tag necklace
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Dragon Ball-inspired stainless steel dog tag pendant necklace on an adjustable chain
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a stainless steel Dragon Ball-inspired dog-tag pendant necklace, ink black #111111 background with paper white #FAFAFA negative space, single manga-red #E2261C accent. Halftone dot texture, dynamic speed lines and ink-splatter framing the pendant in a manga panel composition. Cinematic rim lighting catching the engraved silhouette, adjustable steel chain coiled beneath, premium high-detail macro, crisp reflections, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

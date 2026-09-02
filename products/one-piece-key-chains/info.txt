@@ -1,0 +1,75 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : One Piece Key Chains
+SLUG         : one-piece-key-chains
+BUMPA ID     : 1734012
+WOO TYPE     : variable
+PARENT SKU   : OSN-1734012
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Shop by Anime > One Piece
+
+TAGS: One Piece, One Piece key chain, anime keyring, Straw Hat, anime accessories, metal keychain, anime gift, Grand Line
+FRANCHISE: One Piece    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦3,000
+Total stock   : 1513
+VARIATIONS (attribute: Style)
+  1              | ₦3,000 | stock 503  | SKU OSN-1734012-1
+  2              | ₦3,000 | stock 505  | SKU OSN-1734012-2
+  3              | ₦3,000 | stock 505  | SKU OSN-1734012-3
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the Straw Hat crew everywhere you go.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Rep the Grand Line with these anime-inspired One Piece key chains. Three bold designs in durable metal, ready to clip onto your keys, bag or zip. An affordable everyday flex for any Straw Hat fan.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Set sail with your daily carry. These anime-inspired One Piece key chains let you fly the Straw Hat flag on your keys, backpack, gym bag or zipper pull. Built from durable metal with crisp, vivid detailing, each piece is small enough to carry every day and bold enough to get noticed by fellow nakama.</p><p>Choose from three distinct One Piece designs and grab the one that matches your crew. It is the kind of low-key flex that pairs with everything, ready to clip on and go.</p><ul><li>Anime-inspired One Piece key chain (fan design, not affiliated with the official series)</li><li>Three style options to choose from: Style 1, Style 2, Style 3</li><li>Durable metal construction for everyday use</li><li>Split-ring clip attaches easily to keys, bags, backpacks and zippers</li><li>Compact, lightweight everyday carry accessory</li><li>Wipe clean with a soft, dry cloth; avoid harsh chemicals</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Anime-inspired One Piece design, fan-made and unaffiliated
+  • Three bold style options to pick your favourite
+  • Durable metal build for daily wear
+  • Split-ring clip fits keys, bags and zippers
+  • Compact, lightweight everyday flex
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (42 chars)        : One Piece Key Chains | Anime Metal Keyring
+Meta Description (152 chars) : Anime-inspired One Piece key chains in durable metal. Three bold designs that clip onto keys, bags and zippers. Rep the Straw Hat crew daily for ₦3,000.
+Focus keyword                       : One Piece key chains
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Three anime-inspired One Piece metal key chains with split-ring clips displayed together
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of an anime-inspired One Piece metal key chain resting on a textured ink-black #111111 surface, paper-white #FAFAFA halftone dots scattered behind it, a single manga-red #E2261C speed-line streak slicing diagonally across the panel, dramatic ink splatter framing the edges, the polished metal keyring catching a hard cinematic rim light, shallow depth of field, premium high-contrast manga panel composition.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

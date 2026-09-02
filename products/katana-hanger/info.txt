@@ -1,0 +1,81 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Katana Hanger
+SLUG         : katana-hanger
+BUMPA ID     : 2363089
+WOO TYPE     : simple
+PARENT SKU   : OSN-2363089
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Katana & Weapons
+
+TAGS: katana hanger, katana wall mount, sword display stand, anime katana stand, wall sword rack, katana holder, cosplay display, otaku room decor
+FRANCHISE: Generic Anime    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦20,000
+Total stock   : 503
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Mount the roster. Display your blades on the wall.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A two-tier wall-mounted katana hanger that turns any blade into a centrepiece. Black bracket set holds two swords horizontally, keeping your collection off the floor and on full display. Swords not included.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Your blades deserve better than a closet. This anime-inspired <strong>katana wall hanger</strong> is a two-tier mounting set that holds two katana horizontally, putting your collection at eye level where it belongs. The matte-black brackets sit clean against any wall, letting the swords do the talking — perfect above a desk, behind a stream setup, or as the anchor piece of an otaku display room.</p>
+<p>Built as a dedicated display accessory for collectors and cosplayers, the cradle design keeps each saya seated and secure while staying easy to lift on and off when you want to handle your steel. Swords shown are for display reference only and are not included.</p>
+<ul>
+<li><strong>Type:</strong> Wall-mounted katana display hanger (decorative collector accessory)</li>
+<li><strong>Capacity:</strong> Two-tier set, holds 2 swords horizontally</li>
+<li><strong>Material:</strong> Sturdy moulded bracket body with a matte-black finish</li>
+<li><strong>Mounting:</strong> Wall-mount design with pre-drilled fixing points</li>
+<li><strong>Orientation:</strong> Horizontal cradle that keeps each blade and scabbard supported</li>
+<li><strong>Best for:</strong> Katana, wakizashi and themed replica blades on display</li>
+<li><strong>In the box:</strong> Katana hanger bracket set (swords not included)</li>
+<li><strong>Care:</strong> Wipe clean with a dry or lightly damp cloth; mount on a solid wall and follow local laws on bladed display items</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Two-tier wall mount holds 2 katana horizontally
+  • Clean matte-black brackets let your blades steal the show
+  • Frees up floor and shelf space — collection at eye level
+  • Easy lift-on, lift-off cradle for quick handling
+  • Built for katana, wakizashi and themed replica blades
+  • Swords not included — bring your own roster
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (46 chars)        : Katana Hanger | Anime Wall Sword Display Mount
+Meta Description (154 chars) : Two-tier katana wall hanger holds 2 swords horizontally for clean display. Anime-inspired collector mount, ships across Nigeria and worldwide. Swords not.
+Focus keyword                       : katana hanger
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Two-tier matte-black katana wall hanger holding two display katana horizontally
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga style studio product shot of a two-tier matte-black katana wall hanger bracket set mounted on an ink-black wall, two themed display katana resting horizontally in the cradles. Ink black #111111 background, paper white #FAFAFA rim light, single manga-red #E2261C accent glow behind the blades. Halftone dot shading, dynamic speed lines radiating from the mount, subtle ink splatter in corners, framed in a clean manga panel border. Premium, cinematic, high-contrast collector display aesthetic.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

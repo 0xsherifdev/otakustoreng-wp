@@ -1,0 +1,80 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Hulk Figurine
+SLUG         : hulk-figurine
+BUMPA ID     : 1873976
+WOO TYPE     : simple
+PARENT SKU   : OSN-1873976
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Figurines
+
+TAGS: Hulk figurine, Hulk statue, Avengers figurine, Marvel collectible, PVC figure, anime figurine, collector statue, Otaku Store NG
+FRANCHISE: Marvel    CHARACTER: Hulk
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦17,500
+Total stock   : 10
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The Avengers' rage incarnate, sculpted for your shelf.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Bring the Avengers' green powerhouse home. This pre-painted PVC Hulk figurine captures him mid-rampage on a display base, with battle-torn shorts and rippling muscle detail. A bold centrepiece for any collector's shelf.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>The strongest there is, frozen at the peak of a smash. This Hulk display figurine catches the Avengers' green giant in a low, battle-ready crouch, fists clenched and teeth bared, every cord of muscle and torn seam on his shorts picked out in crisp, hand-finished paint.</p>
+<p>Cast in durable PVC and mounted on a round black base for a stable, dramatic stance, it's built to anchor a desk, shelf or glass cabinet rather than the toy box. Fan-made, anime-inspired collectible styling, not affiliated with or endorsed by the official rights holders.</p>
+<ul>
+<li>Material: detailed pre-painted PVC display statue</li>
+<li>Pose: dynamic crouching, battle-ready stance with clenched fists</li>
+<li>Includes: one Hulk figurine plus matching round display base</li>
+<li>Finish: hand-painted detailing across muscle, skin and torn shorts</li>
+<li>Base footprint: approx. 13.5 cm wide for a steady display</li>
+<li>Use: adult collector display piece, not a children's toy</li>
+<li>Care: dust gently with a soft dry cloth; keep out of direct sunlight</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Pre-painted PVC statue of the Avengers' Hulk in a dynamic crouch
+  • Hand-finished muscle, skin and torn-shorts detailing
+  • Comes with a round black display base, approx. 13.5 cm wide
+  • Premium collector centrepiece for shelf, desk or cabinet
+  • Ships nationwide across Nigeria and worldwide
+  • Fan / anime-inspired collectible, not an official licensed product
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (52 chars)        : Hulk Figurine | PVC Avengers Statue | Otaku Store NG
+Meta Description (150 chars) : Pre-painted PVC Hulk figurine in a battle-ready crouch with display base. Bold Avengers collector statue, ₦17,500. Ships across Nigeria and worldwide.
+Focus keyword                       : Hulk figurine
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Pre-painted green PVC Hulk figurine in a crouching battle stance with torn shorts on a round black display base
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a pre-painted PVC Hulk collector figurine in a low crouching battle stance, clenched fists, torn shorts, mounted on a round black display base. Ink black #111111 background, paper white #FAFAFA rim light, single manga-red #E2261C accent glow behind the figure. Halftone dot texture, dynamic speed lines and ink-splatter framing the silhouette, cinematic premium lighting, shallow depth of field, sharp sculpted muscle detail. No text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

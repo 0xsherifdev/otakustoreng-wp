@@ -1,0 +1,70 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Spider Man Credit Card Cover
+SLUG         : spider-man-credit-card-cover
+BUMPA ID     : 1395764
+WOO TYPE     : simple
+PARENT SKU   : OSN-1395764
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Stickers
+
+TAGS: Spider-Man credit card skin, Spider-Verse card cover, Miles Morales sticker, anime card skin, waterproof vinyl card cover, Spider-Gwen, debit card sticker, Otaku Store NG
+FRANCHISE: Spider-Man    CHARACTER: Spider-Man
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦3,500
+Total stock   : 10
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Wrap your card in the Spider-Verse
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Suit up your bank card with a Spider-Verse vinyl skin. Waterproof, chip-cutout-ready and slim enough to swipe and tap as normal. Anime-inspired art that turns an everyday card into a flex. Fan-made, not affiliated with any rights holder.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Your card should hit as hard as your roster. This Spider-Verse credit card cover wraps your debit, credit or transit card in a full-colour vinyl skin packed with Miles Morales, Peter Parker and Spider-Gwen swinging across a glowing city skyline. Vivid, fade-resistant print with a slim profile, so your card still taps, swipes and slides into your wallet like nothing changed.</p><p>The pre-cut chip window keeps your card fully usable, and the waterproof laminate shrugs off pocket scuffs, sweat and the occasional spill. Peel, line it up, press it down. Instant upgrade, zero hardware. A fan-made, anime-inspired design, not affiliated with or endorsed by any rights holder.</p><ul><li>Material: durable adhesive vinyl with a waterproof, fade-resistant laminate top layer</li><li>Design: Spider-Verse cast (Miles Morales, Spider-Man, Spider-Gwen) over a city skyline, design 017</li><li>Fit: sized for standard credit, debit and transit cards</li><li>Chip ready: pre-cut window so the card chip and tap function stay usable</li><li>Slim: thin enough to keep your card working in ATMs and card readers</li><li>Includes: 1 single-card vinyl skin (card not included)</li><li>Apply to: bank cards, transport cards, gift cards and similar flat surfaces</li><li>Care: wipe clean with a soft, slightly damp cloth; avoid soaking or scrubbing</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Full-colour Spider-Verse art: Miles, Peter and Gwen mid-swing
+  • Waterproof, fade-resistant vinyl that survives daily pocket life
+  • Pre-cut chip window keeps tap and swipe fully working
+  • Slim profile fits ATMs and card readers without jamming
+  • Peel-and-stick install in seconds, no tools needed
+  • Fits standard credit, debit and transit cards
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (52 chars)        : Spider-Verse Credit Card Skin Cover | Otaku Store NG
+Meta Description (151 chars) : Spider-Verse credit card cover skin. Waterproof vinyl with a pre-cut chip window, fits standard bank cards. Fan-made anime-inspired art. Shop at Otaku.
+Focus keyword                       : Spider-Man credit card skin
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Spider-Verse credit card skin featuring Miles Morales, Spider-Man and Spider-Gwen over a city skyline, with a pre-cut chip window
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga style studio product shot of a credit card wrapped in a Spider-Verse vinyl skin, ink black #111111 background with paper white #FAFAFA negative space and a single manga-red #E2261C accent. Card held at a three-quarter angle catching cinematic rim light, pre-cut chip window visible. Halftone dot texture and bold speed lines radiating behind the card, a flick of ink splatter in the corner, framed inside a clean manga panel border. Premium, high-contrast, editorial product photography feel.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

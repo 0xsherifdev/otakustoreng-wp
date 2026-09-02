@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Pain led frame lamp
+SLUG         : pain-led-frame-lamp
+BUMPA ID     : 3099641
+WOO TYPE     : simple
+PARENT SKU   : OSN-3099641
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Home & Decor > LED Lamps
+  - Shop by Anime > Naruto
+
+TAGS: Pain lamp, Naruto LED lamp, Akatsuki night light, anime LED lamp, 3D illusion lamp, Naruto desk decor, Pain Nagato, anime night light
+FRANCHISE: Naruto    CHARACTER: Pain
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦26,000
+Total stock   : 9
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Light up your desk with the Rinnegan's stare.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A Pain-inspired 3D illusion night light for every Naruto fan. The acrylic panel glows across 16 colours, runs on USB power, and ships with a remote so you can set the mood from across the room. Pure desk-shelf centrepiece energy.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the leader of the Akatsuki onto your desk. This Pain-inspired LED frame lamp uses a laser-etched acrylic panel and a base of energy-efficient LEDs to create a crisp 3D illusion that floats in mid-air. By day it reads as sharp line art; by night it becomes the glowing centrepiece of any Naruto fan's setup.</p><p>Cycle through 16 colours with the included remote, lock in your favourite shade, or let it fade between hues while you game, study or stream. USB-powered means it plugs into a laptop, power bank or any standard USB adapter, so it lives anywhere from a desk to a shelf to a bedside table. Fan-made and anime-inspired, not affiliated with or endorsed by the official rights holders.</p><ul><li>Design: Pain (Naruto / Akatsuki) laser-etched acrylic illusion panel</li><li>Effect: 3D floating-image look from a flat acrylic insert</li><li>Colours: 16 selectable shades with fade and lock modes</li><li>Control: handheld remote included</li><li>Light source: energy-efficient, low-heat LEDs</li><li>Power: USB cable (works with laptop, power bank or USB wall adapter)</li><li>Placement: desk, gaming setup, shelf or bedside table</li><li>Care: wipe the acrylic with a soft, dry cloth; keep the base away from water</li><li>In the box: LED base, acrylic panel, USB cable, remote control</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Pain / Akatsuki 3D acrylic illusion panel on an LED base
+  • 16 colours with fade and lock modes via included remote
+  • USB-powered - runs off a laptop, power bank or wall adapter
+  • Energy-efficient, low-heat LEDs for all-night glow
+  • Desk and shelf centrepiece for any Naruto setup
+  • Fan-made anime-inspired design, not official
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (49 chars)        : Pain LED Frame Lamp | Naruto Akatsuki Night Light
+Meta Description (155 chars) : Pain-inspired Naruto LED frame lamp. 3D acrylic illusion night light, 16 colours, remote and USB power. Anime desk decor shipping nationwide and worldwide.
+Focus keyword                       : Pain LED frame lamp
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Pain Naruto 3D acrylic LED frame lamp glowing red on a desk with remote control
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product shot of an anime 3D acrylic illusion LED frame lamp featuring Pain from Naruto with the Rinnegan eyes, glowing manga-red #E2261C, on an ink-black #111111 desk surface, paper-white #FAFAFA backdrop; halftone dot texture, sharp speed lines and ink splatter framing the panel, manga-panel composition; handheld remote resting beside the base; premium, cinematic studio lighting, high contrast, crisp reflections.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

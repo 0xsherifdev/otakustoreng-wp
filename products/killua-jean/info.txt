@@ -1,0 +1,86 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Killua Jean
+SLUG         : killua-jean
+BUMPA ID     : 1145132
+WOO TYPE     : variable
+PARENT SKU   : OSN-1145132
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Trousers
+  - Shop by Anime > Hunter x Hunter
+
+TAGS: Killua jeans, Hunter x Hunter trousers, Killua Zoldyck, anime denim, anime streetwear, unisex jeans, anime trousers, Otaku Store NG
+FRANCHISE: Hunter x Hunter    CHARACTER: Killua Zoldyck
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦27,000
+Total stock   : 310
+VARIATIONS (attribute: Size)
+  M              | ₦27,000 | stock 100  | SKU OSN-1145132-M
+  L              | ₦27,000 | stock 100  | SKU OSN-1145132-L
+  XL             | ₦27,000 | stock 100  | SKU OSN-1145132-XL
+  2XL            | ₦27,000 | stock 10   | SKU OSN-1145132-2XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Assassin-grade denim for the Zoldyck heir
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Move like the Zoldyck heir in these thick-denim Killua jeans. Anime-inspired Hunter x Hunter trousers built for everyday wear, with a sharp street fit and a comfortable, hard-wearing cut. Unisex sizing M to 2XL. Pair them with your matching jersey.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the speed and edge of Killua Zoldyck with these Hunter x Hunter inspired jeans from Otaku Store NG. Cut from thick, structured denim and finished with a clean street silhouette, they hold their shape through long days, late hangouts and convention runs alike. This is a fan-made, anime-inspired design and is not affiliated with or endorsed by the official rights holders.</p>
+<p>Built unisex and easy to style, the Killua Jean drops straight into your everyday rotation. Wear it loud with a matching anime jersey or keep it low-key with a plain tee and trainers.</p>
+<ul>
+<li>Killua Zoldyck / Hunter x Hunter inspired denim trousers</li>
+<li>Thick, structured denim for durability and shape retention</li>
+<li>Unisex fit, available in M, L, XL and 2XL</li>
+<li>Street-ready straight silhouette that pairs with jerseys, hoodies and tees</li>
+<li>Belt loops and standard pocket layout for everyday carry</li>
+<li>Machine washable; turn inside out and wash cold to protect the colour</li>
+<li>Fan / anime-inspired design, not officially licensed or affiliated</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Thick, structured denim that keeps its shape
+  • Killua Zoldyck / Hunter x Hunter inspired streetwear
+  • Unisex sizing from M to 2XL
+  • Clean straight fit that pairs with any jersey or hoodie
+  • Machine washable, built for everyday wear
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (44 chars)        : Killua Jean | Hunter x Hunter Denim Trousers
+Meta Description (147 chars) : Killua Zoldyck Hunter x Hunter inspired jeans in thick denim. Unisex street-fit trousers, sizes M-2XL. Shop fan-made anime denim at Otaku Store NG.
+Focus keyword                       : Killua Hunter x Hunter jeans
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Killua Zoldyck Hunter x Hunter inspired thick denim jeans laid flat, front view, straight street fit
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of folded thick denim jeans on a paper-white #FAFAFA surface against an ink-black #111111 backdrop. Single manga-red #E2261C accent in a lightning-bolt motif nodding to Killua. Halftone dot shading, sharp speed lines and a faint ink-splatter border framing the trousers in a manga panel. Premium, cinematic, high-contrast lighting; crisp denim texture and stitching detail in focus. No text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

@@ -1,0 +1,86 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Blue Lock Chains
+SLUG         : blue-lock-chains
+BUMPA ID     : 1134688
+WOO TYPE     : variable
+PARENT SKU   : OSN-1134688
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Blue Lock
+
+TAGS: Blue Lock, Blue Lock chain, anime necklace, anime pendant, anime chain, chains and necklaces, football anime merch, anime accessories, anime-inspired jewellery
+FRANCHISE: Blue Lock    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦5,500
+Total stock   : 400
+VARIATIONS (attribute: Style)
+  1              | ₦5,500 | stock 200  | SKU OSN-1134688-1
+  2              | ₦5,500 | stock 200  | SKU OSN-1134688-2
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Striker-grade ink for your everyday kit.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Step onto the street wearing the Blue Lock roster. This anime-inspired pendant chain brings bold striker energy in a tarnish-resistant finish, with two designs to pick from. Lightweight, everyday-ready, and built to turn heads at the next match-day fit.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Enter the Blue Lock arena with a chain made for fans who play to win. Inspired by the cutthroat world of football's most ruthless training facility, this pendant necklace channels pure striker energy into a clean, wearable piece you can rock with jerseys, hoodies, or a sharp casual fit. The manga-bold pendant sits front and centre, ready to back up every goal you call.</p>
+<p>Choose between two distinct designs and lock in the look that matches your style. Built from durable, tarnish-resistant metal, it stays sharp through training, match day, and everything after. Fan-made and anime-inspired, not affiliated with or endorsed by the official rights holders.</p>
+<ul>
+<li><strong>Theme:</strong> Blue Lock anime-inspired pendant necklace</li>
+<li><strong>Design options:</strong> choose from Style 1 or Style 2</li>
+<li><strong>Material:</strong> durable, tarnish-resistant metal pendant on a matching chain</li>
+<li><strong>Finish:</strong> bold pendant detailing with a clean everyday-wear look</li>
+<li><strong>Fit:</strong> standard adjustable-style chain that sits comfortably for daily wear</li>
+<li><strong>Wear:</strong> lightweight and versatile for jerseys, hoodies, and casual fits</li>
+<li><strong>Care:</strong> wipe clean with a soft, dry cloth; store away from moisture</li>
+<li><strong>Status:</strong> fan / anime-inspired design, not official or licensed</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Blue Lock anime-inspired pendant chain for true striker fans
+  • Two designs to choose from (Style 1 or Style 2)
+  • Durable, tarnish-resistant metal that survives daily wear
+  • Lightweight and versatile for jerseys, hoodies, and casual fits
+  • Wipe clean and ready for match day
+  • Fan-made design, not official or licensed
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (58 chars)        : Blue Lock Chains | Anime Pendant Necklace - Otaku Store NG
+Meta Description (154 chars) : Shop Blue Lock Chains at Otaku Store NG. Anime-inspired pendant necklace in tarnish-resistant metal, two designs to pick from. ₦5,500. Ships nationwide &.
+Focus keyword                       : Blue Lock chain necklace
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Blue Lock anime-inspired pendant chain necklace in tarnish-resistant metal
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product studio shot of a Blue Lock anime-inspired metal pendant necklace coiled on a flat surface. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent on the pendant. Halftone dot texture, sharp speed lines radiating from the pendant, subtle ink splatter framing the edges, manga panel border. Premium, cinematic lighting, high contrast, crisp metallic reflections, hero-product composition.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

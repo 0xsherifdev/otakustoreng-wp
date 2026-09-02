@@ -1,0 +1,70 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Glowing Rings
+SLUG         : glowing-rings-1198384
+BUMPA ID     : 1198384
+WOO TYPE     : simple
+PARENT SKU   : OSN-1198384
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Rings
+
+TAGS: glow in the dark ring, anime ring, dragon knot ring, stainless steel ring, luminous ring, anime jewelry, otaku accessories, mens ring
+FRANCHISE: Generic Anime    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦3,000
+Total stock   : 0
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Dragon-knot band that glows in the dark
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Black stainless steel band with a luminous dragon-knot inlay that charges in light and glows green in the dark. Comfortable polished finish, tarnish-resistant for daily wear, and built for every otaku who lets the roster shine after sundown.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some power only shows itself in the dark. The Glowing Ring is a sleek black stainless steel band with an etched dragon-knot inlay that charges up under daylight or lamplight, then burns a quiet green once the lights drop. By day it reads as a clean, premium statement band; by night it turns into pure anime energy on your finger.</p><p>Anime-inspired and built for real wear, the polished surface resists tarnish and shrugs off everyday knocks, so you can rock it to the con, the gym, or the late-night arc binge. Pick your size and wear the roster, even after sundown.</p><ul><li>Material: stainless steel band with a luminous engraved inlay</li><li>Design: etched dragon-knot pattern; glows green after charging in light</li><li>Finish: polished, tarnish-resistant for daily wear</li><li>Colour: black band with light/gold-tone glowing inlay</li><li>Sizing: choose your standard ring size at checkout</li><li>Fit: smooth comfort-style band, unisex</li><li>Care: charge under light to maximise glow; wipe clean with a soft dry cloth, avoid harsh chemicals</li><li>Style: fan / anime-inspired design, not affiliated with any studio</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Glows green in the dark after charging in any light
+  • Etched dragon-knot inlay on a sleek black band
+  • Stainless steel, polished and tarnish-resistant for daily wear
+  • Choose your exact ring size at checkout
+  • Smooth comfort-style fit, unisex design
+  • Ships nationwide and worldwide from Nigeria
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (59 chars)        : Glowing Dragon-Knot Ring | Anime Glow Ring | Otaku Store NG
+Meta Description (155 chars) : Anime-inspired glow-in-the-dark ring: black stainless steel band with a dragon-knot inlay that glows green. Tarnish-resistant. Pick your size. From ₦3,000.
+Focus keyword                       : glow in the dark ring
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.png  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black stainless steel anime glow-in-the-dark ring with a green-glowing dragon-knot inlay worn on a hand
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a single black stainless steel band ring with an etched dragon-knot inlay glowing manga-red #E2261C, standing upright on an ink-black #111111 surface against a paper-white #FAFAFA backdrop. Halftone dot shading, bold diagonal speed lines and a touch of ink splatter framing the ring inside a clean manga panel. Cinematic rim lighting, premium macro detail, single red accent only, high contrast, sharp focus.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

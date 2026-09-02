@@ -1,0 +1,81 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Hidden Leaf Logo Bracelet With Ring
+SLUG         : hidden-leaf-logo-bracelet-with-ring
+BUMPA ID     : 1507844
+WOO TYPE     : simple
+PARENT SKU   : OSN-1507844
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Bracelets
+  - Shop by Anime > Naruto
+
+TAGS: Naruto bracelet, Hidden Leaf, Konoha, anime bracelet with ring, leather cuff, Naruto accessories, anime jewelry, Konoha ring
+FRANCHISE: Naruto    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦6,500
+Total stock   : 5
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Leather cuff and ring, chained by the Leaf.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel the Hidden Leaf with this two-piece set: a studded black leather cuff stamped with the Konoha spiral, chain-linked to a matching engraved ring. Adjustable snap fit, everyday-durable, and built for fans who wear the roster loud.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some clans run deep. This Hidden Leaf set ties your loadout together with a wide black leather cuff anchored by a polished metal plate engraved with the Konoha spiral leaf, finished with rivet studs and a secure snap-button closure. A linked chain runs down to a matching silver-tone ring carved with the same village crest and set with tiny crystal accents.</p>
+<p>It is an anime-inspired fan piece for Naruto devotees — bold enough to headline a fit, comfortable enough to wear daily. Not affiliated with or endorsed by the rights holders.</p>
+<ul>
+<li>Two-piece set: leather cuff bracelet plus a chain-linked statement ring</li>
+<li>Metal plate engraved with the Hidden Leaf (Konoha) spiral symbol</li>
+<li>Black faux-leather band with rivet stud detailing and snap-button closure</li>
+<li>Silver-tone ring with matching crest engraving and crystal-accent shoulders</li>
+<li>Adjustable, everyday-durable fit for most wrists</li>
+<li>Care: keep dry, wipe clean with a soft cloth, store away from moisture</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Konoha spiral engraved on a polished metal plate
+  • Cuff and ring linked by a real chain for a layered look
+  • Genuine-feel black leather with rivet stud detailing
+  • Adjustable snap-button closure for an everyday fit
+  • Crystal-accent ring carved with the matching Leaf crest
+  • Anime-inspired Naruto fan piece, not affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (49 chars)        : Hidden Leaf Logo Bracelet With Ring | Naruto Cuff
+Meta Description (149 chars) : Naruto-inspired Hidden Leaf leather cuff bracelet chained to a matching Konoha ring. Studded, adjustable, everyday-durable. Ships from Nigeria. Just.
+Focus keyword                       : Hidden Leaf bracelet with ring
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black leather Hidden Leaf cuff bracelet with Konoha spiral metal plate, chain-linked to a matching engraved silver Naruto ring
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a black leather cuff bracelet bearing a polished silver plate engraved with the Konoha Hidden Leaf spiral, a fine chain linking down to a matching crystal-accented silver ring. Ink black #111111 backdrop, paper white #FAFAFA rim light, single manga-red #E2261C accent glow behind the metal plate. Halftone dot texture, sharp speed lines radiating from the leaf crest, subtle ink-splatter, framed inside a clean manga panel border. Premium, cinematic, high-contrast, dramatic top-down lighting on the chain links.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

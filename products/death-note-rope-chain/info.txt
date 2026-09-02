@@ -1,0 +1,82 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Death  Note Rope Chain
+SLUG         : death-note-rope-chain
+BUMPA ID     : 1873940
+WOO TYPE     : simple
+PARENT SKU   : OSN-1873940
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+
+TAGS: Death Note, Death Note chain, rope chain, anime necklace, anime chain, anime jewellery, chains & necklaces, anime accessories, otaku store ng, fan-made
+FRANCHISE: Death Note    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,500
+Total stock   : 506
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Write your name on the rope-chain roster
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A Death Note-inspired rope chain for fans who carry the legend. Twisted-link styling in tarnish-resistant metal with a secure clasp and an everyday-tough finish that holds its shine. Anime-inspired streetwear that pairs with tees, hoodies and layered chains.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Step into the Kira mythos with the Death Note Rope Chain, a fan-favourite piece built for collectors who let their drip do the talking. The tightly twisted rope links catch the light from every angle, giving you that bold, weighty street look without the fragile feel of cheap costume jewellery.</p>
+<p>Wear it solo for a clean statement or stack it with rings, dog tags and layered chains to complete your roster. Anime-inspired and made for daily rotation, it is a no-brainer pickup for any Death Note head.</p>
+<ul>
+<li><strong>Theme:</strong> Death Note anime-inspired design (fan-made, not affiliated or official)</li>
+<li><strong>Style:</strong> Twisted rope-chain necklace with a bold streetwear silhouette</li>
+<li><strong>Material:</strong> Durable tarnish-resistant metal alloy finish</li>
+<li><strong>Clasp:</strong> Secure lobster-style closure for confident all-day wear</li>
+<li><strong>Length:</strong> Standard everyday wear length</li>
+<li><strong>Wear:</strong> Layer it or rock it solo; pairs with tees, hoodies and other chains</li>
+<li><strong>Care:</strong> Wipe clean with a soft, dry cloth; keep away from water and perfume</li>
+<li><strong>In the box:</strong> 1x Death Note Rope Chain</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Death Note-inspired rope chain for true fans of the series
+  • Twisted-link design with bold, weighty street appeal
+  • Tarnish-resistant metal finish that keeps its shine
+  • Secure lobster-style clasp for all-day, everyday wear
+  • Layers cleanly with rings, dog tags and other chains
+  • Ships nationwide across Nigeria and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (55 chars)        : Death Note Rope Chain | Anime Necklace - Otaku Store NG
+Meta Description (152 chars) : Death Note-inspired rope chain in tarnish-resistant metal with a secure clasp. Bold anime necklace for fans. Ships from Nigeria, nationwide & worldwide.
+Focus keyword                       : Death Note rope chain
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Death Note-inspired twisted rope-chain necklace in tarnish-resistant metal with lobster clasp
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product studio shot of a twisted metal rope-chain necklace coiled on ink-black #111111 surface, single manga-red #E2261C accent light raking across the polished links, paper-white #FAFAFA highlights catching the twist, halftone-dot background fading to black, sharp speed lines and a faint ink-splatter detail in one corner framed like a manga panel, premium cinematic macro lighting, shallow depth of field, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

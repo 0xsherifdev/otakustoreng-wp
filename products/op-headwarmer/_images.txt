@@ -1,0 +1,7 @@
+filename	url
+01.jpg	https://dodptt9f4zk9h.cloudfront.net/stores/144399/products/4334f2cb740265570a095b45bee1231c9b3d312b.jpeg
+02.jpg	https://dodptt9f4zk9h.cloudfront.net/stores/144399/products/6e470dcaad29a6bef2d9042be81a22ac403fb587.jpeg
+03.jpg	https://dodptt9f4zk9h.cloudfront.net/stores/144399/products/91c70879fb693220e826d6b2dd660fbe1d4bec0f.jpeg
+04.jpg	https://dodptt9f4zk9h.cloudfront.net/stores/144399/products/7ababe480bf9ff97b126e6da8489832079bb2dc9.jpeg
+05.jpg	https://dodptt9f4zk9h.cloudfront.net/stores/144399/products/fe9a9eceb56fc3db8b80f399a32145544f9c1e86.jpeg
+06.jpg	https://dodptt9f4zk9h.cloudfront.net/stores/144399/products/a3551249a9795404bf55af133959ccd018606e9d.jpeg

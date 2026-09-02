@@ -1,0 +1,73 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Jjk Wallet
+SLUG         : jjk-wallet
+BUMPA ID     : 3024786
+WOO TYPE     : variable
+PARENT SKU   : OSN-3024786
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Wallets
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Jujutsu Kaisen wallet, JJK wallet, Sukuna wallet, Gojo wallet, anime wallet, bifold wallet, PU leather wallet, anime card holder
+FRANCHISE: Jujutsu Kaisen    CHARACTER: Sukuna / Satoru Gojo
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦9,000
+Total stock   : 199
+VARIATIONS (attribute: Style)
+  Sukuna         | ₦9,000 | stock 100  | SKU OSN-3024786-SUKUNA
+  Gojou          | ₦9,000 | stock 99   | SKU OSN-3024786-GOJOU
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry cursed energy in your back pocket.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A slim bifold wallet built for JJK fans, with bold Sukuna or Gojo artwork printed across PU leather. Multiple card slots and a note compartment keep your everyday carry sharp, sorted, and unmistakably Jujutsu Kaisen.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some sorcerers carry curses. You carry your cash and cards in style. This Jujutsu Kaisen bifold wallet wraps your everyday essentials in vivid, anime-inspired artwork, with a dramatic Sukuna print framed in chains or a striking blue Satoru Gojo panel. Pick the energy that matches yours.</p><p>Built slim for real pockets, it keeps cards, notes and receipts organised without the bulk, so you can grab and go. A clean everyday carry that lets fellow fans know exactly which roster you ride for.</p><ul><li>Bifold wallet with all-over printed JJK character artwork</li><li>Choose your style: Sukuna or Gojou</li><li>Durable PU leather exterior with stitched edges</li><li>Multiple interior card slots for cards and ID</li><li>Full-width note compartment for cash and receipts</li><li>Slim, lightweight profile for everyday carry</li><li>Wipe clean with a soft, slightly damp cloth</li><li>Fan-made, anime-inspired design; not official or affiliated with the series</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold Sukuna or Gojo artwork printed on PU leather
+  • Slim bifold profile that fits real pockets
+  • Multiple card slots plus a full-width note compartment
+  • Stitched edges for everyday durability
+  • Choose the character that matches your energy
+  • Fan-inspired JJK design, not official
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (44 chars)        : Jujutsu Kaisen Wallet | Sukuna & Gojo Bifold
+Meta Description (151 chars) : JJK bifold wallet with Sukuna or Gojo art on PU leather. Card slots, note compartment, slim everyday carry. Ships from Nigeria, nationwide & worldwide.
+Focus keyword                       : Jujutsu Kaisen wallet
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Two Jujutsu Kaisen bifold wallets on wood, one with Sukuna chain artwork and one with blue Satoru Gojo print
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product studio shot of a slim bifold anime wallet standing open on a flat surface, ink black #111111 background with paper white #FAFAFA negative space, single manga-red #E2261C accent. Halftone dot shading, dynamic speed lines and ink splatter framing the wallet in a manga panel layout. Cinematic premium lighting, sharp focus on the printed character panel and visible card slots, high contrast, editorial product photography feel.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

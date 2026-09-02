@@ -1,0 +1,76 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Itachi N Sasuke Hoodie
+SLUG         : itachi-n-sasuke-hoodie
+BUMPA ID     : 1125265
+WOO TYPE     : variable
+PARENT SKU   : OSN-1125265
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+  - Shop by Anime > Naruto
+
+TAGS: Itachi hoodie, Sasuke hoodie, Naruto hoodie, Akatsuki hoodie, Uchiha hoodie, anime hoodie, pullover hoodie, Naruto merch, streetwear hoodie, anime pullover
+FRANCHISE: Naruto    CHARACTER: Itachi & Sasuke Uchiha
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦22,000
+Total stock   : 500
+VARIATIONS (attribute: Size)
+  M              | ₦22,000 | stock 100  | SKU OSN-1125265-M
+  L              | ₦22,000 | stock 100  | SKU OSN-1125265-L
+  XL             | ₦22,000 | stock 100  | SKU OSN-1125265-XL
+  2XL            | ₦22,000 | stock 100  | SKU OSN-1125265-2XL
+  XXXL           | ₦22,000 | stock 100  | SKU OSN-1125265-XXXL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Two brothers, one split-panel hoodie
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Split black-and-white pullover built around the iconic Itachi and Sasuke forehead-poke panel, with red Akatsuki clouds and inked sleeve symbols. Brushed-fleece warmth, ribbed cuffs and a roomy unisex streetwear fit for everyday wear.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Honour the Uchiha brothers in one look. This split black-and-white pullover frames the unforgettable forehead-poke moment between Itachi and Sasuke in a clean manga panel across the chest, while crimson Akatsuki clouds and inked symbols run down both sleeves. It is a fan-made, anime-inspired piece for those who know exactly what that scene means.</p><p>Underneath the statement print it is a proper streetwear hoodie: thick, brushed-fleece interior for real warmth, a relaxed unisex cut and a kangaroo pocket built for everyday rotation. Throw it on for a campus run or layer it for cooler nights and let the roster do the talking.</p><ul><li>Pullover hoodie with two-tone black and white colour-block body</li><li>Front manga-panel print of the Itachi and Sasuke scene, plus red Akatsuki cloud and symbol detailing on both sleeves</li><li>Thick cotton fabric with brushed-fleece interior for warmth</li><li>Ribbed cuffs and hem to hold shape and lock in heat</li><li>Front kangaroo pocket and adjustable drawstring hood</li><li>Relaxed unisex streetwear fit</li><li>Sizes: M, L, XL, 2XL, XXXL</li><li>Care: machine wash cold inside-out, hang dry to protect the print</li><li>Fan / anime-inspired design, not affiliated with or endorsed by the rights holders</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Iconic Itachi and Sasuke forehead-poke manga panel across the chest
+  • Two-tone black and white split colour-block design
+  • Red Akatsuki clouds and inked symbols down both sleeves
+  • Thick cotton with brushed-fleece interior for genuine warmth
+  • Ribbed cuffs, hem and a kangaroo pocket in a relaxed unisex fit
+  • Sizes M through XXXL
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (49 chars)        : Itachi & Sasuke Hoodie | Naruto Akatsuki Pullover
+Meta Description (148 chars) : Itachi & Sasuke split black-and-white hoodie with the iconic forehead-poke panel and Akatsuki clouds. Brushed-fleece warmth, unisex fit. Ships from.
+Focus keyword                       : Itachi and Sasuke hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Split black and white pullover hoodie featuring an Itachi and Sasuke forehead-poke manga panel on the chest with red Akatsuki clouds and symbols on the sleeves
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a two-tone black and white split pullover hoodie laid on a paper-white #FAFAFA surface, ink black #111111 background panels, single manga-red #E2261C accent on the Akatsuki cloud detail. Halftone dot shading, bold speed lines radiating outward, ink splatter in the corners, framed inside a clean manga panel border. Premium, cinematic lighting; crisp focus on the chest manga-panel print and sleeve symbols. No text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

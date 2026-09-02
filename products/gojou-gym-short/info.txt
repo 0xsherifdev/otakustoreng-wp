@@ -1,0 +1,75 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Gojou gym short
+SLUG         : gojou-gym-short
+BUMPA ID     : 2987890
+WOO TYPE     : variable
+PARENT SKU   : OSN-2987890
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Shorts
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Gojo gym shorts, Jujutsu Kaisen shorts, Gojo Satoru merch, anime gym shorts, 2-in-1 compression shorts, JJK clothing, anime print shorts, mesh workout shorts
+FRANCHISE: Jujutsu Kaisen    CHARACTER: Gojo Satoru
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦16,000
+Total stock   : 399
+VARIATIONS (attribute: Size)
+  L              | ₦16,000 | stock 99   | SKU OSN-2987890-L
+  XL             | ₦16,000 | stock 100  | SKU OSN-2987890-XL
+  2XL            | ₦16,000 | stock 100  | SKU OSN-2987890-2XL
+  3XL            | ₦16,000 | stock 100  | SKU OSN-2987890-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+2-in-1 mesh gym shorts with a Gojo liner
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+2-in-1 Gojo Satoru gym shorts in breathable black mesh with a printed inner compression liner. Elastic red drawstring waist, manga-panel graphics and bold kanji print. Unisex fit built for training, warm weather and easy off-duty layering.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Step onto the mat like the strongest sorcerer alive. These 2-in-1 Gojo Satoru gym shorts pair a breathable black mesh outer with a printed compression liner underneath, so you get airflow on the surface and lock-in support where you move. Manga-panel art runs down one leg of the liner while bold white kanji and an inked hand-sign sit on the mesh, finished with a clean red drawstring that nods to the cursed-energy palette.</p><p>Cut for training days, warm weather and lazy anime-binge afternoons alike, this is a fan-made, anime-inspired piece for the Jujutsu Kaisen faithful who want their fits to hit as hard as Limitless. Wear the roster.</p><ul><li>2-in-1 construction: breathable mesh outer short with a fitted inner compression liner</li><li>Lightweight, quick-drying fabric for ventilation during workouts and warm days</li><li>Elastic waistband with adjustable red drawstring for a secure, custom fit</li><li>Gojo Satoru manga-panel graphics on the liner; white kanji and hand-sign print on the outer leg</li><li>Unisex styling; available in L, XL, 2XL and 3XL</li><li>Versatile for gym sessions, running, lounging or casual streetwear layering</li><li>Machine wash cold, inside out; hang or lay flat to dry to protect the print</li><li>Fan-made and anime-inspired; not official or affiliated with the rights holders</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • 2-in-1 design: airy mesh outer plus a supportive inner compression liner
+  • Gojo Satoru manga-panel art with bold kanji and hand-sign print
+  • Lightweight, breathable, quick-drying fabric for training and warm weather
+  • Elastic waist with adjustable red drawstring for a locked-in fit
+  • Unisex sizing from L to 3XL
+  • Fan-made, anime-inspired Jujutsu Kaisen gear
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (51 chars)        : Gojo 2-in-1 Gym Shorts | Jujutsu Kaisen Mesh Shorts
+Meta Description (152 chars) : Gojo Satoru 2-in-1 gym shorts: breathable black mesh, printed compression liner, manga art and red drawstring. Unisex L-3XL. Fan-made JJK gear. ₦16,000.
+Focus keyword                       : Gojo gym shorts
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black 2-in-1 Gojo Satoru gym shorts with red drawstring, white kanji print and Jujutsu Kaisen manga-panel compression liner
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of black 2-in-1 mesh gym shorts laid flat on paper-white #FAFAFA seamless, ink black #111111 fabric, single manga-red #E2261C drawstring as the only color accent. White kanji and inked hand-sign print on the outer leg, black-and-white manga-panel art on the inner compression liner peeking out. Halftone dot shading, sharp speed lines radiating from the shorts, subtle ink splatter in the corners, framed inside a clean manga panel border. Premium, cinematic, high-contrast, dramatic top lighting, crisp focus.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Tanjiro Wooden Katana
+SLUG         : tanjiro-wooden-katana
+BUMPA ID     : 4032643
+WOO TYPE     : simple
+PARENT SKU   : OSN-4032643
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Katana & Weapons
+  - Shop by Anime > Demon Slayer
+
+TAGS: Tanjiro wooden katana, Demon Slayer katana, Tanjiro Kamado, wooden katana, anime cosplay sword, Nichirin blade replica, anime weapon prop, Demon Slayer cosplay
+FRANCHISE: Demon Slayer    CHARACTER: Tanjiro Kamado
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦40,000
+Total stock   : 500
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carved for the Water Breathing faithful.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A solid wooden display katana inspired by Tanjiro Kamado's blade. Carved tsuka-style grip and matching saya make it a clean cosplay prop and shelf-ready collector piece for any Demon Slayer fan.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the calm of Water Breathing with this Tanjiro Kamado wooden katana, a fan-made tribute to Demon Slayer's lead Slayer. Hand-finished in solid wood, it carries the silhouette of Tanjiro's signature Nichirin blade without a sharpened edge, so it stays a safe, photogenic display and cosplay piece rather than a functional weapon.</p><p>Whether you're locking in a convention fit or filling out an otaku shelf, the carved handle and matching scabbard give you a clean, dramatic centrepiece. Wear the roster.</p><ul><li>Anime-inspired design modelled on Tanjiro Kamado's Nichirin-style katana</li><li>Solid wood (bokken-style) construction with a smooth, blunt non-functional blade</li><li>Carved handle finished to echo a wrapped tsuka grip</li><li>Includes a matching wooden scabbard (saya) for display and transport</li><li>Built as a decorative collector and cosplay prop, not a real weapon</li><li>Wipe clean with a dry cloth; keep away from moisture and direct heat</li><li>Keep away from children; follow your local laws on display blades</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Inspired by Tanjiro Kamado's Nichirin blade from Demon Slayer
+  • Solid wood, bokken-style build with a blunt, non-functional edge
+  • Carved handle styled after a wrapped tsuka grip
+  • Matching wooden scabbard (saya) included
+  • Cosplay-ready prop and shelf centrepiece
+  • Fan / anime-inspired design, not official or affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (50 chars)        : Tanjiro Wooden Katana | Demon Slayer Display Sword
+Meta Description (153 chars) : Tanjiro Kamado wooden katana from Demon Slayer. Solid-wood display and cosplay prop with carved grip and matching saya. Ships from Nigeria, nationwide &.
+Focus keyword                       : Tanjiro wooden katana
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Tanjiro Kamado inspired wooden katana with carved tsuka-style grip and matching wooden scabbard, a Demon Slayer cosplay and display prop
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a wooden cosplay katana inspired by Tanjiro Kamado, displayed diagonally on an ink-black #111111 surface with paper-white #FAFAFA halftone-dot background, a single manga-red #E2261C accent slashing behind the blade as a speed-line streak; subtle ink splatter and manga-panel framing, dramatic cinematic side light raking across the carved grain of the grip and the matching saya, premium collector vibe, high contrast, sharp focus.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

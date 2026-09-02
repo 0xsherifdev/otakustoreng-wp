@@ -1,0 +1,75 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Goku Jersey
+SLUG         : goku-jersey
+BUMPA ID     : 2193829
+WOO TYPE     : variable
+PARENT SKU   : OSN-2193829
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Jerseys
+  - Shop by Anime > Dragon Ball
+
+TAGS: Goku, Dragon Ball, anime jersey, all-over print, dye sublimation, Saiyan, anime streetwear, football jersey, Dragon Ball Z
+FRANCHISE: Dragon Ball    CHARACTER: Goku
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦23,000
+Total stock   : 29
+VARIATIONS (attribute: Size)
+  L              | ₦23,000 | stock 9    | SKU OSN-2193829-L
+  XL             | ₦23,000 | stock 10   | SKU OSN-2193829-XL
+  2XL            | ₦23,000 | stock 10   | SKU OSN-2193829-2XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Saiyan power meets the pitch.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Suit up as the legendary Saiyan. This all-over-print Goku jersey fuses a Dragon Ball x Japan football crossover with rising-sun energy, lightweight breathable polyester, and edge-to-edge dye-sublimated graphics built for conventions, match nights, and everyday flex.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Power up your fit with the Goku Jersey, a head-turning Dragon Ball x Japan football crossover that drops the legendary Saiyan straight onto the pitch. The all-over-print design wraps a bold ink-and-red Goku silhouette around a rising-sun backdrop, finished with ドラゴンボール katakana, a Japan-style crest, and the 悟 collar kanji for true-to-kit team styling.</p><p>Dye-sublimated edge to edge, the graphics never crack, peel, or fade. Lightweight and breathable, this jersey is built for convention floors, match-watch parties, and streetwear layering all year round. Available in the white rising-sun colourway and the bold manga-red on black. Secure checkout, fast nationwide and worldwide delivery, and easy returns on every order.</p><ul><li><strong>Material:</strong> 100% polyester, lightweight and breathable</li><li><strong>Print:</strong> All-over dye-sublimation, vivid edge-to-edge graphics that won't crack or fade</li><li><strong>Fit:</strong> Unisex, true to size; between sizes? Size up</li><li><strong>Sizing:</strong> Available in L, XL, 2XL</li><li><strong>Care:</strong> Machine wash cold inside-out, hang dry, do not iron print directly</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • All-over-print Dragon Ball x Japan football crossover featuring Goku
+  • Vivid dye-sublimated graphics, edge to edge, won't crack or fade
+  • Lightweight 100% polyester, breathable for all-day wear
+  • Unisex true-to-size fit in L, XL and 2XL
+  • Perfect for conventions, match nights, and streetwear layering
+  • Secure checkout with fast nationwide and worldwide delivery
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (46 chars)        : Goku Anime Jersey | Dragon Ball All-Over Print
+Meta Description (153 chars) : Shop the Goku anime jersey: all-over-print Dragon Ball x Japan football crossover in breathable polyester. Sizes L-2XL. Fast worldwide delivery. ₦23,000.
+Focus keyword                       : Goku anime jersey
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Goku Dragon Ball all-over-print anime jersey with rising-sun graphic, Japan-style crest and Dragon Ball katakana
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga aesthetic studio product shot of an all-over-print anime football jersey featuring a bold Goku silhouette. High-contrast monochrome palette of ink black #111111 and paper white #FAFAFA with a single bold manga-red #E2261C accent used sparingly as a rising-sun disc behind the figure. Halftone screentone dots, dynamic manga speed lines, brush-ink splatter, manga panel layout framing. Premium anime-streetwear mood, cinematic lighting, jersey displayed on an invisible mannequin against an ink-black backdrop with subtle red rim light. Crisp, bold, high-end catalog feel.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - QA fixes applied: Long description used "for that authentic team-kit feel" — "authentic" brushes against prohibited authenticity/trademark-claiming language for an unlicensed jersey referencing a real Japan football kit. Reworded to "for true-to-kit team styling" to describe the aesthetic without claiming authenticity. All other fields compliant: SEO title 46 chars, meta description 153 chars, franchise/character correct (Goku / Dragon Ball), sizing consistent (L, XL, 2XL), generic-true polyester sublimation claims, valid HTML (no <h1>), and global (not Nigeria-only) shipping framing.
+================================================================================

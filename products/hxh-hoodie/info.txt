@@ -1,0 +1,92 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Hxh Hoodie
+SLUG         : hxh-hoodie
+BUMPA ID     : 2964580
+WOO TYPE     : variable
+PARENT SKU   : OSN-2964580
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+  - Shop by Anime > Hunter x Hunter
+
+TAGS: Hunter x Hunter hoodie, HxH hoodie, anime hoodie, Hunter x Hunter merch, anime streetwear, pullover hoodie, graphic hoodie, unisex hoodie
+FRANCHISE: Hunter x Hunter    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦18,500
+Total stock   : 800
+VARIATIONS (attribute: Size & Material)
+  L-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964580-LTHICKCOTTON
+  L-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964580-LTHICKPOLYESTER
+  Xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964580-XLTHICKCOTTON
+  Xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964580-XLTHICKPOLYESTER
+  2xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964580-2XLTHICKCOTTON
+  2xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964580-2XLTHICKPOLYESTER
+  3xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964580-3XLTHICKCOTTON
+  3xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964580-3XLTHICKPOLYESTER
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Nen up your fit with Hunter x Hunter ink
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A brushed-fleece Hunter x Hunter hoodie built for daily wear. Choose thick cotton or thick polyester, pick your size, and rep the roster with ribbed cuffs, a roomy kangaroo pocket and a clean unisex streetwear fit.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Pull on the HxH Hoodie and bring the Hunter Exam energy to the streets. This anime-inspired pullover pairs bold Hunter x Hunter graphics with a brushed-fleece interior that keeps you warm without the bulk, while ribbed cuffs and hem lock in a clean, lived-in shape wash after wash.</p>
+<p>Cut for an easy unisex streetwear fit, it layers as well over a tee as it does under a jacket. Choose between thick cotton for that soft, breathable feel or thick polyester for extra durability and structure, then size up for a relaxed drape. Built for fans who wear the roster every day.</p>
+<ul>
+<li>Anime-inspired Hunter x Hunter graphic print (fan-made, not affiliated with or endorsed by the rights holders)</li>
+<li>Pullover hoodie with roomy kangaroo front pocket</li>
+<li>Brushed-fleece interior for cosy warmth</li>
+<li>Ribbed cuffs and hem to hold their shape</li>
+<li>Unisex streetwear fit</li>
+<li>Fabric choice: Thick Cotton or Thick Polyester</li>
+<li>Sizes: L, XL, 2XL, 3XL</li>
+<li>Adjustable drawstring hood</li>
+<li>Care: machine wash cold, inside-out; do not bleach; hang or tumble dry low</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold Hunter x Hunter anime-inspired graphic print
+  • Brushed-fleece interior for everyday warmth
+  • Ribbed cuffs and hem plus a roomy kangaroo pocket
+  • Pick your fabric: thick cotton or thick polyester
+  • Unisex streetwear fit, sizes L to 3XL
+  • Adjustable drawstring hood for an easy layer
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (41 chars)        : HxH Hoodie | Hunter x Hunter Anime Hoodie
+Meta Description (153 chars) : Hunter x Hunter HxH hoodie with brushed-fleece lining, kangaroo pocket and unisex fit. Pick thick cotton or polyester, sizes L-3XL. Ships worldwide from.
+Focus keyword                       : Hunter x Hunter hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Hunter x Hunter HxH pullover hoodie with anime graphic print, drawstring hood and kangaroo pocket
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a folded Hunter x Hunter anime pullover hoodie on ink-black #111111 surface, paper-white #FAFAFA backdrop, single manga-red #E2261C accent on the drawstring and graphic. Halftone-dot shading, dramatic speed lines radiating behind the garment, ink-splatter accents framed in manga panels. Cinematic side lighting raking across the brushed-fleece texture and ribbed cuffs, premium e-commerce hero composition, high detail, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

@@ -1,0 +1,75 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Sukuna Hoodie
+SLUG         : sukuna-hoodie
+BUMPA ID     : 3167910
+WOO TYPE     : variable
+PARENT SKU   : OSN-3167910
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Sukuna hoodie, Jujutsu Kaisen hoodie, anime hoodie, Sukuna, Malevolent Shrine, King of Curses, JJK merch, anime streetwear
+FRANCHISE: Jujutsu Kaisen    CHARACTER: Sukuna
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦21,000
+Total stock   : 79
+VARIATIONS (attribute: Size)
+  L              | ₦21,000 | stock 20   | SKU OSN-3167910-L
+  XL             | ₦21,000 | stock 20   | SKU OSN-3167910-XL
+  2XL            | ₦21,000 | stock 19   | SKU OSN-3167910-2XL
+  3XL            | ₦21,000 | stock 20   | SKU OSN-3167910-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The King of Curses, printed front to back.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A black pullover hoodie built for Sukuna fans, with his cursed eye markings on the front, Japanese script down the sleeve and a bold Malevolent Shrine graphic across the back. Brushed-fleece warmth, unisex streetwear fit.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the King of Curses every time you throw this on. The Sukuna Hoodie pairs his iconic cursed forehead marking and sharp eyes on the chest with bold Japanese script running down the sleeve, then drops the full Malevolent Shrine domain graphic and kanji across the back. Crisp white ink on deep black makes the artwork hit hard whether you wear it hood-up on a cold night or layered over a tee.</p><p>Cut as a relaxed unisex pullover with a brushed-fleece interior for everyday warmth, it is anime-inspired streetwear made for fans who want their roster on full display. A fan-made design, not affiliated with or endorsed by the official rights holders.</p><ul><li>Style: pullover hoodie with front kangaroo pocket and adjustable drawstring hood</li><li>Print: front cursed-eye marking, Japanese script down one sleeve, Malevolent Shrine graphic on the back</li><li>Interior: soft brushed fleece for warmth and comfort</li><li>Finish: ribbed cuffs and hem to hold shape</li><li>Fit: unisex streetwear cut, true-to-size</li><li>Colour: black with white print</li><li>Sizes: L, XL, 2XL, 3XL</li><li>Care: machine wash cold, inside-out; do not iron directly over the print</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Sukuna cursed-eye marking printed across the front
+  • Malevolent Shrine domain graphic on the back
+  • Japanese script detail running down the sleeve
+  • Brushed-fleece interior for cosy warmth
+  • Ribbed cuffs and hem plus a kangaroo pocket
+  • Unisex streetwear fit in sizes L to 3XL
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : Sukuna Hoodie | Jujutsu Kaisen Anime Pullover
+Meta Description (150 chars) : Sukuna Hoodie with cursed-eye front print and Malevolent Shrine back graphic. Brushed-fleece Jujutsu Kaisen pullover, sizes L-3XL. Ships from Nigeria.
+Focus keyword                       : Sukuna hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black Sukuna pullover hoodie showing the cursed-eye forehead marking on the front and the Malevolent Shrine graphic with kanji on the back
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a black anime-inspired pullover hoodie on an invisible mannequin, ink black #111111 background with paper white #FAFAFA lighting and a single manga-red #E2261C accent slash. Front shows a sharp white cursed-eye forehead marking; halftone dot shading, dramatic speed lines radiating outward, ink splatter framing the edges, arranged in clean manga panels. Premium, cinematic, high-contrast streetwear catalogue look, crisp fabric texture and ribbed cuffs visible.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

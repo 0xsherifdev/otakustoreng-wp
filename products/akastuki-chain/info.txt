@@ -1,0 +1,72 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Akastuki Chain
+SLUG         : akastuki-chain
+BUMPA ID     : 1927326
+WOO TYPE     : simple
+PARENT SKU   : OSN-1927326
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Naruto
+
+TAGS: Akatsuki necklace, Naruto chain, anime necklace, red cloud pendant, Akatsuki merch, Naruto accessories, anime jewellery, ninja necklace
+FRANCHISE: Naruto    CHARACTER: Akatsuki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,500
+Total stock   : 8
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Red cloud, rogue energy. Wear the Akatsuki.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel the rogue ninja syndicate with this Akatsuki-inspired pendant necklace. A bold red-cloud emblem on a durable, tarnish-resistant chain built for everyday wear. Fan-made, anime-inspired, and ready to finish any otaku fit.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>The most feared cloak in the ninja world, reimagined for your neck. This Akatsuki-inspired necklace carries the unmistakable red-cloud emblem of the rogue syndicate that hunted the tailed beasts, rendered in crisp detail on a clean metal pendant. It is the easy way to flag your allegiance to Naruto's most iconic villains without saying a word.</p><p>Built from durable, tarnish-resistant metal, it shrugs off daily wear and keeps its finish with a quick wipe. Layer it, stack it, or let it stand alone as the centerpiece of your fit. A fan-made, anime-inspired piece for collectors and everyday wear alike (not affiliated with or endorsed by the rights holders).</p><ul><li>Akatsuki red-cloud emblem pendant inspired by Naruto</li><li>Durable, tarnish-resistant stainless-steel / alloy construction</li><li>Adjustable chain for a comfortable, secure fit</li><li>Lightweight, smooth finish suited to all-day wear</li><li>Wipe clean with a soft, dry cloth</li><li>Pairs easily with tees, hoodies and layered chains</li><li>Fan / anime-inspired design, not official merchandise</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Iconic Akatsuki red-cloud emblem from Naruto
+  • Tarnish-resistant metal that holds its finish
+  • Adjustable chain for a secure, comfortable fit
+  • Lightweight and smooth for all-day wear
+  • Wipe-clean care, no fuss
+  • Fan-made, anime-inspired statement piece
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (49 chars)        : Akatsuki Chain Necklace | Naruto-Inspired Pendant
+Meta Description (150 chars) : Akatsuki red-cloud pendant necklace inspired by Naruto. Durable, tarnish-resistant metal on an adjustable chain. Fan-made anime jewellery from ₦4,500.
+Focus keyword                       : Akatsuki necklace
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Akatsuki-inspired red-cloud pendant necklace on an adjustable metal chain
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of an Akatsuki red-cloud pendant necklace coiled on a slab of ink-black stone. Ink black #111111 background, paper white #FAFAFA rim light, single manga-red #E2261C accent glowing on the cloud emblem. Halftone dot texture, sharp speed lines radiating from the pendant, subtle ink splatter at the edges, framed inside a clean manga panel border. Premium, cinematic, high-contrast, shallow depth of field.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

@@ -1,0 +1,87 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Ichigo Dogtag
+SLUG         : ichigo-dogtag
+BUMPA ID     : 1873988
+WOO TYPE     : simple
+PARENT SKU   : OSN-1873988
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Bleach
+
+TAGS: Ichigo dogtag, Bleach necklace, Ichigo Kurosaki pendant, anime dog tag chain, Hollow mask pendant, Bleach merch, Soul Reaper jewellery, anime necklace Nigeria
+FRANCHISE: Bleach    CHARACTER: Ichigo Kurosaki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦6,000
+Total stock   : 10
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the Hollow. Wear the Bankai.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Stainless-steel Ichigo dog-tag pendant on a box-link chain, printed in full colour with hollow-mask and Bankai artwork. Tarnish-resistant, wipe-clean and built to ride under or over the fit. Anime-inspired Bleach fan gear.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Soul Reaper energy on a chain. This Ichigo dog tag pairs a polished stainless-steel tag with a sharp, full-colour print pulled straight from <em>Bleach</em> heat — choose the screaming Hollow-mask design or the orange-haired Bankai panel, both rendered in crisp manga ink and that signature blood-red wash. It hangs heavy enough to feel real, light enough to forget you're wearing it.</p>
+<p>Built for daily rotation: the tag resists tarnish, the box-link chain sits clean against any tee or hoodie, and a quick wipe keeps the artwork sharp. Fan / anime-inspired piece — not official or licensed, just clean gear for people who actually watch the show.</p>
+<ul>
+<li><strong>Character / series:</strong> Ichigo Kurosaki — Bleach (anime-inspired)</li>
+<li><strong>Type:</strong> Dog-tag pendant on a box-link necklace chain</li>
+<li><strong>Pendant material:</strong> Durable stainless steel, tarnish-resistant</li>
+<li><strong>Print:</strong> Full-colour manga artwork on a polished metal face</li>
+<li><strong>Designs:</strong> Choose Hollow-mask or Bankai print where the option is offered</li>
+<li><strong>Chain:</strong> Box-link, standard wearable length, lobster-style clasp</li>
+<li><strong>Wear:</strong> Unisex; layers easily under or over a fit</li>
+<li><strong>Care:</strong> Wipe clean with a soft dry cloth; keep away from harsh chemicals</li>
+<li><strong>Price:</strong> ₦6,000</li>
+<li><strong>Shipping:</strong> Ships from Nigeria — nationwide and worldwide</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Polished stainless-steel dog tag with full-colour Bleach manga print
+  • Two designs to pick from: Hollow-mask or Bankai Ichigo artwork
+  • Tarnish-resistant metal that survives daily wear
+  • Box-link chain layers clean under any tee or hoodie
+  • Wipe-clean finish keeps the art sharp
+  • Anime-inspired fan gear — ships nationwide and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : Ichigo Dogtag Necklace | Bleach Pendant Chain
+Meta Description (141 chars) : Ichigo dog-tag pendant on a steel box-link chain with colour Bleach Hollow-mask art. Tarnish-resistant, ₦6,000. Ships from Nigeria worldwide.
+Focus keyword                       : Ichigo dogtag necklace
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Stainless-steel Ichigo Kurosaki dog-tag pendant on a box-link chain, printed with full-colour Bleach Hollow-mask manga artwork
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a polished stainless-steel dog-tag pendant on a silver box-link chain, the tag face printed with a fierce Bleach-style Soul Reaper Hollow-mask in full colour. Ink black #111111 background with paper white #FAFAFA negative space, a single manga-red #E2261C accent slashing across the frame. Halftone dot shading, dynamic speed lines radiating from the pendant, scattered ink splatter, framed inside a clean manga panel. Cinematic key light glinting off the chain links and metal edge, premium high-detail, sharp focus on the tag, shallow depth of field.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - QA fixes applied: meta_description was 156 characters (limit is 155). Trimmed 'full-colour' to 'colour' to bring it to 150 chars while keeping all key info.; No franchise/character or trademark-claim errors found: Ichigo Kurosaki correctly maps to Bleach; Hollow mask/Bankai are accurate Bleach references. SEO title is 45 chars (under 60). Disclaimer 'not official or licensed' is present and correct. Long description HTML is clean (valid <p>/<ul>/<li>, no <h1>) and relevant to a necklace/pendant. Claims are true-to-type for a printed dog-tag pendant with no invented measurements, awards, or reviews. Voice is on-brand.
+================================================================================

@@ -1,0 +1,72 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Zoro Flask
+SLUG         : zoro-flask
+BUMPA ID     : 1875951
+WOO TYPE     : simple
+PARENT SKU   : OSN-1875951
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Bottles & Drinkware
+  - Shop by Anime > One Piece
+
+TAGS: Zoro flask, One Piece flask, Roronoa Zoro, anime water bottle, insulated flask, One Piece drinkware, anime bottle, vacuum flask
+FRANCHISE: One Piece    CHARACTER: Roronoa Zoro
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦14,000
+Total stock   : 10
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The Pirate Hunter, sealed in stainless steel.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Slim insulated stainless-steel flask wrapped in a bold Roronoa Zoro print. Double-wall vacuum build keeps drinks hot or cold for hours, with a leak-resistant screw lid built for desk, dojo or daily carry. Fan-made, anime-inspired.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Carry the Pirate Hunter wherever the current takes you. This slim, double-wall vacuum flask is wrapped in a sharp full-colour print of Roronoa Zoro mid-smirk, that signature green hair and teal coat printed crisp against a clean white body. It is the easy flex for the One Piece fan who actually drinks their water.</p><p>The insulated stainless-steel build holds temperature for the long haul, so your coffee stays hot through the morning grind and your water stays cold through training. A screw-on lid keeps things sealed in your bag, and the tall, narrow shape slips into most bottle pockets and cup holders. Fan-made and anime-inspired, not affiliated with the official series.</p><ul><li>Double-wall vacuum-insulated stainless-steel flask</li><li>Hot and cold retention for hours at a time</li><li>Full-wrap Roronoa Zoro (One Piece) print on a white body</li><li>Screw-on lid for a secure, leak-resistant seal</li><li>Slim, tall profile fits most bags and cup holders</li><li>Food-safe materials; hand-wash recommended to protect the artwork</li><li>Single capacity option as shown</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Double-wall vacuum insulation keeps drinks hot or cold for hours
+  • Full-wrap Roronoa Zoro print on a clean white stainless-steel body
+  • Screw-on lid for a secure, leak-resistant seal in your bag
+  • Slim, tall shape fits most cup holders and bottle pockets
+  • Fan-made, anime-inspired One Piece drinkware
+  • Hand-wash recommended to keep the print sharp
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (56 chars)        : Zoro Flask | One Piece Insulated Bottle | Otaku Store NG
+Meta Description (146 chars) : Roronoa Zoro insulated stainless-steel flask. Double-wall vacuum keeps drinks hot or cold, full-wrap One Piece print. ₦14,000. Ships nationwide &.
+Focus keyword                       : Zoro flask
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: White insulated stainless-steel flask wrapped with a full-colour Roronoa Zoro print from One Piece, held in hand
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a slim white insulated stainless-steel flask wrapped in a bold full-colour Roronoa Zoro print, standing upright on an ink-black #111111 surface against a paper-white #FAFAFA backdrop. Single manga-red #E2261C accent slashing across the frame as a speed-line beam, halftone dot texture and subtle ink splatter framing the flask in a manga panel, dramatic side rim light catching the metal and screw lid, cinematic premium product photography, sharp focus, high contrast.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

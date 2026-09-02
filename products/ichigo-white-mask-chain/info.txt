@@ -1,0 +1,73 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Ichigo White Mask Chain
+SLUG         : ichigo-white-mask-chain
+BUMPA ID     : 1927346
+WOO TYPE     : simple
+PARENT SKU   : OSN-1927346
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Bleach
+
+TAGS: Ichigo white mask chain, Bleach necklace, Ichigo Hollow mask pendant, anime chain, Bleach merch, Ichigo Kurosaki, Hollow mask necklace, Visored mask chain, anime necklace Nigeria, stainless steel anime pendant
+FRANCHISE: Bleach    CHARACTER: Ichigo Kurosaki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦5,500
+Total stock   : 504
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The Hollow mask, cast in steel.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel Ichigo's Hollow form with this white mask pendant chain. The fanged Visored design, cast in tarnish-resistant stainless steel on an adjustable chain. Lightweight, everyday-tough, and unmistakably Bleach.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>When the mask drops, the rules change. This Ichigo White Mask Chain captures the most iconic moment in <em>Bleach</em> — the white Hollow mask with its red markings and bared fangs — and turns it into a pendant you can wear every day. Every ridge and tooth is sculpted into the metal, so the silhouette reads clean from across the room and rewards a closer look.</p><p>Built to live in your rotation, not your drawer. The tarnish-resistant finish shrugs off sweat and daily wear, the chain length adjusts to sit how you like it, and the whole piece stays light around the neck. Stack it with the rest of your roster or let the Hollow ride solo.</p><ul><li><strong>Design:</strong> Ichigo Kurosaki white Hollow / Visored mask pendant (Bleach-inspired)</li><li><strong>Material:</strong> Durable stainless-steel / alloy, tarnish-resistant finish</li><li><strong>Chain:</strong> Adjustable-length neck chain, lightweight for all-day wear</li><li><strong>Includes:</strong> One mask pendant on chain</li><li><strong>Care:</strong> Wipe clean with a soft, dry cloth; keep away from harsh chemicals</li><li><strong>Wear it with:</strong> Other Bleach pieces or your wider anime stack</li></ul><p>Price: ₦5,500. Ships from Nigeria, nationwide and worldwide. Fan-made, anime-inspired merch — not official or licensed, and not affiliated with the rights holders.</p>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Ichigo's white Hollow mask sculpted as a wearable pendant
+  • Tarnish-resistant stainless-steel / alloy build for daily wear
+  • Adjustable chain length sits exactly how you like it
+  • Lightweight and comfortable enough to wear all day
+  • Easy care - just wipe clean with a soft, dry cloth
+  • Ships from Nigeria, nationwide and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (48 chars)        : Ichigo White Mask Chain - Bleach Hollow Necklace
+Meta Description (142 chars) : Ichigo Hollow white mask pendant chain from Bleach. Tarnish-resistant steel, adjustable length. Fan-made anime merch, ships worldwide. ₦5,500.
+Focus keyword                       : Ichigo white mask chain
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Ichigo white Hollow mask pendant necklace from Bleach, featuring red markings and fanged teeth on a metal chain
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga style studio product shot of a stainless-steel pendant necklace shaped like Ichigo's white Hollow mask from Bleach — fanged teeth, jagged red marking stripes — pendant rendered in paper white #FAFAFA with a single manga-red #E2261C stripe accent. Ink black #111111 background with halftone dot texture, diagonal speed lines, and a subtle ink-splatter burst behind the pendant. Chain coils elegantly in the foreground. Hard cinematic key light, premium manga-panel framing, sharp focus, high contrast, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+  - QA fixes applied: Lore error: the long_description_html and image_alt described the red markings on Ichigo's white Hollow mask as 'red Quincy stripes.' These markings are Hollow mask markings and are not Quincy-related; calling them 'Quincy stripes' is an inaccurate invented specific. Corrected to 'red markings' (description and image_alt) and 'red marking stripes' (image prompt).
+================================================================================

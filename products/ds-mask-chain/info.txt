@@ -1,0 +1,72 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Ds Mask Chain
+SLUG         : ds-mask-chain
+BUMPA ID     : 1875873
+WOO TYPE     : simple
+PARENT SKU   : OSN-1875873
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Demon Slayer
+
+TAGS: Demon Slayer chain, fox mask necklace, Kimetsu no Yaiba, Sabito mask, Makomo mask, anime pendant necklace, Urokodaki mask, anime accessories
+FRANCHISE: Demon Slayer    CHARACTER: Sabito / Makomo (Fox Mask)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦5,000
+Total stock   : 10
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The Urokodaki fox mask, worn on a chain.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel Urokodaki's warding masks with this Demon Slayer fox-mask pendant on a slim silver-tone chain. White enamel face with crimson markings, choose your design, and wear the roster everywhere you go.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Sakonji Urokodaki carves a fox mask for every disciple before they take Final Selection. This anime-inspired pendant brings that same kitsune face off the screen and onto your chain: a glossy white mask with sharp red markings, finished with cut-out eyes and a snarl that reads instantly to anyone who knows the breathing forms. Two designs are available so you can rep your favourite warding mask.</p><p>Built from a durable, tarnish-resistant metal alloy on a slim silver-tone link chain, it sits clean over a tee or layered with your other Demon Slayer pieces. Lightweight enough for all-day wear, bold enough to start a conversation at the next con. Fan-made and anime-inspired, not affiliated with or endorsed by the rights holders.</p><ul><li>Demon Slayer (Kimetsu no Yaiba) fox / warding mask pendant necklace</li><li>Choice of mask design where shown (red markings vary by style)</li><li>Glossy white enamel-style face with crimson detailing and cut-out eyes</li><li>Durable, tarnish-resistant metal alloy pendant</li><li>Slim silver-tone link chain with lobster-clasp closure</li><li>Wipe clean with a soft, dry cloth; store dry to keep the shine</li><li>Unisex; pairs well with hoodies, tees and layered chains</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Urokodaki-style fox mask pendant straight from Demon Slayer
+  • Glossy white face with sharp crimson markings
+  • Durable, tarnish-resistant alloy on a slim silver-tone chain
+  • Choice of mask design where shown
+  • Lightweight, unisex, all-day comfortable
+  • Fan-inspired, not official
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (53 chars)        : Demon Slayer Fox Mask Chain Necklace | Otaku Store NG
+Meta Description (152 chars) : Demon Slayer fox-mask pendant on a silver-tone chain. White enamel face, crimson markings, choice of design. Fan-inspired. ₦5,000. Ships NG + worldwide.
+Focus keyword                       : Demon Slayer fox mask chain
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Demon Slayer fox-mask pendant necklaces with white enamel faces, red markings and silver-tone chains
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a Demon Slayer-inspired white fox/kitsune mask pendant on a slim silver-tone chain. Ink black #111111 background, paper white #FAFAFA mask with a single manga-red #E2261C accent on the mask markings. Halftone dot texture, dynamic speed lines radiating behind the pendant, subtle ink splatter, framed inside a clean manga panel border. Premium, cinematic lighting, high detail, crisp reflections on the chain.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

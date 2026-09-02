@@ -1,0 +1,76 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Onepiece Luffy T Shirt
+SLUG         : onepiece-luffy-t-shirt-1125414
+BUMPA ID     : 1125414
+WOO TYPE     : variable
+PARENT SKU   : OSN-1125414
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+  - Shop by Anime > One Piece
+
+TAGS: One Piece t-shirt, Luffy t-shirt, Monkey D. Luffy, Straw Hat Pirates, anime t-shirt, One Piece merch, anime apparel, Jolly Roger tee
+FRANCHISE: One Piece    CHARACTER: Monkey D. Luffy
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦15,000
+Total stock   : 497
+VARIATIONS (attribute: Size)
+  M              | ₦15,000 | stock 100  | SKU OSN-1125414-M
+  L              | ₦15,000 | stock 100  | SKU OSN-1125414-L
+  XL             | ₦15,000 | stock 98   | SKU OSN-1125414-XL
+  2XL            | ₦15,000 | stock 100  | SKU OSN-1125414-2XL
+  XXXL           | ₦15,000 | stock 99   | SKU OSN-1125414-XXXL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Fly the Straw Hat flag. Wanted: Dead or Alive.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Black One Piece tee built for the Worst Generation. Straw Hat Jolly Roger on the chest, bold Luffy back graphic, soft cotton-feel fabric and a relaxed unisex fit. A fan-made staple for anyone chasing the One Piece.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Set sail with the King of the Pirates in his sights. This anime-inspired One Piece tee pairs the Straw Hat Pirates Jolly Roger on the chest with a striking Monkey D. Luffy back graphic, so you rep the crew coming and going. The deep black colourway makes that signature manga-red straw hat and white linework pop on every panel.</p><p>Cut for everyday wear with a relaxed unisex fit and a soft, breathable hand-feel, it layers clean under a jacket or stands alone on a hot day. Fan / anime-inspired apparel, not affiliated with or endorsed by the official rights holders.</p><ul><li>Front: Straw Hat Pirates Jolly Roger skull-and-bones print</li><li>Back: bold Monkey D. Luffy "Wanted: Dead or Alive" / Straw Hat graphic</li><li>Soft, breathable cotton-feel fabric for all-day comfort</li><li>Unisex regular fit with a classic crew neck</li><li>Durable, fade-resistant print designed to last wash after wash</li><li>Sizes: M, L, XL, 2XL, XXXL</li><li>Care: machine wash cold, inside-out; do not tumble dry hot</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Straw Hat Jolly Roger front print
+  • Bold Monkey D. Luffy back graphic
+  • Soft, breathable cotton-feel fabric
+  • Unisex regular fit, classic crew neck
+  • Durable fade-resistant print
+  • Sizes M through XXXL
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : One Piece Luffy T-Shirt | Straw Hat Anime Tee
+Meta Description (155 chars) : Black One Piece Luffy t-shirt with Straw Hat Jolly Roger and bold back graphic. Soft cotton-feel, unisex fit, sizes M-XXXL. Ships nationwide and worldwide.
+Focus keyword                       : One Piece Luffy t-shirt
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black One Piece Luffy t-shirt showing the Straw Hat Pirates Jolly Roger on the front and a Monkey D. Luffy Wanted back graphic
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a folded black anime t-shirt featuring the Straw Hat Pirates Jolly Roger skull logo, presented in a single manga panel. Ink black #111111 background, paper white #FAFAFA halftone-dot texture, single manga-red #E2261C accent on the straw hat. Bold diagonal speed lines and a touch of ink splatter framing the garment, cinematic premium lighting, high detail, crisp fabric folds, no text overlays.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

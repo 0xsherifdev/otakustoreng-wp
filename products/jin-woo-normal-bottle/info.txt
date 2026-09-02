@@ -1,0 +1,70 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Jin woo normal bottle
+SLUG         : jin-woo-normal-bottle
+BUMPA ID     : 4430184
+WOO TYPE     : simple
+PARENT SKU   : OSN-4430184
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Bottles & Drinkware
+  - Shop by Anime > Solo Leveling
+
+TAGS: Sung Jinwoo, Solo Leveling, anime water bottle, Solo Leveling merch, Shadow Monarch, anime drinkware, anime bottle, Jinwoo
+FRANCHISE: Solo Leveling    CHARACTER: Sung Jinwoo
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦11,000
+Total stock   : 499
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Hydrate like the Shadow Monarch. Wear the roster.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Carry the Shadow Monarch wherever you go. This Sung Jinwoo water bottle pairs bold Solo Leveling-inspired artwork with a leak-resistant, food-safe build that keeps your daily hydration cold and your fandom loud.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Level up your daily carry with the Jin Woo bottle, a Sung Jinwoo water bottle built for fans who move like the Shadow Monarch. The crisp, anime-inspired artwork wraps the body in pure Solo Leveling energy, so every sip at the gym, in class, or on the grind reps your favourite hunter.</p><p>Designed for everyday use with a secure, leak-resistant lid and a food-safe interior that keeps your water clean and your taste pure. Hand-wash to protect the print and keep the colours sharp drop after drop.</p><ul><li>Sung Jinwoo / Solo Leveling-inspired wrap-around artwork</li><li>Food-safe, BPA-free interior</li><li>Secure, leak-resistant screw lid</li><li>Lightweight everyday water bottle for gym, school and travel</li><li>Single capacity option (no variants)</li><li>Hand-wash recommended to preserve the print</li><li>Fan-made, anime-inspired design; not affiliated with or endorsed by the franchise owners</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold Sung Jinwoo / Solo Leveling-inspired wrap-around print
+  • Food-safe, BPA-free interior for clean, pure-tasting water
+  • Secure leak-resistant lid for bags and backpacks
+  • Lightweight build for gym, school, desk and travel
+  • Hand-wash friendly to keep the artwork vivid
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (50 chars)        : Sung Jinwoo Water Bottle | Solo Leveling Drinkware
+Meta Description (149 chars) : Sung Jinwoo water bottle with bold Solo Leveling-inspired art. Food-safe, leak-resistant build. ₦11,000. Ships from Nigeria nationwide and worldwide.
+Focus keyword                       : Sung Jinwoo water bottle
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Sung Jinwoo Solo Leveling-inspired water bottle with bold character artwork
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of an anime water bottle standing centre frame. Ink black #111111 background with paper white #FAFAFA halftone dots and diagonal speed lines radiating outward, single manga-red #E2261C accent on a slashing ink splatter behind the bottle. Wrap-around Sung Jinwoo-inspired hero artwork glinting under a hard cinematic key light, sharp manga panel framing, premium glossy reflections, dramatic shadow, high-contrast monochrome with one red highlight. No text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

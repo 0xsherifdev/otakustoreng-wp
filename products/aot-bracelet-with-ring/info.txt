@@ -1,0 +1,83 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Aot Bracelet With Ring
+SLUG         : aot-bracelet-with-ring
+BUMPA ID     : 1920124
+WOO TYPE     : simple
+PARENT SKU   : OSN-1920124
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Bracelets
+  - Shop by Anime > Attack on Titan
+
+TAGS: Attack on Titan bracelet, Survey Corps bracelet, Wings of Freedom, anime bracelet, leather cuff bracelet, anime ring, AOT merch, Scout Regiment accessory, anime hand chain, Shingeki no Kyojin
+FRANCHISE: Attack on Titan    CHARACTER: Survey Corps
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦6,500
+Total stock   : 5
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Wings of Freedom cuff, chain and ring set
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A Survey Corps statement piece: a black leather cuff stamped with the Wings of Freedom, linked by a slim chain to a matching emblem ring. Anime-inspired hand-chain set built for everyday wear and full Scout-Regiment energy.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Pledge your heart to humanity. This Attack on Titan hand-chain set pairs a bold black leather cuff with the silver-tone Wings of Freedom emblem front and centre, then runs a slim chain down to a matching Survey Corps ring so the whole look connects across your hand. It is the kind of piece that reads quiet from across the room and unmistakable up close.</p>
+<p>Built for daily rotation and real fans of the Scouts, it layers easily with watches and other cuffs or wears solo as a single hard-hitting statement. Anime-inspired and fan-made, not affiliated with or endorsed by the official rights holders.</p>
+<ul>
+<li>Style: leather cuff bracelet linked by chain to a matching emblem ring (hand-chain set)</li>
+<li>Design: Survey Corps Wings of Freedom emblem on the cuff plate and ring</li>
+<li>Materials: leather-look band with a metal alloy emblem plate, chain and ring</li>
+<li>Colour: black band with silver-tone hardware</li>
+<li>Fit: snap-stud cuff closure; standard one-size ring</li>
+<li>Wear: everyday-durable; layer it or wear it solo</li>
+<li>In the box: 1 cuff bracelet, connecting chain and 1 ring (one connected set)</li>
+<li>Care: keep dry, wipe with a soft cloth, store away from moisture to protect the finish</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Survey Corps Wings of Freedom emblem on both cuff and ring
+  • Cuff-plus-chain-plus-ring hand-chain set for a full statement look
+  • Black leather-look band with silver-tone metal hardware
+  • Snap-stud cuff closure with a standard one-size ring
+  • Everyday-durable: layer it up or wear it solo
+  • Fan-made, anime-inspired Attack on Titan accessory
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (50 chars)        : Attack on Titan Bracelet & Ring Set | Survey Corps
+Meta Description (150 chars) : Attack on Titan leather cuff bracelet linked to a Wings of Freedom ring. Survey Corps hand-chain set, anime-inspired and everyday-durable. Ships from.
+Focus keyword                       : Attack on Titan bracelet
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black leather Attack on Titan cuff bracelet with silver Survey Corps Wings of Freedom emblem, linked by a chain to a matching emblem ring worn on a hand
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga style studio product shot of a black leather cuff bracelet stamped with a silver Survey Corps Wings of Freedom emblem, a slim chain running to a matching silver emblem ring, arranged on ink-black #111111 surface with paper-white #FAFAFA halftone dots and a single manga-red #E2261C accent stripe. Dramatic speed lines and ink splatter framing, manga panel borders, cinematic premium lighting, crisp metallic highlights, high detail.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

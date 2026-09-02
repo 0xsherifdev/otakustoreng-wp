@@ -1,0 +1,87 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Tengen acid tee
+SLUG         : tengen-acid-tee
+BUMPA ID     : 4434842
+WOO TYPE     : variable
+PARENT SKU   : OSN-4434842
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+  - Shop by Anime > Demon Slayer
+
+TAGS: Tengen Uzui, Demon Slayer, acid wash tee, anime t-shirt, Sound Hashira, Kimetsu no Yaiba, vintage faded tee, unisex anime shirt
+FRANCHISE: Demon Slayer    CHARACTER: Tengen Uzui
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦26,000
+Total stock   : 2500
+VARIATIONS (attribute: Size)
+  M              | ₦26,000 | stock 500  | SKU OSN-4434842-M
+  L              | ₦26,000 | stock 500  | SKU OSN-4434842-L
+  XL             | ₦26,000 | stock 500  | SKU OSN-4434842-XL
+  2XL            | ₦26,000 | stock 500  | SKU OSN-4434842-2XL
+  XXXL           | ₦26,000 | stock 500  | SKU OSN-4434842-XXXL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Sound Hashira flair, washed-out and battle-ready
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Tengen Uzui acid-wash tee for Demon Slayer fans. Soft, breathable cotton with a vintage faded finish and a bold fade-resistant front graphic. Unisex regular fit, crew neck. Wear the Sound Hashira loud and louder still.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Flamboyance is a virtue, and this Tengen Uzui acid tee turns it up to eleven. The washed-out, vintage finish gives every piece a one-of-a-kind faded texture, while a high-contrast front graphic channels the Sound Hashira's flashy, no-half-measures energy. This is a fan-made, anime-inspired design built for fans who like their roster loud.</p>
+<p>Cut for everyday wear with a relaxed unisex shape and a clean crew neck, it pairs with anything in your rotation and only gets better the more you wear it. A premium drop for the Demon Slayer faithful.</p>
+<ul>
+<li>Anime-inspired Tengen Uzui (Demon Slayer) front graphic</li>
+<li>Acid-wash / stone-wash finish — vintage faded look, no two exactly alike</li>
+<li>Soft, breathable cotton-feel fabric</li>
+<li>Unisex regular fit with a classic crew neck</li>
+<li>Durable, fade-resistant print</li>
+<li>Available in M, L, XL, 2XL and XXXL</li>
+<li>Care: machine wash cold, inside-out; do not tumble dry on high</li>
+<li>Fan / anime-inspired design — not official or affiliated with any rights holder</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Acid-wash vintage finish with a unique faded texture on every tee
+  • Bold Tengen Uzui front graphic for Demon Slayer fans
+  • Soft, breathable cotton-feel fabric, comfortable all day
+  • Unisex regular fit with a classic crew neck
+  • Durable, fade-resistant print that holds up wash after wash
+  • Sizes M through XXXL
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (48 chars)        : Tengen Acid Tee | Demon Slayer Acid-Wash T-Shirt
+Meta Description (153 chars) : Tengen Uzui acid-wash tee with a vintage faded finish and bold Demon Slayer graphic. Soft cotton, unisex fit, sizes M-XXXL. Ships from Nigeria worldwide.
+Focus keyword                       : Tengen acid wash tee
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Tengen Uzui acid-wash t-shirt with a vintage faded finish and a bold Demon Slayer front graphic
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a folded acid-wash t-shirt featuring a bold Tengen Uzui-inspired graphic. Ink black #111111 background, paper white #FAFAFA tee with mottled stone-wash texture, single manga-red #E2261C accent on the print. Halftone dot shading, dynamic speed lines radiating outward, ink splatter detail, framed in clean manga panel borders. Premium, cinematic, high-contrast studio lighting.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

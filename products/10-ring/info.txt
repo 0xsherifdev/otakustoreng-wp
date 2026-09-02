@@ -1,0 +1,81 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : 10 Ring
+SLUG         : 10-ring
+BUMPA ID     : 1220556
+WOO TYPE     : simple
+PARENT SKU   : OSN-1220556
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Rings
+
+TAGS: anime ring set, stackable rings, anime rings, stainless steel rings, 10 piece ring set, anime accessories, unisex rings, otaku jewelry
+FRANCHISE: Generic Anime    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦28,500
+Total stock   : 0
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Ten stackable anime-inspired rings, one bold set
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A 10-piece anime-inspired ring set in tarnish-resistant stainless steel and alloy. Stack them, mix them, or wear them solo. Polished finish, everyday-tough, and built for fans who let their hands do the talking.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Ten rings. One statement. This anime-inspired 10-piece ring set lets you load up your knuckles like a true collector, mixing bold bands, symbol cuts, and clean stackers into a look that's all your own. Wear the full stack for maximum impact or pull a single favourite for everyday flex.</p>
+<p>Forged from tarnish-resistant stainless steel and alloy with a polished finish, each ring is made to survive daily wear without dulling or discolouring. Fan-made and anime-inspired, not affiliated with any studio or franchise.</p>
+<ul>
+<li>Set of 10 anime-inspired rings</li>
+<li>Material: stainless steel and alloy</li>
+<li>Polished, tarnish-resistant finish for daily wear</li>
+<li>Mixed band styles and widths for stacking or solo wear</li>
+<li>Unisex design suited to most hands</li>
+<li>Available in standard ring sizes (select your size at checkout)</li>
+<li>Wipe clean with a soft dry cloth; avoid harsh chemicals</li>
+<li>Ships nationwide and worldwide from Nigeria</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • 10-piece anime-inspired ring set for instant stacking
+  • Tarnish-resistant stainless steel and alloy build
+  • Polished finish that holds up to daily wear
+  • Mixed styles and widths to stack or wear solo
+  • Unisex sizing in standard ring sizes
+  • Fan-made and anime-inspired, not affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (58 chars)        : 10-Piece Anime Ring Set | Stackable Steel | Otaku Store NG
+Meta Description (145 chars) : Anime-inspired 10-piece ring set in tarnish-resistant stainless steel and alloy. Stack or wear solo, standard sizes. Ships from Nigeria. ₦28,500.
+Focus keyword                       : anime ring set
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.png  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Set of 10 anime-inspired stainless steel and alloy rings in mixed band styles
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product studio shot of a set of ten anime-inspired stainless steel rings arranged in a fanned row and partial stack on a paper-white #FAFAFA surface, ink black #111111 background, single manga-red #E2261C accent stripe behind them, halftone dot texture, sharp speed lines radiating outward, subtle ink splatter in the corner, dramatic manga-panel framing, cinematic premium lighting, high detail, crisp metallic reflections.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

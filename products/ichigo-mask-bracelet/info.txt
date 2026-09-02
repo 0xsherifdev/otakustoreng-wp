@@ -1,0 +1,83 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Ichigo Mask Bracelet
+SLUG         : ichigo-mask-bracelet
+BUMPA ID     : 1134632
+WOO TYPE     : simple
+PARENT SKU   : OSN-1134632
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Bracelets
+  - Shop by Anime > Bleach
+
+TAGS: Ichigo bracelet, Bleach bracelet, Hollow mask, anime bracelet, Ichigo Kurosaki, braided cord bracelet, Bleach accessories, anime jewelry
+FRANCHISE: Bleach    CHARACTER: Ichigo Kurosaki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,000
+Total stock   : 998
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Hollow mask on a braided cord cuff
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel Ichigo's Hollow form with a black braided cord bracelet anchored by a red-and-cream enamel mask charm. Antique-tone bands lock the look in place. Everyday-durable, fan-made Bleach jewelry built to be worn on repeat, not just for cosplay.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>When Ichigo's Hollow takes over, the mask says it all. This anime-inspired Bleach bracelet puts that fanged Hollow mask front and centre as a metal charm, finished in manga-red, grey and bone-cream enamel and seated between two antique-tone accent bands on a black braided cord. It is the kind of subtle, premium piece that reads "fan who knows" without shouting it.</p>
+<p>Built for daily wear, the cord shrugs off scuffs and the charm holds its detail through everyday use. Stack it, solo it, or pair it with the rest of your Bleach roster.</p>
+<ul>
+<li><strong>Design:</strong> Ichigo Hollow mask charm in red, grey and cream enamel detailing</li>
+<li><strong>Style:</strong> Braided cord bracelet with twin metal accent bands</li>
+<li><strong>Finish:</strong> Antique-tone hardware against a matte black cord</li>
+<li><strong>Fit:</strong> Standard wrist fit, unisex</li>
+<li><strong>Wear:</strong> Everyday-durable; lightweight and low-maintenance</li>
+<li><strong>Care:</strong> Wipe clean with a dry cloth; keep away from water, perfume and lotions to protect the enamel</li>
+<li><strong>Includes:</strong> 1 x Ichigo Mask Bracelet</li>
+<li><strong>Note:</strong> Fan-made, anime-inspired design. Not official or affiliated with the rights holders.</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Ichigo Hollow mask charm in red, grey and cream enamel
+  • Black braided cord with antique-tone metal accent bands
+  • Unisex standard fit, comfortable for daily wear
+  • Lightweight, everyday-durable build
+  • Subtle Bleach fan statement piece
+  • Fan-made, anime-inspired, not affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (46 chars)        : Ichigo Hollow Mask Bracelet | Bleach Cord Cuff
+Meta Description (151 chars) : Bleach Ichigo Hollow mask bracelet: black braided cord, antique-tone bands, enamel charm. Fan-made anime jewelry, ₦4,000. Ships nationwide & worldwide.
+Focus keyword                       : Ichigo Hollow mask bracelet
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black braided cord bracelet with an Ichigo Hollow mask charm in red and cream enamel and antique-tone metal bands, worn on a wrist
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a black braided cord bracelet with an Ichigo Hollow mask enamel charm in manga-red and bone-cream, antique brass accent bands. Ink black #111111 backdrop, paper white #FAFAFA negative space, single manga-red #E2261C accent glow. Halftone dot texture, sharp speed lines radiating from the charm, subtle ink splatter, framed inside a clean manga panel border. Premium, cinematic macro lighting, high contrast, crisp metal and braid detail.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

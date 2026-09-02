@@ -1,0 +1,89 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Ds Umbrella Katana
+SLUG         : ds-umbrella-katana
+BUMPA ID     : 1627672
+WOO TYPE     : simple
+PARENT SKU   : OSN-1627672
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Katana & Weapons
+  - Shop by Anime > Demon Slayer
+
+TAGS: Demon Slayer, Daki, umbrella katana, anime katana, display sword, cosplay katana, collectible katana, replica katana
+FRANCHISE: Demon Slayer    CHARACTER: Daki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦32,000
+Total stock   : 10
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The parasol blade of the Entertainment District
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A Demon Slayer-inspired display katana built around Daki's signature umbrella motif. Themed saya, wrapped tsuka and a balanced blade make it a striking centrepiece for any collector's shelf or cosplay loadout. Anime-inspired, not affiliated.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the Upper Rank Six energy of the Entertainment District arc. The Ds Umbrella Katana is a Demon Slayer-inspired display sword that leans into Daki's iconic parasol aesthetic, from the ornate themed scabbard to the detailed handle wrap. It is built to be seen, the kind of piece that anchors a shelf, completes a cosplay fit and earns a double-take from every fan who walks past.</p>
+<p>This is a decorative collector and cosplay prop, made for display rather than combat. Mount it, pose with it, photograph it, then keep it somewhere safe and away from children. As always, this is a fan-made, anime-inspired piece and is not official or affiliated with any studio.</p>
+<ul>
+<li><strong>Series inspiration:</strong> Demon Slayer, Daki umbrella / parasol motif</li>
+<li><strong>Type:</strong> Decorative display and cosplay katana (replica prop)</li>
+<li><strong>Blade:</strong> Metal display blade with a polished finish, not sharpened for use</li>
+<li><strong>Handle (tsuka):</strong> Themed wrap with guard detailing for an authentic silhouette</li>
+<li><strong>Scabbard (saya):</strong> Matching umbrella-themed saya for full display presentation</li>
+<li><strong>Approx. length:</strong> Around 100cm, full-size display scale</li>
+<li><strong>Best for:</strong> Collectors, cosplayers, anime room and wall displays</li>
+<li><strong>Care:</strong> Wipe the blade with a dry cloth, store in the saya, keep dry and out of reach of children</li>
+<li><strong>Note:</strong> Display piece only, please follow local laws on bladed display items</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Demon Slayer-inspired katana built around Daki's umbrella parasol motif
+  • Themed scabbard (saya) and wrapped handle (tsuka) for a screen-accurate look
+  • Full-size display scale at roughly 100cm
+  • Decorative collector and cosplay prop, not sharpened for combat
+  • Statement centrepiece for anime shelves, walls and cosplay loadouts
+  • Fan-made and anime-inspired, not official or affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (47 chars)        : Ds Umbrella Katana | Demon Slayer Display Sword
+Meta Description (148 chars) : Demon Slayer-inspired Umbrella Katana with Daki parasol styling. Display and cosplay replica, approx 100cm. ₦32,000. Ships nationwide and worldwide.
+Focus keyword                       : Demon Slayer umbrella katana
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+  05.jpg  (gallery)
+  06.jpg  (gallery)
+  07.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Demon Slayer-inspired Ds Umbrella Katana display sword with Daki parasol-themed scabbard and wrapped handle
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a Demon Slayer-inspired umbrella katana standing upright on a minimalist black display stand. Ink black #111111 background, paper white #FAFAFA rim light, single manga-red #E2261C accent glowing along the blade edge and parasol motif on the scabbard. Halftone dot shading, dramatic speed lines radiating outward, subtle ink splatter at the base, framed inside a clean manga panel border. Premium, cinematic, high-contrast, collector hero shot, no text.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

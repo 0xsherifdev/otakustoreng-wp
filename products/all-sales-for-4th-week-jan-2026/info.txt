@@ -1,0 +1,70 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : All Sales For 4th Week Jan 2026
+SLUG         : all-sales-for-4th-week-jan-2026
+BUMPA ID     : 4325999
+WOO TYPE     : simple
+PARENT SKU   : OSN-4325999
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Uncategorized
+
+TAGS: anime merch bundle, anime merch, curated anime collection, anime streetwear, anime gift box, otaku store ng, fan merchandise, anime haul
+FRANCHISE: Generic Anime    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦1,519,000
+Total stock   : 0
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+A curated drop of anime-inspired gear, boxed as one.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A premium curated anime merch bundle from our 4th-week January 2026 drop. A hand-picked mix of fan-favourite anime-inspired pieces, boxed together and ready to ship nationwide and worldwide. Wear the roster, all in one haul.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>The full 4th-week January 2026 haul, boxed as one. This is a curated bundle of anime-inspired gear pulled straight from the Otaku Store NG roster, hand-picked for fans who want the whole drop in a single order instead of hunting piece by piece. One checkout, one box, the whole rotation.</p><p>Built for collectors and serious fans, this premium collection packages our standout fan-favourite pieces together so you can stock up, gift big, or restock your own setup in a single move. Anime-inspired fan merchandise, designed and assembled by Otaku Store NG. Wear the roster.</p><ul><li><strong>What it is:</strong> a curated bundle of multiple anime-inspired merch pieces from our latest drop</li><li><strong>Selection:</strong> hand-picked fan-favourites; exact contents vary by drop and availability</li><li><strong>Style:</strong> anime-inspired streetwear and accessories spanning several popular series</li><li><strong>Best for:</strong> collectors, bulk buyers, group orders, and statement gifting</li><li><strong>Packaging:</strong> consolidated as a single boxed order for one simple checkout</li><li><strong>Care:</strong> follow the individual care guidance on each included piece</li><li><strong>Note:</strong> fan / anime-inspired design, not affiliated with or endorsed by any studio or rights holder</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Curated bundle of fan-favourite anime-inspired pieces from one drop
+  • One checkout, one box, the whole 4th-week January 2026 haul
+  • Built for collectors, bulk buyers and big-statement gifting
+  • Spans multiple popular anime series in one premium collection
+  • Ships from Nigeria, nationwide and worldwide
+  • Anime-inspired fan design, not affiliated with any studio
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (50 chars)        : Anime Merch Bundle | Curated Drop | Otaku Store NG
+Meta Description (145 chars) : Shop our curated anime merch bundle: hand-picked fan-favourite anime-inspired pieces boxed as one. Ships from Nigeria worldwide. Wear the roster.
+Focus keyword                       : anime merch bundle
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.png  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Curated Otaku Store NG anime merch bundle boxed as a single order
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a premium matte-black anime merch box, ink black #111111 backdrop with paper white #FAFAFA halftone dots and bold manga-red #E2261C speed lines radiating outward; the box lid lifted to reveal a stacked, neatly folded selection of anime-inspired streetwear and accessories; dramatic ink-splatter accent in the corner, single red accent ribbon, cinematic side lighting, sharp manga-panel framing, premium and editorial, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

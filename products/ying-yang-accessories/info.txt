@@ -1,0 +1,74 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Ying Yang Accessories
+SLUG         : ying-yang-accessories
+BUMPA ID     : 1254753
+WOO TYPE     : variable
+PARENT SKU   : OSN-1254753
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Couple Accessories
+
+TAGS: yin yang couple set, anime couple accessories, matching bracelets, couple necklace set, his and hers, yin yang bracelet, anime jewelry, couple gift
+FRANCHISE: Generic Anime    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦3,500
+Total stock   : 30
+VARIATIONS (attribute: Style)
+  Chain          | ₦5,000 | stock 10   | SKU OSN-1254753-CHAIN
+  Bracelet       | ₦3,500 | stock 10   | SKU OSN-1254753-BRACELET
+  Both           | ₦8,500 | stock 10   | SKU OSN-1254753-BOTH
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Two halves, one whole. Worn as a pair.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A matching yin-yang couple set with split black-and-white charms that complete each other. Choose chains, braided bracelets, or both — one for you, one for them. The clean monochrome look fans love, built for everyday wear.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Yin needs yang. This anime-inspired couple set splits the classic black-and-white yin-yang charm into two pieces that lock together to form one complete symbol — so you each carry a half and become whole side by side. It is the duo motif fans know from countless series, distilled into clean, monochrome accessories you can actually wear every day.</p><p>Pick your format. The <strong>Chain</strong> option pairs two slim silver-tone necklaces with magnetic split pendants that snap into one yin-yang. The <strong>Bracelet</strong> option is a his-and-hers braided cord set — one black, one white — finished with enamel yin-yang charms and rhinestone beads. Want the full statement? Choose <strong>Both</strong> and gift the matching chain-and-bracelet duo together.</p><ul><li>Sold as a his-and-hers / duo set (two pieces) — one for each person</li><li>Style options: Chain, Bracelet, or Both</li><li>Split yin-yang charm halves that join to form one complete symbol</li><li>Enamel charms in classic black and white with silver-tone hardware</li><li>Bracelets: adjustable braided cord with rhinestone bead accents</li><li>Chains: lightweight silver-tone necklaces with magnetic split pendants</li><li>Durable everyday materials, easy on-and-off wear</li><li>Wipe clean with a soft dry cloth; keep away from water and perfume to protect the finish</li><li>A ready-to-give couple gift for anniversaries, Valentine's or best-friend pairs</li><li>Fan / anime-inspired design — not affiliated with or endorsed by any studio</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Split yin-yang charms join into one complete symbol
+  • His-and-hers duo set: one piece for each of you
+  • Choose Chain, Bracelet, or Both
+  • Classic black-and-white enamel with silver-tone hardware
+  • Adjustable braided cords with rhinestone bead accents
+  • Everyday-wear materials, ready-to-gift couple set
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (48 chars)        : Yin Yang Couple Accessories Set | Otaku Store NG
+Meta Description (143 chars) : Anime-inspired yin-yang couple set: split black-and-white charms that join as one. Pick chain, bracelet or both. His-and-hers duo gift. ₦3,500.
+Focus keyword                       : yin yang couple accessories
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Yin-yang couple accessory set with split black-and-white enamel charms on a silver chain and matching black-and-white braided bracelets
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a yin-yang couple accessory set: two split black-and-white enamel charms locking together into one complete yin-yang symbol, plus a matching black braided cord bracelet and white braided cord bracelet with tiny rhinestone beads. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent on a thin underline and a small panel border. Halftone dot shading, sharp speed lines radiating from the joined charm, subtle ink splatter in corners, arranged in clean manga panels. Premium, cinematic, high-contrast macro lighting, crisp reflections on the silver-tone hardware.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

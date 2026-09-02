@@ -1,0 +1,79 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Jjk T Shirts
+SLUG         : jjk-t-shirts
+BUMPA ID     : 1125420
+WOO TYPE     : variable
+PARENT SKU   : OSN-1125420
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Jujutsu Kaisen t-shirt, JJK shirt, anime t-shirt, Jujutsu Kaisen merch, anime tee Nigeria, cursed energy shirt, Gojo fan shirt, otaku apparel
+FRANCHISE: Jujutsu Kaisen    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦14,000
+Total stock   : 496
+VARIATIONS (attribute: Size)
+  M              | ₦14,000 | stock 99   | SKU OSN-1125420-M
+  L              | ₦14,000 | stock 100  | SKU OSN-1125420-L
+  XL             | ₦14,000 | stock 98   | SKU OSN-1125420-XL
+  2XL            | ₦14,000 | stock 99   | SKU OSN-1125420-2XL
+  XXXL           | ₦14,000 | stock 100  | SKU OSN-1125420-XXXL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Cursed energy, worn loud.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel the cursed energy of Jujutsu Kaisen in this soft, thick-cotton anime tee. Bold fade-resistant graphics, unisex regular fit and a crew neck built for everyday wear. Pick your design at checkout from M to XXXL.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Sorcerers, this one's for you. Our Jujutsu Kaisen tee puts JJK's electric energy front and centre with a bold, high-detail print on premium thick cotton that feels as good as it looks. Whether you're repping the Tokyo Jujutsu High roster or just want a statement piece that hits, this is the fan tee that earns its spot in the rotation.</p><p>Cut in a clean unisex regular fit with a classic crew neck, it layers easily and wears comfortably all day. The print is built to last wash after wash, so your favourite scene stays sharp. Choose your design from the gallery at checkout. Fan-made, anime-inspired apparel; not affiliated with or endorsed by the official rights holders.</p><ul><li>Material: soft, thick cotton fabric for a substantial, comfortable feel</li><li>Fit: unisex regular fit, true-to-type sizing</li><li>Neckline: classic crew neck</li><li>Print: bold Jujutsu Kaisen-inspired graphic, durable and fade-resistant</li><li>Sizes available: M, L, XL, 2XL, XXXL</li><li>Design selection: indicate your chosen design (slide) at checkout</li><li>Care: machine wash cold, inside-out; do not tumble dry hot</li><li>Ships nationwide across Nigeria and worldwide</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold Jujutsu Kaisen-inspired graphic on premium thick cotton
+  • Unisex regular fit with a classic crew neck
+  • Durable, fade-resistant print that survives the wash
+  • Sizes M to XXXL for an easy fit
+  • Pick your design at checkout from the gallery
+  • Fan-made anime apparel, ships nationwide and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (55 chars)        : Jujutsu Kaisen T-Shirt | JJK Anime Tee | Otaku Store NG
+Meta Description (144 chars) : Jujutsu Kaisen anime tee in soft thick cotton. Bold fade-resistant JJK print, unisex fit, sizes M-XXXL. ₦14,000. Ships nationwide and worldwide.
+Focus keyword                       : Jujutsu Kaisen t-shirt
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Jujutsu Kaisen anime t-shirt with a bold JJK-inspired graphic print in unisex regular fit
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a folded Jujutsu Kaisen-inspired t-shirt on ink-black #111111 surface, paper-white #FAFAFA backdrop, single manga-red #E2261C accent. Halftone dot texture, dynamic speed lines and ink splatter framing the tee in manga panels. Crew-neck cotton tee with bold high-contrast graphic, cinematic rim lighting, premium editorial composition, sharp focus, high detail.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

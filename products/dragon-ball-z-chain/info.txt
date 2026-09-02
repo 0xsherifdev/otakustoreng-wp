@@ -1,0 +1,83 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Dragon Ball Z Chain
+SLUG         : dragon-ball-z-chain
+BUMPA ID     : 1134700
+WOO TYPE     : simple
+PARENT SKU   : OSN-1134700
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Dragon Ball
+
+TAGS: Dragon Ball Z chain, Dragon Ball necklace, Z logo pendant, anime necklace, Goku merch, Saiyan accessories, anime jewelry, pendant necklace
+FRANCHISE: Dragon Ball    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,000
+Total stock   : 1000
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The iconic Z logo, cast in steel-tone and ready to wear.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Carry the legend with this Dragon Ball Z inspired pendant. The bold Z-logo charm hangs on an adjustable black braided cord, finished in a polished steel-tone alloy that resists tarnish and wipes clean. Everyday wear for true Saiyan fans.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Power up your everyday fit with the Dragon Ball Z Chain. The pendant recreates the legendary stylised "Z" logo in a polished steel-tone finish, complete with the etched "Dragon Ball Z" lettering across the lower point. It is bold without being bulky, sitting clean against a tee or layered with your other pieces.</p>
+<p>Strung on a lightweight black braided cord with a secure clasp, this is a fan-inspired piece built for daily rotation. Anime-inspired and made for the fandom, it is not affiliated with or endorsed by the official rights holders. A go-to gift for the Goku, Vegeta and Saiyan saga devotee in your life.</p>
+<ul>
+<li>Stylised Dragon Ball Z "Z" logo pendant with etched lettering detail</li>
+<li>Polished steel-tone alloy that resists tarnish for lasting shine</li>
+<li>Adjustable black braided cord with a secure clasp closure</li>
+<li>Lightweight, comfortable feel for all-day wear</li>
+<li>Wipe clean with a soft, dry cloth to maintain the finish</li>
+<li>Unisex design — easy to wear solo or layered</li>
+<li>Fan / anime-inspired collectible, not officially licensed</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Iconic stylised Dragon Ball Z logo pendant
+  • Polished steel-tone alloy resists tarnish
+  • Adjustable black braided cord with secure clasp
+  • Lightweight, unisex everyday design
+  • Wipe clean to keep the shine
+  • Ships nationwide and worldwide from Nigeria
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : Dragon Ball Z Chain | Z Logo Pendant Necklace
+Meta Description (148 chars) : Dragon Ball Z inspired chain with the iconic Z logo pendant on an adjustable braided cord. Tarnish-resistant, unisex. Ships nationwide. Only ₦4,000.
+Focus keyword                       : Dragon Ball Z chain
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Silver-tone Dragon Ball Z logo pendant necklace on a black braided cord
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga style studio product shot: a polished steel-tone Dragon Ball Z "Z" logo pendant on a black braided cord, centered on an ink-black #111111 surface. Paper-white #FAFAFA halftone dot texture and bold manga speed lines radiating behind the pendant, with a single manga-red #E2261C ink-splatter accent and a thin red panel border. Dramatic cinematic side lighting catching the silver bevels, sharp focus, premium product photography, high contrast, no text.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

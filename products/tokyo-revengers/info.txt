@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Tokyo Revengers
+SLUG         : tokyo-revengers
+BUMPA ID     : 1141076
+WOO TYPE     : simple
+PARENT SKU   : OSN-1141076
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Stickers
+  - Shop by Anime > Tokyo Revengers
+
+TAGS: Tokyo Revengers, anime stickers, vinyl stickers, sticker pack, Toman, Mikey, Draken, laptop stickers, waterproof stickers, anime merch
+FRANCHISE: Tokyo Revengers    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦850
+Total stock   : 1000
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+10-piece Tokyo Manji vinyl sticker pack
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Deck out your gear with this 10-piece Tokyo Revengers vinyl sticker pack. Waterproof, fade-resistant, and built to take a beating. Slap them on laptops, bottles, phones, and notebooks. Anime-inspired fan art for true Toman loyalists.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Ride with Toman everywhere you go. This 10-piece Tokyo Revengers vinyl sticker pack turns plain gear into a statement, packed with bold art inspired by Mikey, Draken, and the rest of the gang. Each die-cut sticker is printed in vivid, fade-resistant colour and sealed with a durable waterproof finish that survives daily life.</p><p>Peel, place, and press. They grip clean on smooth surfaces and pull off without leaving a sticky mess behind. Perfect for personalising your setup or gifting a fellow fan.</p><ul><li>Pack contents: 10 anime-inspired vinyl stickers per pack</li><li>Material: durable waterproof vinyl with fade-resistant print</li><li>Finish: vivid full-colour, smudge and scratch resistant</li><li>Sticks to: laptops, water bottles, phones, notebooks, skateboards, helmets</li><li>Application: smooth, clean, dry surfaces work best</li><li>Style: fan / anime-inspired Tokyo Revengers artwork, not affiliated with or endorsed by the rights holders</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • 10 vivid vinyl stickers in every pack
+  • Waterproof and fade-resistant for everyday use
+  • Sticks to laptops, bottles, phones and notebooks
+  • Die-cut Tokyo Revengers fan art
+  • Peels off clean with no sticky residue
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (53 chars)        : Tokyo Revengers Sticker Pack (10pcs) | Otaku Store NG
+Meta Description (152 chars) : Tokyo Revengers vinyl sticker pack, 10 waterproof fade-resistant stickers for laptops, bottles and phones. Anime-inspired fan art. Ships nationwide and.
+Focus keyword                       : Tokyo Revengers stickers
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: 10-piece Tokyo Revengers anime vinyl sticker pack featuring Toman gang artwork
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product studio shot of a 10-piece Tokyo Revengers vinyl sticker pack fanned out on an ink-black #111111 surface, paper-white #FAFAFA highlights, single manga-red #E2261C accent on a Toman flag motif; halftone dot texture, sharp speed lines, ink splatter framing the stickers in manga panels; cinematic top-down lighting, premium, high contrast, glossy vinyl reflections.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

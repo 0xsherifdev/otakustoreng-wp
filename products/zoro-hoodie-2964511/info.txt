@@ -1,0 +1,81 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Zoro Hoodie
+SLUG         : zoro-hoodie-2964511
+BUMPA ID     : 2964511
+WOO TYPE     : variable
+PARENT SKU   : OSN-2964511
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+  - Shop by Anime > One Piece
+
+TAGS: Zoro hoodie, One Piece hoodie, Roronoa Zoro, anime hoodie, One Piece merch, pullover hoodie, anime streetwear, Straw Hat crew
+FRANCHISE: One Piece    CHARACTER: Roronoa Zoro
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦18,500
+Total stock   : 800
+VARIATIONS (attribute: Size & Material)
+  L-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964511-LTHICKCOTTON
+  L-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964511-LTHICKPOLYESTER
+  Xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964511-XLTHICKCOTTON
+  Xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964511-XLTHICKPOLYESTER
+  2xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964511-2XLTHICKCOTTON
+  2xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964511-2XLTHICKPOLYESTER
+  3xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964511-3XLTHICKCOTTON
+  3xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964511-3XLTHICKPOLYESTER
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Three-sword resolve, built for everyday wear
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A Zoro-inspired pullover hoodie for One Piece fans who never lose their way (only their direction). Brushed-fleece warmth, ribbed cuffs, kangaroo pocket and an unisex streetwear fit. Choose thick cotton or thick polyester.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the Pirate Hunter every time you throw it on. This Zoro-inspired hoodie pairs One Piece swordsman energy with soft brushed-fleece comfort, built for late-night reads, cold mornings and full-day fits. The unisex streetwear cut layers clean over a tee or under a jacket.</p><p>Pick your feel at checkout: thick cotton for that breathable, lived-in heft, or thick polyester for a smoother, structured drape. Either way, the graphic anchors the look and the comfort keeps you in it. Fan-made and anime-inspired, not affiliated with or endorsed by the official rights holders.</p><ul><li>Pullover hoodie with anime-inspired Zoro graphic</li><li>Brushed-fleece interior for cosy warmth</li><li>Ribbed cuffs and hem to hold shape</li><li>Kangaroo front pocket</li><li>Unisex streetwear fit</li><li>Fabric choice: thick cotton or thick polyester</li><li>Sizes: L, XL, 2XL, 3XL</li><li>Machine wash cold, inside-out; hang or low tumble dry</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Zoro-inspired One Piece graphic for true Straw Hat crew fans
+  • Brushed-fleece interior delivers all-day warmth and comfort
+  • Ribbed cuffs and hem keep the silhouette sharp wash after wash
+  • Choose thick cotton or thick polyester to match your feel
+  • Roomy unisex streetwear fit with a handy kangaroo pocket
+  • Sizes L through 3XL for a comfortable, layered look
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : Zoro Hoodie | One Piece Anime Pullover Hoodie
+Meta Description (148 chars) : Zoro-inspired One Piece pullover hoodie with brushed-fleece warmth, ribbed cuffs and kangaroo pocket. Thick cotton or polyester, sizes L-3XL. Ships.
+Focus keyword                       : Zoro hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Zoro-inspired One Piece pullover hoodie with anime graphic and kangaroo pocket
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a folded anime pullover hoodie featuring a Roronoa Zoro-inspired three-sword graphic. Ink black #111111 background, paper white #FAFAFA hoodie body, single manga-red #E2261C accent on the print and a thin slash of speed lines. Halftone dot shading, ink splatter detailing, framed inside a clean manga panel border. Premium, cinematic lighting, sharp focus on ribbed cuffs and kangaroo pocket. No text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

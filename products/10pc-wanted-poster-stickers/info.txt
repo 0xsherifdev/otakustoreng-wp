@@ -1,0 +1,83 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : 10pc Wanted Poster Stickers
+SLUG         : 10pc-wanted-poster-stickers
+BUMPA ID     : 1840632
+WOO TYPE     : simple
+PARENT SKU   : OSN-1840632
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Home & Decor > Room Decor
+  - Shop by Anime > One Piece
+
+TAGS: One Piece stickers, wanted poster stickers, anime stickers, One Piece room decor, laptop stickers, bounty poster, Straw Hat crew, vinyl stickers
+FRANCHISE: One Piece    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦2,000
+Total stock   : 92
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Stick your bounty up where the world can see
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Slap the Straw Hats' bounties across your space. This 10-piece set of One Piece wanted-poster stickers turns laptops, water bottles and walls into a most-wanted gallery worthy of any pirate king.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Every great pirate earns a bounty, and now you can plaster the Grand Line's most-wanted across your gear. This 10-piece set of One Piece-inspired wanted poster stickers brings the crew's iconic "WANTED Dead or Alive" notices to your laptop, phone case, notebook, console, water bottle or bedroom wall. Bold linework, aged-parchment detailing and that unmistakable bounty layout make every sticker pop like it just got peeled off a Marine notice board.</p>
+<p>Easy to apply and easy to mix-and-match, they're the fastest way to give a plain surface serious otaku energy. Decorate, gift, or trade with the crew — fan-made and anime-inspired, not affiliated with the official series.</p>
+<ul>
+<li>Set contents: 10 stickers per pack</li>
+<li>Theme: One Piece wanted / bounty poster designs</li>
+<li>Finish: printed waterproof-style vinyl with vivid colour</li>
+<li>Surface ideas: laptops, phone cases, notebooks, water bottles, skateboards, consoles, walls and lockers</li>
+<li>Application: peel-and-stick, no tools needed</li>
+<li>Best on: clean, dry, smooth surfaces</li>
+<li>Care: wipe gently; avoid soaking or scrubbing to preserve the print</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • 10 wanted-poster stickers in every pack
+  • Iconic One Piece bounty-notice designs
+  • Peel-and-stick vinyl, no tools required
+  • Customise laptops, bottles, notebooks and walls
+  • Vivid, bold print with aged-parchment detail
+  • Fan-made and anime-inspired, not affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (43 chars)        : One Piece Wanted Poster Stickers - 10pc Set
+Meta Description (151 chars) : 10-piece One Piece wanted poster sticker set. Vivid peel-and-stick vinyl for laptops, bottles, notebooks and walls. Ships from Nigeria, nationwide and.
+Focus keyword                       : One Piece wanted poster stickers
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Pack of 10 One Piece wanted poster vinyl stickers featuring Straw Hat crew bounty notices
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio flat-lay of ten One Piece-inspired wanted poster stickers fanned across a paper-white #FAFAFA surface, ink-black #111111 background, single manga-red #E2261C accent on a torn "WANTED" banner. Halftone dot shading, bold speed lines radiating outward, ink splatter in the corners, arranged inside subtle manga panel borders. Premium cinematic product photography, sharp focus, dramatic top-down lighting, high contrast.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

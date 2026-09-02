@@ -1,0 +1,82 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Trafalgar Law Yellow Chain
+SLUG         : trafalgar-law-yellow-chain
+BUMPA ID     : 1927342
+WOO TYPE     : simple
+PARENT SKU   : OSN-1927342
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > One Piece
+
+TAGS: Trafalgar Law, One Piece, Trafalgar Law chain, anime necklace, One Piece chain, Heart Pirates, anime-inspired jewelry, anime chain, pendant necklace, yellow chain
+FRANCHISE: One Piece    CHARACTER: Trafalgar Law
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,500
+Total stock   : 9
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Rep the Surgeon of Death. Room.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel the Surgeon of Death with this Trafalgar Law-inspired yellow chain. A bold One Piece statement piece built from tarnish-resistant metal with an adjustable fit, ready to finish any fit on or off the streets.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>For the fans who run with the Heart Pirates, this Trafalgar Law-inspired chain brings the cool, clinical swagger of the Surgeon of Death straight to your collar. The signature yellow finish nods to Law's iconic palette, while the clean pendant detailing reads loud across the room without ever tipping into cosplay territory.</p>
+<p>Built to be worn, not boxed. The durable, tarnish-resistant metal holds its shine through daily wear, and the adjustable chain sits clean over a tee, hoodie or jacket. Layer it with your roster or let it ride solo as the centrepiece. Fan-made, anime-inspired, and not affiliated with the official series.</p>
+<ul>
+<li>Anime-inspired pendant necklace celebrating Trafalgar Law of One Piece</li>
+<li>Bold yellow colourway referencing Law's signature Heart Pirates look</li>
+<li>Durable, tarnish-resistant stainless-steel / alloy construction</li>
+<li>Adjustable chain length for a comfortable, customised fit</li>
+<li>Lightweight and everyday-wearable, on or off the streets</li>
+<li>Wipe clean with a soft, dry cloth to keep the shine</li>
+<li>Fan / anime-inspired design, not official or licensed merchandise</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Trafalgar Law / Heart Pirates-inspired pendant chain
+  • Signature bold yellow colourway
+  • Tarnish-resistant, durable metal build
+  • Adjustable length for a custom fit
+  • Lightweight and everyday-wearable
+  • Fan-made One Piece accessory, not affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (47 chars)        : Trafalgar Law Yellow Chain | One Piece Necklace
+Meta Description (147 chars) : Trafalgar Law-inspired yellow chain from One Piece. Tarnish-resistant, adjustable fan necklace. Ships from Nigeria, nationwide + worldwide. ₦4,500.
+Focus keyword                       : Trafalgar Law chain
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Trafalgar Law-inspired yellow pendant chain necklace from One Piece on a dark background
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a bold yellow anime pendant chain necklace inspired by Trafalgar Law of One Piece, laid on ink-black #111111 surface with paper-white #FAFAFA negative space; single manga-red #E2261C accent line slashing diagonally; halftone dot shading, speed lines and a subtle ink splatter framing the pendant; premium cinematic lighting, sharp macro focus on the metal links, manga panel border, high contrast, editorial e-commerce hero.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

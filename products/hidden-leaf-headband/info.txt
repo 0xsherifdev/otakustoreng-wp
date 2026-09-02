@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Hidden Leaf Headband
+SLUG         : hidden-leaf-headband
+BUMPA ID     : 2291394
+WOO TYPE     : simple
+PARENT SKU   : OSN-2291394
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Headwear
+  - Shop by Anime > Naruto
+
+TAGS: Naruto, Hidden Leaf headband, Konoha headband, ninja headband, anime cosplay, forehead protector, anime headwear, Naruto accessories
+FRANCHISE: Naruto    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦3,500
+Total stock   : 4
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Claim your Leaf Village allegiance.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel your inner shinobi with this Naruto-inspired Hidden Leaf headband. The engraved Konoha leaf symbol sits on a metal plate fixed to an adjustable fabric band, ready to tie on for cosplay, conventions, or everyday otaku flex.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Every shinobi earns their forehead protector, and now so do you. This Naruto-inspired Hidden Leaf headband features the unmistakable Konohagakure leaf symbol engraved into a polished metal plate, mounted on a long fabric tie-band so you can knot it around your forehead, arm, or bag exactly how your favourite ninja wears it.</p><p>Whether you're building a Naruto, Sasuke, or Kakashi cosplay, repping the Leaf Village at a convention, or just adding a clean piece to your anime-fan rotation, this headband delivers that on-screen look. Wear the roster.</p><ul><li>Engraved Konoha leaf symbol on a metal plate</li><li>Long fabric tie-band for an adjustable, secure fit</li><li>One-size, fits most teens and adults</li><li>Versatile wear: forehead, arm, leg, or accessory tie</li><li>Great for cosplay, conventions, anime photoshoots, and everyday styling</li><li>Wipe the plate clean with a soft dry cloth; spot-clean the band</li><li>Fan / anime-inspired design, not affiliated with or endorsed by the rights holders</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Engraved Konoha leaf symbol on a polished metal plate
+  • Long fabric tie-band for an adjustable, secure fit
+  • One-size design fits most teens and adults
+  • Wear it on forehead, arm, leg, or as a bag accessory
+  • Perfect for Naruto cosplay, conventions, and photoshoots
+  • Fan-made, anime-inspired tribute to the Leaf Village
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (47 chars)        : Hidden Leaf Headband | Naruto Konoha Ninja Band
+Meta Description (155 chars) : Naruto-inspired Hidden Leaf headband with engraved Konoha symbol on a metal plate and adjustable tie-band. Perfect for cosplay. ₦3,500. Ships nationwide &.
+Focus keyword                       : Hidden Leaf headband
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Naruto-inspired Hidden Leaf headband with engraved Konoha leaf symbol on a metal plate and fabric tie-band
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a Naruto-inspired Hidden Leaf ninja headband: polished metal plate with an engraved Konoha leaf swirl symbol on a deep ink-black fabric tie-band, laid diagonally across a paper-white #FAFAFA surface. Ink black #111111 background with manga halftone dots and dynamic speed lines radiating outward, a single manga-red #E2261C accent slash and subtle ink splatter framing the plate. Premium, cinematic studio lighting with crisp reflections on the metal, shallow depth of field, comic-panel composition. No text, no logos other than the engraved leaf motif.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

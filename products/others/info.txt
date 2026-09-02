@@ -1,0 +1,70 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Others
+SLUG         : others
+BUMPA ID     : 1228900
+WOO TYPE     : simple
+PARENT SKU   : OSN-1228900
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Uncategorized
+
+TAGS: anime mystery box, anime merch, anime surprise box, otaku gift, anime mystery bundle, anime-inspired merch, mystery box Nigeria, fan merch
+FRANCHISE: Generic Anime    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦50,000
+Total stock   : 0
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+A curated drop of anime gear, chosen by otaku.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A curated anime mystery box from Otaku Store NG. We hand-pick a mix of fan-favourite anime-inspired merch so every unboxing feels like a fresh episode drop. One sealed box, all surprise, all otaku energy. Wear the roster.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some drops you plan. This one you just open. The Otaku Store NG Mystery Box is a curated bundle of anime-inspired merch hand-picked by fans who actually watch the shows. Apparel, accessories, small collectibles, the kind of pieces we'd cop for ourselves, sealed up and sent your way for the thrill of the reveal.</p><p>Built for the otaku who loves the surprise as much as the loot. Every box is assembled from our current roster of fan-favourite designs, so no two unboxings feel the same. Fan-made, anime-inspired pieces, not affiliated with any studio or franchise.</p><ul><li>Curated mystery box of anime-inspired fan merch, hand-selected by the Otaku Store NG team</li><li>Contents are a surprise mix that may include apparel, accessories and small collectibles</li><li>Assembled from current in-stock designs across multiple popular series</li><li>One sealed box per order; exact items vary with each drop</li><li>Fan / anime-inspired merchandise, not official or licensed</li><li>Ships from Nigeria, nationwide and worldwide</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Curated mystery box of hand-picked anime-inspired merch
+  • Surprise mix may include apparel, accessories and collectibles
+  • Pulled from fan-favourite designs across multiple series
+  • One sealed box, a fresh reveal every time
+  • Fan-made and anime-inspired, not official or licensed
+  • Ships from Nigeria, nationwide and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (59 chars)        : Anime Mystery Box | Curated Surprise Merch | Otaku Store NG
+Meta Description (135 chars) : A curated anime mystery box from Otaku Store NG. Surprise fan merch picked by otaku, shipped nationwide and worldwide. Wear the roster.
+Focus keyword                       : anime mystery box
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.png  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Otaku Store NG anime mystery box, a sealed surprise bundle of curated anime-inspired fan merchandise
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product hero shot: a single matte ink-black #111111 mystery box wrapped in paper-white #FAFAFA tape, sealed and unopened, sitting on a paper-white surface. A single manga-red #E2261C accent stripe and a small red question mark stamp across the lid. Halftone dot shading, bold speed lines radiating outward, scattered ink splatter framing the box like a manga panel reveal. Dramatic cinematic side lighting, premium studio composition, high contrast monochrome with the one red accent. No text, no logos, no characters.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

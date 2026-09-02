@@ -1,0 +1,79 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Dragon Ball Op Tshirt
+SLUG         : dragon-ball-op-tshirt
+BUMPA ID     : 1131286
+WOO TYPE     : variable
+PARENT SKU   : OSN-1131286
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+  - Shop by Anime > Dragon Ball
+
+TAGS: Dragon Ball t-shirt, anime t-shirt, Dragon Ball merch, Saiyan shirt, anime graphic tee, Goku t-shirt, unisex anime shirt, otaku apparel
+FRANCHISE: Dragon Ball    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦12,000
+Total stock   : 500
+VARIATIONS (attribute: Size)
+  M              | ₦12,000 | stock 100  | SKU OSN-1131286-M
+  L              | ₦12,000 | stock 100  | SKU OSN-1131286-L
+  XL             | ₦12,000 | stock 100  | SKU OSN-1131286-XL
+  2XL            | ₦12,000 | stock 100  | SKU OSN-1131286-2XL
+  XXXL           | ₦12,000 | stock 100  | SKU OSN-1131286-XXXL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Power up your fit, Saiyan style.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A Dragon Ball-inspired graphic tee built for everyday wear. Soft, thick cotton in a unisex regular fit with a crisp, fade-resistant print. Crew neck, comfortable for training arcs or chilling at base form.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel pure Saiyan energy with this Dragon Ball-inspired graphic t-shirt from Otaku Store NG. Cut from soft, thick cotton in a clean unisex regular fit, it pairs a bold anime print with all-day comfort, whether you are powering through your day or repping the franchise at the next con.</p><p>The print is sharp and fade-resistant, so your design keeps its impact wash after wash. A fan-made, anime-inspired piece for the true Dragon Ball faithful (not affiliated with or endorsed by the official rights holders). Wear the roster.</p><ul><li>Material: soft, thick cotton for a substantial, comfortable feel</li><li>Fit: unisex regular fit, true-to-size</li><li>Neckline: classic crew neck</li><li>Print: bold Dragon Ball-inspired graphic, durable and fade-resistant</li><li>Sizes available: M, L, XL, 2XL, XXXL</li><li>Design: choose your preferred slide/design at checkout</li><li>Care: machine wash cold, inside-out; do not tumble dry hot to protect the print</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Soft, thick cotton with a premium, substantial feel
+  • Bold Dragon Ball-inspired graphic that holds up wash after wash
+  • Unisex regular fit, true-to-size from M to XXXL
+  • Classic crew neck for easy everyday styling
+  • Pick your favourite design slide at checkout
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (50 chars)        : Dragon Ball Anime Graphic T-Shirt | Otaku Store NG
+Meta Description (144 chars) : Dragon Ball-inspired graphic tee in soft, thick cotton. Unisex fit, fade-resistant print, sizes M-XXXL. Ships nationwide and worldwide. ₦12,000.
+Focus keyword                       : Dragon Ball t-shirt
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+  05.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Dragon Ball-inspired anime graphic t-shirt in soft cotton, unisex regular fit with crew neck
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio shot of a folded Dragon Ball-inspired graphic t-shirt on ink-black #111111 surface, paper-white #FAFAFA backdrop, single manga-red #E2261C accent through speed lines and an ink-splatter burst. Halftone-dot shading, manga panel framing, dramatic cinematic side lighting, crisp fabric texture, premium product photography, high detail, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

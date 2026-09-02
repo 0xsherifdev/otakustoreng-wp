@@ -1,0 +1,83 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Pochita Chain
+SLUG         : pochita-chain
+BUMPA ID     : 1875949
+WOO TYPE     : simple
+PARENT SKU   : OSN-1875949
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Chainsaw Man
+
+TAGS: Pochita chain, Pochita necklace, Chainsaw Man necklace, Chainsaw Man jewelry, anime pendant, anime necklace, Pochita pendant, Chainsaw Man merch
+FRANCHISE: Chainsaw Man    CHARACTER: Pochita
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦5,000
+Total stock   : 9
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the Chainsaw Devil everywhere you go.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Rep the Chainsaw Devil with this silver-tone Pochita pendant on a sturdy box chain. Lightweight, tarnish-resistant and ready to layer or wear solo. A clean, low-key flex for any Chainsaw Man fan.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Pochita earned the chain. This anime-inspired pendant captures the Chainsaw Devil in clean silver-tone metal, complete with that iconic cross-eyed stare and pull-cord snout, so every Chainsaw Man fan clocks the reference instantly. It hangs from a polished box-link chain that sits easy under a tee or out in the open.</p>
+<p>Built to be worn, not babied. The stainless-steel/alloy construction resists everyday tarnish, the lightweight pendant won't drag on your neck, and the smart-casual look layers cleanly with other chains. Wear the roster.</p>
+<ul>
+<li>Character: Pochita pendant, anime-inspired by Chainsaw Man (fan-made, not affiliated or official)</li>
+<li>Pendant: silver-tone polished metal with cut-out Pochita detailing</li>
+<li>Material: durable stainless steel / alloy that resists everyday tarnish</li>
+<li>Chain: box-link / ball chain with secure lobster-style clasp</li>
+<li>Style: unisex, layer-friendly, wear solo or stacked</li>
+<li>Care: wipe clean with a soft dry cloth; keep away from water and perfume</li>
+<li>In the box: 1x Pochita pendant on chain</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Pochita pendant in clean silver-tone metal, instantly recognisable to Chainsaw Man fans
+  • Durable stainless-steel/alloy build that resists everyday tarnish
+  • Polished box-link chain with a secure lobster-style clasp
+  • Lightweight and comfortable for all-day wear
+  • Unisex and layer-friendly, wear solo or stacked
+  • Wipes clean with a soft dry cloth
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (54 chars)        : Pochita Chain - Chainsaw Man Necklace | Otaku Store NG
+Meta Description (155 chars) : Pochita Chain - silver-tone Chainsaw Man pendant on a durable box chain. Tarnish-resistant, unisex, layer-friendly. Ships nationwide and worldwide. ₦5,000.
+Focus keyword                       : Pochita chain
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Silver-tone Pochita pendant from Chainsaw Man on a box-link chain held in hand
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product studio shot of a silver-tone Pochita pendant necklace from Chainsaw Man, the chainsaw-devil dog cut from polished metal with cross-eyed face, hanging on a box-link chain. Ink black #111111 background, paper white #FAFAFA highlights on the metal, single manga-red #E2261C accent in a slashing speed-line behind the pendant. Halftone dot texture, dynamic speed lines, subtle ink splatter framing manga panel borders. Premium, cinematic, sharp macro focus, dramatic rim lighting.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

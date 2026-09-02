@@ -1,0 +1,81 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Zoro Skull Necklace
+SLUG         : zoro-skull-necklace
+BUMPA ID     : 2373588
+WOO TYPE     : simple
+PARENT SKU   : OSN-2373588
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > One Piece
+
+TAGS: Zoro necklace, One Piece necklace, Zoro skull pendant, Santoryu pendant, anime necklace, One Piece jewellery, Jolly Roger pendant, Roronoa Zoro merch, silver-tone anime chain
+FRANCHISE: One Piece    CHARACTER: Roronoa Zoro
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦5,000
+Total stock   : 5
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Three swords, one skull. Carry the swordsman's mark.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Roronoa Zoro's Jolly Roger rendered as a silver-tone skull-and-three-swords pendant on a rope chain. Tarnish-resistant, lightweight and adjustable. Anime-inspired everyday-wear for the crew member who never backs down. Wear the roster.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Three swords, one skull, zero retreat. This Zoro Skull Necklace stamps the world's greatest swordsman's personal Jolly Roger straight onto your chest, the grinning skull crossed by his signature Santoryu blades. Polished to a clean silver-tone shine, it reads sharp under a hoodie collar or open shirt and tells every One Piece fan exactly whose crew you ride with.</p>
+<p>Built from durable, tarnish-resistant metal that holds its finish through everyday wear, then strung on a sturdy twist-rope chain that sits clean at the neckline. Anime-inspired, fan-made gear designed to be worn, not boxed away.</p>
+<ul>
+<li>Pendant design: Roronoa Zoro Jolly Roger, skull with crossed three-sword (Santoryu) motif</li>
+<li>Material: durable, tarnish-resistant stainless-steel / alloy with silver-tone finish</li>
+<li>Chain: twist-rope style, sits at standard neckline length</li>
+<li>Finish: polished silver-tone, wipe clean with a soft dry cloth</li>
+<li>Style: unisex, layers easily with other chains</li>
+<li>Includes: one pendant necklace</li>
+<li>Fan / anime-inspired design, not official or affiliated with the rights holders</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Roronoa Zoro Jolly Roger: skull crossed with his three Santoryu swords
+  • Durable, tarnish-resistant metal with a clean silver-tone shine
+  • Sturdy twist-rope chain that sits neat at the neckline
+  • Unisex and easy to layer with other chains
+  • Lightweight enough for all-day wear, wipes clean in seconds
+  • Fan-made One Piece-inspired gear, not official or affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : Zoro Skull Necklace | One Piece Pendant Chain
+Meta Description (151 chars) : Roronoa Zoro Jolly Roger skull-and-swords pendant on a silver-tone rope chain. Tarnish-resistant, unisex, anime-inspired. Ships from Nigeria worldwide.
+Focus keyword                       : Zoro skull necklace
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Silver-tone Zoro skull pendant with crossed three-sword Santoryu design on a twist-rope chain
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a silver-tone pendant necklace, a grinning pirate skull crossed by three katana swords, hanging on a twist-rope chain. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent glinting off one sword edge. Halftone dot shading, dynamic speed lines radiating behind the pendant, subtle ink splatter framing, composed inside a clean manga panel border. Premium, cinematic, high-contrast macro detail on the polished metal.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

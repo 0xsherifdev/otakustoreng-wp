@@ -1,0 +1,78 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Kisame Shoes
+SLUG         : kisame-shoes
+BUMPA ID     : 1141468
+WOO TYPE     : variable
+PARENT SKU   : OSN-1141468
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Shoes
+  - Shop by Anime > Naruto
+
+TAGS: Kisame shoes, Kisame Hoshigaki, Naruto sneakers, Akatsuki shoes, anime sneakers, Naruto shoes, anime footwear, unisex sneakers
+FRANCHISE: Naruto    CHARACTER: Kisame Hoshigaki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦35,000
+Total stock   : 800
+VARIATIONS (attribute: Size)
+  38             | ₦35,000 | stock 100  | SKU OSN-1141468-38
+  39             | ₦35,000 | stock 100  | SKU OSN-1141468-39
+  40             | ₦35,000 | stock 100  | SKU OSN-1141468-40
+  41             | ₦35,000 | stock 100  | SKU OSN-1141468-41
+  42             | ₦35,000 | stock 100  | SKU OSN-1141468-42
+  43             | ₦35,000 | stock 100  | SKU OSN-1141468-43
+  44             | ₦35,000 | stock 100  | SKU OSN-1141468-44
+  45             | ₦35,000 | stock 100  | SKU OSN-1141468-45
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Akatsuki's monster of the Hidden Mist, on your feet
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel the Tailless Tailed Beast with these Kisame-inspired sneakers. All-over Akatsuki-cloud and shark-blue art on a cushioned, true-to-size sole built for daily wear. Unisex. Pick your size at checkout.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Step into the shoes of the Monster of the Hidden Mist. These Kisame Hoshigaki-inspired sneakers carry the menace of Hoshigaki himself, with all-over print pulling in shark-blue tones, the red Akatsuki clouds and a nod to the chakra-devouring blade Samehada. Loud where it counts, premium where it matters.</p><p>Cushioned underfoot and built for everyday rotation, these unisex kicks pair just as easily with denim as they do with your training fits. Fan-made and anime-inspired, designed for the roster you actually rep.</p><ul><li>Design: all-over Kisame / Akatsuki-cloud print, shark-blue and ink-black palette</li><li>Style: low-top lace-up sneakers, unisex fit</li><li>Sole: cushioned footbed for all-day comfort</li><li>Fit: true to size — choose your EU size (38–45) at checkout</li><li>Wear: versatile for casual, streetwear and convention looks</li><li>Care: wipe clean with a damp cloth, air dry, avoid machine washing</li><li>Included: one pair of laced sneakers</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • All-over Kisame Hoshigaki and Akatsuki-cloud print in shark-blue and ink-black
+  • Cushioned sole built for all-day comfort
+  • True-to-size unisex fit — EU 38 to 45
+  • Versatile for streetwear, casual and convention looks
+  • Fan-made, anime-inspired design (not affiliated)
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (56 chars)        : Kisame Shoes | Akatsuki Naruto Sneakers | Otaku Store NG
+Meta Description (146 chars) : Shop Kisame Hoshigaki-inspired Naruto Akatsuki sneakers. All-over print, cushioned sole, true-to-size unisex fit (EU 38–45). Ships nationwide and.
+Focus keyword                       : Kisame shoes
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Kisame Hoshigaki-inspired Naruto Akatsuki sneakers with all-over shark-blue and red cloud print
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a single low-top sneaker with all-over Kisame Hoshigaki shark-blue and red Akatsuki-cloud print, floating at a dynamic three-quarter angle. Ink black #111111 background, paper white #FAFAFA rim light, single manga-red #E2261C accent on speed lines radiating behind the shoe. Halftone-dot texture, ink splatter at the heel, framed inside a clean manga panel border. Premium, cinematic, high-contrast, sharp focus on stitching and sole.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

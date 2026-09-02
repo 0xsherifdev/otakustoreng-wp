@@ -1,0 +1,72 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Uchiha Logo Ring
+SLUG         : uchiha-logo-ring
+BUMPA ID     : 1507852
+WOO TYPE     : simple
+PARENT SKU   : OSN-1507852
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Rings
+  - Shop by Anime > Naruto
+
+TAGS: Uchiha ring, Naruto ring, anime ring, Sasuke, Itachi, Uchiha clan crest, stainless steel ring, black band ring, anime accessories, anime jewelry
+FRANCHISE: Naruto    CHARACTER: Uchiha Clan
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦3,000
+Total stock   : 6
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the crest of the Uchiha
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Anime-inspired black band ring engraved with the Uchiha clan crest. Brushed matte center, polished beveled edges and a tarnish-resistant finish built for everyday wear. Pick your size and rep Sasuke and Itachi's bloodline.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Every Uchiha earns their mark. This black band ring carries the clan crest laser-engraved in crisp white against a brushed matte face, framed by polished, beveled edges that catch the light like fresh ink on the page. It is a quiet flex for fans who run with Sasuke, Itachi and the rest of the bloodline.</p><p>Built from durable stainless steel alloy with a tarnish-resistant finish, it is made for daily wear and stacks clean with the rest of your roster. Available in standard ring sizes so you get a comfortable fit straight out of the box.</p><ul><li>Anime-inspired design: Uchiha clan crest, laser-engraved in white</li><li>Material: stainless steel / alloy with a tarnish-resistant coating</li><li>Finish: brushed matte center with polished beveled edges</li><li>Comfort: smooth rounded interior for all-day wear</li><li>Sizing: standard ring sizes, buyer selects size at checkout</li><li>Style: minimal black band, easy to stack or wear solo</li><li>Care: wipe with a soft dry cloth; avoid harsh chemicals and prolonged water</li><li>Fan / anime-inspired piece, not affiliated with or endorsed by the rights holder</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Uchiha clan crest laser-engraved in clean white
+  • Black brushed matte center with polished beveled edges
+  • Stainless steel alloy with tarnish-resistant finish
+  • Comfortable smooth interior, built for daily wear
+  • Available in standard ring sizes, select yours at checkout
+  • Minimal design stacks easily or wears solo
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (53 chars)        : Uchiha Logo Ring | Naruto Black Band | Otaku Store NG
+Meta Description (152 chars) : Uchiha clan crest black band ring in tarnish-resistant stainless steel. Naruto anime-inspired, standard sizes, ships nationwide and worldwide. Wear the.
+Focus keyword                       : Uchiha logo ring
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black stainless steel band ring with brushed matte center, polished beveled edges and the white Uchiha clan crest from Naruto laser-engraved on the face
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product studio shot of a black stainless steel band ring with a brushed matte center, polished beveled edges, and the Uchiha clan fan crest laser-engraved in paper white on the face. Ink black #111111 background with paper white #FAFAFA highlights and a single manga-red #E2261C accent slashing behind the ring. Halftone dot shading, sharp speed lines radiating outward, subtle ink splatter, framed inside a clean manga panel. Premium, cinematic macro lighting, high contrast, crisp reflections on the polished bevels.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

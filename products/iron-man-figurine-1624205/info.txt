@@ -1,0 +1,81 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Iron Man Figurine
+SLUG         : iron-man-figurine-1624205
+BUMPA ID     : 1624205
+WOO TYPE     : simple
+PARENT SKU   : OSN-1624205
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Figurines
+
+TAGS: Iron Man figurine, Iron Man Mark 85, Marvel figurine, Avengers collectible, Tony Stark statue, PVC figure, anime figurine Nigeria, collector display figure
+FRANCHISE: Marvel    CHARACTER: Iron Man
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦20,000
+Total stock   : 10
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Mark 85 armor, landing pose, ready to display.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A pre-painted PVC Iron Man collector figurine caught mid-landing in the Mark 85 suit. Glossy red-and-gold armor on an Avengers display base, built for the shelf, not the toybox. Fan-inspired, not affiliated.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Repulsors hot, knee down, ready to rise. This Iron Man collector figurine catches Tony Stark in the iconic Mark 85 landing pose, the gold-titanium nanotech armour that closed out the Avengers saga. Crisp panel lines, a sculpted arc reactor and a deep red-and-gold paint job give it real presence under a shelf light.</p>
+<p>Cast in detailed pre-painted PVC and mounted on a round Avengers-style display base, it sits clean on a desk, bookshelf or display cabinet. This is a collector display piece, not a toy, so handle the fine armour details with care. A standout addition to any hero lineup and a confident gift for the Marvel fan in your circle. Fan-inspired and anime-store-curated; not affiliated with or endorsed by Marvel.</p>
+<ul>
+<li>Character: Iron Man (Tony Stark), Mark 85 nanotech armour</li>
+<li>Material: detailed pre-painted PVC</li>
+<li>Pose: dynamic crouching / landing stance</li>
+<li>Approximate height: 13.5 cm (single figure)</li>
+<li>Included: 1x figurine and round Avengers-style display base</li>
+<li>Finish: glossy red-and-gold paint with sculpted arc reactor detail</li>
+<li>Use: indoor shelf / cabinet display piece (not a toy)</li>
+<li>Care: wipe gently with a soft dry cloth; keep out of direct sunlight</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Iconic Mark 85 nanotech armour in a dynamic landing pose
+  • Detailed pre-painted PVC with sculpted arc reactor detail
+  • Approx. 13.5 cm display figure on a round Avengers-style base
+  • Glossy red-and-gold finish that pops under shelf lighting
+  • Collector display piece, not a toy, handle armour details with care
+  • Fan-inspired collectible, not affiliated with Marvel
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (48 chars)        : Iron Man Figurine - Mark 85 PVC Collector Statue
+Meta Description (155 chars) : Iron Man Mark 85 collector figurine in pre-painted PVC, approx 13.5cm on an Avengers-style base. Ships from Nigeria nationwide and worldwide. Fan-inspired.
+Focus keyword                       : Iron Man figurine
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Iron Man Mark 85 PVC figurine in a crouching landing pose with red-and-gold armour on a round Avengers display base.
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of an Iron Man Mark 85 collector figurine in a crouching landing pose, glossy red-and-gold armour with glowing manga-red #E2261C arc reactor. Ink black #111111 background, paper white #FAFAFA rim light, single manga-red accent. Halftone dot texture, dramatic speed lines radiating from the figure, subtle ink splatter, manga panel framing. Cinematic low-angle hero shot, premium, high detail, sharp focus on the sculpted armour.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

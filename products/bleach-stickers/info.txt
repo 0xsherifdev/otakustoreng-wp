@@ -1,0 +1,80 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Bleach Stickers
+SLUG         : bleach-stickers
+BUMPA ID     : 1831212
+WOO TYPE     : simple
+PARENT SKU   : OSN-1831212
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Stickers
+  - Shop by Anime > Bleach
+
+TAGS: Bleach stickers, anime stickers, Ichigo Kurosaki, Bleach merch, vinyl stickers, laptop stickers, Soul Society, waterproof stickers
+FRANCHISE: Bleach    CHARACTER: Ichigo Kurosaki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦1,000
+Total stock   : 500
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Soul Reaper energy on every surface you own.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A 10-piece pack of Bleach vinyl stickers loaded with Ichigo, Rukia and the Soul Society crew. Waterproof, fade-resistant and built to stick to laptops, bottles, phones and notebooks. Anime-inspired fan art for every Shinigami at heart.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Bankai your gear. This Bleach sticker pack drops 10 die-cut vinyl decals straight from the Soul Society, featuring Ichigo Kurosaki, Rukia, Orihime, Uryu and more of the roster in bold, full-colour fan art. Slap them on your laptop, water bottle, phone case or sketchbook and let everyone know which Shinigami you ride for.</p>
+<p>Printed on durable, waterproof vinyl with a vivid, fade-resistant finish so they hold up to daily carry, spills and the occasional rainstorm. Quick to peel, clean to apply, easy to mix and match.</p>
+<ul>
+<li>Pack of 10 assorted Bleach vinyl stickers</li>
+<li>Die-cut designs featuring fan-favourite characters and the series logo</li>
+<li>Waterproof, scratch- and fade-resistant print</li>
+<li>Sticks to laptops, water bottles, phone cases, notebooks, helmets and more</li>
+<li>Peel-and-stick backing for fast, residue-light application</li>
+<li>Best applied to clean, dry, smooth surfaces</li>
+<li>Anime-inspired fan art; not affiliated with or endorsed by the official rights holders</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • 10 assorted Bleach stickers per pack
+  • Waterproof, fade-resistant vinyl built to last
+  • Sticks to laptops, bottles, phones and notebooks
+  • Die-cut fan art of Ichigo, Rukia and the crew
+  • Peel-and-stick with residue-light removal
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (50 chars)        : Bleach Stickers - 10pc Waterproof Vinyl Anime Pack
+Meta Description (150 chars) : Bleach sticker pack: 10 waterproof vinyl decals of Ichigo, Rukia and the Soul Society crew. Sticks to laptops, bottles and phones. Ships from Nigeria.
+Focus keyword                       : Bleach stickers
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Pack of 10 die-cut Bleach anime vinyl stickers featuring Ichigo, Rukia, Orihime and the series logo on a white background
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product studio shot of a scattered pack of die-cut Bleach anime vinyl stickers fanned across an ink-black #111111 surface, paper-white #FAFAFA highlights, single manga-red #E2261C accent on a Soul Reaper sticker; halftone dot texture, dynamic speed lines and ink splatter framing the spread in manga panels; one sticker peeling at the corner to show the vinyl backing; cinematic top-down lighting, premium high-contrast composition, sharp focus.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

@@ -1,0 +1,75 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Toji compression T-shirt
+SLUG         : toji-compression-t-shirt
+BUMPA ID     : 2987855
+WOO TYPE     : variable
+PARENT SKU   : OSN-2987855
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Toji Fushiguro, Jujutsu Kaisen, Toji t-shirt, anime t-shirt, JJK merch, Sorcerer Killer, anime graphic tee, Jujutsu Kaisen shirt
+FRANCHISE: Jujutsu Kaisen    CHARACTER: Toji Fushiguro
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦17,000
+Total stock   : 400
+VARIATIONS (attribute: Size)
+  L              | ₦17,000 | stock 100  | SKU OSN-2987855-L
+  XL             | ₦17,000 | stock 100  | SKU OSN-2987855-XL
+  2XL            | ₦17,000 | stock 100  | SKU OSN-2987855-2XL
+  3XL            | ₦17,000 | stock 100  | SKU OSN-2987855-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The Sorcerer Killer, printed to last.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel the unkillable Toji Fushiguro in this anime-inspired graphic tee. Soft, breathable cotton with a durable, fade-resistant print and an easy unisex regular fit built for everyday wear. Crew neck, clean lines, pure cursed-energy presence.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Toji Fushiguro doesn't need cursed energy to end a fight, and your wardrobe doesn't need much to make a statement either. This anime-inspired Toji tee puts the Sorcerer Killer front and centre with a bold graphic print that holds its colour wash after wash. Built for fans who want the roster on their chest without sacrificing comfort.</p><p>Cut in a unisex regular fit with a clean crew neck, it layers easily under a jacket or stands alone on its own. Soft cotton handfeel, durable print, zero cringe, all attitude.</p><ul><li>Anime-inspired Toji Fushiguro graphic, front-printed</li><li>Soft, breathable cotton for all-day comfort</li><li>Unisex regular fit, true to size</li><li>Ribbed crew neck that keeps its shape</li><li>Durable, fade-resistant print</li><li>Available in L, XL, 2XL and 3XL</li><li>Machine wash cold, inside-out; hang or tumble dry low</li><li>Fan-made and anime-inspired; not affiliated with or endorsed by the rights holders</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold anime-inspired Toji Fushiguro front graphic
+  • Soft, breathable cotton built for daily wear
+  • Durable, fade-resistant print holds up wash after wash
+  • Unisex regular fit with a clean crew neck
+  • Sizes L through 3XL
+  • Ships nationwide and worldwide from Nigeria
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (49 chars)        : Toji Fushiguro T-Shirt | Jujutsu Kaisen Anime Tee
+Meta Description (155 chars) : Anime-inspired Toji Fushiguro T-shirt in soft cotton with a durable, fade-resistant print. Unisex regular fit, sizes L-3XL. Ships from Nigeria for ₦17,000.
+Focus keyword                       : Toji Fushiguro T-shirt
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Toji Fushiguro Jujutsu Kaisen anime-inspired graphic T-shirt in unisex regular fit
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a folded black anime graphic t-shirt featuring a fierce Toji Fushiguro inspired character, ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent. Halftone dot shading, dynamic speed lines, ink splatter, manga panel framing. Premium cinematic lighting, sharp focus on fabric texture and print detail, high contrast, editorial merch photography.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

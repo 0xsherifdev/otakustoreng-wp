@@ -1,0 +1,77 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Nezuko B Jersey
+SLUG         : nezuko-b-jersey
+BUMPA ID     : 4846013
+WOO TYPE     : variable
+PARENT SKU   : OSN-4846013
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Jerseys
+  - Shop by Anime > Demon Slayer
+
+TAGS: Nezuko Kamado, Demon Slayer, Kimetsu no Yaiba, anime jersey, all-over print jersey, anime streetwear, dye sublimation jersey, unisex anime jersey
+FRANCHISE: Demon Slayer    CHARACTER: Nezuko Kamado
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦23,000
+Total stock   : 248
+VARIATIONS (attribute: Size)
+  M              | ₦23,000 | stock 50   | SKU OSN-4846013-M
+  L              | ₦23,000 | stock 48   | SKU OSN-4846013-L
+  XL             | ₦23,000 | stock 50   | SKU OSN-4846013-XL
+  2XL            | ₦23,000 | stock 50   | SKU OSN-4846013-2XL
+  3XL            | ₦23,000 | stock 50   | SKU OSN-4846013-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Demon blood, pink haze, all-over-print fire.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel Nezuko Kamado with this all-over-print Demon Slayer jersey. Vivid edge-to-edge graphics on lightweight, breathable 100% polyester. Unisex, true-to-size, and built for conventions, watch parties, and everyday anime streetwear layering. Ships nationwide and worldwide.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Step out as the Demon Slayer Corps' fiercest little sister. The Nezuko B Jersey is a dye-sublimated all-over-print piece that wraps Nezuko Kamado's pink-and-black energy across the entire fabric — bamboo muzzle, demon blood haze, and that unmistakable kimono pattern bleeding edge to edge. No cracked screen prints, no faded patches: the graphics are infused right into the weave so the colour stays loud wash after wash.</p><p>Cut in a unisex baseball-style fit on lightweight, breathable 100% polyester, it moves easy whether you're at a convention, a match-watch party, or layering it over a tee for everyday streetwear. True to size — if you're between sizes, size up for that relaxed drape. Secure checkout, fast nationwide and worldwide delivery, and easy returns.</p><ul><li><strong>Material:</strong> 100% polyester, lightweight and breathable</li><li><strong>Print:</strong> All-over dye-sublimation, vivid edge-to-edge graphics</li><li><strong>Fit:</strong> Unisex baseball-style jersey cut, true to size (size up if between)</li><li><strong>Sizing:</strong> Available in M, L, XL, 2XL, 3XL</li><li><strong>Care:</strong> Machine wash cold inside-out; do not iron directly on the print</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • All-over dye-sublimated Nezuko Kamado print, edge to edge
+  • Lightweight, breathable 100% polyester for all-day wear
+  • Unisex baseball-style cut, true to size (M-3XL)
+  • Convention-ready, perfect for watch parties and streetwear layering
+  • Colour locked into the fabric, won't crack or peel
+  • Fast nationwide + worldwide shipping with easy returns
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (49 chars)        : Nezuko Demon Slayer Anime Jersey | Otaku Store NG
+Meta Description (143 chars) : Nezuko Kamado all-over-print Demon Slayer anime jersey. Breathable polyester, unisex fit, M-3XL. ₦23,000. Fast nationwide + worldwide delivery.
+Focus keyword                       : Nezuko anime jersey
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Nezuko Kamado Demon Slayer all-over-print anime jersey in pink and black, front view on plain background
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga aesthetic studio shot of an all-over-print anime baseball jersey featuring Nezuko Kamado, displayed on an invisible-mannequin form. Palette strictly ink black #111111 and paper white #FAFAFA with a single bold manga-red #E2261C accent used sparingly for energy. Background built from halftone/screentone dots, manga speed lines radiating from the jersey, and brush-ink splatter framing a manga panel layout. High-contrast monochrome environment with one red pop, cinematic premium anime-streetwear mood, dramatic side lighting, sharp focus on fabric texture.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+  - QA fixes applied: Minor consistency: long_description fit line said 'Unisex baseball/button-up jersey cut' which conflicts with the 'baseball-style' fit stated everywhere else (highlights, short description); harmonized to 'baseball-style' to avoid an over-specified/ambiguous construction claim.
+================================================================================

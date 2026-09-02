@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Yubashiri steel katana
+SLUG         : yubashiri-steel-katana
+BUMPA ID     : 4026242
+WOO TYPE     : simple
+PARENT SKU   : OSN-4026242
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Katana & Weapons
+  - Shop by Anime > One Piece
+
+TAGS: Yubashiri katana, Zoro sword, One Piece katana, display katana, anime sword, cosplay prop, collector katana, Roronoa Zoro
+FRANCHISE: One Piece    CHARACTER: Roronoa Zoro
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦98,000
+Total stock   : 497
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Zoro's cursed blade, forged for display
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A fan-made tribute to Zoro's Yubashiri, this display katana brings the Wado spirit to your collection. Steel blade, themed tsuka wrap and matching saya make it a striking cosplay prop and shelf centerpiece for any One Piece crew.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the steel of Roronoa Zoro with the Yubashiri display katana, an anime-inspired tribute to the cursed sword carried by the Straw Hats' swordsman. Crafted as a decorative collector and cosplay piece, it pairs a polished blade with a themed handle wrap and matching scabbard so it lands hard whether you're posing for photos or anchoring a One Piece shelf.</p><p>This is a display and cosplay prop built for fans who want the look of the roster at home. Mount it, draw it for the camera, and let it carry the weight of every promise Zoro never broke. Fan / anime-inspired, not affiliated with or endorsed by the official franchise.</p><ul><li>Decorative display katana inspired by Zoro's Yubashiri from One Piece</li><li>Steel/alloy blade with a polished finish for a sharp on-shelf look</li><li>Themed tsuka (handle) wrap and matching saya (scabbard)</li><li>Built as a collector and cosplay display prop, not a functional weapon</li><li>Great as a shelf centerpiece, photo prop or anime gift</li><li>Care: wipe the blade with a dry cloth, keep dry to prevent spotting</li><li>Keep away from children; follow your local laws on bladed display items</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Anime-inspired tribute to Zoro's Yubashiri from One Piece
+  • Steel/alloy display blade with a polished finish
+  • Themed tsuka wrap and matching saya scabbard
+  • Built for cosplay, photos and collector display
+  • Striking shelf centerpiece for any Straw Hat fan
+  • Fan-made tribute, not a functional weapon
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (53 chars)        : Yubashiri Steel Katana | Zoro One Piece Display Sword
+Meta Description (150 chars) : Yubashiri display katana inspired by Zoro from One Piece. Steel blade, themed tsuka and saya. Cosplay and collector prop, ships from Nigeria. ₦98,000.
+Focus keyword                       : Yubashiri katana
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Yubashiri display katana inspired by Zoro from One Piece, steel blade with themed handle wrap and matching scabbard
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a Yubashiri-inspired display katana resting on a black stand. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent on the handle wrap. Halftone dot shading, dramatic speed lines radiating behind the blade, subtle ink splatter at the base, framed in a clean manga panel. Cinematic rim lighting catching the polished steel edge, premium collector vibe, high detail, no text.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Zenistu Katana
+SLUG         : zenistu-katana
+BUMPA ID     : 1145007
+WOO TYPE     : simple
+PARENT SKU   : OSN-1145007
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Katana & Weapons
+  - Shop by Anime > Demon Slayer
+
+TAGS: Zenitsu katana, Demon Slayer sword, Thunder Breathing Nichirin, Zenitsu Agatsuma, anime display katana, cosplay katana, Kimetsu no Yaiba, replica sword Nigeria
+FRANCHISE: Demon Slayer    CHARACTER: Zenitsu Agatsuma
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦98,000
+Total stock   : 994
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Thunder Breathing in your hands. Wear the roster.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel Zenitsu's Thunder Breathing with this anime-inspired display katana. A lightning-yellow Nichirin replica built for cosplay, collecting and pure shelf presence — complete with stand and sword belt.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Even when he's asleep on his feet, Zenitsu Agatsuma moves faster than the eye can follow. This Thunder Breathing display katana captures that energy with the unmistakable lightning-yellow Nichirin look — a striking centrepiece for any Demon Slayer fan's collection, cosplay loadout or shelf shrine.</p><p>This is a decorative collector and cosplay prop, crafted for display and photography rather than combat. Mount it on the included stand, sling it across your back with the belt, and let it command the room. Anime-inspired fan piece — not official or affiliated.</p><ul><li>Themed display katana inspired by Zenitsu's Thunder Breathing Nichirin blade</li><li>Steel blade with a full-length design (approx. 104 cm overall)</li><li>Themed handle wrap (tsuka) and matching scabbard (saya)</li><li>Includes display stand and sword belt for wear or mounting</li><li>Wooden bokken variant does not include the stand or belt</li><li>Decorative collectible / cosplay prop — for display only, not a functional weapon</li><li>Keep away from children; follow your local laws on bladed display items</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Inspired by Zenitsu's lightning-yellow Thunder Breathing Nichirin blade
+  • Steel blade, approx. 104 cm overall for full display presence
+  • Comes with a display stand and a sword belt
+  • Themed handle wrap (tsuka) and matching scabbard (saya)
+  • Built for cosplay, collecting and shelf display
+  • Fan / anime-inspired piece — not official or affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (54 chars)        : Zenitsu Katana - Demon Slayer Display Sword | Otaku NG
+Meta Description (149 chars) : Zenitsu Thunder Breathing display katana from Demon Slayer. Steel blade approx. 104cm with stand and belt. Anime-inspired cosplay and collector prop.
+Focus keyword                       : Zenitsu katana
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Zenitsu-inspired Demon Slayer display katana with lightning-yellow Nichirin blade, themed handle wrap and scabbard on a stand
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a Zenitsu-inspired display katana, drawn from a steep dramatic angle. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent slashing across the frame. The blade unsheathed beside its scabbard, halftone dot shading, bold speed lines radiating outward, ink splatter around the hilt. Cinematic rim lighting, manga panel framing, premium collectible feel, high contrast, no text.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

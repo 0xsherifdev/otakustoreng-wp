@@ -1,0 +1,89 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Sukuna Hoodie
+SLUG         : sukuna-hoodie-2963884
+BUMPA ID     : 2963884
+WOO TYPE     : variable
+PARENT SKU   : OSN-2963884
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Sukuna hoodie, Jujutsu Kaisen hoodie, anime hoodie, King of Curses, Malevolent Shrine, JJK merch, Sukuna merch, unisex anime hoodie
+FRANCHISE: Jujutsu Kaisen    CHARACTER: Sukuna
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦18,500
+Total stock   : 800
+VARIATIONS (attribute: Size & Material)
+  L-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2963884-LTHICKCOTTON
+  L-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2963884-LTHICKPOLYESTER
+  Xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2963884-XLTHICKCOTTON
+  Xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2963884-XLTHICKPOLYESTER
+  2xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2963884-2XLTHICKCOTTON
+  2xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2963884-2XLTHICKPOLYESTER
+  3xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2963884-3XLTHICKCOTTON
+  3xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2963884-3XLTHICKPOLYESTER
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The King of Curses, printed front and back.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel the King of Curses in this black pullover hoodie. Sukuna's forehead mark and glaring eyes hit the chest, kanji runs the sleeve, and the Malevolent Shrine hand sign anchors the back. Brushed-fleece warmth, unisex streetwear fit.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Wear the roster. This Sukuna hoodie puts the King of Curses on your chest and your back: the unmistakable forehead marking and those cold, glaring eyes hit front and centre, vertical Japanese kanji storms down the left sleeve, and the Malevolent Shrine hand sign commands the back panel. Crisp white ink on deep ink-black fabric, built for Jujutsu Kaisen fans who want the menace, not the merch-stand cliche.</p>
+<p>Pullover build with a brushed-fleece interior for proper warmth, a unisex streetwear cut that layers clean over a tee, and a roomy kangaroo pocket up front. Pick your fit and fabric below and lock in your size. This is a fan-made, anime-inspired design and is not affiliated with or endorsed by the official rights holders.</p>
+<ul>
+<li>Pullover hoodie with double-sided Sukuna print (front chest, left sleeve kanji, full back graphic)</li>
+<li>Brushed-fleece interior for warmth and a soft hand-feel</li>
+<li>Ribbed cuffs and hem to hold shape and trap heat</li>
+<li>Kangaroo front pocket and lined drawstring hood</li>
+<li>Unisex streetwear fit, true-to-size across L to 3XL</li>
+<li>Fabric choice: Thick Cotton or Thick Polyester</li>
+<li>Care: machine wash cold, inside-out; do not tumble dry the print</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Double-sided Sukuna print: forehead mark and eyes up front, Malevolent Shrine hand sign on the back
+  • Vertical Japanese kanji running down the left sleeve
+  • Brushed-fleece interior with ribbed cuffs and hem for warmth
+  • Unisex streetwear fit in sizes L to 3XL
+  • Choose your fabric: Thick Cotton or Thick Polyester
+  • Fan-made, anime-inspired Jujutsu Kaisen design
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : Sukuna Hoodie | Jujutsu Kaisen Anime Pullover
+Meta Description (147 chars) : Black Sukuna pullover hoodie with front, sleeve and back Jujutsu Kaisen prints. Brushed-fleece warmth, unisex fit, sizes L-3XL. Ships from Nigeria.
+Focus keyword                       : Sukuna hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black Sukuna pullover hoodie showing front forehead mark and eyes graphic, sleeve kanji, and back Malevolent Shrine hand-sign print
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a folded black pullover hoodie on a paper-white #FAFAFA backdrop, ink-black #111111 fabric, crisp white Sukuna forehead-mark and glaring-eyes graphic on the chest. Single manga-red #E2261C accent as a thin diagonal speed-line band behind the garment, halftone dot shading, ink-splatter texture in the corners, sharp manga panel framing. Premium, cinematic, high-contrast lighting, soft shadow under the hoodie. No text, no logos, no watermark.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

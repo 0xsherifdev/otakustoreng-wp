@@ -1,0 +1,70 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Le Leouch Ring
+SLUG         : le-leouch-ring
+BUMPA ID     : 1874001
+WOO TYPE     : simple
+PARENT SKU   : OSN-1874001
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Rings
+
+TAGS: Lelouch ring, Code Geass ring, anime ring, stainless steel ring, Lelouch, Code Geass merch, anime accessories, anime-inspired jewelry
+FRANCHISE: Code Geass    CHARACTER: Lelouch
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦3,000
+Total stock   : 500
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Command the throne. Wear the Geass.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+An anime-inspired Lelouch ring forged in tarnish-resistant stainless steel with a clean polished finish. Built for daily wear, easy to stack, and styled for fans who rule from the shadows. Pick your size and claim the crown.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the strategist king of Code Geass. The Le Lelouch Ring is an anime-inspired band built for fans who move with intent, blending a sleek silhouette with a polished mirror finish that catches the light like a freshly cast Geass.</p><p>Crafted in tarnish-resistant stainless steel / alloy, it sits comfortably for everyday wear and stacks cleanly with your other pieces. Slide it on solo for a sharp statement or layer it into your full roster.</p><ul><li>Material: stainless steel / alloy construction</li><li>Finish: polished, smooth interior for comfortable daily wear</li><li>Sizing: available in standard ring sizes, buyer selects size at checkout</li><li>Durability: tarnish-resistant, built to hold its shine</li><li>Style: anime-inspired Code Geass fan design (not affiliated or official)</li><li>Care: wipe clean with a soft dry cloth, keep away from harsh chemicals</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Tarnish-resistant stainless steel / alloy for everyday wear
+  • Polished finish with a clean, comfortable interior band
+  • Available in standard ring sizes, you pick your fit
+  • Anime-inspired Code Geass Lelouch design
+  • Stacks easily with your other rings and accessories
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (52 chars)        : Lelouch Ring | Code Geass Anime Stainless Steel Band
+Meta Description (150 chars) : Anime-inspired Lelouch ring in tarnish-resistant stainless steel. Polished finish, standard sizes, built for daily wear. From ₦3,000. Wear the roster.
+Focus keyword                       : Lelouch ring
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Anime-inspired Lelouch Code Geass stainless steel ring with a polished finish
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a single polished stainless steel ring, ink black #111111 background with paper white #FAFAFA negative space, a single manga-red #E2261C accent glint on the band's edge. Dramatic cinematic side lighting, sharp reflections, halftone dot texture in the shadows, subtle speed lines radiating outward, a faint ink splatter framing one manga panel corner. Premium, high-contrast, editorial product photography, macro detail on the band, Code Geass Lelouch fan-inspired mood, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

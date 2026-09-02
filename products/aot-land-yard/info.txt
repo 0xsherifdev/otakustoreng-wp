@@ -1,0 +1,70 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Aot Land Yard
+SLUG         : aot-land-yard
+BUMPA ID     : 2789241
+WOO TYPE     : simple
+PARENT SKU   : OSN-2789241
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Lanyards
+  - Shop by Anime > Attack on Titan
+
+TAGS: Attack on Titan lanyard, AOT lanyard, Survey Corps, anime lanyard, anime keychain lanyard, ID badge lanyard, Attack on Titan merch, anime accessories
+FRANCHISE: Attack on Titan    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦5,000
+Total stock   : 9
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the Survey Corps everywhere you go.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Anime-inspired Attack on Titan lanyard built for daily duty. Woven polyester strap with a sturdy metal clip holds your keys, ID or badge while you rep the Survey Corps from commute to campus.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Pledge your heart and keep your essentials close. This Attack on Titan-inspired lanyard puts the Survey Corps energy around your neck, pairing a bold anime print with everyday durability. Whether it's clipped to your keys, your work ID or your event badge, it keeps the things you reach for most within easy grab range.</p><p>The woven polyester strap sits comfortably and resists the wear of daily use, while the metal clip snaps securely onto rings, cards and badge holders. A clean, fan-made design that wears premium and reads loud, made for fans who never miss an episode.</p><ul><li>Material: woven polyester strap with a metal clip attachment</li><li>Design: Attack on Titan / Survey Corps anime-inspired print</li><li>Use: keys, ID cards, badges, lanyard pouches and small gear</li><li>Wear: lightweight, comfortable for all-day everyday carry</li><li>Compatibility: works with most key rings and standard badge holders</li><li>Care: wipe clean with a damp cloth; air dry, avoid soaking</li><li>Fan / anime-inspired design, not official or affiliated</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Attack on Titan / Survey Corps anime-inspired print
+  • Woven polyester strap built for daily wear
+  • Sturdy metal clip for keys, ID and badges
+  • Lightweight, comfortable all-day everyday carry
+  • Works with most key rings and badge holders
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (50 chars)        : Attack on Titan Lanyard | AOT Survey Corps Lanyard
+Meta Description (149 chars) : Attack on Titan anime-inspired lanyard with a woven strap and metal clip for keys, ID and badges. Rep the Survey Corps daily. Ships from Nigeria for.
+Focus keyword                       : Attack on Titan lanyard
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Attack on Titan anime-inspired lanyard with woven polyester strap and metal clip holding keys
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product photography of an Attack on Titan-inspired lanyard. Woven polyester neck strap with a Survey Corps Wings of Freedom motif and a polished metal clip holding a set of keys, laid across an ink-black #111111 surface with paper-white #FAFAFA manga panel borders. A single manga-red #E2261C accent stripe runs through the strap. Halftone dot shading, dramatic speed lines radiating from the clip, subtle ink splatter in the corners, premium cinematic studio lighting, high contrast, sharp focus.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

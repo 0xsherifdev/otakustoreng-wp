@@ -1,0 +1,70 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Sharing an Wallet
+SLUG         : sharing-an-wallet
+BUMPA ID     : 1873986
+WOO TYPE     : simple
+PARENT SKU   : OSN-1873986
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Wallets
+
+TAGS: anime wallet, anime card holder, PU leather wallet, slim bifold wallet, anime accessories, otaku merch, anime gift, everyday carry
+FRANCHISE: Generic Anime    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦9,000
+Total stock   : 10
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Slim anime-inspired everyday carry, built to flex.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A slim anime-inspired wallet for daily carry. Printed character artwork on durable PU leather, with multiple card slots and a full-length note compartment so your cash, cards and clout travel light. Wear the roster.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Carry your roster wherever you go. This anime-inspired wallet pairs bold printed character artwork with a slim, pocket-friendly build, so you get a head-turning everyday carry that still disappears into your jeans. Premium PU leather keeps it tough against daily wear while staying soft to the touch.</p><p>Multiple card slots keep your bank cards, ID and transit pass organised, while the full-length note compartment swallows cash and receipts with room to spare. A clean fan-art finish makes it an easy gift for the anime fan in your life. Fan-designed and anime-inspired, not affiliated with or endorsed by any studio or rights holder.</p><ul><li>Durable PU leather exterior with vivid printed character artwork</li><li>Slim profile designed for front or back pocket everyday carry</li><li>Multiple card slots for bank cards, ID and transit cards</li><li>Full-length note compartment for cash and receipts</li><li>Bifold layout that folds flat to stay discreet</li><li>Wipe-clean surface; spot clean with a soft dry cloth</li><li>Unisex design that suits any fit</li><li>Fan-designed, anime-inspired artwork</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Durable PU leather with bold printed anime artwork
+  • Slim bifold profile for everyday pocket carry
+  • Multiple card slots plus a full-length note compartment
+  • Wipe-clean, low-maintenance surface
+  • Unisex design and an easy gift for any fan
+  • Fan-designed, anime-inspired, not official
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (56 chars)        : Anime Wallet | Slim PU Leather Card Holder | Otaku Store
+Meta Description (148 chars) : Slim anime-inspired PU leather wallet with printed artwork, multiple card slots and a note compartment. Ships nationwide and worldwide from Nigeria.
+Focus keyword                       : anime wallet
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Slim anime-inspired bifold wallet in PU leather with printed character artwork, open to show multiple card slots and a note compartment.
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a slim bifold PU leather anime wallet, ink black #111111 background with paper white #FAFAFA surface, single manga-red #E2261C accent. Wallet shown open at a three-quarter angle revealing card slots and a note compartment, halftone dot shading, dynamic speed lines radiating behind it, subtle ink splatter in the corners, framed inside a clean manga panel. Premium, cinematic, high-contrast lighting, sharp focus, no text.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

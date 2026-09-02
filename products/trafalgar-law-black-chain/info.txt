@@ -1,0 +1,74 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Trafalgar Law Black Chain
+SLUG         : trafalgar-law-black-chain
+BUMPA ID     : 1927353
+WOO TYPE     : variable
+PARENT SKU   : OSN-1927353
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > One Piece
+
+TAGS: Trafalgar Law, One Piece, Heart Pirates, anime necklace, pendant necklace, rope chain, anime jewelry, One Piece merch, Jolly Roger
+FRANCHISE: One Piece    CHARACTER: Trafalgar Law
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,500
+Total stock   : 1014
+VARIATIONS (attribute: Style)
+  Black Rope Chain | ₦4,500 | stock 509  | SKU OSN-1927353-BLACKROPECHAIN
+  Silver Chain   | ₦5,500 | stock 505  | SKU OSN-1927353-SILVERCHAIN
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Rep the Heart Pirates. Worthy of the Surgeon of Death.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+An anime-inspired Trafalgar Law pendant featuring the Heart Pirates Jolly Roger smiley emblem in black enamel and steel. Hangs on a twisted rope chain that resists tarnish, with your choice of black rope or silver finish. Wear the roster, on and off the Grand Line.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the Surgeon of Death. This Trafalgar Law pendant carries the unmistakable Heart Pirates Jolly Roger, that grinning smiley emblem fans know on sight, rendered in deep black enamel against a polished steel face. It is a clean, confident piece for any One Piece fan who runs with the Worst Generation.</p><p>Strung on a durable twisted rope chain that resists tarnish and everyday wear, it sits crisp at the neck and pairs just as well with a tee as it does with full streetwear. Pick the finish that matches your fit: a blacked-out rope chain for stealth, or classic silver for shine.</p><ul><li>Anime-inspired Trafalgar Law / Heart Pirates Jolly Roger pendant (fan-made, not affiliated with or endorsed by the official rights holders)</li><li>Black enamel emblem on a polished stainless-steel / alloy face that resists tarnish</li><li>Twisted rope chain in your choice of style: Black Rope Chain or Silver Chain</li><li>Standard wearable chain length with secure clasp</li><li>Unisex design, suits everyday wear and layering</li><li>Wipe clean with a soft, dry cloth; keep away from moisture and harsh chemicals</li><li>Ships from Nigeria, nationwide and worldwide</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Heart Pirates Jolly Roger smiley emblem in black enamel and steel
+  • Trafalgar Law / One Piece fan-inspired design
+  • Durable twisted rope chain that resists tarnish
+  • Choose your finish: Black Rope Chain or Silver Chain
+  • Unisex, layer-friendly, everyday wearable
+  • Wipe clean and go
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (54 chars)        : Trafalgar Law Black Chain | One Piece Pendant Necklace
+Meta Description (150 chars) : Anime-inspired Trafalgar Law pendant necklace with the Heart Pirates emblem. Tarnish-resistant rope chain, black or silver finish. Ships from Nigeria.
+Focus keyword                       : Trafalgar Law necklace
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Trafalgar Law Heart Pirates Jolly Roger pendant in black enamel and silver-tone steel on a twisted rope chain, held in hand
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga style studio product shot of a One Piece-inspired Trafalgar Law pendant necklace: round Heart Pirates Jolly Roger smiley emblem in glossy black enamel set on polished steel, hanging from a twisted rope chain. Ink black #111111 background, paper white #FAFAFA negative space, single manga-red #E2261C accent slashing behind the pendant. Halftone dot texture, dynamic speed lines, subtle ink splatter, framed inside a manga panel. Premium, cinematic, high-contrast macro lighting, sharp focus on the engraved emblem.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

@@ -1,0 +1,143 @@
+################################################################################
+  OTAKU STORE NG  —  MINIMOG THEME STYLING GUIDE  (UX/Design spec)
+  Exact values to enter under: Theme Options > Theme Styling
+  Brand system: Ink black #111111 · Paper white #FAFAFA · Manga red #E2261C
+################################################################################
+
+DESIGN PRINCIPLES (read first)
+  1. 60 / 30 / 10 colour rule — ~60% white/neutral, ~30% black, ~10% red.
+     RED IS AN ACCENT, not a flood. Use it for: primary CTAs (hover/key actions),
+     SALE badges, sale prices, links-on-hover, focus rings. Nothing else.
+  2. Don't make the whole site dark. Keep the BODY light so your 890 product
+     photos read clean and true. Create the "Dark Manga" drama in ZONES — the
+     hero, footer, promo bands — not the global background. (Best of both.)
+  3. Consistency beats variety. One radius for buttons, one for inputs. One
+     heading font weight. Pick the system below and apply it everywhere.
+  4. Accessibility = conversions. Every text/background pair must hit WCAG AA
+     (4.5:1 for body, 3:1 for large text). I've checked the values below.
+
+================================================================================
+ 1) THEME STYLING > SITE BACKGROUND
+================================================================================
+Body Background ........ #FFFFFF        (pure white — crispest for product photos)
+                         (your current #F7F7F7 is fine too; white is cleaner with
+                          the Border Block style. Avoid any tiled bg IMAGE — a
+                          global halftone would fight your product images.)
+Background Repeat/Size/Attachment/Position ... leave default (no media selected)
+Page Blocks Style ...... Border Block   ✅ KEEP — thin block borders read as
+                         MANGA PANELS. Perfectly on-brand. (Pair with sharp
+                         corners in section 5 for the editorial panel look.)
+
+================================================================================
+ 2) THEME STYLING > COLORS  >  General Colors
+================================================================================
+Primary Color ......... #E2261C   (set the EXACT manga red — yours is a bit muted)
+Secondary Color ....... #111111   (ink black — set exact)
+Link Color ............ #111111   (body links = ink black)
+Link Hover Color ...... #E2261C   ← CHANGE from grey to RED (affordance + energy)
+Text Color ............ #2A2A2A   (near-black body text; softer than pure black)
+Text Lighten Color .... #6B6B6B   ← IMPORTANT: your current light grey likely FAILS
+                         contrast. #6B6B6B passes AA (~5:1) for meta/secondary text.
+Heading Color ......... #111111   (ink black)
+
+================================================================================
+ 2b) COLORS  >  Buttons   (the signature black→red interaction)
+================================================================================
+PRIMARY BUTTON  (Add to Cart, Shop, main CTAs)
+  Button Normal  -> Text #FFFFFF | Background #111111 | Border #111111
+  Button Hover   -> Text #FFFFFF | Background #E2261C | Border #E2261C
+     ^ black at rest, snaps to manga-red on hover. Premium + high-energy + clear.
+     (For AAA contrast on the red, you may use a slightly darker #C81E15 on hover.)
+
+SECONDARY / GHOST BUTTON  (filters, "Select options", outline CTAs) = Button Alt
+  Button Alt Normal -> Text #111111 | Background transparent (or #FFFFFF) | Border #111111
+  Button Alt Hover  -> Text #FFFFFF | Background #111111 | Border #111111
+     ^ outline at rest, fills black on hover.
+
+NOTE: the HERO "SHOP THE DROP" button sits on the dark hero — make that one a
+RED fill (#E2261C, white text) so it pops off the black background.
+
+================================================================================
+ 2c) COLORS  >  Forms
+================================================================================
+Form Normal -> Text #111111 | Background #FFFFFF | Border #D9D9D9 | Box Shadow: (none)
+Form Focus  -> Text #111111 | Background #FFFFFF | Border #E2261C
+   Box Shadow (focus): 0 0 0 3px rgba(226,38,28,0.15)
+   ^ a subtle red focus ring — looks intentional AND helps keyboard/accessibility.
+
+================================================================================
+ 3) THEME STYLING > TYPOGRAPHY
+================================================================================
+FIRST: clear the "Google Fonts are out of date" warning — click "one-time update"
+so Satoshi renders correctly on the live site.
+
+Body Typography
+  Font Family ...... Satoshi            ✅ great choice, keep
+  Font Weight ...... Regular 400        ← CHANGE from Medium 500. 400 reads cleaner
+                      for long text AND makes your Black-900 headings hit harder
+                      (more weight contrast = stronger hierarchy).
+  Font Size ........ 16px               (keep)
+  Line Height ...... 26px               (bump from 24 → 26 for easier reading)
+
+Heading
+  Font Family ...... Satoshi            (keep)
+  Font Weight ...... Black 900          ✅ keep — bold manga-streetwear energy
+  Letter Spacing ... -0.5px             ← ADD. Tightens big display type = premium.
+                      (For the hero H1 specifically, -1px looks even better.)
+Heading Weight 2 ... Bold 700           (keep — for sub-headings)
+
+Button Typography  (this is where streetwear polish lives)
+  Font Family ...... Inherit (Satoshi)  (keep)
+  Font Weight ...... Bold 700           ← bump from Medium for punchier CTAs
+  Text Transform ... UPPERCASE          ← ADD (matches "SHOP THE DROP" / "ADD TO CART")
+  Letter Spacing ... 1px                ← ADD (tracking = premium button feel)
+  Font Size ........ 14px               (14 uppercase reads better than 16 here)
+
+Form Typography
+  Font Family ...... Inherit
+  Font Weight ...... Regular 400
+  Font Size ........ 16px               ← set 16 (NOT 15): 16px stops iOS from
+                      auto-zooming when a customer taps a field on mobile.
+
+================================================================================
+ 4) THEME STYLING > COLORS > (recap) — where RED is allowed
+================================================================================
+USE #E2261C ONLY for: primary-button hover, hero CTA fill, SALE badge, sale price,
+link hover, focus ring, the top announcement bar (already red). Everything else
+stays black / white / grey. This restraint is what makes the red feel premium.
+
+================================================================================
+ 5) THEME STYLING > BORDER & ROUNDED   (commit to ONE system — yours is mixed)
+================================================================================
+Your current values mix 0 and 5 — that looks accidental. Pick the editorial,
+on-brand system below (sharp buttons = manga-poster; tiny radius on inputs = usable):
+
+Box Rounded? .................... Off          (keep — sharp = editorial/manga)
+Form Input Small Rounded ........ 4
+Form Input Normal Rounded ....... 4            ← change 0 → 4 (consistent inputs)
+Form Input Border Thickness ..... 1            (keep; 1.5 if you want inputs crisper)
+Textarea Rounded ................ 4            ← change 0 → 4
+Button Small Rounded ............ 0            ← change 5 → 0
+Button Normal Rounded ........... 0            (keep)
+Button Large Rounded ............ 0            ← change 5 → 0
+  Result: hard-edged, confident buttons (manga-poster) + softly-squared inputs
+  that still feel tappable. All buttons match; all inputs match.
+
+  (Alternative if you prefer a hint of softness everywhere: set EVERYTHING to 4.
+   Just don't leave the 0/5 mix.)
+
+================================================================================
+ QUICK WINS CHECKLIST
+================================================================================
+[ ] Primary color set to exact #E2261C
+[ ] Link hover changed grey → red
+[ ] Text-lighten darkened to #6B6B6B (passes contrast)
+[ ] Button hover = red; ghost buttons = black outline → black fill
+[ ] Red focus ring on form fields
+[ ] Body weight 400 (not 500); line-height 26
+[ ] Heading letter-spacing -0.5px
+[ ] Buttons UPPERCASE + Bold 700 + 1px tracking
+[ ] Form font-size 16px (mobile no-zoom)
+[ ] Border radii unified (buttons 0, inputs 4)
+[ ] Google Fonts updated (Satoshi loading)
+[ ] Keep Border Block (manga panels) + light body background

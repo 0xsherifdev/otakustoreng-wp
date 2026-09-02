@@ -1,0 +1,92 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Zenistu Shoes
+SLUG         : zenistu-shoes
+BUMPA ID     : 1141541
+WOO TYPE     : variable
+PARENT SKU   : OSN-1141541
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Shoes
+  - Shop by Anime > Demon Slayer
+
+TAGS: Zenitsu shoes, Demon Slayer shoes, anime sneakers, Zenitsu Agatsuma, Thunder Breathing, Kimetsu no Yaiba, anime print shoes, unisex anime sneakers
+FRANCHISE: Demon Slayer    CHARACTER: Zenitsu Agatsuma
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦35,000
+Total stock   : 100
+VARIATIONS (attribute: Size)
+  40             | ₦35,000 | stock 100  | SKU OSN-1141541-40
+  38             | ₦35,000 | stock 0    | SKU OSN-1141541-38
+  39             | ₦35,000 | stock 0    | SKU OSN-1141541-39
+  41             | ₦35,000 | stock 0    | SKU OSN-1141541-41
+  42             | ₦35,000 | stock 0    | SKU OSN-1141541-42
+  43             | ₦35,000 | stock 0    | SKU OSN-1141541-43
+  44             | ₦35,000 | stock 0    | SKU OSN-1141541-44
+  45             | ₦35,000 | stock 0    | SKU OSN-1141541-45
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Thunder Breathing, locked into every step.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Zenitsu-inspired sneakers with all-over Thunder Breathing art, a cushioned sole for all-day wear, and a unisex true-to-size fit. Lace up the roster and bring the Demon Slayer energy to the streets.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the Thunder Breathing speed with these Zenitsu Agatsuma fan sneakers, built for Demon Slayer fans who wear their roster loud. The all-over print captures Zenitsu's lightning-yellow palette and electric attitude, wrapping the whole shoe in bold anime-inspired art that turns heads from class to the convention floor.</p>
+<p>Underneath the artwork is a cushioned sole that keeps you comfortable through long days, paired with a unisex silhouette that fits men and women alike. Choose your size at checkout and lace into character.</p>
+<ul>
+<li>Anime-inspired all-over Zenitsu / Thunder Breathing print</li>
+<li>Cushioned sole for all-day comfort and support</li>
+<li>Lace-up low-top sneaker design</li>
+<li>Unisex fit, true to size</li>
+<li>Available in EU sizes 38, 39, 40, 41, 42, 43, 44 and 45</li>
+<li>Buyers select their shoe size at checkout</li>
+<li>Includes one pair of sneakers</li>
+<li>Wipe clean with a damp cloth; air dry away from direct heat</li>
+<li>Fan-made and anime-inspired; not official or affiliated with the rights holders</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • All-over Zenitsu Thunder Breathing print in signature lightning yellow
+  • Cushioned sole engineered for all-day comfort
+  • Unisex low-top design, true to size
+  • EU sizes 38-45, you pick your size at checkout
+  • Fan / anime-inspired design, not officially affiliated
+  • Ships nationwide and worldwide from Nigeria
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (43 chars)        : Zenitsu Shoes | Demon Slayer Anime Sneakers
+Meta Description (152 chars) : Zenitsu Agatsuma anime sneakers with all-over Thunder Breathing print and a cushioned sole. Unisex, true to size, EU 38-45. Ships from Nigeria. ₦35,000.
+Focus keyword                       : Zenitsu shoes
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Zenitsu Agatsuma anime-inspired low-top sneakers with all-over lightning-yellow Thunder Breathing print
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a pair of low-top anime sneakers with an all-over lightning-yellow Thunder Breathing print, displayed on an ink-black #111111 surface against a paper-white #FAFAFA backdrop. Single manga-red #E2261C accent in a slashing speed line behind the shoes, halftone dot shading, ink splatter and manga panel framing. Dramatic cinematic rim lighting, premium catalog feel, sharp focus on the sneaker silhouette.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

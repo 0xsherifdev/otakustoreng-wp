@@ -1,0 +1,74 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Levi Jersey
+SLUG         : levi-jersey
+BUMPA ID     : 2193809
+WOO TYPE     : variable
+PARENT SKU   : OSN-2193809
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Jerseys
+  - Shop by Anime > Attack on Titan
+
+TAGS: Levi Ackerman, Attack on Titan, Shingeki no Kyojin, anime jersey, all-over print jersey, Survey Corps, anime streetwear, dye-sublimated jersey
+FRANCHISE: Attack on Titan    CHARACTER: Levi Ackerman
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦23,000
+Total stock   : 30
+VARIATIONS (attribute: Size)
+  L              | ₦23,000 | stock 10   | SKU OSN-2193809-L
+  XL             | ₦23,000 | stock 10   | SKU OSN-2193809-XL
+  2XL            | ₦23,000 | stock 10   | SKU OSN-2193809-2XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Humanity's strongest soldier, edge-to-edge.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Suit up as Captain Levi in this all-over-print Attack on Titan jersey. Vivid dye-sublimated graphics on lightweight, breathable polyester. Unisex, true-to-size fit built for conventions, watch parties, and everyday anime streetwear. Secure checkout, fast delivery worldwide.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Answer the call of the Survey Corps. This Levi Ackerman anime jersey brings humanity's strongest soldier to your wardrobe with bold, edge-to-edge dye-sublimated graphics that won't crack, peel, or fade like cheap screen prints. Whether you're heading to a convention, a match-watch party, or just layering up your everyday fit, this is built to turn heads and show your squad where your loyalty lies.</p><p>Cut for a relaxed unisex fit and made from lightweight, breathable 100% polyester, it stays cool and comfortable through long days of cosplay, gaming, or repping your favourite series. Available in L, XL and 2XL, shipped fast from Nigeria nationwide and worldwide with secure checkout and easy returns.</p><ul><li><strong>Material:</strong> 100% polyester, lightweight and breathable</li><li><strong>Print:</strong> All-over dye-sublimation, vivid edge-to-edge Levi graphics that won't crack or peel</li><li><strong>Fit:</strong> Relaxed unisex cut, true to size — between sizes? Size up</li><li><strong>Sizing:</strong> Available in L, XL and 2XL</li><li><strong>Care:</strong> Machine wash cold inside-out, do not iron directly on the print, hang to dry</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • All-over dye-sublimated print: vivid Levi Ackerman graphics from collar to hem
+  • Lightweight, breathable 100% polyester keeps you cool all day
+  • Relaxed unisex fit, true to size — perfect for cons, watch parties and streetwear
+  • Available in L, XL and 2XL
+  • Fast delivery from Nigeria, nationwide and worldwide, with secure checkout
+  • Print won't crack, peel or fade like cheap screen prints
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (44 chars)        : Levi Ackerman Anime Jersey | Attack on Titan
+Meta Description (153 chars) : Shop the Levi Ackerman Attack on Titan anime jersey. All-over-print, breathable polyester, unisex fit. Fast worldwide delivery, secure checkout. ₦23,000.
+Focus keyword                       : Levi Ackerman anime jersey
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Levi Ackerman Attack on Titan all-over-print anime jersey in lightweight polyester, front view
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga aesthetic studio shot of an all-over-print anime jersey featuring Levi Ackerman from Attack on Titan, displayed on a lean athletic mannequin. Ink black #111111 background with paper white #FAFAFA halftone screentone dots and dynamic manga speed lines radiating outward. High-contrast monochrome composition with a single bold manga-red #E2261C accent used sparingly for energy — a slash of red ink splatter and the Survey Corps wings motif. Brush-ink splatter texture, manga panel layout framing, dramatic cinematic side lighting, premium anime-streetwear mood, sharp detail, photorealistic fabric with crisp dye-sublimation graphics.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

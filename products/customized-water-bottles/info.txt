@@ -1,0 +1,72 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Customized Water Bottles
+SLUG         : customized-water-bottles
+BUMPA ID     : 1508208
+WOO TYPE     : simple
+PARENT SKU   : OSN-1508208
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Bottles & Drinkware
+
+TAGS: customized water bottle, anime water bottle, custom anime drinkware, personalised bottle, photo print bottle, anime gift, fan-made anime bottle, flip-top water bottle
+FRANCHISE: Generic Anime    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦9,000
+Total stock   : 10
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Your art, your bottle, your rules.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Send us the artwork you want and we wrap it across a white flip-top bottle. Print your favourite anime panel, character or any photo for a one-of-one drinkware piece nobody else carries.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Bring your own roster. This customized water bottle lets you send any image you love, your favourite anime character, a hype manga panel, a personal photo, and we print it full-wrap across a clean white bottle. One bottle, your design, zero duplicates in the wild.</p><p>Built for everyday carry: a snap-lock flip-top lid keeps spills in your bag and a moulded loop makes it easy to clip or grab on the go. The vivid full-colour print is sharp and bold, so your art stays the centrepiece sip after sip.</p><ul><li>Personalised full-wrap print, send any anime artwork, character or photo you want</li><li>White bottle base for crisp, true-to-image colour reproduction</li><li>Snap-lock flip-top lid with built-in carry loop</li><li>Food-safe bottle body, suitable for cold water and everyday hydration</li><li>Lightweight build for school, gym, office and travel</li><li>Hand-wash recommended to protect the print and keep colours vivid</li><li>Fan-made, anime-inspired custom drinkware, not affiliated with or endorsed by any studio or rights holder</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Full-wrap custom print, send any anime art or photo you want
+  • Clean white base for sharp, true-to-image colour
+  • Snap-lock flip-top lid with built-in carry loop
+  • Lightweight and ready for gym, school, office or travel
+  • Hand-wash to keep your design bold and vivid
+  • One-of-one piece, fan-made and anime-inspired
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (46 chars)        : Customized Anime Water Bottle | Print Your Art
+Meta Description (149 chars) : Customized anime water bottle: send any art, character or photo and we wrap it on a white flip-top bottle. Fan-made one-of-one drinkware. Ships from.
+Focus keyword                       : customized anime water bottle
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: White customized water bottles with full-wrap printed photos and a black snap-lock flip-top lid with carry loop
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a white custom-print water bottle with a black snap-lock flip-top lid and carry loop, standing centre-frame. Ink black #111111 background, paper white #FAFAFA bottle, single manga-red #E2261C accent on the flip lid and a slash of speed lines behind it. Halftone dot shading, subtle ink splatter, manga panel border framing. Premium, cinematic product lighting, sharp focus on the wrap-around print area, high detail, no text.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

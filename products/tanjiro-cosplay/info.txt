@@ -1,0 +1,76 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Tanjiro Cosplay
+SLUG         : tanjiro-cosplay
+BUMPA ID     : 1164089
+WOO TYPE     : variable
+PARENT SKU   : OSN-1164089
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Cosplay
+  - Shop by Anime > Demon Slayer
+
+TAGS: Tanjiro cosplay, Demon Slayer cosplay, Tanjiro Kamado costume, checkered haori, anime cosplay, Demon Slayer costume, Kimetsu no Yaiba, cosplay set
+FRANCHISE: Demon Slayer    CHARACTER: Tanjiro Kamado
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦30,000
+Total stock   : 50
+VARIATIONS (attribute: Size)
+  M              | ₦30,000 | stock 10   | SKU OSN-1164089-M
+  L              | ₦30,000 | stock 10   | SKU OSN-1164089-L
+  XL             | ₦30,000 | stock 10   | SKU OSN-1164089-XL
+  2XL            | ₦30,000 | stock 10   | SKU OSN-1164089-2XL
+  XXXL           | ₦30,000 | stock 10   | SKU OSN-1164089-XXXL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Slip into the checkered haori and become the demon slayer.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Full Kamado Tanjiro cosplay set with the iconic teal-and-black checkered haori, top, pants, leggings and belt. Lightweight polyester built for conventions, photoshoots and anime events. Check the size chart before ordering.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel Tanjiro Kamado from the very first breath. This anime-inspired cosplay set recreates Demon Slayer's most recognisable look, led by the unmistakable teal-and-black checkered haori that drapes over a dark top and tapered pants. Every piece is cut for movement, so you can pose, fight stance, and walk the convention floor without fighting your costume.</p><p>Made from breathable polyester that holds its colour under stage lights and camera flash, it is ideal for cons, group cosplays, photoshoots and themed events. This is a fan-made, anime-inspired outfit and is not affiliated with or endorsed by the official rights holders. Sizes run M to XXXL, so check the size option carefully before you order.</p><ul><li>Character: Tanjiro Kamado, Demon Slayer inspired</li><li>Set includes: checkered haori, top, pants, leggings and belt</li><li>Material: lightweight, breathable polyester</li><li>Available sizes: M, L, XL, 2XL, XXXL</li><li>Best for: conventions, cosplay shoots, anime events and group looks</li><li>Care: gentle cold hand wash, hang to dry, low or no iron</li><li>Note: shoes and katana not included; fan / anime-inspired, not official</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Iconic teal-and-black checkered haori instantly reads as Tanjiro
+  • Complete 5-piece set: haori, top, pants, leggings and belt
+  • Lightweight breathable polyester that pops under stage lights
+  • Cut for movement so poses and fight stances stay clean
+  • Sizes M to XXXL to fit a wide range of cosplayers
+  • Convention, photoshoot and group-cosplay ready
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (48 chars)        : Tanjiro Cosplay Set - Demon Slayer Haori Costume
+Meta Description (150 chars) : Become Tanjiro Kamado with this Demon Slayer cosplay set: checkered haori, top, pants, leggings and belt. Polyester, sizes M-XXXL. Ships from Nigeria.
+Focus keyword                       : Tanjiro cosplay
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Kamado Tanjiro Demon Slayer cosplay set on a mannequin: teal and black checkered haori over a dark top, pants, leggings and belt
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio shot of a Tanjiro Kamado cosplayer in a teal-and-black checkered haori, dark top and tapered pants, dynamic fight stance. Ink black #111111 background, paper white #FAFAFA rim light, single manga-red #E2261C accent on motion lines. Halftone dot shading, bold speed lines, ink splatter framing the figure, manga panel border. Premium, cinematic, high contrast, no text.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

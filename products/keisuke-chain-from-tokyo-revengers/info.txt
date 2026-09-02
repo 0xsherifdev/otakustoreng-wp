@@ -1,0 +1,75 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Keisuke Chain From Tokyo Revengers
+SLUG         : keisuke-chain-from-tokyo-revengers
+BUMPA ID     : 1134714
+WOO TYPE     : simple
+PARENT SKU   : OSN-1134714
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Tokyo Revengers
+
+TAGS: Tokyo Revengers, Keisuke Baji, Baji necklace, anime necklace, anime chain, Toman, anime pendant, Tokyo Revengers merch, anime jewellery
+FRANCHISE: Tokyo Revengers    CHARACTER: Keisuke Baji
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦5,800
+Total stock   : 999
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Toman first-division spirit on a chain
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Carry Keisuke Baji's Toman energy everywhere. This anime-inspired Tokyo Revengers pendant chain wears tough and stays sharp, with a tarnish-resistant metal finish and an everyday-comfortable length that pairs with tees, hoodies and layered fits.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some characters just hit different, and Keisuke Baji is one of them. This anime-inspired Tokyo Revengers necklace channels the loyalty and raw first-division energy of Toman's most unforgettable member, turning fan-favourite roster love into a piece you can actually wear. Drop it over a plain tee or layer it under a hoodie and let the detail speak.</p><p>Built from a durable, tarnish-resistant metal that holds its shine through daily wear, it sits clean against the chest and keeps its edge through everyday use. A solid daily-driver for fans who want their fandom on display without shouting about it.</p><ul><li>Anime-inspired Keisuke Baji / Tokyo Revengers pendant chain (fan-made, not affiliated with or endorsed by the rights holders)</li><li>Durable, tarnish-resistant metal finish made to survive everyday wear</li><li>Comfortable everyday chain length that layers easily with other necklaces</li><li>Lightweight feel that stays put under tees, hoodies and jackets</li><li>Smooth pendant detailing inspired by the character's look</li><li>Wipe clean with a soft, dry cloth; keep away from water and harsh chemicals to preserve the finish</li><li>Single design as shown; arrives ready to gift to any Tokyo Revengers fan</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Keisuke Baji / Tokyo Revengers fan-inspired pendant chain
+  • Tarnish-resistant metal that keeps its shine
+  • Everyday length that layers with other necklaces
+  • Lightweight and comfortable for all-day wear
+  • Wipe clean with a soft dry cloth
+  • Ships nationwide across Nigeria and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : Keisuke Baji Chain - Tokyo Revengers Necklace
+Meta Description (151 chars) : Anime-inspired Keisuke Baji Tokyo Revengers pendant chain. Tarnish-resistant metal, comfy everyday length. Ships from Nigeria nationwide and worldwide.
+Focus keyword                       : Keisuke Baji Tokyo Revengers necklace
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Keisuke Baji Tokyo Revengers anime-inspired pendant chain in tarnish-resistant metal
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a single anime-inspired Keisuke Baji Tokyo Revengers metal pendant necklace laid on ink-black #111111 surface, paper-white #FAFAFA halftone-dot panel behind, single manga-red #E2261C accent slashing diagonally as a speed line, ink splatter at the edges, dramatic cinematic rim light catching the metal chain, sharp macro focus on the pendant, premium high-contrast manga panel composition, no text, no logos
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

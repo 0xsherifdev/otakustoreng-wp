@@ -1,0 +1,76 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Bleach Led Lamps
+SLUG         : bleach-led-lamps
+BUMPA ID     : 1141229
+WOO TYPE     : variable
+PARENT SKU   : OSN-1141229
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Home & Decor > Room Decor
+  - Shop by Anime > Bleach
+
+TAGS: Bleach, Bleach LED lamp, Ichigo Kurosaki, anime 3D lamp, anime night light, otaku room decor, anime LED light, anime desk lamp
+FRANCHISE: Bleach    CHARACTER: Ichigo Kurosaki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦16,000
+Total stock   : 597
+VARIATIONS (attribute: Style)
+  1              | ₦16,000 | stock 198  | SKU OSN-1141229-1
+  2              | ₦16,000 | stock 199  | SKU OSN-1141229-2
+  3              | ₦16,000 | stock 200  | SKU OSN-1141229-3
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+3D Hollow-mask glow for your battle station
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A 3D acrylic illusion lamp that turns flat engraving into a floating Bleach scene. Pick your Ichigo design, switch through 16 colours by remote or touch, and light your shelf, desk or shrine with Soul Reaper energy.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Summon the roster onto your shelf. This Bleach LED illusion lamp uses a laser-engraved acrylic panel and a glowing base to fake real 3D depth, so Ichigo's Hollow mask and Zangetsu seem to float in mid-air. By day it's a clean etched silhouette; by night it's a cinematic glow that owns the desk, bookshelf or anime shrine.</p><p>Choose your style, then dial in the mood. With 16 colour modes you can lock a single hue or let it cycle, controlled by the included remote or a tap on the base. It is a fan-made, anime-inspired piece for true Soul Reapers and is not affiliated with the official franchise.</p><ul><li>Design: choose from 3 Bleach styles (Style 1, 2 or 3) including Hollow-mask Ichigo and sword scenes</li><li>Material: laser-engraved clear acrylic panel on an illuminated base</li><li>Lighting: energy-efficient LED with 16 colour modes</li><li>Control: included remote plus touch button on the base</li><li>Power: USB-powered (also runs on batteries where supported)</li><li>Placement: desk, bedside table, gaming setup, shelf or anime display</li><li>Use: ambient night light, mood lighting and otaku room decor</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • True 3D illusion effect from a laser-engraved acrylic panel
+  • 16 colour modes via included remote or touch control
+  • 3 Bleach designs to choose, including Hollow-mask Ichigo
+  • USB-powered, low-heat LED safe for bedside use
+  • Day silhouette, night glow for any otaku setup
+  • Fan-made anime-inspired decor, not affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (49 chars)        : Bleach LED Lamp - 3D Ichigo 16-Colour Night Light
+Meta Description (148 chars) : Bleach 3D LED illusion lamp with 16 colours, remote and touch control. Hollow-mask Ichigo designs that light up any desk or anime shelf. Ships from.
+Focus keyword                       : Bleach LED lamp
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Bleach 3D acrylic LED illusion lamps showing Hollow-mask Ichigo and sword designs glowing in multiple colours
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product studio shot: a single 3D acrylic illusion LED lamp engraved with Hollow-mask Ichigo from Bleach, glowing manga-red (#E2261C) against an ink-black (#111111) background with paper-white (#FAFAFA) negative space. Halftone dot shading, sharp speed lines radiating from the lamp, a splash of ink splatter in one corner, framed inside a clean manga panel border. Premium cinematic lighting, soft glow bloom on the desk surface, shallow depth of field, high contrast, no text.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

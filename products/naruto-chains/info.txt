@@ -1,0 +1,85 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Naruto Chains
+SLUG         : naruto-chains
+BUMPA ID     : 1146358
+WOO TYPE     : variable
+PARENT SKU   : OSN-1146358
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Naruto
+
+TAGS: Naruto chains, Naruto necklace, anime pendant necklace, Konoha leaf pendant, anime chains, Naruto accessories, shuriken necklace, anime jewelry
+FRANCHISE: Naruto    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,000
+Total stock   : 299
+VARIATIONS (attribute: Style)
+  1              | ₦4,000 | stock 99   | SKU OSN-1146358-1
+  2              | ₦4,000 | stock 100  | SKU OSN-1146358-2
+  3              | ₦4,000 | stock 100  | SKU OSN-1146358-3
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Hidden Leaf symbols on a clean cord chain
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Rep your village with these Naruto-inspired pendant necklaces. Pick from a Konoha leaf symbol, a Sage-style emblem, or a shuriken charm, each on a sleek black cord chain. Stainless-steel finish that resists tarnish, light enough to wear daily.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Tie your fit to the Hidden Leaf. This Naruto-inspired pendant necklace lets you carry shinobi energy everywhere, whether you are stacking it for a layered look or keeping it solo and clean. Three iconic designs to choose from so you can rep the symbol that hits hardest.</p>
+<p>Each pendant is cut from durable stainless-steel-finish metal that resists tarnish and holds its shine, hung on a slim black cord chain that sits comfortably and looks sharp over tees, hoodies and jackets. Subtle enough for everyday, bold enough to start a conversation with the right fan.</p>
+<ul>
+<li>Style options: Style 1, Style 2, Style 3 (Konoha leaf, Sage-style emblem, shuriken charm)</li>
+<li>Pendant material: durable stainless-steel-finish metal, tarnish-resistant</li>
+<li>Chain: slim black cord, lightweight and comfortable</li>
+<li>Finish: polished silver-tone pendant on matte black cord</li>
+<li>Wear: unisex, layers easily with other chains</li>
+<li>Care: wipe clean with a soft dry cloth; keep away from water and perfume</li>
+<li>Fan / anime-inspired design, not affiliated with or endorsed by the official rights holders</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Three Naruto-inspired styles: Konoha leaf, Sage-style emblem and shuriken charm
+  • Tarnish-resistant stainless-steel-finish pendant
+  • Slim black cord chain, lightweight for all-day wear
+  • Unisex design that layers cleanly over tees and hoodies
+  • Polished silver-tone pendant with a clean matte cord
+  • Ships nationwide across Nigeria and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (55 chars)        : Naruto Chains - Anime Pendant Necklace | Otaku Store NG
+Meta Description (152 chars) : Naruto-inspired pendant necklaces in 3 styles: Konoha leaf, Sage emblem and shuriken charm. Tarnish-resistant on a black cord chain. Ships from Nigeria.
+Focus keyword                       : Naruto chains
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Three Naruto-inspired pendant necklaces on black cord chains: shuriken charm, Sage-style emblem and Konoha leaf symbol
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of three silver-tone Naruto-inspired pendant necklaces (a Konoha leaf symbol, a Sage-style circle-and-triangle emblem, and a shuriken charm) on slim black cord chains, arranged on an ink-black #111111 surface with paper-white #FAFAFA negative space. Single manga-red #E2261C accent slashing across the frame as a speed-line. Halftone dot texture, sharp ink splatter, manga panel border, dramatic cinematic rim lighting catching the polished metal. Premium, high-contrast, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

@@ -1,0 +1,83 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Luffy Kimono
+SLUG         : luffy-kimono
+BUMPA ID     : 1771974
+WOO TYPE     : variable
+PARENT SKU   : OSN-1771974
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Kimono
+  - Shop by Anime > One Piece
+
+TAGS: Luffy kimono, One Piece kimono, Luffy haori, anime kimono, One Piece haori, Straw Hat Pirates, anime robe, Monkey D. Luffy
+FRANCHISE: One Piece    CHARACTER: Monkey D. Luffy
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦15,000
+Total stock   : 19
+VARIATIONS (attribute: Size)
+  2XL            | ₦15,000 | stock 19   | SKU OSN-1771974-2XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+King of the Pirates, draped on your shoulders.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+An open-front haori kimono inspired by Monkey D. Luffy. Bold straw-hat sunset print across the back, scattered Jolly Roger motifs and wide flowing sleeves. Lightweight, unisex free-size drape that layers like a captain's coat over any tee.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Set sail in style. This Luffy-inspired haori kimono channels the Straw Hat captain with a cinematic back print: his silhouette beneath the iconic straw hat, a blazing sunset, and the Going Merry cutting across the horizon. Scattered Jolly Roger skulls run down the body and sleeves, while the warm tan front and bold blue hem nod straight to Luffy's signature colours.</p>
+<p>Cut as a lightweight, open-front layering piece with wide three-quarter sleeves, it drapes loose over a tee, hoodie or fit-check outfit. A fan-made, anime-inspired design for One Piece crews who like to wear the roster, not just watch it. (Fan art, not affiliated with or endorsed by the rights holders.)</p>
+<ul>
+<li>Style: open-front haori / kimono robe, no closure — wears loose and draped</li>
+<li>Print: all-over sublimated graphic — Luffy straw-hat sunset on the back, Jolly Roger skull motifs across body and sleeves</li>
+<li>Sleeves: wide, flowing three-quarter cut</li>
+<li>Fabric: lightweight, breathable woven feel — ideal for layering year-round</li>
+<li>Fit: unisex, relaxed drape</li>
+<li>Size available: 2XL</li>
+<li>Included: 1x Luffy kimono haori</li>
+<li>Care: gentle cold wash, hang dry, do not bleach, cool iron inside-out to protect the print</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Cinematic Luffy straw-hat sunset print across the full back
+  • Scattered Straw Hat Jolly Roger skull motifs on body and sleeves
+  • Open-front haori cut layers loose over any tee or hoodie
+  • Lightweight, breathable fabric built for year-round styling
+  • Wide flowing three-quarter sleeves for that authentic kimono drape
+  • Unisex relaxed fit, available in 2XL
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (41 chars)        : Luffy Kimono Haori | One Piece Anime Robe
+Meta Description (148 chars) : Luffy-inspired One Piece haori kimono with a straw-hat sunset back print. Lightweight open-front robe, wide sleeves, unisex 2XL. Ships from Nigeria.
+Focus keyword                       : Luffy kimono
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Open-front Luffy haori kimono showing the tan front with blue hem and a red-toned back print of Luffy's straw-hat silhouette at sunset with the Going Merry ship and Jolly Roger skull motifs.
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of an open-front anime haori kimono on an invisible mannequin, three-quarter angle. Ink black #111111 background, paper white #FAFAFA rim light, single manga-red #E2261C accent on a straw-hat sunset back print. Halftone dot shading, dynamic speed lines radiating behind the garment, subtle ink splatter framing the wide flowing sleeves, manga panel border. Premium, cinematic, high-contrast, sharp fabric detail.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

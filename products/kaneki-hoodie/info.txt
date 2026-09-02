@@ -1,0 +1,90 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Kaneki Hoodie
+SLUG         : kaneki-hoodie
+BUMPA ID     : 2964595
+WOO TYPE     : variable
+PARENT SKU   : OSN-2964595
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+
+TAGS: Kaneki hoodie, Tokyo Ghoul hoodie, Ken Kaneki, anime hoodie, Tokyo Ghoul merch, anime pullover hoodie, manga streetwear, otaku hoodie
+FRANCHISE: Tokyo Ghoul    CHARACTER: Ken Kaneki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦18,500
+Total stock   : 800
+VARIATIONS (attribute: Size & Material)
+  L-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964595-LTHICKCOTTON
+  L-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964595-LTHICKPOLYESTER
+  Xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964595-XLTHICKCOTTON
+  Xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964595-XLTHICKPOLYESTER
+  2xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964595-2XLTHICKCOTTON
+  2xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964595-2XLTHICKPOLYESTER
+  3xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964595-3XLTHICKCOTTON
+  3xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964595-3XLTHICKPOLYESTER
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+One eye human, one eye ghoul. Wear the duality.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A Tokyo Ghoul-inspired pullover hoodie built around Kaneki's split human-ghoul stare, with Japanese kanji running the sleeves and a back-print profile. Brushed-fleece warmth, ribbed cuffs and a kangaroo pocket for everyday streetwear.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>The mask slips and the ghoul shows through. This Ken Kaneki hoodie pulls the most haunting frame in Tokyo Ghoul straight onto your chest: one calm human eye, one blood-red kakugan, framed in stark manga ink. Japanese kanji streaks down both sleeves while a brooding side-profile of Kaneki anchors the back print, so every angle reads loud and unmistakable.</p>
+<p>Cut as an unisex streetwear pullover with a brushed-fleece interior, it keeps the warmth in and the silhouette clean. Choose your fabric weight and size, then build it into your everyday rotation. Fan-made and anime-inspired, not affiliated with or endorsed by the official Tokyo Ghoul license.</p>
+<ul>
+<li><strong>Character:</strong> Ken Kaneki, from Tokyo Ghoul</li>
+<li><strong>Style:</strong> Pullover hoodie, unisex streetwear fit</li>
+<li><strong>Print:</strong> Front dual-eye graphic, kanji sleeve print, back side-profile portrait</li>
+<li><strong>Interior:</strong> Soft brushed-fleece lining for warmth</li>
+<li><strong>Build:</strong> Ribbed cuffs and hem, front kangaroo pocket, drawstring hood</li>
+<li><strong>Fabric options:</strong> Thick Cotton or Thick Polyester</li>
+<li><strong>Sizes:</strong> L, XL, 2XL, 3XL</li>
+<li><strong>Colour:</strong> Ink black</li>
+<li><strong>Care:</strong> Machine wash cold, inside-out; do not iron directly over the print</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Front graphic of Kaneki's split human-and-ghoul eyes in stark manga ink
+  • Tokyo Ghoul kanji print running down both sleeves
+  • Back side-profile portrait for a full 360 look
+  • Brushed-fleece interior with ribbed cuffs, hem and kangaroo pocket
+  • Pick your weight: Thick Cotton or Thick Polyester, sizes L-3XL
+  • Unisex streetwear fit in deep ink black
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (42 chars)        : Kaneki Hoodie | Tokyo Ghoul Anime Pullover
+Meta Description (148 chars) : Tokyo Ghoul-inspired Ken Kaneki pullover hoodie with dual-eye front print, kanji sleeves and back portrait. Brushed fleece, sizes L-3XL. Ships from.
+Focus keyword                       : Kaneki hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)   [MISSING — dead source URL, generate replacement]
+PRIMARY IMAGE ALT TEXT: Black Tokyo Ghoul Kaneki pullover hoodie showing the dual human-and-ghoul eye front print, kanji down the sleeves and a Kaneki side-profile on the back
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a black pullover hoodie laid on ink-black #111111 surface, paper-white #FAFAFA halftone-dot backdrop, single manga-red #E2261C accent glowing on one printed ghoul eye. Speed lines and ink splatter framing the garment in manga panels, dramatic cinematic side light revealing brushed-fleece texture and ribbed cuffs. Premium streetwear catalog aesthetic, high contrast, no text overlay.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

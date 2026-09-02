@@ -1,0 +1,79 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Zoro Hoodie
+SLUG         : zoro-hoodie
+BUMPA ID     : 2964607
+WOO TYPE     : variable
+PARENT SKU   : OSN-2964607
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+  - Shop by Anime > One Piece
+
+TAGS: Zoro hoodie, One Piece hoodie, Roronoa Zoro, anime hoodie, One Piece merch, anime streetwear, pullover hoodie, fan-made anime hoodie
+FRANCHISE: One Piece    CHARACTER: Roronoa Zoro
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦18,500
+Total stock   : 800
+VARIATIONS (attribute: Size & Material)
+  L-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964607-LTHICKCOTTON
+  L-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964607-LTHICKPOLYESTER
+  Xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964607-XLTHICKCOTTON
+  Xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964607-XLTHICKPOLYESTER
+  2xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964607-2XLTHICKCOTTON
+  2xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964607-2XLTHICKPOLYESTER
+  3xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964607-3XLTHICKCOTTON
+  3xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964607-3XLTHICKPOLYESTER
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Three-sword style, front to back.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A jet-black pullover built around the Pirate Hunter himself: Zoro's glare across the chest, his katakana running the sleeves, and that green skull jolly roger on the back. Brushed-fleece warmth in an unisex streetwear fit.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some swordsmen lose their way to the kitchen; this hoodie never loses the plot. The chest panel locks in Zoro's half-lidded glare in his signature green, "ロロノア・ゾロ" runs down both sleeves, and the back carries his crossed-swords skull jolly roger loud and clean. It is a fan-made, anime-inspired piece for crew members who fight for the dream, not the directions.</p><p>Under the graphics it is a proper everyday hoodie: brushed-fleece interior for warmth, a roomy kangaroo pocket, ribbed cuffs and hem to hold its shape, and a relaxed unisex cut that layers over a tee or sits over a jersey. Pick your fabric weight and size at checkout.</p><ul><li>Pullover hoodie with front chest print, sleeve katakana, and full back jolly roger graphic</li><li>Choice of fabric: thick cotton or thick polyester</li><li>Brushed-fleece interior for warmth and a soft hand-feel</li><li>Lined drawstring hood, ribbed cuffs and hem</li><li>Spacious kangaroo front pocket</li><li>Relaxed unisex streetwear fit</li><li>Sizes: L, XL, 2XL, 3XL</li><li>Machine wash cold, inside-out; hang or line dry to protect the print</li><li>Fan / anime-inspired design, not affiliated with or endorsed by the official rights holders</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Zoro's glare on the chest, jolly roger skull on the back
+  • Signature green graphics with ロロノア・ゾロ sleeve katakana
+  • Brushed-fleece interior for real warmth
+  • Choose thick cotton or thick polyester
+  • Ribbed cuffs and hem plus a roomy kangaroo pocket
+  • Relaxed unisex fit, sizes L to 3XL
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (55 chars)        : Zoro Hoodie - One Piece Anime Pullover | Otaku Store NG
+Meta Description (155 chars) : Zoro Hoodie with chest glare, sleeve katakana and back jolly roger. Brushed-fleece, thick cotton or polyester, unisex fit, sizes L-3XL. Ships from Nigeria.
+Focus keyword                       : Zoro hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black One Piece Zoro pullover hoodie showing his green-tinted glaring eyes on the chest, ロロノア・ゾロ katakana down the sleeve, and a green crossed-swords skull jolly roger on the back
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a jet-black pullover hoodie for One Piece's Roronoa Zoro, floating on an invisible mannequin against an ink black #111111 background. Single manga-red #E2261C accent used sparingly in dramatic rim lighting and a thin panel border; the hoodie's own chest print of Zoro's narrowed eyes and the crossed-swords skull jolly roger glow in their signature green. Halftone dot texture, bold diagonal speed lines, scattered ink splatter, cinematic premium streetwear lookbook framing, paper white #FAFAFA negative space, high contrast, sharp focus on fabric weave.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

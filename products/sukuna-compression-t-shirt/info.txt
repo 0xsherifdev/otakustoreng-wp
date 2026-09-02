@@ -1,0 +1,75 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Sukuna Compression T-shirt
+SLUG         : sukuna-compression-t-shirt
+BUMPA ID     : 2987807
+WOO TYPE     : variable
+PARENT SKU   : OSN-2987807
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Sukuna, Jujutsu Kaisen, compression t-shirt, anime t-shirt, JJK merch, King of Curses, gym anime tee, unisex anime shirt
+FRANCHISE: Jujutsu Kaisen    CHARACTER: Sukuna
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦17,000
+Total stock   : 400
+VARIATIONS (attribute: Size)
+  L              | ₦17,000 | stock 100  | SKU OSN-2987807-L
+  XL             | ₦17,000 | stock 100  | SKU OSN-2987807-XL
+  2XL            | ₦17,000 | stock 100  | SKU OSN-2987807-2XL
+  3XL            | ₦17,000 | stock 100  | SKU OSN-2987807-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Wear the King of Curses on your chest.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A snug-fit Sukuna compression tee built for fans who train and rep their roster. Soft, stretchy, sweat-friendly fabric with a bold fade-resistant print of the King of Curses. Unisex, crew neck, all-day comfort on the gym floor or the street.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the King of Curses every time you suit up. This Sukuna compression t-shirt fuses a snug, body-hugging fit with a high-impact, anime-inspired print of Jujutsu Kaisen's most feared sorcerer-king. Whether you're hitting the gym, layering under your fit, or just repping the strongest, this tee moves with you and holds its shape.</p><p>The stretch fabric wicks sweat and keeps a sharp silhouette, while the durable, fade-resistant print keeps Sukuna's markings looking crisp wear after wear. Confident, premium, and built to last. Fan-made and anime-inspired; not affiliated with or endorsed by the official license holders.</p><ul><li>Style: snug compression-fit anime graphic t-shirt</li><li>Design: Sukuna (Jujutsu Kaisen) inspired front print</li><li>Fabric: soft stretch performance blend for a body-hugging fit</li><li>Fit: unisex, form-fitting compression cut</li><li>Neckline: crew neck</li><li>Print: durable, fade-resistant graphic</li><li>Available sizes: L, XL, 2XL, 3XL</li><li>Care: machine wash cold, inside-out; do not tumble dry hot</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Snug compression fit that moves with you and holds its shape
+  • Bold Sukuna (Jujutsu Kaisen) inspired front graphic
+  • Sweat-wicking stretch fabric for gym or street
+  • Durable, fade-resistant print stays sharp wash after wash
+  • Unisex crew-neck cut in sizes L through 3XL
+  • Fan-made, anime-inspired design
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (47 chars)        : Sukuna Compression T-Shirt | Jujutsu Kaisen Tee
+Meta Description (150 chars) : Sukuna compression t-shirt inspired by Jujutsu Kaisen. Snug sweat-wicking fit, bold fade-resistant print. Sizes L-3XL, ships nationwide. Shop ₦17,000.
+Focus keyword                       : Sukuna compression t-shirt
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Sukuna compression t-shirt with a Jujutsu Kaisen inspired front print, shown in a snug unisex fit
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a snug compression t-shirt featuring a fierce Sukuna-inspired Jujutsu Kaisen graphic, displayed on an athletic mannequin torso. Ink black #111111 background, paper white #FAFAFA garment highlights, single manga-red #E2261C accent on Sukuna's curse markings. Halftone dot shading, dramatic speed lines radiating outward, ink splatter framing, sharp manga-panel composition. Premium cinematic lighting, high contrast, editorial fashion catalog vibe.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

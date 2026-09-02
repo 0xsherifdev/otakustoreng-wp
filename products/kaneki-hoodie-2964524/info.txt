@@ -1,0 +1,78 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Kaneki Hoodie
+SLUG         : kaneki-hoodie-2964524
+BUMPA ID     : 2964524
+WOO TYPE     : variable
+PARENT SKU   : OSN-2964524
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+
+TAGS: Kaneki hoodie, Tokyo Ghoul hoodie, Ken Kaneki, anime hoodie, Tokyo Ghoul merch, manga streetwear, pullover hoodie, anime streetwear
+FRANCHISE: Tokyo Ghoul    CHARACTER: Ken Kaneki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦18,500
+Total stock   : 800
+VARIATIONS (attribute: Size & Material)
+  L-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964524-LTHICKCOTTON
+  L-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964524-LTHICKPOLYESTER
+  Xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964524-XLTHICKCOTTON
+  Xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964524-XLTHICKPOLYESTER
+  2xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964524-2XLTHICKCOTTON
+  2xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964524-2XLTHICKPOLYESTER
+  3xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964524-3XLTHICKCOTTON
+  3xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964524-3XLTHICKPOLYESTER
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Tokyo Ghoul streetwear that bites back.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A Kaneki Ken pullover hoodie built for cold nights and bold fits. Brushed-fleece interior, ribbed cuffs and hem, kangaroo pocket, and manga-inked Tokyo Ghoul graphics across the front, sleeve and back. Unisex streetwear cut, fan-made, not affiliated.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>One quarter ghoul, all attitude. This Kaneki Ken pullover hoodie channels the dread and beauty of Tokyo Ghoul with high-contrast manga art, that signature split human-and-kakugan eye, the 東京喰種 kanji running the sleeve, and a haunting back print that lands somewhere between mask and nightmare. It is a love letter to fans of Ken Kaneki who want their kagune energy in everyday streetwear.</p><p>Cut for an everyday unisex streetwear fit with a brushed-fleece interior, it keeps you warm without losing the drape. This is a fan-made, anime-inspired design and is not official or affiliated with any rights holder.</p><ul><li>Pullover hoodie with brushed-fleece interior for warmth</li><li>Front, sleeve and back Kaneki / Tokyo Ghoul manga-style graphics</li><li>Drawstring hood, ribbed cuffs and hem for a snug hold</li><li>Roomy kangaroo front pocket</li><li>Unisex streetwear fit</li><li>Fabric choice per size: thick cotton or thick polyester</li><li>Available sizes: L, XL, 2XL, 3XL</li><li>Care: machine wash cold, inside-out; hang or lay flat to dry to protect the print</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Manga-inked Kaneki print front, sleeve and back
+  • Brushed-fleece interior for real warmth
+  • Ribbed cuffs and hem plus drawstring hood
+  • Roomy kangaroo pocket, unisex streetwear fit
+  • Pick thick cotton or thick polyester
+  • Sizes L through 3XL
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (42 chars)        : Kaneki Hoodie | Tokyo Ghoul Anime Pullover
+Meta Description (150 chars) : Kaneki Ken Tokyo Ghoul pullover hoodie with manga-style prints, brushed fleece, kangaroo pocket. Cotton or polyester, sizes L-3XL. Ships from Nigeria.
+Focus keyword                       : Kaneki hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black Kaneki Ken Tokyo Ghoul pullover hoodie showing manga-style split-eye front print, Japanese kanji down the sleeve, and a ghoul mask graphic on the back
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a black pullover anime hoodie featuring Ken Kaneki of Tokyo Ghoul. Ink black #111111 background, paper white #FAFAFA garment highlights, single manga-red #E2261C accent on a glowing kakugan eye. Halftone dot shading, dramatic speed lines and ink splatter framing the hood, manga panel borders. The hoodie floats center frame, drawstrings and kangaroo pocket visible, cinematic premium lighting, high contrast, fan-made anime-inspired streetwear aesthetic, no logos or trademark text.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

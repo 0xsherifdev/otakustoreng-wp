@@ -1,0 +1,81 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Inosuke Tshirt
+SLUG         : inosuke-tshirt
+BUMPA ID     : 1507021
+WOO TYPE     : simple
+PARENT SKU   : OSN-1507021
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+  - Shop by Anime > Demon Slayer
+
+TAGS: Inosuke, Inosuke t-shirt, Demon Slayer, Kimetsu no Yaiba, anime t-shirt, Beast Breathing, Demon Slayer shirt, anime merch
+FRANCHISE: Demon Slayer    CHARACTER: Inosuke Hashibira
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦12,000
+Total stock   : 100
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Beast Breathing energy on a soft everyday tee
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel Inosuke Hashibira's wild Beast Breathing spirit in this anime-inspired Demon Slayer tee. Soft cotton, unisex regular fit and a crew neck, with a durable fade-resistant graphic built for everyday wear and convention runs alike.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Two swords, one boar mask, zero chill. This Inosuke Hashibira tee brings the Beast Breathing menace of Demon Slayer to a shirt you'll actually live in. The graphic is printed to stay sharp wash after wash, while the soft fabric and unisex cut keep things comfortable whether you're grinding through a binge or running the convention floor.</p>
+<p>A fan-made, anime-inspired piece for Demon Slayer diehards. Not affiliated with or endorsed by the original creators - just built for the roster you rep.</p>
+<ul>
+<li>Character: Inosuke Hashibira (Demon Slayer / Kimetsu no Yaiba), Beast Breathing graphic</li>
+<li>Fabric: soft 100% cotton (breathable, everyday comfort)</li>
+<li>Fit: unisex regular fit with a classic crew neck</li>
+<li>Print: durable, fade-resistant anime graphic</li>
+<li>Colour options: white, black, blue, pink, purple - note your choice at checkout</li>
+<li>Care: machine wash cold, inside-out; hang or tumble dry low to protect the print</li>
+<li>Includes: 1x Inosuke graphic t-shirt</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Inosuke Hashibira Beast Breathing graphic for Demon Slayer fans
+  • Soft 100% cotton for all-day comfort
+  • Unisex regular fit with a classic crew neck
+  • Durable, fade-resistant print built to last
+  • Available in white, black, blue, pink and purple
+  • Machine wash cold inside-out to keep the graphic crisp
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (40 chars)        : Inosuke T-Shirt | Demon Slayer Anime Tee
+Meta Description (152 chars) : Inosuke Hashibira Demon Slayer t-shirt in soft cotton, unisex fit and a fade-resistant print. Five colours, ships from Nigeria nationwide and worldwide.
+Focus keyword                       : Inosuke t-shirt
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Inosuke Hashibira Demon Slayer anime-inspired t-shirt with Beast Breathing graphic, unisex crew neck
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a folded anime graphic t-shirt featuring Inosuke Hashibira in his boar mask wielding twin serrated swords. Ink black #111111 background, paper white #FAFAFA tee, single manga-red #E2261C accent on the print and speed lines. Halftone dot shading, dynamic ink splatter, framed in a cinematic manga panel with hard rim lighting. Premium, high-contrast, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

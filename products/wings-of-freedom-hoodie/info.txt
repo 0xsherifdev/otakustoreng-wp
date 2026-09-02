@@ -1,0 +1,91 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Wings Of Freedom Hoodie
+SLUG         : wings-of-freedom-hoodie
+BUMPA ID     : 2962021
+WOO TYPE     : variable
+PARENT SKU   : OSN-2962021
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+  - Shop by Anime > Attack on Titan
+
+TAGS: Wings of Freedom hoodie, Attack on Titan hoodie, Survey Corps hoodie, Scout Regiment merch, anime hoodie Nigeria, Shingeki no Kyojin, pullover hoodie, anime streetwear
+FRANCHISE: Attack on Titan    CHARACTER: Survey Corps
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦18,500
+Total stock   : 799
+VARIATIONS (attribute: Size & Material)
+  L-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2962021-LTHICKCOTTON
+  L-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2962021-LTHICKPOLYESTER
+  Xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2962021-XLTHICKCOTTON
+  Xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2962021-XLTHICKPOLYESTER
+  2xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2962021-2XLTHICKCOTTON
+  2xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2962021-2XLTHICKPOLYESTER
+  3xl-Thick Cotton | ₦21,000 | stock 99   | SKU OSN-2962021-3XLTHICKCOTTON
+  3xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2962021-3XLTHICKPOLYESTER
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Pledge your heart to the Survey Corps.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Repel the Scout Regiment's Wings of Freedom on a brushed-fleece pullover hoodie. Small crest on the chest, full emblem across the back. Unisex streetwear fit, ribbed cuffs and kangaroo pocket, in your choice of thick cotton or thick polyester.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Shinzou wo Sasageyo. The Survey Corps' Wings of Freedom land on a heavyweight black pullover built for fans who walk outside the walls. A clean Scout Regiment crest sits on the left chest while the full Wings of Freedom emblem stretches bold across the back — sharp white linework on deep ink black, instantly recognisable to anyone who knows the roster.</p>
+<p>The brushed-fleece interior keeps you warm on cold days and late-night marathons, while the unisex streetwear cut layers easily over a tee or under a jacket. Pick the fabric that suits you and rep the regiment your way.</p>
+<ul>
+<li>Anime-inspired Attack on Titan / Survey Corps Wings of Freedom design (fan-made, not affiliated with the franchise)</li>
+<li>Pullover hoodie with chest crest and large back emblem</li>
+<li>Soft brushed-fleece interior for warmth</li>
+<li>Ribbed cuffs and hem to hold shape</li>
+<li>Front kangaroo pocket</li>
+<li>Unisex streetwear fit</li>
+<li>Choice of fabric: Thick Cotton or Thick Polyester</li>
+<li>Available sizes: L, XL, 2XL, 3XL</li>
+<li>Machine wash cold, inside-out; do not tumble dry hot</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Iconic Survey Corps Wings of Freedom emblem, front crest and full back print
+  • Cosy brushed-fleece interior for real warmth
+  • Ribbed cuffs and hem plus a roomy kangaroo pocket
+  • Choose Thick Cotton or Thick Polyester fabric
+  • Unisex streetwear fit, sizes L to 3XL
+  • Ships from Nigeria, nationwide and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (47 chars)        : Wings of Freedom Hoodie | Attack on Titan Scout
+Meta Description (147 chars) : Attack on Titan Wings of Freedom hoodie with Survey Corps emblem. Brushed fleece, unisex fit, thick cotton or polyester, sizes L-3XL. From ₦18,500.
+Focus keyword                       : Wings of Freedom hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black Attack on Titan Wings of Freedom pullover hoodie showing the Survey Corps chest crest and large back emblem
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a black pullover hoodie bearing the white Survey Corps Wings of Freedom emblem across the back, displayed on an invisible mannequin. Ink black #111111 background with paper white #FAFAFA halftone dots, a single manga-red #E2261C speed-line slash cutting diagonally behind the garment, ink splatter accents, sharp manga panel framing. Premium, cinematic lighting, high contrast, crisp fabric texture detail.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

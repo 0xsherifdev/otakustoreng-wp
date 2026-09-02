@@ -1,0 +1,90 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : One Peice Black Leather Chain
+SLUG         : one-peice-black-leather-chain
+BUMPA ID     : 1134746
+WOO TYPE     : variable
+PARENT SKU   : OSN-1134746
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > One Piece
+
+TAGS: One Piece necklace, One Piece pendant, anime leather chain, anime necklace, One Piece accessories, pendant necklace, anime jewelry, Straw Hat merch
+FRANCHISE: One Piece    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦3,700
+Total stock   : 800
+VARIATIONS (attribute: Style)
+  1              | ₦3,700 | stock 100  | SKU OSN-1134746-1
+  2              | ₦3,700 | stock 100  | SKU OSN-1134746-2
+  3              | ₦3,700 | stock 100  | SKU OSN-1134746-3
+  4              | ₦3,700 | stock 100  | SKU OSN-1134746-4
+  5              | ₦3,700 | stock 100  | SKU OSN-1134746-5
+  6              | ₦3,700 | stock 100  | SKU OSN-1134746-6
+  7              | ₦3,700 | stock 100  | SKU OSN-1134746-7
+  8              | ₦3,700 | stock 100  | SKU OSN-1134746-8
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Black leather cord, anime-inspired pendant. Wear the roster.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Set sail in style with this One Piece-inspired pendant on a black leather cord. Choose from 8 bold designs, each cast in tarnish-resistant metal. Lightweight, adjustable and built for everyday crew wear. Fan-made, not affiliated.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Hoist your colours with this One Piece-inspired pendant strung on a clean black leather cord. The contrast of dark cord and crisp metal pendant lands somewhere between street and seafarer, so it works just as well over a tee as it does layered with your other chains. Pick your favourite emblem from the lineup and rep your crew loud and proud.</p>
+<p>Eight designs are available, numbered horizontally from left to right in the product photo. Just select your number at checkout. This is a fan-made, anime-inspired piece and is not official or affiliated with any rights holder.</p>
+<ul>
+<li><strong>Pendant:</strong> tarnish-resistant metal, anime-inspired One Piece motif</li>
+<li><strong>Cord:</strong> black leather-style cord with a clean, lightweight feel</li>
+<li><strong>Designs:</strong> choice of 8 styles, numbered 1-8 left to right in the photo</li>
+<li><strong>Fit:</strong> standard pendant length, comfortable for daily wear</li>
+<li><strong>Style:</strong> unisex, easy to layer with other chains</li>
+<li><strong>Care:</strong> wipe clean with a soft dry cloth; keep away from water and perfume</li>
+<li><strong>Status:</strong> fan / anime-inspired, not official or licensed</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Black leather-style cord with a bold anime-inspired One Piece pendant
+  • Choose from 8 designs, numbered 1-8 left to right in the photo
+  • Tarnish-resistant metal pendant built for everyday wear
+  • Lightweight and unisex, easy to layer with your other chains
+  • Wipe clean and go; low-maintenance crew gear
+  • Fan-made and anime-inspired, not affiliated with any rights holder
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (52 chars)        : One Piece Black Leather Pendant Necklace | 8 Designs
+Meta Description (146 chars) : One Piece-inspired pendant on a black leather cord. 8 designs, tarnish-resistant metal, unisex fit. Fan-made anime necklace. Ships nationwide and.
+Focus keyword                       : One Piece leather necklace
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: One Piece-inspired metal pendant on a black leather cord necklace, shown across eight numbered design options
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a black leather-cord pendant necklace with a metallic anime-inspired One Piece emblem pendant, laid on ink-black #111111 surface with paper-white #FAFAFA negative space; single manga-red #E2261C accent on a slashing speed line; halftone dot texture and a subtle ink-splatter behind the pendant; crisp manga panel framing, dramatic side lighting, premium cinematic close-up, sharp focus on metal pendant and leather cord, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

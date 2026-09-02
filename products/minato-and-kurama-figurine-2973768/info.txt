@@ -1,0 +1,72 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Minato and kurama figurine
+SLUG         : minato-and-kurama-figurine-2973768
+BUMPA ID     : 2973768
+WOO TYPE     : simple
+PARENT SKU   : OSN-2973768
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Figurines
+  - Shop by Anime > Naruto
+
+TAGS: Naruto, Minato Namikaze, Kurama, Nine-Tailed Fox, anime figurine, Naruto statue, collector diorama, Fourth Hokage, anime collectible, PVC figure
+FRANCHISE: Naruto    CHARACTER: Minato Namikaze
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦40,000
+Total stock   : 10
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The Fourth Hokage rides Kurama into battle
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A dynamic Naruto diorama statue capturing Minato Namikaze mid-flash atop a roaring Kurama, framed by a towering demon backdrop. Hand-painted PVC and resin detail built for serious shelf display, not casual play.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some moments deserve a statue, and this is one of them. Our Minato and Kurama diorama freezes the Yellow Flash in full motion: Hokage cloak billowing with its signature red flame trim, kunai chain drawn tight, perched on the back of a snarling Nine-Tails. The towering horned demon backdrop turns the whole piece into a cinematic battle panel you can actually own.</p><p>Sculpted in PVC and resin with hand-applied paint, this is a premium display centrepiece for the Naruto fan who knows exactly which fight this is. A fan-made, anime-inspired collectible (not affiliated with or endorsed by the official rights holders) priced at ₦40,000.</p><ul><li>Franchise: Naruto, featuring Minato Namikaze and Kurama (Nine-Tailed Fox)</li><li>Multi-figure battle diorama with sculpted demon-statue backdrop and base</li><li>Materials: detailed sculpted PVC and resin, pre-painted finish</li><li>Pre-assembled display statue, arrives ready for the shelf</li><li>Intended as a collector display piece, not a toy</li><li>Size varies by figure; this is a large, detail-heavy centrepiece</li><li>Care: keep out of direct sunlight, dust gently with a soft dry brush, handle thin parts (kunai, cloak edges, tails) with care</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Minato Namikaze and Kurama battle diorama from Naruto
+  • Detailed sculpted PVC and resin with hand-painted finish
+  • Dynamic action pose atop the roaring Nine-Tails
+  • Towering horned demon-statue backdrop for cinematic display
+  • Pre-assembled collector centrepiece, arrives display-ready
+  • Fan / anime-inspired collectible, not affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (57 chars)        : Minato & Kurama Figurine | Naruto Statue | Otaku Store NG
+Meta Description (149 chars) : Minato Namikaze and Kurama Naruto diorama statue. Hand-painted PVC and resin battle centrepiece. Fan-made collectible, ₦40,000. Ships nationwide and.
+Focus keyword                       : Minato and Kurama figurine
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Minato Namikaze in his red-flame Hokage cloak standing atop the orange Nine-Tails Kurama, with a horned demon statue backdrop, on a display base.
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a Naruto collector diorama statue: blonde spiky-haired ninja in a flowing white-and-red flame-trimmed cloak posed mid-leap on the back of a giant orange nine-tailed fox, towering horned demon statue behind. Ink black #111111 background, paper white #FAFAFA rim light, single manga-red #E2261C accent on the cloak flames. Halftone dot shading, dramatic speed lines, ink-splatter energy bursts, manga panel framing. Premium, cinematic, high detail, shallow depth of field, dramatic key light.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

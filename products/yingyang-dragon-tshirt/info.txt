@@ -1,0 +1,78 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Yingyang Dragon Tshirt
+SLUG         : yingyang-dragon-tshirt
+BUMPA ID     : 1131290
+WOO TYPE     : variable
+PARENT SKU   : OSN-1131290
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+  - Shop by Anime > Hunter x Hunter
+
+TAGS: yingyang dragon t-shirt, dragon tshirt, anime t-shirt, oversized tee, yin yang shirt, streetwear t-shirt, dragon graphic tee, anime streetwear
+FRANCHISE: Generic Anime    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦12,000
+Total stock   : 500
+VARIATIONS (attribute: Size)
+  M              | ₦12,000 | stock 100  | SKU OSN-1131290-M
+  L              | ₦12,000 | stock 100  | SKU OSN-1131290-L
+  XL             | ₦12,000 | stock 100  | SKU OSN-1131290-XL
+  2XL            | ₦12,000 | stock 100  | SKU OSN-1131290-2XL
+  XXXL           | ₦12,000 | stock 100  | SKU OSN-1131290-XXXL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Twin dragons coiled around the balance.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Oversized black tee with a bold white print of twin dragons wrapped around a yin-yang core. Soft, breathable cotton and a relaxed drop-shoulder fit make this anime-inspired streetwear staple an easy everyday flex for fans.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Balance, but make it street. The Yingyang Dragon Tee centres a crisp white yin-yang medallion flanked by two coiling Eastern dragons, printed large across a deep black body. It is the kind of mythic, dark-fantasy graphic that nods to your favourite anime arcs without shouting a single logo, clean enough to wear solo and layer-ready under a hoodie or denim jacket.</p><p>Cut in a roomy, oversized silhouette with a drop shoulder and a ribbed crew neck, it sits soft on the body and holds its shape wash after wash. The print is fade-resistant so the dragons stay sharp through your rotation.</p><ul><li>Anime-inspired twin dragon and yin-yang front graphic (fan design, not affiliated with any studio)</li><li>Soft, breathable cotton-feel fabric</li><li>Unisex oversized fit with drop-shoulder sleeves</li><li>Ribbed crew neckline that keeps its shape</li><li>Durable, fade-resistant screen print</li><li>Available sizes: M, L, XL, 2XL, XXXL</li><li>Care: machine wash cold, inside-out; hang or line dry; do not iron directly over the print</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold twin-dragon and yin-yang front graphic
+  • Oversized unisex drop-shoulder fit
+  • Soft, breathable cotton-feel fabric
+  • Durable fade-resistant print
+  • Ribbed crew neck holds its shape
+  • Sizes M to XXXL
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : Yingyang Dragon T-Shirt | Oversized Anime Tee
+Meta Description (153 chars) : Oversized black Yingyang Dragon tee with bold twin-dragon and yin-yang print. Soft cotton-feel, unisex fit, sizes M-XXXL. Ships nationwide and worldwide.
+Focus keyword                       : yingyang dragon t-shirt
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Black oversized t-shirt with a white print of twin dragons coiled around a yin-yang symbol
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga style studio product shot of a black oversized t-shirt laid flat, featuring a large white twin-dragon and yin-yang graphic. Ink black #111111 background, paper white #FAFAFA garment highlights, single manga-red #E2261C accent on a folded tag corner. Halftone dot shading, dramatic speed lines radiating from the dragons, subtle ink splatter framing, manga panel border, cinematic top-down lighting, premium high-contrast.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

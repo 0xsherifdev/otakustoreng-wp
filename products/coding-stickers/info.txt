@@ -1,0 +1,83 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Coding Stickers
+SLUG         : coding-stickers
+BUMPA ID     : 1141052
+WOO TYPE     : simple
+PARENT SKU   : OSN-1141052
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Stickers
+
+TAGS: coding stickers, programmer stickers, developer stickers, laptop stickers, vinyl stickers, tech stickers, waterproof stickers, sticker pack
+FRANCHISE: Generic Anime    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦1,000
+Total stock   : 995
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Deck out your rig with dev culture
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A 10-piece coding sticker pack stacked with programmer culture: Python, Git, Linux, React, Docker and meme classics. Waterproof, fade-resistant vinyl that sticks clean to laptops, water bottles, phones and notebooks.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Wear the stack. This <strong>Coding Stickers</strong> pack is a love letter to dev culture - 10 waterproof vinyl decals loaded with the logos, languages and memes every programmer recognises on sight. Think Python, Git, Linux, React, Docker, GitHub, HTML5, CSS and Go, mixed with classics like "Trust Me, I'm a Programmer," "!False - it's funny because it's true" and "Code Is Art."</p>
+<p>Slap them on your laptop lid, water bottle, phone case, notebook or desk setup and turn your gear into a portfolio at a glance. The print is vivid and fade-resistant, the vinyl is durable, and the finish holds up to daily handling - peel, stick, done.</p>
+<ul>
+<li><strong>Pack size:</strong> 10 assorted stickers per pack</li>
+<li><strong>Theme:</strong> coding and developer culture - programming languages, frameworks, tools and meme classics</li>
+<li><strong>Material:</strong> durable waterproof vinyl</li>
+<li><strong>Print:</strong> vivid, fade-resistant colour</li>
+<li><strong>Sticks to:</strong> laptops, water bottles, phones, notebooks, hydro flasks, desk gear</li>
+<li><strong>Application:</strong> peel-and-stick, no extra tools needed</li>
+<li><strong>Designs:</strong> assorted mix shipped per pack</li>
+<li><strong>Note:</strong> fan / culture-inspired artwork, not affiliated with any brand or trademark holder</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • 10 assorted coding stickers per pack - one peel away from a fully decked rig
+  • Waterproof, durable vinyl that survives daily handling and the occasional spill
+  • Vivid, fade-resistant print that stays sharp wash after wash
+  • Sticks clean to laptops, water bottles, phones, notebooks and desk gear
+  • Dev-culture lineup: Python, Git, Linux, React, Docker, GitHub and meme classics
+  • Peel-and-stick application - no tools, no fuss
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : Coding Stickers Pack (10pcs) | Otaku Store NG
+Meta Description (155 chars) : Coding stickers pack: 10 waterproof vinyl decals of dev culture - Python, Git, Linux, React, Docker and more. Sticks to laptops, bottles, phones. Shop now.
+Focus keyword                       : coding stickers
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Coding stickers pack with programmer and developer logos including Python, Git, Linux and a JS Developer decal held in hand
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot: a fan of 10 coding-culture vinyl stickers arranged across a closed matte-black laptop lid, single manga-red #E2261C accent sticker catching the eye, ink black #111111 background with paper white #FAFAFA negative space, halftone dot texture and diagonal speed lines radiating behind the laptop, subtle ink splatter in the corners, framed inside a clean manga panel border, cinematic top-down lighting, premium and crisp, photorealistic stickers, high detail
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

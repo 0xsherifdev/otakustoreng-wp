@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Inosuke Land Yard
+SLUG         : inosuke-land-yard
+BUMPA ID     : 2789264
+WOO TYPE     : simple
+PARENT SKU   : OSN-2789264
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Lanyards
+  - Shop by Anime > Demon Slayer
+
+TAGS: Inosuke lanyard, Demon Slayer lanyard, anime lanyard, Inosuke Hashibira, Demon Slayer merch, ID lanyard, key lanyard, anime accessories, Kimetsu no Yaiba, badge holder
+FRANCHISE: Demon Slayer    CHARACTER: Inosuke Hashibira
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦5,000
+Total stock   : 6
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Charge into class or work with the Boar Hashira
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Carry your keys, ID and badge with the wild energy of Inosuke. This anime-inspired woven polyester lanyard pairs a bold Demon Slayer print with a sturdy metal clip for everyday, fuss-free carry.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Strap on the boar mask and charge. This Inosuke lanyard channels the most untamed breath user in the Demon Slayer Corps, turning your everyday keys, ID card or work badge into a roster flex. The woven polyester strap keeps the print sharp and the colours loud, so the design stays crisp through daily commutes, lectures and shifts.</p><p>A metal clip lets you swap keys, cards and holders in seconds, while the lightweight build means you barely notice it around your neck. Fan-made and anime-inspired for true Demon Slayer fans, never affiliated with the official series.</p><ul><li>Character: Inosuke Hashibira, Demon Slayer-inspired design</li><li>Material: woven polyester strap</li><li>Hardware: metal clip for keys, ID cards and badges</li><li>Wear style: around-the-neck or clip-on everyday carry</li><li>Best for: keys, student/office ID, access badges, gaming tags</li><li>Care: wipe clean, air dry; avoid harsh bleaching</li><li>Fan art / anime-inspired; not official or licensed merchandise</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Inosuke Hashibira Demon Slayer-inspired print that stays bold day to day
+  • Durable woven polyester strap built for daily commutes and shifts
+  • Sturdy metal clip swaps keys, ID and badges in seconds
+  • Lightweight everyday carry you barely feel around your neck
+  • Fan art design for true Demon Slayer fans
+  • Ships nationwide across Nigeria and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (52 chars)        : Inosuke Lanyard | Demon Slayer Anime Keys & ID Strap
+Meta Description (150 chars) : Inosuke Demon Slayer-inspired lanyard with woven polyester strap and metal clip for keys, ID and badges. Fan-made anime accessory. Ships from Nigeria.
+Focus keyword                       : Inosuke lanyard
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Inosuke Hashibira Demon Slayer-inspired woven polyester lanyard with metal clip for keys and ID
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of an anime-inspired lanyard featuring an Inosuke boar-mask motif, woven polyester strap hanging with a metal clip holding an ID card and keys. Ink black #111111 background, paper white #FAFAFA strap highlights, single manga-red #E2261C accent on the print and clip. Halftone dot shading, dynamic speed lines, ink splatter, framed in a manga panel. Premium, cinematic, high-contrast lighting, sharp detail.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

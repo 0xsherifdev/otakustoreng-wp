@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Tanjiro Durag
+SLUG         : tanjiro-durag
+BUMPA ID     : 3041202
+WOO TYPE     : simple
+PARENT SKU   : OSN-3041202
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Headwear
+  - Shop by Anime > Demon Slayer
+
+TAGS: Tanjiro durag, Demon Slayer durag, anime durag, Tanjiro Kamado, Demon Slayer headwear, wave cap, anime headwear, Kimetsu no Yaiba
+FRANCHISE: Demon Slayer    CHARACTER: Tanjiro Kamado
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦8,000
+Total stock   : 9
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Compression, waves and Water Breathing energy.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A Tanjiro-inspired durag built for fans who train their waves and rep the roster. Smooth, stretchy fabric with long tails for a locked-in wrap, finished with checkered-pattern detailing that nods to the Water Breathing swordsman.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the calm focus of the Water Breathing swordsman every time you wrap up. This Tanjiro-inspired durag pairs a smooth, lightweight feel with a stretchy build, so it lays flat, holds compression and keeps your style locked in from morning grind to late-night marathon. The checkered-pattern motif is a clean nod to Tanjiro Kamado without shouting it.</p><p>Long, generous tails give you a secure tie and an easy drape down the back, while the wide front panel sits comfortably across the hairline. Ideal for laying waves, protecting a fresh style, or simply finishing a fit with a little Demon Slayer energy. Fan-made, anime-inspired and not affiliated with any official rights holder.</p><ul><li>Style: anime-inspired durag with extra-long tie tails</li><li>Design: Tanjiro Kamado checkered-pattern motif (Demon Slayer-inspired)</li><li>Fit: one size, fully adjustable with knot-tie closure</li><li>Feel: smooth, lightweight, stretchy fabric for everyday compression</li><li>Use: laying and maintaining waves, protecting styles, everyday wear</li><li>Care: hand wash cold, lay flat to dry, do not bleach or iron print</li><li>Includes: 1x durag</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Tanjiro Kamado checkered-pattern motif inspired by Demon Slayer
+  • Smooth, stretchy fabric that lays flat for clean compression
+  • Extra-long tails for a secure tie and easy drape
+  • One size, fully adjustable knot-tie fit for everyone
+  • Great for laying waves, protecting styles or finishing a fit
+  • Fan-made and anime-inspired, not affiliated with any rights holder
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (54 chars)        : Tanjiro Durag | Demon Slayer Wave Cap | Otaku Store NG
+Meta Description (154 chars) : Tanjiro-inspired Demon Slayer durag with smooth stretch fabric and long tails for waves and compression. One size. Ships nationwide and worldwide. ₦8,000.
+Focus keyword                       : Tanjiro durag
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Tanjiro-inspired Demon Slayer durag with checkered-pattern motif and long tie tails
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a folded durag on a paper-white #FAFAFA surface against an ink-black #111111 backdrop. Single manga-red #E2261C accent on a subtle checkered-pattern band nodding to Tanjiro. Halftone dot shading, sharp diagonal speed lines, fine ink splatter, framed inside a clean manga panel border. Premium, cinematic, high-contrast product photography, crisp fabric texture, dramatic side lighting.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

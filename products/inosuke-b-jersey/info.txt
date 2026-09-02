@@ -1,0 +1,77 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Inosuke B Jersey
+SLUG         : inosuke-b-jersey
+BUMPA ID     : 4846015
+WOO TYPE     : variable
+PARENT SKU   : OSN-4846015
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Jerseys
+  - Shop by Anime > Demon Slayer
+
+TAGS: Inosuke, Inosuke Hashibira, Demon Slayer, anime jersey, all-over print jersey, Beast Breathing, anime streetwear, Kimetsu no Yaiba
+FRANCHISE: Demon Slayer    CHARACTER: Inosuke Hashibira
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦23,000
+Total stock   : 248
+VARIATIONS (attribute: Size)
+  M              | ₦23,000 | stock 50   | SKU OSN-4846015-M
+  L              | ₦23,000 | stock 48   | SKU OSN-4846015-L
+  XL             | ₦23,000 | stock 50   | SKU OSN-4846015-XL
+  2XL            | ₦23,000 | stock 50   | SKU OSN-4846015-2XL
+  3XL            | ₦23,000 | stock 50   | SKU OSN-4846015-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Beast Breathing fury, printed edge to edge
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Wear the wild Beast Breathing energy. This all-over-print Inosuke jersey delivers vivid edge-to-edge Demon Slayer graphics on lightweight, breathable polyester. Unisex, true-to-size, and built for conventions, watch parties, and bold streetwear layering.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the wild heart of the Beast Breathing swordsman with the Inosuke B Jersey, an all-over-print drop made for fans who refuse to fly under the radar. Vivid, dye-sublimated graphics wrap the entire jersey edge to edge, so the Demon Slayer energy hits from every angle, front, back, and sleeves.</p><p>Cut for everyday wear and built to breathe, this lightweight jersey is your go-to for conventions, match-watch parties, and stacking into your everyday streetwear fits. Unisex sizing runs true to size, so size up if you want a roomier, layered look. Secure checkout, fast nationwide and worldwide delivery, and easy returns, every time.</p><ul><li><strong>Material:</strong> 100% polyester, lightweight and breathable</li><li><strong>Print:</strong> All-over dye-sublimation, vivid edge-to-edge graphics that won't crack or peel</li><li><strong>Fit:</strong> Unisex, button-up jersey cut</li><li><strong>Sizing:</strong> True to size, M to 3XL; size up if between sizes</li><li><strong>Care:</strong> Machine wash cold inside-out, do not iron the print directly</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • All-over dye-sublimated print, vivid Inosuke graphics from collar to hem
+  • Lightweight, breathable 100% polyester for all-day comfort
+  • Unisex button-up jersey cut, true to size (M to 3XL)
+  • Convention-ready and perfect for streetwear layering
+  • Fade-resistant print that won't crack or peel
+  • Fast nationwide and worldwide delivery with easy returns
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (50 chars)        : Inosuke Demon Slayer Anime Jersey | All-Over Print
+Meta Description (146 chars) : Shop the Inosuke Demon Slayer anime jersey. Vivid all-over print, breathable polyester, unisex fit. ₦23,000. Fast nationwide & worldwide delivery.
+Focus keyword                       : Inosuke anime jersey
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Inosuke Hashibira Demon Slayer all-over-print anime jersey in vivid color, front view
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga aesthetic studio shot of an all-over-print anime baseball jersey on an invisible mannequin, centered. Background ink black #111111 with subtle halftone screentone dots and dynamic manga speed lines radiating outward. High-contrast monochrome scene with a single bold manga-red #E2261C accent used sparingly for energy (a streak of brush-ink splatter and one speed-line burst). Paper white #FAFAFA highlights, manga panel layout framing, brush-ink splatter texture, cinematic premium anime-streetwear mood, dramatic rim lighting, sharp focus on jersey fabric folds.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+  - QA fixes applied: Factual error: Inosuke Hashibira is not a Hashira. The short_description's "Wear the wild Beast Hashira energy" and the long_description's framing were corrected; Inosuke is a Demon Slayer Corps member who uses Beast Breathing but never held Hashira rank. Changed to "Beast Breathing energy" to stay fan-accurate.
+================================================================================

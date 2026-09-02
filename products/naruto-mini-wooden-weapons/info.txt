@@ -1,0 +1,94 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Naruto Mini Wooden Weapons
+SLUG         : naruto-mini-wooden-weapons
+BUMPA ID     : 1145053
+WOO TYPE     : variable
+PARENT SKU   : OSN-1145053
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Katana & Weapons
+  - Shop by Anime > Naruto
+
+TAGS: Naruto, Naruto kunai, mini weapons, anime display replica, cosplay prop, Konoha, anime collectible, ninja weapons
+FRANCHISE: Naruto    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦6,000
+Total stock   : 59
+VARIATIONS (attribute: Style)
+  1              | ₦6,000 | stock 10   | SKU OSN-1145053-1
+  2              | ₦6,000 | stock 10   | SKU OSN-1145053-2
+  3              | ₦6,000 | stock 10   | SKU OSN-1145053-3
+  4              | ₦6,000 | stock 10   | SKU OSN-1145053-4
+  5              | ₦6,000 | stock 10   | SKU OSN-1145053-5
+  6              | ₦6,000 | stock 9    | SKU OSN-1145053-6
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Shinobi-grade mini blades for your shelf
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Bring the hidden village home with this Naruto-inspired mini weapons set. Six display pieces in matte black with crimson Konoha leaf marks and kanji detailing, perfect for collectors, desk dioramas and cosplay accents.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Equip your shelf like a true shinobi. This Naruto-inspired mini weapons set channels the hidden-leaf arsenal into compact, hand-sized collector pieces, each finished in deep matte black with the signature crimson Konoha leaf symbol and red kanji accents. From the iconic three-pronged kunai to slim throwing-style daggers and a curved mini blade, every piece nails the on-screen silhouette that fans know by heart.</p>
+<p>Built as a decorative display and cosplay prop, not a functional weapon, it looks sharp on a desk, in a diorama, or paired with your ninja fit at the next con. Choose your style and lock in the look. Keep out of reach of children and follow your local laws on bladed display items.</p>
+<ul>
+<li>Officially unaffiliated fan / anime-inspired Naruto collectible design</li>
+<li>Mini-scale display weapon replica for collecting, desk decor and cosplay</li>
+<li>Matte black finish with crimson Konoha leaf symbol and red kanji detailing</li>
+<li>6 style options to choose from: classic three-prong kunai, throwing daggers, curved blade and more</li>
+<li>Compact, hand-sized format ideal for shelves, dioramas and display stands</li>
+<li>Decorative prop only, not a functional weapon; keep away from children</li>
+<li>Wipe clean with a soft, dry cloth; store away from moisture to preserve the finish</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Authentic-look Naruto kunai and blade silhouettes from the hidden leaf
+  • Matte black finish with crimson Konoha leaf and red kanji accents
+  • 6 style options so you can pick your favourite shinobi piece
+  • Compact, hand-sized scale built for shelves, desks and dioramas
+  • Decorative display and cosplay prop, never a functional weapon
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (47 chars)        : Naruto Mini Weapons Set | Kunai Display Replica
+Meta Description (152 chars) : Naruto-inspired mini weapons set: 6 matte black kunai and blade display pieces with Konoha leaf accents. Collector and cosplay prop. Ships from Nigeria.
+Focus keyword                       : Naruto mini weapons
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+  05.jpg  (gallery)
+  06.jpg  (gallery)
+  07.jpg  (gallery)
+  08.jpg  (gallery)
+  09.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Naruto-inspired mini weapons set of six matte black kunai and blades with red Konoha leaf symbols
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product studio shot of a set of six mini Naruto-inspired display weapons (three-prong kunai, throwing daggers, curved blade) arranged in a fanned manga panel. Ink black #111111 background, paper white #FAFAFA negative space, single manga-red #E2261C accent glinting off the Konoha leaf marks. Halftone dot shading, sharp speed lines radiating from the blade tips, subtle ink-splatter, hard cinematic rim light, premium collector catalog aesthetic, high detail, no text.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Geto Mini Figurine
+SLUG         : geto-mini-figurine
+BUMPA ID     : 1873955
+WOO TYPE     : simple
+PARENT SKU   : OSN-1873955
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Figurines
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Geto figurine, Suguru Geto, Jujutsu Kaisen figurine, JJK collectible, anime mini figurine, Curse User, PVC statue, anime figurine Nigeria
+FRANCHISE: Jujutsu Kaisen    CHARACTER: Suguru Geto
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦10,000
+Total stock   : 7
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The Curse User, sculpted for your shelf.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Bring the calm menace of Suguru Geto to your desk with this anime-inspired mini figurine. Detailed pre-painted PVC sculpt, compact display size, and shelf-ready presence for any Jujutsu Kaisen collector. A clean, collectible drop from Otaku Store NG.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Suguru Geto carries the whole "I'll reshape the world" energy in one quiet stare, and this mini figurine captures it without taking over your shelf. Compact, pre-painted, and crisply sculpted, it slots neatly between your bigger statues or stands on its own as a focal collectible.</p><p>Cast in durable PVC with hand-finished paintwork, it's built for display rather than play. A clean addition for any Jujutsu Kaisen fan building out a sorcerer roster. Anime-inspired collectible by Otaku Store NG; fan-made and not affiliated with the official rights holders.</p><ul><li>Character: Suguru Geto, the rogue Curse User from Jujutsu Kaisen</li><li>Type: collectible mini figurine / display statue (not a toy)</li><li>Material: sculpted PVC with pre-painted, hand-finished detailing</li><li>Format: compact mini size, ideal for desks, shelves and detolf setups</li><li>Includes: one figurine on its display base</li><li>Care: keep out of direct sunlight, dust gently with a soft dry brush</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Suguru Geto from Jujutsu Kaisen, sculpted in compact mini form
+  • Pre-painted PVC with crisp, hand-finished detailing
+  • Display-ready statue for desks, shelves and detolf cabinets
+  • Comes on its own display base, no assembly fuss
+  • Anime-inspired fan collectible, not a toy
+  • Ships nationwide across Nigeria and worldwide from Otaku Store NG
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (47 chars)        : Geto Mini Figurine | Jujutsu Kaisen Collectible
+Meta Description (153 chars) : Suguru Geto mini figurine from Jujutsu Kaisen. Pre-painted PVC collectible statue, shelf-ready. ₦10,000. Ships nationwide and worldwide from Otaku Store.
+Focus keyword                       : Geto mini figurine
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Suguru Geto mini figurine from Jujutsu Kaisen, pre-painted PVC collectible statue on a display base
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a Suguru Geto anime-inspired mini collectible figurine on its base, centered on a slick ink-black surface (#111111) with paper-white (#FAFAFA) backdrop. Single manga-red (#E2261C) accent as a sweeping speed-line streak behind the figure. Halftone dot texture, dramatic ink splatter at the edges, subtle manga panel borders framing the shot. Cinematic premium lighting, soft rim light catching the sculpted detail, shallow depth of field. No text, no logos, no watermark.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

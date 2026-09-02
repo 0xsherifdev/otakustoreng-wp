@@ -1,0 +1,78 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Gaming Thumb Sleeves
+SLUG         : gaming-thumb-sleeves
+BUMPA ID     : 1920121
+WOO TYPE     : variable
+PARENT SKU   : OSN-1920121
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+
+TAGS: gaming thumb sleeves, mobile gaming accessories, anti-sweat finger sleeves, touchscreen gaming gloves, anime gaming gear, thumb grips for phone, mobile FPS accessories, gamer accessories
+FRANCHISE: Generic Anime    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦2,500
+Total stock   : 36
+VARIATIONS (attribute: Color)
+  Black          | ₦2,500 | stock 6    | SKU OSN-1920121-BLACK
+  Blue           | ₦2,500 | stock 10   | SKU OSN-1920121-BLUE
+  Gray           | ₦2,500 | stock 10   | SKU OSN-1920121-GRAY
+  Pink           | ₦2,500 | stock 10   | SKU OSN-1920121-PINK
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Sweat-proof grip for clutch mobile plays.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Level up your mobile game with these anime-inspired thumb sleeves. The breathable, sensitive fabric kills sweat and boosts touch response so your aim stays sharp through every ranked match. One size, four colours.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Stop losing clutch rounds to sweaty thumbs. These anime-inspired Gaming Thumb Sleeves slip over your fingertips to deliver buttery-smooth swipes, faster touch response and a sweat-free grip on any phone or tablet screen. Built for mobile shooters, MOBAs and rhythm games, they let you aim, drag and tap with precision long after your bare fingers would have started slipping.</p><p>The stretch-knit fabric is sensitive enough that your screen reads every input, while staying breathable through marathon sessions. Lightweight, washable and one-size-stretch to fit most thumbs and index fingers. Pick your colour and rep the roster while you climb the ranks.</p><ul><li>Item: gaming thumb/finger sleeves for touchscreen play (sold as a set)</li><li>Material: breathable stretch-knit fabric with touch-sensitive conductive weave</li><li>Colour options: Black, Blue, Gray, Pink</li><li>Fit: one-size-stretch, suits most thumbs and index fingers</li><li>Best for: mobile FPS, MOBA, battle royale and rhythm games</li><li>Benefits: anti-sweat, anti-slip grip with improved touch sensitivity</li><li>Care: hand-wash and air-dry; reusable</li><li>Style: clean, anime-inspired everyday gaming accessory (fan-made, not affiliated)</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Anti-sweat fabric keeps your grip dry through long ranked sessions
+  • Touch-sensitive weave for faster, more accurate swipes and taps
+  • One-size-stretch fit for most thumbs and index fingers
+  • Four colours: Black, Blue, Gray and Pink
+  • Lightweight, breathable and machine-friendly washable
+  • Built for mobile FPS, MOBA, battle royale and rhythm games
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : Gaming Thumb Sleeves | Anti-Sweat Mobile Grip
+Meta Description (152 chars) : Anime-inspired gaming thumb sleeves with anti-sweat, touch-sensitive fabric for sharper mobile aim. Black, Blue, Gray, Pink. ₦2,500. Ships from Nigeria.
+Focus keyword                       : gaming thumb sleeves
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+  05.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Set of anime-inspired gaming thumb sleeves in black, blue, gray and pink for touchscreen mobile play
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga style studio product shot of a pair of gaming thumb sleeves stretched over a gamer's thumbs gripping a smartphone mid-match. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent on a speed-line burst behind the hands. Halftone dot shading, sharp speed lines radiating from the screen, subtle ink splatter in the corners, framed inside a clean manga panel border. Premium, cinematic, high-contrast lighting emphasising the fabric texture and the glowing phone screen.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

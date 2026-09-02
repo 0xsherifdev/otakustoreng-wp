@@ -1,0 +1,81 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Gojo gym bottle
+SLUG         : gojo-gym-bottle
+BUMPA ID     : 4430203
+WOO TYPE     : simple
+PARENT SKU   : OSN-4430203
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Bottles & Drinkware
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Gojo gym bottle, Jujutsu Kaisen bottle, Gojo Satoru, anime water bottle, JJK merch, anime drinkware, gym water bottle, anime gift
+FRANCHISE: Jujutsu Kaisen    CHARACTER: Gojo Satoru
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦19,000
+Total stock   : 500
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Hydrate like the strongest. Limitless reps.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A Gojo Satoru gym bottle for fans who train like the strongest. Bold Jujutsu Kaisen-inspired artwork, leak-resistant lid and a wide mouth for easy refills and ice. Your new go-to for every session.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Bring infinite energy to every session with the Gojo gym bottle, an anime-inspired water bottle built for fans of Jujutsu Kaisen and the Six Eyes sorcerer himself. The bold Gojo Satoru artwork turns your usual refill into a flex, while the rugged build keeps up with sprints, lifts and long study grinds alike.</p>
+<p>Designed for daily carry, it slips into gym bags, backpacks and most cup holders so your hydration goal travels with you. Hand-wash recommended to keep the print sharp and the colours loud, exactly the way Gojo would want it.</p>
+<ul>
+<li>Bold Gojo Satoru / Jujutsu Kaisen-inspired artwork (fan design, not affiliated)</li>
+<li>Durable, food-safe construction made for daily gym and everyday use</li>
+<li>Wide mouth for quick refills, easy cleaning and adding ice</li>
+<li>Leak-resistant lid to help keep your bag dry on the move</li>
+<li>Lightweight, grab-and-go profile that fits most bags and cup holders</li>
+<li>Hand-wash recommended to protect the print and finish</li>
+<li>Check the listing for capacity options before you order</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Gojo Satoru Jujutsu Kaisen-inspired artwork
+  • Wide mouth for ice and fast refills
+  • Leak-resistant lid for bag-friendly carry
+  • Durable, food-safe build for daily gym use
+  • Lightweight grab-and-go profile fits most cup holders
+  • Hand-wash recommended to protect the print
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : Gojo Gym Bottle | Jujutsu Kaisen Water Bottle
+Meta Description (147 chars) : Gojo Satoru gym bottle inspired by Jujutsu Kaisen. Bold anime artwork, leak-resistant lid, wide mouth. Ships from Nigeria nationwide and worldwide.
+Focus keyword                       : Gojo gym bottle
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Gojo Satoru Jujutsu Kaisen-inspired gym water bottle with bold anime artwork
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of an anime gym water bottle standing centre-frame on ink black #111111 background, paper white #FAFAFA halftone dots and dynamic speed lines radiating outward, single manga-red #E2261C accent flash across one manga panel, a streak of ink splatter at the base, dramatic cinematic rim lighting, premium high-contrast monochrome with one red pop, sharp focus, advertising photography.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

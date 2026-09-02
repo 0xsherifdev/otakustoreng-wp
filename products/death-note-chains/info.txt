@@ -1,0 +1,85 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Death Note Chains
+SLUG         : death-note-chains
+BUMPA ID     : 1134684
+WOO TYPE     : variable
+PARENT SKU   : OSN-1134684
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+
+TAGS: Death Note, Death Note necklace, anime necklace, anime pendant, L necklace, Kira, chains & necklaces, anime accessories, anime jewelry, otaku merch
+FRANCHISE: Death Note    CHARACTER: Light Yagami / L
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦3,500
+Total stock   : 400
+VARIATIONS (attribute: Style)
+  1              | ₦3,500 | stock 200  | SKU OSN-1134684-1
+  2              | ₦3,500 | stock 100  | SKU OSN-1134684-2
+  3              | ₦3,500 | stock 100  | SKU OSN-1134684-3
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry Kira's verdict around your neck.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Death Note-inspired pendant necklace for fans of L, Light and Ryuk. Choose from three iconic designs on a tarnish-resistant chain that wears clean from class to convention. Anime-inspired, not affiliated.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some fans play the genius. Some fans play the detective. This Death Note-inspired chain lets you pick your side of the most legendary cat-and-mouse in anime. Built around the show's most recognisable iconography, it's a clean, statement pendant that finishes a streetwear fit or a cosplay loadout without screaming for attention.</p>
+<p>Forged from durable, tarnish-resistant metal, the pendant hangs on an everyday chain that's just as ready for the lecture hall as it is for the con floor. Pick the style that matches your allegiance and wear the roster.</p>
+<ul>
+<li>Death Note anime-inspired pendant necklace (fan-made, not affiliated or official)</li>
+<li>Choice of 3 designs: Style 1, Style 2, Style 3</li>
+<li>Durable stainless-steel / alloy build that resists tarnish</li>
+<li>Standard-length chain with secure lobster-clasp closure</li>
+<li>Lightweight, low-profile pendant for daily wear</li>
+<li>Unisex styling — pairs with streetwear, uniforms and cosplay</li>
+<li>Wipe clean with a soft, dry cloth; keep away from moisture to preserve finish</li>
+<li>Ships from Nigeria, nationwide and worldwide</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Death Note-inspired pendant for true fans of L and Kira
+  • Three iconic designs to choose from
+  • Durable, tarnish-resistant stainless-steel / alloy build
+  • Secure lobster-clasp chain, lightweight for daily wear
+  • Unisex — works with streetwear and cosplay alike
+  • Fan-made and anime-inspired, not affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (56 chars)        : Death Note Chains - Anime Pendant Necklace | Otaku Store
+Meta Description (153 chars) : Death Note-inspired pendant necklace in 3 designs. Tarnish-resistant chain for L and Kira fans. Ships from Nigeria worldwide. Shop now at Otaku Store NG.
+Focus keyword                       : Death Note necklace
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Death Note-inspired pendant necklace on a stainless-steel chain
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+DARK MANGA studio product shot: a Death Note-inspired metal pendant necklace coiled on a paper-white #FAFAFA surface, ink-black #111111 background with manga panel borders. Single manga-red #E2261C accent glow behind the pendant. Halftone dot texture, sharp speed lines radiating outward, subtle ink splatter at the edges. Dramatic cinematic side lighting, shallow depth of field, premium product photography, high detail on the chain links and clasp. No text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

@@ -1,0 +1,72 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Akastuki Rings
+SLUG         : akastuki-rings
+BUMPA ID     : 1146094
+WOO TYPE     : simple
+PARENT SKU   : OSN-1146094
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Rings
+  - Shop by Anime > Naruto
+
+TAGS: Akatsuki ring, Naruto ring, anime ring, Akatsuki, Naruto accessories, cosplay ring, anime jewelry, ninja ring
+FRANCHISE: Naruto    CHARACTER: Akatsuki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦18,000
+Total stock   : 999
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Claim your finger of the Akatsuki.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel the rogue ninja within. This Naruto-inspired Akatsuki ring carries the organization's iconic kanji on polished, tarnish-resistant metal built for everyday wear. Pick your size and slide on the legend of the criminal clan.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Every member of the Akatsuki earned a ring, and every ring meant something. This Naruto-inspired piece puts that same energy on your hand, stamping the organization's signature kanji onto a sleek band that reads serious from across the room. Pair it with a cloak fit or wear it solo as a quiet nod to the most feared roster in the series.</p><p>Crafted from durable stainless steel / alloy with a smooth polished finish, it shrugs off daily wear and keeps its shine without tarnishing. Choose your size at checkout for a clean, comfortable fit you can rock day in, day out.</p><ul><li>Anime-inspired Akatsuki design with engraved organization kanji</li><li>Material: stainless steel / alloy construction</li><li>Polished finish, tarnish-resistant for everyday wear</li><li>Available in standard ring sizes (select your size at checkout)</li><li>Comfortable rounded band suitable for daily styling</li><li>Includes 1 ring</li><li>Fan-made / anime-inspired tribute; not affiliated with or endorsed by the official rights holders</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Iconic Akatsuki kanji engraving from Naruto
+  • Stainless steel / alloy build that lasts
+  • Polished, tarnish-resistant for daily wear
+  • Available in standard ring sizes
+  • Stacks or wears solo for cosplay or street fits
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (48 chars)        : Akatsuki Ring (Naruto-Inspired) | Otaku Store NG
+Meta Description (151 chars) : Naruto-inspired Akatsuki ring in tarnish-resistant steel with engraved kanji. Standard sizes, polished finish. Ships nationwide and worldwide. ₦18,000.
+Focus keyword                       : Akatsuki ring
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Naruto-inspired Akatsuki ring in polished metal with engraved kanji symbol
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a single Akatsuki-inspired metal ring resting on a manga panel, ink black #111111 background with paper white #FAFAFA accents and a single manga-red #E2261C kanji glow on the band. Halftone dot shading, dramatic speed lines radiating outward, subtle ink splatter framing the ring, sharp cinematic rim lighting catching the polished steel. Premium macro detail on the engraved kanji, high contrast, comic-panel composition. No text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

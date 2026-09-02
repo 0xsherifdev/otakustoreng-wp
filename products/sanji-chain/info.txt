@@ -1,0 +1,82 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Sanji Chain
+SLUG         : sanji-chain
+BUMPA ID     : 1927511
+WOO TYPE     : simple
+PARENT SKU   : OSN-1927511
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > One Piece
+
+TAGS: Sanji, One Piece, Sanji chain, anime necklace, Jolly Roger pendant, Straw Hat crew, anime jewelry, pendant necklace, One Piece merch, anime accessories
+FRANCHISE: One Piece    CHARACTER: Sanji
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,500
+Total stock   : 507
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The Straw Hat cook's Jolly Roger, around your neck.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Rep the Straw Hats' chef with this Sanji Jolly Roger pendant — a chef's-hat skull crossed by knife and fork on a braided cord. Polished silver-tone metal that resists tarnish, ready to wear straight out the box.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Every crew needs a cook, and the Straw Hats got the best. This Sanji Chain channels the Vinsmoke flair with his personal Jolly Roger — a skull crowned by a chef's toque, the unmistakable swirl brow, and a knife crossed with a fork beneath. It's a clean, anime-inspired piece for One Piece fans who'd rather show their colours than shout them.</p>
+<p>The pendant hangs from a black braided cord that sits easy under a tee or over a fit, and the polished silver-tone finish keeps its shine with a quick wipe. Subtle enough for everyday, sharp enough to catch the eye of anyone who knows the roster.</p>
+<ul>
+<li><strong>Design:</strong> Sanji Jolly Roger — chef's-hat skull with swirl brow, crossed knife and fork</li>
+<li><strong>Pendant material:</strong> durable silver-tone metal alloy, tarnish-resistant</li>
+<li><strong>Chain:</strong> black braided cord with lobster-clasp closure</li>
+<li><strong>Fit:</strong> standard everyday length, sits at the chest</li>
+<li><strong>Care:</strong> wipe clean with a soft dry cloth; keep away from water and perfume</li>
+<li><strong>In the box:</strong> one Sanji pendant on cord</li>
+<li><strong>Vibe:</strong> unisex, layer-friendly, anime-inspired everyday wear</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Sanji's own Jolly Roger — chef's-hat skull with the signature swirl brow
+  • Crossed knife and fork detail nods to the Straw Hats' cook
+  • Polished silver-tone alloy that resists tarnish
+  • Black braided cord with secure lobster clasp
+  • Unisex and layer-friendly for everyday wear
+  • Wipe clean and ready to rep straight out the box
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (52 chars)        : Sanji Chain - One Piece Jolly Roger Pendant Necklace
+Meta Description (148 chars) : Sanji Jolly Roger pendant necklace — chef's-hat skull on a braided cord. Tarnish-resistant One Piece anime-inspired chain. ₦4,500, ships nationwide.
+Focus keyword                       : Sanji chain
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Silver-tone Sanji Jolly Roger pendant — chef's-hat skull with swirl brow and crossed knife and fork — on a black braided cord necklace.
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga style studio product shot of a silver-tone One Piece Sanji Jolly Roger pendant — a chef's-toque skull with a single swirling eyebrow and a crossed knife and fork — hanging on a black braided cord. Ink black #111111 background with paper white #FAFAFA negative space, a single manga-red #E2261C accent slash behind the pendant. Halftone dot texture, dramatic speed lines, subtle ink splatter, framed in a clean manga panel. Premium, cinematic, high-contrast lighting catching the polished metal. No text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

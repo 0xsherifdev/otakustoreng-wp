@@ -1,0 +1,75 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Solo Leveling Sweater
+SLUG         : solo-leveling-sweater
+BUMPA ID     : 2135554
+WOO TYPE     : variable
+PARENT SKU   : OSN-2135554
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+  - Shop by Anime > Solo Leveling
+
+TAGS: Solo Leveling sweater, Solo Leveling merch, anime knit sweater, monarch crewneck, anime streetwear, Sung Jinwoo, manhwa apparel, unisex anime sweater
+FRANCHISE: Solo Leveling    CHARACTER: Igris / Monarch (Architect-style guardian)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦29,000
+Total stock   : 39
+VARIATIONS (attribute: Size)
+  L              | ₦29,000 | stock 10   | SKU OSN-2135554-L
+  XL             | ₦29,000 | stock 9    | SKU OSN-2135554-XL
+  2XL            | ₦29,000 | stock 10   | SKU OSN-2135554-2XL
+  3XL            | ₦29,000 | stock 10   | SKU OSN-2135554-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Arise. Wear the monarch's grin.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Heavyweight black knit crewneck sweater with a bold white jacquard monarch graphic and lightning down the sleeves. Anime-inspired Solo Leveling streetwear with a boxy unisex fit, ribbed cuffs and hem for everyday wear.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some doors only open for the strong. This Solo Leveling-inspired knit sweater puts that same menace on your chest, a towering white jacquard monarch grinning out of deep ink-black yarn, with jagged lightning bolts crackling down both sleeves. It is the kind of piece that turns a quick coffee run into a panel from the manhwa.</p><p>Built as a heavyweight crewneck pullover with a relaxed, boxy unisex fit, it layers clean over a tee or under a jacket. Fan-made, anime-inspired apparel for Hunters who level up their fits. Not affiliated with or endorsed by the official rights holders.</p><ul><li>Heavyweight knit pullover sweater, crewneck collar</li><li>Two-tone jacquard-knit design, the graphic is knitted in rather than printed, so it will not crack or peel</li><li>Bold monarch face front graphic with lightning-bolt detailing down the sleeves</li><li>Ribbed crew neckline, cuffs and hem hold their shape wash after wash</li><li>Relaxed, boxy unisex streetwear fit</li><li>Available in L, XL, 2XL and 3XL</li><li>Machine wash cold, inside-out, lay flat to dry to protect the knit</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Knitted-in monarch graphic that won't crack or peel like a print
+  • Lightning-bolt sleeve detailing for a full Solo Leveling look
+  • Heavyweight knit with a relaxed, boxy unisex fit
+  • Ribbed neck, cuffs and hem keep their shape
+  • Sizes L through 3XL
+  • Fan-made anime-inspired design, not affiliated with the rights holders
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : Solo Leveling Knit Sweater | Monarch Crewneck
+Meta Description (150 chars) : Heavyweight Solo Leveling-inspired knit sweater with a white jacquard monarch graphic and lightning sleeves. Boxy unisex fit, sizes L-3XL. Ships from.
+Focus keyword                       : Solo Leveling sweater
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black Solo Leveling knit crewneck sweater with a large white monarch face graphic and lightning bolts down the sleeves
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product studio shot of a black heavyweight knit crewneck sweater laid flat, featuring a large white jacquard monarch face graphic with lightning bolts running down the sleeves. Ink black #111111 background, paper white #FAFAFA garment highlights, single manga-red #E2261C accent on a speed-line burst behind the collar. Halftone dot shading, dramatic ink splatter in the corners, manga panel borders framing the shot, sharp directional studio lighting, premium cinematic streetwear catalogue aesthetic, high detail, no text.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

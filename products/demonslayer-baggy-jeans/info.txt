@@ -1,0 +1,76 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Demonslayer Baggy Jeans
+SLUG         : demonslayer-baggy-jeans
+BUMPA ID     : 2119048
+WOO TYPE     : variable
+PARENT SKU   : OSN-2119048
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Trousers
+  - Shop by Anime > Demon Slayer
+
+TAGS: Demon Slayer, Demon Slayer jeans, anime jeans, baggy jeans, Tanjiro, Nezuko, anime trousers, Kimetsu no Yaiba, streetwear, anime denim
+FRANCHISE: Demon Slayer    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦27,000
+Total stock   : 50
+VARIATIONS (attribute: Size)
+  M              | ₦27,000 | stock 10   | SKU OSN-2119048-M
+  L              | ₦27,000 | stock 10   | SKU OSN-2119048-L
+  XL             | ₦27,000 | stock 10   | SKU OSN-2119048-XL
+  2XL            | ₦27,000 | stock 10   | SKU OSN-2119048-2XL
+  3XL            | ₦27,000 | stock 10   | SKU OSN-2119048-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Light-wash baggy denim, full Demon Slayer ink
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Light-wash baggy denim jeans loaded with Demon Slayer artwork: Tanjiro and Nezuko down one leg, a panel of glaring demon-slayer eyes down the other. Wide straight-leg fit, unisex, built to be seen. Fan-made, anime-inspired.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Step out fully kitted in the corps. These light-wash baggy jeans carry a loud Demon Slayer print job: Tanjiro and Nezuko rendered large across one leg, with a vertical run of glaring character eyes panelled down the other. It is a statement piece that reads as a manga page the second you walk in.</p><p>The wide, relaxed straight leg gives that streetwear silhouette without sacrificing room, while the classic denim build keeps it everyday-tough. Unisex sizing means anyone can wear the roster. Style it loose with the matching tee or a clean hoodie and let the graphics do the talking.</p><ul><li>Material: cotton-blend denim with a soft light-wash finish</li><li>Fit: baggy, wide straight-leg cut; unisex sizing</li><li>Closure: front button and zip fly with belt loops</li><li>Graphics: full-colour anime-inspired Tanjiro and Nezuko print plus a demon-slayer eyes panel strip</li><li>Pockets: standard five-pocket styling</li><li>Sizes: M, L, XL, 2XL, 3XL</li><li>Care: machine wash cold inside out, hang dry to protect the print</li><li>Fan-made / anime-inspired apparel, not affiliated with or endorsed by the official rights holders</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold full-colour Tanjiro and Nezuko print across the leg
+  • Vertical demon-slayer eyes panel strip on the opposite leg
+  • Baggy wide straight-leg streetwear silhouette
+  • Light-wash cotton-blend denim, everyday-tough
+  • Unisex sizing from M to 3XL
+  • Pairs perfectly with a matching anime tee or hoodie
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (49 chars)        : Demon Slayer Baggy Jeans | Tanjiro & Nezuko Denim
+Meta Description (150 chars) : Demon Slayer baggy jeans in light-wash denim with bold Tanjiro and Nezuko print. Wide straight-leg, unisex M-3XL. Ships nationwide and worldwide from.
+Focus keyword                       : Demon Slayer baggy jeans
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Light-wash baggy denim jeans with full-colour Demon Slayer print of Tanjiro and Nezuko on one leg and a strip of demon-slayer eyes panels on the other
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product studio shot of light-wash baggy denim jeans laid flat, ink black #111111 background with paper white #FAFAFA negative space, single manga-red #E2261C accent. Halftone dot shading, dynamic speed lines and ink splatter framing the denim in clean manga panels. The jeans show bold anime-style character graphics down the legs. Cinematic premium lighting, high detail, magazine-quality merch photography, no text.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

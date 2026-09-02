@@ -1,0 +1,76 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Naruto Face Slash T Shirt
+SLUG         : naruto-face-slash-t-shirt
+BUMPA ID     : 1125494
+WOO TYPE     : variable
+PARENT SKU   : OSN-1125494
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+  - Shop by Anime > Naruto
+
+TAGS: Naruto, Naruto t-shirt, anime t-shirt, Naruto Uzumaki, anime graphic tee, ninja shirt, otaku apparel, cotton anime tee
+FRANCHISE: Naruto    CHARACTER: Naruto Uzumaki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦12,000
+Total stock   : 500
+VARIATIONS (attribute: Size)
+  M              | ₦12,000 | stock 100  | SKU OSN-1125494-M
+  L              | ₦12,000 | stock 100  | SKU OSN-1125494-L
+  XL             | ₦12,000 | stock 100  | SKU OSN-1125494-XL
+  2XL            | ₦12,000 | stock 100  | SKU OSN-1125494-2XL
+  XXXL           | ₦12,000 | stock 100  | SKU OSN-1125494-XXXL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Whiskered grit, slashed-headband energy on soft cotton.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A Naruto-inspired graphic tee built for fans who live the ninja way. Soft, thick cotton in a unisex regular fit with a bold face-slash print that fades-resists wash after wash. Crew neck, everyday-ready, screen-printed for the long run.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the will of fire with the Naruto Face Slash Tee, a fan-favourite graphic shirt built around a bold close-up of the No. 1 hyperactive, knuckle-headed ninja and that unmistakable slashed-headband attitude. Printed on thick, breathable cotton with a clean crew neck and a unisex regular fit, it sits true to size and wears like your favourite everyday tee.</p><p>The durable, fade-resistant print holds its punch through repeated washes, so the artwork stays sharp from training arc to final battle. Pair it with denim, joggers or cargos for an effortless otaku-ready look that says you know the roster.</p><ul><li>Anime-inspired Naruto graphic print (fan art, not affiliated)</li><li>Soft, thick cotton fabric for comfort and structure</li><li>Unisex regular fit, true to size</li><li>Classic crew neck</li><li>Durable, fade-resistant screen print</li><li>Available sizes: M, L, XL, 2XL, XXXL</li><li>Care: machine wash cold, inside-out; do not tumble dry hot</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold Naruto Uzumaki face-slash graphic, anime-inspired fan art
+  • Thick, soft cotton with a unisex regular fit, true to size
+  • Durable fade-resistant print that survives the wash cycle
+  • Classic crew neck, easy to layer or wear solo
+  • Wide size range from M up to XXXL
+  • Machine wash cold inside-out to keep colours crisp
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (44 chars)        : Naruto Face Slash T-Shirt | Anime Cotton Tee
+Meta Description (154 chars) : Naruto-inspired Face Slash tee in soft thick cotton. Unisex regular fit, fade-resistant print, sizes M-XXXL. Ships from Nigeria, nationwide and worldwide.
+Focus keyword                       : Naruto face slash t-shirt
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Naruto Uzumaki face slash graphic printed on a soft cotton crew-neck t-shirt
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a folded cotton crew-neck t-shirt featuring a bold close-up Naruto-inspired ninja face graphic with a slashed forehead protector. Ink black #111111 background, paper white #FAFAFA shirt, single manga-red #E2261C accent on the headband slash. Halftone dot shading, dynamic speed lines radiating outward, subtle ink splatter, framed in clean manga panels. Premium, cinematic, high-contrast lighting, sharp focus on the print.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

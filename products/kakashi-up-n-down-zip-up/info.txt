@@ -1,0 +1,75 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Kakashi Up N Down Zip Up
+SLUG         : kakashi-up-n-down-zip-up
+BUMPA ID     : 1125260
+WOO TYPE     : variable
+PARENT SKU   : OSN-1125260
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Shop by Anime > Naruto
+
+TAGS: Kakashi hoodie, Naruto hoodie, zip-up hoodie, anime hoodie, Kakashi Hatake, Naruto merch, Hidden Leaf, Copy Ninja, cotton hoodie, anime streetwear
+FRANCHISE: Naruto    CHARACTER: Kakashi Hatake
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦25,000
+Total stock   : 500
+VARIATIONS (attribute: Size)
+  M              | ₦25,000 | stock 100  | SKU OSN-1125260-M
+  L              | ₦25,000 | stock 100  | SKU OSN-1125260-L
+  XL             | ₦25,000 | stock 100  | SKU OSN-1125260-XL
+  2XL            | ₦25,000 | stock 100  | SKU OSN-1125260-2XL
+  XXXL           | ₦25,000 | stock 100  | SKU OSN-1125260-XXXL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Copy Ninja energy, zipped from up to down.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A thick cotton Kakashi zip-up hoodie built for everyday wear. Naruto-inspired graphics, a full-length zip and a cosy heavyweight feel make this the layer every Hidden Leaf fan reaches for first.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Suit up like the Copy Ninja. This Kakashi Hatake zip-up hoodie brings Hidden Leaf attitude to the streets with a bold Naruto-inspired graphic and a full-length front zip you can wear open or fully shut. The thick cotton build gives it real weight and warmth, so it holds its shape and keeps you covered from training ground to late-night anime marathons.</p><p>Cut for comfort across sizes M to XXXL, it layers cleanly over a tee or zips up solo on cooler days. A premium fan piece for anyone who claims Team 7.</p><ul><li>Naruto-inspired Kakashi Hatake graphic (fan-made, not affiliated with or endorsed by the official rights holders)</li><li>Full-length front zip closure</li><li>Thick, heavyweight cotton fabric for warmth and structure</li><li>Hooded design with long sleeves</li><li>Available sizes: M, L, XL, 2XL, XXXL</li><li>Care: machine wash cold, wash inside out, hang or line dry to protect the print</li><li>Ships from Nigeria, nationwide and worldwide</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold Naruto-inspired Kakashi Hatake graphic
+  • Thick heavyweight cotton for real warmth and structure
+  • Full-length zip - wear it open or closed
+  • Sizes M through XXXL for a comfortable fit
+  • Versatile layer for streetwear or chill days
+  • Ships nationwide and worldwide from Nigeria
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (43 chars)        : Kakashi Zip-Up Hoodie | Naruto Anime Hoodie
+Meta Description (153 chars) : Naruto-inspired Kakashi zip-up hoodie in thick cotton. Full-length zip, sizes M-XXXL. Premium fan hoodie shipping nationwide and worldwide. From ₦25,000.
+Focus keyword                       : Kakashi zip-up hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Kakashi Hatake Naruto-inspired thick cotton zip-up hoodie with full-length front zip
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a heavyweight zip-up hoodie on an invisible mannequin, three-quarter angle, full-length front zip visible. Ink black #111111 background, paper white #FAFAFA hoodie, single manga-red #E2261C accent on a stylized Kakashi-inspired mask-and-eye motif. Halftone dot shading, sharp speed lines radiating behind the garment, subtle ink splatter framing a manga panel border. Premium cinematic lighting, high detail, crisp fabric texture.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

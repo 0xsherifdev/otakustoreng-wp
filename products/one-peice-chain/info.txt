@@ -1,0 +1,101 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : One Peice Chain
+SLUG         : one-peice-chain
+BUMPA ID     : 1134728
+WOO TYPE     : variable
+PARENT SKU   : OSN-1134728
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > One Piece
+
+TAGS: One Piece chain, One Piece necklace, anime pendant necklace, Jolly Roger pendant, Straw Hat necklace, anime jewelry, One Piece merch, anime chain
+FRANCHISE: One Piece    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,500
+Total stock   : 1499
+VARIATIONS (attribute: Style)
+  1              | ₦4,500 | stock 100  | SKU OSN-1134728-1
+  2              | ₦4,500 | stock 99   | SKU OSN-1134728-2
+  3              | ₦4,500 | stock 100  | SKU OSN-1134728-3
+  4              | ₦4,500 | stock 100  | SKU OSN-1134728-4
+  5              | ₦4,500 | stock 100  | SKU OSN-1134728-5
+  6              | ₦4,500 | stock 100  | SKU OSN-1134728-6
+  7              | ₦4,500 | stock 100  | SKU OSN-1134728-7
+  8              | ₦4,500 | stock 100  | SKU OSN-1134728-8
+  9              | ₦4,500 | stock 100  | SKU OSN-1134728-9
+  10             | ₦4,500 | stock 100  | SKU OSN-1134728-10
+  11             | ₦4,500 | stock 100  | SKU OSN-1134728-11
+  12             | ₦4,500 | stock 100  | SKU OSN-1134728-12
+  13             | ₦4,500 | stock 100  | SKU OSN-1134728-13
+  14             | ₦4,500 | stock 100  | SKU OSN-1134728-14
+  15             | ₦4,500 | stock 100  | SKU OSN-1134728-15
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Fly your Jolly Roger. Pick your crew.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+An anime-inspired One Piece pendant necklace built for the Grand Line. Choose from 15 pirate-crew emblem designs on a durable, tarnish-resistant chain. Lightweight, everyday-ready, and the cleanest way to wear your allegiance to the Straw Hats.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Set sail with your crew on display. This One Piece pendant necklace lets you wear the symbol that means the most to you, from the iconic Straw Hat Jolly Roger to other legendary pirate-crew emblems pulled straight from the Grand Line. Detailed enamel and metalwork give each pendant real presence, while the slim chain keeps the look clean enough for daily wear and bold enough to turn heads at the next con.</p>
+<p>Choose your design from the 15 numbered style options (counted left to right in the product photos), then claim your place in the roster. Anime-inspired fan merch, not affiliated with or endorsed by the official rights holders.</p>
+<ul>
+<li><strong>Pendant designs:</strong> 15 One Piece crew and pirate emblem options to choose from</li>
+<li><strong>Material:</strong> durable, tarnish-resistant stainless-steel / alloy pendant with enamel detailing</li>
+<li><strong>Chain:</strong> slim chain with secure clasp and an adjustable extender for a comfortable fit</li>
+<li><strong>Wear:</strong> lightweight and low-profile for everyday wear, cosplay, or gifting</li>
+<li><strong>Fits:</strong> unisex, one size for teens and adults</li>
+<li><strong>Care:</strong> wipe clean with a soft dry cloth; keep away from water and perfume to preserve the finish</li>
+<li><strong>In the box:</strong> 1x One Piece pendant necklace in your chosen design</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • 15 pirate-crew pendant designs to choose from, including the Straw Hat Jolly Roger
+  • Durable, tarnish-resistant stainless-steel / alloy build with crisp enamel detail
+  • Slim chain with secure clasp and adjustable extender for an easy fit
+  • Lightweight and unisex, perfect for everyday wear, cosplay, or gifting
+  • Anime-inspired fan design for true One Piece crew members
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : One Piece Chain Necklace | 15 Pendant Designs
+Meta Description (149 chars) : Anime-inspired One Piece pendant necklace with 15 pirate-crew designs. Durable, tarnish-resistant chain. Wear your Jolly Roger. Ships nationwide and.
+Focus keyword                       : One Piece chain necklace
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+  05.jpg  (gallery)
+  06.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: One Piece pendant necklaces showing five pirate-crew emblem designs, including the Straw Hat Jolly Roger, on black cord chains
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a One Piece anime-inspired pendant necklace, Straw Hat Jolly Roger skull-and-crossbones pendant on a slim chain, laid on ink-black #111111 surface with paper-white #FAFAFA negative space. Single manga-red #E2261C accent in halftone-dot burst behind the pendant, sharp speed lines and ink splatter framing a manga panel, dramatic rim lighting catching the metal and enamel detail, premium cinematic close-up, high contrast, crisp focus.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

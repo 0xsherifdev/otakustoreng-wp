@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Naruto Silver Bracelet
+SLUG         : naruto-silver-bracelet
+BUMPA ID     : 1831143
+WOO TYPE     : simple
+PARENT SKU   : OSN-1831143
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Shop by Anime > Naruto
+
+TAGS: Naruto bracelet, Naruto silver bracelet, Hidden Leaf bracelet, Konoha bracelet, anime bracelet, Naruto accessories, anime jewellery, shinobi accessories
+FRANCHISE: Naruto    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦5,000
+Total stock   : 0
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Konoha on your wrist, woven in silver.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A chunky silver-tone wheat-chain bracelet carrying the Hidden Leaf insignia and headband-plate charm. Solid weight, secure lobster clasp, everyday-tough finish — the cleanest way to rep your shinobi roots without the cosplay.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some fans wear the headband. You wear the village. This Naruto-inspired silver-tone bracelet pairs a heavy woven wheat-chain with two unmistakable charms — the Hidden Leaf (Konoha) leaf insignia and a headband-style metal plate — so every glance at your wrist reads loud and clear to anyone who knows the roster.</p><p>Built from durable metal alloy with a bright polished finish, it sits with real weight and clicks shut on a sturdy lobster clasp. Low-key enough for class or the office, sharp enough for the next convention. Anime-inspired fan piece — not affiliated with or endorsed by the official rights holders.</p><ul><li>Design: Hidden Leaf (Konoha) insignia charm plus headband-plate charm</li><li>Style: chunky woven wheat / spiga chain-link bracelet</li><li>Material: durable metal alloy, polished silver-tone finish</li><li>Closure: secure lobster-claw clasp</li><li>Fit: comfortable everyday wrist fit; unisex</li><li>Wear: solid, weighted feel for daily styling and cons</li><li>Care: keep dry, wipe with a soft cloth, store away from moisture</li><li>Included: 1 x Naruto-inspired silver bracelet</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Hidden Leaf (Konoha) insignia and headband-plate charms
+  • Chunky woven wheat-chain with a solid, weighted feel
+  • Durable metal alloy in a bright polished silver-tone finish
+  • Secure lobster-claw clasp that stays shut
+  • Unisex everyday fit — class, work or convention floor
+  • Anime-inspired fan piece, not affiliated/official
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (54 chars)        : Naruto Silver Bracelet | Konoha Charm | Otaku Store NG
+Meta Description (153 chars) : Naruto-inspired silver bracelet with Hidden Leaf charm and woven chain. Durable alloy, secure clasp. Ships from Nigeria nationwide and worldwide. ₦5,000.
+Focus keyword                       : Naruto silver bracelet
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Silver-tone Naruto-inspired wheat-chain bracelet with Hidden Leaf insignia and headband-plate charms, held in an open palm.
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a chunky silver-tone woven wheat-chain bracelet with a Hidden Leaf (Konoha) leaf insignia charm and a metal headband-plate charm, lobster clasp. Ink-black #111111 background, paper-white #FAFAFA halftone-dot texture, a single bold manga-red #E2261C accent slashing as a speed-line through the frame. Dramatic cinematic side lighting glinting off polished metal, subtle ink-splatter edges, manga panel framing, premium high-end product photography, sharp macro detail.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

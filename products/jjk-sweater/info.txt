@@ -1,0 +1,75 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Jjk Sweater
+SLUG         : jjk-sweater
+BUMPA ID     : 2135574
+WOO TYPE     : variable
+PARENT SKU   : OSN-2135574
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Jujutsu Kaisen hoodie, anime hoodie, JJK merch, anime pullover, Jujutsu Kaisen merch, streetwear hoodie, anime sweater, otaku clothing
+FRANCHISE: Jujutsu Kaisen    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦29,000
+Total stock   : 38
+VARIATIONS (attribute: Size)
+  L              | ₦29,000 | stock 10   | SKU OSN-2135574-L
+  XL             | ₦29,000 | stock 9    | SKU OSN-2135574-XL
+  2XL            | ₦29,000 | stock 9    | SKU OSN-2135574-2XL
+  XXXL           | ₦29,000 | stock 10   | SKU OSN-2135574-XXXL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Cursed energy, woven into brushed fleece
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A Jujutsu Kaisen-inspired pullover hoodie built for cursed-energy days. Brushed-fleece interior, ribbed cuffs and hem, roomy kangaroo pocket and a unisex streetwear fit that layers clean over anything. Sorcerer-grade comfort, fan-made, not affiliated.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Step into the world of Jujutsu Kaisen with a pullover hoodie made for fans who live and breathe cursed energy. The anime-inspired graphic lands with manga-panel intensity, while the brushed-fleece interior keeps you wrapped in warmth from morning lectures to late-night marathons of your favourite arc.</p><p>Cut in a relaxed unisex streetwear fit, it layers clean over tees and stacks easily under a jacket. Throw it on, pull up the hood, and wear the roster. This is a fan-made, anime-inspired piece and is not official or affiliated with any rights holder.</p><ul><li>Pullover hoodie with bold Jujutsu Kaisen-inspired graphic print</li><li>Soft brushed-fleece interior for everyday warmth</li><li>Ribbed cuffs and hem to hold shape and lock in heat</li><li>Roomy kangaroo front pocket for hands, phone and essentials</li><li>Relaxed unisex streetwear fit, true to anime-merch sizing</li><li>Available in L, XL, 2XL and XXXL</li><li>Care: machine wash cold, inside-out; hang or tumble dry low</li><li>Fan-made / anime-inspired, not official or licensed</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Jujutsu Kaisen-inspired graphic with manga-panel impact
+  • Brushed-fleece interior for all-day warmth
+  • Ribbed cuffs and hem plus a roomy kangaroo pocket
+  • Relaxed unisex streetwear fit, L through XXXL
+  • Machine wash cold, inside-out, to keep the print sharp
+  • Fan-made and anime-inspired, not affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (55 chars)        : Jujutsu Kaisen Hoodie | Anime Pullover - Otaku Store NG
+Meta Description (155 chars) : Jujutsu Kaisen-inspired pullover hoodie with brushed fleece, ribbed cuffs and kangaroo pocket. Unisex fit, L-XXXL. ₦29,000. Ships nationwide and worldwide.
+Focus keyword                       : Jujutsu Kaisen hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Jujutsu Kaisen-inspired pullover hoodie with anime graphic print, ribbed cuffs and kangaroo pocket
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a folded black-and-white anime pullover hoodie, Jujutsu Kaisen-inspired graphic across the chest. Ink black #111111 backdrop, paper white #FAFAFA fabric highlights, single manga-red #E2261C accent on the print. Halftone dot texture, sharp speed lines radiating from the hoodie, ink splatter in the corners, framed within bold manga panels. Premium cinematic lighting, high contrast, crisp shadows, streetwear catalogue feel.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

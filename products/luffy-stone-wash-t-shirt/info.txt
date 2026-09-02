@@ -1,0 +1,85 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Luffy stone wash T-shirt
+SLUG         : luffy-stone-wash-t-shirt
+BUMPA ID     : 3167869
+WOO TYPE     : variable
+PARENT SKU   : OSN-3167869
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+  - Shop by Anime > One Piece
+
+TAGS: Luffy t-shirt, One Piece t-shirt, stone wash tee, anime t-shirt, Monkey D. Luffy, vintage anime tee, One Piece merch, unisex anime shirt
+FRANCHISE: One Piece    CHARACTER: Monkey D. Luffy
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦24,000
+Total stock   : 79
+VARIATIONS (attribute: Size)
+  L              | ₦24,000 | stock 20   | SKU OSN-3167869-L
+  XL             | ₦24,000 | stock 20   | SKU OSN-3167869-XL
+  2XL            | ₦24,000 | stock 20   | SKU OSN-3167869-2XL
+  3XL            | ₦24,000 | stock 19   | SKU OSN-3167869-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Vintage stone-wash tee for the future Pirate King
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A Luffy stone-wash tee built for the crew. Soft cotton with a lived-in, faded vintage finish and a bold One Piece-inspired graphic that won't crack or peel. Unisex regular fit, crew neck. Wear the roster.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Set sail in everyday gear that hits as hard as a Gum-Gum punch. This Luffy stone-wash tee carries a fan-favourite One Piece-inspired graphic on a pre-washed body, giving you that broken-in, vintage feel from the very first wear. The faded finish means no two tees look exactly alike, while the durable print stays crisp wash after wash.</p>
+<p>Cut in a unisex regular fit with a clean crew neck, it layers easily and wears soft against the skin. Built for marathon anime sessions, link-ups, and conventions alike, this is the kind of staple your crew will keep reaching for.</p>
+<ul>
+<li>Anime-inspired One Piece (Luffy) graphic, fan art, not affiliated or official</li>
+<li>Stone-wash vintage finish for a faded, lived-in look</li>
+<li>Soft cotton body, breathable for all-day wear</li>
+<li>Unisex regular fit with classic crew neck</li>
+<li>Durable, fade-resistant print that resists cracking and peeling</li>
+<li>Available in sizes L, XL, 2XL and 3XL</li>
+<li>Care: machine wash cold inside-out, do not bleach, hang or tumble dry low</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Stone-wash vintage finish with a unique faded look
+  • Soft cotton, unisex regular fit, crew neck
+  • Bold One Piece-inspired Luffy graphic (fan art)
+  • Durable fade-resistant print that won't crack or peel
+  • Sizes L to 3XL
+  • Wash cold inside-out to keep the print sharp
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (40 chars)        : Luffy Stone Wash T-Shirt | One Piece Tee
+Meta Description (149 chars) : Luffy stone-wash T-shirt with a faded vintage finish and bold One Piece-inspired graphic. Soft cotton, unisex fit, sizes L-3XL. Ships nationwide and.
+Focus keyword                       : Luffy stone wash t-shirt
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Luffy stone-wash One Piece T-shirt with a faded vintage finish and bold anime-inspired front graphic
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a folded stone-wash cotton t-shirt with a faded vintage finish and a bold One Piece-inspired Luffy graphic. Ink black #111111 background, paper white #FAFAFA garment highlights, single manga-red #E2261C accent. Halftone dot texture, dynamic speed lines and ink splatter framing the tee in a manga panel layout, dramatic cinematic side lighting, premium streetwear catalog aesthetic, high detail.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

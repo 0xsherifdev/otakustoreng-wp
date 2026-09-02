@@ -1,0 +1,91 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Naruto Slashed Hoodie
+SLUG         : naruto-slashed-hoodie
+BUMPA ID     : 2961878
+WOO TYPE     : variable
+PARENT SKU   : OSN-2961878
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+  - Shop by Anime > Naruto
+
+TAGS: Naruto hoodie, Naruto Slashed Hoodie, Sharingan hoodie, anime hoodie, Naruto Uzumaki, anime streetwear, pullover hoodie, Naruto merch
+FRANCHISE: Naruto    CHARACTER: Naruto Uzumaki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦18,500
+Total stock   : 3500
+VARIATIONS (attribute: Size & Material)
+  L-Thick Cotton | ₦21,000 | stock 500  | SKU OSN-2961878-LTHICKCOTTON
+  L-Thick Polyester | ₦18,500 | stock 500  | SKU OSN-2961878-LTHICKPOLYESTER
+  Xl-Thick Cotton | ₦21,000 | stock 500  | SKU OSN-2961878-XLTHICKCOTTON
+  Xl-Thick Polyester | ₦18,500 | stock 500  | SKU OSN-2961878-XLTHICKPOLYESTER
+  2xl-Thick Cotton | ₦21,000 | stock 0    | SKU OSN-2961878-2XLTHICKCOTTON
+  2xl-Thick Polyester | ₦18,500 | stock 500  | SKU OSN-2961878-2XLTHICKPOLYESTER
+  3xl-Thick Cotton | ₦21,000 | stock 500  | SKU OSN-2961878-3XLTHICKCOTTON
+  3xl-Thick Polyester | ₦18,500 | stock 500  | SKU OSN-2961878-3XLTHICKPOLYESTER
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Torn-print Naruto pullover with Sharingan sleeves
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A jet-black pullover hoodie with a slashed-print reveal of Naruto's face and rows of red Sharingan emblems down both sleeves. Brushed-fleece inside, ribbed cuffs, and a roomy kangaroo pocket for unisex streetwear comfort.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>The Konoha legend, torn straight through the fabric. This Naruto Slashed Hoodie pairs deep ink-black cotton-feel fleece with a claw-mark print that rips open to reveal Naruto Uzumaki's piercing gaze and that unmistakable forehead protector, while columns of crimson Sharingan and Mangekyo emblems run the length of both sleeves. It is a loud, layered, anime-inspired statement built for fans who wear the roster.</p>
+<p>Brushed-fleece on the inside keeps the warmth in on cool evenings and rainy-season runs, and the relaxed unisex cut layers cleanly over a tee. Pick your weight at checkout: thick cotton for soft, breathable comfort, or thick polyester for a smoother, more durable finish.</p>
+<ul>
+<li>Style: pullover hoodie with attached drawstring hood</li>
+<li>Print: front "slashed" reveal graphic of Naruto plus Sharingan emblem sleeves</li>
+<li>Interior: brushed-fleece lining for warmth</li>
+<li>Fabric choice: thick cotton or thick polyester (select at checkout)</li>
+<li>Finish: ribbed cuffs and hem, front kangaroo pocket</li>
+<li>Fit: unisex streetwear cut</li>
+<li>Sizes: L, XL, 2XL, 3XL</li>
+<li>Care: machine wash cold, inside-out; do not iron the print directly</li>
+<li>Fan-made, anime-inspired design; not affiliated with or endorsed by the rights holders</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Slashed front graphic tears open to reveal Naruto's face and Konoha headband
+  • Red Sharingan and Mangekyo emblems printed down both sleeves
+  • Brushed-fleece interior for warmth in cool or rainy weather
+  • Choose thick cotton or thick polyester at checkout
+  • Ribbed cuffs and hem, front kangaroo pocket, relaxed unisex fit
+  • Available in L through 3XL
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (49 chars)        : Naruto Slashed Hoodie | Sharingan Sleeve Pullover
+Meta Description (155 chars) : Naruto Slashed Hoodie in black with torn-print face graphic and Sharingan sleeves. Brushed fleece, cotton or polyester, L-3XL. Ships from Nigeria. ₦18,500.
+Focus keyword                       : Naruto Slashed Hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black Naruto Slashed Hoodie with a torn-print graphic revealing Naruto Uzumaki's face and red Sharingan emblems down both sleeves
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a black pullover hoodie on an invisible mannequin, centered. Ink black #111111 background with paper white #FAFAFA negative space and a single manga-red #E2261C accent. Halftone dot shading, dynamic speed lines and ink-splatter radiating from the chest, framed inside crisp manga panel borders. The hoodie's slashed front graphic and crimson Sharingan sleeve emblems catch a hard cinematic key light. Premium, high-contrast, magazine-grade, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

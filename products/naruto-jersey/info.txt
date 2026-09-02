@@ -1,0 +1,74 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Naruto Jersey
+SLUG         : naruto-jersey
+BUMPA ID     : 2193178
+WOO TYPE     : variable
+PARENT SKU   : OSN-2193178
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Jerseys
+  - Shop by Anime > Naruto
+
+TAGS: Naruto, Naruto Uzumaki, anime jersey, Naruto jersey, all-over-print jersey, Hidden Leaf, anime streetwear, dye-sublimated jersey
+FRANCHISE: Naruto    CHARACTER: Naruto Uzumaki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦23,000
+Total stock   : 28
+VARIATIONS (attribute: Size)
+  L              | ₦23,000 | stock 10   | SKU OSN-2193178-L
+  XL             | ₦23,000 | stock 9    | SKU OSN-2193178-XL
+  2XL            | ₦23,000 | stock 9    | SKU OSN-2193178-2XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Believe it. Edge-to-edge all-over-print ninja heat.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Suit up in pure ninja energy. This all-over-print Naruto jersey delivers vivid edge-to-edge Hidden Leaf graphics on lightweight, breathable polyester. Cut for everyday wear, conventions, and match-watch nights. Bold, comfortable, and built to turn heads.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the Number One Hyperactive Knucklehead Ninja with the Naruto Jersey from Otaku Store NG. Dye-sublimated all-over-print graphics wrap the entire jersey in vivid Hidden Leaf colour and manga-panel detail that never cracks, peels, or fades like cheap screen prints. Whether you're hitting a convention, layering up for streetwear season, or settling in for a match-watch party, this one announces your fandom before you say a word.</p><p>Made from lightweight, breathable 100% polyester with a clean unisex cut that wears true to size. Secure checkout, fast nationwide and worldwide delivery, and easy returns come standard. Priced at ₦23,000.</p><ul><li><strong>Material:</strong> Lightweight, breathable 100% polyester</li><li><strong>Print:</strong> Full all-over dye-sublimated graphics, edge to edge</li><li><strong>Fit:</strong> Unisex, true to size &#8212; if between sizes, size up</li><li><strong>Sizing:</strong> Available in L, XL, and 2XL</li><li><strong>Care:</strong> Machine wash cold inside-out; do not iron print directly</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Vivid edge-to-edge all-over-print Naruto graphics that won't crack or fade
+  • Lightweight, breathable 100% polyester for all-day comfort
+  • Unisex fit, true to size (size up if between sizes)
+  • Perfect for conventions, match-watch parties, and streetwear layering
+  • Fast nationwide and worldwide delivery with easy returns
+  • Available in L, XL, and 2XL
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (50 chars)        : Naruto Anime Jersey | All-Over-Print | Otaku Store
+Meta Description (155 chars) : Shop the Naruto anime jersey: vivid all-over-print, breathable polyester, unisex fit. Fast nationwide & worldwide delivery. Only ₦23,000 at Otaku Store NG.
+Focus keyword                       : Naruto anime jersey
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Naruto all-over-print anime jersey with vivid Hidden Leaf graphics on breathable polyester
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga aesthetic studio shot of a Naruto-inspired all-over-print baseball jersey on a faceless mannequin, three-quarter angle. Ink black #111111 background with paper white #FAFAFA halftone screentone dots and dynamic manga speed lines radiating outward. A single bold manga-red #E2261C accent used sparingly as energy slashes and a brush-ink splatter behind the garment. High contrast monochrome with one red pop, manga panel layout framing, premium anime-streetwear mood, cinematic dramatic lighting, sharp focus on jersey fabric texture.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

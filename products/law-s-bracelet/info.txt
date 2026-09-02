@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Law’s bracelet
+SLUG         : law-s-bracelet
+BUMPA ID     : 3009388
+WOO TYPE     : simple
+PARENT SKU   : OSN-3009388
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Bracelets
+  - Shop by Anime > One Piece
+
+TAGS: Trafalgar Law, One Piece, Heart Pirates, anime bracelet, chain bracelet, Law jolly roger, One Piece jewelry, anime-inspired accessories
+FRANCHISE: One Piece    CHARACTER: Trafalgar Law
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦6,500
+Total stock   : 7
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Heart Pirates on your wrist. Room: open.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Stack the Heart Pirates mark with Law's chain bracelet, a silver-tone link band lined with bright yellow enamel jolly-roger charms. Lobster-claw clasp and extender keep the fit dialed for daily wear, panel to panel.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>The surgeon of death keeps it cold, calculated and unmistakable, and so does this bracelet. Five yellow enamel charms carry Trafalgar Law's Heart Pirates jolly roger across a polished silver-tone chain, finished with a clean little tag at the clasp. It is the kind of piece that reads loud to anyone who knows the roster and stays subtle to everyone else.</p><p>Anime-inspired and built for everyday rotation, it pairs just as well with a plain tee as it does with the rest of your One Piece stack. Wear it solo for a sharp accent or layer it in for full Heart Pirates energy.</p><ul><li>Design: Trafalgar Law / Heart Pirates jolly-roger charm links, anime-inspired (fan-made, not affiliated with or endorsed by the rights holders)</li><li>Style: linked chain bracelet with multiple enamel charm panels</li><li>Material: stainless-steel-tone alloy chain with coloured enamel charm detailing</li><li>Colour: silver-tone hardware with bright yellow and black enamel charms</li><li>Closure: lobster-claw clasp with extender chain for an adjustable fit</li><li>Wear: lightweight, everyday-durable, suits most wrist sizes</li><li>Includes: 1 x Law's bracelet</li><li>Care: keep dry, wipe clean with a soft cloth, store away from moisture to protect the finish</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Trafalgar Law Heart Pirates jolly-roger charm links
+  • Silver-tone chain with bright yellow enamel detailing
+  • Lobster-claw clasp plus extender for an adjustable fit
+  • Lightweight and everyday-durable for daily wear
+  • Layers cleanly with the rest of your One Piece stack
+  • Anime-inspired fan piece, not officially affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (54 chars)        : Trafalgar Law Bracelet - One Piece Heart Pirates Chain
+Meta Description (152 chars) : Trafalgar Law Heart Pirates chain bracelet with yellow enamel jolly-roger charms. Adjustable silver-tone fit. Anime-inspired One Piece fan piece. Ships.
+Focus keyword                       : Trafalgar Law bracelet
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Silver-tone One Piece chain bracelet with yellow enamel Trafalgar Law Heart Pirates jolly-roger charms and a lobster-claw clasp
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a silver-tone chain bracelet with bright yellow enamel Heart Pirates jolly-roger charm links, laid on ink-black #111111 surface, paper-white #FAFAFA backdrop panel, single manga-red #E2261C accent stripe; halftone dot texture, speed lines radiating from the bracelet, subtle ink splatter at the edges, framed inside a manga panel border; premium, cinematic close-up lighting catching the chain and enamel.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

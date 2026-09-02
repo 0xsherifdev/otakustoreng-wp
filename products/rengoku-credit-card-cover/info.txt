@@ -1,0 +1,80 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Rengoku Credit Card Cover
+SLUG         : rengoku-credit-card-cover
+BUMPA ID     : 1395755
+WOO TYPE     : simple
+PARENT SKU   : OSN-1395755
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Stickers
+  - Shop by Anime > Demon Slayer
+
+TAGS: Rengoku credit card cover, Demon Slayer card skin, Rengoku sticker, anime card skin, Kyojuro Rengoku, Flame Hashira, anime vinyl sticker, Demon Slayer merch
+FRANCHISE: Demon Slayer    CHARACTER: Kyojuro Rengoku
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦3,500
+Total stock   : 8
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Set your card ablaze with the Flame Hashira.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A waterproof vinyl card skin featuring Kyojuro Rengoku mid-Flame Breathing. Wraps any debit or credit card, with a precise chip cutout and a smooth, fade-resistant finish that keeps the Flame Hashira glowing in your wallet.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Carry the Flame Hashira everywhere you tap. This Rengoku credit card cover is a fan-made vinyl skin that wraps your existing debit or credit card in a blaze of Flame Breathing, capturing Kyojuro mid-stance in vivid manga-red and orange fire. Slim, smooth and built to take the daily grind of pockets, wallets and ATMs.</p>
+<p>The print is sharp and fade-resistant, the laminate is waterproof and scratch-resistant, and the chip cutout keeps your card fully functional. Peel, line it up, smooth it down, done. Anime-inspired, made for fans, not affiliated with the rights holders.</p>
+<ul>
+<li>Design: Kyojuro Rengoku (Demon Slayer) in full Flame Breathing artwork</li>
+<li>Type: adhesive vinyl card skin / sticker that wraps a single bank card</li>
+<li>Finish: waterproof, scratch-resistant laminate with vivid, fade-resistant colour</li>
+<li>Chip cutout: pre-cut opening so your card chip still works</li>
+<li>Fits: standard debit and credit cards (does not include a card)</li>
+<li>Application: peel-and-stick, repositionable on first placement, residue-free</li>
+<li>What's included: 1 x Rengoku card skin (design 028 as shown)</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Kyojuro Rengoku Flame Breathing artwork in manga-red and orange fire
+  • Waterproof, scratch-resistant laminate that survives daily wallet wear
+  • Vivid, fade-resistant print that stays sharp over time
+  • Pre-cut chip opening keeps your card fully usable
+  • Peel-and-stick vinyl, residue-free when removed
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (50 chars)        : Rengoku Credit Card Cover | Demon Slayer Card Skin
+Meta Description (149 chars) : Rengoku credit card cover - a waterproof Demon Slayer vinyl card skin with Flame Breathing art and a chip cutout. Fan-made, ships from Nigeria. Only.
+Focus keyword                       : Rengoku credit card cover
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Demon Slayer Rengoku credit card skin showing Kyojuro Rengoku surrounded by flames, with a chip cutout, applied to a bank card
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product shot of a credit card skin featuring Kyojuro Rengoku from Demon Slayer mid Flame Breathing. Ink black #111111 background with paper white #FAFAFA manga panel borders, single manga-red #E2261C accent flames. Halftone dot shading, dynamic speed lines radiating outward, ink splatter framing the card. The card sits at a dramatic three-quarter angle, premium cinematic studio lighting, sharp edge highlight, shallow depth of field. Crisp vinyl texture, chip cutout visible. High-end editorial merch photography, moody and bold.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

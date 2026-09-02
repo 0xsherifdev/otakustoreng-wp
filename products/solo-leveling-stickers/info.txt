@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Solo Leveling Stickers
+SLUG         : solo-leveling-stickers
+BUMPA ID     : 1831209
+WOO TYPE     : simple
+PARENT SKU   : OSN-1831209
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Stickers
+  - Shop by Anime > Solo Leveling
+
+TAGS: Solo Leveling, Solo Leveling stickers, anime stickers, vinyl stickers, sticker pack, Shadow Monarch, laptop stickers, waterproof stickers
+FRANCHISE: Solo Leveling    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦1,000
+Total stock   : 4
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+10 die-cut vinyl stickers from the System.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Arise. This 10-piece Solo Leveling vinyl sticker pack brings the Shadow Monarch to your laptop, bottle and notebook. Waterproof, fade-resistant and scratch-tough, with bold die-cut art that holds its edge through daily wear.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Suit up your gear with the Solo Leveling sticker pack and carry the Shadow Monarch wherever you go. Ten anime-inspired die-cut designs deliver crisp linework and deep blacks, printed on durable vinyl built to survive backpacks, desks and daily carry.</p><p>Slap them on a laptop lid, water bottle, phone case or notebook for an instant glow-up. The waterproof, fade-resistant finish keeps every panel sharp, so your roster stays bold long after the stickers go on.</p><ul><li>Pack of 10 die-cut vinyl stickers</li><li>Solo Leveling fan-art designs (anime-inspired, not affiliated)</li><li>Waterproof and weather-resistant vinyl</li><li>Fade-resistant, vivid print that keeps its contrast</li><li>Scratch- and scuff-tough finish for everyday use</li><li>Sticks to laptops, water bottles, phone cases, notebooks, skateboards and more</li><li>Strong adhesive backing, easy peel-and-stick application</li><li>Best applied to clean, dry, smooth surfaces</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • 10 die-cut stickers per pack
+  • Waterproof, fade-resistant vinyl
+  • Scratch- and scuff-tough finish
+  • Sticks to laptops, bottles, phones and notebooks
+  • Bold Solo Leveling fan-art designs
+  • Easy peel-and-stick application
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (54 chars)        : Solo Leveling Stickers - 10pc Vinyl Pack | Otaku Store
+Meta Description (154 chars) : Solo Leveling sticker pack: 10 waterproof, fade-resistant die-cut vinyl stickers for laptops, bottles and notebooks. Anime-inspired. Ships nationwide and.
+Focus keyword                       : Solo Leveling stickers
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Pack of 10 Solo Leveling die-cut vinyl anime stickers fanned out on a flat surface
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product shot of a 10-piece anime vinyl sticker pack scattered across an ink-black #111111 surface, paper-white #FAFAFA highlights, single manga-red #E2261C accent glow. Halftone dot texture, dramatic speed lines and ink-splatter framing in manga panels. A few stickers applied to a matte black laptop lid and a steel water bottle, cinematic studio lighting, premium glossy vinyl finish, sharp die-cut edges, shallow depth of field.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

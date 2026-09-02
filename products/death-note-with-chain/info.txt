@@ -1,0 +1,70 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Death Note With Chain
+SLUG         : death-note-with-chain
+BUMPA ID     : 1729904
+WOO TYPE     : simple
+PARENT SKU   : OSN-1729904
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Chains & Necklaces
+
+TAGS: Death Note, Death Note necklace, anime necklace, notebook pendant, Kira, anime chain, anime jewellery, Otaku Store NG
+FRANCHISE: Death Note    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦9,000
+Total stock   : 18
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The notebook that rewrites fate, around your neck.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel Kira with this Death Note-inspired pendant necklace. A miniature notebook charm on a durable, tarnish-resistant chain that wipes clean and wears easy from the dojo to the streets. Fan-made, anime-inspired, not affiliated.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Pick up the pen. This Death Note-inspired pendant necklace turns the most infamous notebook in anime into everyday carry. The miniature notebook charm hangs from a clean metal chain that sits well under a tee or over a hoodie, so you wear your allegiance whether you side with Kira or with L.</p><p>Built from durable, tarnish-resistant metal that keeps its finish through daily wear, it is a quiet flex for any Death Note fan who knows the rules by heart. A confident, premium piece that finishes the fit without shouting.</p><ul><li>Death Note anime-inspired notebook pendant on a matching chain</li><li>Durable stainless-steel / alloy build that resists tarnish</li><li>Lightweight charm, comfortable for all-day wear</li><li>Standard everyday chain length; lobster-clasp closure</li><li>Pairs with tees, hoodies and layered chains</li><li>Wipe clean with a soft, dry cloth; keep away from moisture</li><li>Fan-made, anime-inspired design; not official or affiliated</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Death Note notebook pendant for serious Kira and L fans
+  • Durable, tarnish-resistant metal that keeps its finish
+  • Lightweight charm built for all-day comfort
+  • Layers easily over tees and hoodies
+  • Wipe-clean care, no fuss
+  • Fan-made anime-inspired piece, not affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (55 chars)        : Death Note Pendant Necklace With Chain | Otaku Store NG
+Meta Description (150 chars) : Death Note-inspired notebook pendant necklace on a durable, tarnish-resistant chain. Fan-made anime jewellery. ₦9,000. Ships nationwide and worldwide.
+Focus keyword                       : Death Note necklace
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.png  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Death Note-inspired notebook pendant hanging from a metal chain necklace
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a Death Note-inspired metal notebook pendant on a fine chain, resting on ink-black #111111 surface with paper-white #FAFAFA highlights. Single manga-red #E2261C accent glinting off the pendant edge. Halftone dot texture, sharp speed lines radiating outward, subtle ink splatter in the corners, framed in clean manga panel borders. Premium, cinematic, high-contrast, shallow depth of field.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

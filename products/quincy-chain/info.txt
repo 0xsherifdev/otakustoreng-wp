@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Quincy Chain
+SLUG         : quincy-chain
+BUMPA ID     : 1507862
+WOO TYPE     : simple
+PARENT SKU   : OSN-1507862
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Bleach
+
+TAGS: Quincy Cross necklace, Bleach necklace, Quincy Zeichen pendant, anime necklace, Bleach chain, Uryu Ishida cosplay, anime pendant, stainless steel anime necklace
+FRANCHISE: Bleach    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,500
+Total stock   : 505
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The Quincy Cross, forged in steel.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel the Quincy with this anime-inspired five-point cross pendant. The silver-tone Quincy Zeichen hangs on a slim, tarnish-resistant chain that wears clean over tees, hoodies and cosplay fits alike.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Hollows beware. The Quincy Chain captures Bleach's most iconic emblem, the five-point Quincy Cross, rendered as a sharp silver-tone pendant on a slim cable chain. Clean lines, a centred star detail and a low-profile finish make it a quiet flex for fans who know exactly what the Zeichen stands for.</p><p>Crafted from tarnish-resistant metal that holds its shine through daily wear, it layers easily over a graphic tee, sits flush under a hoodie, and completes an Uryu-style cosplay without breaking character. Anime-inspired fan gear, designed to be worn, not boxed.</p><ul><li>Design: five-point Quincy Cross (Quincy Zeichen) pendant with centred star emblem</li><li>Series: Bleach-inspired fan accessory (not affiliated or official)</li><li>Material: durable, tarnish-resistant stainless-steel / alloy with a polished silver-tone finish</li><li>Chain: slim cable-link chain at a comfortable everyday length</li><li>Style: unisex; layers well and works for casual fits or cosplay</li><li>Included: one Quincy Cross pendant on chain</li><li>Care: wipe clean with a soft, dry cloth; keep away from moisture and perfume to preserve shine</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Iconic five-point Quincy Cross (Zeichen) pendant with centred star detail
+  • Tarnish-resistant metal in a polished silver-tone finish
+  • Slim cable chain at an easy, everyday length
+  • Unisex layering piece for casual fits or Uryu-style cosplay
+  • Wipe-clean and built for daily wear
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (44 chars)        : Quincy Chain - Bleach Cross Pendant Necklace
+Meta Description (155 chars) : Bleach-inspired Quincy Cross pendant necklace in tarnish-resistant silver-tone metal on a slim chain. Unisex fan gear for everyday or cosplay. Just ₦4,500.
+Focus keyword                       : Quincy Cross necklace
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Silver-tone Bleach Quincy Cross pendant with centred star emblem on a slim cable chain
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a silver-tone five-point Quincy Cross pendant necklace with a centred star emblem, slim cable chain coiled beneath it. Ink black #111111 background, paper white #FAFAFA negative space, single manga-red #E2261C accent slash behind the pendant. Halftone dot texture, sharp speed lines radiating outward, subtle ink splatter, framed inside a clean manga panel border. Premium, cinematic, high-contrast macro lighting catching the polished metal edges.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

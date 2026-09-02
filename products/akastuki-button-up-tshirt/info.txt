@@ -1,0 +1,86 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Akastuki button up Tshirt
+SLUG         : akastuki-button-up-tshirt
+BUMPA ID     : 3099579
+WOO TYPE     : variable
+PARENT SKU   : OSN-3099579
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+  - Shop by Anime > Naruto
+
+TAGS: Akatsuki shirt, Naruto button-up, Akatsuki cloud, anime button-up shirt, all-over-print shirt, Naruto merch, anime camp collar shirt, Akatsuki cosplay, anime t-shirt Nigeria, Naruto clothing
+FRANCHISE: Naruto    CHARACTER: Akatsuki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦18,000
+Total stock   : 40
+VARIATIONS (attribute: Size)
+  L              | ₦18,000 | stock 10   | SKU OSN-3099579-L
+  XL             | ₦18,000 | stock 10   | SKU OSN-3099579-XL
+  2XL            | ₦18,000 | stock 10   | SKU OSN-3099579-2XL
+  3XL            | ₦18,000 | stock 10   | SKU OSN-3099579-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Wear the cloud. Rep the rogue ninja syndicate.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel the rogue-ninja syndicate in this all-over Akatsuki red-cloud button-up. A black camp-collar short-sleeve shirt with a bold white-outlined cloud print, smooth breathable fabric and a relaxed unisex fit built for the heat.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>The Akatsuki announced themselves with a single symbol, and now you can wear it head to collar. This anime-inspired button-up drapes the legendary red clouds across a deep ink-black ground, each one crisp with a clean white outline so the pattern reads loud from across the room. The camp collar and short sleeves keep it easy and breathable, while the relaxed unisex cut layers open over a tee or buttons up for a statement. From convention floors to weekend linkups, this is how you rep Naruto's most feared syndicate without saying a word.</p>
+<p>Smooth, lightweight all-over-print fabric drapes well and resists fading wash after wash, keeping those clouds bold for the long haul.</p>
+<ul>
+<li>All-over Akatsuki red-cloud print on a black base, bold white-outlined detail</li>
+<li>Smooth, lightweight polyester all-over-print fabric, breathable and quick-drying</li>
+<li>Camp / open collar with full button-front placket</li>
+<li>Short sleeves, relaxed unisex regular fit</li>
+<li>Durable, fade-resistant edge-to-edge print</li>
+<li>Available in L, XL, 2XL and 3XL</li>
+<li>Machine wash cold, inside-out; hang or line dry to protect the print</li>
+<li>Fan-made, anime-inspired design; not official or affiliated with the rights holders</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • All-over Akatsuki red-cloud print on deep black
+  • Camp collar with full button-front placket
+  • Smooth, breathable all-over-print polyester
+  • Relaxed unisex regular fit, short sleeve
+  • Sizes L through 3XL
+  • Fade-resistant edge-to-edge print
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (43 chars)        : Akatsuki Cloud Button-Up Shirt | Naruto Tee
+Meta Description (143 chars) : Akatsuki red-cloud all-over-print button-up shirt. Black camp-collar Naruto-inspired tee, unisex fit, sizes L-3XL. Ships from Nigeria. ₦18,000.
+Focus keyword                       : Akatsuki button-up shirt
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black short-sleeve camp-collar button-up shirt with an all-over print of red, white-outlined Akatsuki clouds from Naruto
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a black short-sleeve camp-collar button-up shirt with an all-over print of red white-outlined Akatsuki clouds, laid flat and crisply lit. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent echoing the cloud print. Halftone dot texture, dynamic speed lines and a single ink splatter framing the garment in a manga panel layout. Premium, cinematic, high detail, sharp focus on fabric weave and button placket.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

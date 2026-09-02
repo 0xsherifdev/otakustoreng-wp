@@ -1,0 +1,83 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Akastuki Silver Ring
+SLUG         : akastuki-silver-ring
+BUMPA ID     : 1919957
+WOO TYPE     : simple
+PARENT SKU   : OSN-1919957
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Rings
+  - Shop by Anime > Naruto
+
+TAGS: Akatsuki ring, Naruto ring, anime ring, red cloud ring, silver signet ring, Akatsuki merch, stainless steel ring, anime accessories, Naruto jewelry, Otaku Store NG
+FRANCHISE: Naruto    CHARACTER: Akatsuki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦3,000
+Total stock   : 8
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The red cloud, sized for your hand.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Rep the rogue-ninja roster with this silver-tone signet ring stamped with the Akatsuki red cloud. Polished, tarnish-resistant stainless steel built for daily wear, in your choice of standard ring size. Fan-made, anime-inspired.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some legends don't need a headband. This Akatsuki signet ring carries the most feared emblem in the Naruto world: the crimson cloud, rendered in bright manga-red enamel on a clean white face, framed by a polished silver-tone band. It's the kind of detail other fans clock instantly, and the kind of weight that earns its place on your hand every single day.</p>
+<p>Built from tarnish-resistant stainless steel with a smooth signet profile, it wears comfortably from class to convention and keeps its shine through it all. Pick your size and slot it onto the roster. Fan-made and anime-inspired, not affiliated with or endorsed by any official rights holder.</p>
+<ul>
+<li>Design: Akatsuki red-cloud emblem (Naruto-inspired) on a round signet face</li>
+<li>Material: stainless steel / alloy with a polished silver-tone finish</li>
+<li>Finish: tarnish-resistant, made for daily wear</li>
+<li>Style: signet silhouette, unisex; stacks well with chains and other rings</li>
+<li>Sizing: choose your standard ring size at checkout</li>
+<li>Includes: 1 ring</li>
+<li>Care: wipe with a soft dry cloth; avoid water, perfume and harsh chemicals to preserve shine</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Iconic Akatsuki red-cloud emblem in bright enamel on a white face
+  • Polished silver-tone stainless steel signet build
+  • Tarnish-resistant finish made for everyday wear
+  • Unisex signet shape that stacks with chains and rings
+  • Choose your standard ring size at checkout
+  • Fan-made, anime-inspired Naruto accessory
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (51 chars)        : Akatsuki Silver Ring | Naruto Red Cloud Signet Ring
+Meta Description (154 chars) : Akatsuki red-cloud silver-tone signet ring, Naruto-inspired. Tarnish-resistant stainless steel for daily wear. Pick your size. Ships from Nigeria, ₦3,000.
+Focus keyword                       : Akatsuki silver ring
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Silver-tone Akatsuki signet ring with the Naruto red cloud emblem on a white face, held between fingers
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a silver-tone stainless steel signet ring bearing the Akatsuki red-cloud emblem in manga-red #E2261C on a paper-white #FAFAFA enamel face. Ink-black #111111 background with halftone dots, diagonal speed lines and a single ink-splatter accent behind the ring. Ring positioned in a clean manga panel, cinematic rim lighting catching the polished band, sharp reflections, premium jewelry catalogue feel, high detail, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

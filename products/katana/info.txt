@@ -1,0 +1,86 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Katana
+SLUG         : katana
+BUMPA ID     : 1143892
+WOO TYPE     : simple
+PARENT SKU   : OSN-1143892
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Katana & Weapons
+
+TAGS: Yamato katana, Vergil katana, Devil May Cry katana, display katana, cosplay katana, anime katana replica, collector katana, Otaku Store NG
+FRANCHISE: Devil May Cry    CHARACTER: Vergil
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦150,000
+Total stock   : 998
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The Yamato, reforged for your shelf.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A fan-inspired display katana modelled on the legendary Yamato: snow-white cord-wrapped handle, ornate gold-and-black guard, and a black ray-skin-textured scabbard. Built for cosplay, collecting and clean shelf presence. Decorative prop, not affiliated with the franchise.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Power is everything. This fan-made display katana channels the Yamato, the heirloom blade wielded by Vergil across the Devil May Cry saga, reimagined as a premium collector and cosplay prop for serious fans. The snow-white ito wrap crosses over a dark base in clean diamond windows, the ornate gold-and-black tsuba carries that unmistakable engraved detail, and the matte black ray-skin-textured saya finishes with a dark wrapped sageo cord for that authentic worn-by-a-half-demon look.</p>
+<p>The blade is a decorative steel piece with a printed wavy hamon and a blunt display edge, designed to be seen, not swung. Mount it, pose with it for a Vergil cosplay, or stand it alongside the rest of your roster. This is an anime- and game-inspired tribute piece and is not official or affiliated with Capcom.</p>
+<ul>
+<li><strong>Type:</strong> Decorative display / cosplay replica katana (collector prop)</li>
+<li><strong>Inspiration:</strong> The Yamato, Vergil's blade from Devil May Cry</li>
+<li><strong>Blade:</strong> Steel with printed wavy hamon, blunt display edge (not sharpened)</li>
+<li><strong>Handle (tsuka):</strong> White cord ito wrap over dark diamond base, menuki detailing</li>
+<li><strong>Guard (tsuba):</strong> Ornate gold-and-black engraved fitting</li>
+<li><strong>Scabbard (saya):</strong> Black ray-skin-textured finish with wrapped sageo cord</li>
+<li><strong>Approx. length:</strong> ~104 cm overall</li>
+<li><strong>Approx. weight:</strong> ~1.2 kg</li>
+<li><strong>Best for:</strong> Display, cosplay, photography and collecting</li>
+<li><strong>Care:</strong> Wipe blade with a dry or lightly oiled cloth; store away from moisture</li>
+<li><strong>Safety:</strong> Adult collectible. Keep away from children and follow local laws on bladed display items</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Fan-inspired tribute to the Yamato, Vergil's iconic katana
+  • Snow-white cord ito wrap over a dark diamond base
+  • Ornate gold-and-black engraved guard with menuki detailing
+  • Steel display blade with printed wavy hamon, blunt edge
+  • Black ray-skin-textured scabbard with wrapped sageo cord
+  • Display and cosplay prop, not affiliated with Capcom
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (52 chars)        : Yamato Display Katana - Vergil Devil May Cry Replica
+Meta Description (149 chars) : Fan-inspired Yamato display katana from Devil May Cry. White cord handle, gold guard, black scabbard. Cosplay and collector prop. Ships from Nigeria.
+Focus keyword                       : Yamato display katana
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Yamato display katana with white cord-wrapped handle, gold and black guard, and black ray-skin-textured scabbard
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a Yamato-inspired display katana: white cord-wrapped handle, ornate gold-and-black engraved guard, steel blade with a wavy hamon, resting on a black wooden stand. Ink black #111111 background, paper white #FAFAFA key light, single manga-red #E2261C accent slash behind the blade. Halftone dot shading, dramatic speed lines, ink splatter framing, manga panel composition, premium and cinematic, sharp detail, no text.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

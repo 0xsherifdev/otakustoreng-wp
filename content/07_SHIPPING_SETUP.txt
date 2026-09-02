@@ -1,0 +1,152 @@
+OTAKU STORE NG — CUSTOM SHIPPING ZONES (Client-handled NG + Ghana)
+===================================================================
+Goal: Client handles delivery for Lagos LGAs, all Nigerian states, FCT, and Ghana
+with their OWN flat rates. Terminal Africa is used ONLY for the rest of the world.
+Where: WordPress Admin > WooCommerce > Settings > Shipping > Shipping zones.
+All amounts in NGN. Prices = NGN base currency.
+
+WHY LAGOS IS DIFFERENT
+----------------------
+WooCommerce matches addresses by country > state > postcode. It has all NG states
++ FCT built in (interstate + Ghana are easy). But "Lagos" is ONE state — WooCommerce
+has no LGA concept, so you cannot auto-detect a customer's LGA.
+SOLUTION: create ONE "Lagos" zone and add 20 flat-rate methods (one per LGA). The
+Lagos customer sees a selectable list and picks their LGA. 100% native, no plugin.
+
+ZONE ORDER (IMPORTANT)
+----------------------
+WooCommerce uses the FIRST zone (top→bottom) whose region matches. Arrange exactly:
+ 1. Lagos
+ 2. Nigeria - N7,000 states
+ 3. Nigeria - N8,500 states
+ 4. Nigeria - N6,000 states
+ 5. Nigeria - N5,500 states
+ 6. Ghana
+ 7. (bottom) "Locations not covered by your other zones" = Terminal Africa
+Drag zones to reorder via the handles on the Shipping zones list.
+
+TERMINAL AFRICA RESTRICTION
+---------------------------
+Add the Terminal Africa shipping method ONLY to zone 7 (Rest of World).
+Do NOT add it to zones 1-6, so NG/Ghana show only your flat rates.
+* VERIFY at checkout: enter a Lagos address — you should see ONLY the 20 LGA options,
+  not Terminal courier rates. If Terminal still appears for NG, check the Terminal
+  plugin settings for a per-zone/destination toggle or contact Terminal support.
+
+
+===================================================================
+ZONE 1 — LAGOS  (Region: Nigeria — Lagos)
+Add 20 "Flat rate" methods. Method Title = what customer sees. Cost = number only.
+===================================================================
+ Agege ................... 3000   -> Title: "Agege — N3,000"
+ Ajeromi-Ifelodun ........ 4000   -> "Ajeromi-Ifelodun — N4,000"
+ Alimosho ................ 4000   -> "Alimosho — N4,000"
+ Amuwo-Odofin ............ 3000   -> "Amuwo-Odofin — N3,000"
+ Apapa ................... 3000   -> "Apapa — N3,000"
+ Badagry ................. 6000   -> "Badagry — N6,000"
+ Epe ..................... 9000   -> "Epe — N9,000"
+ Eti-Osa ................. 3500   -> "Eti-Osa — N3,500"
+ Ibeju-Lekki ............. 8500   -> "Ibeju-Lekki — N8,500"
+ Ikeja ................... 3000   -> "Ikeja — N3,000"
+ Ikorodu ................. 5000   -> "Ikorodu — N5,000"
+ Kosofe .................. 3500   -> "Kosofe — N3,500"
+ Lagos Island ............ 3000   -> "Lagos Island — N3,000"
+ Lagos Mainland .......... 2500   -> "Lagos Mainland — N2,500"
+ Mushin .................. 2500   -> "Mushin — N2,500"
+ Ojo ..................... 5000   -> "Ojo — N5,000"
+ Oshodi-Isolo ............ 3000   -> "Oshodi-Isolo — N3,000"
+ Shomolu ................. 2500   -> "Shomolu — N2,500"
+ Surulere ................ 2500   -> "Surulere — N2,500"
+ Ifako-Ijaye ............. 3500   -> "Ifako-Ijaye — N3,500"
+ (20 LGAs = all of Lagos State)
+
+
+===================================================================
+ZONE 2 — NIGERIA N7,000 STATES   (one Flat rate, Cost = 7000)
+Regions (add each state):
+===================================================================
+ Abia, Adamawa, Akwa Ibom, Anambra, Cross River, Delta, Ebonyi, Edo,
+ Ekiti, Enugu, Imo
+ (11 states)  -> Flat rate "Home Delivery — N7,000", Cost 7000
+
+
+===================================================================
+ZONE 3 — NIGERIA N8,500 STATES   (one Flat rate, Cost = 8500)
+Regions:
+===================================================================
+ Bauchi, Bayelsa, Benue, Borno, Gombe, Jigawa, Kaduna, Kano, Katsina,
+ Kebbi, Kogi, Nasarawa, Niger, Plateau, Sokoto, Taraba, Yobe, Zamfara
+ (18 states)  -> Flat rate "Home Delivery — N8,500", Cost 8500
+
+
+===================================================================
+ZONE 4 — NIGERIA N6,000 STATES   (one Flat rate, Cost = 6000)
+Regions:
+===================================================================
+ Ogun, Ondo, Osun, Oyo
+ (4 states)  -> Flat rate "Home Delivery — N6,000", Cost 6000
+
+
+===================================================================
+ZONE 5 — NIGERIA N5,500   (one Flat rate, Cost = 5500)
+Regions:
+===================================================================
+ Kwara, Rivers, Abuja (FCT — listed as "Federal Capital Territory")
+ (3)  -> Flat rate "Home Delivery — N5,500", Cost 5500
+
+
+===================================================================
+ZONE 6 — GHANA   (weight-tiered)
+Region: Ghana (country)
+ 0 - 2kg  ......... 25000
+ above 2kg ........ 35000
+===================================================================
+Native flat rate cannot switch by weight, so use ONE of:
+ A) RECOMMENDED — install free plugin "Flexible Shipping" (Octolize):
+    In the Ghana zone add a "Flexible Shipping" method with 2 rules:
+      Rule 1: Weight 0.0 - 2.0 kg  => 25000
+      Rule 2: Weight 2.01 kg and up => 35000
+ B) No-plugin fallback — add two Flat rate methods the customer selects:
+      "Ghana (0-2kg) — N25,000"  Cost 25000
+      "Ghana (over 2kg) — N35,000"  Cost 35000
+    (less safe: relies on honest selection)
+* Requires ACCURATE product weights set in WooCommerce (see note below).
+
+
+===================================================================
+ZONE 7 — REST OF WORLD  ("Locations not covered by your other zones")
+===================================================================
+ Add the Terminal Africa shipping method here ONLY (live DHL/FedEx/UPS rates).
+ This is the auto-created bottom zone — just add Terminal's method to it.
+
+
+===================================================================
+HOW-TO (clicks)
+===================================================================
+1. WooCommerce > Settings > Shipping > Shipping zones > "Add zone".
+2. Zone name (e.g. "Lagos"), then in "Zone regions" type the state(s) and select
+   the "Nigeria — <State>" entries. For Ghana pick the country "Ghana".
+3. Click "Add shipping method" > "Flat rate" > save > then "Edit" the method to set
+   Title and Cost. Repeat to add more methods to the same zone (Lagos = 20 methods).
+4. Drag zones into the order listed above. Terminal stays in the bottom catch-all zone.
+5. Test: go to checkout, change the shipping State to Lagos / Abia / Oyo / Ghana / USA
+   and confirm the correct fee(s) show and Terminal only appears for "rest of world".
+
+
+===================================================================
+DECISIONS / NOTES FOR CLIENT
+===================================================================
+* PRODUCT WEIGHTS: Ghana tiers (and any future weight rules) need real product
+  weights. Set weight on each product/variation; otherwise WooCommerce uses the
+  default and may mis-tier. (Same point as Terminal's default-weight setting.)
+* FREE SHIPPING: REMOVED (client decision). The N100,000 free-shipping promise is
+  dropped — flat rates always apply on every NG zone. Do NOT add a "Free shipping"
+  method to any zone. Also remove the "Free Shipping" service badge/copy from the
+  homepage + footer + any "Flexible Payment/Free Shipping" service row so the site no
+  longer advertises free shipping (it would contradict the flat rates at checkout).
+* LAGOS LGA — STRICTER ALTERNATIVE: the 20-method list relies on honest self-select.
+  For a locked LGA dropdown tied to the address (cannot pick a cheaper LGA), you need
+  a custom checkout field + fee snippet or a paid table-rate plugin. The native
+  multi-method approach above is the no-code, client-maintainable default.
+* CURRENCY: fees are NGN; with Curcy showing other currencies, the flat rate converts
+  to the customer's display currency but charges in NGN via Paystack (as configured).

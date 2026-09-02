@@ -1,0 +1,87 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Uchiha Joggers
+SLUG         : uchiha-joggers
+BUMPA ID     : 1145190
+WOO TYPE     : variable
+PARENT SKU   : OSN-1145190
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Trousers
+  - Shop by Anime > Naruto
+
+TAGS: Uchiha, Uchiha clan, Naruto, anime joggers, anime trousers, anime streetwear, cotton joggers, Sharingan, Naruto trousers, unisex joggers
+FRANCHISE: Naruto    CHARACTER: Uchiha
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦17,000
+Total stock   : 398
+VARIATIONS (attribute: Size)
+  M              | ₦17,000 | stock 99   | SKU OSN-1145190-M
+  L              | ₦17,000 | stock 99   | SKU OSN-1145190-L
+  XL             | ₦17,000 | stock 100  | SKU OSN-1145190-XL
+  2XL            | ₦17,000 | stock 100  | SKU OSN-1145190-2XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the Sharingan into the streets.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Rep the Uchiha clan in these anime-inspired Naruto joggers. Thick, cosy cotton-blend fabric, a comfortable drawstring elastic waist and a tapered cuffed leg. Unisex fit built for everyday wear, training runs and convention days. Pair with your matching Uchiha jersey or hoodie.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Step out with the clan crest on your leg. These Uchiha joggers bring that unmistakable Naruto energy to your everyday rotation, blending classic shinobi attitude with the kind of relaxed streetwear silhouette you can live in. Whether you are queuing for the next episode drop, hitting a training session, or just running errands, they keep things comfortable without dropping the heat.</p>
+<p>Made from a thick, soft cotton-blend that feels warm and substantial, they feature a drawstring elastic waist for an easy adjustable fit and a tapered, cuffed leg that keeps a clean line. The unisex cut works for everyone, so pull them on solo or stack them with your matching Uchiha jersey or hoodie for the full fit. Secure checkout, fast nationwide and worldwide delivery, plus easy returns.</p>
+<ul>
+<li><strong>Style:</strong> Anime-inspired Uchiha joggers, fan design (not affiliated with or endorsed by the franchise)</li>
+<li><strong>Material:</strong> Thick, soft cotton-blend fabric, warm and comfortable</li>
+<li><strong>Waist:</strong> Drawstring elastic waist for an adjustable, secure fit</li>
+<li><strong>Leg:</strong> Tapered with ribbed cuffs for a clean, modern finish</li>
+<li><strong>Fit:</strong> Unisex; if you are between sizes, size up for a relaxed feel</li>
+<li><strong>Sizing:</strong> Available in M, L, XL and 2XL</li>
+<li><strong>Pairing:</strong> Designed to match your Uchiha jersey or hoodie</li>
+<li><strong>Care:</strong> Machine wash cold inside-out; tumble dry low; do not iron directly on the print</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Uchiha clan anime-inspired design with bold Sharingan-era attitude
+  • Thick, soft cotton-blend fabric that feels warm and comfortable
+  • Drawstring elastic waist for an easy, adjustable fit
+  • Tapered, cuffed leg and unisex cut for everyday streetwear
+  • Pairs perfectly with your matching Uchiha jersey or hoodie
+  • Secure checkout with fast nationwide and worldwide delivery
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (47 chars)        : Uchiha Joggers | Naruto Anime-Inspired Trousers
+Meta Description (148 chars) : Shop Uchiha joggers: thick cotton-blend Naruto anime-inspired trousers with drawstring waist. Unisex, sizes M-2XL. Fast worldwide delivery. ₦17,000.
+Focus keyword                       : Uchiha joggers
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Uchiha clan Naruto anime-inspired joggers in thick cotton-blend with drawstring waist and tapered cuffed leg, front view
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga aesthetic studio shot of a young model wearing anime-inspired Naruto Uchiha joggers, cropped from the waist down to the cuffs. Ink black #111111 background with paper white #FAFAFA highlights and a single bold manga-red #E2261C accent echoing the Uchiha crest. Halftone dot shading, dynamic speed lines and a subtle ink-splatter burst framing the legs in clean manga panels. Premium, cinematic product lighting; tapered cuffed silhouette and drawstring waist clearly visible; high-detail fabric texture.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

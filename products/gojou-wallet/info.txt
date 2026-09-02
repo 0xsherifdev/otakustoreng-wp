@@ -1,0 +1,70 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Gojou Wallet
+SLUG         : gojou-wallet
+BUMPA ID     : 1873997
+WOO TYPE     : simple
+PARENT SKU   : OSN-1873997
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Wallets
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Gojo wallet, Satoru Gojo, Jujutsu Kaisen, JJK merch, anime wallet, PU leather wallet, card holder, anime card wallet, everyday carry, Otaku Store NG
+FRANCHISE: Jujutsu Kaisen    CHARACTER: Satoru Gojo
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦9,000
+Total stock   : 10
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the Strongest. Slim. Six Eyes sharp.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A slim, anime-inspired Jujutsu Kaisen wallet built around Satoru Gojo artwork. PU leather body, multiple card slots and a note compartment for clean everyday carry. Fan-made, not affiliated.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Pocket the energy of the Strongest. This Gojo wallet pairs bold, anime-inspired Satoru Gojo artwork with a slim everyday-carry build, so your cards and cash travel as clean as a Hollow Purple. The printed panel keeps its colour through daily use, while the compact silhouette slides easily into a jacket or back pocket.</p><p>Organised inside with multiple card slots and a dedicated note compartment, it keeps your essentials sorted for class, the commute or a night out. A confident pick for any JJK fan who wants to wear the roster every single day.</p><ul><li>Anime-inspired Satoru Gojo (Jujutsu Kaisen) printed artwork</li><li>Durable PU leather exterior with a smooth, premium hand-feel</li><li>Multiple card slots for cards, transit passes and IDs</li><li>Dedicated note / cash compartment for slim everyday carry</li><li>Compact, pocket-friendly fold that stays low-profile</li><li>Easy care: wipe clean with a soft, slightly damp cloth</li><li>Fan-made, anime-inspired design; not official or affiliated</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold Satoru Gojo artwork from Jujutsu Kaisen
+  • Slim PU leather build for everyday carry
+  • Multiple card slots plus a note compartment
+  • Pocket-friendly, low-profile fold
+  • Fan-made, anime-inspired design, not affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (52 chars)        : Gojo Wallet | Jujutsu Kaisen Anime PU Leather Wallet
+Meta Description (153 chars) : Slim Satoru Gojo wallet inspired by Jujutsu Kaisen. PU leather, multiple card slots and a note pocket for everyday carry. Ships nationwide and worldwide.
+Focus keyword                       : Gojo wallet
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Slim PU leather Jujutsu Kaisen wallet printed with Satoru Gojo artwork, shown open to reveal card slots and a note compartment
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a slim PU leather anime wallet printed with Satoru Gojo from Jujutsu Kaisen, blindfold and white hair stylised in ink. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent. Halftone dot shading, dynamic speed lines and ink splatter framing the wallet in a manga panel. Wallet shown partly open revealing card slots and a note compartment, cards fanned slightly. Premium, cinematic, high-contrast macro lighting, crisp focus on the leather grain and printed artwork.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

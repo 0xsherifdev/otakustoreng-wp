@@ -1,0 +1,85 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Luffy gear 5 hoodie
+SLUG         : luffy-gear-5-hoodie
+BUMPA ID     : 3167938
+WOO TYPE     : variable
+PARENT SKU   : OSN-3167938
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+  - Shop by Anime > One Piece
+
+TAGS: Luffy Gear 5 hoodie, One Piece hoodie, Luffy hoodie, Sun God Nika, anime hoodie, One Piece merch, Straw Hat Pirates, Monkey D. Luffy, anime streetwear, pullover hoodie
+FRANCHISE: One Piece    CHARACTER: Monkey D. Luffy
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦21,000
+Total stock   : 77
+VARIATIONS (attribute: Size)
+  L              | ₦21,000 | stock 20   | SKU OSN-3167938-L
+  XL             | ₦21,000 | stock 17   | SKU OSN-3167938-XL
+  2XL            | ₦21,000 | stock 20   | SKU OSN-3167938-2XL
+  3XL            | ₦21,000 | stock 20   | SKU OSN-3167938-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Awaken the Sun God. Gear 5 on your back.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel Luffy's Gear 5 awakening in this fan-inspired pullover hoodie. Brushed-fleece interior, ribbed cuffs and hem, and a roomy kangaroo pocket deliver cosy warmth with a clean unisex streetwear fit built for everyday wear.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>When the Drums of Liberation start beating, you wear it loud. This Luffy Gear 5 hoodie brings the Sun God Nika awakening to life with bold, anime-inspired graphics on a heavyweight pullover built for comfort. The brushed-fleece interior keeps you warm, while the unisex streetwear cut layers clean over a tee or under a jacket.</p>
+<p>Whether you're marathoning the Wano arc or repping the Straw Hats out in the world, this is everyday gear that holds its colour wash after wash. Fan-made and anime-inspired, not affiliated with or endorsed by the official rights holders.</p>
+<ul>
+<li>Pullover hoodie with bold Gear 5 / Sun God Nika anime-inspired graphic</li>
+<li>Soft brushed-fleece interior for warmth and comfort</li>
+<li>Ribbed cuffs and hem to hold shape and lock in heat</li>
+<li>Roomy front kangaroo pocket and adjustable drawstring hood</li>
+<li>Unisex streetwear fit, true-to-type sizing</li>
+<li>Available in L, XL, 2XL and 3XL</li>
+<li>Machine wash cold, inside-out; hang or low tumble dry</li>
+<li>Ships nationwide across Nigeria and worldwide</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold Gear 5 / Sun God Nika anime-inspired front graphic
+  • Warm brushed-fleece interior for all-day comfort
+  • Ribbed cuffs and hem with roomy kangaroo pocket
+  • Unisex streetwear fit in L, XL, 2XL and 3XL
+  • Machine wash cold inside-out to protect the print
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (46 chars)        : Luffy Gear 5 Hoodie | One Piece Anime Pullover
+Meta Description (150 chars) : Shop the Luffy Gear 5 hoodie - a fan-inspired One Piece pullover with brushed fleece, kangaroo pocket and unisex fit. Sizes L-3XL. Ships from Nigeria.
+Focus keyword                       : Luffy Gear 5 hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Luffy Gear 5 pullover hoodie with One Piece Sun God Nika anime-inspired graphic, front view
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga style studio product shot of a pullover hoodie featuring a Luffy Gear 5 Sun God Nika anime-inspired graphic. Ink black #111111 background, paper white #FAFAFA hoodie, single manga-red #E2261C accent on the drawstrings and graphic highlights. Halftone dot shading, dramatic speed lines radiating outward, scattered ink splatter, framed inside bold manga panel borders. Cinematic rim lighting, premium streetwear catalogue look, high detail on fabric texture and ribbed cuffs.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

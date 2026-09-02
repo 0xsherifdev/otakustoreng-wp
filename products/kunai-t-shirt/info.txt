@@ -1,0 +1,85 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Kunai T-shirt
+SLUG         : kunai-t-shirt
+BUMPA ID     : 3168051
+WOO TYPE     : variable
+PARENT SKU   : OSN-3168051
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+  - Shop by Anime > Naruto
+
+TAGS: Kunai T-shirt, Naruto t-shirt, anime t-shirt, ninja tee, shinobi merch, Naruto-inspired, unisex anime tee, graphic tee
+FRANCHISE: Naruto    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦13,000
+Total stock   : 79
+VARIATIONS (attribute: Size)
+  L              | ₦13,000 | stock 20   | SKU OSN-3168051-L
+  XL             | ₦13,000 | stock 19   | SKU OSN-3168051-XL
+  2XL            | ₦13,000 | stock 20   | SKU OSN-3168051-2XL
+  3XL            | ₦13,000 | stock 20   | SKU OSN-3168051-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Ninja-grade graphics for the shinobi rotation
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A Naruto-inspired Kunai tee built for fans of the hidden village arsenal. Soft, breathable cotton-feel fabric, unisex regular fit and a crisp fade-resistant print that holds its edge wash after wash. Wear the roster.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Throw down with the Kunai T-shirt, a Naruto-inspired piece that puts the shinobi's signature blade front and centre. The graphic lands with sharp ink-line detail and bold contrast, made for fans who live and breathe the hidden village arc and want their fit to say it before they do.</p>
+<p>Cut in a unisex regular fit with a clean crew neck, it sits easy over the shoulders and layers just as well solo as under a jacket. The print is durable and fade-resistant, so your favourite weapon-of-choice tee keeps its punch through every wash and every rewatch.</p>
+<ul>
+<li>Naruto-inspired Kunai graphic with crisp, high-contrast ink-line detail</li>
+<li>Soft, breathable cotton-feel fabric for all-day comfort</li>
+<li>Unisex regular fit with a classic crew neck</li>
+<li>Durable, fade-resistant print that holds up wash after wash</li>
+<li>Available in L, XL, 2XL and 3XL</li>
+<li>Care: machine wash cold, inside-out; do not iron directly on the print</li>
+<li>Fan-made and anime-inspired; not affiliated with or endorsed by the rights holders</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Naruto-inspired Kunai graphic with sharp ink-line detail
+  • Soft, breathable cotton-feel fabric
+  • Unisex regular fit with classic crew neck
+  • Durable, fade-resistant print
+  • Sizes L to 3XL
+  • Ships nationwide and worldwide from Nigeria
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (41 chars)        : Kunai T-shirt | Naruto-Inspired Anime Tee
+Meta Description (153 chars) : Naruto-inspired Kunai T-shirt in soft cotton-feel fabric, unisex regular fit, fade-resistant print. Sizes L-3XL. ₦13,000. Ships nationwide and worldwide.
+Focus keyword                       : Kunai T-shirt
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Naruto-inspired Kunai T-shirt with bold ninja kunai graphic on the front, unisex regular fit crew neck tee
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a folded crew-neck t-shirt featuring a bold kunai throwing-blade graphic, ink black #111111 background, paper white #FAFAFA fabric, single manga-red #E2261C accent on the blade edge. Halftone dot shading, dynamic speed lines radiating outward, subtle ink splatter, framed in a clean manga panel border. Premium, cinematic lighting, high contrast, sharp focus.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

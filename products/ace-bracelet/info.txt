@@ -1,0 +1,70 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Ace Bracelet
+SLUG         : ace-bracelet
+BUMPA ID     : 2237317
+WOO TYPE     : simple
+PARENT SKU   : OSN-2237317
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Bracelets
+  - Shop by Anime > One Piece
+
+TAGS: Ace bracelet, One Piece bracelet, Portgas D. Ace, anime bracelet, stainless steel bracelet, One Piece merch, anime jewellery, Whitebeard crew
+FRANCHISE: One Piece    CHARACTER: Portgas D. Ace
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦7,000
+Total stock   : 8
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the Whitebeard fire on your wrist
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Stainless-steel link bracelet stacked with Ace-inspired jolly-roger charms in black and yellow enamel. Bold, everyday-durable and built to anchor any One Piece stack. Fan-made, anime-inspired piece for true Whitebeard crew loyalists.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>For the fans who never let go. The <strong>Ace Bracelet</strong> brings Portgas D. Ace's spirit to your wrist with a chunky stainless-steel link chain studded with skull-emblem charms, finished in deep black and signature flame-yellow enamel. It is the kind of piece that catches the light and starts conversations at every meetup.</p><p>Built to be worn, not boxed. The polished steel resists tarnish and shrugs off daily wear, so you can stack it with the rest of your One Piece collection or let it ride solo. A clean, masculine statement for any Whitebeard crew devotee.</p><ul><li>Material: polished stainless-steel chain with enamel charm detailing</li><li>Style: chunky link bracelet with repeating skull-emblem charms</li><li>Colourway: silver-tone steel with black and yellow enamel</li><li>Design: One Piece / Portgas D. Ace anime-inspired motif</li><li>Fit: standard wrist fit with secure clasp closure</li><li>Wear: everyday-durable, tarnish-resistant, lightweight feel</li><li>What's included: 1 x Ace Bracelet</li><li>Care: wipe with a soft dry cloth; keep away from water, perfume and harsh chemicals</li></ul><p>Fan-made and anime-inspired. Not official or affiliated with the franchise or its creators.</p>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Solid stainless-steel link chain that resists tarnish and survives daily wear
+  • Ace-inspired skull charms in bold black and flame-yellow enamel
+  • Secure clasp closure with a comfortable standard wrist fit
+  • Stacks effortlessly with rings, necklaces and other One Piece pieces
+  • Fan-made, anime-inspired design for true Whitebeard crew loyalists
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : Ace Bracelet - One Piece Steel Charm Bracelet
+Meta Description (146 chars) : Ace Bracelet: stainless-steel One Piece charm bracelet with black and yellow enamel skull links. Everyday-durable, fan-made. Ships nationwide and.
+Focus keyword                       : Ace bracelet
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Stainless-steel One Piece Ace bracelet with black and yellow enamel skull-emblem charm links
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product studio shot of a stainless-steel One Piece Ace charm bracelet coiled on ink-black #111111 surface, paper-white #FAFAFA backdrop, single manga-red #E2261C accent ribbon of light. Black and yellow enamel skull charms catch a hard cinematic spotlight. Halftone-dot texture, dynamic speed lines and a touch of ink splatter framing the panel; premium, high-contrast, sharp macro detail, manga panel composition.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

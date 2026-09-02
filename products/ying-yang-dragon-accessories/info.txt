@@ -1,0 +1,89 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Ying Yang Dragon Accessories
+SLUG         : ying-yang-dragon-accessories
+BUMPA ID     : 1254760
+WOO TYPE     : variable
+PARENT SKU   : OSN-1254760
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Couple Accessories
+  - Shop by Anime > Hunter x Hunter
+
+TAGS: yin yang dragon, couple accessories, matching couple set, anime jewellery, his and hers, couple necklace, couple bracelet, anime gift, yin yang necklace, otaku couple
+FRANCHISE: Generic Anime    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦3,500
+Total stock   : 56
+VARIATIONS (attribute: Style)
+  Chain          | ₦5,500 | stock 8    | SKU OSN-1254760-CHAIN
+  Bracelet       | ₦3,500 | stock 8    | SKU OSN-1254760-BRACELET
+  Both           | ₦9,000 | stock 40   | SKU OSN-1254760-BOTH
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Two halves, one bond, dragon yin-yang for couples.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A matching his-and-hers yin-yang dragon set where two halves click into one disc. One wears light, one wears shadow, anime-inspired duo jewellery built for everyday wear and gifting to the person who completes your roster.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Light and shadow, locked together. The Ying Yang Dragon set splits a single yin-yang disc into two interlocking halves, one in silver-tone with an engraved dragon, one in black enamel with a flame-wrapped dragon. Each partner wears a piece, and together they complete the symbol, an anime-inspired nod to the duality every great rivalry and romance is built on.</p>
+<p>Pick your format: matching cord necklaces with black and silver bead accents, braided bracelets with rhinestone spacers and an adjustable slider, or grab Both for the full duo. Everyday-tough materials, low-key enough for daily wear, bold enough to draw questions. A standout gift for anniversaries, otaku partners, best friends and siblings.</p>
+<ul>
+<li>Matching couple set: two interlocking yin-yang halves that form one complete disc</li>
+<li>Dragon motifs, one engraved silver-tone half and one black enamel half with flame detailing</li>
+<li>Style options: Chain (waxed cord necklaces), Bracelet (braided cords with rhinestone spacers), or Both</li>
+<li>Necklace cords in black and white with black and silver bead accents</li>
+<li>Bracelet finished with an adjustable sliding closure for a flexible fit</li>
+<li>Lightweight, comfortable for all-day wear and easy to share between two people</li>
+<li>Anime-inspired fan design, gift-ready for couples, best friends and siblings</li>
+<li>Ships from Nigeria, nationwide and worldwide</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Two interlocking halves form one complete yin-yang dragon disc
+  • His-and-hers duo: one silver light half, one black shadow half
+  • Choose Chain, Bracelet, or grab Both for the full set
+  • Adjustable bracelet slider and beaded cord necklaces for easy fit
+  • Lightweight everyday wear, made to be shared between two people
+  • Gift-ready for couples, best friends and siblings
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (51 chars)        : Yin Yang Dragon Couple Set | Anime Chain & Bracelet
+Meta Description (147 chars) : Matching yin-yang dragon couple set, two halves form one disc. Anime-inspired his-and-hers chain or bracelet. Ships from Nigeria worldwide. ₦3,500.
+Focus keyword                       : yin yang dragon couple set
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+  05.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Yin-yang dragon couple set with two interlocking silver and black dragon halves on matching cord necklace and braided bracelet
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a yin-yang dragon couple jewellery set: two interlocking halves of a single yin-yang disc, one silver-tone engraved dragon half, one black enamel flame-dragon half, displayed side by side on ink black #111111 surface. Manga-red #E2261C accent speed lines radiating behind the joined disc, halftone dot shading, ink splatter at the edges, paper white #FAFAFA panel borders framing the composition like a manga page. One cord necklace and one braided bracelet arranged in clean diagonal layout, dramatic cinematic side lighting, crisp macro detail on the dragon engraving, premium e-commerce hero shot.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

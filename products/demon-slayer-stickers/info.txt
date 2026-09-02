@@ -1,0 +1,72 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Demon Slayer Stickers
+SLUG         : demon-slayer-stickers
+BUMPA ID     : 1141001
+WOO TYPE     : simple
+PARENT SKU   : OSN-1141001
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Stickers
+  - Shop by Anime > Demon Slayer
+
+TAGS: Demon Slayer stickers, Kimetsu no Yaiba, anime stickers, vinyl stickers, Nezuko, Tanjiro, waterproof stickers, laptop stickers, sticker pack, anime merch
+FRANCHISE: Demon Slayer    CHARACTER: Nezuko Kamado
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦1,000
+Total stock   : 995
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+10 waterproof Kimetsu no Yaiba vinyl stickers
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Deck out your laptop, bottle and notebook with this 10-piece Demon Slayer vinyl sticker pack. Tanjiro, Nezuko, the Hashira and those iconic masks in vivid, waterproof, fade-resistant print built to survive daily carry.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Slap a slice of the Demon Slayer Corps on everything you own. This 10-piece vinyl sticker pack runs deep on Kimetsu no Yaiba favourites — Tanjiro, Nezuko, the Hashira, and the unmistakable fox masks and 鬼滅の刃 logo — all printed in rich, saturated colour that pops against any surface.</p><p>Cut from durable waterproof vinyl with a fade-resistant finish, these stickers shrug off scratches, splashes and daily wear. Perfect for laptops, water bottles, phone cases, notebooks, skateboards and journals — peel, stick and rep the roster. Fan-made, anime-inspired art; not affiliated with or endorsed by the rights holders.</p><ul><li>Pack of 10 Demon Slayer / Kimetsu no Yaiba vinyl stickers</li><li>Waterproof, scratch-resistant durable vinyl</li><li>Vivid, fade-resistant print that stays bold over time</li><li>Sticks to laptops, water bottles, phone cases, notebooks, skateboards and more</li><li>Easy peel-and-stick application; leaves no messy residue</li><li>Designs may vary per pack — a mixed, no-duplicate selection</li><li>Fan / anime-inspired art, not official or licensed merchandise</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • 10-piece Demon Slayer vinyl sticker pack
+  • Waterproof and scratch-resistant durable vinyl
+  • Vivid, fade-resistant print that stays bold
+  • Sticks to laptops, bottles, phones and notebooks
+  • Easy peel-and-stick with no messy residue
+  • Fan-made anime-inspired art, not affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (50 chars)        : Demon Slayer Stickers - 10pc Waterproof Vinyl Pack
+Meta Description (149 chars) : Demon Slayer vinyl sticker pack of 10 - Tanjiro, Nezuko and the Hashira. Waterproof, fade-resistant prints for laptops, bottles and notebooks. Ships.
+Focus keyword                       : Demon Slayer stickers
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Demon Slayer vinyl sticker pack featuring Nezuko, Tanjiro, fox masks and the Kimetsu no Yaiba logo
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot: a fanned-out spread of Demon Slayer vinyl stickers (Nezuko, Tanjiro, fox masks, chibi Hashira) scattered across a matte ink-black #111111 surface with paper-white #FAFAFA negative space. A single manga-red #E2261C accent line slashes diagonally like a sword stroke. Halftone dot texture, bold speed lines and a fine ink-splatter spray frame the composition in manga panels. Cinematic top-down lighting, crisp focus on the stickers, premium and high-contrast. No text, no watermark.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

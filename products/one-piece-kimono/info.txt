@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : One Piece Kimono
+SLUG         : one-piece-kimono
+BUMPA ID     : 1771933
+WOO TYPE     : simple
+PARENT SKU   : OSN-1771933
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Kimono
+  - Shop by Anime > One Piece
+
+TAGS: One Piece kimono, One Piece haori, anime kimono, anime haori robe, One Piece merch, anime layering jacket, unisex kimono, Otaku Store NG
+FRANCHISE: One Piece    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦15,000
+Total stock   : 10
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Set sail in style. Wear the roster.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+An anime-inspired One Piece haori built for crews who run on adventure. Lightweight open-front drape, wide sleeves, bold manga-grade print. Throw it over a tee and own the deck. Unisex free-size layering, gentle wash, hang dry.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Hoist the colours. This One Piece kimono is a fan-favourite haori layer made for fans who live for the next island, the next bounty, the next showdown. Lightweight and open-front, it falls in a clean drape with wide flowing sleeves, so the print reads loud whether you're at a con, a meetup, or just running errands like a Grand Line legend.</p><p>The unisex free-size cut layers effortlessly over a tee or fitted top, giving you statement energy without the bulk. Anime-inspired design by Otaku Store NG, not affiliated with or endorsed by the official rights holders.</p><ul><li>Style: open-front haori / kimono robe with wide sleeves</li><li>Fit: unisex free-size, relaxed drape (layer over a tee)</li><li>Print: bold One Piece-inspired graphic, manga-grade detail</li><li>Feel: lightweight fabric, easy everyday layering piece</li><li>Wear it: cons, meetups, photoshoots, casual streetwear</li><li>Care: gentle cold wash, hang dry, do not bleach, cool iron if needed</li><li>What's included: 1 anime-inspired kimono haori</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Open-front haori with wide flowing sleeves for instant statement layering
+  • Unisex free-size drape that fits over a tee or fitted top
+  • Bold One Piece-inspired manga-grade print
+  • Lightweight fabric, easy to wear all day
+  • Perfect for cons, meetups, photoshoots and street style
+  • Gentle wash and hang dry to keep colours sharp
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (39 chars)        : One Piece Kimono Haori | Otaku Store NG
+Meta Description (146 chars) : Anime-inspired One Piece kimono haori. Lightweight open-front drape, wide sleeves, bold print. Unisex free-size. Ships from Nigeria, nationwide +.
+Focus keyword                       : One Piece kimono
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: One Piece-inspired open-front kimono haori with wide sleeves and bold anime print, shown on a hanger
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of an open-front anime kimono haori with wide sleeves, hung on a minimalist stand. Ink black #111111 background, paper white #FAFAFA garment, single manga-red #E2261C accent on the print and trim. Halftone dot shading, dynamic speed lines radiating behind the robe, subtle ink splatter at the edges, framed in a clean manga panel. Premium, cinematic lighting, sharp fabric drape, high detail.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

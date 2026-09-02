@@ -1,0 +1,84 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Tomioka B Jersey
+SLUG         : tomioka-b-jersey
+BUMPA ID     : 4846035
+WOO TYPE     : variable
+PARENT SKU   : OSN-4846035
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Jerseys
+  - Shop by Anime > Demon Slayer
+
+TAGS: Giyu Tomioka, Demon Slayer, anime jersey, all-over-print jersey, baseball jersey, Water Hashira, anime streetwear, Kimetsu no Yaiba
+FRANCHISE: Demon Slayer    CHARACTER: Giyu Tomioka
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦23,000
+Total stock   : 246
+VARIATIONS (attribute: Size)
+  M              | ₦23,000 | stock 47   | SKU OSN-4846035-M
+  L              | ₦23,000 | stock 50   | SKU OSN-4846035-L
+  XL             | ₦23,000 | stock 50   | SKU OSN-4846035-XL
+  2XL            | ₦23,000 | stock 50   | SKU OSN-4846035-2XL
+  3XL            | ₦23,000 | stock 49   | SKU OSN-4846035-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Channel the Water Hashira's calm, unbreakable resolve
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Suit up as Giyu Tomioka with this all-over-print Demon Slayer baseball jersey. Edge-to-edge dye-sublimated artwork on lightweight, breathable polyester. Button-up unisex cut built for cons, watch parties, and everyday anime streetwear. Ships nationwide and worldwide.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Stand still like the Water Hashira himself. The Tomioka B Jersey wraps you in vivid, edge-to-edge artwork inspired by Giyu Tomioka of Demon Slayer, with dye-sublimated graphics that flow across the entire button-up baseball cut. The print never cracks or peels because it is fused into the fabric, so the colour stays as sharp as a Water Breathing strike wash after wash.</p>
+<p>Cut for comfort and built to be seen, this lightweight jersey breathes through long convention days, match-watch marathons, and street layering over a tee or hoodie. Unisex sizing runs true to size, so if you are between two sizes, level up to the larger one. Secure checkout, fast nationwide and worldwide delivery, and easy returns come standard.</p>
+<ul>
+<li><strong>Material:</strong> 100% polyester, lightweight and breathable</li>
+<li><strong>Print:</strong> All-over dye-sublimation, edge-to-edge Giyu Tomioka / Demon Slayer artwork</li>
+<li><strong>Fit:</strong> Unisex button-up baseball jersey cut, true to size</li>
+<li><strong>Sizing:</strong> M, L, XL, 2XL, 3XL - size up if between sizes</li>
+<li><strong>Care:</strong> Machine wash cold inside-out, do not iron directly on the print</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • All-over dye-sublimated Giyu Tomioka artwork, edge to edge
+  • Lightweight, breathable 100% polyester for all-day wear
+  • Button-up baseball cut, unisex and true to size
+  • Print fused into the fabric - never cracks, peels, or fades
+  • Built for conventions, watch parties, and streetwear layering
+  • Ships fast nationwide and worldwide with easy returns
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (40 chars)        : Tomioka Demon Slayer Anime Jersey | Giyu
+Meta Description (152 chars) : Shop the Tomioka anime jersey - all-over-print Giyu Demon Slayer baseball jersey in breathable polyester. ₦23,000. Fast nationwide & worldwide delivery.
+Focus keyword                       : Tomioka anime jersey
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Tomioka B all-over-print Demon Slayer baseball jersey featuring Giyu Tomioka artwork on lightweight polyester
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga aesthetic studio shot of a button-up all-over-print anime baseball jersey on an invisible mannequin, floating front-and-center. Ink black #111111 background with paper white #FAFAFA halftone screentone dots and dramatic manga speed lines radiating outward. A single bold manga-red #E2261C accent used sparingly - a slash of brush-ink splatter and a thin red panel border for energy. High contrast monochrome composition with cinematic rim lighting, premium anime-streetwear mood, sharp fabric detail, water-ripple motif subtly echoing the Water Hashira. Manga panel layout framing, 4k, bold and editorial.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

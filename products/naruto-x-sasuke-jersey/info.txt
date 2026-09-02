@@ -1,0 +1,74 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Naruto X Sasuke Jersey
+SLUG         : naruto-x-sasuke-jersey
+BUMPA ID     : 2193792
+WOO TYPE     : variable
+PARENT SKU   : OSN-2193792
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Jerseys
+  - Shop by Anime > Naruto
+
+TAGS: Naruto, Sasuke, Naruto jersey, anime jersey, all-over print jersey, Uchiha, shinobi streetwear, anime apparel
+FRANCHISE: Naruto    CHARACTER: Naruto & Sasuke
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦23,000
+Total stock   : 24
+VARIATIONS (attribute: Size)
+  L              | ₦23,000 | stock 7    | SKU OSN-2193792-L
+  XL             | ₦23,000 | stock 8    | SKU OSN-2193792-XL
+  2XL            | ₦23,000 | stock 9    | SKU OSN-2193792-2XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Rivals to the end. Bonds that never break.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Rep the greatest rivalry in shinobi history. This all-over-print Naruto x Sasuke jersey wraps you in edge-to-edge graphics on lightweight, breathable polyester. Built for conventions, watch parties, and everyday streetwear flex.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Two destinies, one jersey. The Naruto x Sasuke Jersey puts the legendary rivalry of Konoha's brightest front and centre with vivid, edge-to-edge dye-sublimated graphics. Whether you ride with the Hokage's will of fire or the Uchiha's lone path, this all-over-print piece lets you wear the bond that defined a generation of shinobi.</p><p>Cut for unisex comfort and made from lightweight, breathable 100% polyester, it stays crisp and colour-rich wash after wash. Layer it for streetwear, throw it on for the next match-watch party, or make an entrance at your next convention. Fits true to size; if you're between sizes, size up for a relaxed drape.</p><ul><li><strong>Material:</strong> Lightweight, breathable 100% polyester</li><li><strong>Print:</strong> All-over dye-sublimated graphics, vivid edge-to-edge colour that won't crack or peel</li><li><strong>Fit:</strong> Unisex, true to size — between sizes? Size up</li><li><strong>Sizing:</strong> Available in L, XL, 2XL</li><li><strong>Care:</strong> Machine wash cold inside-out; do not iron directly on the print</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • All-over dye-sublimated print featuring Naruto Uzumaki and Sasuke Uchiha
+  • Lightweight, breathable 100% polyester keeps you cool all day
+  • Unisex fit, true to size — size up if between sizes
+  • Vivid edge-to-edge colour that won't crack, fade, or peel
+  • Perfect for conventions, watch parties, and streetwear layering
+  • Secure checkout with fast nationwide and worldwide delivery
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : Naruto x Sasuke Anime Jersey | Otaku Store NG
+Meta Description (155 chars) : Shop the Naruto x Sasuke anime jersey — all-over-print, breathable polyester. ₦23,000. Fast nationwide + worldwide delivery, secure checkout, easy returns.
+Focus keyword                       : Naruto Sasuke anime jersey
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Naruto x Sasuke all-over-print anime jersey featuring Naruto Uzumaki and Sasuke Uchiha graphics on breathable polyester
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga aesthetic studio shot of a folded all-over-print anime jersey featuring Naruto and Sasuke, displayed on an ink-black #111111 surface with paper-white #FAFAFA backdrop. High-contrast monochrome composition with halftone screentone dots and manga speed lines radiating outward, brush-ink splatter accents, and a single bold manga-red #E2261C pop used sparingly for energy. Cinematic premium anime-streetwear mood, sharp dramatic side lighting, manga panel layout framing, shallow depth of field.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

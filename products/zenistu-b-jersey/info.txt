@@ -1,0 +1,85 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Zenistu B Jersey
+SLUG         : zenistu-b-jersey
+BUMPA ID     : 4846011
+WOO TYPE     : variable
+PARENT SKU   : OSN-4846011
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Jerseys
+  - Shop by Anime > Demon Slayer
+
+TAGS: Zenitsu Agatsuma, Demon Slayer, Kimetsu no Yaiba, anime jersey, all-over-print jersey, Thunder Breathing, anime streetwear, dye-sublimated jersey
+FRANCHISE: Demon Slayer    CHARACTER: Zenitsu Agatsuma
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦23,000
+Total stock   : 239
+VARIATIONS (attribute: Size)
+  M              | ₦23,000 | stock 46   | SKU OSN-4846011-M
+  L              | ₦23,000 | stock 46   | SKU OSN-4846011-L
+  XL             | ₦23,000 | stock 49   | SKU OSN-4846011-XL
+  2XL            | ₦23,000 | stock 48   | SKU OSN-4846011-2XL
+  3XL            | ₦23,000 | stock 50   | SKU OSN-4846011-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Thunder Breathing in all-over print
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel Zenitsu's Thunderclap and Flash with this all-over-print Demon Slayer jersey. Vivid edge-to-edge graphics on lightweight, breathable polyester. Built for conventions, watch parties, and everyday streetwear layering. Unisex fit, true to size.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>When the panic fades and the lightning strikes, Zenitsu Agatsuma becomes the fastest blade in the Demon Slayer Corps. This all-over-print anime jersey brings that Thunder Breathing energy to your wardrobe with vivid, dye-sublimated graphics that run edge to edge for a bold, cinematic look no plain tee can touch.</p>
+<p>Cut for comfort and built to be seen, it is lightweight and breathable for long convention days, match-watch parties, or layering into your everyday streetwear fit. Unisex and true to size, it wears as good standalone as it does open over a tee. If you are between sizes, size up for a relaxed drape.</p>
+<ul>
+<li><strong>Material:</strong> 100% polyester, lightweight and breathable</li>
+<li><strong>Print:</strong> All-over dye-sublimated graphics, edge-to-edge, fade-resistant</li>
+<li><strong>Fit:</strong> Unisex, true to size (between sizes? size up)</li>
+<li><strong>Sizing:</strong> Available in M, L, XL, 2XL, 3XL</li>
+<li><strong>Care:</strong> Machine wash cold inside-out; do not iron directly on the print</li>
+<li><strong>Price:</strong> ₦23,000 with secure checkout, fast nationwide and worldwide delivery, and easy returns</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • All-over-print Zenitsu graphics with bold Thunder Breathing energy, edge to edge
+  • Lightweight, breathable 100% polyester keeps you cool through full convention days
+  • Unisex, true-to-size fit perfect for streetwear layering or standalone wear
+  • Sizes M to 3XL with vivid, fade-resistant dye-sublimated color
+  • Secure checkout plus fast nationwide and worldwide delivery
+  • Easy returns on every order
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (50 chars)        : Zenitsu Demon Slayer Anime Jersey | Otaku Store NG
+Meta Description (146 chars) : Zenitsu Agatsuma all-over-print anime jersey. Lightweight, breathable, unisex fit. Sizes M-3XL, ₦23,000. Fast worldwide delivery and easy returns.
+Focus keyword                       : Zenitsu anime jersey
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Zenitsu Agatsuma Demon Slayer all-over-print anime jersey in lightweight polyester, front view
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga style studio shot of a folded all-over-print anime jersey featuring Zenitsu Agatsuma, lit cinematically against an ink-black #111111 backdrop. High-contrast monochrome scene with halftone screentone dots and manga speed lines radiating outward, brush-ink splatter in the corners, paper-white #FAFAFA highlights. A single bold manga-red #E2261C accent used sparingly as a lightning-bolt streak for energy. Premium anime-streetwear mood, manga panel layout framing, crisp fabric texture, dramatic side lighting.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

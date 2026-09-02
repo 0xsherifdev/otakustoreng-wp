@@ -1,0 +1,77 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Customized Phone Cases
+SLUG         : customized-phone-cases
+BUMPA ID     : 1510298
+WOO TYPE     : variable
+PARENT SKU   : OSN-1510298
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Phone Cases
+
+TAGS: custom anime phone case, personalised phone case, anime phone case, manga phone case, iPhone anime case, Android anime case, made to order phone case, photo phone case
+FRANCHISE: Generic Anime    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦6,500
+Total stock   : 203
+VARIATIONS (attribute: Style)
+  Android        | ₦6,500 | stock 38   | SKU OSN-1510298-ANDROID
+  Fast Delivery iPhone | ₦8,000 | stock 91   | SKU OSN-1510298-FASTDELIVERYIPHONE
+  Long Delivery iPhone | ₦7,000 | stock 74   | SKU OSN-1510298-LONGDELIVERYIPHONE
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Your art. Your fighter. Printed to order.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A made-to-order anime phone case printed with any design you send: a favourite character, a manga panel, a wallpaper, or your own photo. Slim protective shell with raised edges and precise cutouts, built for Android and iPhone. Send your art, we print it sharp.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Stop scrolling for the right case and just make it. This is a fully customised, made-to-order anime phone case: pick your fighter, drop a manga panel, send a wallpaper, or even your own photo, and we print it edge to edge in rich, high-resolution colour. Ichigo in full Bankai flame, a Gojo split-panel, a clean black-and-white inked spread, your name, your moment, it is your case to design.</p><p>Under the art is a slim, snug shell with raised edges that lift the screen and camera off flat surfaces, plus clean cutouts for ports, buttons and lenses so everything stays easy to reach. Available for a wide range of Android and iPhone models, choose your style at checkout and send your design straight after ordering. Wear the roster, your way.</p><ul><li>Made-to-order print: send any anime art, manga panel, wallpaper or personal photo</li><li>High-resolution, full-wrap print designed to stay vivid in daily use</li><li>Slim protective shell with raised edges to guard the screen and camera</li><li>Precise cutouts for charging port, buttons, speakers and camera lenses</li><li>Style options: Android, Fast Delivery iPhone, Long Delivery iPhone</li><li>Made-to-order turnaround: Fast Delivery iPhone in about 2-3 days; Long Delivery iPhone in about 9-10 days</li><li>Tell us your exact phone model so the cutouts line up perfectly</li><li>Fan-made, anime-inspired design; not affiliated with or endorsed by any anime studio or rights holder</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Print any design you send: anime character, manga panel, wallpaper or your own photo
+  • Slim protective shell with raised edges for screen and camera defence
+  • Precise cutouts for ports, buttons and camera lenses
+  • Available for a wide range of Android and iPhone models
+  • High-resolution full-wrap print built to stay vivid
+  • Style options: Android, Fast Delivery iPhone, Long Delivery iPhone
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (55 chars)        : Custom Anime Phone Case | Your Design, Android & iPhone
+Meta Description (149 chars) : Made-to-order anime phone case. Send any character, manga panel, wallpaper or photo. Slim protective shell, raised edges, for Android & iPhone. From.
+Focus keyword                       : custom anime phone case
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+  05.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Custom anime phone case printed with a fiery Ichigo Bleach design, held in hand over a row of other anime print cases
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product studio shot of a slim custom anime phone case standing upright on a matte surface. Ink black background #111111, paper white #FAFAFA highlights, single manga-red #E2261C accent. The case back shows a bold inked manga character split into panels with halftone-dot shading and speed lines radiating outward. Subtle ink splatter framing the case, dramatic cinematic side lighting, crisp raised edges and precise camera cutouts visible. Premium e-commerce hero composition, high detail, manga panel borders in the backdrop.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

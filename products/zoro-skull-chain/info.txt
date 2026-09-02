@@ -1,0 +1,72 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Zoro Skull Chain
+SLUG         : zoro-skull-chain
+BUMPA ID     : 1927332
+WOO TYPE     : simple
+PARENT SKU   : OSN-1927332
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > One Piece
+
+TAGS: Zoro skull chain, One Piece necklace, Roronoa Zoro, Santoryu pendant, anime chain, skull pendant necklace, One Piece accessories, anime necklace
+FRANCHISE: One Piece    CHARACTER: Roronoa Zoro
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,500
+Total stock   : 5
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Three swords. One skull. Pure Santoryu energy.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Carry the swordsman's mark with this Zoro-inspired skull pendant on an adjustable black cord. Three crossed blades, a stone-faced skull and crisp blue hilt detailing make it a clean everyday flex for any One Piece fan.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some pirates fly a flag. The world's greatest swordsman-in-training wears his on the chain. This Zoro-inspired skull chain stacks a stone-faced, shades-wearing skull over three crossed blades, the unmistakable nod to Roronoa Zoro's Santoryu three-sword style. Blue diamond detailing runs along the hilts for that extra pop against the polished silver-tone finish.</p><p>Built from a durable, tarnish-resistant metal and strung on an adjustable cord, it sits clean over a tee or under a hoodie collar. Subtle enough for daily wear, sharp enough that fellow fans clock it instantly. Wear the roster.</p><ul><li>Anime-inspired skull pendant with three crossed swords, modelled on Zoro's Santoryu Jolly Roger</li><li>Polished silver-tone finish with blue diamond accents on the sword hilts</li><li>Durable, tarnish-resistant metal pendant</li><li>Adjustable black cord chain for an easy custom fit</li><li>Lightweight build for comfortable all-day wear</li><li>Wipe clean with a soft, dry cloth</li><li>Includes one pendant on cord chain</li><li>Fan / anime-inspired design, not affiliated with or officially licensed by the rights holders</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Zoro Santoryu three-sword skull pendant from One Piece
+  • Polished silver-tone finish with blue diamond hilt accents
+  • Durable, tarnish-resistant metal that wipes clean
+  • Adjustable black cord for a custom fit
+  • Lightweight and comfortable for everyday wear
+  • Ships nationwide across Nigeria and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (46 chars)        : Zoro Skull Chain | One Piece Santoryu Necklace
+Meta Description (150 chars) : Zoro-inspired skull chain with three crossed swords on an adjustable cord. Silver-tone One Piece pendant necklace. Ships across Nigeria and worldwide.
+Focus keyword                       : Zoro skull chain
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Silver-tone Zoro skull pendant with three crossed swords and blue hilt accents on a black cord necklace
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a silver-tone skull pendant with three crossed swords and blue diamond hilt accents on an adjustable black cord, laid on ink-black #111111 surface with paper-white #FAFAFA halftone-dot backdrop, single manga-red #E2261C accent slash, speed lines and ink splatter framing the pendant in a manga panel, dramatic cinematic rim lighting, premium high-detail macro, glossy reflections on the silver, sharp focus.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

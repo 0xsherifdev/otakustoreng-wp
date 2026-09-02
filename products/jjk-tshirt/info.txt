@@ -1,0 +1,93 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Jjk  Tshirt
+SLUG         : jjk-tshirt
+BUMPA ID     : 1131447
+WOO TYPE     : variable
+PARENT SKU   : OSN-1131447
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Jujutsu Kaisen, JJK t-shirt, Itadori shirt, Gojo Satoru tee, anime t-shirt, anime graphic tee, vintage anime shirt, Yuji Itadori, unisex anime tee, Hollow Purple
+FRANCHISE: Jujutsu Kaisen    CHARACTER: Yuji Itadori / Satoru Gojo
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦12,000
+Total stock   : 998
+VARIATIONS (attribute: Size & Style)
+  M-Itadori      | ₦13,000 | stock 99   | SKU OSN-1131447-MITADORI
+  M-Godou        | ₦13,000 | stock 100  | SKU OSN-1131447-MGODOU
+  L-Itadori      | ₦13,000 | stock 100  | SKU OSN-1131447-LITADORI
+  L-Godou        | ₦13,000 | stock 100  | SKU OSN-1131447-LGODOU
+  Xl-Itadori     | ₦13,000 | stock 100  | SKU OSN-1131447-XLITADORI
+  Xl-Godou       | ₦12,000 | stock 99   | SKU OSN-1131447-XLGODOU
+  2xl-Itadori    | ₦12,000 | stock 100  | SKU OSN-1131447-2XLITADORI
+  2xl-Godou      | ₦13,000 | stock 100  | SKU OSN-1131447-2XLGODOU
+  3xl-Itadori    | ₦13,000 | stock 100  | SKU OSN-1131447-3XLITADORI
+  3xl-Godou      | ₦13,000 | stock 100  | SKU OSN-1131447-3XLGODOU
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Vintage bootleg-style JJK sorcerers on jet-black cotton.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A jet-black Jujutsu Kaisen graphic tee with bold retro bootleg artwork. Choose Itadori's crimson cursed-energy print or Gojo (Godou) in electric Hollow Purple, finished with kanji detailing. Soft cotton, unisex regular fit, fade-resistant print.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel your inner sorcerer. This Jujutsu Kaisen tee runs a vintage bootleg band-tee layout in jet black, with high-contrast manga artwork that hits hard from across the room. Pick <strong>Itadori</strong> raging in a storm of crimson cursed energy, or <strong>Gojo (Godou)</strong> charging Hollow Purple in cold electric blue and violet, both finished with bold character-name lettering and kanji.</p>
+<p>Cut for everyday wear with a relaxed regular fit, it layers clean under a jacket or stands alone with shorts and chains. A fan-made, anime-inspired piece for JJK fans, not affiliated with or endorsed by the official rights holders.</p>
+<ul>
+<li>Design options: Itadori (crimson cursed-energy print) or Gojo / Godou (Hollow Purple print)</li>
+<li>Colour: jet black with full-colour front graphic and kanji detail</li>
+<li>Material: soft cotton, breathable and comfortable for daily wear</li>
+<li>Fit: unisex regular fit, crew neck, short sleeve</li>
+<li>Print: durable, fade-resistant front graphic</li>
+<li>Sizes: M, L, XL, 2XL, 3XL</li>
+<li>Care: machine wash cold, inside-out, do not tumble dry</li>
+<li>At checkout: state the slide (first slide) for the design you want</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Two designs: Itadori in crimson cursed energy or Gojo (Godou) in Hollow Purple
+  • Vintage bootleg band-tee layout with bold character lettering and kanji
+  • Soft, breathable cotton built for everyday wear
+  • Unisex regular fit, crew neck — pairs with shorts, jeans or chains
+  • Durable fade-resistant front print on jet-black fabric
+  • Full size run from M to 3XL
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (43 chars)        : Jujutsu Kaisen T-Shirt | Itadori & Gojo Tee
+Meta Description (147 chars) : JJK graphic t-shirt in jet black. Pick Itadori or Gojo (Godou) in retro bootleg print. Soft cotton, unisex fit, M-3XL. Ships from Nigeria. ₦12,000.
+Focus keyword                       : Jujutsu Kaisen t-shirt
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Black Jujutsu Kaisen t-shirt showing Itadori in crimson cursed energy and Gojo (Godou) in Hollow Purple, both with kanji lettering
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a jet-black Jujutsu Kaisen graphic t-shirt laid flat on paper-white #FAFAFA surface, ink black #111111 background panel. Single manga-red #E2261C accent in the form of a diagonal speed-line streak and a splash of halftone dots behind the folded tee. Crisp full-colour front print of the sorcerer visible, vintage bootleg band-tee layout with bold lettering. Manga panel borders, ink splatter, halftone shading, cinematic premium lighting, sharp focus, high detail, no text overlay, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

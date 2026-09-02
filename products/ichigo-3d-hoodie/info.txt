@@ -1,0 +1,86 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Ichigo 3d Hoodie
+SLUG         : ichigo-3d-hoodie
+BUMPA ID     : 1123102
+WOO TYPE     : variable
+PARENT SKU   : OSN-1123102
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+  - Shop by Anime > Bleach
+
+TAGS: Ichigo hoodie, Bleach hoodie, anime 3D hoodie, all-over-print hoodie, Ichigo Kurosaki, Hollow mask, anime streetwear, Bleach merch, pullover hoodie, Soul Reaper
+FRANCHISE: Bleach    CHARACTER: Ichigo Kurosaki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦28,000
+Total stock   : 500
+VARIATIONS (attribute: Size)
+  M              | ₦28,000 | stock 100  | SKU OSN-1123102-M
+  L              | ₦28,000 | stock 100  | SKU OSN-1123102-L
+  XL             | ₦28,000 | stock 100  | SKU OSN-1123102-XL
+  2XL            | ₦28,000 | stock 100  | SKU OSN-1123102-2XL
+  XXXL           | ₦28,000 | stock 100  | SKU OSN-1123102-XXXL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Hollow-masked Ichigo in full all-over-print fury.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Step into Karakura with this 3D all-over-print Bleach hoodie. A high-contrast monochrome Ichigo in Hollow mask wraps the brushed-fleece pullover, finished with ribbed cuffs, hem and a kangaroo pocket for everyday Soul Reaper energy.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Bankai-ready streetwear for the Bleach faithful. This Ichigo 3D Hoodie wraps a cinematic, full-bleed black-and-white print around the entire garment, capturing Ichigo Kurosaki mid-swing in his Hollow mask. The all-over-print design flows seamlessly across the front, sleeves and hood, so the artwork never breaks at the seams.</p>
+<p>Built as a cozy pullover with a brushed-fleece interior for real warmth, it pairs a relaxed unisex streetwear fit with the kind of bold panel artwork that turns heads at the convention or on the street. Fan-made, anime-inspired apparel — not affiliated with or endorsed by the official rights holders.</p>
+<ul>
+<li>All-over 3D sublimation print of Ichigo in Hollow-mask form (Bleach-inspired)</li>
+<li>Pullover style with adjustable drawstring hood and front kangaroo pocket</li>
+<li>Brushed-fleece interior for soft, warm everyday wear</li>
+<li>Cotton and polyester blend fabric; high-contrast black-and-white colourway</li>
+<li>Ribbed cuffs and hem for a snug, structured finish</li>
+<li>Relaxed unisex streetwear fit</li>
+<li>Sizes: M, L, XL, 2XL, XXXL</li>
+<li>Care: machine wash cold, inside-out; do not bleach; hang or tumble dry low</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Full 3D all-over print of Ichigo in his Hollow mask, edge to edge
+  • Brushed-fleece interior for genuine warmth
+  • Pullover with drawstring hood and kangaroo pocket
+  • Ribbed cuffs and hem in a relaxed unisex fit
+  • Available M through XXXL
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (46 chars)        : Ichigo 3D Hoodie | Bleach Anime All-Over-Print
+Meta Description (152 chars) : Bleach-inspired Ichigo 3D hoodie with full all-over Hollow-mask print, brushed fleece and kangaroo pocket. Sizes M-XXXL. Ships nationwide and worldwide.
+Focus keyword                       : Ichigo 3D hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black-and-white 3D all-over-print pullover hoodie showing Ichigo Kurosaki in his Hollow mask swinging his zanpakuto
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of an Ichigo 3D all-over-print pullover hoodie on an invisible mannequin, three-quarter angle. Ink black #111111 backdrop, paper white #FAFAFA garment highlights, a single manga-red #E2261C accent slash of light behind the hood. Halftone dot texture, dynamic speed lines and ink-splatter framing the figure in manga panels. Cinematic rim lighting catches the ribbed cuffs and drawstrings; premium, high-contrast, editorial streetwear feel. No text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

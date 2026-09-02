@@ -1,0 +1,77 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Itadori Tshirt
+SLUG         : itadori-tshirt
+BUMPA ID     : 1131349
+WOO TYPE     : variable
+PARENT SKU   : OSN-1131349
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Itadori t-shirt, Jujutsu Kaisen shirt, Yuji Itadori, anime t-shirt, Jujutsu Kaisen merch, anime tee Nigeria, JJK apparel, unisex anime shirt
+FRANCHISE: Jujutsu Kaisen    CHARACTER: Yuji Itadori
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦12,000
+Total stock   : 498
+VARIATIONS (attribute: Size)
+  M              | ₦12,000 | stock 99   | SKU OSN-1131349-M
+  L              | ₦12,000 | stock 100  | SKU OSN-1131349-L
+  XL             | ₦12,000 | stock 100  | SKU OSN-1131349-XL
+  2XL            | ₦12,000 | stock 99   | SKU OSN-1131349-2XL
+  3XL            | ₦12,000 | stock 100  | SKU OSN-1131349-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Channel the vessel. Wear the roster.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Anime-inspired Itadori tee built on soft, thick cotton with a durable, fade-resistant graphic. Unisex regular fit with a clean crew neck for everyday wear and convention drops alike. Sizes M through 3XL.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Step into Jujutsu High with the Itadori Tee, a fan-inspired tribute to Jujutsu Kaisen's fearless vessel. Printed on soft, thick cotton with a bold, fade-resistant graphic, it carries that cursed-energy intensity into every panel of your day.</p><p>Cut for a unisex regular fit with a clean crew neck, it layers easily and wears comfortably from class runs to convention floors. An anime-inspired piece for true fans, not affiliated with or endorsed by the official rights holders.</p><ul><li>Material: soft, thick cotton for everyday comfort and structure</li><li>Fit: unisex regular fit, true to size</li><li>Neck: ribbed crew neck</li><li>Print: bold front graphic, durable and fade-resistant</li><li>Sizes available: M, L, XL, 2XL, 3XL</li><li>Care: machine wash cold inside-out, hang or tumble dry low, do not iron directly on the print</li><li>Design: fan-made, anime-inspired tribute to Jujutsu Kaisen</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Soft, thick cotton with structure that holds its shape
+  • Bold front graphic that stays sharp and fade-resistant
+  • Unisex regular fit with a clean ribbed crew neck
+  • Full size run from M up to 3XL
+  • Machine wash cold inside-out to keep the print crisp
+  • Fan-inspired Jujutsu Kaisen tribute design
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (42 chars)        : Itadori T-Shirt | Jujutsu Kaisen Anime Tee
+Meta Description (149 chars) : Anime-inspired Itadori tee in soft thick cotton with a bold fade-resistant graphic. Unisex crew-neck fit, sizes M-3XL. Ships from Nigeria, worldwide.
+Focus keyword                       : Itadori t-shirt
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Itadori anime-inspired Jujutsu Kaisen t-shirt in soft cotton with a bold front graphic, unisex regular fit
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a folded cotton anime t-shirt featuring a Yuji Itadori-inspired graphic, set against ink black #111111 backdrop with paper white #FAFAFA negative space; single manga-red #E2261C accent on speed lines and halftone dots radiating behind the tee; subtle ink splatter, manga panel borders framing the composition, cinematic rim lighting, premium product photography, high detail, fan-inspired design.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

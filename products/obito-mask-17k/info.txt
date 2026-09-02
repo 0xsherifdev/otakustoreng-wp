@@ -1,0 +1,70 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Obito mask  17k
+SLUG         : obito-mask-17k
+BUMPA ID     : 3009406
+WOO TYPE     : simple
+PARENT SKU   : OSN-3009406
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Masks
+  - Shop by Anime > Naruto
+
+TAGS: Obito Uchiha mask, Naruto cosplay, Akatsuki mask, Tobi mask, anime mask, Obito spiral mask, Naruto cosplay mask, anime cosplay gear
+FRANCHISE: Naruto    CHARACTER: Obito Uchiha
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦17,000
+Total stock   : 8
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The spiral mask of the man behind the Akatsuki.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel Obito Uchiha with this orange spiral cosplay mask. The single-eye design fans know on sight, built for costume, conventions and shelf display. Anime-inspired fan gear from Otaku Store NG. Wear the roster.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some faces hide more than identity. The Obito Uchiha mask brings that iconic orange spiral and single right-eye opening straight to your cosplay kit, the look fans clock the second you walk into the room. Whether you're building a full Akatsuki fit or chasing the perfect "Tobi" reveal, this is the centrepiece.</p><p>Moulded for a clean, screen-accurate silhouette and finished in the signature swirl, it wears well for cons, costume sets and photoshoots, then earns its spot on the shelf when the night's over. Anime-inspired fan gear by Otaku Store NG, designed for fans who know the lore.</p><ul><li>Character: Obito Uchiha (Tobi) spiral mask, Naruto-inspired design</li><li>Style: orange swirl pattern with single right-eye opening</li><li>Finish: smooth moulded face shell for a screen-accurate look</li><li>Best for: cosplay, costume builds, conventions, photoshoots and display</li><li>Wear: secured fit for comfortable convention-length wear</li><li>Care: wipe clean with a soft, slightly damp cloth; air dry; store away from direct heat</li><li>Note: fan-made, anime-inspired item; not affiliated with or endorsed by the official rights holders</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Iconic Obito Uchiha orange spiral mask with single-eye opening
+  • Screen-accurate silhouette for instant character recognition
+  • Built for cosplay, conventions, photoshoots and display
+  • Smooth moulded shell with a clean signature swirl finish
+  • Anime-inspired fan gear, not affiliated with the rights holders
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (46 chars)        : Obito Uchiha Mask | Naruto Cosplay Spiral Mask
+Meta Description (146 chars) : Obito Uchiha spiral cosplay mask with single-eye design. Naruto-inspired fan gear for cosplay, cons and display. Ships from Nigeria, nationwide +.
+Focus keyword                       : Obito Uchiha mask
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Orange spiral Obito Uchiha cosplay mask from Naruto with a single right-eye opening
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of an orange spiral Obito Uchiha cosplay mask, single right-eye opening, floating centred on an ink-black #111111 background with paper-white #FAFAFA halftone dot texture and a single manga-red #E2261C speed-line burst radiating behind it; dramatic ink splatter framing one corner, manga panel border, cinematic rim light, premium glossy finish, high detail, 4k.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

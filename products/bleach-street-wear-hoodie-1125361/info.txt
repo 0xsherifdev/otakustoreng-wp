@@ -1,0 +1,81 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Bleach Street Wear Hoodie
+SLUG         : bleach-street-wear-hoodie-1125361
+BUMPA ID     : 1125361
+WOO TYPE     : variable
+PARENT SKU   : OSN-1125361
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+  - Shop by Anime > Bleach
+
+TAGS: Bleach, Bleach t-shirt, anime t-shirt, streetwear tee, anime streetwear, graphic tee, Soul Reaper, otaku fashion
+FRANCHISE: Bleach    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦20,000
+Total stock   : 499
+VARIATIONS (attribute: Size)
+  M              | ₦20,000 | stock 100  | SKU OSN-1125361-M
+  L              | ₦20,000 | stock 100  | SKU OSN-1125361-L
+  XL             | ₦20,000 | stock 99   | SKU OSN-1125361-XL
+  2XL            | ₦20,000 | stock 100  | SKU OSN-1125361-2XL
+  XXXL           | ₦20,000 | stock 100  | SKU OSN-1125361-XXXL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Heavyweight Bleach streetwear tee built for the roster.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A thick, premium Bleach-inspired graphic tee for street days and binge nights. Heavyweight cotton, bold fade-resistant print and a clean unisex fit that wears like your favourite Soul Reaper drip. Wear the roster.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Step out reppin' the Gotei with the Bleach Street Wear Tee from Otaku Store NG. Cut from thick, heavyweight cotton with a structured drape, this anime-inspired graphic tee lands somewhere between everyday streetwear staple and statement fan piece. The bold front print is built to hold its colour wash after wash, so your favourite Bleach moment stays sharp.</p><p>Unisex regular fit with a clean crew neck, it layers easily under jackets or stands alone on warmer days. Fan-made design, anime-inspired and not affiliated with or endorsed by the official rights holders.</p><ul><li>Material: thick, heavyweight cotton for a premium structured feel</li><li>Fit: unisex regular fit, true to size</li><li>Neckline: ribbed crew neck</li><li>Print: bold Bleach-inspired front graphic, durable and fade-resistant</li><li>Sizes available: M, L, XL, 2XL, XXXL</li><li>Design selection: tell us the slide (design) you want at checkout</li><li>Care: machine wash cold, inside-out, hang or low-tumble dry, do not iron directly on the print</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Heavyweight thick cotton with a premium, structured streetwear feel
+  • Bold Bleach-inspired front graphic that resists fading wash after wash
+  • Unisex regular fit with a clean ribbed crew neck
+  • Sizes M to XXXL for an easy true-to-size fit
+  • Pick your design slide at checkout
+  • Ships nationwide across Nigeria and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (46 chars)        : Bleach Street Wear Tee | Anime Graphic T-Shirt
+Meta Description (147 chars) : Heavyweight Bleach-inspired streetwear tee in thick cotton. Bold fade-resistant print, unisex fit, sizes M-XXXL. Ships from Nigeria nationwide and.
+Focus keyword                       : Bleach streetwear t-shirt
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+  05.jpg  (gallery)
+  06.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Bleach-inspired heavyweight streetwear graphic t-shirt with bold front print, unisex regular fit
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a folded heavyweight black streetwear t-shirt with a bold Bleach-inspired front graphic, ink black #111111 background, paper white #FAFAFA garment highlights, single manga-red #E2261C accent on the print, halftone dot texture and dramatic speed lines radiating behind the tee, subtle ink splatter framing a clean manga panel, premium cinematic lighting, high detail, 3:4 vertical composition
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

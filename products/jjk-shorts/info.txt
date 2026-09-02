@@ -1,0 +1,90 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Jjk Shorts
+SLUG         : jjk-shorts
+BUMPA ID     : 1145206
+WOO TYPE     : variable
+PARENT SKU   : OSN-1145206
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Shorts
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Jujutsu Kaisen shorts, JJK shorts, anime shorts, anime print shorts, unisex shorts, Jujutsu Kaisen merch, otaku fashion, cursed energy
+FRANCHISE: Jujutsu Kaisen    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦14,000
+Total stock   : 799
+VARIATIONS (attribute: Style & Size)
+  1-M            | ₦14,000 | stock 100  | SKU OSN-1145206-1M
+  1-L            | ₦14,000 | stock 100  | SKU OSN-1145206-1L
+  1-Xl           | ₦14,000 | stock 100  | SKU OSN-1145206-1XL
+  1-2xl          | ₦14,000 | stock 100  | SKU OSN-1145206-12XL
+  2-M            | ₦14,000 | stock 100  | SKU OSN-1145206-2M
+  2-L            | ₦14,000 | stock 99   | SKU OSN-1145206-2L
+  2-Xl           | ₦14,000 | stock 100  | SKU OSN-1145206-2XL
+  2-2xl          | ₦14,000 | stock 100  | SKU OSN-1145206-22XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Cursed-energy prints for off-duty sorcerers.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Lightweight Jujutsu Kaisen-inspired shorts built for warm-weather comfort. Breathable fabric, elastic drawstring waist, and bold cursed-energy prints. Unisex fit that drops clean with tees, hoodies, and your everyday sorcerer wardrobe.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Bring the energy of Jujutsu Kaisen to your warm-weather rotation. These anime-inspired shorts pair bold cursed-energy graphics with a relaxed, breathable build, so you stay cool whether you're lounging, training, or running errands across the city. The unisex cut and elastic drawstring waist mean an easy fit for everyone in the squad.</p>
+<p>Style them with a matching anime tee or a clean hoodie for that effortless off-duty sorcerer look. Wear the roster.</p>
+<ul>
+<li>Franchise: Jujutsu Kaisen fan-inspired design (not affiliated with or endorsed by the official rights holders)</li>
+<li>Bold cursed-energy print across the front and leg</li>
+<li>Lightweight, breathable fabric for warm-weather comfort</li>
+<li>Elastic drawstring waist for an adjustable, secure fit</li>
+<li>Unisex cut suitable for casual, lounge, and everyday wear</li>
+<li>Two print styles available across sizes M, L, XL and 2XL</li>
+<li>Care: machine wash cold, inside out; hang or line dry to protect the print</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Anime-inspired Jujutsu Kaisen cursed-energy print
+  • Lightweight, breathable fabric for warm weather
+  • Elastic drawstring waist for an adjustable fit
+  • Unisex cut in sizes M to 2XL
+  • Two print styles to choose from
+  • Pairs perfectly with anime tees and hoodies
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (54 chars)        : JJK Shorts | Jujutsu Kaisen Anime Shorts | Otaku Store
+Meta Description (155 chars) : Jujutsu Kaisen-inspired shorts. Lightweight, breathable fabric with an elastic drawstring waist and bold cursed-energy print. Unisex, sizes M-2XL. ₦14,000.
+Focus keyword                       : Jujutsu Kaisen shorts
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Jujutsu Kaisen-inspired anime shorts with a bold cursed-energy print and elastic drawstring waist
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of folded anime-inspired shorts on a flat surface. Ink black #111111 background, paper white #FAFAFA shorts fabric, single manga-red #E2261C accent on the cursed-energy print. Halftone dot shading, dynamic speed lines radiating from the garment, subtle ink splatter in corners, framed inside a clean manga panel. Premium, cinematic lighting, sharp focus on the print detail and drawstring waist.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

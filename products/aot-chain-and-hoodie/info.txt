@@ -1,0 +1,82 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Aot Chain And Hoodie
+SLUG         : aot-chain-and-hoodie
+BUMPA ID     : 1179418
+WOO TYPE     : simple
+PARENT SKU   : OSN-1179418
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+  - Shop by Anime > Attack on Titan
+
+TAGS: Attack on Titan hoodie, AOT hoodie, Survey Corps hoodie, anime hoodie, Wings of Freedom, hoodie and chain set, AOT chain, anime streetwear
+FRANCHISE: Attack on Titan    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦18,500
+Total stock   : 0
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Wings of Freedom hoodie with a matching pendant chain.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+An Attack on Titan-inspired pullover hoodie that ships with a matching pendant chain. Brushed-fleece warmth, ribbed cuffs and hem, kangaroo pocket and a unisex streetwear fit that carries the Survey Corps energy off-screen.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Suit up like the Survey Corps. This Attack on Titan-inspired set pairs a soft, brushed-fleece pullover hoodie with a matching pendant chain so you walk out the door fully kitted. The Wings of Freedom graphic anchors a clean, premium streetwear look that hits just as hard with joggers as it does under a jacket.</p>
+<p>Cut for everyday wear with a relaxed unisex fit, it layers easily and keeps its shape wash after wash. A fan-made tribute for AoT diehards, not affiliated with or endorsed by the rights holders.</p>
+<ul>
+<li>Pullover hoodie with an Attack on Titan / Wings of Freedom graphic</li>
+<li>Bundle includes the hoodie plus a matching pendant chain</li>
+<li>Brushed-fleece interior for warmth and softness</li>
+<li>Ribbed cuffs and hem hold their shape</li>
+<li>Front kangaroo pocket and adjustable drawstring hood</li>
+<li>Unisex streetwear fit, true to standard sizing</li>
+<li>Machine wash cold, inside-out; do not iron the print</li>
+<li>Fan / anime-inspired design, not official or licensed merchandise</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Hoodie plus matching pendant chain in one set
+  • Iconic Survey Corps Wings of Freedom graphic
+  • Brushed-fleece interior for cosy warmth
+  • Ribbed cuffs and hem with a roomy kangaroo pocket
+  • Unisex streetwear fit that layers clean
+  • Fan-made AoT tribute, not affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (51 chars)        : Attack on Titan Hoodie & Chain Set | Otaku Store NG
+Meta Description (149 chars) : Attack on Titan-inspired pullover hoodie with a matching pendant chain. Brushed-fleece warmth, unisex fit. ₦18,500. Ships from Nigeria, nationwide &.
+Focus keyword                       : Attack on Titan hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.png  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Attack on Titan-inspired pullover hoodie with a matching Survey Corps pendant chain
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+DARK MANGA studio product shot: a folded black pullover hoodie with a bold manga-red Wings of Freedom emblem, a silver pendant chain coiled neatly beside it on paper-white #FAFAFA seamless. Ink black #111111 backdrop edges, halftone-dot shading, diagonal speed lines and a single ink-splatter accent in manga-red #E2261C. Hard cinematic key light, crisp shadows, premium e-commerce framing, square crop, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

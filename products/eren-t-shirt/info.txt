@@ -1,0 +1,88 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Eren T Shirt
+SLUG         : eren-t-shirt
+BUMPA ID     : 1125488
+WOO TYPE     : variable
+PARENT SKU   : OSN-1125488
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+  - Shop by Anime > Attack on Titan
+
+TAGS: Eren Yeager t-shirt, Attack on Titan shirt, Shingeki no Kyojin tee, anime graphic t-shirt, Eren Yeager merch, AOT apparel, anime tee, Eren timeskip
+FRANCHISE: Attack on Titan    CHARACTER: Eren Yeager
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦12,000
+Total stock   : 498
+VARIATIONS (attribute: Size)
+  M              | ₦12,000 | stock 100  | SKU OSN-1125488-M
+  L              | ₦12,000 | stock 99   | SKU OSN-1125488-L
+  CL             | ₦12,000 | stock 100  | SKU OSN-1125488-CL
+  2XL            | ₦12,000 | stock 99   | SKU OSN-1125488-2XL
+  XXXL           | ₦12,000 | stock 100  | SKU OSN-1125488-XXXL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Timeskip Eren, inked across your chest.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel the Rumbling with this Eren Yeager graphic tee. Bold Shingeki no Kyojin ink art and Japanese title type on a soft, breathable crew-neck. Unisex regular fit, fade-resistant print, multiple designs to choose from.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some fans want freedom. The rest of us want the fit. This <strong>Eren Yeager graphic tee</strong> brings the timeskip Attack on Titan look straight to your chest, hellbent stare, ink-heavy line art, and the unmistakable 進撃の巨人 title rendered like a manga cover panel. It is the kind of statement piece that gets you a knowing nod from anyone who's seen the basement.</p>
+<p>Built on a soft, breathable crew-neck in an easy unisex regular fit, it layers clean under a jacket or stands alone for an everyday wear. Pick your favourite design at checkout, from the cream orange-ink print to the black lightning artwork, then wear the roster.</p>
+<ul>
+<li>Anime-inspired Eren Yeager / Attack on Titan front graphic print</li>
+<li>Soft, breathable cotton-feel fabric for all-day comfort</li>
+<li>Unisex regular fit with a classic crew neckline</li>
+<li>Durable, fade-resistant print built to survive wash after wash</li>
+<li>Multiple designs available, indicate your chosen design at checkout</li>
+<li>Sizes: M, L, CL, 2XL, XXXL</li>
+<li>Care: machine wash cold, inside-out, hang or tumble dry low</li>
+<li>Fan-made, anime-inspired apparel, not affiliated with or endorsed by the official rights holders</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold timeskip Eren Yeager ink art with Shingeki no Kyojin title type
+  • Soft, breathable crew-neck in a unisex regular fit
+  • Durable fade-resistant print that holds up wash after wash
+  • Multiple designs to choose, just flag your pick at checkout
+  • Sizes M through XXXL for an easy everyday fit
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (47 chars)        : Eren Yeager T-Shirt | Attack on Titan Anime Tee
+Meta Description (151 chars) : Eren Yeager Attack on Titan graphic tee. Soft crew-neck, unisex fit, fade-resistant ink art. Multiple designs. Ships nationwide and worldwide. ₦12,000.
+Focus keyword                       : Eren Yeager t-shirt
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Eren Yeager Attack on Titan graphic t-shirt with timeskip ink art and Japanese Shingeki no Kyojin title print
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of an Eren Yeager Attack on Titan graphic t-shirt, ink black #111111 background with paper white #FAFAFA folded fabric, single manga-red #E2261C accent on the Shingeki no Kyojin title type. Halftone dot texture, dramatic speed lines and ink splatter radiating behind the folded tee, framed in a clean manga panel. Cinematic key lighting, premium e-commerce composition, high detail, no text overlay.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

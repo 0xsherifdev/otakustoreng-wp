@@ -1,0 +1,81 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Itachi Laptop Skin
+SLUG         : itachi-laptop-skin
+BUMPA ID     : 1875686
+WOO TYPE     : simple
+PARENT SKU   : OSN-1875686
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Laptop Skins
+  - Shop by Anime > Naruto
+
+TAGS: Itachi laptop skin, Naruto laptop skin, Itachi Uchiha, anime laptop skin, Naruto merch, vinyl laptop decal, Akatsuki, anime laptop wrap
+FRANCHISE: Naruto    CHARACTER: Itachi Uchiha
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦7,500
+Total stock   : 9
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Crimson moon. Scattering crows. Pure Uchiha presence.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Wrap your laptop in the legend of Itachi Uchiha. This anime-inspired vinyl skin features a blood-red moon, scattering crows and a lone silhouette in meditation. Bubble-free to apply, residue-free to remove. Pick your size and model.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some shinobi just hit different, and Itachi tops the list. This Itachi Uchiha laptop skin pulls the whole mood into one panel: a crimson moon bleeding red, a storm of crows scattering across the sky, and a lone figure sat in meditation below. Printed in crisp detail on durable vinyl, it turns a plain lid into a statement every Naruto fan will clock instantly.</p>
+<p>Application is clean and stress-free. The skin goes on bubble-free, sits flush against your laptop, and peels away residue-free when you fancy a change, so there is no sticky mess left behind. Just choose your laptop size and model at checkout and we will match the cut for you. Fan-made and anime-inspired; not official or affiliated with the rights holders.</p>
+<ul>
+<li>Printed vinyl decal / wrap for laptops</li>
+<li>Design: Itachi Uchiha silhouette, blood-red moon and scattering crows</li>
+<li>Bubble-free application for a smooth, flush finish</li>
+<li>Residue-free removal, repositionable during fitting</li>
+<li>Size and laptop model selected at checkout for a precise cut</li>
+<li>Lightly textured, fingerprint-resistant matte surface</li>
+<li>Wipe clean with a soft, slightly damp cloth</li>
+<li>Fan / anime-inspired design, not official or licensed</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Iconic Itachi blood-red moon and crow design
+  • Bubble-free application, residue-free removal
+  • Choose your exact laptop size and model
+  • Durable printed vinyl with a matte, fingerprint-resistant finish
+  • Fan-made, anime-inspired Naruto art
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (44 chars)        : Itachi Laptop Skin | Naruto Vinyl Decal Wrap
+Meta Description (149 chars) : Itachi Uchiha laptop skin with the blood-red moon and crows. Bubble-free vinyl, residue-free removal. Choose your size and model. Ships from Nigeria.
+Focus keyword                       : Itachi laptop skin
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Itachi Uchiha anime laptop skin showing a red moon, scattering crows and a meditating silhouette, in protective packaging
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of an open laptop with an Itachi-inspired vinyl skin on the lid, ink black #111111 background, paper white #FAFAFA surfaces, single manga-red #E2261C accent on a crescent moon motif; halftone dot shading, dynamic speed lines and ink splatter framing the laptop in a manga panel layout, dramatic cinematic side lighting, crisp premium product photography, high detail.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

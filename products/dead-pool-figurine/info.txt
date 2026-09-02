@@ -1,0 +1,74 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Dead Pool Figurine
+SLUG         : dead-pool-figurine
+BUMPA ID     : 1873975
+WOO TYPE     : variable
+PARENT SKU   : OSN-1873975
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Figurines
+
+TAGS: Deadpool figurine, anime figurine, collector statue, PVC figurine, anime-inspired, Merc with a Mouth, display figure, Otaku Store NG
+FRANCHISE: Deadpool    CHARACTER: Deadpool
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,500
+Total stock   : 14
+VARIATIONS (attribute: Style)
+  Slide 1        | ₦5,500 | stock 6    | SKU OSN-1873975-SLIDE1
+  Slide 2        | ₦4,500 | stock 8    | SKU OSN-1873975-SLIDE2
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The Merc with a Mouth, sculpted for your shelf
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A detailed anime-inspired Deadpool collector figurine in pre-painted PVC/resin. Dynamic pose, crisp linework and bold red colourway built for display. Choose your style and let the Merc with a Mouth own the shelf.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Meet the Merc with a Mouth in statue form. This anime-inspired Deadpool figurine is a sculpted display piece built for collectors who want attitude on the shelf, capturing that signature swagger in a dynamic, ready-for-action pose with crisp detailing across the mask, suit and gear.</p><p>Pre-painted in that unmistakable red-and-black colourway, it lands with premium finish and clean edges that read sharp from across the room. This is a display collectible, not a toy, so give it a spot on your desk or shelf and let it do the talking. Pick between two style variants to match your setup.</p><ul><li>Material: detailed sculpted PVC/resin display figurine</li><li>Finish: pre-painted, ready to display straight out of the box</li><li>Pose: dynamic action-style sculpt with fine surface detailing</li><li>Style options: Slide 1 and Slide 2 variants available</li><li>Use: shelf, desk and cabinet display piece (not a toy)</li><li>Care: dust gently with a soft dry cloth; keep out of direct sunlight to protect the paint</li><li>Note: fan-made, anime-inspired collectible; not affiliated with or endorsed by any rights holder</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Anime-inspired Deadpool collector figurine with bold red-and-black colourway
+  • Detailed sculpted PVC/resin with crisp, premium finish
+  • Dynamic action pose that commands attention on any shelf
+  • Pre-painted and ready to display out of the box
+  • Two style variants: Slide 1 and Slide 2
+  • Display piece for collectors, not a toy
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (40 chars)        : Deadpool Anime Figurine | Otaku Store NG
+Meta Description (154 chars) : Anime-inspired Deadpool collector figurine in pre-painted PVC/resin. Dynamic pose, premium finish, two styles. Ships nationwide and worldwide from ₦4,500.
+Focus keyword                       : Deadpool figurine
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Anime-inspired Deadpool collector figurine in red-and-black suit, dynamic pose, pre-painted PVC display statue
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of an anime-inspired Deadpool collector figurine on a matte pedestal. Ink-black background #111111, paper-white #FAFAFA rim light, single manga-red #E2261C accent on the suit. Halftone dot texture, dramatic speed lines radiating behind the figure, fine ink-splatter accents, framed inside a bold manga panel border. Cinematic low-angle hero lighting, premium high-contrast finish, sharp linework, glossy reflective surface beneath.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

@@ -1,0 +1,82 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Sharing an Bracelet
+SLUG         : sharing-an-bracelet
+BUMPA ID     : 1734041
+WOO TYPE     : simple
+PARENT SKU   : OSN-1734041
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Shop by Anime > Naruto
+
+TAGS: Sharingan bracelet, Naruto bracelet, Uchiha clan, anime bracelet, Naruto accessories, Sasuke, Itachi, anime jewelry
+FRANCHISE: Naruto    CHARACTER: Sharingan (Uchiha clan)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,000
+Total stock   : 10
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Three-tomoe Sharingan charm on woven black leather
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Rep the Uchiha clan with this Sharingan bracelet: a red enamel three-tomoe eye set in antique-gold alloy on a braided black leather-look cord. Everyday-tough, anime-inspired, and ready to finish any fit. Wear the roster.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Awaken the eye. This Sharingan bracelet centres a bold three-tomoe charm in manga-red enamel, framed by an antique-gold alloy setting that locks onto a tightly woven black leather-look cord. It is the kind of subtle, premium piece that lets fellow fans clock the Uchiha reference instantly while reading clean enough for class, the gym, or a night out.</p>
+<p>Built for daily wear and styled to stack with your other anime accessories, it is an affordable way to carry your favourite series on your wrist. Fan-made and anime-inspired, not affiliated with or endorsed by the official rights holders.</p>
+<ul>
+<li><strong>Design:</strong> Three-tomoe Sharingan eye in red enamel on a round charm</li>
+<li><strong>Charm finish:</strong> Antique-gold alloy setting</li>
+<li><strong>Band:</strong> Braided black leather-look cord with metal end caps</li>
+<li><strong>Closure:</strong> Secure clasp fastening</li>
+<li><strong>Style:</strong> Unisex, slim everyday profile that stacks well with rings and chains</li>
+<li><strong>Wear:</strong> Casual, streetwear and cosplay-friendly</li>
+<li><strong>Care:</strong> Keep dry, wipe clean with a soft cloth, avoid harsh chemicals</li>
+<li><strong>In the box:</strong> 1 x Sharingan bracelet</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold three-tomoe Sharingan charm in manga-red enamel
+  • Antique-gold alloy setting for a premium look
+  • Braided black leather-look cord with metal end caps
+  • Unisex, slim profile that stacks with rings and chains
+  • Built for everyday wear, streetwear and cosplay
+  • Fan-inspired Uchiha clan design for true Naruto fans
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (57 chars)        : Sharingan Bracelet | Naruto Uchiha Charm | Otaku Store NG
+Meta Description (154 chars) : Naruto-inspired Sharingan bracelet: red three-tomoe enamel charm on braided black cord. Unisex, everyday-tough Uchiha accessory. Ships nationwide. ₦4,000.
+Focus keyword                       : Sharingan bracelet
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Naruto-inspired Sharingan bracelet with red three-tomoe enamel charm in antique-gold setting on a braided black leather cord, worn on a wrist
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product studio shot of a black braided leather bracelet with an antique-gold round charm featuring a red three-tomoe Sharingan eye, ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent glowing from the enamel eye, halftone dot texture, dramatic speed lines radiating outward, ink splatter accents, manga panel framing, premium cinematic lighting, sharp macro focus on the enamel charm, shallow depth of field
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

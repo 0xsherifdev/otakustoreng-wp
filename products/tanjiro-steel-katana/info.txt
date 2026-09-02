@@ -1,0 +1,83 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Tanjiro steel katana
+SLUG         : tanjiro-steel-katana
+BUMPA ID     : 4026230
+WOO TYPE     : simple
+PARENT SKU   : OSN-4026230
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Katana & Weapons
+  - Shop by Anime > Demon Slayer
+
+TAGS: Tanjiro katana, Demon Slayer katana, Nichirin blade, anime display sword, steel katana, cosplay katana, Tanjiro Kamado, collectible katana
+FRANCHISE: Demon Slayer    CHARACTER: Tanjiro Kamado
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦98,000
+Total stock   : 500
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The black Nichirin blade, ready for display
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Bring Tanjiro Kamado's signature black Nichirin blade home. This anime-inspired display katana pairs a steel blade with a red-and-black wrapped handle and glossy scabbard, complete with a stand and care kit for collectors and cosplayers.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Wear the roster - and now display it too. This Tanjiro Kamado steel katana recreates the dark Nichirin blade from Demon Slayer, finished with the unmistakable red-and-black diamond handle wrap that fans will spot in a heartbeat. It is a decorative collector and cosplay piece built to anchor a shelf, a wall mount or a Demon Slayer corps display.</p>
+<p>The set arrives ready to present, with a glossy black scabbard (saya), silver-tone fittings and an included stand so the blade sits centre stage from day one. A genuine fan-made tribute to Hashira-era detail - anime-inspired, not affiliated with or endorsed by the official franchise.</p>
+<ul>
+<li><strong>Character:</strong> Tanjiro Kamado from Demon Slayer (anime-inspired)</li>
+<li><strong>Blade:</strong> steel display blade with a blackened Nichirin-style finish</li>
+<li><strong>Handle (tsuka):</strong> red-and-black diamond-pattern cord wrap</li>
+<li><strong>Guard &amp; fittings:</strong> themed tsuba with silver-tone pommel and collar</li>
+<li><strong>Scabbard (saya):</strong> glossy black with matching end caps</li>
+<li><strong>In the box:</strong> katana, scabbard, display stand, tying cord (sageo), cleaning cloth and maintenance oil</li>
+<li><strong>Purpose:</strong> decorative display, cosplay and collecting - not a functional weapon</li>
+<li><strong>Care:</strong> wipe the blade and apply the included oil; store in the scabbard, away from moisture</li>
+<li><strong>Safety:</strong> keep away from children; follow your local laws on bladed display items</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Tanjiro Kamado's black Nichirin-style blade from Demon Slayer
+  • Signature red-and-black diamond handle wrap
+  • Glossy black scabbard with silver-tone fittings
+  • Includes a display stand, cleaning cloth and maintenance oil
+  • Decorative collector and cosplay piece - not a functional weapon
+  • Anime-inspired fan tribute, not affiliated with the official franchise
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (49 chars)        : Tanjiro Steel Katana - Demon Slayer Display Sword
+Meta Description (155 chars) : Tanjiro Kamado steel display katana with black Nichirin-style blade, red-and-black handle wrap, scabbard, stand and care kit. Ships from Nigeria worldwide.
+Focus keyword                       : Tanjiro steel katana
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Tanjiro Kamado steel display katana with black Nichirin-style blade, red-and-black wrapped handle, black scabbard, stand and care kit
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a Demon Slayer Tanjiro display katana: black steel blade drawn beside its glossy black scabbard, red-and-black diamond handle wrap in sharp focus. Ink black #111111 background, paper white #FAFAFA rim light, single manga-red #E2261C accent glow along the cutting edge. Halftone dot shading, dynamic speed lines, subtle ink-splatter, framed inside a manga panel border. Premium, cinematic, high-contrast, collector-grade presentation.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

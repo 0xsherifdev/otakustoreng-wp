@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Akatsuki Tote Bag
+SLUG         : akatsuki-tote-bag
+BUMPA ID     : 2221532
+WOO TYPE     : simple
+PARENT SKU   : OSN-2221532
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Tote Bags
+  - Shop by Anime > Naruto
+
+TAGS: Akatsuki tote bag, Naruto tote bag, anime tote bag, Naruto canvas bag, Akatsuki merch, anime canvas tote, Naruto accessories, manga tote bag
+FRANCHISE: Naruto    CHARACTER: Akatsuki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦7,000
+Total stock   : 10
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the rogue-ninja roster everywhere.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Black canvas tote with the full Akatsuki lineup split across manga-style panels. Roomy enough for books, groceries or con hauls, with long reinforced shoulder handles. Fan-made Naruto-inspired everyday carry built to take a beating.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Slip the whole Akatsuki crew over your shoulder. This sturdy black canvas tote prints the rogue-ninja roster as a row of manga-style panels, each member sliced into their own strip of artwork that pops hard against the dark fabric. It is the kind of piece that catches eyes on the train and starts conversations at the meet.</p><p>Long shoulder handles keep your hands free, while the open main compartment swallows textbooks, a laptop sleeve, your day's groceries or a full con haul without complaint. Lightweight when empty, deceptively roomy when loaded, this is the everyday bag for fans who never travel light.</p><ul><li>Material: durable woven canvas with a clean printed character panel</li><li>Design: full Akatsuki member lineup in a manga-panel layout (fan / anime-inspired)</li><li>Handles: long shoulder-length straps with reinforced stitching</li><li>Capacity: roomy open main compartment for books, laptop, groceries or con gear</li><li>Use: everyday carry, campus, shopping and conventions</li><li>Care: cold hand-wash, reshape and hang to dry, do not bleach, cool iron on reverse</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Full Akatsuki roster printed across bold manga-style panels
+  • Sturdy woven canvas built for daily abuse
+  • Long shoulder handles with reinforced stitching
+  • Roomy open compartment for books, laptop or groceries
+  • Lightweight everyday carry for campus, shops and cons
+  • Fan-made Naruto-inspired design, not affiliated or official
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (55 chars)        : Akatsuki Tote Bag | Naruto Canvas Tote | Otaku Store NG
+Meta Description (146 chars) : Akatsuki canvas tote bag with the full Naruto rogue-ninja roster in manga panels. Roomy, reinforced handles. Ships from Nigeria worldwide. ₦7,000.
+Focus keyword                       : Akatsuki tote bag
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black canvas Akatsuki tote bag with the full Naruto Akatsuki member lineup printed in manga-style panels, shown with long shoulder handles.
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a black canvas tote bag standing upright, printed with a row of Akatsuki member portraits in vertical manga panels. Ink black #111111 background, paper white #FAFAFA floor, single manga-red #E2261C accent on a thin speed-line streak behind the bag. Halftone dot shading, sharp ink splatter at the base, cinematic rim lighting, premium catalogue framing, high detail, no text.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

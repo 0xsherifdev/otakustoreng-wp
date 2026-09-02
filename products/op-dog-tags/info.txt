@@ -1,0 +1,88 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Op Dog Tags
+SLUG         : op-dog-tags
+BUMPA ID     : 1508246
+WOO TYPE     : variable
+PARENT SKU   : OSN-1508246
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > One Piece
+
+TAGS: One Piece necklace, Luffy dog tag, Zoro necklace, anime dog tags, One Piece pendant, bounty poster necklace, stainless steel anime necklace, Luffy Gear 5, anime chains and necklaces, Straw Hat merch
+FRANCHISE: One Piece    CHARACTER: Monkey D. Luffy
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦6,000
+Total stock   : 1499
+VARIATIONS (attribute: Style)
+  Luffy          | ₦6,000 | stock 500  | SKU OSN-1508246-LUFFY
+  Zoro           | ₦6,000 | stock 499  | SKU OSN-1508246-ZORO
+  Luffy Gear 5   | ₦6,000 | stock 500  | SKU OSN-1508246-LUFFYGEAR5
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the bounty. Pick your pirate.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Stainless-steel One Piece dog tag necklace engraved with a Straw Hat WANTED bounty poster on the front and a Jolly Roger crest on the back. Choose Luffy, Zoro, or Luffy Gear 5, strung on a beaded ball chain. Fan-made, anime-inspired.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Wanted: dead or alive. This anime-inspired dog tag puts a Straw Hat bounty poster on your chest, laser-etched into brushed stainless steel for that hard, lived-in marine-bulletin look. The front carries the classic WANTED layout with the character's bounty; flip it for a clean Jolly Roger crest and the crew's mark on the back.</p>
+<p>Pick your fighter at checkout: Monkey D. Luffy, swordsman Roronoa Zoro, or the awakened Luffy Gear 5. Each tag hangs on a beaded ball chain that slides easily over a tee or layers under a jacket, built to take everyday wear without the shine wearing off.</p>
+<ul>
+<li><strong>Style options:</strong> Luffy, Zoro, or Luffy Gear 5 (choose one)</li>
+<li><strong>Material:</strong> durable stainless steel, tarnish-resistant</li>
+<li><strong>Design:</strong> double-sided engraving - WANTED bounty poster front, Jolly Roger crest and One Piece mark on the back</li>
+<li><strong>Chain:</strong> beaded ball chain with clasp connector</li>
+<li><strong>Finish:</strong> brushed silver-tone metal</li>
+<li><strong>Wear:</strong> unisex; works solo or layered</li>
+<li><strong>Care:</strong> wipe clean with a soft dry cloth; keep away from harsh chemicals</li>
+<li><strong>In the box:</strong> 1 dog-tag pendant on chain in your chosen design</li>
+</ul>
+<p>Fan-made and anime-inspired - not official or affiliated with the rights holders.</p>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Double-sided engraving: WANTED bounty poster front, Jolly Roger crest back
+  • Choose Luffy, Zoro, or awakened Luffy Gear 5
+  • Durable stainless steel that resists tarnish
+  • Slides on a beaded ball chain - wear solo or layered
+  • Unisex fit, everyday-tough finish
+  • Fan-made, anime-inspired - not affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (56 chars)        : Op Dog Tags - One Piece Bounty Necklace | Otaku Store NG
+Meta Description (145 chars) : One Piece dog tag necklace engraved with a WANTED bounty poster and Jolly Roger. Choose Luffy, Zoro or Gear 5. Stainless steel, ₦6,000. Fan-made.
+Focus keyword                       : One Piece dog tag necklace
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Three One Piece stainless-steel dog tag necklaces engraved with Luffy, Zoro and Luffy Gear 5 WANTED bounty posters, held in hand
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a single stainless-steel One Piece dog tag pendant on a beaded ball chain, front engraved with a WANTED bounty poster of Monkey D. Luffy. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent on the WANTED text. Halftone dot shading, dramatic speed lines radiating behind the tag, ink splatter at the edges, framed inside a bold manga panel border. Premium, cinematic, high-contrast macro lighting catching the brushed metal.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

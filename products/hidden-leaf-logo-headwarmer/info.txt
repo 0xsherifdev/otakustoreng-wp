@@ -1,0 +1,72 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Hidden Leaf Logo Headwarmer
+SLUG         : hidden-leaf-logo-headwarmer
+BUMPA ID     : 1508052
+WOO TYPE     : simple
+PARENT SKU   : OSN-1508052
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Headwear
+  - Shop by Anime > Naruto
+
+TAGS: Naruto headwarmer, Hidden Leaf, Konoha emblem, anime headwear, ear warmer band, knit headband, Naruto merch, cosplay accessory
+FRANCHISE: Naruto    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦6,000
+Total stock   : 6
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Konoha on your crown. Wear the roster.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Rep the Hidden Leaf with this anime-inspired knitted headwarmer. The Konoha emblem sits front and centre, snug fit, one-size stretch knit that keeps the cold out while you cosplay, train or chill.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Every shinobi needs their village mark. This Hidden Leaf headwarmer puts the Konoha emblem front and centre on a soft, stretchy knit band built to hug your head and lock out the chill. Whether you're heading to a con, repping your favourite arc, or just want fan-art-worthy everyday warmth, it sits clean and stays put.</p><p>A fan-made, anime-inspired piece for the Naruto faithful (not affiliated with or endorsed by the rights holders). Easy to style with hoodies, jackets and full cosplay fits.</p><ul><li>Soft stretch-knit headwarmer / ear-warmer band</li><li>Hidden Leaf (Konoha) emblem on the front</li><li>One-size, stretches to fit most adults and teens</li><li>Snug, secure fit that stays in place</li><li>Lightweight warmth for cooler days and travel</li><li>Pairs with cosplay fits, hoodies and streetwear</li><li>Care: hand wash cold, reshape and lay flat to dry</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Hidden Leaf (Konoha) emblem front and centre
+  • Soft stretch-knit, one-size adjustable fit
+  • Snug and secure — stays put while you move
+  • Lightweight warmth for cons, travel and everyday
+  • Fan-made, anime-inspired — not affiliated
+  • Styles easily with cosplay, hoodies and streetwear
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (48 chars)        : Hidden Leaf Headwarmer | Naruto Konoha Knit Band
+Meta Description (150 chars) : Anime-inspired Hidden Leaf (Konoha) knit headwarmer with the Naruto village emblem. One-size stretch fit, snug warmth. Ships nationwide and worldwide.
+Focus keyword                       : Hidden Leaf headwarmer
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Black knit headwarmer band embroidered with the Naruto Hidden Leaf (Konoha) village emblem
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a black stretch-knit headwarmer band with the Hidden Leaf (Konoha) emblem in a single manga-red #E2261C accent, set against ink black #111111 and paper white #FAFAFA. Halftone dot texture, dramatic speed lines radiating outward, subtle ink splatter, framed in a clean manga panel. Premium cinematic lighting, high detail, product centred, no text.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

@@ -1,0 +1,74 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Zoro's Black Katana
+SLUG         : zoro-s-black-katana
+BUMPA ID     : 1143923
+WOO TYPE     : variable
+PARENT SKU   : OSN-1143923
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Katana & Weapons
+  - Shop by Anime > One Piece
+
+TAGS: Zoro katana, One Piece sword, Roronoa Zoro, display katana, cosplay sword, anime katana, One Piece cosplay, collectible katana
+FRANCHISE: One Piece    CHARACTER: Roronoa Zoro
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦40,000
+Total stock   : 101
+VARIATIONS (attribute: Material)
+  Wooden         | ₦40,000 | stock 8    | SKU OSN-1143923-WOODEN
+  Steel          | ₦98,000 | stock 93   | SKU OSN-1143923-STEEL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The swordsman's blade, built for your wall.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A display katana inspired by Zoro's iconic black blade from One Piece. Themed handle wrap, matte black saya, and a clean silhouette built for cosplay loadouts, shelf flexing, and roster-worthy display. Stand and belt included.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the Pirate Hunter himself. This Zoro-inspired display katana brings the dark, no-nonsense edge of One Piece's greatest swordsman to your collection, with a deep black blade finish, themed tsuka wrap, and a matte saya that looks just as sharp on a shelf as it does strapped across your back at a con.</p><p>Built as a decorative collector and cosplay prop, it lands in the hand with real presence and reads instantly to any fan who knows the three-sword style. Pick your finish, lock it into the included stand, and let the roster speak for itself. Fan-made and anime-inspired; not affiliated with or endorsed by the official rights holders.</p><ul><li>Inspired by Roronoa Zoro's signature black katana from One Piece</li><li>Material options: Wooden or Steel blade</li><li>Approx. 104cm overall length</li><li>Approx. 1.2kg weight</li><li>Themed handle wrap (tsuka) and matte black scabbard (saya)</li><li>Includes a display sword stand and a wearable sword belt</li><li>Decorative display and cosplay prop only, not a functional weapon</li><li>Keep away from children; follow your local laws on bladed display items</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Inspired by Zoro's iconic black blade from One Piece
+  • Choose your finish: Wooden or Steel
+  • Approx. 104cm length, around 1.2kg in hand
+  • Themed tsuka wrap and matte black saya
+  • Comes with a display stand and a wearable sword belt
+  • Built for cosplay, display and collecting
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : Zoro's Black Katana | One Piece Display Sword
+Meta Description (147 chars) : Zoro's black katana from One Piece as a display and cosplay prop. Wooden or steel finish, themed saya, stand and belt included. Ships from Nigeria.
+Focus keyword                       : Zoro black katana
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Zoro-inspired black display katana from One Piece with themed handle wrap, matte black scabbard and sword stand
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a black anime-inspired display katana resting on a minimalist stand. Ink black #111111 background, paper white #FAFAFA rim light, single manga-red #E2261C accent slashing through the frame as a speed-line. Halftone dot texture, dramatic ink splatter, manga panel borders framing the blade. Matte black scabbard, dark handle wrap, cinematic premium lighting, sharp reflections along the blade edge. Collector display piece, no text.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

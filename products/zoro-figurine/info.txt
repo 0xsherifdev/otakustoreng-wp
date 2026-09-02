@@ -1,0 +1,72 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Zoro Figurine
+SLUG         : zoro-figurine
+BUMPA ID     : 2973749
+WOO TYPE     : simple
+PARENT SKU   : OSN-2973749
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Figurines
+  - Shop by Anime > One Piece
+
+TAGS: Zoro figurine, Roronoa Zoro, One Piece figure, anime figurine, Straw Hat Pirates, PVC statue, anime collectible, One Piece merch
+FRANCHISE: One Piece    CHARACTER: Roronoa Zoro
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦32,000
+Total stock   : 10
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The Straw Hat swordsman, sculpted in fighting form
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A detailed, pre-painted Roronoa Zoro display figure capturing the Straw Hats' three-sword swordsman mid-stance. Pre-assembled PVC collectible built for the shelf, not the toy box. Anime-inspired fan piece for serious One Piece collectors.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Pirate Hunter. First mate. The blade that never breaks its vow. This Roronoa Zoro figure brings the Straw Hat swordsman to your shelf in full Santoryu spirit, with sharp linework on the sculpt, layered paintwork on his haramaki and katana, and that grounded, ready-to-strike stance every One Piece fan knows.</p><p>Built as a display statue rather than a toy, it arrives pre-painted and pre-assembled on a base, ready to anchor any collection. A clean, premium centrepiece for the One Piece corner of your roster. Anime-inspired fan collectible, not affiliated with or endorsed by the official rights holders.</p><ul><li>Character: Roronoa Zoro from One Piece</li><li>Material: detailed PVC/resin, pre-painted finish</li><li>Type: display statue / collector figure (not a children's toy)</li><li>Assembly: arrives pre-assembled on a display base</li><li>Display: best kept on a shelf or cabinet, out of direct sunlight</li><li>Care: dust gently with a soft dry cloth; handle thin parts like swords with care</li><li>Includes: one figure with base</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Roronoa Zoro of the Straw Hat Pirates, sculpted in dynamic fighting form
+  • Pre-painted PVC/resin statue with crisp detail on swords and outfit
+  • Arrives pre-assembled on a display base, ready for the shelf
+  • Premium collector display piece, not a toy
+  • A standout centrepiece for any One Piece collection
+  • Anime-inspired fan figure, not officially affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (42 chars)        : Zoro Figurine | One Piece Collector Statue
+Meta Description (152 chars) : Roronoa Zoro One Piece figurine: detailed pre-painted PVC display statue on base. Premium anime collector piece, ₦32,000. Ships from Nigeria, worldwide.
+Focus keyword                       : Zoro figurine
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Pre-painted Roronoa Zoro One Piece figurine in a three-sword fighting stance on a display base
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a Roronoa Zoro collector figurine, the One Piece swordsman in a dynamic three-sword stance. Ink black #111111 background with paper white #FAFAFA negative space, single manga-red #E2261C accent on a slashing speed-line. Halftone dot shading, sharp ink splatter, and manga panel framing behind the figure. Dramatic cinematic rim lighting on the sculpt, premium glossy paint detail on katana and haramaki, shallow depth of field, high contrast, museum-shelf presentation.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

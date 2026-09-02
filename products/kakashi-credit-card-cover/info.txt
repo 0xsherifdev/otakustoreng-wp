@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Kakashi Credit Card Cover
+SLUG         : kakashi-credit-card-cover
+BUMPA ID     : 1395772
+WOO TYPE     : simple
+PARENT SKU   : OSN-1395772
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Stickers
+  - Shop by Anime > Naruto
+
+TAGS: Kakashi, Naruto, credit card skin, card sticker, anime stickers, vinyl decal, Kakashi Hatake, card skin set, waterproof sticker, anime card cover
+FRANCHISE: Naruto    CHARACTER: Kakashi Hatake
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦3,500
+Total stock   : 10
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Skin your cards in Copy Ninja style.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Suit up your bank cards with the Copy Ninja. This anime-inspired Kakashi vinyl card skin set wraps debit, credit and transit cards in slim, waterproof film with a precise chip cutout, vivid fade-resistant print and bubble-free application.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Carry the Copy Ninja everywhere your wallet goes. This Kakashi Hatake card skin set lays a thin layer of premium vinyl over your debit, credit or transit cards, turning a boring slab of plastic into a piece of the Hidden Leaf roster. The artwork runs from masked-and-ready close-ups to a full Sharingan moment, so every card in your wallet reps a different look.</p><p>The film is printed for vivid, fade-resistant colour and finished with a pre-cut chip window, so your card still taps, swipes and inserts exactly as before. Smooth, residue-light vinyl means a clean peel-and-stick apply and an easy swap when you want a new design. A fan-made, anime-inspired piece for Naruto fans, not affiliated with or endorsed by the rights holders.</p><ul><li>Set of 4 Kakashi-themed vinyl card skins (designs as shown)</li><li>Material: slim, flexible adhesive vinyl film</li><li>Pre-cut chip cutout keeps tap, swipe and insert working</li><li>Vivid, fade-resistant print finish</li><li>Waterproof and scuff-resistant for everyday wallet wear</li><li>Fits standard-size bank, credit, debit and transit cards</li><li>Peel-and-stick application; designed for clean removal</li><li>Card not included; decorative skins only</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Set of 4 Kakashi card skins in one pack
+  • Pre-cut chip window keeps tap and swipe working
+  • Slim waterproof vinyl with fade-resistant print
+  • Bubble-free peel-and-stick, clean removal
+  • Fits standard bank, credit and transit cards
+  • Fan-made, anime-inspired Naruto design
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (50 chars)        : Kakashi Credit Card Skin Set (4) | Naruto Stickers
+Meta Description (152 chars) : Kakashi Hatake vinyl card skin set of 4. Waterproof, fade-resistant, pre-cut chip window. Fits bank, credit and transit cards. Naruto fan stickers from.
+Focus keyword                       : Kakashi credit card skin
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Set of four Kakashi Hatake vinyl card skins applied to bank cards with chip cutouts, featuring masked Kakashi and Sharingan artwork
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product studio shot of four anime-inspired Kakashi credit card skins fanned across a matte ink-black #111111 surface, paper-white #FAFAFA halftone dot field bleeding in from one corner, single manga-red #E2261C accent on a Sharingan detail and a thin diagonal speed-line streak. One card lifted mid peel to show the slim vinyl and pre-cut gold chip window. Crisp ink-splatter edges, manga panel framing, dramatic side light, shallow depth of field, premium cinematic merchandise photography, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

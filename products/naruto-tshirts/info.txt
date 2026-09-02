@@ -1,0 +1,81 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Naruto Tshirts
+SLUG         : naruto-tshirts
+BUMPA ID     : 1131113
+WOO TYPE     : variable
+PARENT SKU   : OSN-1131113
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+  - Shop by Anime > Naruto
+
+TAGS: Naruto t-shirt, anime t-shirt, Sharingan tee, Itachi shirt, Uchiha graphic tee, Naruto merch, anime clothing Nigeria, shinobi apparel
+FRANCHISE: Naruto    CHARACTER: Naruto / Itachi (Sharingan)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦12,000
+Total stock   : 497
+VARIATIONS (attribute: Size)
+  M              | ₦12,000 | stock 100  | SKU OSN-1131113-M
+  L              | ₦12,000 | stock 97   | SKU OSN-1131113-L
+  XL             | ₦12,000 | stock 100  | SKU OSN-1131113-XL
+  2XL            | ₦12,000 | stock 100  | SKU OSN-1131113-2XL
+  XXXL           | ₦12,000 | stock 100  | SKU OSN-1131113-XXXL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Wear the Hidden Leaf. Eyes that never blink.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Anime-inspired Naruto graphic tee in deep black, printed with bold Sharingan and shinobi panel art. Soft cotton, unisex regular fit, crew neck and a fade-resistant print built to survive every mission. Multiple designs to pick from.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some looks need no words. This Naruto-inspired graphic tee lands the whole vibe of the Hidden Leaf on a clean black canvas, from glowing Sharingan and Rinnegan eyes to moody shinobi panel art with Japanese lettering. It is the kind of shirt that gets a knowing nod from every fan who walks past.</p><p>Cut for everyday wear in soft cotton with a unisex regular fit and a smooth crew neck, the print is sharp, high-contrast and made to stay that way wash after wash. Pull on a fan-favourite design and represent your roster, whether you are team Itachi, team Sasuke or all-in on the Uchiha legacy. Fan / anime-inspired, not affiliated with or endorsed by the rights holders.</p><ul><li>Material: soft cotton (some designs are stone-wash/acid-wash for a vintage faded finish)</li><li>Fit: unisex regular fit</li><li>Neck: ribbed crew neck</li><li>Print: durable, fade-resistant front graphic in high-contrast manga style</li><li>Sizes available: M, L, XL, 2XL, XXXL</li><li>Designs: multiple Naruto-inspired graphics, choose your favourite at checkout</li><li>Care: machine wash cold, inside-out, hang or line dry</li><li>Ships from Nigeria, nationwide and worldwide</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold Naruto-inspired front graphics: Sharingan eyes and shinobi panel art
+  • Soft cotton, unisex regular fit with a comfortable crew neck
+  • Durable fade-resistant print that survives wash after wash
+  • Multiple designs to choose from at checkout
+  • Sizes M through XXXL for an inclusive fit
+  • Ships from Nigeria, nationwide and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (44 chars)        : Naruto T-Shirt | Anime Sharingan Graphic Tee
+Meta Description (145 chars) : Naruto-inspired graphic t-shirt in soft black cotton with bold Sharingan and shinobi art. Unisex fit, sizes M-XXXL. Ships from Nigeria worldwide.
+Focus keyword                       : Naruto t-shirt
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+  05.jpg  (gallery)
+  06.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Black Naruto-inspired cotton t-shirt printed with Sharingan and Rinnegan eyes, styled flat with sneakers
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a folded black anime graphic t-shirt featuring a bold Naruto-inspired Sharingan eye print in manga-red #E2261C. Ink black #111111 background, paper white #FAFAFA halftone dot texture, diagonal speed lines and ink splatter framing a clean manga panel border. Single red accent only, cinematic premium lighting, sharp high-contrast detail, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

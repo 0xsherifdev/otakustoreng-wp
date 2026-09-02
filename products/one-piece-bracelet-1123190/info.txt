@@ -1,0 +1,72 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : One Piece Bracelet
+SLUG         : one-piece-bracelet-1123190
+BUMPA ID     : 1123190
+WOO TYPE     : simple
+PARENT SKU   : OSN-1123190
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Bracelets
+  - Shop by Anime > One Piece
+
+TAGS: One Piece bracelet, Straw Hat Pirates, Luffy bracelet, anime bracelet, braided leather bracelet, Jolly Roger charm, anime accessories, One Piece merch
+FRANCHISE: One Piece    CHARACTER: Monkey D. Luffy
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦5,000
+Total stock   : 990
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Fly the Straw Hat Pirates flag on your wrist
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Braided black leather cuff with an antique-bronze Straw Hat Pirates skull charm crowned by Luffy's red hat. Everyday-durable, easy magnetic-style clasp, and built for fans who set sail every single day. Ships nationwide and worldwide.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Set sail in style. This One Piece bracelet wraps a braided black leather-look cord around a cast antique-bronze Jolly Roger - the Straw Hat Pirates skull crowned with Luffy's unmistakable red-and-yellow hat. It is the kind of detail that fellow nakama clock instantly, while everyone else just sees a clean, rugged accessory.</p><p>Designed to live on your wrist day in, day out - the woven cord keeps it lightweight and comfortable, and the secure clasp snaps on in seconds. Anime-inspired and made for fans; a fan tribute piece, not affiliated with or endorsed by the official rights holders.</p><ul><li>Design: One Piece Straw Hat Pirates skull (Jolly Roger) charm with painted red-and-yellow hat detail</li><li>Cord: braided black leather-look band</li><li>Hardware: antique bronze-tone metal charm and box-style clasp</li><li>Fit: standard wrist; secure snap-close clasp for quick on-and-off</li><li>Wear: everyday-durable, lightweight and comfortable</li><li>Style: unisex - works with streetwear, casual and layered stacks</li><li>In the box: 1x One Piece braided bracelet</li><li>Care: keep dry, wipe clean with a soft cloth, store away from moisture to protect the finish</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Antique-bronze Straw Hat Pirates skull charm with Luffy's signature red hat
+  • Braided black leather-look cord - rugged but lightweight
+  • Secure box-style clasp for quick, easy wear
+  • Unisex fit that layers with any stack or streetwear look
+  • Everyday-durable build made for daily wear
+  • Fan tribute design - anime-inspired, not affiliated with the official rights holders
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (44 chars)        : One Piece Bracelet - Straw Hat Pirates Charm
+Meta Description (150 chars) : One Piece bracelet with a braided cord and antique-bronze Straw Hat Pirates skull charm. Everyday-durable, unisex fit. Ships nationwide and worldwide.
+Focus keyword                       : One Piece bracelet
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: One Piece braided black leather bracelet with an antique-bronze Straw Hat Pirates skull charm worn on a wrist
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a braided black leather bracelet with an antique-bronze Straw Hat Pirates skull-and-crossbones charm topped by a small red-and-yellow straw hat. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent. Halftone dots, dynamic speed lines and ink-splatter framing in manga panels. Coiled neatly on a matte black surface, dramatic cinematic side lighting, crisp metallic and leather textures, premium high-contrast composition.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

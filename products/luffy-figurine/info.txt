@@ -1,0 +1,81 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Luffy Figurine
+SLUG         : luffy-figurine
+BUMPA ID     : 1624185
+WOO TYPE     : simple
+PARENT SKU   : OSN-1624185
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Figurines
+  - Shop by Anime > One Piece
+
+TAGS: Luffy figurine, One Piece figurine, Monkey D. Luffy statue, anime figurine, One Piece collectible, Straw Hat Luffy, PVC figure, anime statue
+FRANCHISE: One Piece    CHARACTER: Monkey D. Luffy
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦15,000
+Total stock   : 10
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The Straw Hat captain, frozen mid-charge
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Catch the Future Pirate King mid-charge. This anime-inspired Luffy statue captures the Straw Hat captain in a dynamic combat pose, hand gripping his hat, every scar and muscle sculpted in pre-painted PVC for your shelf or desk display.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>The Straw Hat is locked in. This anime-inspired Monkey D. Luffy figurine freezes the Future Pirate King mid-charge, one hand clamping his iconic straw hat to his chest while that battle-ready scowl dares anyone to step up. From the layered detail on the striped shorts to the sculpted scars and lean muscle, this is a display piece built to anchor any One Piece collection.</p>
+<p>Cast in pre-painted PVC and finished by hand, it lands at roughly 17cm tall on a stable base, perfect for a shelf, desk, or gaming setup. A standout centrepiece for fans who want to wear the roster and show the roster too. Fan-made and anime-inspired; not affiliated with or endorsed by the official rights holders.</p>
+<ul>
+<li>Character: Monkey D. Luffy in a dynamic crouched combat pose, gripping his straw hat</li>
+<li>Series: One Piece (fan / anime-inspired collectible)</li>
+<li>Material: detailed sculpted, pre-painted PVC</li>
+<li>Approx. height: 17cm (sizes vary slightly by casting)</li>
+<li>Finish: hand-painted detailing across face, scars and outfit</li>
+<li>Includes: figurine with display base</li>
+<li>Use: adult collector display piece, not a toy</li>
+<li>Care: keep out of direct sunlight, dust gently with a soft dry cloth, handle with care</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Dynamic combat pose with Luffy gripping his signature straw hat
+  • Detailed pre-painted PVC with hand-finished scars and muscle definition
+  • Approx. 17cm tall on a stable display base
+  • Fan / anime-inspired collectible for shelf, desk or gaming setup
+  • Ships nationwide across Nigeria and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (50 chars)        : Luffy Figurine | One Piece Statue | Otaku Store NG
+Meta Description (150 chars) : Anime-inspired Monkey D. Luffy figurine in a dynamic combat pose. Detailed pre-painted PVC, approx 17cm. Ships from Nigeria, nationwide and worldwide.
+Focus keyword                       : Luffy figurine
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Monkey D. Luffy One Piece figurine in a crouched combat pose, gripping his straw hat to his chest with scarred torso and striped shorts
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-Manga style studio product shot of a Monkey D. Luffy collector figurine in a dynamic crouched combat pose gripping his straw hat to his chest. Ink black #111111 background with paper white #FAFAFA rim light, single manga-red #E2261C accent glow behind the figure. Halftone dot shading, sharp speed lines radiating outward, ink splatter framing the base, manga panel border. Premium cinematic lighting, shallow depth of field, the pre-painted PVC statue sharply in focus on a matte black surface. No text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

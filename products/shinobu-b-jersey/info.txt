@@ -1,0 +1,76 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Shinobu B Jersey
+SLUG         : shinobu-b-jersey
+BUMPA ID     : 4846029
+WOO TYPE     : variable
+PARENT SKU   : OSN-4846029
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Jerseys
+  - Shop by Anime > Demon Slayer
+
+TAGS: Shinobu Kocho, Demon Slayer, Kimetsu no Yaiba, anime jersey, all-over-print jersey, Insect Hashira, anime streetwear, dye sublimation jersey
+FRANCHISE: Demon Slayer    CHARACTER: Shinobu Kocho
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦23,000
+Total stock   : 250
+VARIATIONS (attribute: Size)
+  M              | ₦23,000 | stock 50   | SKU OSN-4846029-M
+  L              | ₦23,000 | stock 50   | SKU OSN-4846029-L
+  XL             | ₦23,000 | stock 50   | SKU OSN-4846029-XL
+  2XL            | ₦23,000 | stock 50   | SKU OSN-4846029-2XL
+  3XL            | ₦23,000 | stock 50   | SKU OSN-4846029-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The Insect Hashira, worn loud and edge-to-edge.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel the Insect Hashira in this all-over-print Shinobu Kocho jersey. Vivid edge-to-edge graphics, butterfly motifs and that signature purple-to-pink fade on lightweight, breathable polyester. Built for cons, watch parties and everyday anime streetwear.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Step into the Demon Slayer Corps with the Shinobu B Jersey, an all-over-print tribute to Shinobu Kocho, the venom-fast Insect Hashira. The full-coverage dye-sublimated graphic wraps her serene smile, butterfly hair clip and signature kimono in a striking purple-to-pink fade, finished with a bold number, sidebar "SHINOBU" lettering and screentone-cracked detailing for that premium anime-streetwear edge.</p><p>Cut in a relaxed American-football style with a ribbed V-neck, it is unisex and true to size, so layer it over a tee for cons or rep it solo at your next match-watch party. Lightweight 100% polyester keeps you cool while the colours stay vivid wash after wash. Secure checkout, fast nationwide and worldwide delivery, plus easy returns.</p><ul><li><strong>Material:</strong> Lightweight, breathable 100% polyester</li><li><strong>Print:</strong> All-over dye-sublimation, edge-to-edge graphic that won't crack or peel</li><li><strong>Fit:</strong> Unisex, relaxed football-jersey cut with ribbed V-neck</li><li><strong>Sizing:</strong> True to size (M-3XL); between sizes? Size up</li><li><strong>Care:</strong> Machine wash cold inside-out, do not iron print directly, hang to dry</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • All-over-print Shinobu Kocho graphic with signature butterfly and purple-to-pink fade
+  • Lightweight, breathable 100% polyester that keeps colours vivid
+  • Unisex relaxed football-jersey cut, true to size (M-3XL)
+  • Built for conventions, watch parties and everyday anime streetwear
+  • Fast nationwide + worldwide delivery with secure checkout and easy returns
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (41 chars)        : Shinobu Kocho Anime Jersey | Demon Slayer
+Meta Description (142 chars) : Shinobu Kocho all-over-print anime jersey from Demon Slayer. Breathable polyester, vivid edge-to-edge print. ₦23,000. Fast worldwide delivery.
+Focus keyword                       : Shinobu Kocho anime jersey
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Shinobu Kocho Demon Slayer all-over-print anime jersey in purple, pink and white with butterfly motif
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of an all-over-print anime football jersey featuring Shinobu Kocho, on an invisible mannequin floating against an ink-black #111111 backdrop. The jersey itself keeps its vivid purple-to-pink fade and butterfly motifs as the focal pop of colour. High-contrast monochrome environment with halftone screentone dots and dynamic manga speed lines radiating outward, brush-ink splatter in the corners, and a single bold manga-red #E2261C accent slashing across one speed line for energy. Paper-white #FAFAFA rim light, cinematic premium anime-streetwear mood, sharp focus on fabric texture, subtle butterfly silhouettes drifting in the background, manga panel border framing.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+  - QA fixes applied: image_alt invents a specific jersey number ("number 81") that is not supported anywhere else in the content and is a hallucinated specific. The long_description references a "bold number" generically but never states 81; removed the invented number from the alt text to keep claims generic-true.; supplemental_image_prompt describes the character with a "purple-to-pink fade" kimono and butterflies in the brief is fine, but the prompt's heavy monochrome ink-black/paper-white directive conflicts with the product's stated purple-to-pink colourway; adjusted so the character/jersey retains its purple-to-pink colours while the dark-manga staging (screentone, speed lines, single red accent) is applied to the environment/framing only. Otherwise minor.; No franchise/character error: Shinobu Kocho is correctly the Insect Hashira from Demon Slayer (Kimetsu no Yaiba) - verified correct.; SEO title (40 chars) and meta description (139 chars) are within limits - no change needed.; No 'official/licensed' or trademark-claiming language present - good.; HTML is valid (clean <p>/<ul>/<li>, no <h1>) and sizing (M-3XL) matches available sizes - good.
+================================================================================

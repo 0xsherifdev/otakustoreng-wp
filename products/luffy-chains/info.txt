@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Luffy Chains
+SLUG         : luffy-chains
+BUMPA ID     : 1151671
+WOO TYPE     : simple
+PARENT SKU   : OSN-1151671
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > One Piece
+
+TAGS: Luffy, One Piece, Luffy chain, Luffy necklace, anime necklace, anime pendant, One Piece necklace, Straw Hat, anime chains, anime merch
+FRANCHISE: One Piece    CHARACTER: Monkey D. Luffy
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦8,000
+Total stock   : 0
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Wear the will of the Pirate King.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+An anime-inspired Luffy pendant chain built for daily wear. Durable, tarnish-resistant metal with a bold One Piece motif that finishes any fit. Lightweight, easy to layer, and ready to set sail with the Straw Hats.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Claim your place on the crew with the Luffy Chain, an anime-inspired pendant necklace made for fans who live and breathe One Piece. The pendant carries Luffy's bold Straw Hat energy, paired with a clean chain that drops perfectly over a tee, hoodie, or jersey for an everyday statement piece.</p><p>Crafted from durable, tarnish-resistant metal, it keeps its shine through long days and stays comfortable on the neck. Slip it on solo for a sharp look or stack it with your other anime pieces to build out the full roster. Fan-made and anime-inspired, not affiliated with or endorsed by the official rights holders.</p><ul><li>Anime-inspired Luffy / One Piece pendant necklace</li><li>Durable, tarnish-resistant metal construction</li><li>Pendant on a matching chain for easy everyday wear</li><li>Lightweight and comfortable, ready to layer and stack</li><li>Versatile drop that pairs with tees, hoodies and jerseys</li><li>Wipe clean with a soft, dry cloth to keep the shine</li><li>Fan / anime-inspired design, not officially licensed</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Anime-inspired Monkey D. Luffy / One Piece pendant chain
+  • Durable, tarnish-resistant metal that keeps its shine
+  • Lightweight and comfortable for all-day wear
+  • Easy to layer and stack with your other anime pieces
+  • Pairs cleanly with tees, hoodies and jerseys
+  • Wipe clean with a soft, dry cloth
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (49 chars)        : Luffy Chain Necklace - One Piece | Otaku Store NG
+Meta Description (146 chars) : Anime-inspired Luffy pendant chain in durable, tarnish-resistant metal. A bold One Piece necklace for everyday wear. ₦8,000. Ships nationwide and.
+Focus keyword                       : Luffy chain necklace
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.png  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Anime-inspired Monkey D. Luffy One Piece pendant chain necklace in tarnish-resistant metal
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product photography of an anime-inspired Luffy pendant chain necklace, displayed on a matte black bust. Ink black #111111 background with paper white #FAFAFA negative space, a single manga-red #E2261C accent glinting off the pendant edge. Halftone dot texture, dynamic speed lines and a touch of ink splatter framing the shot in manga panels. Premium, cinematic studio lighting, sharp focus on the polished metal pendant and chain links, dramatic shadows. No text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

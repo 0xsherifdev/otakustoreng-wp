@@ -1,0 +1,75 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Anime Baggy Jeans
+SLUG         : anime-baggy-jeans
+BUMPA ID     : 1145169
+WOO TYPE     : variable
+PARENT SKU   : OSN-1145169
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Trousers
+
+TAGS: anime baggy jeans, baggy jeans, anime jeans, manga print denim, wide leg jeans, anime streetwear, unisex jeans, otaku fashion
+FRANCHISE: Generic Anime    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦27,000
+Total stock   : 130
+VARIATIONS (attribute: Size)
+  M              | ₦27,000 | stock 100  | SKU OSN-1145169-M
+  L              | ₦27,000 | stock 10   | SKU OSN-1145169-L
+  XL             | ₦27,000 | stock 10   | SKU OSN-1145169-XL
+  2XL            | ₦27,000 | stock 10   | SKU OSN-1145169-2XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Baggy denim with a manga-face print on every panel
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Loose, street-ready baggy jeans in a washed light-blue denim, splashed with a repeating black-ink anime face print and raw frayed hems. Unisex 5-pocket cut that drops straight and wide. Wear the roster from waist to ankle.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Big silhouette, bigger energy. These Anime Baggy Jeans run loose and straight through the leg in a washed light-blue denim, then hit you with a repeating ink-black manga face stamped across both legs front and back. It is the kind of statement denim built for fans who want their fit to read across the room, no caption needed.</p><p>Cut thick and roomy for that relaxed, wide-leg streetwear drape, with raw frayed hems for a lived-in finish. Unisex sizing means it sits low and baggy or stacks over your kicks, depending on how you wear it. Pair with a plain tee, an oversized hoodie, or one of our anime jersey tops and let the print do the talking. This is a fan-made, anime-inspired piece and is not affiliated with or endorsed by any studio or rights holder.</p><ul><li>Style: relaxed baggy / wide-leg jeans, unisex</li><li>Material: thick denim for structure and a heavy drape</li><li>Print: repeating ink-black anime face graphic, front and back of both legs</li><li>Closure: zip fly with top button; belt loops at waist</li><li>Pockets: classic 5-pocket layout (two front, two back, coin pocket)</li><li>Hem: raw, frayed wide-leg opening</li><li>Sizes: M, L, XL, 2XL</li><li>Wash care: turn inside out, cold machine wash, hang dry to protect the print</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Washed light-blue baggy denim with a true wide-leg drape
+  • Repeating ink-black anime face print across both legs, front and back
+  • Raw frayed hems for a lived-in streetwear finish
+  • Unisex 5-pocket cut with zip fly and belt loops
+  • Thick denim that holds its shape and stacks over sneakers
+  • Sizes M to 2XL; ships nationwide and worldwide from Nigeria
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (42 chars)        : Anime Baggy Jeans | Manga Face Print Denim
+Meta Description (150 chars) : Anime Baggy Jeans in washed light-blue denim with a repeating manga face print and raw frayed hems. Unisex, sizes M-2XL. Ships from Nigeria worldwide.
+Focus keyword                       : anime baggy jeans
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Washed light-blue baggy jeans printed with a repeating black-ink anime face graphic and raw frayed hems
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of washed light-blue baggy wide-leg jeans laid flat, repeating ink-black anime face print across both legs, raw frayed hems. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent line, halftone dot texture, dynamic speed lines and ink-splatter framing, manga panel border, premium cinematic lighting, sharp high detail.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

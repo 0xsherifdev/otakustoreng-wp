@@ -1,0 +1,92 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Naruto 3d Hoodie
+SLUG         : naruto-3d-hoodie
+BUMPA ID     : 1125344
+WOO TYPE     : variable
+PARENT SKU   : OSN-1125344
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+  - Shop by Anime > Naruto
+
+TAGS: Naruto hoodie, anime hoodie, 3D all-over-print hoodie, Naruto merch, ninja streetwear, pullover hoodie, anime apparel, unisex hoodie
+FRANCHISE: Naruto    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦28,000
+Total stock   : 500
+VARIATIONS (attribute: Size)
+  M              | ₦28,000 | stock 100  | SKU OSN-1125344-M
+  L              | ₦28,000 | stock 100  | SKU OSN-1125344-L
+  XL             | ₦28,000 | stock 100  | SKU OSN-1125344-XL
+  2XL            | ₦28,000 | stock 100  | SKU OSN-1125344-2XL
+  XXXL           | ₦28,000 | stock 100  | SKU OSN-1125344-XXXL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+All-over-print Naruto fleece for everyday ninja energy
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A Naruto-inspired 3D all-over-print pullover hoodie in brushed-fleece comfort. Bold ninja graphics wrap front to back, with ribbed cuffs, a roomy hood and kangaroo pocket. Unisex streetwear fit built to wear the roster every day.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Pull on the village colours. This Naruto-inspired 3D hoodie wraps vivid all-over-print artwork around a brushed-fleece pullover, so the ninja energy reads loud from every angle, front, back and sleeves. The interior runs soft and warm, the fit is unisex streetwear-relaxed, and the print is built to stay sharp wear after wear.</p>
+<p>Layer it over a tee on cool evenings or rep it solo at the next convention. Pick your favourite print from the photos and tell us which slide you want at checkout. Fan-made, anime-inspired apparel, not official or affiliated with the Naruto franchise.</p>
+<ul>
+<li>Pullover hoodie with vivid 3D all-over-print Naruto-inspired graphics, front and back</li>
+<li>Brushed-fleece interior for cosy warmth</li>
+<li>Thick cotton fabric with a structured, durable feel</li>
+<li>Ribbed cuffs and hem to lock in shape and heat</li>
+<li>Roomy drawstring hood plus a front kangaroo pocket</li>
+<li>Unisex streetwear fit, sizes M, L, XL, 2XL and XXXL</li>
+<li>Choose your print at checkout, indicate the slide you want</li>
+<li>Machine wash cold, inside-out; do not tumble dry hot to keep colours bright</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • 3D all-over-print Naruto-inspired artwork, front to back
+  • Brushed-fleece interior for everyday warmth
+  • Thick cotton with ribbed cuffs and hem
+  • Roomy hood plus front kangaroo pocket
+  • Unisex streetwear fit, M to XXXL
+  • Pick your print at checkout
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (46 chars)        : Naruto 3D Hoodie | All-Over-Print Anime Fleece
+Meta Description (145 chars) : Naruto-inspired 3D all-over-print pullover hoodie in brushed fleece. Ribbed cuffs, kangaroo pocket, unisex fit, M-XXXL. ₦28,000. Wear the roster.
+Focus keyword                       : Naruto 3D hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+  05.jpg  (gallery)
+  06.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Naruto-inspired 3D all-over-print pullover hoodie with vivid ninja graphics, ribbed cuffs and kangaroo pocket
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a Naruto-inspired 3D all-over-print pullover hoodie on an invisible mannequin, ink black #111111 background, paper white #FAFAFA rim light, single manga-red #E2261C accent. Halftone dot texture and diagonal speed lines streaking behind, ink-splatter framing, manga panel border. Cinematic premium lighting, sharp fabric detail showing brushed fleece, ribbed cuffs and kangaroo pocket, dramatic shadow, high contrast, photoreal.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

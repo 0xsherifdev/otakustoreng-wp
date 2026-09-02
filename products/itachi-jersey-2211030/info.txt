@@ -1,0 +1,73 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Itachi Jersey
+SLUG         : itachi-jersey-2211030
+BUMPA ID     : 2211030
+WOO TYPE     : variable
+PARENT SKU   : OSN-2211030
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Jerseys
+  - Shop by Anime > Naruto
+
+TAGS: Itachi Uchiha, Naruto, anime jersey, all-over print, Akatsuki, Sharingan, anime streetwear, baseball jersey
+FRANCHISE: Naruto    CHARACTER: Itachi Uchiha
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦23,000
+Total stock   : 12
+VARIATIONS (attribute: Size)
+  L              | ₦23,000 | stock 0    | SKU OSN-2211030-L
+  XL             | ₦23,000 | stock 2    | SKU OSN-2211030-XL
+  2XL            | ₦23,000 | stock 10   | SKU OSN-2211030-2XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Sharingan-charged all-over-print baseball jersey
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel the legendary Uchiha prodigy in this vivid all-over-print Itachi jersey. Edge-to-edge dye-sublimated graphics on lightweight, breathable polyester. Built for cons, watch parties, and everyday anime streetwear. Unisex fit, true to size.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Wear the calm before the storm. This <strong>Itachi Uchiha anime jersey</strong> brings the legendary Naruto Akatsuki prodigy to life with edge-to-edge dye-sublimated artwork that pops in ink-black, crimson, and Sharingan red. Whether you're dropping in at a convention or lining up for the next big match-watch party, this is the layer that says you know your Uchiha lore.</p><p>Cut as a button-up baseball jersey in a lightweight, breathable 100% polyester, it wears easy over a tee and layers clean for everyday anime streetwear. Unisex fit and true to size, with crisp all-over-print that won't crack or peel. Secure checkout, fast nationwide and worldwide delivery, plus easy returns.</p><ul><li><strong>Material:</strong> 100% polyester, lightweight and breathable</li><li><strong>Print:</strong> All-over dye-sublimation, vivid edge-to-edge graphics</li><li><strong>Fit:</strong> Unisex baseball/button-up cut, true to size (size up if between sizes)</li><li><strong>Sizes:</strong> L, XL, 2XL</li><li><strong>Care:</strong> Machine wash cold inside-out, do not iron the print directly</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold all-over-print Itachi Uchiha graphics, edge to edge
+  • Lightweight, breathable 100% polyester for all-day wear
+  • Unisex baseball cut, true to size (L / XL / 2XL)
+  • Perfect for conventions, watch parties, and streetwear layering
+  • Secure checkout with fast nationwide + worldwide delivery
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (50 chars)        : Itachi Uchiha Anime Jersey | Naruto All-Over Print
+Meta Description (142 chars) : Shop the Itachi Uchiha anime jersey: vivid all-over-print Naruto design on breathable polyester. Unisex fit, ₦23,000. Fast worldwide delivery.
+Focus keyword                       : Itachi anime jersey
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Itachi Uchiha Naruto all-over-print anime baseball jersey in black and red
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga aesthetic studio shot of an all-over-print anime baseball jersey featuring an Itachi Uchiha-inspired character, displayed on an invisible mannequin at a dramatic three-quarter angle. Palette strictly ink black #111111, paper white #FAFAFA, single bold manga-red #E2261C accent used sparingly for energy. Heavy halftone and screentone dot textures, sharp manga speed lines radiating behind the jersey, brush-ink splatter accents, high-contrast monochrome composition with one red pop on the Sharingan motif. Manga panel-layout framing, cinematic premium anime-streetwear mood, crisp studio lighting, ultra-detailed fabric drape.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

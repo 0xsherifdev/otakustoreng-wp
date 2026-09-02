@@ -1,0 +1,77 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Hxh T Shirt
+SLUG         : hxh-t-shirt
+BUMPA ID     : 1125412
+WOO TYPE     : variable
+PARENT SKU   : OSN-1125412
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+  - Shop by Anime > Hunter x Hunter
+
+TAGS: Hunter x Hunter, HxH t-shirt, anime t-shirt, Gon, Killua, anime graphic tee, Hunter x Hunter merch, unisex anime shirt
+FRANCHISE: Hunter x Hunter    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦14,000
+Total stock   : 500
+VARIATIONS (attribute: Size)
+  M              | ₦14,000 | stock 100  | SKU OSN-1125412-M
+  L              | ₦14,000 | stock 100  | SKU OSN-1125412-L
+  XL             | ₦14,000 | stock 100  | SKU OSN-1125412-XL
+  2XL            | ₦14,000 | stock 100  | SKU OSN-1125412-2XL
+  XXXL           | ₦14,000 | stock 100  | SKU OSN-1125412-XXXL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Pass the Hunter Exam in style.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Anime-inspired Hunter x Hunter graphic tee in soft, breathable cotton. Unisex regular fit with a crew neck and a durable, fade-resistant print built to survive every wash and every rewatch of the Chimera Ant arc.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Wear the roster. This Hunter x Hunter graphic tee channels Gon, Killua and the Hunter Association straight onto soft, breathable cotton you'll reach for on repeat. The bold front print is built to stay sharp wash after wash, so your fandom never fades.</p><p>Cut in a unisex regular fit with a clean crew neck, it pairs just as easily with jeans as it does with a convention badge. A fan-made, anime-inspired piece for true HxH heads, not affiliated with the original creators.</p><ul><li>Material: soft, breathable cotton (cotton/polyester blend on all-over-print runs)</li><li>Fit: unisex regular fit, true to size</li><li>Neckline: ribbed crew neck</li><li>Print: bold front graphic, durable and fade-resistant</li><li>Sizes available: M, L, XL, 2XL, XXXL</li><li>Design selection: tell us the slide you want at checkout</li><li>Care: machine wash cold, inside-out; do not tumble dry hot; do not iron directly on the print</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Anime-inspired Hunter x Hunter front graphic for true HxH fans
+  • Soft, breathable cotton with a comfortable unisex regular fit
+  • Durable, fade-resistant print that survives repeated washes
+  • Clean ribbed crew neck that holds its shape
+  • Sizes M through XXXL for a wide range of fits
+  • Pick your design slide at checkout
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (56 chars)        : Hunter x Hunter T-Shirt | Anime HxH Tee | Otaku Store NG
+Meta Description (143 chars) : Anime-inspired Hunter x Hunter t-shirt in soft cotton. Unisex fit, fade-resistant print, sizes M-XXXL. ₦14,000. Ships nationwide and worldwide.
+Focus keyword                       : Hunter x Hunter t-shirt
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Hunter x Hunter anime-inspired graphic t-shirt in soft cotton, unisex regular fit with crew neck
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a folded Hunter x Hunter graphic t-shirt on ink-black #111111 backdrop, paper-white #FAFAFA fabric, single manga-red #E2261C accent on the print. Halftone dot shading, sharp speed lines radiating behind the tee, ink-splatter texture in the corners, framed inside a clean manga panel border. Premium, cinematic lighting, high detail, crisp folds, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

@@ -1,0 +1,72 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : AOT Keychain Case
+SLUG         : aot-keychain-case
+BUMPA ID     : 1734015
+WOO TYPE     : simple
+PARENT SKU   : OSN-1734015
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Shop by Anime > Attack on Titan
+
+TAGS: Attack on Titan keychain, AOT keychain, Survey Corps, Wings of Freedom, anime keychain, enamel keychain, anime accessories, Attack on Titan merch
+FRANCHISE: Attack on Titan    CHARACTER: Survey Corps
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦3,500
+Total stock   : 9
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Wings of Freedom on your keys, every day.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Rep the Survey Corps with this Attack on Titan Wings of Freedom keychain. Blue-and-white enamel on a tough alloy charm with a sturdy split ring, ready to clip onto keys, bags, or your everyday carry.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Join the scouts beyond the walls. This Attack on Titan keychain puts the iconic Survey Corps <strong>Wings of Freedom</strong> emblem right where you'll see it every day, finished in crisp blue-and-white enamel on a polished alloy charm. Lightweight, durable, and detailed, it's the easy way to fly the colours of humanity's bravest soldiers.</p><p>Clip it to your keys, school bag, backpack zip, or belt loop. A premium fan accessory that reps the roster wherever you go. Fan-made, anime-inspired merch, not affiliated with or licensed by the rights holders.</p><ul><li><strong>Design:</strong> Attack on Titan Survey Corps Wings of Freedom emblem</li><li><strong>Material:</strong> Enamel infill on metal alloy charm, silver-tone finish</li><li><strong>Colour:</strong> Blue and white emblem on a chrome-look base</li><li><strong>Hardware:</strong> Sturdy split key ring for easy attachment</li><li><strong>Use:</strong> Keys, bags, backpacks, zips, belt loops and EDC</li><li><strong>In the box:</strong> 1 x Wings of Freedom keychain charm</li><li><strong>Care:</strong> Wipe clean with a soft dry cloth; avoid harsh chemicals</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Survey Corps Wings of Freedom emblem in blue-and-white enamel
+  • Durable metal alloy charm with a silver-tone finish
+  • Sturdy split ring clips onto keys, bags and zips
+  • Lightweight everyday carry that reps Attack on Titan
+  • Wipe-clean enamel finish built for daily use
+  • Ships from Nigeria, nationwide and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (47 chars)        : Attack on Titan Wings of Freedom Keychain | AOT
+Meta Description (143 chars) : Attack on Titan Survey Corps Wings of Freedom keychain in blue-and-white enamel on alloy. Sturdy split ring for keys and bags. Ships worldwide.
+Focus keyword                       : Attack on Titan keychain
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Attack on Titan Survey Corps Wings of Freedom keychain in blue and white enamel on a silver-tone alloy charm with a split key ring
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product studio shot of an Attack on Titan Survey Corps Wings of Freedom enamel keychain charm in blue and white on a silver-tone alloy base with a split key ring. Ink black #111111 background, paper white #FAFAFA negative space, single manga-red #E2261C accent on a thin slashing speed line behind the charm. Halftone dot texture, manga panel framing, subtle ink splatter, dramatic rim lighting, premium cinematic macro shot, sharp focus on the enamel detail.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+  - QA fixes applied: meta_description is 156 characters, exceeding the 155-char limit. Trimmed to fit.; long_description_html and highlights duplicate the Price (₦3,500) and Shipping inside the spec list/bullets; these are redundant with WooCommerce's own price/shipping fields and clutter the Accessories description. Removed Price/Shipping line items and the standalone price highlight, replacing with product-relevant content.; Highlights had 6 items but one was a pure price restatement; rebalanced to keep all benefit-led and true-to-type.; Minor: 'costs less than lunch' is borderline-cringe filler; softened to keep premium voice.
+================================================================================

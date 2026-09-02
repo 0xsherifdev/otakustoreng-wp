@@ -1,0 +1,265 @@
+This is a copywriting deliverable. I've reviewed the document against the full section map — all 13 sections are present and filled. Below is the tightened, on-voice final version: punchier copy, no fluff, no "official/licensed" claims, every image prompt copy-paste-ready in Dark-Manga style with aspect ratio and "no text overlay," ₦ pricing, and a non-Nigeria-specific tagline.
+
+# OTAKU STORE NG — HOMEPAGE CONTENT REPLACEMENT MAP (Minimog Fashion Demo)
+
+Voice: fan-to-fan, culture-forward, premium anime-streetwear. Tagline: Wear the roster.
+
+---
+
+## SECTION 1 — ANNOUNCEMENT BAR (rotating, short)
+
+REPLACE WITH: Free shipping over ₦50,000 — fast delivery across Nigeria and worldwide.
+REPLACE WITH: New drops every week. Restocks land here first.
+REPLACE WITH: Anime jerseys from ₦23,000 — secure checkout, easy returns.
+
+---
+
+## SECTION 2 — HEADER
+
+Logo wordmark idea:
+REPLACE WITH: OTAKU STORE NG (bold condensed sans, the "NG" in manga-red #E2261C as a small superscript tag)
+
+Primary nav menu items:
+REPLACE WITH: Home
+REPLACE WITH: Shop
+REPLACE WITH: New In
+REPLACE WITH: Anime
+REPLACE WITH: Blog
+REPLACE WITH: Track Order
+REPLACE WITH: Contact
+
+Search placeholder text:
+REPLACE WITH: Search your next grail — Gojo jersey, Zoro katana, Akatsuki chain…
+
+Left "SHOP BY CATEGORIES" mega-menu:
+REPLACE WITH: SHOP BY CATEGORIES
+
+Apparel
+REPLACE WITH: Jerseys, T-Shirts, Hoodies, Kimono, Trousers, Shorts, Headwear, Shoes, Ties, Cosplay
+
+Accessories
+REPLACE WITH: Chains & Necklaces, Bracelets, Rings, Wallets, Lanyards, Phone Cases, AirPods Cases, Laptop Skins, Masks, Tote Bags, Couple Accessories
+
+Collectibles
+REPLACE WITH: Figurines, Katana & Weapons, Stickers, Bottles & Drinkware
+
+Home & Decor
+REPLACE WITH: Room Decor, LED Lamps
+
+Shop by Anime
+REPLACE WITH: Naruto, One Piece, Attack on Titan, Demon Slayer, Bleach, Jujutsu Kaisen, Dragon Ball, Hunter x Hunter, Berserk, Solo Leveling, Chainsaw Man, My Hero Academia, Tokyo Revengers
+
+---
+
+## SECTION 3 — HERO SLIDER (2 slides)
+
+SLIDE 1
+Eyebrow REPLACE WITH: SIGNATURE DROP — ALL-OVER-PRINT JERSEYS
+Headline REPLACE WITH: Wear the roster.
+Subtext REPLACE WITH: Full-print anime jerseys that turn heads — Gojo, Itachi, Luffy and more, from ₦23,000.
+CTA button label REPLACE WITH: Shop Jerseys
+Target: /product-category/apparel/jerseys
+
+IMAGE PROMPT (Google Flow): Cinematic full-body shot of a confident young man in a vivid all-over-print anime-inspired basketball jersey, low hero angle, dynamic streetwear pose dead center. High-contrast monochrome studio scene in ink black #111111 and paper white #FAFAFA with a single bold manga-red #E2261C accent on the jersey trim and one sharp light streak. Heavy manga halftone screentone dots in the background, diagonal manga speed lines radiating from the subject, subtle ink splatter at the edges. Dramatic rim lighting, premium editorial mood. Negative space on the right third for headline overlay. Aspect ratio 16:9. No text overlay, no watermark.
+
+SLIDE 2
+Eyebrow REPLACE WITH: COLLECTOR-GRADE STEEL
+Headline REPLACE WITH: Grails worth chasing.
+Subtext REPLACE WITH: Display-ready katana and figures for the shelf you actually flex — every piece earns its place.
+CTA button label REPLACE WITH: Shop Collectibles
+Target: /product-category/collectibles
+
+IMAGE PROMPT (Google Flow): Cinematic still life of a sleek anime-style display katana on a black stand beside a premium collector figurine, dramatic three-quarter composition. Ink black #111111 backdrop, paper white #FAFAFA key light raking across the blade, single manga-red #E2261C glow reflecting off the steel edge. Halftone screentone gradient behind the subjects, fine ink-brush splatter in the corners, faint manga panel border framing. Moody premium product lighting with deep shadows. Negative space on the left for headline overlay. Aspect ratio 16:9. No text overlay, no watermark.
+
+---
+
+## SECTION 4 — THREE PROMO BANNER CARDS (grid under hero)
+
+CARD 1
+Title REPLACE WITH: Hoodie Season
+Line REPLACE WITH: Sukuna, Kaneki and Gojo heat — the everyday staple you'll live in.
+CTA REPLACE WITH: Shop Hoodies
+
+IMAGE PROMPT (Google Flow): Tight crop of a dark anime-graphic hoodie, hood up, on a faceless mannequin, streetwear flat-lay energy. Ink black #111111 and paper white #FAFAFA, single manga-red #E2261C accent on the drawstrings. Halftone dot texture, light speed lines, ink splatter accent. Studio lit, premium. Aspect ratio 1:1. No text overlay, no watermark.
+
+CARD 2
+Title REPLACE WITH: Chains & Drip
+Line REPLACE WITH: Akatsuki clouds, Uchiha crests and dog-tags — entry grails that hit hard.
+CTA REPLACE WITH: Shop Accessories
+
+IMAGE PROMPT (Google Flow): Macro close-up of a stainless anime-inspired pendant chain with a cloud-motif charm resting on textured black paper, dramatic single-source light. Ink black #111111 base, paper white #FAFAFA highlights on the metal, single manga-red #E2261C glint. Halftone screentone background, subtle ink splatter, manga panel framing. High contrast, premium jewelry mood. Aspect ratio 1:1. No text overlay, no watermark.
+
+CARD 3
+Title REPLACE WITH: Kimono & Haori
+Line REPLACE WITH: Statement layers that read fan from across the room.
+CTA REPLACE WITH: Shop Kimono
+
+IMAGE PROMPT (Google Flow): Three-quarter shot of a flowing anime-style haori robe worn open over a plain tee, fabric caught mid-motion, confident pose. Ink black #111111 and paper white #FAFAFA palette, single manga-red #E2261C accent on the inner lining. Halftone dots, diagonal speed lines following the fabric, ink splatter edges. Cinematic studio lighting. Aspect ratio 1:1. No text overlay, no watermark.
+
+---
+
+## SECTION 5 — POPULAR CATEGORIES (icon row, 7 chips)
+
+REPLACE WITH: Jerseys
+REPLACE WITH: Hoodies
+REPLACE WITH: Chains & Necklaces
+REPLACE WITH: Katana & Weapons
+REPLACE WITH: Figurines
+REPLACE WITH: T-Shirts
+REPLACE WITH: Phone Cases
+
+IMAGE PROMPT (Google Flow): A clean row of seven matching circular category icons, each a minimalist line-art glyph (jersey, hoodie, pendant chain, katana, figurine, t-shirt, phone case) in bold paper-white #FAFAFA strokes on ink-black #111111 circular badges, with a single manga-red #E2261C accent dot on each. Subtle halftone screentone fill inside each circle, consistent stroke weight, flat premium manga-streetwear style, evenly spaced. Aspect ratio 16:9 (icon strip). No text overlay, no watermark.
+
+---
+
+## SECTION 6 — TRENDING COLLECTION (3 large cards)
+
+CARD 1
+Title REPLACE WITH: Jujutsu Kaisen
+Subtext REPLACE WITH: Gojo and Sukuna fits front and center — the roster everyone's chasing.
+
+IMAGE PROMPT (Google Flow): Bold cinematic collection cover for a Jujutsu-Kaisen-inspired apparel drop — a model in a dark anime-graphic jersey and hoodie, dramatic low angle, cursed-energy mood. Ink black #111111 and paper white #FAFAFA, single manga-red #E2261C energy accent. Heavy halftone dots, sharp speed lines, ink splatter. Premium editorial. Aspect ratio 3:4. No text overlay, no watermark.
+
+CARD 2
+Title REPLACE WITH: One Piece
+Subtext REPLACE WITH: Straw Hat gear, Zoro blades and crew drip — set sail for your shelf.
+
+IMAGE PROMPT (Google Flow): Cinematic collection cover for a One-Piece-inspired range — a display katana and an anime jersey arranged in a dynamic diagonal flat-lay, adventurous energy. Ink black #111111 and paper white #FAFAFA, single manga-red #E2261C accent. Halftone screentone, speed lines, brush-ink splatter, manga panel border. Aspect ratio 3:4. No text overlay, no watermark.
+
+CARD 3
+Title REPLACE WITH: Demon Slayer
+Subtext REPLACE WITH: Nichirin blades and breathing-style fits — grails that earn their place.
+
+IMAGE PROMPT (Google Flow): Cinematic collection cover for a Demon-Slayer-inspired range — a Nichirin-style display blade leaning beside a folded patterned haori, moody dramatic light. Ink black #111111 and paper white #FAFAFA, single manga-red #E2261C glow on the blade edge. Halftone dots, speed lines, ink splatter, panel framing. Aspect ratio 3:4. No text overlay, no watermark.
+
+---
+
+## SECTION 7 — WHAT'S TRENDING THIS WEEK (feature block)
+
+LEFT FEATURE PANEL
+Badge REPLACE WITH: TRENDING THIS WEEK
+Headline REPLACE WITH: This week's heat, front and center.
+Paragraph REPLACE WITH: The fits and grails moving fastest right now, curated fan-to-fan. Full-print jerseys from ₦23,000, collector steel up to ₦250,000 — every piece earns its place on your roster. Fast delivery across Nigeria and worldwide, secure checkout, easy returns.
+CTA REPLACE WITH: Shop the Drop
+
+PRODUCT SPOTLIGHT CARDS
+Card 1 name REPLACE WITH: Gojo All-Over-Print Jersey
+Card 1 price REPLACE WITH: ₦23,000
+Card 2 name REPLACE WITH: Tanjiro Nichirin Display Blade
+Card 2 price REPLACE WITH: ₦78,500
+
+IMAGE PROMPT (Google Flow): Vertical hero feature panel — a confident fan styled in a full-print anime jersey, arms crossed, power-level confidence, lit cinematically from one side. Ink black #111111 and paper white #FAFAFA, single bold manga-red #E2261C accent stripe behind the subject. Strong halftone screentone wall, diagonal manga speed lines, ink splatter at the base, faint manga panel outline. Premium streetwear editorial. Aspect ratio 3:4. No text overlay, no watermark.
+
+---
+
+## SECTION 8 — FEATURED PRODUCTS (tabbed grid)
+
+Heading REPLACE WITH: Built for your roster
+Intro line REPLACE WITH: Hand-picked fits and grails across the series you rep — new gear lands every week.
+
+Tab labels:
+REPLACE WITH: Best Sellers
+REPLACE WITH: Jerseys
+REPLACE WITH: Hoodies
+REPLACE WITH: Naruto
+REPLACE WITH: One Piece
+REPLACE WITH: Jujutsu Kaisen
+REPLACE WITH: Collectibles
+
+SALE-badge note REPLACE WITH: Products on promo show a red "SALE" badge with the strike-through price and the live ₦ deal — no codes needed.
+
+---
+
+## SECTION 9 — PROMO / DEAL BAR
+
+Headline REPLACE WITH: Suit up. Jerseys are moving.
+Deal line REPLACE WITH: Signature all-over-print jerseys — was ₦28,000, now ₦23,000. Limited weekly run.
+CTA REPLACE WITH: Claim Yours
+
+IMAGE PROMPT (Google Flow): Wide cinematic background band — extreme close-up of folded vivid anime jerseys stacked at an angle, motion-blur energy, with a clear darker zone on the left for headline text. Ink black #111111 and paper white #FAFAFA, single bold manga-red #E2261C accent burst on the right. Dense halftone dots, aggressive diagonal speed lines, ink splatter. High contrast, premium hype. Aspect ratio 21:9 (wide banner). No text overlay, no watermark.
+
+---
+
+## SECTION 10 — SERVICE ICONS ROW (4 trust badges)
+
+Badge 1 title REPLACE WITH: Fast Delivery, NG & Worldwide
+Badge 1 line REPLACE WITH: Quick nationwide dispatch and reliable worldwide shipping to your door.
+
+Badge 2 title REPLACE WITH: Quality Guaranteed
+Badge 2 line REPLACE WITH: Built to last, backed by easy 7-day returns if it's not your fit.
+
+Badge 3 title REPLACE WITH: Fan-to-Fan Support
+Badge 3 line REPLACE WITH: Real otaku on chat and WhatsApp, before and after you buy.
+
+Badge 4 title REPLACE WITH: Secure Checkout
+Badge 4 line REPLACE WITH: Encrypted payments in Naira — your details stay locked down.
+
+---
+
+## SECTION 11 — FOOTER
+
+Brand blurb (2 lines)
+REPLACE WITH: Otaku Store NG is your home for anime-inspired fits, gear and grails — jerseys, hoodies, chains, katana and collector pieces.
+REPLACE WITH: Wear the roster. Shipping fast across Nigeria and worldwide.
+
+Column 1 — FIND IT FAST
+REPLACE WITH: New In
+REPLACE WITH: Best Sellers
+REPLACE WITH: Anime Jerseys
+REPLACE WITH: Shop by Anime
+REPLACE WITH: Sale & Deals
+
+Column 2 — CUSTOMER CARE
+REPLACE WITH: Track Your Order
+REPLACE WITH: Shipping & Delivery
+REPLACE WITH: Returns & Exchanges
+REPLACE WITH: Size Guide
+REPLACE WITH: FAQs
+
+Column 3 — SHOP
+REPLACE WITH: Apparel
+REPLACE WITH: Accessories
+REPLACE WITH: Collectibles
+REPLACE WITH: Home & Decor
+REPLACE WITH: Gift Cards
+
+Column 4 — COMPANY
+REPLACE WITH: About Otaku Store NG
+REPLACE WITH: Contact Us
+REPLACE WITH: Blog
+REPLACE WITH: Privacy Policy
+REPLACE WITH: Terms of Service
+
+Newsletter heading REPLACE WITH: Get first dibs on drops.
+Newsletter subtext REPLACE WITH: Join the roster for early access to new fits, restocks and members-only deals.
+Newsletter button label REPLACE WITH: Join the Roster
+Consent microcopy REPLACE WITH: By subscribing you agree to receive marketing emails. Unsubscribe anytime — no hard feelings.
+
+Social handles line REPLACE WITH: Follow @otakustoreng on Instagram · TikTok · X · WhatsApp
+Payment methods line REPLACE WITH: Secure payments: Paystack · Flutterwave · Visa · Mastercard · Verve · Bank Transfer
+Copyright line REPLACE WITH: © 2026 Otaku Store NG. All rights reserved. Anime-inspired fan merch — not affiliated with any series or studio.
+
+---
+
+## SECTION 12 — SEO / META
+
+Title (<=60 chars)
+REPLACE WITH: Otaku Store NG | Anime Jerseys, Hoodies & Grails (48 chars)
+
+Meta description (<=155 chars)
+REPLACE WITH: Shop anime-inspired jerseys, hoodies, chains, katana & figures. Wear the roster. Jerseys from ₦23,000. Fast NG & worldwide delivery. (130 chars)
+
+---
+
+## SECTION 13 — BRAND BONUS
+
+Final chosen tagline
+REPLACE WITH: Wear the roster.
+
+3 alternate taglines
+REPLACE WITH: Gear up to your power level.
+REPLACE WITH: Grails worth chasing.
+REPLACE WITH: Your fit. Your roster. Front and center.
+
+Brand voice guide (2-3 sentences)
+REPLACE WITH: Speak fan-to-fan as a confident insider who treats anime fandom as wearable identity — bold, culture-forward hype with zero cringe and never more than one earned emoji. Blend a collector's reverence ("every piece earns its place," "grails worth chasing") with streetwear swagger ("turn heads," "front and center"), always addressing the fan directly as your roster, your fit, your shelf. Keep the energy combat-ready but premium and cinematic, and ground every claim in real specifics — jerseys from ₦23,000, secure checkout, fast delivery across Nigeria and worldwide — instead of empty hype.

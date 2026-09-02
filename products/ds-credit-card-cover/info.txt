@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Ds Credit Card Cover
+SLUG         : ds-credit-card-cover
+BUMPA ID     : 1395770
+WOO TYPE     : simple
+PARENT SKU   : OSN-1395770
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Stickers
+  - Shop by Anime > Demon Slayer
+
+TAGS: Demon Slayer, Tanjiro, Nezuko, credit card skin, card sticker, anime card cover, vinyl card skin, anime stickers, Kimetsu no Yaiba, debit card skin
+FRANCHISE: Demon Slayer    CHARACTER: Tanjiro &amp; Nezuko Kamado
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦3,500
+Total stock   : 10
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Tanjiro &amp; Nezuko ride your bank card.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Turn an ordinary bank card into a statement piece. This Demon Slayer-inspired vinyl card skin wraps Tanjiro and Nezuko across the front in vivid colour, with a precise chip cutout and a slim, bubble-free finish that fits standard cards.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Reach for your card and let the demon slayers do the talking. This Demon Slayer-inspired credit/debit card cover puts Tanjiro and Nezuko Kamado front and centre, locked in motion against a clash of ember-red and water-blue. The vinyl print stays vivid and fade-resistant, so your everyday card looks like a collector piece every time it leaves your wallet.</p><p>The skin is thin enough to slide cleanly through ATM and POS slots, with a clean cutout so your EMV chip stays exposed and functional. A light-grip adhesive backing keeps it flush without leaving residue when you peel it off. Fan-made, anime-inspired art - not affiliated with or endorsed by the official rights holders.</p><ul><li>Design: Tanjiro &amp; Nezuko (Demon Slayer-inspired), shown as design NO. 001</li><li>Material: durable waterproof vinyl with a smooth finish</li><li>Fit: sized for standard credit/debit/bank cards</li><li>Chip cutout: pre-cut opening keeps your EMV chip usable</li><li>Adhesive: low-residue backing for clean, bubble-free application</li><li>Coverage: front-face skin; does not block magnetic stripe use</li><li>Care: wipe clean with a dry or lightly damp cloth</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Demon Slayer-inspired Tanjiro &amp; Nezuko art in vivid, fade-resistant colour
+  • Pre-cut chip opening keeps your EMV card fully usable
+  • Slim waterproof vinyl glides through ATM and POS slots
+  • Low-residue adhesive applies bubble-free and peels clean
+  • Sized to fit standard credit, debit and bank cards
+  • Ships from Nigeria, nationwide and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (51 chars)        : Demon Slayer Card Skin - Tanjiro &amp; Nezuko Cover
+Meta Description (148 chars) : Demon Slayer-inspired credit card skin with Tanjiro &amp; Nezuko. Slim waterproof vinyl, pre-cut chip slot, fits standard cards. ₦3,500. Ships from.
+Focus keyword                       : Demon Slayer credit card skin
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Demon Slayer-inspired credit card skin featuring Tanjiro and Nezuko Kamado, shown front and back with chip cutout.
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of an anime credit-card skin applied to a bank card, ink black #111111 background with paper white #FAFAFA panel framing, single manga-red #E2261C accent line. Halftone dot shading, sharp speed lines and a small ink splatter behind the card; the card floats at a three-quarter angle catching cinematic rim light, EMV chip cutout clearly visible. Premium, high-contrast manga aesthetic, crisp focus, subtle drop shadow, no text overlays.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

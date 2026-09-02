@@ -1,0 +1,73 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Akastuki Trouser
+SLUG         : akastuki-trouser
+BUMPA ID     : 1154340
+WOO TYPE     : simple
+PARENT SKU   : OSN-1154340
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Trousers
+  - Shop by Anime > Naruto
+
+TAGS: Akatsuki trousers, Naruto joggers, anime trousers, Akatsuki cloud, Naruto merch, anime joggers, unisex anime pants, Itachi
+FRANCHISE: Naruto    CHARACTER: Akatsuki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦16,000
+Total stock   : 99
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Red-cloud rogue energy, built into everyday joggers.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Anime-inspired Akatsuki trousers cut from thick cotton for all-day comfort. Elastic drawstring waist, unisex fit, and that iconic red-cloud rogue energy. Pair with your matching jersey or hoodie and wear the roster.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the most feared rogue ninja organisation in the Hidden Villages with our Akatsuki Trouser, a fan-favourite design built for fans who live in their fits. The dark base and signature red-cloud-inspired styling nod straight to Itachi, Pain and the rest of the roster, so you carry that quiet-menace energy from the gym to the streets.</p><p>Made from thick cotton with a comfortable elastic drawstring waist, these trousers are an easy unisex pull-on that holds its shape and moves with you. Style them with the matching jersey or hoodie for a full Akatsuki set.</p><ul><li>Anime-inspired Akatsuki (Naruto) design with red-cloud rogue styling</li><li>Thick cotton fabric for structure and all-day comfort</li><li>Elastic waistband with adjustable drawstring for a dialled-in fit</li><li>Unisex cut suits a wide range of body types</li><li>Side pockets for everyday carry</li><li>Pairs with the matching Akatsuki jersey or hoodie</li><li>Machine washable; turn inside out and wash cold to protect the print</li><li>Fan-made and anime-inspired; not official or affiliated with any rights holder</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Akatsuki red-cloud rogue styling from Naruto
+  • Thick cotton build that keeps its shape
+  • Elastic drawstring waist for a custom fit
+  • Unisex cut, easy everyday pull-on
+  • Matches the Akatsuki jersey and hoodie set
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (56 chars)        : Akatsuki Trouser | Naruto Anime Joggers | Otaku Store NG
+Meta Description (152 chars) : Anime-inspired Akatsuki trousers in thick cotton with an elastic drawstring waist. Unisex Naruto-style joggers. Ships nationwide and worldwide. ₦16,000.
+Focus keyword                       : Akatsuki trousers
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Akatsuki-inspired dark cotton trousers with red-cloud Naruto styling, front view
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of black cotton joggers with red-cloud Akatsuki-inspired motif, laid flat on paper-white #FAFAFA backdrop, ink black #111111 shadows, single manga-red #E2261C accent on the cloud detail, halftone dot texture and subtle speed lines framing the trousers, ink splatter in corners, manga panel borders, premium cinematic lighting, crisp focus on the drawstring waistband and fabric weave
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

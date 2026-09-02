@@ -1,0 +1,81 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Akastuki Wallet
+SLUG         : akastuki-wallet
+BUMPA ID     : 2789161
+WOO TYPE     : simple
+PARENT SKU   : OSN-2789161
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Wallets
+  - Shop by Anime > Naruto
+
+TAGS: Akatsuki wallet, Naruto wallet, anime wallet, bifold wallet, PU leather wallet, red cloud, Sharingan, Naruto merch
+FRANCHISE: Naruto    CHARACTER: Akatsuki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦9,000
+Total stock   : 9
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the crimson clouds everywhere you go
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+An Akatsuki-inspired bifold wallet in black PU leather, splashed with the iconic red clouds and a bold Sharingan graphic. Slim everyday carry with card slots and a note compartment for fans who keep the roster close.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Rep the rogue ninja organisation every time you pay. This Akatsuki bifold wraps black PU leather in the signature crimson red-cloud pattern, anchored by a striking Sharingan emblem and the classic Naruto wordmark. Slim enough to disappear into a pocket, loud enough to start a conversation at the till.</p>
+<p>Built for daily carry, it keeps your cards, cash and transit pass organised behind a finish that wipes clean and ages well. A fan-made tribute for Naruto die-hards, anime-inspired and not affiliated with any official rights holder.</p>
+<ul>
+<li>Bifold wallet in durable PU (faux) leather</li>
+<li>All-over Akatsuki red-cloud print with Sharingan graphic and Naruto wordmark</li>
+<li>Multiple interior card slots for everyday cards and transit passes</li>
+<li>Full-width note compartment for cash and receipts</li>
+<li>Slim profile designed for pocket or bag everyday carry</li>
+<li>Contrast stitching with red trim edge detailing</li>
+<li>Wipe-clean surface for low-maintenance care</li>
+<li>One size; single design as shown</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Iconic Akatsuki red-cloud print on black PU leather
+  • Bold Sharingan graphic with the Naruto wordmark
+  • Slim bifold with multiple card slots plus a note compartment
+  • Wipe-clean finish for easy everyday carry
+  • Fan-made Naruto tribute, not affiliated with official rights holders
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (49 chars)        : Akatsuki Wallet | Naruto Bifold PU Leather Wallet
+Meta Description (151 chars) : Akatsuki bifold wallet in black PU leather with the red-cloud print, Sharingan graphic and card slots. Slim Naruto-inspired everyday carry. Ships from.
+Focus keyword                       : Akatsuki wallet
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black PU leather Akatsuki bifold wallet with red-cloud print, Sharingan graphic and Naruto wordmark held in hand
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a black PU leather bifold wallet covered in the Akatsuki crimson red-cloud pattern with a Sharingan emblem, opened slightly to reveal card slots and a folded note. Ink black #111111 backdrop, paper white #FAFAFA rim light, single manga-red #E2261C accent. Halftone dot texture, dramatic speed lines and ink-splatter framing, manga panel borders. Premium, cinematic, high-contrast, sharp macro detail on the contrast stitching and red trim.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

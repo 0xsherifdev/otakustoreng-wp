@@ -1,0 +1,74 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Gojo Jersey
+SLUG         : gojo-jersey
+BUMPA ID     : 2193786
+WOO TYPE     : variable
+PARENT SKU   : OSN-2193786
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Jerseys
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Gojo, Satoru Gojo, Jujutsu Kaisen, anime jersey, all-over print jersey, anime streetwear, JJK merch, dye-sublimated jersey
+FRANCHISE: Jujutsu Kaisen    CHARACTER: Satoru Gojo
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦23,000
+Total stock   : 1
+VARIATIONS (attribute: Size)
+  L              | ₦23,000 | stock 0    | SKU OSN-2193786-L
+  XL             | ₦23,000 | stock 0    | SKU OSN-2193786-XL
+  2XL            | ₦23,000 | stock 1    | SKU OSN-2193786-2XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Unleash the Honored One. Limitless edge-to-edge print.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel the strongest sorcerer with this all-over-print Gojo jersey. Vivid edge-to-edge Jujutsu Kaisen graphics on lightweight, breathable polyester. Unisex, true-to-size, and built for cons, watch parties, and everyday anime streetwear.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Throughout heaven and earth, you alone are the honored one. This Gojo jersey brings Satoru Gojo's Limitless energy to your fit with vivid, dye-sublimated graphics that run edge to edge. Bold manga-panel detail, that signature six eyes presence, and high-contrast colour that holds up under convention lights and camera flashes alike.</p><p>Cut for everyday anime streetwear and built to layer, it is lightweight and breathable so you stay cool through marathon watch parties, cosplay days, and late-night episode binges. Confident, comfortable, and unmistakably Jujutsu Kaisen. Ships fast nationwide and worldwide with secure checkout and easy returns.</p><ul><li><strong>Material:</strong> 100% polyester, lightweight and breathable</li><li><strong>Print:</strong> All-over dye-sublimated graphic, vivid edge-to-edge, fade-resistant</li><li><strong>Fit:</strong> Unisex baseball/jersey cut, relaxed and easy to layer</li><li><strong>Sizing:</strong> True to size; available in L, XL, 2XL. Between sizes? Size up.</li><li><strong>Care:</strong> Machine wash cold inside-out, do not iron the print directly, hang dry</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • All-over-print Satoru Gojo design with vivid edge-to-edge Jujutsu Kaisen graphics
+  • Lightweight, breathable 100% polyester for all-day comfort
+  • Unisex relaxed fit, true to size in L, XL and 2XL
+  • Dye-sublimated print that stays bold wash after wash
+  • Perfect for conventions, watch parties and streetwear layering
+  • Fast nationwide + worldwide delivery with secure checkout
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (49 chars)        : Gojo Anime Jersey | Jujutsu Kaisen All-Over Print
+Meta Description (153 chars) : Shop the Gojo anime jersey: all-over-print Jujutsu Kaisen graphics on breathable polyester. Unisex L-2XL. ₦23,000. Fast worldwide shipping, easy returns.
+Focus keyword                       : Gojo anime jersey
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Gojo Satoru all-over-print Jujutsu Kaisen anime jersey with vivid edge-to-edge graphics, front view
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga aesthetic studio shot of a Gojo Satoru anime jersey worn by a confident model on a stark ink-black #111111 background. High-contrast monochrome with halftone screentone dots and bold manga speed lines radiating outward; a single manga-red #E2261C accent splash for energy. Paper-white #FAFAFA rim lighting carves the silhouette, brush-ink splatter at the edges of a manga-panel layout. Premium anime-streetwear mood, cinematic, sharp detail on the all-over print fabric, bold and dramatic.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

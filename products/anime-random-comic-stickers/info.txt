@@ -1,0 +1,70 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Anime Random Comic Stickers
+SLUG         : anime-random-comic-stickers
+BUMPA ID     : 1831215
+WOO TYPE     : simple
+PARENT SKU   : OSN-1831215
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Stickers
+
+TAGS: anime stickers, manga stickers, comic stickers, vinyl stickers, laptop stickers, manga panel, waterproof stickers, sticker pack
+FRANCHISE: Generic Anime    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦1,000
+Total stock   : 98
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Black-and-white manga panels, straight to your gear
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A 10-piece pack of black-and-white manga panel stickers pulling iconic moments across multiple series. Waterproof, fade-resistant vinyl that sticks to laptops, bottles, phones and notebooks. One random mix, endless drip.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Cover your gear in raw manga energy. This <strong>Anime Random Comic Stickers</strong> pack collects black-and-white panels, splash pages and cover art from across the manga world into one drop of 10 vinyl stickers. Think monochrome ink, dramatic frames and instantly recognisable scenes from your favourite series, all in that classic comic-page look.</p><p>Each pack is a surprise mix, so no two layouts are the same. Printed on durable, waterproof vinyl with vivid, fade-resistant ink, they hold up to daily handling and slap clean onto almost any smooth surface. Fan-made, anime-inspired art; not affiliated with or endorsed by any studio or publisher.</p><ul><li>Pack of 10 mixed manga-panel stickers (random assortment)</li><li>Black-and-white comic-page artwork from multiple anime series</li><li>Waterproof, durable vinyl with fade-resistant print</li><li>Sticks to laptops, water bottles, phones, notebooks, skateboards and more</li><li>Peel-and-stick backing for quick application on smooth surfaces</li><li>Fan-made / anime-inspired design, not officially licensed</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • 10 black-and-white manga panel stickers per pack
+  • Random mix spanning multiple anime series
+  • Waterproof, fade-resistant vinyl that survives daily use
+  • Sticks to laptops, bottles, phones and notebooks
+  • Peel-and-stick application on smooth surfaces
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (51 chars)        : Anime Random Comic Stickers - 10pc Manga Panel Pack
+Meta Description (154 chars) : 10-piece black-and-white manga panel sticker pack. Waterproof, fade-resistant vinyl for laptops, bottles, phones and notebooks. A random anime mix, ships.
+Focus keyword                       : anime comic stickers
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Fan-out pack of black-and-white anime manga panel vinyl stickers featuring scenes from multiple series
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot: a fanned-out stack of black-and-white manga panel vinyl stickers arranged on an ink-black #111111 surface, single manga-red #E2261C accent strip slashing diagonally behind them, paper-white #FAFAFA highlights on the sticker edges. Halftone dot texture and sharp speed lines radiating from the stack, subtle ink splatter in the corners, manga panel framing. Premium, cinematic top-down lighting, high contrast, crisp focus.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

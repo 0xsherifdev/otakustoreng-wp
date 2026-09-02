@@ -1,0 +1,83 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Ace Beads
+SLUG         : ace-beads
+BUMPA ID     : 1920085
+WOO TYPE     : simple
+PARENT SKU   : OSN-1920085
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Rings
+  - Shop by Anime > One Piece
+
+TAGS: Ace bracelet, One Piece bracelet, Whitebeard pirates, Portgas D Ace, anime bead bracelet, red beaded bracelet, anime accessories, One Piece merch
+FRANCHISE: One Piece    CHARACTER: Portgas D. Ace
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦5,500
+Total stock   : 7
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Whitebeard-crew faces on a bold red bead band
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Stretch red bead bracelet topped with twin Whitebeard-crew face charms in blue enamel and steel-tone. An Ace-inspired One Piece accessory built for daily wear, easy to stack and slip on without a clasp.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Fly the colours of the Whitebeard crew. The Ace Beads bracelet pairs a run of glossy manga-red beads with two iconic face charms, one frowning and one grinning, finished in deep blue enamel against a steel-tone frame. It is a clean nod to Portgas D. Ace and his roots, sized for everyday rotation and built to read loud against a plain fit.</p>
+<p>The elastic cord slips on without a clasp and gives a snug, comfortable hold, while the polished beads and tarnish-resistant charm faces keep their shine through daily wear. Stack it solo for a hit of red or layer it with your other anime pieces.</p>
+<ul>
+<li><strong>Design:</strong> Ace / Whitebeard-crew twin face charms (frown and grin) in blue enamel with steel-tone detailing</li>
+<li><strong>Beads:</strong> glossy red round beads on a flexible stretch cord</li>
+<li><strong>Closure:</strong> no clasp, elastic slip-on fit</li>
+<li><strong>Finish:</strong> polished, tarnish-resistant for daily wear</li>
+<li><strong>Wear:</strong> unisex, easy to stack and layer</li>
+<li><strong>Care:</strong> keep dry, wipe with a soft cloth, store away from moisture</li>
+<li><strong>In the box:</strong> 1x Ace Beads bracelet</li>
+</ul>
+<p>Fan-made, anime-inspired design. Not official or affiliated with any rights holder.</p>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Twin Whitebeard-crew face charms inspired by Portgas D. Ace
+  • Glossy red beads with blue enamel and steel-tone detail
+  • No-clasp elastic slip-on fit for everyday wear
+  • Polished, tarnish-resistant finish that holds its shine
+  • Unisex piece that stacks and layers with ease
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (46 chars)        : Ace Beads Bracelet | One Piece Anime Accessory
+Meta Description (150 chars) : Ace-inspired One Piece red bead bracelet with twin Whitebeard-crew face charms. Tarnish-resistant, no-clasp slip-on fit. Ships from Nigeria. Shop for.
+Focus keyword                       : Ace beads bracelet
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Red beaded Ace bracelet with twin blue and silver Whitebeard-crew face charms, One Piece inspired
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a red beaded bracelet with two round Whitebeard-crew face charms (one frowning, one grinning) in blue enamel and steel-tone, laid on ink black #111111 surface with paper white #FAFAFA panel edges. Single manga-red #E2261C accent in speed lines and a burst of halftone dots radiating behind the bracelet, subtle ink splatter, sharp manga panel framing, cinematic rim light, premium high-detail catalog photography.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

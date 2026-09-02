@@ -1,0 +1,92 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Gojou Double Colour Hoodie
+SLUG         : gojou-double-colour-hoodie
+BUMPA ID     : 1125349
+WOO TYPE     : variable
+PARENT SKU   : OSN-1125349
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Gojo hoodie, Jujutsu Kaisen hoodie, Satoru Gojo, anime hoodie, double colour hoodie, JJK merch, anime streetwear, pullover hoodie
+FRANCHISE: Jujutsu Kaisen    CHARACTER: Satoru Gojo
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦22,000
+Total stock   : 499
+VARIATIONS (attribute: Size)
+  M              | ₦22,000 | stock 100  | SKU OSN-1125349-M
+  L              | ₦22,000 | stock 99   | SKU OSN-1125349-L
+  XL             | ₦22,000 | stock 100  | SKU OSN-1125349-XL
+  2XL            | ₦22,000 | stock 100  | SKU OSN-1125349-2XL
+  XXXL           | ₦22,000 | stock 100  | SKU OSN-1125349-XXXL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Two-tone Gojo heat for the strongest closet
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+An anime-inspired Jujutsu Kaisen pullover hoodie built around Satoru Gojo, with a bold double-colour panel design, brushed-fleece warmth and a relaxed unisex streetwear fit. Choose your slide at checkout and wear the roster.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the strongest sorcerer alive. The Gojou Double Colour Hoodie is an anime-inspired Jujutsu Kaisen piece that splits the silhouette into two contrasting panels, putting Satoru Gojo front and centre in a layered streetwear cut. Cinematic graphics, clean lines, premium feel — this is everyday armour for fans who want their fits to hit as hard as a Hollow Purple.</p>
+<p>Made from thick, cosy fabric with a brushed-fleece interior, it keeps you warm without feeling bulky, while the relaxed unisex fit layers easily over tees or under a jacket. A fan tribute, anime-inspired and not affiliated with or endorsed by the official rights holders.</p>
+<ul>
+<li>Pullover hoodie with bold two-tone double-colour panel design</li>
+<li>Satoru Gojo / Jujutsu Kaisen anime-inspired graphic</li>
+<li>Brushed-fleece interior for soft, cosy warmth</li>
+<li>Ribbed cuffs and hem to hold shape and lock in heat</li>
+<li>Roomy kangaroo front pocket</li>
+<li>Relaxed unisex streetwear fit</li>
+<li>Thick cotton fabric construction</li>
+<li>Sizes: M, L, XL, 2XL, XXXL</li>
+<li>Indicate the slide (first slide) you want at checkout</li>
+<li>Care: machine wash cold, inside-out; hang or line dry</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Two-tone double-colour panel design with Satoru Gojo front and centre
+  • Thick cotton with brushed-fleece interior for real warmth
+  • Ribbed cuffs and hem plus a roomy kangaroo pocket
+  • Relaxed unisex streetwear fit, sizes M to XXXL
+  • Pick your slide (first slide) at checkout
+  • Anime-inspired fan tribute, not affiliated with the official series
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (42 chars)        : Gojo Double Colour Hoodie | Jujutsu Kaisen
+Meta Description (148 chars) : Anime-inspired Gojo Jujutsu Kaisen double-colour pullover hoodie. Thick cotton, brushed-fleece warmth, unisex fit, sizes M-XXXL. Ships from Nigeria.
+Focus keyword                       : Gojo hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Two-tone double-colour pullover hoodie featuring an anime-inspired Satoru Gojo Jujutsu Kaisen graphic
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a two-tone pullover hoodie on an invisible mannequin, centred in a manga panel. Ink black #111111 background, paper white #FAFAFA garment highlights, single manga-red #E2261C accent on the drawstrings and a slashing speed line. Halftone dot shading, dramatic speed lines, subtle ink splatter framing the hood and kangaroo pocket. Premium, cinematic lighting, high contrast, sharp inked outlines, anime-inspired Jujutsu Kaisen Gojo energy without any logos or text.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

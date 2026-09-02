@@ -1,0 +1,70 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Luffy Led Lamb
+SLUG         : luffy-led-lamb
+BUMPA ID     : 3009383
+WOO TYPE     : simple
+PARENT SKU   : OSN-3009383
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Home & Decor > LED Lamps
+  - Shop by Anime > One Piece
+
+TAGS: Luffy LED lamp, One Piece LED lamp, Gear 5 Luffy, anime night light, 3D illusion lamp, One Piece desk lamp, anime LED lamp, Monkey D Luffy
+FRANCHISE: One Piece    CHARACTER: Monkey D. Luffy
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦16,000
+Total stock   : 9
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Gear 5 glow for the King of the Pirates' desk
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Light up your shelf with this Luffy 3D illusion LED lamp. A laser-etched acrylic panel floats above a touch base, switching through multiple colours by remote. USB-powered, energy-efficient and built to anchor any One Piece setup.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Set sail after dark with the Luffy 3D illusion LED lamp, a fan-favourite centrepiece for any One Piece desk, shelf or gaming corner. The laser-etched acrylic panel captures Luffy mid-laugh in his Gear 5 stance, and when the LEDs hit the engraving the line art appears to leap off the base in glowing 3D. It is the kind of detail that makes mates stop and stare.</p><p>Cycle through multiple light colours with the included remote, or tap the base to switch on. USB-powered and low-heat, it runs cool enough to leave glowing all night, whether you want a bold red battle vibe or a soft blue ambient wash. Anime-inspired fan art, not affiliated with or endorsed by the official rights holders. Wear the roster, light the roster.</p><ul><li>Design: Monkey D. Luffy (Gear 5) laser-engraved on a clear acrylic panel</li><li>Effect: 3D optical illusion that glows along the etched line art</li><li>Lighting: multiple selectable colours via included remote control</li><li>Controls: touch button on the base plus IR remote (on/off, colour select)</li><li>Power: USB cable, energy-efficient low-heat LEDs (USB plug not included)</li><li>Base: stable round base with seated acrylic panel</li><li>Best for: desks, shelves, bedside tables, streaming and gaming setups</li><li>Care: wipe the panel with a soft dry cloth; keep away from water</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Gear 5 Luffy laser-etched into a glowing 3D acrylic panel
+  • Multiple light colours, switchable by the included remote
+  • Touch-button base for quick on/off control
+  • USB-powered with cool-running, energy-efficient LEDs
+  • Perfect One Piece centrepiece for desks, shelves and gaming setups
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (50 chars)        : Luffy LED Lamp | One Piece 3D Illusion Night Light
+Meta Description (155 chars) : Luffy Gear 5 3D illusion LED lamp. Laser-etched acrylic, multiple colours, remote and USB power. Anime-inspired One Piece desk light, shipped from Nigeria.
+Focus keyword                       : Luffy LED lamp
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Luffy Gear 5 One Piece 3D illusion LED lamp glowing green on a black touch base with colour remote
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product studio shot of a One Piece Luffy Gear 5 3D illusion acrylic LED lamp on a round black base, glowing manga-red #E2261C against an ink-black #111111 backdrop with paper-white #FAFAFA highlights. Halftone dot shading, dramatic speed lines and ink-splatter accents radiating from the lamp, framed in a clean manga panel. Premium, cinematic low-key lighting, crisp engraved line art catching the red glow, IR remote resting beside the base. No text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

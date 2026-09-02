@@ -1,0 +1,72 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Naruto Chain
+SLUG         : naruto-chain-1202928
+BUMPA ID     : 1202928
+WOO TYPE     : simple
+PARENT SKU   : OSN-1202928
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Naruto
+
+TAGS: Naruto chain, Naruto necklace, anime necklace, chakra crystal pendant, anime jewellery, crystal point necklace, Naruto accessories, otaku jewellery
+FRANCHISE: Naruto    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,500
+Total stock   : 501
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Channel your chakra in faceted blue crystal.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A Naruto-inspired crystal-point pendant in glowing chakra blue, capped in silver and strung on a soft black cord. Adjustable, lightweight and easy to layer. Fan-made for ninja-world believers who carry their energy everywhere.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Carry your chakra wherever the mission takes you. This Naruto-inspired necklace centres on a faceted crystal point in electric chakra blue, framed by polished silver-tone bead caps and hung from a smooth black cord. The hexagonal point catches the light like raw jutsu energy, giving you a clean, statement piece that reads anime without shouting it.</p><p>Built for everyday wear and easy to layer with your other chains, it slips on fast and adjusts to sit right at the collarbone. A confident, premium accent for any shinobi-at-heart. Fan-made and anime-inspired; not affiliated with or endorsed by the official rights holders.</p><ul><li>Faceted crystal-point pendant in chakra blue with silver-tone bead caps</li><li>Soft black cord chain with lobster-clasp closure</li><li>Adjustable length with extender so it sits where you want it</li><li>Tarnish-resistant metal findings for daily wear</li><li>Lightweight and comfortable to layer or wear solo</li><li>Wipe clean with a soft, dry cloth</li><li>One pendant necklace included</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Faceted chakra-blue crystal point with silver-tone caps
+  • Soft black cord with secure lobster-clasp closure
+  • Adjustable length, sits clean at the collarbone
+  • Tarnish-resistant findings, easy to wipe clean
+  • Lightweight enough to layer or rock solo
+  • Fan-made, anime-inspired Naruto piece
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (43 chars)        : Naruto Chain | Chakra Blue Crystal Necklace
+Meta Description (151 chars) : Naruto-inspired crystal-point necklace in chakra blue on a black cord. Adjustable, tarnish-resistant, easy to layer. Fan-made anime jewellery. Shop at.
+Focus keyword                       : Naruto chain necklace
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Naruto-inspired faceted blue crystal-point pendant with silver bead caps on a black cord necklace
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product studio shot of a faceted chakra-blue crystal-point pendant necklace with silver-tone bead caps on a black cord, laid on ink-black #111111 surface with paper-white #FAFAFA negative space; single manga-red #E2261C accent line and ink splatter; halftone dot shading, sharp speed lines radiating from the glowing crystal, manga panel framing; cinematic, premium, high contrast, dramatic rim light catching the crystal facets.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

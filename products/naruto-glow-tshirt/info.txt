@@ -1,0 +1,82 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Naruto Glow Tshirt
+SLUG         : naruto-glow-tshirt
+BUMPA ID     : 1131275
+WOO TYPE     : variable
+PARENT SKU   : OSN-1131275
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+  - Shop by Anime > Naruto
+
+TAGS: Naruto t-shirt, glow in the dark tee, anime t-shirt, Naruto Uzumaki shirt, Naruto merch, anime graphic tee, unisex anime shirt, Hidden Leaf
+FRANCHISE: Naruto    CHARACTER: Naruto Uzumaki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦12,000
+Total stock   : 500
+VARIATIONS (attribute: Size)
+  M              | ₦12,000 | stock 100  | SKU OSN-1131275-M
+  L              | ₦12,000 | stock 100  | SKU OSN-1131275-L
+  XL             | ₦12,000 | stock 100  | SKU OSN-1131275-XL
+  2XL            | ₦12,000 | stock 100  | SKU OSN-1131275-2XL
+  XXXL           | ₦12,000 | stock 100  | SKU OSN-1131275-XXXL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Light up the village with a glow-in-the-dark drop.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A Naruto-inspired graphic tee with a glow-in-the-dark print that charges in light and burns bright in the dark. Soft cotton, unisex regular fit, crew neck and fade-resistant ink built for everyday wear.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the Hidden Leaf's loudest ninja. The Naruto Glow Tee pairs a bold, anime-inspired Naruto Uzumaki graphic with a glow-in-the-dark print that soaks up light by day and lights up your night. It is the kind of tee that turns heads under sun and stars alike.</p><p>Cut in a unisex regular fit with a clean crew neck, it sits easy on the shoulders and layers like a dream under a hoodie or open shirt. Whether you are queuing up a binge or hitting the city, you wear the roster with confidence.</p><ul><li>Material: soft, breathable cotton for all-day comfort</li><li>Fit: unisex regular fit, true to size</li><li>Neckline: classic crew neck</li><li>Print: glow-in-the-dark Naruto graphic; charges in light, glows in the dark</li><li>Durability: durable, fade-resistant ink that holds through wash after wash</li><li>Sizes: M, L, XL, 2XL, XXXL</li><li>Care: machine wash cold, inside-out; do not iron directly over the print</li><li>Design: fan-made, anime-inspired; not affiliated with or endorsed by the rights holders</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Glow-in-the-dark Naruto graphic that charges in light and glows after dark
+  • Soft, breathable cotton for everyday comfort
+  • Unisex regular fit with a classic crew neck
+  • Durable, fade-resistant print built to survive the wash
+  • Size range from M up to XXXL
+  • Fan-made and anime-inspired, not an official product
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (47 chars)        : Naruto Glow Tshirt | Glow-in-the-Dark Anime Tee
+Meta Description (151 chars) : Naruto-inspired glow-in-the-dark tee in soft cotton. Unisex regular fit, crew neck, fade-resistant print. Sizes M-XXXL. Ships nationwide and worldwide.
+Focus keyword                       : Naruto glow t-shirt
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+  05.jpg  (gallery)
+  06.jpg  (gallery)
+  07.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Naruto-inspired glow-in-the-dark t-shirt with a Naruto Uzumaki graphic on soft cotton, unisex crew-neck fit
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a folded black anime t-shirt featuring a glowing manga-red Naruto Uzumaki graphic, ink black #111111 background, paper white #FAFAFA rim light, single manga-red #E2261C accent, halftone dot texture, dynamic speed lines and ink splatter framing the garment, premium cinematic lighting, sharp focus on glow-in-the-dark print, manga panel composition
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

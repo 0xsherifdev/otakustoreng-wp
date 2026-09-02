@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Itachi Wallet
+SLUG         : itachi-wallet-2789153
+BUMPA ID     : 2789153
+WOO TYPE     : simple
+PARENT SKU   : OSN-2789153
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Wallets
+  - Shop by Anime > Naruto
+
+TAGS: Itachi wallet, Naruto wallet, Sharingan wallet, anime wallet, Itachi Uchiha, Akatsuki, bifold wallet, anime card holder, PU leather wallet, Naruto merch
+FRANCHISE: Naruto    CHARACTER: Itachi Uchiha
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦9,000
+Total stock   : 500
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the Mangekyo. Slim bifold, everyday EDC.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Slim black bifold wallet inspired by Itachi Uchiha, fronted by a bold red Mangekyo Sharingan and inked cloud motifs. PU leather with card slots and a note compartment for clean everyday carry. Fan-made, anime-inspired.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Slip the Sharingan into your pocket. This Itachi Uchiha bifold puts a striking red Mangekyo emblem front and centre, framed by inked cloud motifs on a deep matte-black body. It is the kind of detail that lands instantly with anyone who knows the roster, while staying clean enough for daily use.</p><p>Built as a slim everyday carry, it folds flat, holds your essentials, and keeps the artwork crisp. A fan-made, anime-inspired piece for Naruto die-hards and Akatsuki appreciators alike.</p><ul><li>Character: Itachi Uchiha (Naruto-inspired) with red Mangekyo Sharingan print</li><li>Design: inked cloud motifs and stitched edges on a matte-black body</li><li>Material: durable PU (faux) leather</li><li>Layout: bifold with multiple card slots and a full-length note compartment</li><li>Profile: slim, lightweight everyday carry that folds flat</li><li>Use: ideal for cards, cash and folded receipts</li><li>Care: wipe clean with a dry or lightly damp cloth; keep away from prolonged moisture</li><li>Note: fan-made and anime-inspired; not official or affiliated with any rights holder</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold red Mangekyo Sharingan print across a matte-black bifold
+  • Slim, fold-flat profile for clean everyday carry
+  • Multiple card slots plus a full-length note compartment
+  • Durable PU leather with neat stitched edges
+  • Inked cloud motifs for that unmistakable Akatsuki look
+  • Fan-made, anime-inspired Naruto design
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (56 chars)        : Itachi Wallet | Naruto Sharingan Bifold | Otaku Store NG
+Meta Description (152 chars) : Itachi Uchiha bifold wallet with red Mangekyo Sharingan print, card slots and note compartment. Slim anime-inspired PU leather wallet. Ships nationwide.
+Focus keyword                       : Itachi wallet
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black PU leather bifold wallet with a red Mangekyo Sharingan print and white cloud motifs, inspired by Itachi Uchiha from Naruto
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a slim black PU-leather bifold wallet, ink black #111111 background with paper white #FAFAFA negative space; the wallet's red Mangekyo Sharingan emblem rendered in single manga-red #E2261C catching a hard cinematic rim light; halftone dot shading, sharp diagonal speed lines, subtle ink splatter framing the corners; manga panel border, premium high-contrast composition, the wallet slightly fanned to reveal card slots, dramatic shadow beneath.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

@@ -1,0 +1,72 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Zoro Bucket Hat
+SLUG         : zoro-bucket-hat
+BUMPA ID     : 1143851
+WOO TYPE     : simple
+PARENT SKU   : OSN-1143851
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Headwear
+  - Shop by Anime > One Piece
+
+TAGS: Zoro bucket hat, One Piece bucket hat, Roronoa Zoro, anime bucket hat, One Piece headwear, anime hat, anime merch Nigeria, Pirate Hunter
+FRANCHISE: One Piece    CHARACTER: Roronoa Zoro
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦7,000
+Total stock   : 998
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Three-sword swagger for the brim of your hat
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel the Pirate Hunter with this Zoro-inspired bucket hat. An all-day adjustable fit, embroidered/printed One Piece motif and an unstructured slouch built to anchor any fit. Wear the roster, on and off the deck.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Pirate Hunter energy, packed into a brim. This Zoro bucket hat carries the swordsman's swagger with a clean, anime-inspired motif and a relaxed, downturned shape that frames your face and shades your eyes — ideal for sunny patrols, anime cons, or just flexing the One Piece allegiance on the way out the door.</p><p>Built for everyday wear, the soft crown sits easy without crushing your style, while the all-round brim keeps the look unisex and effortless. A fan-made tribute to Roronoa Zoro, designed for the crew who lives the series.</p><ul><li>Style: unstructured bucket hat with a full downturned brim</li><li>Design: Zoro / One Piece-inspired embroidered or printed motif</li><li>Fit: relaxed one-size silhouette, unisex, suits most head sizes</li><li>Feel: soft, lightweight crown for all-day comfort</li><li>Wear: pairs with streetwear, cosplay layups and casual fits</li><li>Care: hand wash cold, reshape damp, air dry to keep the brim crisp</li><li>Note: fan / anime-inspired design, not official or affiliated</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Roronoa Zoro One Piece-inspired motif for true crew members
+  • Full downturned brim for shade and that signature slouch
+  • Relaxed one-size, unisex fit suits most head sizes
+  • Soft, lightweight crown built for all-day comfort
+  • Anchors streetwear, con fits and casual everyday looks
+  • Fan-made tribute — not official, not affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (42 chars)        : Zoro Bucket Hat | One Piece Anime Headwear
+Meta Description (147 chars) : Zoro-inspired One Piece bucket hat with a downturned brim and relaxed unisex fit. Anime headwear for true crew members. ₦7,000. Ships nationwide &.
+Focus keyword                       : Zoro bucket hat
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Zoro-inspired One Piece bucket hat with downturned brim and embroidered motif on a dark background
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a Zoro-inspired bucket hat, ink black #111111 background with paper white #FAFAFA halftone dots and a single manga-red #E2261C accent slashing across the frame like a katana strike. Hat shown three-quarter angle, downturned brim catching a hard cinematic key light, subtle speed lines and ink splatter framing it in a manga panel border. Premium, high-contrast, crisp embroidery detail, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

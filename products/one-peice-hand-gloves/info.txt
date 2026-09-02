@@ -1,0 +1,83 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : One Peice Hand Gloves
+SLUG         : one-peice-hand-gloves
+BUMPA ID     : 1152589
+WOO TYPE     : simple
+PARENT SKU   : OSN-1152589
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Shop by Anime > One Piece
+
+TAGS: One Piece, Luffy, Straw Hat Pirates, fingerless gloves, glow in the dark, anime gloves, anime accessories, cosplay
+FRANCHISE: One Piece    CHARACTER: Monkey D. Luffy
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦3,700
+Total stock   : 999
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Straw Hat Jolly Roger that glows in the dark
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Rep the Straw Hat crew with these black fingerless gloves featuring a glow-in-the-dark Jolly Roger that lights up blue after dark. Soft knit fabric, fold-over cuff, fingertip-free for everyday wear and cosplay.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Set sail with the Straw Hats. These One Piece-inspired fingerless gloves carry Luffy's iconic Jolly Roger skull on the back of the hand — and the print is treated with a glow-in-the-dark finish, so charge it under light and watch the pirate mark burn electric blue once the lights drop. It is the kind of low-key flex that fans clock instantly.</p>
+<p>Cut from a soft, stretchy knit with a fold-over cuff and open fingertips, they stay comfortable for phone-scrolling, gaming, riding and everyday rep. A clean fit for casual fits or a finishing touch on a Luffy cosplay loadout.</p>
+<ul>
+<li>Design: glow-in-the-dark Straw Hat Pirates Jolly Roger print</li>
+<li>Style: fingerless gloves with fold-over cuff</li>
+<li>Material: soft stretch knit fabric (cotton-blend feel)</li>
+<li>Glow: charge under light, glows blue in the dark; non-permanent — fades and recharges</li>
+<li>Fit: stretchy one-size feel, unisex</li>
+<li>Included: one pair of gloves</li>
+<li>Care: hand wash cool, air dry, avoid harsh bleach to protect the glow print</li>
+<li>Fan-made, anime-inspired design — not affiliated with or endorsed by the official rights holders</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Glow-in-the-dark Straw Hat Jolly Roger that lights up blue
+  • Fingerless design keeps your touchscreen and grip free
+  • Soft stretch knit with a cozy fold-over cuff
+  • One-size stretchy fit, unisex
+  • Everyday rep or cosplay finisher for One Piece fans
+  • Ships nationwide and worldwide from Nigeria
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (49 chars)        : One Piece Glow Fingerless Gloves | Otaku Store NG
+Meta Description (152 chars) : One Piece-inspired fingerless gloves with a glow-in-the-dark Straw Hat Jolly Roger. Soft knit, unisex fit. Ships from Nigeria, nationwide and worldwide.
+Focus keyword                       : One Piece gloves
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Black One Piece fingerless gloves with a glow-in-the-dark blue Straw Hat Jolly Roger skull print
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of black fingerless knit gloves featuring a Straw Hat Jolly Roger skull printed on the back of the hand, the skull glowing electric manga-red #E2261C against ink black #111111 fabric. Paper white #FAFAFA backdrop with halftone dot texture, diagonal speed lines and a single splash of ink splatter framing the gloves in a manga panel. Cinematic rim lighting, premium, high-contrast, crisp focus on the glowing pirate mark. No text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

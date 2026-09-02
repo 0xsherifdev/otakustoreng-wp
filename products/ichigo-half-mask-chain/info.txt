@@ -1,0 +1,72 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Ichigo half Mask Chain
+SLUG         : ichigo-half-mask-chain
+BUMPA ID     : 1927502
+WOO TYPE     : simple
+PARENT SKU   : OSN-1927502
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Bleach
+
+TAGS: Ichigo, Bleach, Ichigo necklace, Hollow mask, anime necklace, anime chain, pendant necklace, Bleach merch, anime accessories, stainless steel necklace
+FRANCHISE: Bleach    CHARACTER: Ichigo Kurosaki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,500
+Total stock   : 507
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Wear the Hollow's half-mask. Embrace the inner power.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel Ichigo's Hollow side with this anime-inspired half-mask pendant. Cast in tarnish-resistant stainless steel on an adjustable chain, it wipes clean and wears bold from class to convention. A sharp daily piece for any Bleach fan.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Ichigo's Hollow mask is the moment everything changes, that split-second of raw, untamed power tearing through the fight. This <strong>Ichigo Half Mask Chain</strong> captures exactly that energy: the fanged, striped half-mask rendered as a clean, sculpted pendant you can wear every day. Anime-inspired and detailed for fans who know the difference, it sits heavy enough to feel real and sharp enough to start a conversation across any campus, queue, or convention floor.</p><p>Built to last from durable, tarnish-resistant metal, it slides onto an adjustable chain so you can run it high and tight or long and loose. Pair it with your everyday fit or your full Bleach drip, then wipe it clean and go again. Wear the roster.</p><ul><li><strong>Design:</strong> Ichigo Hollow half-mask pendant (Bleach, anime-inspired)</li><li><strong>Pendant material:</strong> Durable stainless-steel / alloy, tarnish-resistant finish</li><li><strong>Chain:</strong> Matching metal chain, adjustable / standard length to sit at the chest</li><li><strong>Style:</strong> Statement pendant necklace, unisex everyday or cosplay wear</li><li><strong>Care:</strong> Wipe clean with a soft dry cloth; keep away from moisture and harsh chemicals</li><li><strong>In the box:</strong> 1 x pendant on chain</li><li><strong>Shipping:</strong> Ships from Nigeria, nationwide and worldwide</li><li><strong>Price:</strong> ₦4,500</li></ul><p>Fan-made, anime-inspired merch. Not official or licensed, and not affiliated with the creators or rights holders of Bleach.</p>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Ichigo Hollow half-mask pendant for true Bleach fans
+  • Durable, tarnish-resistant stainless-steel / alloy build
+  • Adjustable chain wears high and tight or long and loose
+  • Unisex statement piece for everyday or cosplay
+  • Wipes clean with a soft dry cloth
+  • Ships from Nigeria, nationwide and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (47 chars)        : Ichigo Hollow Half-Mask Chain | Bleach Necklace
+Meta Description (150 chars) : Ichigo Hollow half-mask pendant chain, anime-inspired Bleach necklace in tarnish-resistant steel on an adjustable chain. ₦4,500. Ships nationwide and.
+Focus keyword                       : Ichigo half mask chain
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Ichigo Hollow half-mask pendant necklace in dark metal on an adjustable chain, Bleach anime-inspired accessory
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a stainless-steel Ichigo Hollow half-mask pendant necklace on an adjustable chain. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent catching the pendant's fanged edge. Halftone dot texture, sharp speed lines and ink splatter framing the necklace, arranged like a manga panel. Premium, cinematic studio lighting, crisp metal reflections, shallow depth of field. No text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

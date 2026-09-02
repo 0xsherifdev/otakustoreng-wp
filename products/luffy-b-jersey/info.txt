@@ -1,0 +1,76 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Luffy B Jersey
+SLUG         : luffy-b-jersey
+BUMPA ID     : 4846006
+WOO TYPE     : variable
+PARENT SKU   : OSN-4846006
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Jerseys
+  - Shop by Anime > One Piece
+
+TAGS: Luffy, Monkey D. Luffy, Gear 5, One Piece, anime jersey, all-over-print jersey, anime streetwear, manga panel print, Sun God Nika
+FRANCHISE: One Piece    CHARACTER: Monkey D. Luffy
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦23,000
+Total stock   : 249
+VARIATIONS (attribute: Size)
+  M              | ₦23,000 | stock 50   | SKU OSN-4846006-M
+  L              | ₦23,000 | stock 49   | SKU OSN-4846006-L
+  XL             | ₦23,000 | stock 50   | SKU OSN-4846006-XL
+  2XL            | ₦23,000 | stock 50   | SKU OSN-4846006-2XL
+  3XL            | ₦23,000 | stock 50   | SKU OSN-4846006-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Gear 5 chaos, printed edge to edge.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel the Joy Boy himself with this all-over-print Luffy Gear 5 jersey. Lightweight, breathable polyester with vivid edge-to-edge manga-panel art and that iconic laughing pose. Built for conventions, watch parties and bold everyday streetwear.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>When Luffy taps into Gear 5, the rules stop applying, and this jersey carries that same anything-goes energy. The Luffy B Jersey wraps you in a full dye-sublimated, edge-to-edge print: the awakened Sun God Nika mid-laugh, surrounded by a high-contrast manga-panel collage and that unmistakable "HYAHYA-YAHYA!!" callout. The colours sit inside the fabric, so the graphic never cracks, peels or fades the way a screen print does.</p><p>Cut in a relaxed, unisex V-neck baseball style on lightweight 100% polyester, it stays breathable through a full convention day or a back-to-back arc binge. Layer it over a tee for streetwear, throw it on for a match-watch party, or rep the King of the Pirates anywhere you go. Ships fast nationwide and worldwide with secure checkout and easy returns.</p><ul><li><strong>Material:</strong> 100% polyester, lightweight and breathable</li><li><strong>Print:</strong> all-over dye-sublimation, vivid edge-to-edge graphics that won't crack or peel</li><li><strong>Fit:</strong> unisex, relaxed V-neck baseball cut, true to size — size up if you're between sizes</li><li><strong>Sizing:</strong> available in M, L, XL, 2XL and 3XL</li><li><strong>Care:</strong> machine wash cold inside-out, do not iron directly on the print, hang or line dry</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • All-over dye-sublimated print of Luffy in his Gear 5 / Sun God Nika form
+  • Edge-to-edge manga-panel collage art that won't crack, peel or fade
+  • Lightweight, breathable 100% polyester built for all-day wear
+  • Relaxed unisex V-neck baseball cut — true to size, size up if between sizes
+  • Perfect for conventions, watch parties and streetwear layering
+  • Ships fast nationwide and worldwide with easy returns
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (37 chars)        : Luffy Gear 5 Anime Jersey | One Piece
+Meta Description (144 chars) : Shop the Luffy Gear 5 anime jersey — all-over-print One Piece streetwear in breathable polyester. ₦23,000. Fast nationwide & worldwide delivery.
+Focus keyword                       : Luffy anime jersey
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: White all-over-print Luffy Gear 5 One Piece anime jersey with laughing Sun God Nika pose on a manga-panel collage background
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga aesthetic studio product shot of a white all-over-print anime baseball jersey featuring Luffy in Gear 5, displayed on an invisible mannequin against an ink-black #111111 backdrop. Heavy halftone screentone dots and dynamic manga speed lines radiating outward, brush-ink splatter framing the edges, manga panel layout overlays. High-contrast monochrome scene with a single bold manga-red #E2261C accent slashing across as an energy streak. Premium anime-streetwear, cinematic dramatic lighting, paper-white #FAFAFA highlights, bold and powerful mood.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

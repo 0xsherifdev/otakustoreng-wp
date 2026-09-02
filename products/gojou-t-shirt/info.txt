@@ -1,0 +1,76 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Gojou T-shirt
+SLUG         : gojou-t-shirt
+BUMPA ID     : 2135475
+WOO TYPE     : variable
+PARENT SKU   : OSN-2135475
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Gojo Satoru T-shirt, Jujutsu Kaisen, Gojo tee, anime t-shirt, JJK merch, Satoru Gojo, anime graphic tee, unisex anime shirt
+FRANCHISE: Jujutsu Kaisen    CHARACTER: Satoru Gojo
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦13,000
+Total stock   : 45
+VARIATIONS (attribute: Size)
+  M              | ₦13,000 | stock 8    | SKU OSN-2135475-M
+  L              | ₦13,000 | stock 9    | SKU OSN-2135475-L
+  2XL            | ₦13,000 | stock 10   | SKU OSN-2135475-2XL
+  XXXL           | ₦13,000 | stock 10   | SKU OSN-2135475-XXXL
+  XL             | ₦13,000 | stock 8    | SKU OSN-2135475-XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The Strongest, printed in ink and manga red.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+An anime-inspired Gojo Satoru tee for Jujutsu Kaisen fans. Soft, breathable cotton in a unisex regular fit with a crew neck and a durable, fade-resistant Limitless print built to survive every wash and rewatch.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Six Eyes on, blindfold off. This Gojo Satoru tee channels the calm-but-lethal energy of Jujutsu Kaisen's strongest sorcerer into a clean, statement-making graphic you'll actually want to wear every day. Anime-inspired artwork on a premium, comfortable base that moves from campus to convention without missing a beat.</p><p>Cut for a relaxed unisex fit and finished with a fade-resistant print, it's made to stay crisp wash after wash. Pair it with denim and clean sneakers, or layer it under an open shirt for that effortless main-character look. Fan-made and anime-inspired, not affiliated with or endorsed by the official rights holders.</p><ul><li>Bold anime-inspired Gojo Satoru / Jujutsu Kaisen front graphic</li><li>Soft, breathable cotton (some runs are a cotton/polyester blend for extra durability)</li><li>Unisex regular fit with a classic crew neck</li><li>Durable, fade-resistant print that holds colour over time</li><li>Available in M, L, XL, 2XL and XXXL</li><li>Care: machine wash cold, inside-out; do not tumble dry hot, do not iron directly on the print</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Anime-inspired Gojo Satoru graphic for true Jujutsu Kaisen fans
+  • Soft, breathable cotton in a comfortable unisex regular fit
+  • Durable fade-resistant print that survives every wash
+  • Classic crew neck and everyday-wearable cut
+  • Sizes M to XXXL for an inclusive range
+  • Easy care: machine wash cold, inside-out
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (46 chars)        : Gojo Satoru T-Shirt | Jujutsu Kaisen Anime Tee
+Meta Description (147 chars) : Anime-inspired Gojo Satoru T-shirt from Jujutsu Kaisen. Soft cotton, unisex fit, fade-resistant print. Sizes M-XXXL, ₦13,000. Ships nationwide and.
+Focus keyword                       : Gojo Satoru T-shirt
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Anime-inspired Gojo Satoru Jujutsu Kaisen graphic T-shirt in a unisex regular fit
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga style studio product shot of a folded anime graphic t-shirt featuring a Gojo Satoru-inspired character, ink black #111111 background, paper white #FAFAFA garment, single manga-red #E2261C accent on the print and a thin underline. Halftone dot shading, dynamic speed lines radiating behind the shirt, subtle ink splatter in the corners, framed inside a clean manga panel border. Premium, cinematic lighting, high contrast, sharp focus on fabric texture, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

@@ -1,0 +1,69 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Item
+SLUG         : item
+BUMPA ID     : 1269294
+WOO TYPE     : simple
+PARENT SKU   : OSN-1269294
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Uncategorized
+
+TAGS: anime merch, anime-inspired, otaku gear, manga fan, anime gift, fan merchandise, anime collectible, weeb gear
+FRANCHISE: Generic Anime    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦0
+Total stock   : 0
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Anime-inspired everyday gear for true fans
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Anime-inspired fan merch built for everyday wear and display. Bold dark-manga energy, durable feel, and a clean finish that lets you rep your favourite series with confidence wherever you go.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Rep your fandom with this anime-inspired piece from Otaku Store NG, made for fans who live the culture every day. Designed with a clean, premium look and bold manga energy, it slots straight into your rotation whether you're heading out, hitting a con, or stacking your shelf.</p><p>Crafted to feel good in hand and hold up to daily use, this is fan gear you'll actually reach for. Fan-made and anime-inspired, not affiliated with or endorsed by any studio or rights holder.</p><ul><li>Anime-inspired fan design with a bold dark-manga aesthetic</li><li>Durable, everyday-ready build quality</li><li>Versatile piece for wearing, gifting, or displaying</li><li>Easy care: wipe or spot clean as needed</li><li>Great gift for any anime and manga fan</li><li>Ships from Nigeria, nationwide and worldwide</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Anime-inspired fan design, not official or licensed
+  • Bold dark-manga look with a premium finish
+  • Durable and everyday-ready
+  • Perfect for wearing, gifting, or display
+  • Ships nationwide and worldwide from Nigeria
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (41 chars)        : Anime-Inspired Fan Merch | Otaku Store NG
+Meta Description (152 chars) : Anime-inspired fan merch with bold dark-manga energy. Durable, everyday-ready gear for true fans. Ships nationwide and worldwide from Nigeria. Wear the.
+Focus keyword                       : anime-inspired fan merch
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.png  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Anime-inspired fan merchandise from Otaku Store NG photographed on a clean studio background
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of anime-inspired fan merchandise centered in frame. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent. Halftone dot texture, sharp speed lines radiating outward, subtle ink splatter in the corners, framed inside a clean manga panel. Premium, cinematic lighting, high contrast, crisp focus on the product.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

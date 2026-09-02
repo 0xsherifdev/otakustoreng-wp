@@ -1,0 +1,86 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Yingyang Dragon Chain
+SLUG         : yingyang-dragon-chain
+BUMPA ID     : 1254770
+WOO TYPE     : variable
+PARENT SKU   : OSN-1254770
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Couple Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Hunter x Hunter
+
+TAGS: anime couple chain, yin yang dragon necklace, matching couple necklaces, his and hers chains, Hunter x Hunter accessories, anime gift set, couple accessories, rope necklace set
+FRANCHISE: Hunter x Hunter    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦5,500
+Total stock   : 1020
+VARIATIONS (attribute: Color)
+  Black And Black Rope | ₦5,500 | stock 510  | SKU OSN-1254770-BLACKANDBLACKROPE
+  White And Black Rope | ₦5,500 | stock 510  | SKU OSN-1254770-WHITEANDBLACKROPE
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Two halves, one bond — yin-yang dragon duo chains.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A matching his-and-hers chain set built around a yin-yang dragon motif. Two woven rope necklaces — one for each of you — so your bond travels everywhere. Anime-inspired, everyday-tough, and ready to gift.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Yin and yang, light and shadow — two dragons that only feel complete together. The <strong>Yingyang Dragon Chain</strong> is a matching couple set: two woven rope necklaces, each carrying half of the paired dragon design, made for fans who wear their bond rather than just talk about it. Slip one over your head, hand the other to your person, and the set tells the whole story.</p>
+<p>Built on durable braided rope with a contrasting pendant, it sits clean over a tee or hoodie and shrugs off everyday wear. An easy win for anniversaries, otaku birthdays, or just because. Anime-inspired fan design — not affiliated with or endorsed by any rights holder.</p>
+<ul>
+<li><strong>Set contents:</strong> 2 necklaces (his-and-hers duo) — one yin, one yang dragon half</li>
+<li><strong>Style:</strong> woven braided rope cord with paired dragon pendant</li>
+<li><strong>Colour options:</strong> Black And Black Rope, or White And Black Rope</li>
+<li><strong>Wear:</strong> unisex, one-size adjustable rope fit for most necklines</li>
+<li><strong>Best for:</strong> couples, best friends, siblings — a shared matching set</li>
+<li><strong>Care:</strong> keep dry, wipe the pendant clean, store flat to protect the cord</li>
+<li><strong>Theme:</strong> Hunter x Hunter / anime-inspired yin-yang dragon motif</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Matching his-and-hers set — two chains, one shared bond
+  • Yin-yang dragon design split across both pendants
+  • Durable woven rope cord, comfortable for everyday wear
+  • Two colourways: Black And Black Rope or White And Black Rope
+  • Unisex, adjustable rope fit suits most necklines
+  • Ready-to-gift couple set for anniversaries and otaku birthdays
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (49 chars)        : Yingyang Dragon Chain — Anime Couple Necklace Set
+Meta Description (150 chars) : Matching yin-yang dragon couple chains — a his-and-hers anime-inspired rope necklace set in two colourways. Ships nationwide and worldwide from Otaku.
+Focus keyword                       : anime couple chain set
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Yin-yang dragon matching couple chain set with black and white woven rope necklaces and paired dragon pendants
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of two matching woven rope necklaces laid side by side forming a yin-yang dragon pendant pair, ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent on the dragon eyes. Halftone dot shading, sharp speed lines radiating from center, subtle ink splatter in corners, framed inside a clean manga panel border. Premium, cinematic, high-contrast top-down composition, crisp focus on the braided cord texture.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

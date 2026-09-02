@@ -1,0 +1,70 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Dead Pool Laptop Skin
+SLUG         : dead-pool-laptop-skin
+BUMPA ID     : 1875694
+WOO TYPE     : simple
+PARENT SKU   : OSN-1875694
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Laptop Skins
+
+TAGS: Deadpool laptop skin, anime laptop skin, vinyl laptop decal, laptop wrap, Deadpool merch, laptop sticker, anime laptop sticker, custom laptop skin
+FRANCHISE: Generic Anime    CHARACTER: Deadpool
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦7,500
+Total stock   : 10
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Merc with a Mouth, now on your lid.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Wrap your laptop in bold Deadpool-inspired art with this printed vinyl skin. Bubble-free to apply, residue-free to remove, and cut to fit your exact model. Pick your size and refresh your setup in minutes.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Turn a plain laptop lid into a statement piece with this Deadpool-inspired laptop skin. Crisp, full-colour print on durable vinyl gives you that katana-wielding, fourth-wall-breaking energy every time you open the lid, while a matte finish keeps glare and fingerprints in check.</p><p>The adhesive backing lays down bubble-free with a simple squeegee-and-smooth application, then peels away clean with no sticky residue when you want a new look. Choose your laptop make and model at checkout so the cut lines up with your ports, hinges and logo cut-out. This is a fan-made, anime-inspired design and is not official or affiliated with any rights holder.</p><ul><li>Material: printed self-adhesive vinyl decal/wrap</li><li>Finish: matte, anti-glare with reduced fingerprint marks</li><li>Application: bubble-free, air-channel adhesive; squeegee on</li><li>Removal: residue-free, leaves no sticky marks</li><li>Fit: select your laptop brand, model and size for a precise cut</li><li>Coverage: top lid panel (port and hinge cut-outs per model)</li><li>What's included: 1x Deadpool-inspired laptop skin</li><li>Care: wipe clean with a soft, slightly damp cloth; avoid harsh solvents</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold full-colour Deadpool-inspired print on durable vinyl
+  • Bubble-free application with air-channel adhesive
+  • Residue-free removal that leaves no sticky marks
+  • Matte, anti-glare finish that hides fingerprints
+  • Cut to fit your exact laptop brand, model and size
+  • Fan-made, anime-inspired art - not official
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (51 chars)        : Deadpool Laptop Skin | Vinyl Decal | Otaku Store NG
+Meta Description (152 chars) : Deadpool-inspired laptop skin in durable printed vinyl. Bubble-free apply, residue-free removal, cut to fit your model. Ships from Nigeria. Just ₦7,500.
+Focus keyword                       : Deadpool laptop skin
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Deadpool-inspired printed vinyl laptop skin applied to a laptop lid with red and black character art
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga style studio product shot of a laptop closed on a desk, its lid wrapped in a Deadpool-inspired vinyl skin. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent on the masked character art. Halftone dot shading, dynamic speed lines radiating from the laptop, subtle ink splatter framing the corners, manga panel border. Premium, cinematic, high-contrast lighting, sharp focus on the skin texture.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

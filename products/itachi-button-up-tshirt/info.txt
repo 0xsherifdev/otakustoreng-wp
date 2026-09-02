@@ -1,0 +1,74 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Itachi button up Tshirt
+SLUG         : itachi-button-up-tshirt
+BUMPA ID     : 3099585
+WOO TYPE     : variable
+PARENT SKU   : OSN-3099585
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+  - Shop by Anime > Naruto
+
+TAGS: Itachi, Naruto, Akatsuki, Itachi Uchiha, anime shirt, all-over print shirt, button-up shirt, Naruto merch, anime button-up
+FRANCHISE: Naruto    CHARACTER: Itachi Uchiha
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦18,000
+Total stock   : 39
+VARIATIONS (attribute: Size)
+  L              | ₦18,000 | stock 10   | SKU OSN-3099585-L
+  XL             | ₦18,000 | stock 9    | SKU OSN-3099585-XL
+  2XL            | ₦18,000 | stock 10   | SKU OSN-3099585-2XL
+  3XL            | ₦18,000 | stock 10   | SKU OSN-3099585-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+A murder of crows, worn loud.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+All-over-print Itachi button-up shirt in blood-red, with Akatsuki clouds and his signature crows swarming the print. Camp collar, short sleeves, relaxed unisex fit. Anime-inspired heat for fans who wear the roster.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some characters whisper. Itachi screams in silence. This all-over-print button-up shirt drops the Uchiha prodigy into a sea of blood-red and crows, his Akatsuki cloak front and centre as a murder of ravens bursts across the front and back panels. It is a statement piece for the fan who knows the weight behind those eyes.</p><p>Cut as a relaxed camp-collar shirt with a full button front and short sleeves, it reads street-ready over a tee or open as a layer. The edge-to-edge sublimation print runs across every panel, so the artwork never breaks at the seams and the colour stays vivid wash after wash. Anime-inspired, designed for fans, not affiliated with or endorsed by the rights holders.</p><ul><li>All-over sublimation print: continuous Itachi and Akatsuki crow artwork across front, back and sleeves</li><li>Lightweight polyester for sharp, fade-resistant colour</li><li>Camp / Cuban-style collar with full white-button front placket</li><li>Short sleeves, relaxed unisex regular fit</li><li>Available in L, XL, 2XL and 3XL</li><li>Care: machine wash cold, inside-out, hang dry, do not iron directly on the print</li><li>Ships from Nigeria, nationwide and worldwide</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Vivid all-over Itachi and Akatsuki crow print, seam to seam
+  • Lightweight polyester with fade-resistant sublimation colour
+  • Camp-collar button-up with classic white-button front
+  • Relaxed unisex fit in L, XL, 2XL, 3XL
+  • Fan-designed, anime-inspired, not affiliated with the rights holders
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (50 chars)        : Itachi Button-Up Shirt | Naruto All-Over Print Tee
+Meta Description (145 chars) : Itachi Uchiha all-over-print button-up shirt in red with Akatsuki clouds and crows. Camp collar, unisex fit, L-3XL. Ships from Nigeria worldwide.
+Focus keyword                       : Itachi button-up shirt
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Red all-over-print button-up shirt featuring Itachi Uchiha in his Akatsuki cloak surrounded by black crows
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a red all-over-print short-sleeve camp-collar button-up shirt featuring Itachi Uchiha in his Akatsuki cloud cloak surrounded by a murder of black crows. Ink black #111111 background, paper white #FAFAFA hard rim light, single manga-red #E2261C accent glow. Halftone dot texture, dramatic speed lines and ink splatter framing the shirt, arranged in clean manga panels. Premium cinematic flat-lay, high detail, crisp fabric folds, magazine-grade lighting.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Naruto Op Figurine
+SLUG         : naruto-op-figurine
+BUMPA ID     : 1624207
+WOO TYPE     : simple
+PARENT SKU   : OSN-1624207
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Figurines
+  - Shop by Anime > Naruto
+
+TAGS: Naruto, Naruto Uzumaki, Kurama, Nine-Tails, Naruto figurine, anime statue, Kurama Chakra Mode, collector figurine, Rasengan, PVC figure
+FRANCHISE: Naruto    CHARACTER: Naruto Uzumaki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦150,000
+Total stock   : 10
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Kurama Mode unleashed. Wear the roster on your shelf.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Naruto Uzumaki in full Kurama Chakra Mode, Rasengan blazing, the Nine-Tails towering behind him on a light-up rocky base. A dramatic pre-painted PVC display statue built for serious shinobi shelves.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>This is Naruto at his most overpowered. Caught mid-clash in his Kurama Chakra Mode cloak with a Rasengan spinning in hand, the Nine-Tails fox roars behind him in full detail. It is a centerpiece statue made to anchor a shelf and pull every eye in the room.</p><p>Sculpted as a fan-inspired collector piece (not affiliated with or endorsed by the official rights holders), the figure pairs dynamic flame-cloak detailing with a translucent, light-up rocky base for serious display drama. This is a display statue, not a toy, so give it a spot it deserves.</p><ul><li>Character: Naruto Uzumaki in Kurama Chakra Mode with Kurama, the Nine-Tails</li><li>Material: detailed sculpted PVC and resin, fully pre-painted</li><li>Build: dynamic action pose with Rasengan and flowing chakra-cloak effects</li><li>Base: themed rocky diorama base with translucent light-up accents</li><li>Finish: layered paintwork with halftone-sharp highlights and shading</li><li>Use: indoor shelf and display-cabinet centerpiece; handle with care</li><li>Includes: figure and matching display base</li><li>Care: keep out of direct sunlight; dust gently with a soft, dry brush</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Naruto Uzumaki in full Kurama Chakra Mode with the Nine-Tails behind him
+  • Rasengan and flowing chakra-cloak effect parts for maximum drama
+  • Detailed pre-painted PVC and resin sculpt with layered shading
+  • Themed rocky diorama base with translucent light-up accents
+  • Statement centerpiece scaled for serious collector shelves
+  • Fan / anime-inspired collectible, not affiliated or official
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (44 chars)        : Naruto Kurama Mode Figurine | Otaku Store NG
+Meta Description (153 chars) : Naruto Uzumaki Kurama Chakra Mode statue with Rasengan and the Nine-Tails on a light-up base. Pre-painted PVC display figurine. Ships across Nigeria and.
+Focus keyword                       : Naruto Kurama mode figurine
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Naruto Uzumaki figurine in Kurama Chakra Mode holding a Rasengan, with the Nine-Tails fox towering behind him on a light-up rocky base.
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a Naruto Uzumaki collector statue in Kurama Chakra Mode holding a glowing Rasengan, the Nine-Tails fox rising behind him. Ink black #111111 background, paper white #FAFAFA rim light, single manga-red #E2261C accent on speed lines and ink splatter. Halftone-dot shading, sharp manga panel framing, dramatic cinematic side lighting catching the sculpted chakra-cloak and translucent light-up base. Premium catalog hero, high contrast, crisp focus.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

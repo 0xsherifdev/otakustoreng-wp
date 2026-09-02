@@ -1,0 +1,77 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Tokito B Jersey
+SLUG         : tokito-b-jersey
+BUMPA ID     : 4846032
+WOO TYPE     : variable
+PARENT SKU   : OSN-4846032
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Jerseys
+  - Shop by Anime > Demon Slayer
+
+TAGS: Muichiro Tokito, Demon Slayer, Kimetsu no Yaiba, anime jersey, all-over print jersey, Mist Hashira, anime streetwear, baseball jersey, dye sublimation
+FRANCHISE: Demon Slayer    CHARACTER: Muichiro Tokito
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦23,000
+Total stock   : 250
+VARIATIONS (attribute: Size)
+  M              | ₦23,000 | stock 50   | SKU OSN-4846032-M
+  L              | ₦23,000 | stock 50   | SKU OSN-4846032-L
+  XL             | ₦23,000 | stock 50   | SKU OSN-4846032-XL
+  2XL            | ₦23,000 | stock 50   | SKU OSN-4846032-2XL
+  3XL            | ₦23,000 | stock 50   | SKU OSN-4846032-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Drift like the Mist Hashira in full all-over print.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel the Mist Hashira with this all-over-print Demon Slayer jersey. Vivid edge-to-edge Tokito graphics on lightweight, breathable polyester. Built for cons, watch parties, and everyday otaku streetwear. Unisex fit, true to size, ships nationwide and worldwide.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Cut through the crowd like the Mist Hashira himself. The <strong>Tokito B Jersey</strong> brings Muichiro Tokito's calm, cloud-drifting energy to a vivid dye-sublimated jersey that prints edge to edge with zero fade on the seams. Whether you're heading to a convention, a match-watch party, or just layering up for everyday streetwear, this is fan gear that hits as hard as a Breathing technique.</p><p>Lightweight and breathable, it wears cool through long days and stays bold under every light. Pair it open over a tee or buttoned up for a full anime-streetwear statement. Secure checkout, fast nationwide and worldwide delivery, and easy returns come standard.</p><ul><li><strong>Material:</strong> 100% polyester, lightweight and breathable</li><li><strong>Print:</strong> All-over dye-sublimation, vivid edge-to-edge graphics that won't crack or peel</li><li><strong>Fit:</strong> Unisex, button-up baseball jersey cut</li><li><strong>Sizing:</strong> True to size (M, L, XL, 2XL, 3XL) — if between sizes, size up</li><li><strong>Care:</strong> Machine wash cold inside-out; do not iron directly on the print</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • All-over dye-sublimated Muichiro Tokito print, vivid from edge to edge
+  • Lightweight, breathable 100% polyester keeps you cool all day
+  • Unisex button-up baseball cut — true to size, layers clean
+  • Perfect for conventions, watch parties, and anime streetwear
+  • Print won't crack or peel — machine wash cold inside-out
+  • Fast nationwide and worldwide delivery with easy returns
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (41 chars)        : Muichiro Tokito Demon Slayer Anime Jersey
+Meta Description (141 chars) : Shop the Muichiro Tokito Demon Slayer anime jersey — all-over-print, breathable polyester. Unisex fit, ₦23,000. Ships nationwide & worldwide.
+Focus keyword                       : Tokito Demon Slayer anime jersey
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Muichiro Tokito Demon Slayer all-over-print anime baseball jersey, front view
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga aesthetic studio shot of a model wearing an all-over-print button-up anime baseball jersey featuring Muichiro Tokito of Demon Slayer. Ink black #111111 background with paper white #FAFAFA halftone screentone dots and dynamic manga speed lines radiating outward. A single bold manga-red #E2261C accent slashes across the frame like a brush-ink splatter for energy. High-contrast monochrome cinematic lighting, premium anime-streetwear mood, manga panel layout framing, dramatic three-quarter pose, sharp focus on jersey print, brush-ink texture overlays.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+  - QA fixes applied: seo_title is 50 characters and acceptable, but I tightened it to lead with the character + franchise + "Anime Jersey" per brand guidance (kept <= 60).; meta_description was 140 characters and compliant; left intact aside from confirming length.; "true to size" claim appears in both short_description and highlights/long description and is a generic-acceptable sublimated-jersey claim, so retained. No franchise/character error: Muichiro Tokito is correctly the Mist Hashira from Demon Slayer (Kimetsu no Yaiba). No 'official/licensed' language present. HTML is clean (<p>/<ul>/<li>, no <h1>). Sizing (M, L, XL, 2XL, 3XL) is consistent. Content was effectively correct; only minor polish applied to seo_title and image_alt for catalog consistency.
+================================================================================

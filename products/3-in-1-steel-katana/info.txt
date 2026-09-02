@@ -1,0 +1,85 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : 3 In 1 Steel Katana
+SLUG         : 3-in-1-steel-katana
+BUMPA ID     : 3977458
+WOO TYPE     : variable
+PARENT SKU   : OSN-3977458
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Katana & Weapons
+
+TAGS: 3 in 1 katana set, anime katana, display katana, katana and stand, three sword set, cosplay katana, wakizashi tanto set, anime weapon decor
+FRANCHISE: Generic Anime    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦250,000
+Total stock   : 7
+VARIATIONS (attribute: Color)
+  Black          | ₦250,000 | stock 5    | SKU OSN-3977458-BLACK
+  Red            | ₦250,000 | stock 2    | SKU OSN-3977458-RED
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Three blades, one stand, total shelf presence
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A triple display set built for the three-sword fan: full-size katana, wakizashi and tanto with dragon-engraved scabbards and a tiered stand. Anime-inspired decor for your collection, cosplay shelf or battle station.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some fighters carry one blade. The real ones carry three. This 3 In 1 Steel Katana set stacks a full-length katana, a mid-length wakizashi and a short tanto onto a single tiered stand, so you get an instant three-sword centrepiece that nods to every multi-blade swordsman in anime. Blacked-out handle wraps, white diamond menuki and dragon-engraved scabbards give it that premium, cinematic edge whether it's mounted above a desk, on a shelf or staged for a cosplay shoot.</p>
+<p>This is an anime-inspired decorative display and collector's piece, designed for show, not for use. Otaku Store NG is a fan store and is not affiliated with or endorsed by any anime studio or rights holder. Keep out of reach of children and follow your local laws on display blades.</p>
+<ul>
+<li><strong>Set includes:</strong> three blades (katana, wakizashi, tanto) plus a matching tiered display stand</li>
+<li><strong>Blade:</strong> stainless / alloy steel, finished as a decorative display blade (not battle-sharpened)</li>
+<li><strong>Handle (tsuka):</strong> themed cord wrap with white diamond menuki accents</li>
+<li><strong>Scabbard (saya):</strong> dragon-motif engraved finish to match the set</li>
+<li><strong>Colour options:</strong> Black or Red</li>
+<li><strong>Best for:</strong> display, collecting, cosplay props and themed room decor</li>
+<li><strong>Care:</strong> wipe the blade with a soft dry cloth, keep away from moisture and handle with care</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Three-piece set: katana, wakizashi and tanto on one tiered stand
+  • Blacked-out cord-wrapped handles with white diamond menuki
+  • Dragon-engraved scabbards for a premium, cinematic look
+  • Steel display blades built for show, not for use
+  • Choose your colourway: Black or Red
+  • Anime-inspired decor for collectors, cosplayers and gamers
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (46 chars)        : 3 In 1 Steel Katana Set | Anime Display Swords
+Meta Description (150 chars) : Anime-inspired 3 In 1 steel katana set: katana, wakizashi and tanto with display stand. Dragon-engraved scabbards, in Black or Red. ₦250,000 at Otaku.
+Focus keyword                       : 3 in 1 steel katana set
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: 3 In 1 steel katana set in black with white-diamond handle wraps and dragon-engraved scabbards on a tiered display stand
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-Manga style studio product shot of a three-piece anime display katana set (katana, wakizashi, tanto) on a tiered black stand. Ink black #111111 background, paper white #FAFAFA rim light, single manga-red #E2261C accent slashing across the blades. Halftone dot shading, dramatic speed lines, ink splatter framing the steel, manga panel border. Premium, cinematic, high-contrast collector hero shot, sharp reflections on the polished blades, no text.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

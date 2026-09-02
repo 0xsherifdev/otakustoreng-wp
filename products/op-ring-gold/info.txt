@@ -1,0 +1,78 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Op Ring Gold
+SLUG         : op-ring-gold
+BUMPA ID     : 1508129
+WOO TYPE     : variable
+PARENT SKU   : OSN-1508129
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Rings
+  - Shop by Anime > One Piece
+
+TAGS: One Piece, Trafalgar Law, Heart Pirates, anime ring, gold ring, stainless steel ring, anime jewelry, One Piece merch
+FRANCHISE: One Piece    CHARACTER: Trafalgar Law
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦3,300
+Total stock   : 58
+VARIATIONS (attribute: Size)
+  7              | ₦3,300 | stock 10   | SKU OSN-1508129-7
+  8              | ₦3,300 | stock 9    | SKU OSN-1508129-8
+  9              | ₦3,300 | stock 9    | SKU OSN-1508129-9
+  10             | ₦3,300 | stock 10   | SKU OSN-1508129-10
+  11             | ₦3,300 | stock 10   | SKU OSN-1508129-11
+  12             | ₦3,300 | stock 10   | SKU OSN-1508129-12
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Heart Pirates emblem in gold-tone steel
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A gold-tone band ring engraved with the Heart Pirates Jolly Roger, repping Trafalgar Law's crew. Polished, tarnish-resistant stainless steel built for daily wear, with sizes 7 to 12 so you can lock in your perfect fit.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Pledge allegiance to the Heart Pirates. This gold-tone band carries Trafalgar Law's crew emblem etched clean into a polished steel face, the kind of quiet flex that other One Piece fans clock from across the room. No loud branding, just the Jolly Roger that built a legend on the Grand Line.</p><p>The flat profile sits comfortably for everyday wear, while the tarnish-resistant finish keeps that mirror shine through gym sessions, commutes and conventions alike. A clean, durable everyday piece for fans who want their roster on their hand. Anime-inspired and fan-made, not affiliated with or endorsed by any official rights holder.</p><ul><li>Design: engraved Heart Pirates emblem, inspired by Trafalgar Law (One Piece)</li><li>Material: stainless steel / alloy with a gold-tone plated finish</li><li>Finish: polished, tarnish-resistant for daily wear</li><li>Profile: flat comfort-style band</li><li>Sizes available: 7, 8, 9, 10, 11, 12 (buyer selects at checkout)</li><li>Unisex fit, suitable for everyday styling or stacking</li><li>Includes: 1 ring</li><li>Care: keep dry, wipe with a soft cloth, store away from harsh chemicals</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Engraved Heart Pirates Jolly Roger from One Piece
+  • Gold-tone stainless steel with a polished, tarnish-resistant finish
+  • Comfortable flat band built for daily wear
+  • Six sizes from 7 to 12 for your perfect fit
+  • Unisex design, easy to stack or wear solo
+  • Fan-made anime-inspired piece, not affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (49 chars)        : Trafalgar Law Heart Pirates Gold Ring | One Piece
+Meta Description (151 chars) : One Piece Heart Pirates gold-tone ring engraved with Trafalgar Law's emblem. Polished, tarnish-resistant steel, sizes 7-12. Ships from Nigeria, ₦3,300.
+Focus keyword                       : One Piece Heart Pirates ring
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Gold-tone stainless steel ring engraved with the One Piece Heart Pirates emblem, worn on a finger
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga style studio product shot of a gold-tone stainless steel band ring engraved with the Heart Pirates smiley emblem, resting on a slab of ink-black surface (#111111) against paper-white (#FAFAFA). Single manga-red (#E2261C) accent in a sharp diagonal speed-line burst behind the ring, halftone dot shading, subtle ink splatter framing a manga panel border. Dramatic cinematic side lighting catching the polished gold and engraved logo, premium high-contrast composition, macro focus.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

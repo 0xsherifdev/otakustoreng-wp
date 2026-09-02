@@ -1,0 +1,88 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : One Piece Baggy Jeans
+SLUG         : one-piece-baggy-jeans
+BUMPA ID     : 2119177
+WOO TYPE     : variable
+PARENT SKU   : OSN-2119177
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Trousers
+  - Shop by Anime > One Piece
+
+TAGS: One Piece, baggy jeans, anime jeans, anime denim, wide-leg jeans, anime streetwear, unisex jeans, otaku fashion
+FRANCHISE: One Piece    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦27,000
+Total stock   : 49
+VARIATIONS (attribute: Size)
+  M              | ₦27,000 | stock 10   | SKU OSN-2119177-M
+  L              | ₦27,000 | stock 9    | SKU OSN-2119177-L
+  XL             | ₦27,000 | stock 10   | SKU OSN-2119177-XL
+  2XL            | ₦27,000 | stock 10   | SKU OSN-2119177-2XL
+  3XL            | ₦27,000 | stock 10   | SKU OSN-2119177-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Baggy denim, straight off the Grand Line.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+One Piece-inspired baggy jeans built for everyday wear. Relaxed, loose-fit denim with a wide leg and bold anime detailing, ready to pair with your favourite tee or hoodie. Unisex sizing from M to 3XL.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Set sail in style with these One Piece baggy jeans, cut for fans who want comfort and attitude in equal measure. The relaxed, loose silhouette and wide leg give you room to move while the anime-inspired detailing nods to the crew that started it all. Throw them on for a chill day out or a full streetwear fit, no Devil Fruit required.</p>
+<p>Made for everyday wear and built to take a beating, these are the jeans you reach for again and again. Unisex sizing means anyone in the crew can rep the look.</p>
+<ul>
+<li><strong>Style:</strong> Baggy / loose-fit wide-leg jeans</li>
+<li><strong>Theme:</strong> One Piece anime-inspired fan design</li>
+<li><strong>Material:</strong> Durable cotton-blend denim</li>
+<li><strong>Fit:</strong> Unisex, relaxed through the hip and leg</li>
+<li><strong>Closure:</strong> Button and zip fly with belt loops</li>
+<li><strong>Sizes:</strong> M, L, XL, 2XL, 3XL</li>
+<li><strong>Pairs with:</strong> Anime tees, hoodies and jerseys from the Otaku Store NG range</li>
+<li><strong>Care:</strong> Machine wash cold, inside out; hang or tumble dry low to keep the colour deep</li>
+</ul>
+<p><em>Fan-made, anime-inspired apparel. Not official or licensed merchandise and not affiliated with the creators of One Piece.</em></p>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Baggy wide-leg denim with a relaxed, easy fit
+  • One Piece anime-inspired fan design
+  • Durable cotton-blend denim built for daily wear
+  • Unisex sizing from M to 3XL
+  • Button-and-zip fly with classic belt loops
+  • Pairs perfectly with anime tees and hoodies
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (52 chars)        : One Piece Baggy Jeans | Anime Denim | Otaku Store NG
+Meta Description (150 chars) : Shop One Piece-inspired baggy jeans at Otaku Store NG. Relaxed wide-leg denim, unisex M-3XL, ₦27,000. Ships nationwide and worldwide. Wear the roster.
+Focus keyword                       : One Piece baggy jeans
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: One Piece-inspired baggy wide-leg denim jeans with anime detailing, unisex fit
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of baggy wide-leg anime-inspired denim jeans displayed on an invisible mannequin, three-quarter angle. Ink black #111111 background, paper white #FAFAFA floor, single manga-red #E2261C accent on a pirate-flag motif. Halftone dot shading, dynamic speed lines, ink splatter framing, bold manga panel borders. Premium, cinematic studio lighting, sharp focus on denim texture and stitching.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

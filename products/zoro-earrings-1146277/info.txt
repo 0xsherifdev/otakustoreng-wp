@@ -1,0 +1,73 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Zoro Earrings
+SLUG         : zoro-earrings-1146277
+BUMPA ID     : 1146277
+WOO TYPE     : variable
+PARENT SKU   : OSN-1146277
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Shop by Anime > One Piece
+
+TAGS: Zoro earrings, One Piece accessories, Roronoa Zoro, anime earrings, clip on earrings, magnetic earrings, cosplay accessories, Straw Hat Pirates
+FRANCHISE: One Piece    CHARACTER: Roronoa Zoro
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦5,000
+Total stock   : 198
+VARIATIONS (attribute: Style)
+  Clip On        | ₦5,000 | stock 98   | SKU OSN-1146277-CLIPON
+  Magnetic       | ₦5,000 | stock 100  | SKU OSN-1146277-MAGNETIC
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Three gold rings. One legendary swordsman.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Rep the world's greatest swordsman with these Zoro-inspired three-ring earrings. Available in painless Clip On or Magnetic styles, so anyone can rock the iconic Straw Hat look, no piercings needed.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Roronoa Zoro's three gold earrings are one of the most recognisable looks in all of anime, and now you can wear the roster. This fan-favourite set channels the demonic swordsman's signature triple-ring design, perfect for cosplay, conventions, or just flexing your One Piece allegiance on any normal day.</p><p>Choose your fit: a painless Clip On for a secure all-day hold, or a Magnetic style that snaps on in seconds. No piercings required, so every crew member can suit up. An affordable way to lock in that Wano-arc energy and complete your Zoro look.</p><ul><li>Anime-inspired three-ring earring design, modelled on Zoro from One Piece</li><li>Two style options: Clip On and Magnetic (select at checkout)</li><li>No piercing needed, beginner-friendly and reusable</li><li>Lightweight metal alloy construction with a gold-tone finish</li><li>Great for cosplay, conventions, gifting and everyday fan wear</li><li>Wipe clean with a soft dry cloth; store dry to keep the shine</li><li>Fan / anime-inspired accessory, not affiliated with or endorsed by the official rights holders</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Iconic Zoro three-ring earring design from One Piece
+  • No piercing needed, choose Clip On or Magnetic
+  • Lightweight gold-tone alloy for comfy all-day wear
+  • Reusable and beginner-friendly, snaps on in seconds
+  • Cosplay-ready and perfect for everyday fan flex
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (47 chars)        : Zoro Earrings, One Piece Clip On & Magnetic Set
+Meta Description (153 chars) : Zoro-inspired three-ring earrings from One Piece. Painless Clip On or Magnetic styles, no piercing needed. Cosplay-ready fan accessory. Ships nationwide.
+Focus keyword                       : Zoro earrings
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Gold-tone three-ring Zoro-inspired earrings from One Piece, shown in Clip On and Magnetic styles
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of three gold hoop earrings arranged vertically on ink-black #111111 background, paper-white #FAFAFA negative space, single manga-red #E2261C accent slash behind them; halftone dot texture, sharp speed lines radiating outward, ink splatter detailing, framed in a clean manga panel; cinematic rim lighting catching the gold rings, premium product photography, high contrast, no text.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

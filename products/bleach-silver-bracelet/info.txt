@@ -1,0 +1,84 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Bleach Silver Bracelet
+SLUG         : bleach-silver-bracelet
+BUMPA ID     : 1134627
+WOO TYPE     : simple
+PARENT SKU   : OSN-1134627
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Bracelets
+  - Shop by Anime > Bleach
+
+TAGS: Bleach, Ichigo Kurosaki, Bleach bracelet, anime bracelet, Soul Reaper, stainless steel bracelet, anime accessories, silver bracelet, anime jewelry, otaku merch
+FRANCHISE: Bleach    CHARACTER: Ichigo Kurosaki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦5,000
+Total stock   : 991
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the flame emblem on your wrist.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A silver-tone stainless-steel link bracelet anchored by a bold red enamel flame emblem inspired by Bleach. Hexagon-cut links, polished shine, everyday-tough build. Subtle enough for daily wear, loud enough to mark you as a true Soul Reaper fan.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some marks you don't explain to people who get it. This Bleach-inspired bracelet wraps a red enamel flame emblem in a heavy silver-tone link chain, calling straight back to Ichigo Kurosaki's fire and the Soul Reaper crest. Polished hexagon-cut links catch the light while the centered enamel plate holds the eye, so it reads as clean wrist hardware first and a fan piece second.</p>
+<p>Built in stainless steel for everyday wear, it shrugs off the daily grind and pairs as easily with a tee as it does with full streetwear. Fasten it, forget it, and let the emblem do the talking.</p>
+<ul>
+<li>Material: stainless-steel link chain with red enamel emblem inlay</li>
+<li>Style: linked-chain bracelet with a centered flame crest inspired by Bleach</li>
+<li>Finish: polished silver tone with a glossy red accent</li>
+<li>Fit: standard wrist fit with a secure clasp closure</li>
+<li>Design: Ichigo Kurosaki Soul Reaper flame motif</li>
+<li>Wear: lightweight, everyday-durable, unisex</li>
+<li>Care: wipe clean with a soft dry cloth; keep away from water and perfume to preserve shine</li>
+<li>In the box: 1 x anime-inspired bracelet</li>
+</ul>
+<p>Fan-made, anime-inspired design. Not official or licensed, and not affiliated with the creators or rights holders of Bleach.</p>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold red enamel flame emblem inspired by Bleach and Ichigo's Soul Reaper crest
+  • Silver-tone stainless steel built for everyday wear
+  • Polished hexagon-cut links with a glossy red center plate
+  • Secure clasp closure with a comfortable standard wrist fit
+  • Lightweight and unisex, dresses up streetwear or a plain tee
+  • Ships nationwide across Nigeria and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (43 chars)        : Bleach Silver Bracelet | Ichigo Flame Crest
+Meta Description (149 chars) : Bleach-inspired silver stainless-steel bracelet with Ichigo's red flame Soul Reaper emblem. Durable, unisex, everyday wear. Ships across Nigeria and.
+Focus keyword                       : Bleach silver bracelet
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Silver-tone stainless-steel Bleach bracelet with a red enamel flame Soul Reaper emblem on a black reflective surface
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a silver-tone stainless-steel link bracelet with a bold red enamel flame crest at the center, laid on ink-black #111111 surface with paper-white #FAFAFA halftone dot texture and sharp manga speed lines radiating outward, single manga-red #E2261C accent glow on the emblem, fine ink splatter in the corners, framed in a clean manga panel border, dramatic cinematic rim lighting, premium high-contrast macro detail, glossy reflections, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

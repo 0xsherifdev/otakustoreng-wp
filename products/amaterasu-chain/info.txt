@@ -1,0 +1,73 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Amaterasu Chain
+SLUG         : amaterasu-chain
+BUMPA ID     : 1149934
+WOO TYPE     : simple
+PARENT SKU   : OSN-1149934
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Naruto
+
+TAGS: Amaterasu chain, Naruto necklace, Uchiha pendant, anime necklace, Itachi merch, Sasuke chain, anime chain, Sharingan jewelry, anime accessories, pendant necklace
+FRANCHISE: Naruto    CHARACTER: Amaterasu (Itachi/Sasuke Uchiha)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦5,000
+Total stock   : 98
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Black flames that never go out. Wear the roster.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel the Uchiha's undying black flames with this Amaterasu pendant chain. Tarnish-resistant metal, bold ink-sharp detailing and an everyday-tough build made for fans who let their roster speak louder than words.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some techniques never burn out. The Amaterasu Chain channels the Uchiha's signature jet-black flames into a pendant built for daily wear, fusing Sharingan-inspired detailing with a clean, premium silhouette that hits just as hard with a hoodie as it does with a fit. Anime-inspired and made for fans who know exactly what those flames mean.</p><p>Forged from durable, tarnish-resistant metal with crisp, ink-sharp lines, it's lightweight on the neck and heavy on presence. Wipe it clean and it keeps its edge wear after wear.</p><ul><li>Anime-inspired Amaterasu / Uchiha pendant design (fan-made, not affiliated)</li><li>Durable stainless-steel-style alloy that resists tarnish and everyday wear</li><li>Smooth, adjustable-length chain that sits comfortably for most necklines</li><li>Bold, high-contrast detailing for sharp, eye-catching definition</li><li>Lightweight feel made for all-day, every-day wear</li><li>Wipe clean with a soft, dry cloth to keep the shine</li><li>Pairs effortlessly with tees, hoodies, layered chains and streetwear fits</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Amaterasu / Uchiha-inspired pendant with bold, ink-sharp detailing
+  • Durable, tarnish-resistant metal built for daily wear
+  • Adjustable chain length that suits most necklines
+  • Lightweight, comfortable feel for all-day wear
+  • Wipe-clean finish that keeps its shine
+  • Fan-made anime-inspired design, not affiliated with any studio
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (48 chars)        : Amaterasu Chain | Naruto Uchiha Pendant Necklace
+Meta Description (150 chars) : Amaterasu pendant chain inspired by the Uchiha's black flames. Tarnish-resistant, adjustable and built for daily wear. Ships nationwide and worldwide.
+Focus keyword                       : Amaterasu chain
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Amaterasu black-flame Uchiha pendant on a metal chain necklace, anime-inspired design
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of an anime-inspired Amaterasu pendant necklace resting on an ink-black #111111 surface. Single manga-red #E2261C accent glowing like black flame around the pendant, paper-white #FAFAFA highlights catching the metal chain. Halftone dot texture in the background, sharp diagonal speed lines, subtle ink-splatter framing the composition like a manga panel. Premium, cinematic close-up, high contrast, shallow depth of field, dramatic rim lighting.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

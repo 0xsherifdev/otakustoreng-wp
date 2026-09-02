@@ -1,0 +1,76 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Isagi Hoodie
+SLUG         : isagi-hoodie
+BUMPA ID     : 1123068
+WOO TYPE     : variable
+PARENT SKU   : OSN-1123068
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+  - Shop by Anime > Blue Lock
+
+TAGS: Isagi hoodie, Blue Lock hoodie, Isagi Yoichi, Blue Lock merch, anime hoodie, anime streetwear, pullover hoodie, Otaku Store NG
+FRANCHISE: Blue Lock    CHARACTER: Isagi Yoichi
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦28,000
+Total stock   : 498
+VARIATIONS (attribute: Size)
+  M              | ₦28,000 | stock 99   | SKU OSN-1123068-M
+  L              | ₦28,000 | stock 99   | SKU OSN-1123068-L
+  XL             | ₦28,000 | stock 100  | SKU OSN-1123068-XL
+  2XL            | ₦28,000 | stock 100  | SKU OSN-1123068-2XL
+  XXXL           | ₦28,000 | stock 100  | SKU OSN-1123068-XXXL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Step into the ego. Wear Isagi's hunger.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A Blue Lock-inspired Isagi pullover hoodie built for fans who play to win. Brushed-fleece interior, ribbed cuffs and hem, roomy kangaroo pocket, and a relaxed unisex streetwear fit that goes from couch to pitch-side.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the field's deadliest striker with the Isagi Hoodie, an anime-inspired pullover for fans who live by their own ego. The graphic captures Isagi Yoichi's predator instinct in our Dark Manga aesthetic, framed for everyday streetwear that still reads loud on game night.</p><p>Cut for comfort with a brushed-fleece interior that traps heat, a relaxed unisex fit, and finishing details that hold their shape wash after wash. Wear it to training, the city, or the next watch party.</p><ul><li>Pullover hoodie with bold front graphic, anime-inspired (fan-made, not affiliated)</li><li>Brushed-fleece interior for warmth and soft feel</li><li>Ribbed cuffs and hem to keep the fit locked in</li><li>Roomy kangaroo front pocket</li><li>Relaxed unisex streetwear fit</li><li>Made with cotton and polyester for thick, durable wear</li><li>Sizes: M, L, XL, 2XL, XXXL</li><li>Care: machine wash cold inside-out, hang dry to protect the print</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Isagi Yoichi front graphic in our premium Dark Manga style
+  • Brushed-fleece interior for real warmth
+  • Ribbed cuffs and hem plus a roomy kangaroo pocket
+  • Thick cotton-and-polyester build made to last
+  • Relaxed unisex streetwear fit, M through XXXL
+  • Ships nationwide across Nigeria and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (56 chars)        : Isagi Hoodie | Blue Lock Anime Pullover | Otaku Store NG
+Meta Description (147 chars) : Blue Lock-inspired Isagi pullover hoodie. Brushed-fleece, ribbed cuffs, kangaroo pocket. Unisex fit, sizes M-XXXL. ₦28,000. Ships Nigeria-wide and.
+Focus keyword                       : Isagi hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Blue Lock Isagi Yoichi anime-inspired pullover hoodie with bold front graphic in dark manga style
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark Manga studio shot of a folded pullover hoodie featuring a fierce Isagi Yoichi striker graphic. Ink black #111111 background, paper white #FAFAFA hoodie, single manga-red #E2261C accent on the print and laces. Halftone dot shading, dynamic speed lines and ink splatter behind the garment arranged like manga panels, soccer-pitch energy. Premium, cinematic product lighting, sharp focus on brushed-fleece texture and ribbed cuffs. No text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

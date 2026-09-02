@@ -1,0 +1,90 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Op Ring 2
+SLUG         : op-ring-2
+BUMPA ID     : 1508132
+WOO TYPE     : variable
+PARENT SKU   : OSN-1508132
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Rings
+  - Shop by Anime > One Piece
+
+TAGS: One Piece ring, Straw Hat Pirates, Jolly Roger ring, Luffy ring, anime ring, One Piece accessories, stainless steel ring, anime jewellery
+FRANCHISE: One Piece    CHARACTER: Monkey D. Luffy
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦3,300
+Total stock   : 49
+VARIATIONS (attribute: Size)
+  7              | ₦3,300 | stock 7    | SKU OSN-1508132-7
+  8              | ₦3,300 | stock 10   | SKU OSN-1508132-8
+  9              | ₦3,300 | stock 6    | SKU OSN-1508132-9
+  10             | ₦3,300 | stock 8    | SKU OSN-1508132-10
+  11             | ₦3,300 | stock 8    | SKU OSN-1508132-11
+  12             | ₦3,300 | stock 10   | SKU OSN-1508132-12
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Fly the Jolly Roger on your hand.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A blacked-out stainless steel band engraved with the Straw Hat Pirates Jolly Roger. Polished, tarnish-resistant and built for daily wear, this One Piece-inspired ring lets you fly Luffy's flag wherever you go.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Set sail in style. This One Piece-inspired band wears a deep matte-black finish with the Straw Hat Pirates Jolly Roger laser-etched into the face, so Luffy's skull-and-straw-hat crest rides with you everywhere. Clean, minimal and unmistakably crew.</p>
+<p>Forged in tarnish-resistant stainless steel with smooth, comfort-fit edges, it holds its polish through everyday wear, gym sessions and water splashes. Pick your size and claim your spot on the roster. Fan-made and anime-inspired, not affiliated with or endorsed by the rights holders.</p>
+<ul>
+<li>Theme: One Piece / Straw Hat Pirates Jolly Roger crest</li>
+<li>Material: stainless steel with a black finish</li>
+<li>Finish: polished, tarnish-resistant for daily wear</li>
+<li>Design: engraved skull-and-crossbones emblem on a clean band</li>
+<li>Sizes available: 7, 8, 9, 10, 11, 12 (select at checkout)</li>
+<li>Fit: smooth comfort-fit band, unisex</li>
+<li>Care: wipe with a soft dry cloth; avoid harsh chemicals and abrasives</li>
+<li>Includes: 1 anime-inspired ring</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Straw Hat Pirates Jolly Roger crest etched into a clean black band
+  • Stainless steel build that resists tarnish through daily wear
+  • Polished comfort-fit edges, unisex styling
+  • Six sizes from 7 to 12 - selectable at checkout
+  • Subtle enough for everyday, loud enough for the crew
+  • Fan-made One Piece-inspired design, not affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (43 chars)        : One Piece Ring - Straw Hat Jolly Roger Band
+Meta Description (147 chars) : One Piece-inspired stainless steel ring with the Straw Hat Pirates Jolly Roger. Black, polished, tarnish-resistant. Sizes 7-12. Ships from Nigeria.
+Focus keyword                       : One Piece ring
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Black stainless steel One Piece-inspired ring engraved with the Straw Hat Pirates Jolly Roger, worn on a hand
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a black stainless steel band ring engraved with the Straw Hat Pirates skull-and-straw-hat Jolly Roger crest, resting on ink-black #111111 surface with paper-white #FAFAFA negative space; single manga-red #E2261C accent in a slashing speed-line behind the ring; halftone dot texture, subtle ink splatter, sharp manga panel framing; cinematic macro lighting catching the polished edge; premium, high-contrast, no text.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

@@ -1,0 +1,73 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Luffy Moon Figurine
+SLUG         : luffy-moon-figurine
+BUMPA ID     : 2973755
+WOO TYPE     : simple
+PARENT SKU   : OSN-2973755
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Figurines
+  - Shop by Anime > One Piece
+
+TAGS: Luffy figurine, One Piece figurine, Monkey D. Luffy, anime figurine, One Piece collectibles, PVC statue, Straw Hat Pirates, anime merch Nigeria
+FRANCHISE: One Piece    CHARACTER: Monkey D. Luffy
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦35,000
+Total stock   : 10
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The Pirate King under a manga moon.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+An anime-inspired Luffy collector figurine posed against a moonlit backdrop. Hand-detailed PVC sculpt, pre-painted and ready to anchor any One Piece shelf. Built for display, not play.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>The future Pirate King steps out under a glowing moon. This Luffy Moon figurine captures the Straw Hat captain mid-stride, every fold of his vest and that signature grin sculpted to bring the King of the Pirates straight to your shelf. A premium fan-made tribute for any serious One Piece collector.</p><p>Cast in detailed PVC with a crisp factory-style paint job and a moon-themed base, it lands at the centre of a display case or sits proud on a desk. A statement piece for the crew who lives by 'Wear the roster.'</p><ul><li>Material: detailed PVC/resin display statue, pre-painted</li><li>Character: Monkey D. Luffy posed against a moonlit display base</li><li>Finish: factory-style hand-painted detailing</li><li>Type: collector display figurine (not a toy)</li><li>Included: figurine and themed base</li><li>Care: keep out of direct sunlight; dust gently with a soft dry brush</li><li>Anime-inspired fan collectible, not affiliated with or endorsed by the rights holders</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Monkey D. Luffy sculpted against a striking moonlit base
+  • Detailed PVC/resin statue with factory-style hand-painted finish
+  • Premium display piece for any One Piece collection
+  • Anime-inspired fan collectible, not a toy
+  • Ships nationwide across Nigeria and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (48 chars)        : Luffy Moon Figurine | One Piece Collector Statue
+Meta Description (150 chars) : Anime-inspired Luffy Moon figurine from One Piece. Detailed pre-painted PVC collector statue on a moonlit base. ₦35,000. Ships from Nigeria worldwide.
+Focus keyword                       : Luffy Moon figurine
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Luffy Moon collector figurine of Monkey D. Luffy from One Piece posed against a glowing moon base
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a Monkey D. Luffy collector figurine standing on a glowing moon base, ink black #111111 backdrop with paper white #FAFAFA halftone dots, single manga-red #E2261C accent on a thin speed-line burst behind the figure, dramatic ink splatter framing one manga panel, cinematic rim lighting, premium high-detail PVC statue, sharp focus, no text.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

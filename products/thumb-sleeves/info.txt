@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Thumb Sleeves
+SLUG         : thumb-sleeves
+BUMPA ID     : 1734123
+WOO TYPE     : simple
+PARENT SKU   : OSN-1734123
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Uncategorized
+
+TAGS: gaming thumb sleeves, mobile gaming finger sleeves, anti-sweat thumb sleeves, touchscreen gaming gloves, PUBG mobile accessories, COD Mobile gear, Free Fire accessories, anime gaming merch, finger sleeves Nigeria, Otaku Store NG
+FRANCHISE: Generic Anime    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦3,000
+Total stock   : 9
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Anti-sweat finger sleeves built for mobile gaming.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Level up your mobile matches with breathable thumb sleeves that kill finger sweat and sharpen every touchscreen tap. Ultra-thin woven fabric keeps swipes fast and aim steady through long ranked grind sessions on PUBG, COD Mobile and Free Fire.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>For the otaku who games as hard as they watch, the Thumb Sleeves are your unfair advantage. These ultra-thin woven finger covers slip over your thumbs and slide silky-smooth across the glass, wicking away sweat so your taps, swipes and claw-grip flicks stay crisp from the loading screen to the final circle.</p><p>Knitted from a breathable, conductive-feel fabric with a reinforced contrast-stitched cuff, they cut friction without dulling your touchscreen sensitivity. Stretchy one-size construction hugs most thumb and fingertip sizes, so you can drag, scope and fire without losing a frame. Anime-inspired gear for fan-gamers, not affiliated with any studio or brand.</p><ul><li>Sold as a pair of fingertip / thumb gaming sleeves</li><li>Breathable woven fabric designed to reduce sweat and finger drag</li><li>Smooth surface keeps touchscreen taps and swipes responsive</li><li>Stretch knit, one-size fit for most thumbs and fingertips</li><li>Reinforced contrast-stitched cuff edge for durability</li><li>Lightweight and discreet, easy to slip on and off mid-match</li><li>Built for mobile shooters and MOBAs: PUBG Mobile, COD Mobile, Free Fire and more</li><li>Hand wash, air dry to keep the grip fresh</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Anti-sweat woven fabric keeps fingers dry through long sessions
+  • Smooth surface boosts touchscreen sensitivity and swipe speed
+  • Stretch one-size knit fits most thumbs and fingertips
+  • Reinforced contrast-stitched cuff for a snug, lasting hold
+  • Sold as a pair, perfect for claw-grip mobile gaming
+  • Lightweight and discreet, slips on and off in seconds
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (48 chars)        : Gaming Thumb Sleeves | Anti-Sweat Finger Sleeves
+Meta Description (155 chars) : Anti-sweat thumb sleeves for mobile gaming. Breathable woven fabric boosts touchscreen sensitivity for PUBG, COD Mobile and Free Fire. Shop at Otaku Store.
+Focus keyword                       : gaming thumb sleeves
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Pair of black woven gaming thumb sleeves with blue stitched cuffs worn on fingertips
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga style studio product shot of a pair of black woven fingertip gaming thumb sleeves with a single manga-red #E2261C stitched cuff edge, ink black #111111 background, paper white #FAFAFA highlights. Halftone dot texture, sharp diagonal speed lines, ink splatter framing the sleeves, arranged inside a clean manga panel layout. Premium, cinematic, high-contrast hero lighting, macro fabric detail visible, no text.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

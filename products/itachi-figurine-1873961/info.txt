@@ -1,0 +1,70 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Itachi Figurine
+SLUG         : itachi-figurine-1873961
+BUMPA ID     : 1873961
+WOO TYPE     : simple
+PARENT SKU   : OSN-1873961
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Figurines
+  - Shop by Anime > Naruto
+
+TAGS: Itachi figurine, Naruto figurine, Itachi Uchiha statue, Akatsuki figurine, anime collector statue, Naruto collectible, Uchiha, anime figure Nigeria
+FRANCHISE: Naruto    CHARACTER: Itachi Uchiha
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦15,000
+Total stock   : 9
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The Akatsuki prodigy, sculpted in shadow and crows.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Bring the Uchiha prodigy home. This anime-inspired Itachi statue captures him in the Akatsuki cloak, ringed by his signature crows on a display base. Pre-painted PVC/resin detail built for the shelf, not the toy box. Fan-made tribute.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some characters earn the centre of the shelf. This Itachi Uchiha figurine renders the Akatsuki genius mid-presence: the high red-clouded collar, that calm unreadable stare, and a storm of crows breaking from the base in classic Uchiha fashion. The crimson crescent-moon energy and inky cloak fall make it a statement piece for any Naruto display.</p><p>Hand-painted detail across the robe, hair and feathers gives it real depth under shelf lighting. This is a collector display statue, not a plaything, and it ships ready to stand on its sculpted base. A fan-made, anime-inspired tribute, not affiliated with or endorsed by the official rights holders.</p><ul><li>Character: Itachi Uchiha (Akatsuki) from Naruto</li><li>Material: detailed sculpted PVC and resin display statue</li><li>Finish: pre-painted, fixed pose, ready to display out of the box</li><li>Included: figure with integrated display base and crow detailing</li><li>Use: collector shelf / desk display piece, not a toy</li><li>Care: keep out of direct sunlight; dust gently with a soft dry brush or cloth; handle thin parts with care</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Itachi in the iconic red-cloud Akatsuki cloak
+  • Dramatic crow detailing with a sculpted display base
+  • Hand-painted PVC/resin with shelf-ready depth
+  • Collector display statue, not a toy
+  • Fan-made, anime-inspired tribute
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (47 chars)        : Itachi Uchiha Figurine | Naruto Akatsuki Statue
+Meta Description (148 chars) : Anime-inspired Itachi Uchiha figurine in the Akatsuki cloak with crow detailing on a display base. Pre-painted collector statue. Ships from Nigeria.
+Focus keyword                       : Itachi figurine
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Itachi Uchiha figurine in black Akatsuki cloak with red clouds, surrounded by crows on a display base against a red crescent moon
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of an Itachi Uchiha collector statue in the Akatsuki cloak ringed by crows, three-quarter angle on a sculpted base. Ink black #111111 background, paper white #FAFAFA rim light, single manga-red #E2261C accent on the cloud motifs and a crescent-moon glow. Halftone dot shading, sharp speed lines, ink-splatter behind the figure, framed inside a thin manga panel border. Premium, cinematic, high-contrast, crisp focus on painted detail.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

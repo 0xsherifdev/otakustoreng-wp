@@ -1,0 +1,81 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Akastuki Cross Chain
+SLUG         : akastuki-cross-chain
+BUMPA ID     : 1927322
+WOO TYPE     : simple
+PARENT SKU   : OSN-1927322
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Naruto
+
+TAGS: Akatsuki cross chain, Akatsuki necklace, Naruto necklace, anime cross pendant, red cloud pendant, anime chain, Naruto jewellery, Akatsuki merch
+FRANCHISE: Naruto    CHARACTER: Akatsuki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦6,000
+Total stock   : 498
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The red cloud, forged in steel.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+An anime-inspired gothic cross pendant carrying the red Akatsuki cloud at its heart, cast in tarnish-resistant stainless steel on a twisted rope chain. Winged arms, a dagger tip, and one bold scarlet accent for fans who wear the roster loud.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some crews you just have to rep. The Akatsuki Cross Chain fuses a gothic winged cross with the unmistakable red cloud crest, so the most feared organisation in the Hidden Villages rides at the centre of your chest. The polished silver-tone body catches the light while the scarlet enamel cloud holds your eye, finished with carved bat-wing arms and a sharp dagger-style point.</p>
+<p>Built from durable stainless-steel-style alloy that shrugs off everyday wear and resists tarnish, it pairs as easily with a black tee as it does with full cosplay. Fan-made and anime-inspired, not affiliated with or endorsed by the official rights holders.</p>
+<ul>
+<li>Anime-inspired Akatsuki red-cloud cross pendant with winged arms and dagger-tip base</li>
+<li>Silver-tone polished finish with bold scarlet enamel cloud accent</li>
+<li>Durable stainless-steel-style alloy, tarnish-resistant for daily wear</li>
+<li>Twisted rope chain included, slips on over the head for an everyday fit</li>
+<li>Unisex statement piece that suits streetwear and cosplay alike</li>
+<li>Care: wipe clean with a soft dry cloth; keep away from water and perfume</li>
+<li>What's included: one cross pendant on rope chain</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Iconic red Akatsuki cloud set in a winged gothic cross
+  • Polished silver-tone finish with a single bold scarlet accent
+  • Tarnish-resistant stainless-steel-style alloy for daily wear
+  • Twisted rope chain included, easy slip-on fit
+  • Unisex statement piece for streetwear or cosplay
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (46 chars)        : Akatsuki Cross Chain Necklace | Naruto Pendant
+Meta Description (155 chars) : Anime-inspired Akatsuki red-cloud cross pendant in tarnish-resistant steel on a rope chain. Unisex Naruto necklace, ships nationwide and worldwide. ₦6,000.
+Focus keyword                       : Akatsuki cross chain
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Silver-tone Akatsuki cross pendant with red cloud enamel centre and winged arms on a twisted rope chain, held in hand
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a silver-tone gothic cross pendant featuring a single scarlet-red enamel cloud crest at its centre, winged arms and a dagger-tip base, hanging from a twisted rope chain. Ink black #111111 backdrop, paper white #FAFAFA highlights, one manga-red #E2261C accent echoing the cloud. Halftone dot shading, sharp speed lines radiating outward, subtle ink splatter, framed in a single bold manga panel. Premium, cinematic, high-contrast macro detail on the polished steel and enamel.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

@@ -1,0 +1,74 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Anime Glow In The Dark Gloves
+SLUG         : anime-glow-in-the-dark-gloves
+BUMPA ID     : 1350130
+WOO TYPE     : variable
+PARENT SKU   : OSN-1350130
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+
+TAGS: anime gloves, glow in the dark gloves, fingerless gloves, one piece gloves, attack on titan gloves, naruto gloves, anime accessories, cosplay gloves
+FRANCHISE: Generic Anime    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,000
+Total stock   : 38
+VARIATIONS (attribute: Style)
+  1              | ₦4,000 | stock 8    | SKU OSN-1350130-1
+  2              | ₦4,000 | stock 10   | SKU OSN-1350130-2
+  3              | ₦4,000 | stock 10   | SKU OSN-1350130-3
+  4              | ₦4,000 | stock 10   | SKU OSN-1350130-4
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Fingerless gloves that light up your fandom after dark
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Fingerless anime gloves with glow-in-the-dark emblems that charge by daylight and glow at night. Choose from four crests across One Piece, Attack on Titan and Naruto. Soft, stretchy, one-size everyday wear.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Charge them in the light, then watch your crest ignite. These fingerless anime gloves carry glow-in-the-dark emblems that soak up daylight and light up once the lights drop, so you rep your roster from the cypher to the convention floor. Fingerless cut keeps your phone, controller and grip free while the ribbed wrist locks in the fit.</p><p>Pick your allegiance across four bold styles: Style 1 and Style 4 fly One Piece Jolly Rogers, Style 2 carries the Attack on Titan Wings of Freedom, and Style 3 channels the Naruto Sharingan. Fan-inspired merch, not official or licensed, just built for fans who wear the badge loud.</p><ul><li><strong>Item:</strong> Fingerless anime gloves with glow-in-the-dark print, sold as a pair</li><li><strong>Glow tech:</strong> Photo-luminescent emblem, charges under light and glows in the dark, no batteries</li><li><strong>Style options:</strong> 1 and 4 (One Piece skull crests), 2 (Attack on Titan Survey Corps wings), 3 (Naruto Sharingan)</li><li><strong>Material:</strong> Soft stretch knit for breathable everyday wear</li><li><strong>Fit:</strong> Stretchy one-size, fingerless design with ribbed wrist; numbered left to right in the photo</li><li><strong>Best for:</strong> Cosplay, gaming, daily wear, anime meetups and gifting</li><li><strong>Care:</strong> Hand wash cold, air dry; turn inside out to protect the glow print</li><li><strong>Price:</strong> ₦4,000 per pair</li><li><strong>Delivery:</strong> 1-5 days within Nigeria; nationwide and worldwide shipping</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Glow-in-the-dark emblem charges by day and lights up at night
+  • Four styles across One Piece, Attack on Titan and Naruto
+  • Fingerless cut keeps phone, controller and grip free
+  • Soft stretch knit with ribbed wrist for one-size comfort
+  • No batteries needed, just light to recharge the glow
+  • Fan-inspired everyday accessory at ₦4,000 a pair
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (46 chars)        : Anime Glow In The Dark Gloves | Otaku Store NG
+Meta Description (150 chars) : Fingerless anime glow-in-the-dark gloves with One Piece, Attack on Titan and Naruto crests that glow at night. ₦4,000. Ships nationwide and worldwide.
+Focus keyword                       : anime glow in the dark gloves
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Four styles of black fingerless anime gloves with glowing blue emblems including One Piece skulls, Attack on Titan wings and Naruto Sharingan
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a pair of black fingerless anime gloves worn on raised fists, glow-in-the-dark emblem luminous against an ink-black #111111 background, paper-white #FAFAFA halftone-dot field bleeding in from one corner, single manga-red #E2261C accent stripe slicing across as a speed-line, dramatic ink splatter and diagonal speed lines framing the hands inside a clean manga panel border, cinematic rim light catching the knit texture, premium high-contrast comic aesthetic, sharp focus on the glowing crest
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - QA fixes applied: Hallucinated glow color: 'blaze blue', 'electric blue' glow is an invented specific not supported by the product type (glow-in-the-dark prints are typically green/white). Softened to a true-to-type glow claim.; Hallucinated material: 'cotton-blend knit' is an invented fabric specific; stretch glow gloves are typically a synthetic stretch knit. Genericized to 'soft stretch knit'.; Aligned the supplemental image prompt to a generic luminous glow rather than a specific 'electric blue' to match the corrected copy.
+================================================================================

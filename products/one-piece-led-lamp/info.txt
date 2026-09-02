@@ -1,0 +1,82 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : One piece led lamp
+SLUG         : one-piece-led-lamp
+BUMPA ID     : 3009385
+WOO TYPE     : simple
+PARENT SKU   : OSN-3009385
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Home & Decor > LED Lamps
+  - Shop by Anime > One Piece
+
+TAGS: One Piece LED lamp, Straw Hat Pirates, anime LED lamp, 3D illusion lamp, anime night light, One Piece decor, USB desk lamp, anime room decor, Jolly Roger lamp
+FRANCHISE: One Piece    CHARACTER: Straw Hat Pirates (Jolly Roger)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦16,000
+Total stock   : 8
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Hoist the Straw Hat flag in glowing 3D acrylic.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Light up your desk with the Straw Hat Pirates Jolly Roger rendered in 3D-illusion acrylic. USB-powered, energy-efficient LEDs with switchable colours, this One Piece-inspired night light is the centrepiece every crew deserves on their shelf.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Set sail every time the lights go down. This One Piece-inspired LED lamp etches the Straw Hat Pirates' Jolly Roger into a crystal-clear acrylic panel, so the iconic skull-and-straw-hat crest appears to float in mid-air as a glowing 3D illusion. Slim, premium and built to be seen, it turns any desk, shelf or gaming setup into Grand Line territory.</p>
+<p>Powered over USB and running on cool, energy-efficient LEDs, it stays comfortable to keep on for hours and switches between multiple light colours so you can match your mood or your room. A clean centrepiece for true nakama. Fan-made and anime-inspired; not official or affiliated.</p>
+<ul>
+<li><strong>Design:</strong> Straw Hat Pirates Jolly Roger (skull, straw hat and crossbones)</li>
+<li><strong>Build:</strong> laser-etched clear acrylic panel on a solid base</li>
+<li><strong>Effect:</strong> 3D-illusion glow that appears to hover when lit</li>
+<li><strong>Lighting:</strong> energy-efficient LEDs with multiple selectable colours</li>
+<li><strong>Power:</strong> USB-powered for desks, shelves and bedside use</li>
+<li><strong>Best for:</strong> desk, gaming setup, bedroom shelf or display nook</li>
+<li><strong>In the box:</strong> acrylic LED lamp, base and USB cable</li>
+<li><strong>Note:</strong> fan / anime-inspired collectible, not official or licensed</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Straw Hat Pirates Jolly Roger in glowing 3D-illusion acrylic
+  • Multiple switchable light colours to match your setup
+  • USB-powered with cool, energy-efficient LEDs
+  • Laser-etched clear panel on a solid display base
+  • Centrepiece for desks, shelves and gaming corners
+  • Fan-made One Piece-inspired collectible, not affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : One Piece LED Lamp | Straw Hat 3D Night Light
+Meta Description (153 chars) : One Piece-inspired LED lamp with the Straw Hat Jolly Roger in 3D acrylic. USB-powered, multi-colour night light. Ships nationwide and worldwide. ₦16,000.
+Focus keyword                       : One Piece LED lamp
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: One Piece LED lamp showing the Straw Hat Pirates Jolly Roger etched in clear acrylic, glowing green on a black USB-powered base
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product hero of an anime acrylic LED lamp on a matte ink-black #111111 desk surface, paper-white #FAFAFA negative space, single manga-red #E2261C accent glow rimming the acrylic edge. A laser-etched clear acrylic panel depicting a stylised pirate skull-and-crossbones with a wide straw hat appears to float in 3D above a slim black base; thin USB cable trailing off-frame. Cinematic low-key studio lighting, dramatic rim light, halftone dot texture in the background, bold speed lines radiating from the lamp, subtle ink-splatter accents, manga-panel framing. Premium, high-contrast, photoreal product photography, sharp focus, 4:5 vertical.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

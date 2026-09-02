@@ -1,0 +1,77 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Aot Led Lamps
+SLUG         : aot-led-lamps
+BUMPA ID     : 1241313
+WOO TYPE     : variable
+PARENT SKU   : OSN-1241313
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Home & Decor > Room Decor
+  - Shop by Anime > Attack on Titan
+
+TAGS: AOT LED lamp, Attack on Titan, anime night light, 3D illusion lamp, Eren Yeager, Mikasa, anime room decor, otaku desk lamp
+FRANCHISE: Attack on Titan    CHARACTER: Eren Yeager
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦16,000
+Total stock   : 38
+VARIATIONS (attribute: Style)
+  1              | ₦16,000 | stock 8    | SKU OSN-1241313-1
+  2              | ₦16,000 | stock 10   | SKU OSN-1241313-2
+  3              | ₦16,000 | stock 10   | SKU OSN-1241313-3
+  4              | ₦16,000 | stock 10   | SKU OSN-1241313-4
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+A 3D titan glow for your battle station
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Light up your space with a 3D acrylic AOT night lamp. Four scout-grade designs, a clear etched panel on a black base, and 16 glowing colors switched by remote. The optical-illusion glow that owns any anime shelf.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Devote your room to the cause. This Attack on Titan LED lamp uses a laser-etched acrylic panel that catches the light to create a striking 3D optical-illusion effect, turning a flat sheet into a glowing tribute that floats above its base. Pick your fighter from four scout-grade designs, from Eren mid-transformation to the Eren and Mikasa duo.</p><p>By day it is a crisp ink-line sculpture; by night it shifts through 16 colors at the press of a remote, setting the mood for late-night binges, gaming, or just flexing your roster on the shelf. A subtle, anime-inspired centrepiece for any otaku space.</p><ul><li>3D illusion night lamp: laser-etched clear acrylic panel on a solid black base</li><li>16 colors with remote control: switch shades or lock a single glow</li><li>Style options: 1 (Eren titan face), 2 (Attack Titan and scout), 3 (Eren and Mikasa), 4 (Eren transformation)</li><li>USB-powered base for desk, shelf, bedside, or gaming setup</li><li>Soft, low-glare light suited to bedrooms and night-time use</li><li>Lightweight and compact: easy to position and gift</li><li>Fan-made, anime-inspired decor, not affiliated with or endorsed by the rights holders</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • 3D optical-illusion glow from a flat etched acrylic panel
+  • 16 colors switched and held by the included remote
+  • Four AOT designs to pick your fighter
+  • USB-powered base for desk, shelf, or bedside
+  • Soft low-glare light made for late-night rooms
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : AOT LED Lamp | 3D Attack on Titan Night Light
+Meta Description (151 chars) : Attack on Titan 3D LED night lamp with 16 colors and remote. Four AOT designs on an etched acrylic panel. Ships from Nigeria, nationwide and worldwide.
+Focus keyword                       : AOT LED lamp
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Attack on Titan 3D acrylic LED night lamp glowing purple, showing Eren Yeager's titan face on a clear etched panel atop a black base
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product studio shot of a 3D acrylic illusion LED night lamp on a black circular base, the etched clear panel showing an Attack on Titan style etched line portrait. Ink black #111111 background with paper white #FAFAFA highlights and a single manga-red #E2261C glow accent rimming the panel. Halftone dot shading, dynamic speed lines and ink splatter framing the lamp like a manga panel, soft volumetric light bloom from the base. Premium, cinematic, high contrast, centered hero composition.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

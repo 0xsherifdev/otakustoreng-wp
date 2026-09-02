@@ -1,0 +1,72 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Death note
+SLUG         : death-note
+BUMPA ID     : 1733979
+WOO TYPE     : variable
+PARENT SKU   : OSN-1733979
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Uncategorized
+
+TAGS: Death Note, Death Note notebook, L Lawliet, anime notebook, Death Note merch, Kira, cosplay prop, L pendant necklace, anime collectible, feather quill pen
+FRANCHISE: Death Note    CHARACTER: L (Lawliet)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦10,000
+Total stock   : 391
+VARIATIONS (attribute: Size)
+  Medium         | ₦10,000 | stock 194  | SKU OSN-1733979-MEDIUM
+  Large          | ₦14,500 | stock 197  | SKU OSN-1733979-LARGE
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The notebook, the quill, the L pendant.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel your inner Kira with this Death Note replica notebook set. Black "DEATH NOTE" cover, lined cream pages ready to be filled, plus a feather quill pen and an L pendant on a cord necklace. The full ritual, in your hands.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Pick up the pen and the rules apply. This Death Note replica set recreates the most iconic prop in anime: a matte black notebook stamped with the eerie "DEATH NOTE" title, packed with lined cream pages waiting for your verdict. Whether it is roleplay, journaling, or a centrepiece for your shelf, it carries that unmistakable Kira-versus-L tension.</p><p>The set arrives complete with a white feather quill pen for that authentic handwritten look and a gothic "L" pendant on a cord necklace, a nod to the world's greatest detective. A statement piece for any Death Note fan and a clean gift for the anime obsessive in your life.</p><ul><li>Death Note-inspired replica notebook with printed black cover and lined interior pages</li><li>Includes a white feather quill pen</li><li>Includes an L (Lawliet) initial pendant on an adjustable cord necklace</li><li>Size options: Medium and Large (notebook size)</li><li>Best for roleplay, journaling, cosplay props and display</li><li>Fan-made, anime-inspired collectible; not affiliated with or endorsed by the rights holders</li><li>Wipe the cover with a dry cloth; keep pages away from moisture</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Replica DEATH NOTE notebook with printed black cover and lined pages
+  • Comes with a white feather quill pen
+  • Includes an L (Lawliet) pendant on a cord necklace
+  • Choose Medium or Large notebook size
+  • Perfect for roleplay, journaling, cosplay and display
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (46 chars)        : Death Note Replica Notebook Set with L Pendant
+Meta Description (150 chars) : Death Note replica notebook with lined pages, feather quill pen and L pendant necklace. Medium or Large. Ships from Nigeria, nationwide and worldwide.
+Focus keyword                       : Death Note notebook
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Death Note replica notebook with black cover beside an L pendant cord necklace and a white feather quill pen
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a black Death Note replica notebook lying on ink-black #111111 surface, white feather quill resting across it, an L initial pendant on a cord necklace beside it. Paper-white #FAFAFA halftone dot texture in background, single manga-red #E2261C accent slashing diagonally as a speed-line, subtle ink splatter at the edges, dramatic cinematic side lighting, premium high-contrast manga panel framing.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

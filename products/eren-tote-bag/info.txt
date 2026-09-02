@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Eren Tote Bag
+SLUG         : eren-tote-bag
+BUMPA ID     : 2221632
+WOO TYPE     : simple
+PARENT SKU   : OSN-2221632
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Tote Bags
+  - Shop by Anime > Attack on Titan
+
+TAGS: Eren tote bag, Attack on Titan tote bag, Eren Yeager, anime canvas tote, anime tote bag, AOT merch, anime bag Nigeria, Shingeki no Kyojin
+FRANCHISE: Attack on Titan    CHARACTER: Eren Yeager
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦7,000
+Total stock   : 10
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the will to fight beyond the walls.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+An Attack on Titan-inspired canvas tote built for the daily haul. Bold Eren Yeager artwork, reinforced handles and a roomy main compartment hold books, groceries or your full con loadout with room to spare.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some fans dream of freedom. You carry it. The Eren Tote Bag puts the Attack on Titan frontman on durable canvas, printed to hold its punch wash after wash, so the artwork stays as sharp as Eren's resolve. Sturdy build, reinforced handles and a wide-open main space make this the everyday carry that keeps up with you.</p><p>Whether it is a campus run, a grocery sweep or a full convention haul, this anime-inspired tote swings from shoulder to hand with ease. Fan-made and built for fans, it is the kind of statement piece that lets you wear the roster wherever you go.</p><ul><li>Material: durable woven canvas with a crisp printed front panel</li><li>Artwork: bold Eren Yeager / Attack on Titan-inspired graphic</li><li>Handles: reinforced top handles for shoulder or hand carry</li><li>Capacity: roomy single main compartment for books, groceries and con hauls</li><li>Use: everyday carry, campus, shopping, travel and events</li><li>Care: spot clean or cold hand wash, air dry, do not tumble dry</li><li>Includes: 1 x Eren anime-inspired canvas tote bag</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold Eren Yeager / Attack on Titan-inspired front print
+  • Durable woven canvas that holds shape and color
+  • Reinforced top handles for shoulder or hand carry
+  • Roomy main compartment for books, groceries or con hauls
+  • Lightweight everyday carry for campus, shopping and travel
+  • Fan-made, anime-inspired design - not affiliated with any studio
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (43 chars)        : Eren Tote Bag | Attack on Titan Canvas Tote
+Meta Description (149 chars) : Attack on Titan-inspired Eren canvas tote bag with reinforced handles and roomy carry for books, groceries and con hauls. Ships from Nigeria. ₦7,000.
+Focus keyword                       : Eren tote bag
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Eren Yeager Attack on Titan-inspired canvas tote bag with reinforced handles
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a canvas tote bag standing upright on a paper-white #FAFAFA surface against an ink-black #111111 backdrop. The tote front features a bold inked Eren Yeager-style anime portrait rendered in halftone dots with a single manga-red #E2261C accent slashing across it. Dramatic manga speed lines radiate from behind the bag, with subtle ink splatter in the corners and a clean manga panel border framing the scene. Cinematic side lighting, crisp shadows, premium high-contrast monochrome with one red accent, photoreal canvas texture and visible reinforced stitched handles.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

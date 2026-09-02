@@ -1,0 +1,85 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Jjk Bracelet
+SLUG         : jjk-bracelet
+BUMPA ID     : 1920091
+WOO TYPE     : variable
+PARENT SKU   : OSN-1920091
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Bracelets
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Jujutsu Kaisen bracelet, JJK bracelet, Gojo bracelet, Sukuna bracelet, Itadori bracelet, anime bracelet, anime accessories, braided cord bracelet, JJK merch, anime gift
+FRANCHISE: Jujutsu Kaisen    CHARACTER: Gojo, Sukuna, Itadori
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦3,500
+Total stock   : 30
+VARIATIONS (attribute: Style)
+  Gojou          | ₦3,500 | stock 10   | SKU OSN-1920091-GOJOU
+  Sukuna         | ₦3,500 | stock 10   | SKU OSN-1920091-SUKUNA
+  Itadori        | ₦3,500 | stock 10   | SKU OSN-1920091-ITADORI
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Braided cord bracelet with sorcerer charm.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Stack the strongest. A braided black cord bracelet with metal beads and a round glass charm of your fave JJK sorcerer. Pick Gojo, Sukuna or Itadori. Adjustable slide-knot fits most wrists, everyday-durable.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Carry your curse with you. This Jujutsu Kaisen-inspired bracelet wraps multiple braided black cords around a polished metal-bead frame, finished with a round glass cabochon charm of your chosen sorcerer. Gojo Satoru, Sukuna or Yuji Itadori, each portrait set under a glossy domed lens that keeps the artwork sharp.</p>
+<p>An adjustable slide-knot closure means it tightens and loosens to fit most wrists, so it sits clean whether you stack it solo or layer it into a fuller wrist game. Built tough enough for daily wear and subtle enough to pair with any fit. Wear the roster.</p>
+<ul>
+<li>Style options: Gojo, Sukuna, Itadori (sold individually)</li>
+<li>Multi-strand braided cord build with metal accent beads</li>
+<li>Round domed glass cabochon charm with character artwork</li>
+<li>Adjustable slide-knot closure for a custom fit</li>
+<li>Everyday-durable, lightweight and layer-friendly</li>
+<li>Unisex design, great as a gift for JJK fans</li>
+<li>Fan-made, anime-inspired design, not affiliated with or endorsed by the rights holders</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Round glass charm of Gojo, Sukuna or Itadori
+  • Braided black cord with polished metal beads
+  • Adjustable slide-knot closure fits most wrists
+  • Everyday-durable and easy to layer or stack
+  • Unisex, lightweight, perfect JJK fan gift
+  • Fan-made anime-inspired design, not official
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (47 chars)        : Jujutsu Kaisen Bracelet - Gojo, Sukuna, Itadori
+Meta Description (142 chars) : JJK braided cord bracelet with a glass charm of Gojo, Sukuna or Itadori. Adjustable, everyday-durable. ₦3,500. Ships nationwide and worldwide.
+Focus keyword                       : Jujutsu Kaisen bracelet
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Three Jujutsu Kaisen braided cord bracelets with metal beads and round glass charms of Gojo, Sukuna and Itadori, held in hand
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a single braided black cord bracelet with polished metal beads and a round domed glass charm showing a stylized Jujutsu Kaisen sorcerer portrait. Ink black #111111 background, paper white #FAFAFA highlights, one manga-red #E2261C accent on the charm rim. Halftone dot texture, sharp speed lines radiating outward, subtle ink splatter, framed inside a single bold manga panel border. Premium, cinematic macro lighting, crisp reflections on the metal beads, shallow depth of field. No text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

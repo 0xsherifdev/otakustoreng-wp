@@ -1,0 +1,80 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Naruto Phone Cases
+SLUG         : naruto-phone-cases
+BUMPA ID     : 1138709
+WOO TYPE     : variable
+PARENT SKU   : OSN-1138709
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Phone Cases
+  - Shop by Anime > Naruto
+
+TAGS: Naruto phone case, anime phone case, Naruto case, ninja phone case, iPhone anime case, Android anime case, shinobi merch, Hidden Leaf
+FRANCHISE: Naruto    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦6,500
+Total stock   : 699
+VARIATIONS (attribute: Style)
+  1              | ₦6,500 | stock 100  | SKU OSN-1138709-1
+  2              | ₦6,500 | stock 100  | SKU OSN-1138709-2
+  3              | ₦6,500 | stock 100  | SKU OSN-1138709-3
+  4              | ₦6,500 | stock 100  | SKU OSN-1138709-4
+  5              | ₦6,500 | stock 100  | SKU OSN-1138709-5
+  6              | ₦6,500 | stock 99   | SKU OSN-1138709-6
+  7              | ₦6,500 | stock 100  | SKU OSN-1138709-7
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the Hidden Leaf everywhere you go.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Anime-inspired Naruto phone case with bold ninja-world artwork on a slim, drop-friendly shell. Raised edges guard your screen and camera, precise cutouts keep every port open, and seven designs let you rep your favourite shinobi.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Rep the Hidden Leaf every time you reach for your phone. This Naruto-inspired case wraps your device in bold shinobi-world artwork, printed crisp and vivid across a slim protective shell that still slides easily into any pocket. Choose from seven designs and lock in the look that matches your ninja way.</p><p>Built to take the knocks of everyday life, the raised bezel sits proud of your screen and camera so face-down drops meet the case, not the glass. Available for iPhone and Android — just tell us your exact phone model at checkout and we'll match the fit.</p><ul><li>Slim protective shell in durable TPU / hard PC</li><li>Raised edges around the screen and camera for added protection</li><li>Precise cutouts for ports, buttons, speakers and cameras</li><li>Bold, fade-resistant Naruto-inspired print</li><li>7 designs to choose from (numbered 1–7)</li><li>Fits iPhone and Android — confirm your phone model after ordering</li><li>Lightweight grip-friendly profile that won't bulk out your pocket</li><li>Fan-made, anime-inspired design — not official or affiliated</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold Naruto-inspired artwork across a slim, pocket-friendly shell
+  • Raised screen and camera edges for everyday drop protection
+  • Precise cutouts keep every port, button and speaker open
+  • 7 designs to choose from — rep your favourite shinobi
+  • Fits both iPhone and Android — just confirm your model
+  • Fan-made, anime-inspired design (not official or affiliated)
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (48 chars)        : Naruto Phone Case | Anime iPhone & Android Cover
+Meta Description (148 chars) : Slim Naruto-inspired phone case with bold ninja artwork, raised edges and precise cutouts. 7 designs for iPhone & Android. Ships nationwide. ₦6,500.
+Focus keyword                       : Naruto phone case
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Naruto-inspired slim phone case with bold ninja-world manga artwork on iPhone
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a slim anime-inspired Naruto phone case standing upright, three-quarter angle. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent on the artwork. Halftone dot texture, dynamic speed lines and ink splatter framing the case in a manga panel. Crisp shinobi-world illustration printed across the shell, raised edges visible, premium cinematic lighting, sharp focus, high detail.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

@@ -1,0 +1,73 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Demon Slayer Masks
+SLUG         : demon-slayer-masks
+BUMPA ID     : 1260565
+WOO TYPE     : simple
+PARENT SKU   : OSN-1260565
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Masks
+  - Shop by Anime > Demon Slayer
+
+TAGS: Demon Slayer mask, fox mask, kitsune mask, Sabito mask, Makomo mask, Tanjiro mask, anime cosplay mask, Final Selection, demon slayer cosplay, anime mask
+FRANCHISE: Demon Slayer    CHARACTER: Sabito, Makomo & Tanjiro (Final Selection fox masks)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦12,000
+Total stock   : 100
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Final Selection fox masks. Wear the roster.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel Mount Sagiri with these molded kitsune face masks from Demon Slayer. Pick the cracked Sabito, the blue-flower Makomo, or Tanjiro's red sun-ray training mask. Built for cosplay, cons and shelf display. Fan-made, anime-inspired.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Every Final Selection survivor earned a fox. Now you can wear one. These Demon Slayer kitsune masks recreate the iconic warding faces from Mount Sagiri, hand-painted in clean white with that single hit of manga-red that runs through the whole roster. Whether you're channeling Sabito's battle-scarred crack, Makomo's soft blue blossoms, or Tanjiro's red sun-ray training mask, this is the piece that finishes the look.</p><p>Molded for a curved face fit with cut-out eyes for visibility, these are made for cosplay, conventions, photoshoots and wall display alike. A fan-made, anime-inspired collectible, not affiliated with or endorsed by the official rights holders.</p><ul><li>Design: Demon Slayer fox/kitsune face mask with sculpted cat-style ears</li><li>Styles available: Sabito (cracked scar + red cord), Makomo (blue flowers, yellow ears), Tanjiro (red sun-ray, red eyes)</li><li>Material: lightweight molded resin/plastic shell with painted detailing</li><li>Coverage: full-face front shell, contoured to sit close on the face</li><li>Eyes: open cut-outs for clear visibility</li><li>Fit: adjustable elastic strap / cord for one-size-fits-most wear</li><li>Best for: cosplay, costume parties, conventions, photoshoots, anime room display</li><li>Care: wipe clean with a soft dry cloth; keep away from direct heat to protect the paint</li><li>In the box: 1 Demon Slayer fox mask (style as selected)</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Iconic Demon Slayer Final Selection fox mask, faithful to the on-screen design
+  • Choose Sabito, Makomo or Tanjiro's red sun-ray training mask
+  • Lightweight molded shell with hand-painted detail and sculpted ears
+  • Open eye cut-outs for clear visibility during wear
+  • Adjustable strap for a comfortable one-size-fits-most fit
+  • Cosplay-ready and just as sharp mounted on the wall
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (53 chars)        : Demon Slayer Fox Mask | Sabito Makomo Tanjiro Cosplay
+Meta Description (148 chars) : Demon Slayer fox masks: Sabito, Makomo & Tanjiro Final Selection kitsune designs. Molded, hand-painted, cosplay-ready. Ships nationwide & worldwide.
+Focus keyword                       : Demon Slayer fox mask
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Three Demon Slayer fox masks: Sabito's white mask with brown crack and red cord, Makomo's blue-flower mask, and Tanjiro's red sun-ray training mask
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a Demon Slayer kitsune fox cosplay mask, glossy white molded shell with single manga-red #E2261C sun-ray pattern and red eye cut-outs, sculpted pointed ears. Ink black #111111 seamless background, paper white #FAFAFA rim light, dramatic cinematic side lighting. Halftone dot texture and bold manga speed lines radiating from the mask, a single arc of red ink splatter across the lower frame, framed inside a clean manga panel border. Premium collectible vibe, high detail, sharp focus, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

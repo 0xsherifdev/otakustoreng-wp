@@ -1,0 +1,83 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Ichigo Bracelet With Ring
+SLUG         : ichigo-bracelet-with-ring
+BUMPA ID     : 1507822
+WOO TYPE     : simple
+PARENT SKU   : OSN-1507822
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Bracelets
+  - Shop by Anime > Bleach
+
+TAGS: Ichigo bracelet, Bleach bracelet, Ichigo Kurosaki, Hollow mask, Soul Reaper ring, anime bracelet, Bleach accessories, anime cuff bracelet
+FRANCHISE: Bleach    CHARACTER: Ichigo Kurosaki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦6,500
+Total stock   : 9
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Hollow mask cuff chained to a Soul Reaper skull ring.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel your inner Substitute Soul Reaper with this Bleach-inspired cuff. A black faux-leather band carries Ichigo's red-and-white Hollow mask, chained to a matching skull ring. Snap-button fit, everyday-tough metal hardware.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some fans wear a charm. You wear the whole resolve. This Bleach-inspired piece pairs a wide black faux-leather cuff with a sculpted, enamel-finished Ichigo Hollow mask centerpiece, all in that unmistakable red-and-white war paint. A short link chain runs from the band to a matching Soul Reaper skull ring, so the set reads as one bold statement on the wrist.</p>
+<p>Built for daily wear and weekend cons alike, it secures with metal snap buttons for a quick on-off fit and keeps its edge through repeated wear. Anime-inspired, made for fans of the Substitute Soul Reaper. Not affiliated with or endorsed by the official rights holders.</p>
+<ul>
+<li>Design: Bleach-inspired Ichigo Kurosaki set, Hollow mask cuff + chained Soul Reaper skull ring</li>
+<li>Band material: black faux leather with metal alloy hardware</li>
+<li>Centerpiece: red, white and silver-tone enamel Hollow mask emblem</li>
+<li>Ring: silver-tone alloy with blackened skull motif, attached by a short link chain</li>
+<li>Closure: metal snap-button fastening for an adjustable, secure fit</li>
+<li>Style: cuff / cord style; everyday-durable for street, school or cosplay</li>
+<li>Includes: one bracelet with attached ring (single set)</li>
+<li>Care: keep dry, wipe clean with a soft cloth, store away from moisture</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Ichigo's signature red-and-white Hollow mask as a sculpted metal centerpiece
+  • Matching Soul Reaper skull ring chained directly to the cuff
+  • Black faux-leather band with sturdy metal alloy hardware
+  • Metal snap-button closure for a quick, adjustable fit
+  • Everyday-durable for street style, school or cosplay
+  • Fan-made Bleach-inspired design, not affiliated with the official series
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (56 chars)        : Ichigo Bracelet With Ring | Bleach Cuff | Otaku Store NG
+Meta Description (150 chars) : Bleach-inspired Ichigo bracelet with chained Soul Reaper skull ring. Black faux-leather Hollow mask cuff, snap-button fit. ₦6,500. Ships nationwide &.
+Focus keyword                       : Ichigo bracelet
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black faux-leather Ichigo Hollow mask cuff bracelet chained to a silver-tone Soul Reaper skull ring, Bleach-inspired
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-Manga studio product shot of a black faux-leather cuff bracelet featuring Ichigo's red-and-white Hollow mask metal emblem, a short silver chain linking it to a blackened Soul Reaper skull ring. Ink black #111111 background, paper white #FAFAFA rim light, single manga-red #E2261C accent glow on the mask. Halftone dot texture, sharp speed lines radiating outward, subtle ink splatter in one corner, framed inside a clean manga panel. Premium, cinematic, high-contrast macro detail on the enamel and chain links.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

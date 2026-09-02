@@ -1,0 +1,79 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Mha Stickers
+SLUG         : mha-stickers
+BUMPA ID     : 1831224
+WOO TYPE     : simple
+PARENT SKU   : OSN-1831224
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Stickers
+  - Shop by Anime > My Hero Academia
+
+TAGS: My Hero Academia stickers, MHA stickers, anime sticker pack, vinyl stickers, waterproof stickers, laptop stickers, anime decals, Boku no Hero Academia
+FRANCHISE: My Hero Academia    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦1,000
+Total stock   : 493
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Plus Ultra on every surface you own.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A 10-piece My Hero Academia vinyl sticker pack built for daily wear. Waterproof, fade-resistant, and ready to deck out your laptop, water bottle, phone, or notebook with U.A. hero energy. Anime-inspired fan art for true MHA fans.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Suit up your everyday gear with the Mha Sticker Pack, 10 anime-inspired vinyl decals pulled from the world of My Hero Academia. From U.A. heroes to bold Quirk-fueled designs, every piece is printed in vivid colour with crisp lines, so your kit reads loud and proud whether it's on a laptop lid or a lecture notebook.</p>
+<p>Cut from durable, waterproof vinyl with a fade-resistant finish, these stickers handle spills, scuffs, and daily handling without peeling. Peel, place, and press, no special tools needed. Fan art for the fandom, anime-inspired and not affiliated with any official rights holder.</p>
+<ul>
+<li>Pack of 10 My Hero Academia inspired vinyl stickers</li>
+<li>Durable waterproof vinyl with vivid, fade-resistant print</li>
+<li>Sticks to laptops, water bottles, phones, notebooks, and more</li>
+<li>Strong peel-and-stick adhesive; leaves no mess when removed cleanly</li>
+<li>Assorted MHA-themed designs in one ready-to-stick pack</li>
+<li>Anime-inspired fan art; not official or licensed merchandise</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • 10 waterproof vinyl stickers in every pack
+  • Vivid, fade-resistant My Hero Academia inspired art
+  • Sticks to laptops, bottles, phones, and notebooks
+  • Strong peel-and-stick hold, no tools needed
+  • Anime-inspired fan art, not official merch
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (47 chars)        : My Hero Academia Stickers - 10pc MHA Vinyl Pack
+Meta Description (150 chars) : Shop a 10-piece My Hero Academia vinyl sticker pack. Waterproof, fade-resistant MHA fan art for laptops, bottles, and notebooks. Ships nationwide and.
+Focus keyword                       : My Hero Academia stickers
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Pack of 10 My Hero Academia inspired waterproof vinyl stickers fanned out on a flat surface
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga style studio flat-lay of a 10-piece My Hero Academia inspired vinyl sticker pack scattered across an ink-black #111111 surface, paper-white #FAFAFA halftone-dotted backdrop, single manga-red #E2261C accent on key stickers and a sharp speed-line burst behind them, ink splatter framing the corners, stickers arranged in loose manga panels, crisp glossy vinyl texture catching cinematic rim light, premium product photography, high detail, no text logos
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

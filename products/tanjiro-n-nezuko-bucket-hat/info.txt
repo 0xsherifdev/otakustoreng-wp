@@ -1,0 +1,80 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Tanjiro N Nezuko Bucket Hat
+SLUG         : tanjiro-n-nezuko-bucket-hat
+BUMPA ID     : 1143858
+WOO TYPE     : simple
+PARENT SKU   : OSN-1143858
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Headwear
+  - Shop by Anime > Demon Slayer
+
+TAGS: Demon Slayer, Tanjiro bucket hat, Nezuko bucket hat, reversible bucket hat, anime bucket hat, Kamado siblings, asanoha print, anime headwear
+FRANCHISE: Demon Slayer    CHARACTER: Tanjiro & Nezuko
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦7,000
+Total stock   : 999
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Reversible asanoha-pink meets ichimatsu-green.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A reversible Demon Slayer bucket hat that flips between Nezuko's pink hemp-leaf print and Tanjiro's green-black checkered haori pattern. Two looks in one cap, made for fans who switch up their fit on demand.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Two siblings, two patterns, one hat. The <strong>Tanjiro N Nezuko Bucket Hat</strong> is fully reversible: wear Nezuko's soft pink asanoha hemp-leaf print out front, then flip it for Tanjiro's iconic green-and-black ichimatsu checkered haori. It is the cleanest way to rep the Kamado siblings without saying a word, and it pairs just as easily with a streetwear fit as it does with your con cosplay.</p>
+<p>Cut from a structured cotton-blend fabric with a soft, breathable feel, the crown sits comfortably while the down-sloping brim keeps the sun off. Anime-inspired and built for everyday wear, this is a fan piece that earns its spot in the rotation.</p>
+<ul>
+<li>Reversible two-in-one design: Nezuko pink asanoha print / Tanjiro green-black checkered haori</li>
+<li>All-over printed motif on both faces, edge-to-edge across crown and brim</li>
+<li>Classic down-sloping bucket-hat brim for sun coverage</li>
+<li>Soft, breathable cotton-blend fabric with a structured crown</li>
+<li>One-size unisex fit, made for everyday and cosplay wear</li>
+<li>Fan / anime-inspired design; not affiliated with or endorsed by the rights holders</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Fully reversible: two distinct looks in a single bucket hat
+  • Side A: Nezuko's signature pink asanoha hemp-leaf print
+  • Side B: Tanjiro's green-and-black checkered haori pattern
+  • Soft, breathable cotton-blend with a structured crown
+  • One-size unisex fit for everyday streetwear or cosplay
+  • Fan-made, anime-inspired design (not official)
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (53 chars)        : Tanjiro & Nezuko Reversible Bucket Hat | Demon Slayer
+Meta Description (154 chars) : Reversible Demon Slayer bucket hat that flips between Nezuko's pink hemp-leaf print and Tanjiro's checkered haori. One-size, fan-made. Ships from Nigeria.
+Focus keyword                       : Tanjiro Nezuko bucket hat
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Reversible Demon Slayer bucket hat showing Nezuko's pink hemp-leaf asanoha print with Tanjiro's green-and-black checkered haori pattern on the underbrim
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a reversible anime bucket hat, ink black #111111 backdrop with paper white #FAFAFA negative space, single manga-red #E2261C accent. The hat is shown mid-flip revealing both faces: one side a pink hemp-leaf asanoha star pattern, the other a green-and-black checkered haori pattern. Halftone dot shading, bold speed lines radiating from behind the hat, a single ink-splatter burst, manga panel framing with a thin red gutter line. Premium, cinematic, high-contrast, dramatic top lighting, crisp focus on fabric weave.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

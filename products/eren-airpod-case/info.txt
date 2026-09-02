@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Eren AirPod case
+SLUG         : eren-airpod-case
+BUMPA ID     : 3009419
+WOO TYPE     : simple
+PARENT SKU   : OSN-3009419
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > AirPods Cases
+  - Shop by Anime > Attack on Titan
+
+TAGS: Eren AirPods case, Attack on Titan AirPods case, Eren Yeager, anime AirPods case, AOT merch, clear AirPods case, anime phone accessories, Otaku Store NG
+FRANCHISE: Attack on Titan    CHARACTER: Eren Yeager
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦6,500
+Total stock   : 10
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the Founding Titan in your pocket.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A clear, shock-absorbing AirPods case stamped with timeskip Eren Yeager and his glowing-eye salute. Snug grip, precise charging cutout, and an attached cord so you can clip it and go. Anime-inspired, fan-made.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Founding Titan energy for your daily carry. This crystal-clear AirPods case frames the final-arc Eren Yeager mid-salute, that signature glowing eye cutting through halftone shadow so your pods look as devoted as you are. Slip it on and the print sits front and centre while the case stays slim enough to vanish into a pocket.</p><p>Built to take the knocks of bag life: the flexible cover hugs every contour, snaps shut with a secure hinge, and keeps the charging port and pairing button fully reachable. The attached cord lets you loop it to a bag, belt or keyring so your AirPods never wander. An anime-inspired, fan-made design for Attack on Titan loyalists, not affiliated with or endorsed by the rights holders.</p><ul><li>Material: clear, flexible shock-absorbing cover</li><li>Design: printed timeskip Eren Yeager salute artwork</li><li>Fit: choose your AirPods model at checkout (Gen 1/2, Gen 3, or Pro)</li><li>Access: precise cutout for the charging port and pairing button</li><li>Carry: attached cord loop to clip onto a bag, belt or keyring</li><li>Closure: secure snap-fit hinge keeps pods protected</li><li>Wireless charging: works without removing the case</li><li>Care: wipe clean with a soft, slightly damp cloth</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Timeskip Eren Yeager salute print for Attack on Titan fans
+  • Clear, shock-absorbing cover that hugs your AirPods
+  • Precise cutout keeps the charging port and button reachable
+  • Attached cord clips to a bag, belt or keyring
+  • Wireless-charging friendly, no need to remove the case
+  • Pick your AirPods model at checkout
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (52 chars)        : Eren AirPods Case | Attack on Titan | Otaku Store NG
+Meta Description (155 chars) : Clear Eren Yeager AirPods case with shock-absorbing cover, precise port cutout and clip-on cord. Attack on Titan fan design. Ships from Nigeria, worldwide.
+Focus keyword                       : Eren AirPods case
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Clear AirPods Pro case printed with timeskip Eren Yeager doing the salute with a glowing green eye, attached cord strap
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product hero shot of a clear anime-print AirPods Pro case featuring long-haired Eren Yeager mid-salute, single glowing manga-red #E2261C eye accent. Ink black #111111 background, paper white #FAFAFA highlights, bold halftone dots, dynamic speed lines and ink splatter framing the case in floating manga panels. The case sits at a dramatic three-quarter angle, attached cord coiling in motion, charging-port cutout visible. Premium, cinematic studio lighting, crisp product focus, high contrast monochrome with the lone red accent. No text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

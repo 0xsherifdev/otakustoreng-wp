@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Silver Op Bracelet
+SLUG         : silver-op-bracelet
+BUMPA ID     : 1729880
+WOO TYPE     : simple
+PARENT SKU   : OSN-1729880
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Bracelets
+  - Shop by Anime > One Piece
+
+TAGS: One Piece bracelet, anime bracelet, silver bracelet, stainless steel bracelet, Straw Hat, anime jewelry, One Piece merch, Otaku Store NG
+FRANCHISE: One Piece    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦5,000
+Total stock   : 19
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Silver-tone steel for the King of the Pirates' crew
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A sleek One Piece-inspired silver-tone bracelet built for daily wear. Polished stainless-steel finish, secure clasp, and an understated Straw Hat energy that flexes hard without shouting. Stack it or rock it solo.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Set sail in style with the Silver Op Bracelet, a One Piece-inspired piece for fans who want their fandom subtle but sharp. The polished silver-tone finish catches the light like calm seas, while the durable build keeps up whether you're at your desk, on campus, or chasing the next adventure. Clean, minimal, and endlessly stackable.</p><p>Wear it solo for a refined look or layer it with your other anime-inspired bands to build your roster. A confident everyday staple for any Straw Hat at heart.</p><ul><li>One Piece-inspired silver-tone bracelet (fan-made, not affiliated)</li><li>Polished stainless-steel construction for everyday durability</li><li>Secure, easy-to-fasten clasp closure</li><li>Standard adjustable fit suited to most wrists</li><li>Tarnish-resistant finish; wipe clean with a soft, dry cloth</li><li>Lightweight, low-profile design that stacks well with other bands</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • One Piece-inspired silver-tone design
+  • Polished stainless-steel, everyday-durable
+  • Secure clasp with standard adjustable fit
+  • Tarnish-resistant, easy to wipe clean
+  • Lightweight and stackable with other bands
+  • Fan-made, anime-inspired (not affiliated)
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (50 chars)        : Silver Op Bracelet | One Piece-Inspired Steel Band
+Meta Description (154 chars) : One Piece-inspired Silver Op Bracelet in polished stainless steel. Durable, stackable everyday wear. Ships from Nigeria, nationwide and worldwide. ₦5,000.
+Focus keyword                       : One Piece bracelet
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.png  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Silver-tone One Piece-inspired stainless-steel bracelet with a polished finish and clasp closure
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a polished silver-tone stainless-steel bracelet, One Piece-inspired, resting on an ink-black #111111 surface. Paper-white #FAFAFA halftone-dot backdrop with a single manga-red #E2261C accent stripe and dynamic speed lines radiating outward. Sharp ink-splatter detailing in the corners, cinematic rim lighting catching the metal, premium manga panel composition, high contrast, crisp focus on the clasp.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

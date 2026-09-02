@@ -1,0 +1,83 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Naruto track suit
+SLUG         : naruto-track-suit
+BUMPA ID     : 3009375
+WOO TYPE     : variable
+PARENT SKU   : OSN-3009375
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Shop by Anime > Naruto
+
+TAGS: Naruto tracksuit, Naruto Uzumaki, anime hoodie set, Naruto joggers, anime tracksuit, Naruto merch, anime streetwear, Naruto apparel
+FRANCHISE: Naruto    CHARACTER: Naruto Uzumaki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦48,000
+Total stock   : 400
+VARIATIONS (attribute: Size)
+  L              | ₦48,000 | stock 100  | SKU OSN-3009375-L
+  XL             | ₦48,000 | stock 100  | SKU OSN-3009375-XL
+  2XL            | ₦48,000 | stock 100  | SKU OSN-3009375-2XL
+  3XL            | ₦48,000 | stock 100  | SKU OSN-3009375-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Two-piece ninja fit. Hooded top plus matching joggers.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Suit up like the Number One Hyperactive Knucklehead Ninja. This Naruto-inspired tracksuit pairs a bold Uzumaki line-art hoodie with matching joggers — layered sleeve detail, drawstring hood, and street-ready monochrome styling for everyday wear.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Pull up to the village in full kit. This Naruto-inspired tracksuit is a two-piece set built for fans who want their fandom loud but their fit clean — a black-and-white pullover hoodie carrying a striking Uzumaki line-art print with "UZMKI / うずまき" lettering, matched to a pair of tapered joggers with bold side stripes. The faux layered sleeve gives that effortless double-up look without the bulk.</p>
+<p>From campus to console to the streets, it moves with you. Throw on the hood, cinch the drawstrings, and wear the roster. Fan-made and anime-inspired apparel, not affiliated with or endorsed by the official rights holders.</p>
+<ul>
+<li>Two-piece set: pullover hoodie plus matching tapered joggers</li>
+<li>Naruto Uzumaki line-art graphic with "UZMKI / うずまき" and accent lettering</li>
+<li>Monochrome black-and-white colourway with white side stripes on the joggers</li>
+<li>Drawstring hood and faux layered "false two-piece" sleeve detail</li>
+<li>Elastic drawstring waistband on the joggers for an adjustable fit</li>
+<li>Sizes: L, XL, 2XL, 3XL — relaxed, streetwear cut</li>
+<li>Unisex styling; everyday casual and loungewear ready</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Two-piece set — Naruto-inspired hoodie plus matching joggers
+  • Bold Uzumaki line-art graphic with Japanese 'うずまき' lettering
+  • Clean monochrome colourway with white side-stripe detailing
+  • Faux layered sleeve and drawstring hood for street-ready styling
+  • Available in L, XL, 2XL and 3XL relaxed fits
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (47 chars)        : Naruto Tracksuit — Uzumaki Hoodie & Joggers Set
+Meta Description (153 chars) : Shop the Naruto-inspired tracksuit: a bold Uzumaki line-art hoodie plus matching joggers. Monochrome streetwear in L–3XL. Ships nationwide and worldwide.
+Focus keyword                       : Naruto tracksuit
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Naruto-inspired black and white tracksuit with Uzumaki line-art hoodie and matching side-stripe joggers
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a Naruto-inspired two-piece tracksuit — black hooded pullover with stark white Uzumaki line-art print and matching tapered joggers with white side stripes — laid out flat on paper-white #FAFAFA backdrop. Ink-black #111111 shadows, single manga-red #E2261C accent on a torn paper tag, halftone dot shading, dramatic diagonal speed lines, subtle ink splatter framing the garment in a clean manga panel. Premium, cinematic, high-contrast editorial lighting.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

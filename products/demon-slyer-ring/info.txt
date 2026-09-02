@@ -1,0 +1,84 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Demon Slyer Ring
+SLUG         : demon-slyer-ring
+BUMPA ID     : 1875968
+WOO TYPE     : simple
+PARENT SKU   : OSN-1875968
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Rings
+  - Shop by Anime > Demon Slayer
+
+TAGS: Demon Slayer ring, Tanjiro Kamado, Kimetsu no Yaiba, Water Breathing, anime ring, checkered haori, glow in the dark ring, adjustable ring, anime jewellery, Demon Slayer accessories
+FRANCHISE: Demon Slayer    CHARACTER: Tanjiro Kamado
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦3,000
+Total stock   : 500
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Water Breathing on your hand. Carry Tanjiro's resolve.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+An open-band Demon Slayer ring built on Tanjiro Kamado's look: gunmetal steel, the teal checkered haori pattern, a flowing Water Breathing wave and a deep-red enamel accent. Adjustable, polished and made for daily wear.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Slip on the Water Hashira-in-training himself. This Demon Slayer ring channels Tanjiro Kamado's signature kit into one open-band statement piece: a dark gunmetal base wraps your finger before splitting into a flowing blue Water Breathing wave on one side and a bold red enamel accent on the other, finished with the unmistakable teal-and-black checkered haori pattern. The luminous blue inlay glows softly in low light, so the wave keeps moving long after the sun goes down.</p>
+<p>The open cuff shape gives you a little flex on fit, the polished surface keeps its shine, and the colour enamel sits flush so nothing snags. It is a clean, premium nod to Kimetsu no Yaiba that reads as real jewellery first and fan flex second. Fan-made and anime-inspired, not affiliated with the original creators.</p>
+<ul>
+<li><strong>Series:</strong> Demon Slayer (Kimetsu no Yaiba), inspired by Tanjiro Kamado</li>
+<li><strong>Material:</strong> stainless steel / alloy with colour enamel inlay</li>
+<li><strong>Design:</strong> Water Breathing wave, teal checkered haori pattern, red enamel accent</li>
+<li><strong>Band style:</strong> open / adjustable cuff band, polished finish</li>
+<li><strong>Glow:</strong> luminous blue inlay glows in low light after light exposure</li>
+<li><strong>Wear:</strong> tarnish-resistant, made for everyday wear</li>
+<li><strong>Sizing:</strong> standard ring sizes, buyer selects size at checkout</li>
+<li><strong>In the box:</strong> 1 x Demon Slayer ring</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Tanjiro Kamado design: Water Breathing wave plus the teal checkered haori pattern
+  • Glow-in-the-dark luminous blue inlay that lights up in low light
+  • Open adjustable cuff band for an easy, flexible fit
+  • Stainless steel / alloy with flush colour enamel, polished and tarnish-resistant
+  • Bold red enamel accent against a dark gunmetal base
+  • Everyday-wear jewellery that reads premium, not costume
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (48 chars)        : Demon Slayer Ring - Tanjiro Water Breathing Band
+Meta Description (155 chars) : Demon Slayer ring inspired by Tanjiro Kamado: gunmetal open band, Water Breathing wave, checkered haori pattern and glowing blue enamel. Adjustable, daily.
+Focus keyword                       : Demon Slayer ring
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Dark gunmetal Demon Slayer open-band ring with Tanjiro's blue Water Breathing wave, teal checkered haori pattern and red enamel accent
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a gunmetal-black open-band anime ring resting on paper-white #FAFAFA fabric against an ink-black #111111 backdrop. The ring shows a flowing blue Water Breathing wave, a teal-and-black checkered haori pattern and a single manga-red #E2261C enamel accent that echoes the only colour pop in frame. Cinematic macro lighting with sharp catchlights on the polished metal, faint halftone dot texture and a few diagonal manga speed lines radiating from the red accent, subtle ink splatter in the corners, framed inside a clean manga panel border. Premium, high-contrast, crisp focus.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Sasuke Sharingan
+SLUG         : sasuke-sharingan
+BUMPA ID     : 1318402
+WOO TYPE     : simple
+PARENT SKU   : OSN-1318402
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Shop by Anime > Naruto
+
+TAGS: Sasuke Sharingan lenses, Naruto contact lenses, Sharingan cosplay lenses, Uchiha cosplay, anime contact lenses, cosplay color lenses, Naruto cosplay, Sasuke Uchiha merch
+FRANCHISE: Naruto    CHARACTER: Sasuke Uchiha
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦14,000
+Total stock   : 10
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Awaken the Six Star Sharingan
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Drop into Sasuke's gaze with these Six Star Sharingan cosplay contact lenses. A bold red-and-black six-point star pattern over the iris finishes any Uchiha fit, cosplay set or photoshoot with anime-accurate menace.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the last Uchiha. These Sasuke-inspired Sharingan cosplay contact lenses recreate the striking Six Star pattern: a deep crimson iris cut through with a sharp black six-point star, built to make your eyes the centrepiece of any Naruto cosplay, convention look or fan photoshoot.</p><p>Designed for comfort and high-impact colour payoff, the bold print sits cleanly over your natural eye for that instant doujutsu transformation. Pair them with the rest of your Uchiha roster and let your gaze do the talking.</p><ul><li>Design: Sasuke "Six Star" Sharingan, red iris with black six-point star motif</li><li>Type: cosplay / costume colour contact lenses (sold as a pair)</li><li>Water content: 38%</li><li>Diameter: 14.5mm</li><li>Base curve: 8.5mm</li><li>Best for: Naruto cosplay, conventions, Halloween, anime photoshoots and fan content</li><li>Care: store in fresh solution, follow the included usage and hygiene guidance, never share lenses</li><li>Note: fan-made, anime-inspired design; not affiliated with or endorsed by the rights holders</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Sasuke Six Star Sharingan design in bold manga red and black
+  • Cosplay-ready colour lenses for an instant Uchiha transformation
+  • 14.5mm diameter with 8.5mm base curve for a natural fit
+  • 38% water content for all-day convention comfort
+  • Sold as a pair, perfect for Naruto cosplay and photoshoots
+  • Anime-inspired fan design from Otaku Store NG
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (48 chars)        : Sasuke Sharingan Cosplay Contact Lenses | Naruto
+Meta Description (146 chars) : Sasuke Six Star Sharingan cosplay contact lenses. Bold red-and-black Uchiha design, 14.5mm, 38% water content. Ships across Nigeria and worldwide.
+Focus keyword                       : Sasuke Sharingan contact lenses
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Sasuke Six Star Sharingan cosplay contact lenses with red and black star pattern shown worn over the eye
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga style studio product shot of a single Sharingan cosplay contact lens, deep manga-red iris with a sharp black six-point star pattern, resting on paper-white #FAFAFA surface against ink-black #111111 background. Single manga-red #E2261C accent lighting, halftone dot texture, dramatic speed lines radiating from the lens, subtle ink splatter framing the corners, arranged in a clean manga panel composition. Premium, cinematic, high-contrast macro detail, sharp focus on the star motif.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

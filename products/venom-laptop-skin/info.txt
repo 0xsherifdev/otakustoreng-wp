@@ -1,0 +1,69 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Venom Laptop Skin
+SLUG         : venom-laptop-skin
+BUMPA ID     : 1875695
+WOO TYPE     : simple
+PARENT SKU   : OSN-1875695
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Laptop Skins
+
+TAGS: Venom laptop skin, anime laptop skin, symbiote decal, vinyl laptop wrap, anime-inspired skin, laptop decal, bubble-free vinyl, Otaku Store NG
+FRANCHISE: Generic Anime    CHARACTER: Venom
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦7,500
+Total stock   : 10
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Symbiote-black ink, full-laptop attitude.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Wrap your laptop in fan-inspired Venom art on premium bubble-free vinyl. Goes on clean, peels off residue-free, and refreshes any lid with bold symbiote-black detail. Pick your size and model at checkout.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Suit up your setup. This Venom Laptop Skin turns a plain lid into a statement, with fan-inspired symbiote artwork printed sharp on durable adhesive vinyl. The matte-friendly finish resists smudges and everyday scuffs while letting the inky blacks and razor detail do the talking.</p><p>Application is bubble-free and beginner-friendly, and when it is time for a change the skin lifts away clean with no sticky residue left behind. Choose your laptop size and model at checkout so the cut lines fit your machine.</p><ul><li>Material: printed adhesive vinyl decal/wrap with protective laminate finish</li><li>Application: air-release, bubble-free; repositionable during install</li><li>Removal: residue-free, leaves no marks on your laptop</li><li>Fit: select your laptop size/model at checkout for accurate cut lines</li><li>Coverage: lid skin; cutouts for logo/camera depend on chosen model</li><li>Design: fan-inspired Venom art, anime-style ink rendering</li><li>Care: wipe gently with a dry or slightly damp cloth; avoid harsh solvents</li><li>Note: fan-made, anime-inspired; not official or affiliated with any rights holder</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Fan-inspired Venom symbiote artwork in bold, inky detail
+  • Bubble-free, air-release vinyl for an easy install
+  • Peels off clean with zero sticky residue
+  • Pick your exact laptop size and model at checkout
+  • Durable laminate finish shrugs off everyday scuffs
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (46 chars)        : Venom Laptop Skin | Anime-Inspired Vinyl Decal
+Meta Description (142 chars) : Venom laptop skin in fan-inspired symbiote art. Bubble-free vinyl, residue-free removal, fits your size and model. Ships from Nigeria. ₦7,500.
+Focus keyword                       : Venom laptop skin
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Venom anime-inspired vinyl laptop skin with symbiote-black artwork applied to a laptop lid
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a laptop lid wrapped in a Venom-inspired vinyl skin. Ink black #111111 background, paper white #FAFAFA accents, single manga-red #E2261C accent line slicing through the frame. Halftone dot shading, dramatic speed lines, ink-splatter texture framing the laptop in a manga panel. Glossy symbiote tendrils rendered in bold black ink with sharp white highlights, cinematic side lighting, premium high-contrast composition, slight three-quarter angle on the lid.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

@@ -1,0 +1,75 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Berserk gym shorts
+SLUG         : berserk-gym-shorts
+BUMPA ID     : 2987870
+WOO TYPE     : variable
+PARENT SKU   : OSN-2987870
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Shorts
+  - Shop by Anime > Berserk
+
+TAGS: Berserk gym shorts, Guts shorts, anime gym shorts, Berserk merch, anime shorts, unisex gym shorts, Berserk apparel, anime workout shorts
+FRANCHISE: Berserk    CHARACTER: Guts
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦16,000
+Total stock   : 399
+VARIATIONS (attribute: Size)
+  L              | ₦16,000 | stock 99   | SKU OSN-2987870-L
+  XL             | ₦16,000 | stock 100  | SKU OSN-2987870-XL
+  2XL            | ₦16,000 | stock 100  | SKU OSN-2987870-2XL
+  3XL            | ₦16,000 | stock 100  | SKU OSN-2987870-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Train like the Black Swordsman. Built for the grind.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Anime-inspired Berserk gym shorts built for the grind. Lightweight, breathable fabric with an elastic drawstring waist for a locked-in fit. Unisex cut, bold Guts-era print, made for warm-weather training and casual everyday rotation.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the Black Swordsman every time you hit the floor. These Berserk-inspired gym shorts pair a bold, ink-heavy print with a lightweight, breathable build so you stay cool through every set, sprint and rest day. The elastic drawstring waist locks in your fit, while the unisex cut keeps it clean whether you're lifting heavy or running errands.</p><p>Fan-made and anime-inspired, not official or affiliated. Just pure roster energy for the fans who never skip leg day.</p><ul><li>Theme: Berserk / Guts anime-inspired print</li><li>Fit: unisex, relaxed athletic cut</li><li>Fabric: lightweight, breathable, quick-drying feel</li><li>Waist: elastic band with adjustable drawstring</li><li>Sizes available: L, XL, 2XL, 3XL</li><li>Best for: gym sessions, training, warm weather, casual wear</li><li>Care: machine wash cold, hang or tumble dry low, do not iron print</li><li>Includes: 1 pair of Berserk gym shorts</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold Berserk / Guts anime-inspired print
+  • Lightweight, breathable fabric for serious training
+  • Elastic drawstring waist for a dialled-in fit
+  • Unisex relaxed cut, sizes L to 3XL
+  • Built for gym days, warm weather and casual fits
+  • Fan-made design, not official or affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (47 chars)        : Berserk Gym Shorts | Guts Anime-Inspired Shorts
+Meta Description (155 chars) : Berserk gym shorts with a bold Guts-inspired print. Lightweight, breathable, elastic drawstring waist. Unisex, sizes L-3XL. Ships nationwide and worldwide.
+Focus keyword                       : Berserk gym shorts
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Berserk Guts anime-inspired gym shorts with bold ink print, lightweight breathable fabric and elastic drawstring waist
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of anime-inspired gym shorts laid flat and angled on ink-black #111111 backdrop, paper-white #FAFAFA halftone dot texture, single manga-red #E2261C accent slashing through speed lines and ink splatter behind the shorts, dramatic Berserk Guts silhouette ghosted in the panel background, cinematic premium lighting, manga panel framing, high detail on fabric weave and drawstring waist
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

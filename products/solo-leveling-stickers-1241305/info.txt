@@ -1,0 +1,83 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Solo Leveling Stickers
+SLUG         : solo-leveling-stickers-1241305
+BUMPA ID     : 1241305
+WOO TYPE     : simple
+PARENT SKU   : OSN-1241305
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Stickers
+  - Shop by Anime > Solo Leveling
+
+TAGS: Solo Leveling stickers, Sung Jinwoo, anime stickers, vinyl sticker pack, Shadow Monarch, laptop stickers, waterproof stickers, anime merch Nigeria
+FRANCHISE: Solo Leveling    CHARACTER: Sung Jinwoo
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦1,000
+Total stock   : 14
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Arise. Deck your gear in shadow-monarch art.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A 10-piece Solo Leveling vinyl sticker pack stacked with Sung Jinwoo and shadow-army art. Waterproof, fade-resistant and built to ride on laptops, water bottles, phones and notebooks. Slap them down and level up your gear.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Arise. This Solo Leveling sticker pack drops 10 die-cut vinyl pieces pulled from the world of Sung Jinwoo, the Shadow Monarch and his ranks of shadow soldiers. Inky blues, bruised purples and that one clean blood-red accent come through crisp, so every panel reads like a frame torn straight out of the manhwa.</p>
+<p>Printed on durable, waterproof vinyl with a fade-resistant finish, they grip hard to laptops, water bottles, phone cases, notebooks, skateboards and consoles. Layer them, scatter them, build your own shadow army across every surface you own.</p>
+<ul>
+<li>Pack of 10 die-cut anime-inspired vinyl stickers</li>
+<li>Artwork featuring Sung Jinwoo, the Shadow Monarch and shadow-army themes</li>
+<li>Waterproof, scratch-resistant and fade-resistant print</li>
+<li>Self-adhesive backing; peel and stick to any clean, smooth surface</li>
+<li>Sticks to laptops, water bottles, phones, notebooks, skateboards and more</li>
+<li>Designs supplied at random from the Solo Leveling collection</li>
+<li>Fan-made, anime-inspired art; not affiliated with or endorsed by the official rights holders</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • 10-piece die-cut vinyl pack in every order
+  • Sung Jinwoo and shadow-army artwork
+  • Waterproof and fade-resistant for daily use
+  • Sticks to laptops, bottles, phones and notebooks
+  • Peel-and-stick self-adhesive backing
+  • Fan art, anime-inspired and not affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (57 chars)        : Solo Leveling Stickers - 10pc Vinyl Pack | Otaku Store NG
+Meta Description (155 chars) : Solo Leveling vinyl sticker pack: 10 waterproof, fade-resistant Sung Jinwoo and shadow-army stickers for laptops, bottles and phones. Ships across Nigeria.
+Focus keyword                       : Solo Leveling stickers
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Hand holding a die-cut Solo Leveling vinyl sticker of Sung Jinwoo in a hoodie, with a fanned-out pack of shadow-army anime stickers behind it.
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product studio shot: a fanned spread of die-cut Solo Leveling vinyl stickers featuring a Sung Jinwoo-style shadow-monarch hero, arranged on an ink-black #111111 surface with paper-white #FAFAFA negative space. Single manga-red #E2261C accent slashing through as a speed-line. Halftone dot shading, ink splatter, sharp manga panel borders, dramatic rim lighting, glossy laminated sticker sheen, premium cinematic close-up, high detail.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

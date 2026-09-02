@@ -1,0 +1,85 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Itachi’s Amaterasu Chain
+SLUG         : itachi-s-amaterasu-chain
+BUMPA ID     : 1875921
+WOO TYPE     : simple
+PARENT SKU   : OSN-1875921
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Naruto
+
+TAGS: Itachi necklace, Amaterasu pendant, Sharingan chain, Naruto necklace, Uchiha jewelry, anime necklace, stainless steel pendant, anime chain
+FRANCHISE: Naruto    CHARACTER: Itachi Uchiha
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦5,000
+Total stock   : 502
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The black flame that never dies out.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A silver-tone Sharingan pendant cut into a dripping Amaterasu silhouette, hung on a tarnish-resistant curb chain. Itachi-inspired everyday wear that hits clean over a tee or layered with other pieces. Anime-inspired, not affiliated.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>The eye that burns. This Itachi-inspired pendant takes the Mangekyo Sharingan and lets it drip into Amaterasu's black flame, cut from polished silver-tone stainless steel for that clean, mirror-bright finish. The open negative-space design keeps it lightweight on the neck while the dripping detail reads instantly to anyone who knows the Uchiha legend.</p>
+<p>Strung on a classic curb-link chain that sits well solo or layered, it's an everyday cop for fans who want their roster on their chest, not just their feed. Wear it over a plain tee, under a hoodie, or stacked with your other anime pieces.</p>
+<ul>
+<li><strong>Design:</strong> Itachi Amaterasu / Mangekyo Sharingan dripping-eye pendant</li>
+<li><strong>Pendant material:</strong> Polished stainless steel, silver-tone, tarnish-resistant</li>
+<li><strong>Chain:</strong> Curb-link chain with lobster-clasp closure</li>
+<li><strong>Finish:</strong> High-shine mirror polish, open cut-out detailing</li>
+<li><strong>Wear:</strong> Unisex; sits clean solo or layered with other chains</li>
+<li><strong>Care:</strong> Wipe clean with a soft dry cloth; keep away from harsh chemicals</li>
+<li><strong>In the box:</strong> 1x pendant on chain</li>
+<li><strong>Shipping:</strong> Ships from Nigeria; nationwide and worldwide delivery</li>
+<li><strong>Note:</strong> Fan-made, anime-inspired merch. Not official or licensed; not affiliated with the rights holders.</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Dripping Sharingan / Amaterasu eye pendant, straight off the Uchiha roster
+  • Polished silver-tone stainless steel that resists tarnish
+  • Curb-link chain with secure lobster clasp
+  • Lightweight open cut-out design, comfortable all-day wear
+  • Unisex; wear solo or layer with your other pieces
+  • Just ₦5,000; ships nationwide and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (50 chars)        : Itachi Amaterasu Sharingan Necklace | Naruto Chain
+Meta Description (147 chars) : Itachi-inspired Amaterasu Sharingan pendant on a tarnish-resistant steel curb chain. Naruto fan necklace for ₦5,000. Ships from Nigeria, worldwide.
+Focus keyword                       : Itachi Amaterasu necklace
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Silver-tone stainless steel Itachi Amaterasu Sharingan dripping-eye pendant on a curb chain, held in hand
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product studio shot: a polished silver stainless-steel pendant shaped like a dripping Sharingan eye (Itachi Amaterasu motif) on a curb-link chain, displayed on ink-black #111111 backdrop. Single manga-red #E2261C accent glowing behind the pendant like a flame; halftone dot texture, sharp speed lines radiating outward, subtle ink-splatter at the edges, paper-white #FAFAFA rim lighting on the chain links. Premium, cinematic, high-contrast manga-panel composition, macro detail on the pendant cut-outs.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

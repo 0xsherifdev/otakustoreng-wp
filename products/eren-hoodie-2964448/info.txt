@@ -1,0 +1,91 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Eren Hoodie
+SLUG         : eren-hoodie-2964448
+BUMPA ID     : 2964448
+WOO TYPE     : variable
+PARENT SKU   : OSN-2964448
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+  - Shop by Anime > Attack on Titan
+
+TAGS: Eren hoodie, Attack on Titan hoodie, Eren Yeager merch, anime hoodie, AoT pullover, Shingeki no Kyojin, anime streetwear, manga graphic hoodie
+FRANCHISE: Attack on Titan    CHARACTER: Eren Yeager
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦18,500
+Total stock   : 800
+VARIATIONS (attribute: Size & Material)
+  L-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964448-LTHICKCOTTON
+  L-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964448-LTHICKPOLYESTER
+  Xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964448-XLTHICKCOTTON
+  Xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964448-XLTHICKPOLYESTER
+  2xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964448-2XLTHICKCOTTON
+  2xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964448-2XLTHICKPOLYESTER
+  3xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964448-3XLTHICKCOTTON
+  3xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964448-3XLTHICKPOLYESTER
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Eren Yeager portrait pullover for AoT diehards.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Suit up in the Eren Yeager pullover hoodie: a brooding manga-panel portrait, "進撃の巨人" kanji and sleeve script on brushed-fleece warmth. Unisex streetwear fit with a roomy kangaroo pocket. Pick your size and fabric.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>The roster just got heavier. This Eren Yeager hoodie drops the Attack on Titan lead front and centre, a sharp manga-panel portrait framed beside the "EREN YEAGER" tag and the unmistakable "進撃の巨人" kanji, with bold Japanese script running down both sleeves. It is the kind of fit that reads loud on campus and louder on the timeline.</p>
+<p>Built for everyday wear, the brushed-fleece interior keeps the warmth in while the relaxed unisex cut layers easily over a tee or under a jacket. Fan-made and anime-inspired, not affiliated with or endorsed by the official rights holders.</p>
+<ul>
+<li>Pullover hoodie with anime-inspired Eren Yeager front graphic, "進撃の巨人" kanji and printed sleeve script</li>
+<li>Available in your choice of thick cotton or thick polyester</li>
+<li>Brushed-fleece interior for cosy, all-season warmth</li>
+<li>Drawstring hood, ribbed cuffs and hem to hold their shape</li>
+<li>Roomy front kangaroo pocket</li>
+<li>Relaxed unisex streetwear fit</li>
+<li>Sizes: L, XL, 2XL, 3XL</li>
+<li>Care: machine wash cold, inside-out; do not iron directly on the print</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold Eren Yeager manga-panel portrait with 進撃の巨人 kanji
+  • Brushed-fleece lining for genuine warmth
+  • Choice of thick cotton or thick polyester fabric
+  • Drawstring hood, ribbed cuffs and roomy kangaroo pocket
+  • Relaxed unisex streetwear fit, sizes L to 3XL
+  • Printed Japanese script down both sleeves
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : Eren Yeager Hoodie | Attack on Titan Pullover
+Meta Description (152 chars) : Eren Yeager pullover hoodie with bold Attack on Titan manga print and sleeve kanji. Brushed-fleece warmth, unisex fit. Cotton or polyester, sizes L-3XL.
+Focus keyword                       : Eren hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Eren Yeager Attack on Titan pullover hoodie with manga-panel portrait, 進撃の巨人 kanji and Japanese sleeve script
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a folded black pullover hoodie on ink-black #111111 backdrop, paper-white #FAFAFA halftone-dot texture bleeding in from the edges, single manga-red #E2261C accent line slashing across the frame like a speed line. The hoodie's front graphic, a brooding monochrome Eren-style manga portrait framed in a panel with vertical kanji beneath, catches a hard cinematic key light. Subtle ink-splatter and diagonal speed lines in the corners, manga panel border framing the composition, premium streetwear catalogue lighting, crisp focus, high contrast, no text watermark.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

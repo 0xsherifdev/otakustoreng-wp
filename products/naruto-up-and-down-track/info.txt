@@ -1,0 +1,74 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Naruto Up And Down Track
+SLUG         : naruto-up-and-down-track
+BUMPA ID     : 1920165
+WOO TYPE     : variable
+PARENT SKU   : OSN-1920165
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+  - Shop by Anime > Naruto
+
+TAGS: Naruto hoodie, anime hoodie, Naruto Uzumaki, pullover hoodie, anime streetwear, Hidden Leaf, unisex hoodie, Naruto merch
+FRANCHISE: Naruto    CHARACTER: Naruto Uzumaki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦35,000
+Total stock   : 39
+VARIATIONS (attribute: Size)
+  L              | ₦35,000 | stock 10   | SKU OSN-1920165-L
+  XL             | ₦35,000 | stock 9    | SKU OSN-1920165-XL
+  2XL            | ₦35,000 | stock 10   | SKU OSN-1920165-2XL
+  3XL            | ₦35,000 | stock 10   | SKU OSN-1920165-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Hidden Leaf heat, built for the streets.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel ninja-way energy with this Naruto-inspired pullover hoodie. Brushed fleece interior, ribbed cuffs and hem, kangaroo pocket and a unisex streetwear fit that wears the roster from class to cold nights.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Suit up in the spirit of the Hidden Leaf with this Naruto-inspired pullover hoodie, built for fans who want their roster on full display. Bold anime graphics meet a clean streetwear silhouette, so you can rep Naruto Uzumaki on campus, on the move, or layered up for a late-night run.</p><p>Inside, a brushed-fleece lining keeps the warmth locked in, while ribbed cuffs and hem hold the shape and the roomy kangaroo pocket stashes the essentials. Cut for a relaxed unisex fit that drapes right whether you size for comfort or for layering.</p><ul><li>Naruto-inspired anime graphic print (fan-made, not affiliated with or endorsed by the franchise)</li><li>Pullover hoodie with brushed-fleece interior for warmth</li><li>Ribbed cuffs and hem for a clean, structured finish</li><li>Front kangaroo pocket with adjustable drawstring hood</li><li>Unisex streetwear fit</li><li>Available in L, XL, 2XL and 3XL</li><li>Machine wash cold, inside-out; hang or low tumble dry to protect the print</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Naruto-inspired anime graphic for true Hidden Leaf fans
+  • Brushed-fleece interior for cozy, all-day warmth
+  • Ribbed cuffs and hem with a roomy kangaroo pocket
+  • Relaxed unisex streetwear fit, L through 3XL
+  • Machine wash cold inside-out to keep the print sharp
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (52 chars)        : Naruto Pullover Hoodie | Anime Streetwear | Otaku NG
+Meta Description (149 chars) : Naruto-inspired pullover hoodie with brushed-fleece lining, ribbed cuffs and kangaroo pocket. Unisex fit, L-3XL. Ships nationwide and worldwide from.
+Focus keyword                       : Naruto hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Naruto-inspired pullover hoodie with anime graphic print, ribbed cuffs and kangaroo pocket on a plain background
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio shot of a folded Naruto-inspired pullover hoodie on ink-black #111111 surface, paper-white #FAFAFA halftone-dot backdrop, single manga-red #E2261C accent on the drawstrings and graphic; dramatic speed lines and ink splatter framing the garment in manga panels, cinematic side lighting, crisp fabric texture showing brushed-fleece interior and ribbed cuffs, premium streetwear product photography, high contrast, no text.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

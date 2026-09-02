@@ -1,0 +1,72 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Pain figurine
+SLUG         : pain-figurine
+BUMPA ID     : 2973743
+WOO TYPE     : simple
+PARENT SKU   : OSN-2973743
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Figurines
+  - Shop by Anime > Naruto
+
+TAGS: Pain figurine, Naruto figurine, Akatsuki, Nagato, anime figurine, collector statue, PVC figure, Naruto merch
+FRANCHISE: Naruto    CHARACTER: Pain (Nagato)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦25,000
+Total stock   : 10
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The Akatsuki leader, sculpted in full Six Paths fury.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A detailed anime-inspired Pain figurine for serious Naruto collectors. Sharingan-Rinnegan stare, Akatsuki cloak detail and a sculpted pre-painted PVC finish, built to anchor any shelf or display case. Wear the roster.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Almighty Push, on your shelf. This anime-inspired Pain figurine captures the leader of the Akatsuki mid-presence: the ringed Rinnegan stare, slicked orange hair and the iconic red-cloud cloak rendered in crisp sculpted detail. From the studded face piercings to the layered robe folds, it is built to read as a centerpiece, not a background piece.</p><p>Cast in pre-painted PVC/resin and finished by hand, it is a display statue for collectors and Naruto fans, not a toy. Pose it solo or line it up with the rest of your Akatsuki roster and let Nagato command the room.</p><ul><li>Character: Pain / Nagato, leader of the Akatsuki (Naruto-inspired collector figurine)</li><li>Material: detailed sculpted PVC/resin, pre-painted finish</li><li>Type: static display statue with base (sizes vary by figure)</li><li>Detailing: Rinnegan eyes, face piercings, layered red-cloud cloak</li><li>Includes: 1x figurine; display base where applicable</li><li>Use: indoor shelf, cabinet or desk display</li><li>Care: keep out of direct sunlight; dust gently with a soft dry brush or cloth</li><li>Note: fan / anime-inspired collectible, not affiliated with or endorsed by the rights holders</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Pain / Nagato, leader of the Akatsuki, in sculpted display form
+  • Hand-finished pre-painted PVC/resin with sharp detail
+  • Iconic Rinnegan eyes, face piercings and red-cloud cloak
+  • Static display statue with base for shelf or cabinet
+  • Pairs perfectly with the rest of your Akatsuki lineup
+  • Fan / anime-inspired collectible, not a toy
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (48 chars)        : Pain Figurine | Naruto Akatsuki Collector Statue
+Meta Description (152 chars) : Anime-inspired Pain figurine, the Akatsuki leader Nagato, in sculpted pre-painted PVC. Detailed Naruto collector statue. Ships from Nigeria, nationwide.
+Focus keyword                       : Pain figurine
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Pain (Nagato) Naruto Akatsuki collector figurine with Rinnegan eyes, face piercings and red-cloud cloak on a display base.
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a Pain (Nagato) Naruto Akatsuki collector figurine: ink black #111111 background, paper white #FAFAFA rim light, single manga-red #E2261C accent on the cloak clouds and Rinnegan eyes. Halftone dot texture, dramatic speed lines and ink-splatter framing in manga panels, low cinematic key light raking across the sculpted PVC, sharp focus on the ringed eyes and face piercings, premium collectible presentation.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

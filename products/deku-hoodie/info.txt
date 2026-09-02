@@ -1,0 +1,93 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Deku Hoodie
+SLUG         : deku-hoodie
+BUMPA ID     : 2964575
+WOO TYPE     : variable
+PARENT SKU   : OSN-2964575
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+  - Shop by Anime > My Hero Academia
+
+TAGS: Deku hoodie, My Hero Academia hoodie, Izuku Midoriya, anime hoodie, MHA merch, pullover hoodie, fleece hoodie, unisex streetwear
+FRANCHISE: My Hero Academia    CHARACTER: Izuku Midoriya (Deku)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦18,500
+Total stock   : 800
+VARIATIONS (attribute: Size & Material)
+  L-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964575-LTHICKCOTTON
+  L-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964575-LTHICKPOLYESTER
+  Xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964575-XLTHICKCOTTON
+  Xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964575-XLTHICKPOLYESTER
+  2xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964575-2XLTHICKCOTTON
+  2xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964575-2XLTHICKPOLYESTER
+  3xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964575-3XLTHICKCOTTON
+  3xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964575-3XLTHICKPOLYESTER
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Plus Ultra warmth for the hero in training.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A Deku-inspired pullover hoodie built for everyday wear. Brushed-fleece interior locks in warmth, ribbed cuffs and hem keep their shape, and a unisex streetwear fit drops it over anything. Channel One For All on the daily.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Suit up like the future Symbol of Peace. This Deku-inspired hoodie brings My Hero Academia energy to the streets with bold graphics and a heavyweight build that actually holds up. Whether you're repping U.A. on campus or layering up for a cold night, it carries that Plus Ultra spirit without trying too hard.</p>
+<p>Choose your fabric and size at checkout. The brushed-fleece lining keeps you warm, the ribbed cuffs and hem keep everything snug, and the relaxed unisex cut means it works on every body. Fan-made and anime-inspired — built for fans, by fans.</p>
+<ul>
+<li>Pullover hoodie with a Deku / My Hero Academia inspired graphic print</li>
+<li>Fabric choice at checkout: thick cotton or thick polyester</li>
+<li>Brushed-fleece interior for warmth and softness</li>
+<li>Ribbed cuffs and hem hold their shape wash after wash</li>
+<li>Kangaroo front pocket for hands, phone and essentials</li>
+<li>Relaxed unisex streetwear fit</li>
+<li>Sizes: L, XL, 2XL, 3XL</li>
+<li>Indicate your preferred colour in the order notes at checkout</li>
+<li>Care: machine wash cold, inside-out; do not bleach</li>
+<li>Fan / anime-inspired apparel — not official or affiliated with the rights holders</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Deku / My Hero Academia inspired graphic hoodie
+  • Pick your fabric: thick cotton or thick polyester
+  • Brushed-fleece interior with ribbed cuffs and hem
+  • Kangaroo pocket and relaxed unisex fit
+  • Sizes L through 3XL
+  • Fan-made, anime-inspired — not official
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (43 chars)        : Deku Hoodie | My Hero Academia Anime Hoodie
+Meta Description (155 chars) : Deku-inspired My Hero Academia hoodie with brushed-fleece warmth, ribbed cuffs and a unisex fit. Pick cotton or polyester. Sizes L-3XL. Ships from Nigeria.
+Focus keyword                       : Deku hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Deku-inspired My Hero Academia pullover hoodie with kangaroo pocket and ribbed cuffs, front view
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio shot of a folded pullover hoodie on a paper-white #FAFAFA surface, ink black #111111 background, single manga-red #E2261C accent. Halftone dot shading, dynamic speed lines radiating from the hoodie, ink splatter in the corners, framed inside crisp manga panel borders. Cinematic premium product lighting, high contrast, sharp focus on the brushed-fleece texture and ribbed cuffs.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

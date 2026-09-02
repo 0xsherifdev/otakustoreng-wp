@@ -1,0 +1,72 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Uchiha Chain
+SLUG         : uchiha-chain
+BUMPA ID     : 1927305
+WOO TYPE     : simple
+PARENT SKU   : OSN-1927305
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Naruto
+
+TAGS: Uchiha chain, Naruto necklace, Uchiha clan pendant, anime necklace, Sasuke necklace, Itachi pendant, anime jewellery, Naruto accessories, anime-inspired chain
+FRANCHISE: Naruto    CHARACTER: Uchiha Clan (Sasuke / Itachi)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦5,000
+Total stock   : 7
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the crest of the Sharingan clan.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Rep the Uchiha clan with this anime-inspired pendant necklace. The classic red-and-white crest sits in glossy enamel on a tarnish-resistant silver-tone chain with a secure lobster clasp. Built to wear daily, on or off the field.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Every shinobi flies their banner. The Uchiha Chain puts the clan's signature red-and-white crest front and centre, rendered in smooth enamel on a polished round pendant that catches the light like fresh ink on paper. Whether you ride with Itachi's quiet resolve or Sasuke's relentless edge, this is how you wear the roster.</p><p>The silver-tone chain is built from durable, tarnish-resistant metal with a secure lobster-claw clasp, so it sits clean under a hoodie or over a tee without fuss. Lightweight, everyday-ready, and styled to pair with the rest of your Naruto-inspired fits. Fan-made and anime-inspired; not affiliated with or endorsed by the official rights holders.</p><ul><li>Design: Uchiha clan crest pendant in glossy red-and-white enamel</li><li>Pendant shape: round disc with bail and chain</li><li>Chain material: durable, tarnish-resistant silver-tone metal</li><li>Closure: secure lobster-claw clasp</li><li>Finish: polished, wipe-clean surface</li><li>Wear: unisex, lightweight, everyday-ready</li><li>Pairs with: Uchiha tees, rings, hand bands and more from the store</li><li>Style: fan / anime-inspired (not official or licensed)</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Iconic Uchiha clan crest in glossy red-and-white enamel
+  • Tarnish-resistant silver-tone chain for daily wear
+  • Secure lobster-claw clasp keeps the pendant in place
+  • Lightweight, unisex fit that layers under or over any top
+  • Polished, wipe-clean finish
+  • Pairs perfectly with other Naruto-inspired pieces
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (43 chars)        : Uchiha Chain - Naruto Clan Pendant Necklace
+Meta Description (153 chars) : Uchiha Chain: anime-inspired Naruto clan crest pendant on a tarnish-resistant silver-tone necklace. Ships from Nigeria, nationwide and worldwide. ₦5,000.
+Focus keyword                       : Uchiha chain necklace
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Silver-tone Uchiha clan crest pendant necklace with red-and-white enamel, held in hand with chain and lobster clasp
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga style studio product shot of a silver-tone pendant necklace featuring the Uchiha clan crest in glossy red-and-white enamel, laid on ink-black #111111 surface with paper-white #FAFAFA halftone dots and a single manga-red #E2261C speed-line accent slicing the frame; subtle ink splatter, manga panel border, dramatic cinematic rim lighting on the chain, premium and high-contrast.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

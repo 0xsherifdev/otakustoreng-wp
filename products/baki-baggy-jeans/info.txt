@@ -1,0 +1,86 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Baki Baggy Jeans
+SLUG         : baki-baggy-jeans
+BUMPA ID     : 2119087
+WOO TYPE     : variable
+PARENT SKU   : OSN-2119087
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Trousers
+
+TAGS: Baki jeans, Baki Hanma, anime jeans, baggy denim, anime streetwear, Baki the Grappler, graphic jeans, unisex jeans
+FRANCHISE: Baki the Grappler    CHARACTER: Baki Hanma
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦27,000
+Total stock   : 50
+VARIATIONS (attribute: Size)
+  M              | ₦27,000 | stock 10   | SKU OSN-2119087-M
+  L              | ₦27,000 | stock 10   | SKU OSN-2119087-L
+  XL             | ₦27,000 | stock 10   | SKU OSN-2119087-XL
+  2XL            | ₦27,000 | stock 10   | SKU OSN-2119087-2XL
+  3XL            | ₦27,000 | stock 10   | SKU OSN-2119087-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Light-wash baggy denim built for the strongest stance.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Light-wash baggy denim jeans with a bold Baki Hanma graphic and red 範馬刃牙 kanji running down the leg. Relaxed, unisex fit with a wide drape and street-ready attitude for fans who train hard and dress harder.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Drop into the strongest stance with the Baki Baggy Jeans. These light-wash denim trousers carry a striking anime-inspired print of Baki Hanma mid-flex, paired with the iconic red 範馬刃牙 kanji and ink-splatter handprints down the opposite leg. It is a loud, fight-ready statement piece built for fans who live by their roster.</p>
+<p>The wide, baggy cut drapes for that effortless streetwear silhouette while keeping room to move. Unisex sizing means anyone can rep the grappler, and the graphic sits front and centre wherever you go. Style it with a plain tee, your favourite anime jersey, or layer over chunky sneakers to finish the look.</p>
+<ul>
+<li>Style: relaxed baggy / wide-leg denim jeans, unisex fit</li>
+<li>Graphic: fan-art Baki Hanma print with red 範馬刃牙 kanji and ink-splatter detail</li>
+<li>Material: durable denim cotton blend</li>
+<li>Closure: classic button and zip fly with belt loops</li>
+<li>Wash: light blue stone-wash finish</li>
+<li>Sizes available: M, L, XL, 2XL, 3XL</li>
+<li>Pairs with: anime tees, jerseys and hoodies from the roster</li>
+<li>Care: machine wash cold inside out, hang or low tumble dry, do not bleach</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold fan-art Baki Hanma graphic across the leg
+  • Red 範馬刃牙 (Hanma Baki) kanji with ink-splatter detail
+  • Relaxed baggy wide-leg cut, unisex fit
+  • Light stone-wash blue denim, street-ready
+  • Available M through 3XL
+  • Anime-inspired streetwear, not affiliated with the franchise
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (41 chars)        : Baki Baggy Jeans | Baki Hanma Anime Denim
+Meta Description (138 chars) : Light-wash baggy Baki Hanma denim jeans with bold 範馬刃牙 kanji print. Unisex anime streetwear, M-3XL, ₦27,000. Ships from Nigeria worldwide.
+Focus keyword                       : Baki baggy jeans
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Light-wash blue baggy denim jeans with a printed Baki Hanma graphic and red Hanma Baki kanji down the legs
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of light-wash baggy denim jeans laid flat, ink black #111111 background, paper white #FAFAFA negative space, single manga-red #E2261C accent on the printed kanji and ink-splatter; halftone dots and speed lines radiating from the denim, ink splatter framing the edges, premium cinematic manga panel composition, sharp focus on the Baki Hanma graphic print, dramatic side lighting.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

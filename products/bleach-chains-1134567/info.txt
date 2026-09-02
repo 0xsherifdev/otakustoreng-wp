@@ -1,0 +1,99 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Bleach Chains
+SLUG         : bleach-chains-1134567
+BUMPA ID     : 1134567
+WOO TYPE     : variable
+PARENT SKU   : OSN-1134567
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Bleach
+
+TAGS: Bleach, Bleach necklace, anime necklace, Ichigo Hollow mask, Soul Reaper, Quincy cross, pendant necklace, anime chains, Bleach merch, anime accessories
+FRANCHISE: Bleach    CHARACTER: Ichigo Kurosaki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦3,700
+Total stock   : 1199
+VARIATIONS (attribute: Style)
+  1              | ₦3,700 | stock 100  | SKU OSN-1134567-1
+  2              | ₦3,700 | stock 100  | SKU OSN-1134567-2
+  3              | ₦3,700 | stock 100  | SKU OSN-1134567-3
+  4              | ₦3,700 | stock 100  | SKU OSN-1134567-4
+  5              | ₦3,700 | stock 100  | SKU OSN-1134567-5
+  6              | ₦3,700 | stock 99   | SKU OSN-1134567-6
+  7              | ₦3,700 | stock 100  | SKU OSN-1134567-7
+  8              | ₦3,700 | stock 100  | SKU OSN-1134567-8
+  9              | ₦3,700 | stock 100  | SKU OSN-1134567-9
+  10             | ₦3,700 | stock 100  | SKU OSN-1134567-10
+  11             | ₦3,700 | stock 100  | SKU OSN-1134567-11
+  12             | ₦3,700 | stock 100  | SKU OSN-1134567-12
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Hollow masks and Quincy crosses on black cord
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel your inner Soul Reaper with Bleach-inspired pendant necklaces on a black cord chain. Choose from 12 designs, from Ichigo's Hollow mask to Quincy crosses and Zangetsu emblems. Adjustable, tarnish-resistant, and built to wear every day.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Captain the squad with the <strong>Bleach Chains</strong> collection from Otaku Store NG. Each pendant pulls straight from the world of Soul Reapers and Hollows, cast in detailed metal and finished with red, silver and enamel accents. From Ichigo's fractured Hollow mask to the Quincy cross and Zangetsu-style emblems, these are the kind of pieces that other fans clock from across the room.</p>
+<p>Pick your favourite from the 12 designs in the photo and order by number. Strung on a clean black cord with a lobster clasp and extender, it sits right at the collar over a tee or hoodie and stacks easily with rings and bracelets. Wear the roster.</p>
+<ul>
+<li><strong>Designs:</strong> 12 Bleach-inspired styles to choose from (Hollow masks, Quincy crosses, sword/emblem pendants) — order by the number shown in the photo</li>
+<li><strong>Pendant material:</strong> durable alloy metal with red, silver and enamel detailing; resists everyday tarnish</li>
+<li><strong>Chain:</strong> black cord necklace with lobster-clasp closure and extender for an adjustable fit</li>
+<li><strong>Worn:</strong> unisex; great solo or layered with other chains</li>
+<li><strong>Care:</strong> wipe clean with a soft dry cloth; keep away from water and perfume to protect the finish</li>
+<li><strong>Sold:</strong> one necklace per order in your chosen design</li>
+<li><strong>Style:</strong> fan-made, anime-inspired; not official or affiliated merchandise</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • 12 Bleach-inspired designs — order by the number in the photo
+  • Ichigo Hollow masks, Quincy crosses and Zangetsu-style emblems
+  • Durable alloy pendant with red, silver and enamel detailing
+  • Adjustable black cord chain with lobster clasp and extender
+  • Unisex — wear solo or layer with rings and bracelets
+  • Ships nationwide across Nigeria and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (56 chars)        : Bleach Chains - Anime Pendant Necklaces | Otaku Store NG
+Meta Description (151 chars) : Bleach-inspired pendant necklaces on a black cord chain. 12 designs from Ichigo's Hollow mask to Quincy crosses. Adjustable, tarnish-resistant. ₦3,700.
+Focus keyword                       : Bleach chains
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+  05.jpg  (gallery)
+  06.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Bleach-inspired pendant necklaces on black cords, showing Hollow masks, Quincy crosses and Zangetsu emblems in red and silver
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product hero shot of a single Bleach-inspired pendant necklace — a silver Hollow mask pendant with a manga-red accent on a black cord chain — laid on textured ink-black #111111 surface. Paper-white #FAFAFA halftone dot gradient and bold manga speed lines radiating from the pendant, a single manga-red #E2261C ink splatter accent, sharp panel-border framing. Premium cinematic studio lighting, crisp metal reflections, high contrast, shallow depth of field. No text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

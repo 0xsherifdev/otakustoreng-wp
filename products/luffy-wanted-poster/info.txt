@@ -1,0 +1,80 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Luffy Wanted Poster
+SLUG         : luffy-wanted-poster
+BUMPA ID     : 1141222
+WOO TYPE     : variable
+PARENT SKU   : OSN-1141222
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Home & Decor > Room Decor
+  - Shop by Anime > One Piece
+
+TAGS: Luffy wanted poster, One Piece poster, Monkey D Luffy, anime wall decor, One Piece room decor, anime poster, Straw Hat Pirates, otaku wall art
+FRANCHISE: One Piece    CHARACTER: Monkey D. Luffy
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦3,500
+Total stock   : 494
+VARIATIONS (attribute: Style)
+  1              | ₦3,500 | stock 95   | SKU OSN-1141222-1
+  2              | ₦3,500 | stock 99   | SKU OSN-1141222-2
+  3              | ₦3,500 | stock 100  | SKU OSN-1141222-3
+  4              | ₦3,500 | stock 100  | SKU OSN-1141222-4
+  5              | ₦3,500 | stock 100  | SKU OSN-1141222-5
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Stake your claim on the Grand Line wall.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Bring the Grand Line home with this Luffy Wanted Poster. A bold, weathered-style bounty print that turns any wall into pirate territory. Five distinct styles to match your space and your favourite captain.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Every great pirate starts with a bounty, and now your wall gets one too. This Luffy Wanted Poster channels the iconic Marine bounty notice straight from the world of One Piece, complete with that aged, sun-bleached parchment look fans know by heart. It is the kind of piece that anchors a setup, framing a desk, gaming corner, or full otaku wall with unmistakable Straw Hat energy.</p><p>Printed for crisp lines and rich contrast, it is an easy way to declare your allegiance to the future Pirate King. Pick from five distinct styles to dial in the exact vibe your room needs. Fan-made, anime-inspired art, not affiliated with the official series.</p><ul><li>Character: Monkey D. Luffy from One Piece</li><li>Type: Wall poster print for room decor</li><li>Design: Weathered Marine-style wanted/bounty notice</li><li>Style options: 5 distinct variants to choose from</li><li>Finish: Vivid, high-contrast print with bold lines</li><li>Best for: Bedrooms, gaming setups, dorm rooms and otaku walls</li><li>Mounting: Wall-ready (frame and fixings not included)</li><li>Care: Keep away from direct moisture and prolonged harsh sunlight</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Iconic Luffy bounty notice in weathered Marine-poster style
+  • Five distinct styles to match your room and mood
+  • Vivid, high-contrast print with bold, clean lines
+  • Perfect anchor for desks, gaming corners and otaku walls
+  • Wall-ready format for easy display
+  • Fan-made One Piece-inspired art, not affiliated with the official series
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (42 chars)        : Luffy Wanted Poster | One Piece Wall Decor
+Meta Description (148 chars) : Luffy Wanted Poster from One Piece. Weathered bounty-style wall print in 5 styles for your otaku room. Ships from Nigeria, nationwide and worldwide.
+Focus keyword                       : Luffy wanted poster
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+  05.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: One Piece Luffy wanted poster wall print in weathered Marine bounty style for anime room decor
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-Manga studio shot: a Luffy wanted/bounty poster pinned to an ink-black #111111 wall, paper-white #FAFAFA weathered parchment texture, single manga-red #E2261C accent on the bounty stamp. Halftone dot shading, dramatic speed lines radiating outward, ink splatter at the corners, framed in subtle manga panel borders. Cinematic side lighting, premium product photography, crisp focus, high contrast.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

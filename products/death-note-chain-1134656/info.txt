@@ -1,0 +1,74 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Death  Note Chain
+SLUG         : death-note-chain-1134656
+BUMPA ID     : 1134656
+WOO TYPE     : variable
+PARENT SKU   : OSN-1134656
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+
+TAGS: Death Note, Death Note chain, anime necklace, anime pendant, Kira, Shinigami, anime accessories, pendant necklace, anime jewelry, stainless steel necklace
+FRANCHISE: Death Note    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,000
+Total stock   : 500
+VARIATIONS (attribute: Style)
+  1              | ₦4,000 | stock 200  | SKU OSN-1134656-1
+  2              | ₦4,000 | stock 300  | SKU OSN-1134656-2
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Claim the notebook. Carry the verdict.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Death Note-inspired pendant necklace for fans who play the long game. Tarnish-resistant metal, an adjustable chain, and a clean Gothic-cross design that reads loud against any fit. Pick your style and wear the verdict every day.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some fans plan three moves ahead. This Death Note-inspired pendant is for them. The crisp Gothic-cross silhouette nods to Light and L's deadly chess match, finished in a clean metal that catches the light without screaming for attention. It sits perfectly over a tee, a hoodie, or layered with the rest of your roster.</p><p>Built from durable, tarnish-resistant metal with a smooth polished face, it shrugs off everyday wear and wipes clean in seconds. The adjustable chain drops to a comfortable, versatile length, so it works whether you wear it high or let it hang. Choose between two designs to match your vibe.</p><ul><li>Anime-inspired Death Note pendant on a matching chain</li><li>Durable, tarnish-resistant stainless-steel / alloy construction</li><li>Polished finish; lobster-clasp closure</li><li>Adjustable / standard chain length for a versatile fit</li><li>Two style options available (Style 1 and Style 2)</li><li>Unisex design — easy to layer or wear solo</li><li>Wipe clean with a soft dry cloth; keep away from moisture to preserve shine</li><li>Includes: 1 pendant necklace in your chosen style</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Death Note-inspired Gothic-cross pendant for everyday wear
+  • Durable, tarnish-resistant metal that keeps its shine
+  • Adjustable chain with secure lobster-clasp closure
+  • Two style options to match your look
+  • Unisex design — layer it or wear it solo
+  • Fan-made, anime-inspired; not official or affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (41 chars)        : Death Note Chain | Anime Pendant Necklace
+Meta Description (150 chars) : Death Note-inspired pendant necklace in tarnish-resistant metal with an adjustable chain. Two styles, unisex fit. Ships nationwide and worldwide from.
+Focus keyword                       : Death Note chain
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Death Note-inspired Gothic-cross pendant necklace on a polished metal chain
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a Death Note-inspired Gothic-cross pendant necklace on a polished metal chain, coiled on a paper-white #FAFAFA surface against an ink-black #111111 backdrop. Single manga-red #E2261C accent glowing behind the pendant, halftone dot texture, sharp speed lines and a faint ink-splatter, framed inside a clean manga panel border. Premium, cinematic, high-contrast macro detail, dramatic rim lighting.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

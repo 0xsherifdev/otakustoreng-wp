@@ -1,0 +1,74 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Uchiha Katana
+SLUG         : uchiha-katana
+BUMPA ID     : 1163953
+WOO TYPE     : variable
+PARENT SKU   : OSN-1163953
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Katana & Weapons
+  - Shop by Anime > Naruto
+
+TAGS: Uchiha katana, Naruto katana, Sasuke Uchiha sword, anime display katana, cosplay katana, replica katana, Naruto merch, katana with stand
+FRANCHISE: Naruto    CHARACTER: Sasuke Uchiha
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦95,000
+Total stock   : 17
+VARIATIONS (attribute: Color)
+  Black          | ₦95,000 | stock 7    | SKU OSN-1163953-BLACK
+  White          | ₦95,000 | stock 10   | SKU OSN-1163953-WHITE
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the crest. Wield the Uchiha legacy.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+An Uchiha-inspired display katana for serious collectors and cosplayers. Themed handle wrap, matching scabbard and a display stand let you mount the clan's blade on any shelf, desk or wall. A decorative collector's prop, not a weapon.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the Uchiha bloodline with a display katana built for the roster. Inspired by Sasuke Uchiha and the legendary clan of Naruto, this anime-inspired replica pairs a clean, mirror-finish blade with a themed handle wrap and a matching scabbard (saya) so it reads as a hero piece whether it's framed on a wall, mounted at a desk or carried as the final touch on a cosplay fit.</p><p>This is a decorative collector's and cosplay prop, not a functional weapon. Choose your finish in classic ink Black or sharp White, set it on the included stand, and let the clan crest do the talking. Keep away from children and follow your local laws on bladed display items.</p><ul><li>Anime-inspired Uchiha / Sasuke design (fan-made, not affiliated or licensed)</li><li>Steel display blade with a polished finish</li><li>Themed handle (tsuka) with wrapped grip and guard</li><li>Matching scabbard (saya) for clean display and storage</li><li>Includes a display stand and a sword belt</li><li>Colour options: Black or White</li><li>Purpose: display, cosplay and collecting only</li><li>Care: wipe the blade clean and store dry to protect the finish</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Uchiha-inspired hero katana for display and cosplay
+  • Steel display blade with a polished mirror finish
+  • Themed handle wrap plus a matching scabbard (saya)
+  • Includes a display stand and sword belt
+  • Choose Black or White to match your setup
+  • Fan-made collector's prop, not affiliated or licensed
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (53 chars)        : Uchiha Katana | Naruto Display Sword | Otaku Store NG
+Meta Description (146 chars) : Uchiha-inspired Naruto display katana with themed handle, scabbard, stand and sword belt. Black or White. Ships nationwide and worldwide. ₦95,000.
+Focus keyword                       : Uchiha katana
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Uchiha-inspired Naruto display katana with themed handle wrap, matching scabbard and display stand
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of an anime-inspired Uchiha display katana resting on a wooden display stand, blade drawn slightly from its matching black scabbard. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent glinting along the steel edge and on the Uchiha clan crest. Halftone dot shading, sharp diagonal speed lines, ink-splatter texture framing the composition in clean manga panels. Premium, cinematic lighting, high detail, collector hero shot.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

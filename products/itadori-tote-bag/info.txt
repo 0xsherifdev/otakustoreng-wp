@@ -1,0 +1,70 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Itadori Tote Bag
+SLUG         : itadori-tote-bag
+BUMPA ID     : 2221757
+WOO TYPE     : simple
+PARENT SKU   : OSN-2221757
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Tote Bags
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Itadori tote bag, Jujutsu Kaisen tote bag, Yuji Itadori, anime tote bag, canvas tote bag, Jujutsu Kaisen merch, anime canvas bag, otaku tote bag
+FRANCHISE: Jujutsu Kaisen    CHARACTER: Yuji Itadori
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦7,000
+Total stock   : 10
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the cursed energy everywhere you go
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Haul your books, groceries or con loot in style with this Itadori canvas tote. Sturdy fabric, reinforced handles and bold Jujutsu Kaisen-inspired artwork make it the everyday carry every Yuji fan needs.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Throw your whole life over one shoulder. This Itadori tote bag pairs roomy, sturdy canvas with bold Jujutsu Kaisen-inspired artwork of Yuji himself, ready for school runs, grocery hauls, gym kit or a full convention loot day. Reinforced handles take the weight so you can keep moving while everyone clocks the print.</p><p>Lightweight, foldable and built to be seen, it is a fan-art statement piece you will actually use every single day.</p><ul><li>Material: durable woven canvas with a smooth printed front panel</li><li>Handles: reinforced shoulder-length straps for comfortable everyday carry</li><li>Design: vivid Itadori / Jujutsu Kaisen-inspired artwork (fan art, not affiliated)</li><li>Capacity: roomy main compartment for books, groceries or con hauls</li><li>Use: everyday tote for school, work, shopping, gym and travel</li><li>Care: spot clean or gentle cold hand wash, hang to dry, do not tumble dry</li><li>Extras: lightweight and foldable for easy storage</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Sturdy woven canvas built for heavy everyday hauls
+  • Reinforced shoulder-length handles for comfortable carry
+  • Bold Itadori Jujutsu Kaisen-inspired front print
+  • Roomy main compartment for books, groceries or con loot
+  • Lightweight and foldable for easy storage
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : Itadori Tote Bag | Jujutsu Kaisen Canvas Tote
+Meta Description (153 chars) : Itadori canvas tote bag with bold Jujutsu Kaisen-inspired art. Sturdy fabric, reinforced handles, roomy everyday carry. Ships from Nigeria, nationwide &.
+Focus keyword                       : Itadori tote bag
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Itadori Jujutsu Kaisen-inspired canvas tote bag with bold front artwork and reinforced shoulder handles
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a canvas tote bag featuring Yuji Itadori-inspired anime fan art. Ink black #111111 background, paper white #FAFAFA tote body, single manga-red #E2261C accent on the print. Halftone dot shading, dynamic speed lines and ink splatter framing the bag in a manga panel layout. Premium cinematic lighting, sharp focus on the reinforced handles and printed front panel, three-quarter angle, high detail.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

@@ -1,0 +1,83 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Mangekyou Sharingan Ring
+SLUG         : mangekyou-sharingan-ring
+BUMPA ID     : 1919964
+WOO TYPE     : simple
+PARENT SKU   : OSN-1919964
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Rings
+  - Shop by Anime > Naruto
+
+TAGS: Mangekyou Sharingan ring, Sharingan ring, Naruto ring, Uchiha ring, anime ring, Naruto accessories, Itachi, Sasuke, anime jewelry, stainless steel ring
+FRANCHISE: Naruto    CHARACTER: Sharingan (Uchiha clan)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦3,500
+Total stock   : 2
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Awaken the eye. Wear the Uchiha legacy.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel the Uchiha clan with this Mangekyou Sharingan ring. A polished steel band frames a domed red cabochon etched with the iconic eye, tarnish-resistant and built for daily flex. Pick your size and rep the dojutsu.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some powers are earned in blood. The Mangekyou Sharingan is the Uchiha clan's most feared dojutsu, and this ring puts that legend on your hand. A chunky, signet-style band cradles a domed cabochon face washed in manga-red, with the unmistakable Sharingan pattern set deep at the centre so it catches the light from every angle.</p>
+<p>Cast in polished stainless steel / alloy with a tarnish-resistant finish, it is built to be worn every day, not left in a drawer. Stacks clean with your other anime-inspired pieces or stands alone as a statement. Buyer selects ring size at checkout. A fan-made, anime-inspired piece, not affiliated with or endorsed by the franchise.</p>
+<ul>
+<li>Design: Mangekyou Sharingan motif on a domed round cabochon face</li>
+<li>Style: bold signet / statement ring, unisex</li>
+<li>Material: stainless steel / alloy with polished silver-tone finish</li>
+<li>Finish: tarnish-resistant for everyday wear</li>
+<li>Accent: manga-red enamel-look centre with the Sharingan eye</li>
+<li>Sizing: choose your standard ring size at checkout</li>
+<li>Included: 1 x Mangekyou Sharingan ring</li>
+<li>Care: keep dry, wipe with a soft cloth, avoid harsh chemicals and prolonged water</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Iconic Mangekyou Sharingan eye set in a manga-red domed cabochon
+  • Bold signet-style band for everyday statement wear
+  • Polished stainless steel / alloy with a tarnish-resistant finish
+  • Unisex fit, choose your standard ring size at checkout
+  • Fan-made, anime-inspired Naruto piece, not affiliated with the franchise
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : Mangekyou Sharingan Ring | Naruto Uchiha Ring
+Meta Description (155 chars) : Mangekyou Sharingan ring for Naruto fans. Polished steel signet band with a red Uchiha eye cabochon, tarnish-resistant. Pick your size. Ships from Nigeria.
+Focus keyword                       : Mangekyou Sharingan ring
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Polished silver-tone Mangekyou Sharingan signet ring with a red Naruto Uchiha eye cabochon held between fingers
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product studio shot of a polished stainless-steel signet ring with a domed red Mangekyou Sharingan cabochon at the centre, the Uchiha eye motif crisp in single manga-red #E2261C against ink black #111111 and paper white #FAFAFA. Ring floating on a stark paper-white surface, dramatic cinematic side lighting, halftone dot texture in the background, sharp diagonal speed lines radiating from the ring, a small ink splatter accent at the corner, framed inside a clean manga panel border. Premium, high-contrast, macro detail on the glossy red eye. No text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

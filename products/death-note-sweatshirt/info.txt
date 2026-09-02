@@ -1,0 +1,87 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Death Note Sweatshirt
+SLUG         : death-note-sweatshirt
+BUMPA ID     : 1121843
+WOO TYPE     : variable
+PARENT SKU   : OSN-1121843
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+
+TAGS: Death Note sweatshirt, Death Note hoodie, anime hoodie, anime sweatshirt, Light Yagami merch, L Lawliet, anime streetwear, manga pullover
+FRANCHISE: Death Note    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦20,000
+Total stock   : 499
+VARIATIONS (attribute: Size)
+  M              | ₦20,000 | stock 100  | SKU OSN-1121843-M
+  L              | ₦20,000 | stock 100  | SKU OSN-1121843-L
+  XL             | ₦20,000 | stock 99   | SKU OSN-1121843-XL
+  2XL            | ₦20,000 | stock 100  | SKU OSN-1121843-2XL
+  XXXL           | ₦20,000 | stock 100  | SKU OSN-1121843-XXXL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Write the name. Wear the legend.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A heavyweight Death Note sweatshirt built for the long game. Brushed-fleece interior keeps you warm, ribbed cuffs and hem lock in the fit, and a clean unisex streetwear cut wears anywhere. Anime-inspired, fan-made for true devotees of the notebook.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some battles are won in silence, in shadow, in the turn of a single page. This Death Note sweatshirt channels that quiet menace into a piece you can actually live in. The graphic carries the cat-and-mouse tension of the series straight onto a thick, cozy pullover that holds up through cold mornings and late-night reads alike.</p>
+<p>Cut for the streets in a relaxed unisex fit, it layers clean over tees and under jackets. Brushed fleece on the inside means warmth without bulk, while ribbed detailing keeps everything sharp wash after wash. Anime-inspired and fan-made for the people who know exactly whose name they'd write first.</p>
+<ul>
+<li>Heavyweight pullover sweatshirt with brushed-fleece interior for warmth</li>
+<li>Ribbed cuffs and hem to hold the shape and lock in heat</li>
+<li>Relaxed unisex streetwear fit — true to size, layers easily</li>
+<li>Cotton and polyester blend fabric, soft and durable</li>
+<li>Bold Death Note anime-inspired front graphic</li>
+<li>Available in sizes M, L, XL, 2XL and XXXL</li>
+<li>Machine wash cold, inside-out; hang or line dry to protect the print</li>
+<li>Fan-made design, not affiliated with or endorsed by the original creators</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Heavyweight pullover with brushed-fleece interior for real warmth
+  • Bold Death Note anime-inspired front graphic
+  • Relaxed unisex streetwear fit, layers clean
+  • Ribbed cuffs and hem hold their shape wash after wash
+  • Cotton-polyester blend, soft and durable
+  • Sizes M through XXXL
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (53 chars)        : Death Note Sweatshirt | Anime Hoodie - Otaku Store NG
+Meta Description (146 chars) : Shop the Death Note sweatshirt — heavyweight brushed-fleece pullover, unisex streetwear fit, sizes M-XXXL. Anime-inspired, fan-made. From ₦20,000.
+Focus keyword                       : Death Note sweatshirt
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Death Note anime-inspired heavyweight pullover sweatshirt with bold front graphic, unisex streetwear fit
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio shot of a folded heavyweight pullover sweatshirt, ink black #111111 background, paper white #FAFAFA garment surface, single manga-red #E2261C accent on a Death Note-inspired graphic. Halftone dot shading, dramatic speed lines radiating outward, ink splatter in corners, framed inside a manga panel border. Cinematic rim lighting, premium product photography, high contrast, shallow depth of field.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

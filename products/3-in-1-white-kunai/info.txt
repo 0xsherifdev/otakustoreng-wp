@@ -1,0 +1,81 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : 3 In 1 White Kunai
+SLUG         : 3-in-1-white-kunai
+BUMPA ID     : 1484670
+WOO TYPE     : simple
+PARENT SKU   : OSN-1484670
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Katana & Weapons
+  - Shop by Anime > Naruto
+
+TAGS: Naruto kunai, kunai set, ninja kunai, cosplay prop, anime weapon replica, shinobi display, Naruto cosplay, collectible kunai
+FRANCHISE: Naruto    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦7,000
+Total stock   : 9
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Three shinobi kunai. One ninja-grade gift box.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A set of three Naruto-inspired display kunai with matte-black blades, cord-wrapped handles and ring pommels. Cosplay-ready and collector-clean, delivered in a fitted gift box. A decorative shinobi prop set for fans.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Pull the pin on your shinobi arsenal. This 3-in-1 kunai set channels the iconic Naruto throwing-knife silhouette: a leaf-shaped blade, cord-wrapped handle and the signature ring pommel that screams hidden-village hardware. Matte-black finish, clean lines, three identical pieces ready to fan out across a shelf or complete a ninja cosplay loadout.</p>
+<p>Built as a display and costume prop, not a functional weapon. The white cord wrap keeps the grip looking authentic while the fitted box makes it gift-ready and easy to store between cons. Fan-made and anime-inspired, not affiliated with or endorsed by the rights holders.</p>
+<ul>
+<li>Set of 3 matching display kunai (anime-inspired ninja design)</li>
+<li>Matte-black themed blade with classic leaf/shinobi profile</li>
+<li>Cord-wrapped handle (tsuka) in white finish with ring pommel</li>
+<li>Decorative prop for display, cosplay and collecting only</li>
+<li>Fitted gift box included for storage and gifting</li>
+<li>Care: keep dry, wipe with a soft dry cloth; store away from moisture</li>
+<li>Not a toy or functional weapon. Keep away from children; follow local laws on bladed display items</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Set of 3 matching shinobi-style kunai
+  • Matte-black blades with white cord-wrapped handles
+  • Iconic ring pommel for authentic ninja look
+  • Display and cosplay prop, not a functional weapon
+  • Comes in a fitted gift box, ready to gift
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (48 chars)        : 3-in-1 Naruto Kunai Set | Display & Cosplay Prop
+Meta Description (144 chars) : Naruto-inspired 3-in-1 kunai set with matte-black blades, cord-wrapped handles and ring pommels. Display and cosplay prop in a gift box. ₦7,000.
+Focus keyword                       : Naruto kunai set
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Set of three matte-black Naruto-inspired kunai with white cord-wrapped handles and ring pommels in a gift box
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of three matte-black ninja kunai with white cord-wrapped handles and ring pommels, fanned out in a tight overlapping spread. Ink black #111111 background, paper white #FAFAFA negative space, single manga-red #E2261C accent slashing behind the blades. Halftone dot texture, dramatic diagonal speed lines, ink splatter around the blade tips, framed in a bold manga panel. Premium cinematic lighting, sharp specular highlight along each blade edge, high contrast, shallow depth of field.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

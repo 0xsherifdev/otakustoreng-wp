@@ -1,0 +1,77 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Itachi Jersey
+SLUG         : itachi-jersey-2193826
+BUMPA ID     : 2193826
+WOO TYPE     : variable
+PARENT SKU   : OSN-2193826
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Jerseys
+  - Shop by Anime > Naruto
+
+TAGS: Itachi Uchiha, Naruto, anime jersey, all-over print jersey, crow dispersion, Konoha, dye sublimation jersey, anime streetwear
+FRANCHISE: Naruto    CHARACTER: Itachi Uchiha
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦23,000
+Total stock   : 26
+VARIATIONS (attribute: Size)
+  L              | ₦23,000 | stock 8    | SKU OSN-2193826-L
+  XL             | ₦23,000 | stock 9    | SKU OSN-2193826-XL
+  2XL            | ₦23,000 | stock 9    | SKU OSN-2193826-2XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Crows scatter. The Uchiha never blinks.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+All-over-print Itachi Uchiha jersey with the iconic crow-dispersion art, Konoha swirl crest and clean white V-neck cut. Lightweight, breathable polyester built for conventions, watch parties and everyday flex.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the calm genius of the Uchiha clan. This all-over-print Itachi jersey drops a crisp white V-neck canvas around the genjutsu master himself, hand raised in his signature pose as a flock of crows scatters into ink across the front. The Hidden Leaf swirl sits proud on the chest beside a football-crest-style badge, with subtle crystalline accents on the shoulders for that match-day energy.</p><p>Dye-sublimated edge to edge so the graphics never crack, fade or peel, it is lightweight, breathable and made to move, whether you are layering it for streetwear or repping the Akatsuki's most tragic legend at the next con. Unisex fit, true to size. If you are between sizes, size up for a relaxed drape.</p><ul><li><strong>Material:</strong> 100% polyester, lightweight and breathable</li><li><strong>Print:</strong> Full all-over dye-sublimation, edge to edge, no cracking or peeling</li><li><strong>Fit:</strong> Unisex, true to size (size up if between sizes)</li><li><strong>Sizing:</strong> Available in L, XL and 2XL</li><li><strong>Care:</strong> Machine wash cold inside-out, do not iron directly on the print, hang to dry</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Iconic Itachi crow-dispersion artwork printed edge to edge
+  • Konoha swirl crest and football-style badge for true match-day flex
+  • Lightweight, breathable 100% polyester that moves with you
+  • Vivid dye-sublimation print that won't crack, fade or peel
+  • Unisex, true-to-size fit, perfect for cons, watch parties and streetwear
+  • Secure checkout with fast nationwide and worldwide delivery
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (50 chars)        : Itachi Uchiha Anime Jersey | Naruto All-Over Print
+Meta Description (149 chars) : Shop the Itachi Uchiha anime jersey: all-over crow-dispersion print, breathable polyester, unisex fit. ₦23,000. Fast nationwide & worldwide delivery.
+Focus keyword                       : Itachi anime jersey
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: White all-over-print Itachi Uchiha Naruto anime jersey showing his crow-dispersion pose, Konoha swirl crest and football-style badge
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga aesthetic studio shot of a white all-over-print anime football jersey featuring Itachi Uchiha in his crow-dispersion pose, garment displayed on a sharp matte-black mannequin against an ink-black #111111 backdrop. Halftone screentone dots and dramatic manga speed lines radiating behind the jersey, brush-ink splatter framing the edges, manga panel border layout. High-contrast monochrome scene with a single bold manga-red #E2261C accent glowing from a scattering crow and the chest crest. Premium anime-streetwear, cinematic rim lighting, paper-white #FAFAFA highlights, bold and moody.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

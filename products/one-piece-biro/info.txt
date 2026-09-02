@@ -1,0 +1,74 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : One Piece Biro
+SLUG         : one-piece-biro
+BUMPA ID     : 1875835
+WOO TYPE     : simple
+PARENT SKU   : OSN-1875835
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Shop by Anime > One Piece
+
+TAGS: One Piece, One Piece biro, anime pen, manga gel pen, Luffy, anime stationery, anime accessories, retractable pen
+FRANCHISE: One Piece    CHARACTER: Monkey D. Luffy
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦1,400
+Total stock   : 10
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Manga-panel gel pen that reps the crew
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Write like a Straw Hat. This One Piece-inspired retractable gel pen is wrapped in monochrome manga panels with a soft rubber grip and smooth-flowing ink, sold per piece so you can stack your pencil case with the crew.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Stop signing in boring blue. This One Piece-inspired retractable gel pen wraps the whole barrel in crisp monochrome manga panels, so every note, lecture and to-do list reps the Straw Hat crew. Click the top, the tip drops, and the soft cushioned grip keeps you writing through marathon study sessions and back-of-class doodles alike.</p><p>It is the easy, affordable way to carry the manga everywhere you go. Each pen is sold per piece, so grab a few and keep one in every bag, desk and pocket. A fan-made, anime-inspired accessory for the Grand Line obsessed; not affiliated with or endorsed by the official rights holders.</p><ul><li><strong>Item:</strong> Retractable click gel/ballpoint pen (biro), sold per piece</li><li><strong>Design:</strong> Black-and-white One Piece manga panel print wrapped around the barrel</li><li><strong>Mechanism:</strong> Push-button retractable tip, no cap to lose</li><li><strong>Grip:</strong> Soft rubberised cushion grip for comfortable, long-session writing</li><li><strong>Ink:</strong> Smooth-flowing gel-style ink</li><li><strong>Barrel finish:</strong> Glossy print with white or grey grip (styles vary)</li><li><strong>Best for:</strong> School, work, journaling, gifting a fellow anime fan</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • One Piece manga-panel print wrapped around the full barrel
+  • Retractable click tip - no cap to lose
+  • Soft rubber cushion grip for long writing sessions
+  • Smooth-flowing gel-style ink
+  • Sold per piece so you can stock up
+  • Lightweight everyday carry for school, work or journaling
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (47 chars)        : One Piece Biro | Manga Gel Pen | Otaku Store NG
+Meta Description (149 chars) : One Piece-inspired retractable gel pen with manga-panel print and soft grip. Smooth ink, sold per piece. Ships from Nigeria nationwide and worldwide.
+Focus keyword                       : One Piece biro
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: One Piece-inspired retractable gel pen with black-and-white manga panel print and soft rubber grip
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a retractable gel pen wrapped in black-and-white One Piece-style manga panel artwork, soft rubber grip, click button at top. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent on the pen tip and a thin speed line. Halftone dot texture and subtle ink splatter framing, manga panel border, dramatic cinematic side lighting, premium hero composition, shallow depth of field.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

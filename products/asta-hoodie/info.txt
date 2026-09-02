@@ -1,0 +1,79 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Asta Hoodie
+SLUG         : asta-hoodie
+BUMPA ID     : 2964474
+WOO TYPE     : variable
+PARENT SKU   : OSN-2964474
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+
+TAGS: Asta hoodie, Black Clover hoodie, anime hoodie, Black Clover merch, Asta merch, anime streetwear, pullover hoodie, unisex anime hoodie, Black Bulls, anime-inspired hoodie
+FRANCHISE: Black Clover    CHARACTER: Asta
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦18,500
+Total stock   : 800
+VARIATIONS (attribute: Size & Material)
+  L-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964474-LTHICKCOTTON
+  L-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964474-LTHICKPOLYESTER
+  Xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964474-XLTHICKCOTTON
+  Xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964474-XLTHICKPOLYESTER
+  2xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964474-2XLTHICKCOTTON
+  2xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964474-2XLTHICKPOLYESTER
+  3xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964474-3XLTHICKCOTTON
+  3xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964474-3XLTHICKPOLYESTER
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Anti-Magic grit, wrapped in brushed fleece.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel the Black Bulls' loudest underdog in this fan-inspired Asta hoodie. Brushed-fleece interior, ribbed cuffs and hem, and an unisex streetwear fit built for everyday wear. Pick your size and fabric. Wear the roster.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>No magic, all heart. This Asta hoodie channels Black Clover's loudest underdog into a heavyweight streetwear piece built to carry the energy of the Black Bulls into real life. Bold anime-inspired graphics, a brushed-fleece interior for serious warmth, and a clean unisex cut make it the layer you reach for on every cold morning and late-night manga binge.</p><p>Choose your fabric to match your vibe: thick cotton for soft, breathable comfort, or thick polyester for a smoother, hard-wearing finish. Either way, you get a hoodie that looks loud and feels premium. Fan-made and anime-inspired; not affiliated with or endorsed by the official rights holders.</p><ul><li>Pullover hoodie with a roomy unisex streetwear fit</li><li>Brushed-fleece interior for cosy, all-season warmth</li><li>Ribbed cuffs and hem to lock in heat and hold shape</li><li>Front kangaroo pocket for hands, phone and essentials</li><li>Fabric choice: Thick Cotton or Thick Polyester</li><li>Sizes: L, XL, 2XL and 3XL</li><li>Bold Asta / Black Clover anime-inspired print</li><li>Machine wash cold, inside-out; hang or line dry to protect the print</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Asta anti-magic graphic in bold Black Clover style
+  • Brushed-fleece interior for genuine warmth
+  • Ribbed cuffs and hem keep their shape
+  • Kangaroo pocket and unisex streetwear fit
+  • Choose Thick Cotton or Thick Polyester
+  • Sizes L through 3XL
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (56 chars)        : Asta Hoodie | Black Clover Anime Hoodie - Otaku Store NG
+Meta Description (152 chars) : Fan-inspired Asta hoodie from Black Clover. Brushed-fleece warmth, ribbed cuffs, unisex fit. Thick cotton or polyester, sizes L-3XL. Ships from Nigeria.
+Focus keyword                       : Asta hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Asta Black Clover anime-inspired pullover hoodie with bold graphic print, kangaroo pocket and ribbed cuffs
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a folded pullover hoodie featuring an Asta-inspired Black Clover graphic. Ink black #111111 background, paper white #FAFAFA hoodie fabric, single manga-red #E2261C accent on the graphic. Halftone dot shading, dynamic speed lines radiating outward, ink-splatter texture framing the garment in a manga panel layout. Premium cinematic lighting, crisp fabric detail showing brushed-fleece interior and ribbed cuffs, high-contrast, dramatic shadows. No text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

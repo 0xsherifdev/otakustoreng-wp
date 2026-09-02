@@ -1,0 +1,78 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Aot Ring
+SLUG         : aot-ring-1146383
+BUMPA ID     : 1146383
+WOO TYPE     : variable
+PARENT SKU   : OSN-1146383
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Rings
+  - Shop by Anime > Attack on Titan
+
+TAGS: Attack on Titan ring, Survey Corps ring, Wings of Freedom, anime ring, AOT merch, stainless steel ring, black band ring, anime accessories
+FRANCHISE: Attack on Titan    CHARACTER: Survey Corps
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦2,500
+Total stock   : 585
+VARIATIONS (attribute: Size)
+  7              | ₦2,500 | stock 97   | SKU OSN-1146383-7
+  8              | ₦2,500 | stock 98   | SKU OSN-1146383-8
+  9              | ₦2,500 | stock 95   | SKU OSN-1146383-9
+  10             | ₦2,500 | stock 98   | SKU OSN-1146383-10
+  11             | ₦2,500 | stock 97   | SKU OSN-1146383-11
+  12             | ₦2,500 | stock 100  | SKU OSN-1146383-12
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Wings of Freedom, forged in black steel.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+An Attack on Titan-inspired band ring in matte black stainless steel, etched with the Survey Corps Wings of Freedom crest. An 8mm beveled-edge daily driver that's tarnish-resistant and built to ride out every scouting expedition.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Suit up for the next expedition. This Attack on Titan-inspired ring carries the Survey Corps' Wings of Freedom crest, laser-etched into a matte-black brushed band with bright beveled edges for contrast. Subtle enough for the office, loud enough for the convention floor.</p><p>Cut from stainless steel for everyday durability, the comfort-fit band is tarnish-resistant and easy to wear daily. Use the thread-and-ruler method to find your size, then pick your fit at checkout. Fan-made, anime-inspired, and not affiliated with or endorsed by the official rights holders.</p><ul><li>Design: Survey Corps Wings of Freedom crest, laser-etched</li><li>Material: stainless steel, matte brushed face with polished beveled edges</li><li>Colour: black</li><li>Band width: 8mm</li><li>Finish: tarnish-resistant, comfort-fit interior</li><li>Available sizes: 7, 8, 9, 10, 11, 12 (select at checkout)</li><li>Wear: unisex, suitable for daily wear</li><li>In the box: 1 ring</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Survey Corps Wings of Freedom crest laser-etched on the face
+  • Matte-black brushed band with polished beveled edges
+  • Stainless steel, tarnish-resistant for daily wear
+  • 8mm comfort-fit unisex band
+  • Six sizes (7-12) - pick your fit at checkout
+  • Fan-inspired Attack on Titan accessory
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (52 chars)        : Attack on Titan Ring - Survey Corps Wings | Otaku NG
+Meta Description (149 chars) : Attack on Titan-inspired black steel ring with the Survey Corps Wings of Freedom crest. 8mm tarnish-resistant band, sizes 7-12. Ships nationwide and.
+Focus keyword                       : Attack on Titan ring
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black matte stainless steel Attack on Titan ring with the Survey Corps Wings of Freedom crest etched on an 8mm band
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product photography of a matte-black stainless steel band ring, Survey Corps Wings of Freedom crest etched on its face, standing upright on an ink-black #111111 surface. Single manga-red #E2261C accent glowing from behind the ring, paper-white #FAFAFA halftone dots and diagonal speed lines radiating across the background, fine ink splatter, manga panel framing. Cinematic studio lighting, sharp reflections on the polished beveled edges, premium and high-contrast.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

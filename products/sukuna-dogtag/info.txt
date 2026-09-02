@@ -1,0 +1,83 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Sukuna Dogtag
+SLUG         : sukuna-dogtag
+BUMPA ID     : 1927532
+WOO TYPE     : simple
+PARENT SKU   : OSN-1927532
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Sukuna dogtag, Ryomen Sukuna, Jujutsu Kaisen necklace, anime dog tag, Sukuna chain, anime necklace, Jujutsu Kaisen merch, stainless steel pendant
+FRANCHISE: Jujutsu Kaisen    CHARACTER: Ryomen Sukuna
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦6,000
+Total stock   : 2
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The King of Curses, slung around your neck.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel the King of Curses with this Sukuna dog-tag necklace. A vivid printed pendant of Ryomen Sukuna's grin on a tarnish-resistant stainless-steel chain, built for everyday wear and ready to flex at any drop.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Carry the King of Curses wherever you go. This anime-inspired Sukuna dog tag features a bold full-colour print of Ryomen Sukuna's signature grin, framed by his name and the iconic 両面宿儺 kanji, set against a deep matte panel that pops under any light. It is the kind of piece that makes fellow Jujutsu Kaisen fans nod from across the room.</p>
+<p>The pendant hangs from a sturdy stainless-steel box chain that resists tarnish, so it keeps its shine through daily wear. Layer it with your fits or wear it solo as a clean, confident statement.</p>
+<ul>
+<li>Style: rectangular dog-tag pendant on a ball/box-style chain</li>
+<li>Design: full-colour Ryomen Sukuna print with "RYOMEN SUKUNA" lettering and 両面宿儺 kanji</li>
+<li>Material: durable stainless-steel / alloy that resists tarnish and rust</li>
+<li>Finish: matte pendant face with polished steel chain</li>
+<li>Fit: standard chain length, comfortable for everyday wear</li>
+<li>Includes: one Sukuna dog-tag pendant with chain</li>
+<li>Care: wipe clean with a soft, dry cloth; avoid harsh chemicals</li>
+<li>Fan / anime-inspired design, not affiliated with or endorsed by the rights holders</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Full-colour Ryomen Sukuna print with name and 両面宿儺 kanji
+  • Durable stainless-steel build that resists tarnish and rust
+  • Dog-tag pendant on a sturdy box-style chain
+  • Standard length, comfortable for everyday wear
+  • Easy care: wipe clean with a soft, dry cloth
+  • Fan-made Jujutsu Kaisen accessory, not affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : Sukuna Dogtag Necklace | Jujutsu Kaisen Chain
+Meta Description (151 chars) : Sukuna dog-tag necklace inspired by Jujutsu Kaisen. Full-colour Ryomen Sukuna pendant on a tarnish-resistant stainless-steel chain. Ships from Nigeria.
+Focus keyword                       : Sukuna dogtag necklace
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Sukuna dog-tag necklace with a full-colour Ryomen Sukuna print and 両面宿儺 kanji on a stainless-steel chain, held in hand
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product studio shot of a rectangular stainless-steel dog-tag necklace printed with a grinning Ryomen Sukuna face, name lettering and 両面宿儺 kanji, chain coiled beside it. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent on the pendant art. Halftone dot texture, sharp speed lines radiating outward, subtle ink splatter, framed in clean manga panels. Premium, cinematic, high-contrast macro lighting, glossy steel reflections.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

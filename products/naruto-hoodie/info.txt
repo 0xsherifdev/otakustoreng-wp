@@ -1,0 +1,91 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Naruto Hoodie
+SLUG         : naruto-hoodie
+BUMPA ID     : 2964614
+WOO TYPE     : variable
+PARENT SKU   : OSN-2964614
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+  - Shop by Anime > Naruto
+
+TAGS: Naruto hoodie, Naruto Uzumaki, anime hoodie, chibi Naruto, ramen hoodie, pullover hoodie, anime streetwear, fleece hoodie, unisex hoodie, otaku merch
+FRANCHISE: Naruto    CHARACTER: Naruto Uzumaki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦18,500
+Total stock   : 796
+VARIATIONS (attribute: Size & Material)
+  L-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964614-LTHICKCOTTON
+  L-Thick Polyester. | ₦18,500 | stock 98   | SKU OSN-2964614-LTHICKPOLYESTER
+  Xl-Thick Cotton | ₦21,000 | stock 99   | SKU OSN-2964614-XLTHICKCOTTON
+  Xl-Thick Polyester. | ₦18,500 | stock 100  | SKU OSN-2964614-XLTHICKPOLYESTER
+  2xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964614-2XLTHICKCOTTON
+  2xl-Thick Polyester. | ₦18,500 | stock 100  | SKU OSN-2964614-2XLTHICKPOLYESTER
+  3xl-Thick Cotton | ₦21,000 | stock 99   | SKU OSN-2964614-3XLTHICKCOTTON
+  3xl-Thick Polyester. | ₦18,500 | stock 100  | SKU OSN-2964614-3XLTHICKPOLYESTER
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Chibi Naruto, ramen, and all-day fleece warmth
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A cosy cream pullover hoodie with a chibi Naruto napping in a ramen bowl. Brushed-fleece interior, ribbed cuffs and hem, kangaroo pocket, and a relaxed unisex streetwear fit. Pick your size and fabric. Anime-inspired, not affiliated.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Slurp, nap, repeat. This Naruto-inspired pullover hoodie puts a chibi Naruto Uzumaki curled up in a steaming bowl of ramen right across the chest, printed in soft watercolour tones on a clean cream body. It is the kind of piece that reads as quiet streetwear from across the room and pure shinobi energy up close.</p>
+<p>Built for everyday wear, the brushed-fleece interior traps warmth without the bulk, while the relaxed unisex cut layers easily over a tee or under a jacket. Choose between thick cotton or thick polyester at checkout to match the feel you like best.</p>
+<ul>
+<li>Anime-inspired chibi Naruto ramen-bowl front graphic (fan design, not affiliated)</li>
+<li>Pullover style with a roomy kangaroo front pocket</li>
+<li>Soft brushed-fleece interior for cosy warmth</li>
+<li>Ribbed cuffs and hem to hold shape and lock in heat</li>
+<li>Relaxed unisex streetwear fit</li>
+<li>Fabric choice: thick cotton or thick polyester</li>
+<li>Sizes: L, XL, 2XL, 3XL</li>
+<li>Cream / beige colourway with drawstring hood</li>
+<li>Machine wash cold, inside-out; hang or line dry</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Chibi Naruto napping in a ramen bowl, printed in soft watercolour tones
+  • Brushed-fleece interior for genuine all-day warmth
+  • Ribbed cuffs and hem with a roomy kangaroo pocket
+  • Choose thick cotton or thick polyester at checkout
+  • Relaxed unisex fit in sizes L through 3XL
+  • Ships nationwide and worldwide from Nigeria
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (53 chars)        : Naruto Ramen Hoodie | Chibi Pullover | Otaku Store NG
+Meta Description (152 chars) : Cosy cream Naruto hoodie with chibi ramen-bowl print. Brushed fleece, kangaroo pocket, unisex fit. Cotton or polyester, sizes L-3XL. Ships from Nigeria.
+Focus keyword                       : Naruto hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Cream pullover hoodie with a chibi Naruto Uzumaki sleeping in a ramen bowl printed on the chest
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a cream pullover hoodie laid flat, chibi Naruto-in-a-ramen-bowl chest graphic facing camera. Ink black #111111 backdrop, paper white #FAFAFA negative space, single manga-red #E2261C accent slash. Halftone dot texture, dramatic speed lines radiating from the print, subtle ink splatter framing a manga panel border. Premium cinematic lighting, crisp fabric detail on ribbed cuffs and kangaroo pocket, high contrast, editorial streetwear catalogue mood.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

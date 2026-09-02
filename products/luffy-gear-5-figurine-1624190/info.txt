@@ -1,0 +1,72 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Luffy Gear 5 Figurine
+SLUG         : luffy-gear-5-figurine-1624190
+BUMPA ID     : 1624190
+WOO TYPE     : simple
+PARENT SKU   : OSN-1624190
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Figurines
+  - Shop by Anime > One Piece
+
+TAGS: Luffy Gear 5 figurine, One Piece figurine, Monkey D Luffy statue, Sun God Nika, anime figurine, PVC statue, One Piece collectibles, Gear 5
+FRANCHISE: One Piece    CHARACTER: Monkey D. Luffy
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦15,000
+Total stock   : 10
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Gear 5 awakening, sculpted in PVC.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Bring the Sun God to your shelf. This Gear 5 Luffy figurine captures the awakened, white-haired Joy Boy mid-laugh in pre-painted PVC detail. A standout display piece for any One Piece collector. Anime-inspired, not affiliated.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>The moment Luffy breaks free becomes a centerpiece. This Gear 5 figurine renders the awakened Joy Boy in his signature white-haired, cartoon-fluid form, the toon-force chaos of the Sun God Nika frozen in sculpted PVC. Crisp paintwork, exaggerated proportions and dynamic energy make it instantly recognisable across the room.</p><p>Built for display rather than play, it sits cleanly on any shelf, desk or detolf and anchors a One Piece collection with serious presence. A fan-made, anime-inspired tribute for collectors who want to wear and show the roster.</p><ul><li>Character: Monkey D. Luffy (Gear 5 / Sun God Nika awakening)</li><li>Series: One Piece (fan / anime-inspired, not affiliated or licensed)</li><li>Material: pre-painted PVC display statue</li><li>Approximate height: 17cm</li><li>Type: collector display figurine, not a toy</li><li>Includes: figurine and display base</li><li>Care: keep out of direct sunlight; dust gently with a soft, dry brush or cloth</li><li>Best for: shelf, desk or glass cabinet display</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Awakened Gear 5 pose with iconic white hair and toon-fluid energy
+  • Pre-painted PVC display statue, roughly 17cm tall
+  • Sharp sculpt and crisp colour work, built to be seen
+  • Stable display base for shelf, desk or detolf
+  • Collector display piece, not a toy
+  • Ships nationwide and worldwide from Nigeria
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (57 chars)        : Luffy Gear 5 Figurine | One Piece Statue | Otaku Store NG
+Meta Description (151 chars) : Luffy Gear 5 figurine, the awakened Sun God Nika in pre-painted PVC, approx 17cm. Anime-inspired One Piece display statue. ₦15,000. Ships from Nigeria.
+Focus keyword                       : Luffy Gear 5 figurine
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Monkey D. Luffy Gear 5 figurine with white hair in a dynamic awakened pose on a display base
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a Monkey D. Luffy Gear 5 PVC figurine, awakened white-haired Sun God Nika pose mid-laugh, displayed on a circular base. Ink black #111111 background, paper white #FAFAFA rim light, single manga-red #E2261C accent on speed lines radiating behind the figure. Halftone dot texture, ink splatter, sharp manga panel framing, cinematic premium product photography, dramatic side lighting, shallow depth of field.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

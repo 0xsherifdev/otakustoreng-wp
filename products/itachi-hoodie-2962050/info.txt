@@ -1,0 +1,89 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Itachi Hoodie
+SLUG         : itachi-hoodie-2962050
+BUMPA ID     : 2962050
+WOO TYPE     : variable
+PARENT SKU   : OSN-2962050
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+  - Shop by Anime > Naruto
+
+TAGS: Itachi hoodie, Naruto hoodie, Sharingan hoodie, Akatsuki hoodie, anime pullover hoodie, Uchiha merch, Naruto streetwear, anime hoodie
+FRANCHISE: Naruto    CHARACTER: Itachi
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦18,500
+Total stock   : 800
+VARIATIONS (attribute: Size & Material)
+  L-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2962050-LTHICKCOTTON
+  L-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2962050-LTHICKPOLYESTER
+  Xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2962050-XLTHICKCOTTON
+  Xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2962050-XLTHICKPOLYESTER
+  2xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2962050-2XLTHICKCOTTON
+  2xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2962050-2XLTHICKPOLYESTER
+  3xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2962050-3XLTHICKCOTTON
+  3xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2962050-3XLTHICKPOLYESTER
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Sharingan ink on a heavyweight black pullover.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A Naruto-inspired Itachi pullover hoodie built for cold-weather layering. Brushed-fleece interior, ribbed cuffs and hem, kangaroo pocket, and a bold Sharingan print with Akatsuki cloud and Hidden Leaf sleeve symbols. Pick your size and fabric.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the Uchiha bloodline with the Itachi Hoodie, a Naruto-inspired pullover that puts the crimson Sharingan front and centre on deep ink black. Akatsuki cloud accents and Hidden Leaf ninja symbols run down both sleeves, while a brushed-fleece interior keeps the heat in for late-night anime marathons or harmattan-season layering. Wear the roster.</p>
+<p>Cut for an everyday unisex streetwear fit and offered in your choice of thick cotton or thick polyester, so you can dial in the exact feel and weight you want. Fan art, anime-inspired and not affiliated with or endorsed by the original creators.</p>
+<ul>
+<li>Pullover hoodie with double-lined hood and front kangaroo pocket</li>
+<li>Brushed-fleece interior for warmth and a soft hand-feel</li>
+<li>Front Sharingan graphic print; Akatsuki cloud and Hidden Leaf symbols down both sleeves</li>
+<li>Ribbed cuffs and hem hold their shape wear after wear</li>
+<li>Unisex streetwear fit; available L, XL, 2XL and 3XL</li>
+<li>Choose your fabric: thick cotton or thick polyester</li>
+<li>Machine wash cold, inside-out; hang or low-tumble dry to protect the print</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold crimson Sharingan front print on ink-black fabric
+  • Akatsuki cloud and Hidden Leaf symbols down both sleeves
+  • Brushed-fleece lining for real cold-weather warmth
+  • Ribbed cuffs and hem plus a roomy kangaroo pocket
+  • Pick your fabric: thick cotton or thick polyester
+  • Unisex streetwear fit in L through 3XL
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (48 chars)        : Itachi Hoodie | Naruto Sharingan Pullover Hoodie
+Meta Description (151 chars) : Naruto-inspired Itachi pullover hoodie with a bold Sharingan print, Akatsuki sleeves and fleece lining. Cotton or polyester, L-3XL. Ships from Nigeria.
+Focus keyword                       : Itachi hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black Naruto-inspired Itachi pullover hoodie with a crimson Sharingan eye print on the chest and red Akatsuki cloud plus Hidden Leaf symbols down the sleeves.
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a black anime pullover hoodie on an invisible mannequin, centred in frame. Ink black #111111 background with paper white #FAFAFA negative space, a single manga-red #E2261C Sharingan accent glowing on the chest graphic. Halftone dot shading, dynamic speed lines radiating outward, ink-splatter texture in the corners, framed inside a bold manga panel border. Premium, cinematic lighting, high contrast, sharp focus on ribbed cuffs and kangaroo pocket.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

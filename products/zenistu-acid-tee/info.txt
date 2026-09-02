@@ -1,0 +1,86 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Zenistu acid tee
+SLUG         : zenistu-acid-tee
+BUMPA ID     : 4434937
+WOO TYPE     : variable
+PARENT SKU   : OSN-4434937
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+  - Shop by Anime > Demon Slayer
+
+TAGS: Zenitsu, Demon Slayer, anime t-shirt, acid wash tee, stone wash shirt, Thunder Breathing, anime merch, Kimetsu no Yaiba, unisex tee
+FRANCHISE: Demon Slayer    CHARACTER: Zenitsu Agatsuma
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦26,000
+Total stock   : 2500
+VARIATIONS (attribute: Size)
+  M              | ₦26,000 | stock 500  | SKU OSN-4434937-M
+  L              | ₦26,000 | stock 500  | SKU OSN-4434937-L
+  XL             | ₦26,000 | stock 500  | SKU OSN-4434937-XL
+  2XL            | ₦26,000 | stock 500  | SKU OSN-4434937-2XL
+  XXXL           | ₦26,000 | stock 500  | SKU OSN-4434937-XXXL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Thunder Breathing, washed in static.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A Zenitsu-inspired acid-wash tee built for Demon Slayer fans. Soft cotton with a vintage faded finish, unisex regular fit and a bold fade-resistant print that hits like First Form. Wear the roster.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Sleep it off, then strike like lightning. This Zenitsu Agatsuma acid-wash tee channels the Thunder Breathing energy of Demon Slayer into a premium everyday piece, finished with a vintage stone-wash fade so no two tees look exactly the same. The graphic is printed to stay crisp through repeat wears, while the relaxed unisex cut keeps it easy from convention floor to street.</p>
+<p>A fan-made, anime-inspired design from Otaku Store NG. Not affiliated with or endorsed by the official rights holders.</p>
+<ul>
+<li>Anime-inspired Zenitsu (Demon Slayer) acid / stone-wash graphic tee</li>
+<li>Soft cotton with a vintage faded, washed-in finish</li>
+<li>Unisex regular fit with a classic crew neck</li>
+<li>Durable, fade-resistant print</li>
+<li>Available in M, L, XL, 2XL and XXXL</li>
+<li>Care: machine wash cold, inside-out; do not bleach; hang or low-tumble dry</li>
+<li>Each acid wash is unique, so the fade pattern varies slightly per tee</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Zenitsu-inspired Demon Slayer design with Thunder Breathing attitude
+  • Acid / stone-wash vintage faded finish, unique to every tee
+  • Soft cotton, unisex regular fit with a classic crew neck
+  • Durable fade-resistant print that survives the wash
+  • Sizes M through XXXL
+  • Ships from Nigeria, nationwide and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (48 chars)        : Zenitsu Acid-Wash Tee | Demon Slayer Anime Shirt
+Meta Description (151 chars) : Zenitsu-inspired Demon Slayer acid-wash tee in soft cotton. Unisex fit, vintage faded finish, fade-resistant print. Sizes M-XXXL. Ships worldwide from.
+Focus keyword                       : Zenitsu acid wash tee
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Zenitsu-inspired Demon Slayer acid-wash t-shirt with vintage faded finish, laid flat
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a folded acid-wash anime t-shirt on ink-black #111111 surface, paper-white #FAFAFA highlights, single manga-red #E2261C accent. Halftone dot texture, dramatic speed lines and ink splatter framing the shirt in a manga panel layout. Crisp lightning-motif graphic suggesting Thunder Breathing, vintage stone-wash fade visible on the fabric, cinematic rim lighting, premium catalog feel.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

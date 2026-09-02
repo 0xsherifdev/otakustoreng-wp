@@ -1,0 +1,89 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : One Piece T Shirt
+SLUG         : one-piece-t-shirt
+BUMPA ID     : 1125416
+WOO TYPE     : variable
+PARENT SKU   : OSN-1125416
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+  - Shop by Anime > One Piece
+
+TAGS: One Piece t-shirt, anime t-shirt, Straw Hat tee, Luffy shirt, One Piece merch, anime graphic tee, otaku clothing, unisex anime shirt
+FRANCHISE: One Piece    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦12,000
+Total stock   : 498
+VARIATIONS (attribute: Size)
+  M              | ₦12,000 | stock 100  | SKU OSN-1125416-M
+  L              | ₦12,000 | stock 99   | SKU OSN-1125416-L
+  XL             | ₦12,000 | stock 99   | SKU OSN-1125416-XL
+  2XL            | ₦12,000 | stock 100  | SKU OSN-1125416-2XL
+  XXXL           | ₦12,000 | stock 100  | SKU OSN-1125416-XXXL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Set sail in pirate-king style
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Anime-inspired One Piece graphic tee in soft, thick cotton with a durable fade-resistant print. Unisex regular fit, crew neck, built for everyday wear. Pick your favourite slide design at checkout and fly the Straw Hat colours.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Fly the Straw Hat flag with this One Piece anime-inspired graphic tee, built for fans who want their favourite crew front and centre. The thick, soft cotton sits clean on the shoulders with a unisex regular fit and a classic crew neck, while the bold print is made to hold its colour wash after wash.</p>
+<p>Choose your favourite design from the gallery and indicate the slide you want at checkout. A fan piece for the daily rotation, conventions, or anime nights — not affiliated with or endorsed by the official rights holders.</p>
+<ul>
+<li>Material: soft, thick cotton for comfort and structure</li>
+<li>Fit: unisex regular fit, true to everyday sizing</li>
+<li>Neckline: ribbed crew neck</li>
+<li>Print: bold One Piece graphic, durable and fade-resistant</li>
+<li>Sizes available: M, L, XL, 2XL, XXXL</li>
+<li>Design selection: indicate your chosen slide (gallery image) at checkout</li>
+<li>Care: machine wash cold, inside-out; do not iron directly on the print</li>
+<li>Style: fan / anime-inspired, not affiliated with the official franchise</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Soft, thick cotton with a clean, structured drape
+  • Bold One Piece graphic that resists fading wash after wash
+  • Unisex regular fit with a classic ribbed crew neck
+  • Sizes M to XXXL to suit the whole crew
+  • Pick your favourite slide design at checkout
+  • Ships nationwide across Nigeria and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (56 chars)        : One Piece T-Shirt | Anime Straw Hat Tee | Otaku Store NG
+Meta Description (146 chars) : Anime-inspired One Piece T-shirt in soft thick cotton. Unisex fit, crew neck, fade-resistant print. Sizes M-XXXL. ₦12,000. Ships Nigeria-wide and.
+Focus keyword                       : One Piece t-shirt
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: One Piece anime-inspired graphic t-shirt in cotton, unisex regular fit with crew neck
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a folded One Piece anime-inspired cotton t-shirt on ink-black #111111 surface, paper-white #FAFAFA backdrop, single manga-red #E2261C accent. Halftone dot texture, dynamic speed lines and ink-splatter framing the garment in manga panels. Crisp crew-neck and graphic print visible, cinematic premium lighting, high detail, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

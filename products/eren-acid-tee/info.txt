@@ -1,0 +1,76 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Eren acid tee
+SLUG         : eren-acid-tee
+BUMPA ID     : 4434858
+WOO TYPE     : variable
+PARENT SKU   : OSN-4434858
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+  - Shop by Anime > Attack on Titan
+
+TAGS: Eren acid tee, Attack on Titan t-shirt, Eren Yeager shirt, Attack Titan tee, Survey Corps merch, acid wash anime tee, anime streetwear, AOT shirt
+FRANCHISE: Attack on Titan    CHARACTER: Eren Yeager
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦26,000
+Total stock   : 2500
+VARIATIONS (attribute: Size)
+  M              | ₦26,000 | stock 500  | SKU OSN-4434858-M
+  L              | ₦26,000 | stock 500  | SKU OSN-4434858-L
+  XL             | ₦26,000 | stock 500  | SKU OSN-4434858-XL
+  2XL            | ₦26,000 | stock 500  | SKU OSN-4434858-2XL
+  XXXL           | ₦26,000 | stock 500  | SKU OSN-4434858-XXXL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Acid-wash tee with the Attack Titan rising on your back.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Charcoal acid-wash tee channeling Eren's Attack Titan. A subtle Survey Corps wings emblem sits on the chest while the raw, sinewed Titan tears across the back. Vintage faded finish, unisex regular fit, built to wear and rewear.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some titans you fear. This one you wear. The Eren acid tee carries the Attack Titan in full monochrome fury across the back, every strand of muscle and steam rendered in stark ink-on-stone detail, while a clean Survey Corps wings of freedom emblem rides the left chest. Anime-inspired streetwear for fans who already know how this story ends.</p><p>The acid-wash finish gives each tee a one-of-one vintage fade, so no two pieces land exactly alike. Crew neck, easy regular fit, and a durable print built to keep its bite wash after wash. Pull it over cargos, layer it under a jacket, or just let the back print do the talking.</p><ul><li>Franchise: Attack on Titan, fan / anime-inspired design (not affiliated or official)</li><li>Front: Survey Corps wings of freedom chest emblem</li><li>Back: large-scale Attack Titan graphic print</li><li>Acid / stone-wash finish for a vintage faded look (each piece varies)</li><li>Unisex regular fit, classic crew neck</li><li>Soft, breathable cotton-blend fabric</li><li>Durable, fade-resistant print</li><li>Sizes: M, L, XL, 2XL, XXXL</li><li>Care: machine wash cold, inside-out; do not iron directly on the print</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Attack Titan back print in stark ink-and-steam monochrome
+  • Survey Corps wings of freedom emblem on the chest
+  • Acid / stone-wash finish — every tee fades unique
+  • Unisex regular fit with a classic crew neck
+  • Durable fade-resistant print, machine wash cold inside-out
+  • Sizes M through XXXL
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (39 chars)        : Eren Acid Tee | Attack on Titan T-Shirt
+Meta Description (150 chars) : Attack on Titan acid-wash tee with Eren's Attack Titan back print and Survey Corps emblem. Unisex fit, vintage faded finish. Ships from Nigeria. From.
+Focus keyword                       : Eren acid tee
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Charcoal acid-wash Attack on Titan t-shirt with a Survey Corps wings emblem on the front and a large monochrome Attack Titan print on the back
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a charcoal acid-wash t-shirt, ink black #111111 background with paper white #FAFAFA halftone dots and bold manga speed lines radiating outward. The tee shows a monochrome Attack Titan graphic with sinewed muscle and rising steam, framed inside a jagged manga panel. Single manga-red #E2261C accent slashes across one corner like ink splatter. Premium, cinematic, high-contrast streetwear catalog lighting, no text.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

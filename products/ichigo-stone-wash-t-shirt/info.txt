@@ -1,0 +1,75 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Ichigo  stone wash T-shirt
+SLUG         : ichigo-stone-wash-t-shirt
+BUMPA ID     : 3167880
+WOO TYPE     : variable
+PARENT SKU   : OSN-3167880
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+  - Shop by Anime > Bleach
+
+TAGS: Ichigo t-shirt, Bleach anime shirt, stone wash tee, Ichigo Kurosaki, anime t-shirt Nigeria, Soul Reaper merch, Bleach merch, vintage anime tee
+FRANCHISE: Bleach    CHARACTER: Ichigo Kurosaki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦24,000
+Total stock   : 78
+VARIATIONS (attribute: Size)
+  L              | ₦24,000 | stock 18   | SKU OSN-3167880-L
+  XL             | ₦24,000 | stock 20   | SKU OSN-3167880-XL
+  2XL            | ₦24,000 | stock 20   | SKU OSN-3167880-2XL
+  3XL            | ₦24,000 | stock 20   | SKU OSN-3167880-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Soul Reaper energy, vintage stone-wash finish.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+An Ichigo-inspired stone wash tee built for Bleach fans. Soft cotton with a faded vintage finish, crew neck, unisex regular fit, and a fade-resistant graphic that holds its edge wash after wash.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the captain-level cool of Ichigo Kurosaki with this Bleach-inspired stone wash tee from Otaku Store NG. The acid-faded wash gives every shirt a lived-in, one-of-a-kind look, while the bold graphic keeps your favourite Soul Reaper front and centre. Wear the roster.</p><p>Cut in a unisex regular fit with a clean crew neck, it layers easily and sits right on its own. Print quality is built to last, staying sharp and fade-resistant through repeat washes when you treat it right.</p><ul><li>Anime-inspired Ichigo (Bleach) graphic tee with a vintage stone-wash finish</li><li>Soft, breathable cotton fabric</li><li>Unisex regular fit with a classic crew neck</li><li>Durable, fade-resistant print</li><li>Available in L, XL, 2XL and 3XL</li><li>Each stone-wash finish varies slightly, so no two tees look identical</li><li>Machine wash cold, inside-out; do not bleach; hang or tumble dry low</li><li>Fan-made and anime-inspired; not official or affiliated with the franchise</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Vintage stone-wash finish gives each tee a unique faded look
+  • Bold Ichigo Kurosaki graphic for true Bleach fans
+  • Soft, breathable cotton in a unisex regular fit
+  • Durable, fade-resistant print that lasts wash after wash
+  • Sizes L through 3XL
+  • Ships nationwide and worldwide from Nigeria
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (55 chars)        : Ichigo Stone Wash T-Shirt | Bleach Tee | Otaku Store NG
+Meta Description (154 chars) : Ichigo stone wash T-shirt for Bleach fans. Soft cotton, vintage faded finish, unisex fit, fade-resistant print. Sizes L-3XL. Ships from Nigeria worldwide.
+Focus keyword                       : Ichigo stone wash T-shirt
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Ichigo Kurosaki Bleach-inspired stone wash T-shirt with a faded vintage finish and bold manga graphic
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a folded stone-wash anime T-shirt featuring an Ichigo Kurosaki-inspired Soul Reaper graphic. Ink black #111111 background, paper white #FAFAFA fabric highlights, single manga-red #E2261C accent on the print and slash marks. Halftone dot shading, dramatic diagonal speed lines, ink-splatter framing, segmented manga panel border. Premium, cinematic top-down lighting, crisp fabric texture showing the faded acid-wash finish.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

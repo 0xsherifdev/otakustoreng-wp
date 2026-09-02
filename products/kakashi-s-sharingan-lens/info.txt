@@ -1,0 +1,82 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Kakashi’s Sharingan Lens
+SLUG         : kakashi-s-sharingan-lens
+BUMPA ID     : 1318398
+WOO TYPE     : simple
+PARENT SKU   : OSN-1318398
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Shop by Anime > Naruto
+
+TAGS: Kakashi Sharingan lenses, Naruto cosplay contacts, Mangekyo Sharingan lenses, Sharingan contact lenses, Naruto cosplay, anime cosplay lenses, red cosplay contacts, Kakashi Hatake
+FRANCHISE: Naruto    CHARACTER: Kakashi Hatake
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦14,000
+Total stock   : 10
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Drop into the Mangekyo. Awaken your roster.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Awaken the Copy Ninja with these red Mangekyo Sharingan cosplay contact lenses. Kakashi's three-bladed pinwheel pattern in deep crimson and ink black transforms your look for cons, photoshoots and full-send fits. Anime-inspired fan gear, made to be seen.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some eyes copy a thousand jutsu. Yours just need one pair. These Kakashi Sharingan cosplay lenses lay his iconic red Mangekyo straight over your iris, the three black blades spinning out from a crimson core for that unmistakable Copy Ninja stare. Pair them with the mask, the headband and a silver wig and the transformation is instant.</p>
+<p>Built for cosplayers, content creators and Naruto diehards who want their look to land in every frame. Soft tinted lenses give bold, opaque colour payoff that reads clearly on camera and across a crowded con floor, no matter your natural eye colour. Fan-made, anime-inspired gear, not affiliated with or endorsed by the rights holders.</p>
+<ul>
+<li>Design: red Mangekyo Sharingan pattern, Kakashi-style three-bladed pinwheel in ink black on a deep crimson iris</li>
+<li>Type: soft, tinted cosplay/costume contact lenses</li>
+<li>Water content: 38%</li>
+<li>Diameter: 14.5mm</li>
+<li>Coverage: opaque colour that fully reads over light and dark eyes</li>
+<li>Best for: cosplay, conventions, anime photoshoots, Halloween, costume parties</li>
+<li>In the box: one pair (2 lenses), ready to wear straight from packaging</li>
+<li>Care: store in fresh lens solution, handle with clean hands, and follow safe contact-lens hygiene; not for sharing</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Kakashi's red Mangekyo Sharingan, the three-bladed pinwheel in ink black on crimson
+  • Opaque colour payoff that fully covers light and dark natural eyes
+  • Reads sharp on camera and across the con floor
+  • Soft tinted lenses with 38% water content, 14.5mm diameter
+  • Sold as a ready-to-wear pair, perfect with a mask, headband and silver wig
+  • Fan-made, anime-inspired gear, not affiliated with the rights holders
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (49 chars)        : Kakashi Sharingan Cosplay Contact Lenses | Naruto
+Meta Description (155 chars) : Red Mangekyo Sharingan cosplay contact lenses with Kakashi's pinwheel pattern. Opaque, 14.5mm, sold as a pair. Anime-inspired fan gear from Otaku Store NG.
+Focus keyword                       : Kakashi Sharingan contact lenses
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Red Mangekyo Sharingan cosplay contact lenses with Kakashi's black three-bladed pinwheel pattern, worn with a black ninja mask and silver wig
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product hero shot of a single red Mangekyo Sharingan cosplay contact lens, deep crimson iris with a black three-bladed pinwheel pattern, resting on a clean paper-white #FAFAFA surface. Ink black #111111 background panel with a single manga-red #E2261C accent slash and speed lines radiating from the lens. Halftone dot shading, subtle ink splatter at the panel edge, manga panel border framing. Macro studio lighting, crisp specular highlight on the lens surface, premium and cinematic. No text, no logos, no face.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

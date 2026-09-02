@@ -1,0 +1,76 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Itachi Zip Up Hoodie
+SLUG         : itachi-zip-up-hoodie
+BUMPA ID     : 1125277
+WOO TYPE     : variable
+PARENT SKU   : OSN-1125277
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+  - Shop by Anime > Naruto
+
+TAGS: Itachi hoodie, Naruto hoodie, Uchiha, Akatsuki, anime zip up hoodie, Sharingan, all over print hoodie, anime streetwear
+FRANCHISE: Naruto    CHARACTER: Itachi Uchiha
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦28,000
+Total stock   : 498
+VARIATIONS (attribute: Size)
+  M              | ₦28,000 | stock 100  | SKU OSN-1125277-M
+  L              | ₦28,000 | stock 100  | SKU OSN-1125277-L
+  XL             | ₦28,000 | stock 99   | SKU OSN-1125277-XL
+  2XL            | ₦28,000 | stock 99   | SKU OSN-1125277-2XL
+  XXXL           | ₦28,000 | stock 100  | SKU OSN-1125277-XXXL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Sharingan ablaze, crows on the rise.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Full-zip Itachi hoodie with vivid all-over print: red Sharingan, the Konoha crest and crows scattering across a blood-red moon. Brushed-fleece warmth, ribbed cuffs and a unisex streetwear fit built to wear the roster.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Itachi never raised his voice and never needed to. This full-zip hoodie carries that same quiet weight: a head-to-hem all-over print with his crimson Sharingan, the Hidden Leaf crest and a storm of crows lifting off a blood-red moon, finished with the Uchiha fan and black flame detailing along the hem. Front and back panels both run the design, so it reads from every angle.</p><p>Brushed-fleece on the inside keeps the warmth in; the full-length zip and unisex streetwear cut keep it easy to layer over a tee or throw on after training. A fan-made, anime-inspired piece for Naruto diehards. Not affiliated with or endorsed by the rights holders.</p><ul><li>Character: Itachi Uchiha (Naruto / Akatsuki) all-over sublimated print</li><li>Style: full-zip pullover hoodie with double-lined drawstring hood</li><li>Design: red Sharingan, Konoha crest, scattering crows, blood-red moon and Uchiha fan with flame hem</li><li>Print: vivid edge-to-edge AOP across front and back panels</li><li>Interior: brushed-fleece lining for warmth</li><li>Finish: ribbed cuffs and hem; full-length front zip</li><li>Fit: unisex streetwear sizing</li><li>Sizes: M, L, XL, 2XL, XXXL</li><li>Fabric: thick cotton (state your preferred colour at checkout)</li><li>Care: machine wash cold inside-out, hang or line dry</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Edge-to-edge all-over print across front and back panels
+  • Crimson Sharingan, Konoha crest, crows and blood-red moon artwork
+  • Brushed-fleece interior for real warmth
+  • Full-length zip with double-lined drawstring hood
+  • Ribbed cuffs and hem in a unisex streetwear fit
+  • Sizes M through XXXL, choose your colour at checkout
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (42 chars)        : Itachi Zip Up Hoodie | Naruto Anime Hoodie
+Meta Description (148 chars) : Itachi zip up hoodie with all-over Sharingan, crows and Konoha print. Brushed-fleece warmth, unisex fit, sizes M-XXXL. Ships from Nigeria worldwide.
+Focus keyword                       : Itachi zip up hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black Itachi Uchiha zip-up hoodie with all-over print: red Sharingan and Konoha crest on the front, crows and a blood-red moon on the back, flame hem detailing
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a black full-zip anime hoodie on an invisible mannequin, ink black #111111 background with paper white #FAFAFA negative space. Single manga-red #E2261C accent glowing from a Sharingan motif and a blood-red moon. Halftone dot shading, sharp speed lines radiating outward, ink splatter and crow silhouettes scattering across a manga panel border. Premium, cinematic studio lighting, high detail, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

@@ -1,0 +1,81 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Chainsaw Man Stickers
+SLUG         : chainsaw-man-stickers
+BUMPA ID     : 1241325
+WOO TYPE     : simple
+PARENT SKU   : OSN-1241325
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Stickers
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Chainsaw Man
+
+TAGS: Chainsaw Man stickers, Chainsaw Man, Denji, Power, Makima, Pochita, anime stickers, vinyl stickers, laptop stickers, waterproof stickers
+FRANCHISE: Chainsaw Man    CHARACTER: Denji
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦1,000
+Total stock   : 510
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+10 devil-hunter decals. Stick the chaos anywhere.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A 10-piece pack of Chainsaw Man vinyl stickers loaded with Denji, Power, Makima and Pochita. Waterproof, fade-resistant and slap-ready for your laptop, bottle, phone or notebook. Vivid die-cut art that turns plain surfaces into your fandom.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Bring the devil-hunting chaos out of the manga and onto everything you own. This Chainsaw Man pack delivers 10 fan-favourite vinyl stickers — Denji mid-transformation, Power flashing fangs, Makima's calm menace and a very good Pochita — printed in punchy, true-to-anime colour. Anime-inspired fan art, not affiliated with the official series.</p>
+<p>Each decal is cut clean, peels easy and sticks flat to laptops, water bottles, phone cases, notebooks, skateboards and consoles. The waterproof vinyl shrugs off splashes and scuffs while the print stays sharp and bright instead of yellowing over time. Wear the roster.</p>
+<ul>
+<li>Pack of 10 die-cut Chainsaw Man stickers, mixed designs (character art, manga panels and logo decals)</li>
+<li>Durable PVC vinyl with a waterproof, scratch-resistant finish</li>
+<li>Fade-resistant print that keeps colours vivid through daily use</li>
+<li>Sticks to laptops, water bottles, phones, notebooks, skateboards, helmets and more</li>
+<li>Strong peel-and-stick backing for fast, bubble-free application</li>
+<li>Designs are assorted — exact mix may vary from the photo</li>
+<li>Anime-inspired fan merch; not official or licensed</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • 10-piece Chainsaw Man sticker pack — Denji, Power, Makima and Pochita
+  • Waterproof, scratch-resistant vinyl built for daily wear
+  • Fade-resistant print stays vivid and true to the anime
+  • Die-cut and peel-ready for laptops, bottles, phones and notebooks
+  • Assorted mix of character art, manga panels and logo decals
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : Chainsaw Man Stickers - 10pc Vinyl Anime Pack
+Meta Description (153 chars) : Chainsaw Man sticker pack: 10 waterproof vinyl decals with Denji, Power, Makima & Pochita for laptops, bottles & phones. Fan-inspired. Ships from ₦1,000.
+Focus keyword                       : Chainsaw Man stickers
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Pack of Chainsaw Man vinyl stickers featuring Denji, Power, Makima and Pochita in vivid anime art and manga-panel designs
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a Chainsaw Man vinyl sticker pack fanned across a matte black surface. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent on a chainsaw-devil decal. Halftone dot texture, sharp speed lines radiating from center, subtle ink splatter framing the stickers. Premium cinematic lighting, crisp die-cut edges catching a soft rim light, shallow depth of field, manga-panel composition. No text overlays, no watermark.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

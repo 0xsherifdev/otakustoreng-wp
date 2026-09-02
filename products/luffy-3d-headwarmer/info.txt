@@ -1,0 +1,75 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Luffy 3d Headwarmer
+SLUG         : luffy-3d-headwarmer
+BUMPA ID     : 1143833
+WOO TYPE     : variable
+PARENT SKU   : OSN-1143833
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Headwear
+  - Shop by Anime > One Piece
+
+TAGS: Luffy headwarmer, One Piece beanie, anime headwear, Luffy beanie, 3D knit beanie, Straw Hat merch, One Piece hat, anime winter wear
+FRANCHISE: One Piece    CHARACTER: Monkey D. Luffy
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦8,000
+Total stock   : 999
+VARIATIONS (attribute: Color)
+  Black          | ₦8,000 | stock 499  | SKU OSN-1143833-BLACK
+  White          | ₦8,000 | stock 500  | SKU OSN-1143833-WHITE
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Pull on the Pirate King energy
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A cosy knitted head-warmer with a bold 3D Luffy motif for One Piece fans. Soft, stretchy and one-size adjustable, it keeps you warm while you fly the Straw Hat colours. Pick Black or White.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Set sail in comfort with the Luffy 3D Headwarmer, built for One Piece fans who want their roster on their head. A raised 3D motif brings the Straw Hat captain to life across a soft, stretchy knit that hugs without squeezing, so you stay warm whether you're commuting, gaming or grinding the next arc.</p><p>The one-size stretch fit moulds to most head shapes, and the clean two-tone colourways drop into any fit. This is a fan-made, anime-inspired design and is not affiliated with or endorsed by the official rights holders.</p><ul><li>Style: knitted 3D head-warmer / beanie with a raised Luffy motif</li><li>Character: Monkey D. Luffy (One Piece-inspired)</li><li>Colour options: Black, White</li><li>Fit: one-size stretch knit, suits most adult head shapes</li><li>Feel: soft, warm, breathable everyday knit</li><li>Wear: casual streetwear, cold-weather layering, cosplay-adjacent styling</li><li>Care: hand or gentle cold wash, reshape and dry flat to protect the 3D detail</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Raised 3D Luffy motif on a soft knitted head-warmer
+  • One-size stretch fit that suits most adult head shapes
+  • Two clean colourways: Black and White
+  • Warm, breathable knit for everyday and cold-weather wear
+  • Fan-made One Piece-inspired design, not affiliated with the official series
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (43 chars)        : Luffy 3D Headwarmer | One Piece Knit Beanie
+Meta Description (155 chars) : Cosy Luffy 3D headwarmer for One Piece fans. Soft knit beanie with a raised motif, one-size stretch fit, in Black or White. Ships nationwide and worldwide.
+Focus keyword                       : Luffy 3D headwarmer
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Black knitted Luffy 3D headwarmer beanie with a raised One Piece-inspired motif
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a knitted beanie head-warmer with a raised 3D character motif, ink black #111111 background, paper white #FAFAFA paper texture, single manga-red #E2261C accent, halftone dot shading, dynamic speed lines and ink splatter framing the cap, manga panel borders, dramatic cinematic rim light on the knit texture, premium editorial product photography
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

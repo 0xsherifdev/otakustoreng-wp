@@ -1,0 +1,90 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Jabami Yumeku Hoodie
+SLUG         : jabami-yumeku-hoodie
+BUMPA ID     : 2964656
+WOO TYPE     : variable
+PARENT SKU   : OSN-2964656
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+
+TAGS: Yumeko Jabami hoodie, Kakegurui hoodie, anime hoodie, Kakegurui merch, Yumeko Jabami, anime streetwear, pullover hoodie, fleece hoodie
+FRANCHISE: Kakegurui    CHARACTER: Yumeko Jabami
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦18,500
+Total stock   : 797
+VARIATIONS (attribute: Size & Material)
+  L-Thick Cotton | ₦21,000 | stock 98   | SKU OSN-2964656-LTHICKCOTTON
+  L-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964656-LTHICKPOLYESTER
+  Xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964656-XLTHICKCOTTON
+  Xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964656-XLTHICKPOLYESTER
+  2xl-Thick Cotton | ₦21,000 | stock 99   | SKU OSN-2964656-2XLTHICKCOTTON
+  2xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964656-2XLTHICKPOLYESTER
+  3xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964656-3XLTHICKCOTTON
+  3xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964656-3XLTHICKPOLYESTER
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Place your bet. Wear the gamble.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Yumeko Jabami pulls you into the high-stakes world of Kakegurui with this anime-inspired graphic hoodie. Brushed-fleece warmth, ribbed cuffs, and a unisex streetwear fit built for everyday wear. Pick your size and fabric at checkout.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>The house always wins, but Yumeko Jabami plays to break it. This anime-inspired Kakegurui hoodie channels her thrill-seeking energy with a bold graphic print, wrapped in a brushed-fleece interior that keeps you warm whether you are commuting, gaming, or rewatching the final showdown. Cut in a relaxed unisex streetwear fit, it layers clean and wears soft from the first pull-on.</p>
+<p>Choose your fit and fabric at checkout, then tell us your preferred colour. A fan-made piece for compulsive gamblers and Kakegurui devotees alike. Not affiliated with or endorsed by the official rights holders.</p>
+<ul>
+<li>Anime-inspired Yumeko Jabami graphic print</li>
+<li>Brushed-fleece interior for cosy warmth</li>
+<li>Ribbed cuffs and hem to lock in heat and hold shape</li>
+<li>Kangaroo front pocket for hands and essentials</li>
+<li>Unisex streetwear fit, true-to-size and easy to layer</li>
+<li>Fabric choice: thick cotton or thick polyester</li>
+<li>Sizes L, XL, 2XL, 3XL</li>
+<li>Colour selected at checkout</li>
+<li>Machine wash cold, inside-out; do not tumble dry hot</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold Yumeko Jabami / Kakegurui graphic print
+  • Brushed-fleece lining for serious warmth
+  • Ribbed cuffs and hem hold their shape
+  • Kangaroo pocket and relaxed unisex fit
+  • Pick thick cotton or thick polyester
+  • Sizes L through 3XL
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : Yumeko Jabami Hoodie | Kakegurui Anime Hoodie
+Meta Description (155 chars) : Anime-inspired Yumeko Jabami Kakegurui hoodie. Brushed fleece, ribbed cuffs, unisex fit. Thick cotton or polyester, sizes L-3XL. ₦18,500. Ships nationwide.
+Focus keyword                       : Yumeko Jabami hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Yumeko Jabami Kakegurui anime-inspired pullover hoodie with bold front graphic print
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a folded pullover hoodie featuring a Kakegurui-inspired Yumeko Jabami graphic. Ink black #111111 background with paper white #FAFAFA accents and a single manga-red #E2261C accent on the print. Halftone dot texture, dynamic speed lines, ink splatter framing, manga panel borders. Premium, cinematic lighting, sharp focus on the fabric weave and ribbed cuffs. No text, no logos, no watermarks.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

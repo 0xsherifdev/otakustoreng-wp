@@ -1,0 +1,81 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Naruto Keychain
+SLUG         : naruto-keychain
+BUMPA ID     : 1508050
+WOO TYPE     : simple
+PARENT SKU   : OSN-1508050
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Shop by Anime > Naruto
+
+TAGS: Naruto keychain, anime keychain, Naruto accessories, Akatsuki cloud, Hidden Leaf, shuriken charm, kunai keychain, anime keyring, Naruto gift, ninja accessories
+FRANCHISE: Naruto    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦3,800
+Total stock   : 509
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Ninja weapon charms for your keys.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Carry the shinobi spirit everywhere. This Naruto-inspired metal keychain hangs blacked-out shuriken, kunai and Hidden Leaf or Akatsuki cloud charms from a sturdy split ring — an affordable, everyday way to rep the roster on your keys or bag.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some fans rock a hoodie, real shinobi carry their weapons. This Naruto-inspired keychain stacks ninja-tool charms onto a single ring: blacked-out throwing stars, a kunai blade, and your pick of the Hidden Leaf headband plate or the unmistakable red Akatsuki cloud in glossy enamel. Compact, weighty in the hand, and built to ride your keys, backpack zip or belt loop every day.</p>
+<p>It is the kind of detail other fans clock instantly — small, sharp and unmistakably Naruto. A clean entry point if you are building out your everyday carry, or an easy gift for the ninja-arc obsessive in your life. Fan-made, anime-inspired, and not affiliated with the official series.</p>
+<ul>
+<li>Anime-inspired metal keychain with hanging ninja-weapon charms (shuriken, kunai and emblem)</li>
+<li>Charm design varies by style: Hidden Leaf (Konoha) headband plate or red Akatsuki cloud enamel</li>
+<li>Durable alloy/metal construction with a blacked-out finish on the weapon charms</li>
+<li>Sturdy split key ring for keys, bags, backpacks and lanyards</li>
+<li>Lightweight everyday carry that clips on and stays put</li>
+<li>Sold as a single keychain; charm combination as shown</li>
+<li>Wipe clean with a soft dry cloth; keep away from moisture to protect the finish</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Blacked-out metal ninja-weapon charms — shuriken and kunai
+  • Choose the Hidden Leaf plate or red Akatsuki cloud enamel emblem
+  • Sturdy split ring fits keys, bags and lanyards
+  • Compact, weighty everyday carry that reps the roster
+  • Fan-favourite gift for any Naruto obsessive
+  • Anime-inspired fan design, not affiliated with the official series
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (53 chars)        : Naruto Keychain | Ninja Weapon Charm | Otaku Store NG
+Meta Description (148 chars) : Naruto-inspired metal keychain with blacked-out shuriken, kunai and Hidden Leaf or Akatsuki cloud charms. Sturdy everyday carry. Ships nationwide &.
+Focus keyword                       : Naruto keychain
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Naruto-inspired metal keychains with black shuriken, kunai, Hidden Leaf headband plate and red Akatsuki cloud charms
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product studio shot of a metal Naruto-inspired keychain: blacked-out shuriken and kunai charms with a glossy manga-red Akatsuki cloud emblem hanging from a steel split ring, laid on ink-black #111111 surface with paper-white #FAFAFA negative space. Single manga-red #E2261C accent only on the cloud emblem. Halftone dot texture, sharp speed lines radiating from the charms, a flick of ink splatter, framed inside a clean manga panel border. Premium, cinematic, high-contrast macro lighting, crisp metallic reflections.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

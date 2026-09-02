@@ -1,0 +1,84 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Demon Slayer Bedsheet N Pillow Case
+SLUG         : demon-slayer-bedsheet-n-pillow-case
+BUMPA ID     : 1141373
+WOO TYPE     : variable
+PARENT SKU   : OSN-1141373
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Home & Decor > Room Decor
+  - Shop by Anime > Demon Slayer
+
+TAGS: Demon Slayer, Kimetsu no Yaiba, anime bedsheet, anime bedding set, pillow case, anime room decor, Tanjiro, Nezuko
+FRANCHISE: Demon Slayer    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦35,000
+Total stock   : 700
+VARIATIONS (attribute: Style)
+  1              | ₦35,000 | stock 100  | SKU OSN-1141373-1
+  2              | ₦35,000 | stock 100  | SKU OSN-1141373-2
+  3              | ₦35,000 | stock 100  | SKU OSN-1141373-3
+  4              | ₦35,000 | stock 100  | SKU OSN-1141373-4
+  5              | ₦35,000 | stock 100  | SKU OSN-1141373-5
+  6              | ₦35,000 | stock 100  | SKU OSN-1141373-6
+  7              | ₦35,000 | stock 100  | SKU OSN-1141373-7
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Bring the Demon Slayer Corps to your bedroom.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Kit your space out like a true slayer. This Demon Slayer-inspired bedding set pairs a vivid printed bedsheet with matching pillow cases across 7 bold designs, turning any bedroom into a Kimetsu no Yaiba shrine.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Wear the roster, then sleep in it. This Demon Slayer-inspired bedding set brings the Kimetsu no Yaiba universe straight to your bedroom with high-impact, anime-inspired artwork that holds its colour wash after wash. Whether you're repping Tanjiro's checkered haori, Nezuko's bamboo, or the wider Demon Slayer Corps, it's the easy upgrade every otaku room deserves.</p><p>Choose from 7 distinct designs to match your vibe, then pick your bed size at checkout for the right fit. It's a fan piece built to be slept on, shown off, and screenshotted.</p><ul><li>Demon Slayer / Kimetsu no Yaiba anime-inspired artwork (fan-made, not affiliated or official)</li><li>Set includes a printed bedsheet plus matching pillow case(s)</li><li>7 styles to choose from at checkout</li><li>Select your bed size at checkout so we match the correct dimensions</li><li>Vivid, full-surface print designed to resist fading</li><li>Soft, breathable feel for everyday use</li><li>Machine washable; wash cold and tumble dry low to protect the print</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • 7 Demon Slayer designs to pick from
+  • Bedsheet plus matching pillow case set
+  • Vivid, fade-resistant full-surface print
+  • Choose your bed size at checkout
+  • Soft, breathable everyday feel
+  • Anime-inspired fan piece, not affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (56 chars)        : Demon Slayer Bedsheet & Pillow Case Set | Otaku Store NG
+Meta Description (151 chars) : Demon Slayer-inspired bedsheet and pillow case set in 7 bold designs. Vivid anime print, soft feel, pick your bed size. Ships nationwide and worldwide.
+Focus keyword                       : Demon Slayer bedsheet
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+  05.jpg  (gallery)
+  06.jpg  (gallery)
+  07.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Demon Slayer-inspired bedsheet and matching pillow case set with vivid Kimetsu no Yaiba anime artwork
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product shot of a Demon Slayer-inspired bedsheet and pillow case set styled on a bed, ink black #111111 backdrop, paper white #FAFAFA sheets, single manga-red #E2261C accent on the print and panel borders; halftone dot shading, dynamic speed lines and ink splatter framing the scene in manga panels; premium, cinematic studio lighting, sharp detail on fabric folds and printed artwork.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

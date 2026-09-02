@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Minato Wallet
+SLUG         : minato-wallet
+BUMPA ID     : 2789226
+WOO TYPE     : simple
+PARENT SKU   : OSN-2789226
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Wallets
+  - Shop by Anime > Naruto
+
+TAGS: Minato wallet, Naruto wallet, anime wallet, Yellow Flash, Minato Namikaze, PU leather wallet, card holder, anime merch
+FRANCHISE: Naruto    CHARACTER: Minato Namikaze
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦9,000
+Total stock   : 7
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Yellow Flash everyday carry, sealed in slim leather
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Carry the Fourth Hokage everywhere. This anime-inspired Minato wallet pairs printed Yellow Flash artwork with PU leather, multiple card slots and a slim note compartment for clean, fast everyday carry.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Move at the speed of the Yellow Flash. The Minato Wallet is a fan-made, anime-inspired everyday carry that puts Konoha's Fourth Hokage right in your pocket, with crisp printed artwork across a slim PU leather body built to take a daily beating.</p><p>Inside you get organised card storage and a clean note compartment, so your cash, debit cards and IDs all have a home. Slim enough for a front pocket or jacket, bold enough to flex at the register, it is the easy way to wear the roster every single day.</p><ul><li>Material: durable PU (vegan) leather exterior with a smooth interior lining</li><li>Artwork: vivid printed Minato / Yellow Flash design, fade-resistant</li><li>Storage: multiple card slots plus a full-length note compartment</li><li>Profile: slim bifold build for comfortable front- or back-pocket carry</li><li>Holds: cards, cash and folded receipts for everyday use</li><li>Care: wipe clean with a slightly damp cloth; avoid soaking and harsh solvents</li><li>Fan / anime-inspired design, not affiliated with or endorsed by the official rights holders</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Printed Minato Yellow Flash artwork in fade-resistant ink
+  • Slim PU leather bifold that lives in your front pocket
+  • Multiple card slots plus a full-length note compartment
+  • Smart everyday carry for cash, cards and IDs
+  • Wipe-clean vegan leather built for daily use
+  • Fan-made Naruto-inspired design for true fans
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (51 chars)        : Minato Wallet | Naruto Anime PU Leather Card Wallet
+Meta Description (155 chars) : Minato Namikaze anime-inspired wallet in slim PU leather with card slots and a note compartment. Yellow Flash everyday carry. Ships from Nigeria worldwide.
+Focus keyword                       : Minato wallet
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Minato Namikaze Naruto-inspired slim PU leather bifold wallet with printed Yellow Flash artwork
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a slim bifold wallet, ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent. Wallet stands half-open showing card slots and a folded note, printed Minato Yellow Flash character artwork across the cover. Surround with halftone dot texture, sharp speed lines, and a thin ink-splatter burst behind the wallet, framed in clean manga panels. Cinematic rim lighting, premium high-contrast, photorealistic leather grain, shallow depth of field.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

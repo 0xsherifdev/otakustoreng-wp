@@ -1,0 +1,82 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Aot Silver Bracelet
+SLUG         : aot-silver-bracelet
+BUMPA ID     : 1734138
+WOO TYPE     : simple
+PARENT SKU   : OSN-1734138
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Bracelets
+  - Shop by Anime > Attack on Titan
+
+TAGS: Attack on Titan, Attack on Titan bracelet, Survey Corps, anime bracelet, silver bracelet, stainless steel bracelet, AOT merch, anime jewelry
+FRANCHISE: Attack on Titan    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦5,000
+Total stock   : 57
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Wings of Freedom on your wrist
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+An Attack on Titan-inspired silver-tone bracelet for everyday wear. Polished stainless steel with a clean, durable finish that holds its shine through training and beyond. A subtle Survey Corps statement, anime-inspired and built to last.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Pledge your heart with the Aot Silver Bracelet, an Attack on Titan-inspired piece for fans who carry the Survey Corps spirit wherever they go. The polished silver-tone stainless steel pairs with everything from streetwear to convention fits, delivering a clean, premium look without shouting for attention.</p>
+<p>Built for daily wear, it resists tarnish and keeps its shine, so it stays sharp on patrol, in class, or out with the squad. A quiet flex for anyone who knows the Wings of Freedom by heart.</p>
+<ul>
+<li>Material: polished silver-tone stainless steel</li>
+<li>Style: sleek everyday bracelet inspired by Attack on Titan / Survey Corps</li>
+<li>Finish: corrosion- and tarnish-resistant, holds its shine</li>
+<li>Fit: comfortable everyday wear; unisex design</li>
+<li>Wear: durable for daily use; water-aware (remove before swimming or showering)</li>
+<li>Care: wipe with a soft, dry cloth; store dry to keep the shine</li>
+<li>Includes: 1x Aot Silver Bracelet</li>
+<li>Fan / anime-inspired design, not affiliated with or endorsed by the official license holders</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Attack on Titan-inspired silver-tone stainless steel
+  • Tarnish-resistant finish that keeps its shine
+  • Clean, unisex look for everyday wear
+  • Durable build for daily use
+  • Subtle Survey Corps statement piece
+  • Fan-made, anime-inspired design
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (48 chars)        : Attack on Titan Silver Bracelet | Otaku Store NG
+Meta Description (153 chars) : Attack on Titan-inspired silver-tone stainless steel bracelet. Tarnish-resistant, unisex, everyday-durable. Ships from Nigeria, nationwide and worldwide.
+Focus keyword                       : Attack on Titan silver bracelet
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Attack on Titan-inspired silver-tone stainless steel bracelet on a clean white surface
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a polished silver-tone stainless steel bracelet, Attack on Titan inspired, resting on ink-black surface #111111 with paper-white #FAFAFA backdrop; single manga-red #E2261C accent as a faint Wings of Freedom emblem behind it; halftone dots, dramatic speed lines, subtle ink splatter, manga panel framing; cinematic side lighting catching the metal sheen; premium, high-contrast, no text.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

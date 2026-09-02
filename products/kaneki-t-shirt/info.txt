@@ -1,0 +1,79 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Kaneki T Shirt
+SLUG         : kaneki-t-shirt
+BUMPA ID     : 1125467
+WOO TYPE     : variable
+PARENT SKU   : OSN-1125467
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+
+TAGS: Kaneki t-shirt, Tokyo Ghoul shirt, Ken Kaneki, anime t-shirt, Tokyo Ghoul merch, ghoul tee, anime graphic tee, unisex anime shirt
+FRANCHISE: Tokyo Ghoul    CHARACTER: Ken Kaneki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦14,000
+Total stock   : 499
+VARIATIONS (attribute: Size)
+  M              | ₦14,000 | stock 99   | SKU OSN-1125467-M
+  L              | ₦14,000 | stock 100  | SKU OSN-1125467-L
+  XL             | ₦14,000 | stock 100  | SKU OSN-1125467-XL
+  2XL            | ₦14,000 | stock 100  | SKU OSN-1125467-2XL
+  XXXL           | ₦14,000 | stock 100  | SKU OSN-1125467-XXXL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Embrace the ghoul within. Anime-inspired Kaneki tee.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel Ken Kaneki with this fan-made Tokyo Ghoul tee. Soft, thick cotton in an easy unisex regular fit, crew neck and a bold fade-resistant graphic built to survive the binge and the wash.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>The half-ghoul who changed everything. This Kaneki tee channels Tokyo Ghoul's most haunted protagonist with a bold, fan-inspired graphic on premium cotton that feels as good as it looks. Wear the roster and let everyone know which side of the mask you stand on.</p><p>Cut for everyday wear in a relaxed unisex fit, it pairs just as well with denim as it does with cargos. The print is fade-resistant and made to outlast countless rewatches.</p><ul><li>Soft, thick cotton fabric for a premium feel and structured drape</li><li>Unisex regular fit with a classic crew neck</li><li>Durable, fade-resistant Kaneki graphic print</li><li>Available sizes: M, L, XL, 2XL, XXXL</li><li>Machine wash cold, inside-out; hang or tumble dry low to protect the print</li><li>Fan-made, anime-inspired design — not affiliated with or endorsed by the official rights holders</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Soft, thick cotton with a premium hand-feel
+  • Bold fan-inspired Ken Kaneki graphic
+  • Fade-resistant print built to last
+  • Unisex regular fit, crew neck
+  • Sizes M through XXXL
+  • Ships nationwide and worldwide from Nigeria
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (38 chars)        : Kaneki T-Shirt | Tokyo Ghoul Anime Tee
+Meta Description (145 chars) : Shop the Kaneki T-Shirt, a fan-inspired Tokyo Ghoul tee in soft thick cotton. Unisex fit, fade-resistant print, sizes M-XXXL. Ships from Nigeria.
+Focus keyword                       : Kaneki t-shirt
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+  05.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Kaneki Ken Tokyo Ghoul fan-inspired graphic t-shirt in cotton, unisex regular fit
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a folded black anime graphic t-shirt featuring a Ken Kaneki-inspired masked ghoul illustration in ink-black and a single manga-red #E2261C accent on paper-white #FAFAFA background. Halftone dot shading, dramatic speed lines and ink splatter framing the tee in manga panels, cinematic premium lighting, high detail, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

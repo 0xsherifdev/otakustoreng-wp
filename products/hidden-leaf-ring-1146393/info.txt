@@ -1,0 +1,78 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Hidden Leaf Ring
+SLUG         : hidden-leaf-ring-1146393
+BUMPA ID     : 1146393
+WOO TYPE     : variable
+PARENT SKU   : OSN-1146393
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Rings
+  - Shop by Anime > Naruto
+
+TAGS: Hidden Leaf ring, Naruto ring, Konoha emblem, anime ring, stainless steel ring, Naruto accessories, anime jewelry, Otaku Store NG
+FRANCHISE: Naruto    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦2,500
+Total stock   : 586
+VARIATIONS (attribute: Size)
+  7              | ₦2,500 | stock 99   | SKU OSN-1146393-7
+  8              | ₦2,500 | stock 96   | SKU OSN-1146393-8
+  9              | ₦2,500 | stock 96   | SKU OSN-1146393-9
+  10             | ₦2,500 | stock 97   | SKU OSN-1146393-10
+  11             | ₦2,500 | stock 98   | SKU OSN-1146393-11
+  12             | ₦2,500 | stock 100  | SKU OSN-1146393-12
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the leaf wherever you go.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Stack the Hidden Leaf emblem on your hand. This Naruto-inspired stainless steel ring wears the Konoha swirl in a clean polished finish that resists tarnish, built for daily wear in your size of choice.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Every shinobi answers to a village. The Hidden Leaf Ring puts the Konohagakure leaf-swirl emblem on your hand in solid, everyday-ready metal, so the symbol you grew up watching travels with you on every run. It is anime-inspired detailing done right: bold enough to read across a room, clean enough to wear with anything.</p><p>The polished surface catches light without screaming for attention, and the tarnish-resistant build means it keeps that finish through real life, not just the photo. Pick your size and lock it in.</p><ul><li>Material: stainless steel / alloy, polished finish</li><li>Design: Hidden Leaf (Konoha) village emblem, Naruto anime-inspired</li><li>Available sizes: 7, 8, 9, 10, 11, 12 (buyer selects at checkout)</li><li>Finish: tarnish-resistant, built for daily wear</li><li>Style: unisex, stacks easily with other rings</li><li>Sizing tip: wrap a thread around your finger, mark it, then measure the length against a ruler to find your size</li><li>Care: wipe clean with a soft dry cloth; remove before swimming or showering to protect the shine</li><li>Fan-made, anime-inspired piece; not official or affiliated with the rights holders</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Hidden Leaf (Konoha) village emblem for Naruto fans
+  • Stainless steel / alloy with a polished, tarnish-resistant finish
+  • Six sizes available: 7, 8, 9, 10, 11, 12
+  • Unisex design that stacks with your other rings
+  • Built for daily wear, not just the display shelf
+  • Fan / anime-inspired, not affiliated with the rights holders
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (53 chars)        : Hidden Leaf Ring | Naruto Konoha Stainless Steel Ring
+Meta Description (151 chars) : Naruto-inspired Hidden Leaf Ring in tarnish-resistant stainless steel. Konoha village emblem, sizes 7-12. Ships from Nigeria. Wear the roster at Otaku.
+Focus keyword                       : Hidden Leaf ring
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Stainless steel Hidden Leaf ring engraved with the Naruto Konoha village leaf-swirl emblem in a polished finish
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a polished stainless steel ring engraved with the Naruto Hidden Leaf (Konoha) leaf-swirl emblem, resting on an ink-black #111111 surface. Paper-white #FAFAFA halftone-dot backdrop with sharp manga speed lines radiating from the ring, a single manga-red #E2261C ink splatter accent behind it. Cinematic macro lighting, crisp reflections on the metal, premium editorial product photography, high contrast, manga panel framing.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

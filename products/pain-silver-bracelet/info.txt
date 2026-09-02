@@ -1,0 +1,72 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Pain Silver Bracelet
+SLUG         : pain-silver-bracelet
+BUMPA ID     : 1507868
+WOO TYPE     : simple
+PARENT SKU   : OSN-1507868
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Bracelets
+  - Shop by Anime > Naruto
+
+TAGS: Pain bracelet, Naruto bracelet, Akatsuki, anime bracelet, Naruto accessories, stainless steel bracelet, silicone bracelet, anime jewelry
+FRANCHISE: Naruto    CHARACTER: Pain
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦5,000
+Total stock   : 9
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the Six Paths on your wrist.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A Naruto-inspired Pain bracelet built for daily wear: a polished stainless-steel ID plate engraved with manga art on a soft black silicone strap. Adjustable buckle clasp dials in the fit for any wrist.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the leader of the Akatsuki every single day. This Pain bracelet pairs a polished stainless-steel ID plate, laser-etched with the NARUTO logo, the Rinnegan-eyed portrait and bold "Pain" lettering, against a matte black silicone strap. The contrast is pure manga: ink-black band, mirror-bright metal, clean engraved detail that reads loud across a room.</p><p>The flexible silicone is sweat-friendly and built to take a beating, while the stainless buckle clasp lets you set a snug, secure fit and forget about it. Subtle enough to stack with a watch, sharp enough to wear on its own. A fan-made, anime-inspired piece for those who ride with the Six Paths.</p><ul><li>Engraved stainless-steel ID plate with NARUTO x Pain manga artwork</li><li>Soft, flexible black silicone strap, comfortable for all-day wear</li><li>Adjustable buckle clasp for a secure, customisable fit</li><li>Sweat-resistant and everyday-durable, great for casual and active days</li><li>Unisex design that stacks easily with watches or other bands</li><li>Fan / anime-inspired, not affiliated with or endorsed by the rights holders</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Polished stainless-steel ID plate engraved with Pain manga art
+  • Soft black silicone strap, comfortable for all-day wear
+  • Adjustable buckle clasp locks in your fit
+  • Sweat-resistant and everyday-durable
+  • Unisex, stacks well with watches and other bands
+  • Fan-made Naruto-inspired design, not affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (44 chars)        : Pain Silver Bracelet - Naruto Anime Bracelet
+Meta Description (150 chars) : Naruto-inspired Pain bracelet: engraved stainless-steel plate on a black silicone strap with adjustable clasp. Everyday-durable. Ships nationwide and.
+Focus keyword                       : Pain bracelet
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Naruto Pain silver bracelet with engraved stainless-steel ID plate on a black silicone strap and buckle clasp
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a Naruto-inspired Pain bracelet: black silicone strap with a polished stainless-steel ID plate engraved with manga art, laid on ink-black #111111 surface with paper-white #FAFAFA halftone-dot backdrop. Single manga-red #E2261C accent in a sharp speed-line streak behind the plate, subtle ink splatter, manga panel framing. Cinematic rim light catching the silver plate, premium high-contrast, shallow depth of field.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

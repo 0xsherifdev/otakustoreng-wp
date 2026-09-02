@@ -1,0 +1,87 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Zoro Sword Set 5 In 1
+SLUG         : zoro-sword-set-5-in-1
+BUMPA ID     : 1143912
+WOO TYPE     : simple
+PARENT SKU   : OSN-1143912
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Katana & Weapons
+  - Shop by Anime > One Piece
+
+TAGS: Zoro sword set, One Piece katana, Roronoa Zoro, Enma sword, Wado Ichimonji, cosplay sword, anime display katana, collector replica sword
+FRANCHISE: One Piece    CHARACTER: Roronoa Zoro
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦210,000
+Total stock   : 1000
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Five blades. One legendary swordsman.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel the Pirate Hunter with this 5-in-1 Zoro display sword set, spanning his most iconic blades from purple Enma to white Wado Ichimonji. Themed handle wraps, matching scabbards and a stainless-look finish make it a standout cosplay and collector centerpiece.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Carry the whole legend at once. This Roronoa Zoro 5-in-1 sword set brings together the Pirate Hunter's most recognisable blades in one display-grade collection, from the deep-purple Enma with its gold cloud-and-sun motif and crimson wrap to the snow-white Wado Ichimonji, the inky black katana, and the rest of Zoro's roster. Each piece arrives in its own themed scabbard (saya) with a colour-matched handle wrap (tsuka), so the full set reads instantly to any One Piece fan.</p>
+<p>This is a fan-made, anime-inspired display and cosplay prop built to look the part on a stand, a wall mount or across your shoulder at a con. It is decorative only and not affiliated with or endorsed by the official series. Treat it as a collectible piece, keep it away from children, and follow your local laws on display blades.</p>
+<ul>
+<li>Set of 5 Zoro-inspired display swords, each modelled on a signature blade from the series</li>
+<li>Steel blade construction with a polished, display-ready finish</li>
+<li>Themed handle wrap (tsuka) and matching scabbard (saya) per sword, including purple Enma, white Wado Ichimonji and black katana styling</li>
+<li>Approx. 104 cm / 41" overall length per sword</li>
+<li>Approx. 1.2 kg each</li>
+<li>Decorative collector and cosplay prop, not a functional weapon</li>
+<li>Best displayed on a stand or wall mount (mounting not included unless shown)</li>
+<li>Care: wipe the blade with a dry, soft cloth and store in the saya to keep the finish clean</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Complete 5-in-1 Zoro blade collection in one set
+  • Iconic styling: purple Enma, white Wado Ichimonji and black katana
+  • Themed handle wrap and matching scabbard on every sword
+  • Approx. 104 cm / 41" each, steel blade with display finish
+  • Built as a cosplay and collector display prop
+  • Fan-made and anime-inspired, not affiliated with the official series
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (48 chars)        : Zoro Sword Set 5 In 1 | One Piece Display Katana
+Meta Description (153 chars) : Roronoa Zoro 5-in-1 display sword set: Enma, Wado Ichimonji and more. Steel blades, themed saya and tsuka, approx 104cm each. Cosplay and collector prop.
+Focus keyword                       : Zoro sword set
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+  05.jpg  (gallery)
+  06.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Five Roronoa Zoro One Piece display swords in purple, white, black and red scabbards with themed handle wraps
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of five anime-inspired Zoro display katana fanned out across an ink-black #111111 background, sayas in purple, white, black and red with gold fittings, single manga-red #E2261C accent slashing across the frame. Halftone dot shading, dramatic speed lines and a fine ink-splatter spray, framed in a clean manga panel border on paper-white #FAFAFA margins. Cinematic rim lighting, premium collectible feel, high detail.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

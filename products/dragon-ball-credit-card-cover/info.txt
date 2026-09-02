@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Dragon Ball Credit Card Cover
+SLUG         : dragon-ball-credit-card-cover
+BUMPA ID     : 1395784
+WOO TYPE     : simple
+PARENT SKU   : OSN-1395784
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Stickers
+  - Shop by Anime > Dragon Ball
+
+TAGS: Dragon Ball, Goku, Super Saiyan Blue, credit card skin, card sticker, anime stickers, vinyl sticker set, card cover
+FRANCHISE: Dragon Ball    CHARACTER: Goku
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦3,500
+Total stock   : 10
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Super Saiyan Blue energy on every swipe
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Power up your wallet with a 4-piece Dragon Ball card skin set featuring Goku in Super Saiyan Blue. Waterproof, fade-resistant vinyl that wraps any bank or debit card with chip-cutout precision and a smooth, bubble-free finish.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Turn an ordinary bank card into a piece of the roster. This Dragon Ball-inspired card skin set wraps your debit, credit or transit card in Goku's full Super Saiyan Blue aura, complete with ki-blast lighting and that unmistakable battle stare. Slim vinyl that adds zero bulk, so your card still slides smoothly through readers and ATMs.</p><p>Each design is precision-cut with a clean chip cutout and rounded corners, then sealed with a tough, fade-resistant top coat that shrugs off scratches, sweat and rain. Peel, line up, smooth out the bubbles, and you are ready to flex at every checkout.</p><ul><li>Set of 4 vinyl card skins per pack (anime-inspired Dragon Ball / Goku artwork)</li><li>Waterproof and fade-resistant print with a durable scratch-resistant finish</li><li>Pre-cut chip window and rounded corners for a precise, snug fit</li><li>Ultra-thin adhesive backing that adds no noticeable bulk to the card</li><li>Fits standard-size bank, credit, debit and transit cards</li><li>Easy peel-and-stick application; reposition while you line it up</li><li>Bank chip, contactless tap and magnetic stripe stay fully usable</li><li>Fan-made, anime-inspired design; not official or affiliated with the rights holders</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • 4-piece Dragon Ball card skin set in one pack
+  • Goku Super Saiyan Blue artwork with ki-blast detailing
+  • Waterproof, fade-resistant and scratch-resistant vinyl
+  • Pre-cut chip window for a clean, precise fit
+  • Slim adhesive that keeps tap and swipe working
+  • Fan-made, anime-inspired design
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (53 chars)        : Dragon Ball Goku Credit Card Skin Sticker Set (4 Pcs)
+Meta Description (148 chars) : Dragon Ball card skin set: 4 waterproof Goku Super Saiyan Blue vinyl stickers for bank, credit and debit cards. Chip-cutout fit. Ships from Nigeria.
+Focus keyword                       : Dragon Ball credit card skin
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Dragon Ball 4-piece credit card skin sticker set featuring Goku in Super Saiyan Blue, shown on red and green bank cards
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga style product hero shot of a 4-piece Dragon Ball card skin set fanned out across a desk. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent on a streak of ki energy. Halftone dot shading, dynamic speed lines radiating from a Goku Super Saiyan Blue card, ink splatter framing the edges, divided into clean manga panels. One card mid-peel revealing slim vinyl, chip cutout visible. Premium, cinematic studio lighting, high detail, fan-art anime-inspired.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

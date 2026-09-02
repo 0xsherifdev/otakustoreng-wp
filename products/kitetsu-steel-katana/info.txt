@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Kitetsu steel katana
+SLUG         : kitetsu-steel-katana
+BUMPA ID     : 4026232
+WOO TYPE     : simple
+PARENT SKU   : OSN-4026232
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Katana & Weapons
+  - Shop by Anime > One Piece
+
+TAGS: Kitetsu katana, Sandai Kitetsu, Zoro sword, One Piece katana, anime display katana, cosplay sword, Roronoa Zoro, collectible katana
+FRANCHISE: One Piece    CHARACTER: Roronoa Zoro
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦98,000
+Total stock   : 499
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The cursed blade. Bow before the roster.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Carry the cursed blade of the East Blue. This Sandai Kitetsu-inspired display katana pairs a deep-red diamond-wrapped tsuka with a striking dark blade, scabbard and stand — a centrepiece for any Zoro or One Piece collector.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Three generations of Kitetsu, one legendary swordsman. Inspired by Roronoa Zoro's Sandai Kitetsu from One Piece, this display katana channels the cursed blade in full: a deep crimson scabbard with a black diamond lacquer pattern, a dark red diamond-wrapped handle and a dramatic dark blade with a flowing hamon edge line. Mounted on the included stand, it commands attention on any shelf, desk or wall in your crew's quarters.</p><p>This is a decorative collector and cosplay display piece — built to be seen, not swung. Pair it with your Wado Ichimonji and Yubashiri replicas to complete Zoro's three-sword set and truly wear the roster. Anime-inspired fan collectible; not official or affiliated with any rights holder.</p><ul><li><strong>Inspiration:</strong> Sandai Kitetsu, the cursed blade carried by Roronoa Zoro in One Piece</li><li><strong>Blade:</strong> stainless/alloy display blade with a defined hamon-style edge line (decorative, not sharpened for use)</li><li><strong>Handle (tsuka):</strong> deep red diamond cord wrap over patterned same with themed metal fittings</li><li><strong>Scabbard (saya):</strong> crimson finish with signature black diamond lacquer detailing</li><li><strong>In the box:</strong> katana, matching scabbard, two-piece display stand, tying cord (sageo), cleaning cloth and maintenance oil</li><li><strong>Best for:</strong> display, cosplay props, photography and One Piece collecting</li><li><strong>Care:</strong> wipe the blade with the included cloth and oil; store in the saya away from moisture</li><li><strong>Safety:</strong> decorative prop only — keep away from children and follow local laws on bladed display items</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Sandai Kitetsu-inspired display katana — Zoro's legendary cursed blade
+  • Dark display blade with a flowing hamon-style edge line
+  • Deep red diamond-wrapped tsuka and crimson saya with black lacquer detailing
+  • Includes scabbard, display stand, sageo cord and a cleaning + oil maintenance kit
+  • Decorative collector and cosplay piece — not sharpened for use
+  • Anime-inspired fan item; not official or affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (48 chars)        : Kitetsu Steel Katana - Zoro Sandai Display Sword
+Meta Description (153 chars) : Sandai Kitetsu-inspired display katana from One Piece. Zoro's cursed blade with red wrap, scabbard, stand and care kit. Anime collector prop. Ships from.
+Focus keyword                       : Kitetsu katana
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Sandai Kitetsu-inspired One Piece display katana with red diamond-wrapped handle, crimson scabbard, dark blade, stand and maintenance kit
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a Sandai Kitetsu-inspired display katana: dark steel blade with a flowing wavy hamon line, deep crimson diamond-wrapped handle and a red scabbard with black diamond lacquer, resting on a black two-piece display stand. Ink black #111111 background, paper white #FAFAFA rim light, single manga-red #E2261C accent glow along the cutting edge. Halftone dot texture, dramatic diagonal speed lines, fine ink splatter framing the blade, cinematic manga-panel composition, premium collector presentation.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

@@ -1,0 +1,81 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Couple silver bracelets
+SLUG         : couple-silver-bracelets
+BUMPA ID     : 3050695
+WOO TYPE     : simple
+PARENT SKU   : OSN-3050695
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Bracelets
+
+TAGS: couple bracelets, matching bracelets, his and hers, silver bracelet set, stainless steel bracelet, anime couple gift, his beauty her beast, couple jewelry
+FRANCHISE: Generic Anime    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦6,500
+Total stock   : 5
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+His Beauty, Her Beast — a matched set for your player two.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A two-piece stainless-steel couple bracelet set with curb-chain links, engraved "His Beauty" and "Her Beast" ID plates, and pink and blue crystal accents. Anime-fan styling for you and your player two, with an adjustable extender for an easy fit.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Built for two. This matching couple set pairs a rose-tone "His Beauty" plate with a blacked-out "Her Beast" plate, each set with a faceted crystal and a tiny heart engraving. Cuban-style curb links keep it solid on the wrist while staying light enough to wear all day, so you and your player two can rep the duo on date night or daily rotation.</p>
+<p>It is the easy flex for anime couples and best friends who like their accessories to actually match. Clean stainless-steel finish, everyday-durable, and packaged ready to gift.</p>
+<ul>
+<li>Set of 2 bracelets: one rose-tone "His Beauty" plate, one black "Her Beast" plate</li>
+<li>Material: durable stainless steel with a polished finish</li>
+<li>Style: Cuban / curb-link chain with engraved ID plates and heart detail</li>
+<li>Accent: faceted square crystal on each plate (pink-tone and blue-tone)</li>
+<li>Fit: standard wrist with an adjustable extender chain</li>
+<li>Use: everyday wear, water-resistant; pat dry and store away from moisture to keep the shine</li>
+<li>Includes: matching pair, ideal for couples and best friends</li>
+<li>Anime-inspired fan design — not affiliated with or endorsed by any studio or franchise</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Matched two-piece set: His Beauty and Her Beast engraved plates
+  • Durable stainless steel with a polished, everyday-tough finish
+  • Cuban curb-link chain with pink and blue crystal accents
+  • Adjustable extender chain for an easy, comfortable fit
+  • Anime-fan styling made for couples and best friends
+  • Arrives ready to gift to your player two
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (50 chars)        : Couple Silver Bracelets Set | His Beauty Her Beast
+Meta Description (152 chars) : Matching couple silver bracelet set in stainless steel — His Beauty and Her Beast engraved plates with crystal accents. Anime-fan style, adjustable fit.
+Focus keyword                       : couple silver bracelets
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Matching couple silver bracelet set with rose-tone His Beauty plate and black Her Beast plate, both on Cuban curb-link chains with crystal accents
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga style studio product shot of a matched pair of stainless-steel couple bracelets with engraved ID plates reading "His Beauty" and "Her Beast", curb-link chains, one pink crystal and one blue crystal. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent slashing through the frame. Halftone dot shading, bold speed lines, ink-splatter texture, manga panel borders. Premium, cinematic macro lighting, sharp focus on the engraved plates, two bracelets crossing to suggest a couple. High contrast, glossy metal reflections.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

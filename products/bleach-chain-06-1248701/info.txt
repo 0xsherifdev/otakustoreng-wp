@@ -1,0 +1,72 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Bleach Chain 06
+SLUG         : bleach-chain-06-1248701
+BUMPA ID     : 1248701
+WOO TYPE     : simple
+PARENT SKU   : OSN-1248701
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Bleach
+
+TAGS: Bleach, Ichigo Kurosaki, Bleach necklace, anime pendant, Hollow mask, Soul Reaper, anime chain, stainless steel necklace, anime jewelry, fan merch
+FRANCHISE: Bleach    CHARACTER: Ichigo Kurosaki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦5,000
+Total stock   : 508
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Hollow-flame skull pendant for every Soul Reaper
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel Ichigo's Hollow with this Bleach-inspired pendant: a red enamel flame cradling a white skull mask on a tarnish-resistant silver-tone box chain. Bold, lightweight, ready for daily wear.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Unleash your inner Substitute Soul Reaper. The Bleach Chain 06 puts Ichigo's Hollow-mask energy right on your chest, a crimson enamel flame wrapping a stark white skull emblem that nods to the Vizard transformation every Bleach fan knows by heart. The high-shine silver-tone finish catches the light while the red accent does the talking.</p><p>Built to ride with you from convention floor to street fit, this anime-inspired pendant pairs a clean, durable chain with a striking centrepiece that stays sharp wear after wear. A fan-made tribute, not affiliated with or endorsed by the official rights holders.</p><ul><li>Flame-shaped pendant with white skull/Hollow-mask motif in bold manga-red enamel</li><li>Tarnish-resistant stainless-steel / alloy build with a polished silver-tone finish</li><li>Box-link chain with a secure lobster clasp for everyday confidence</li><li>Lightweight and comfortable for all-day and layered wear</li><li>Unisex design, sits great solo or stacked with other chains</li><li>Wipe clean with a soft dry cloth; keep away from moisture to preserve shine</li><li>Anime-inspired fan design; ships nationwide and worldwide</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Red enamel flame pendant with Ichigo Hollow-mask skull motif
+  • Tarnish-resistant stainless-steel / alloy, polished silver-tone finish
+  • Secure box-link chain with lobster clasp
+  • Lightweight, unisex, perfect for layering
+  • Anime-inspired fan design, not official/licensed
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : Bleach Chain 06 - Ichigo Hollow Flame Pendant
+Meta Description (154 chars) : Bleach-inspired Ichigo Hollow-mask pendant: red enamel flame skull on a tarnish-resistant silver-tone chain. Unisex, lightweight, ships worldwide. ₦5,000.
+Focus keyword                       : Bleach pendant necklace
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Bleach-inspired pendant necklace with a red flame and white Hollow-mask skull on a silver box chain
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a silver-tone stainless-steel pendant necklace, the pendant a crimson enamel flame cradling a stark white skull / Hollow-mask emblem, suspended against an ink-black #111111 background with paper-white #FAFAFA halftone dot bursts and sharp manga speed lines radiating outward. A single manga-red #E2261C accent glow behind the pendant, dramatic ink-splatter in the corners, cinematic rim lighting catching the polished chain links, premium magazine-quality, high detail, panel-border framing.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

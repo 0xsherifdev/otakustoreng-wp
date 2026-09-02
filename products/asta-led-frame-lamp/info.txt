@@ -1,0 +1,81 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Asta led frame lamp
+SLUG         : asta-led-frame-lamp
+BUMPA ID     : 3099649
+WOO TYPE     : simple
+PARENT SKU   : OSN-3099649
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Home & Decor > LED Lamps
+
+TAGS: Asta LED lamp, Black Clover lamp, anime LED lamp, 3D illusion night light, Asta night light, anime desk lamp, Black Clover merch, acrylic LED lamp
+FRANCHISE: Black Clover    CHARACTER: Asta
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦26,000
+Total stock   : 10
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Anti-Magic energy, lit up on your desk
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+An anime-inspired Asta 3D illusion LED lamp that turns flat acrylic into a glowing Black Clover centrepiece. Switches through 16 colours with the included remote, runs on USB, and sips power all night on your desk or shelf.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the Black Bull's loudest member. This Asta LED frame lamp uses a laser-etched acrylic panel and a glowing base to fake real 3D depth, throwing a crisp, manga-sharp silhouette of the Anti-Magic swordsman across your room. Off, it's a clean engraved panel; on, it's the brightest thing on the shelf.</p>
+<p>Cycle through 16 colours to match your mood or your setup, dial it in with the included remote, and let energy-efficient LEDs glow cool to the touch through late-night marathons. A fan-made, anime-inspired piece built for desks, gaming corners, and display shelves. Not affiliated with or endorsed by the rights holders.</p>
+<ul>
+<li>3D illusion effect from a laser-engraved clear acrylic panel on an LED base</li>
+<li>16 selectable colours with smooth and flashing modes</li>
+<li>Remote control included for colour, brightness, and mode switching</li>
+<li>USB-powered via standard cable (plug/power bank not always included)</li>
+<li>Energy-efficient LEDs that stay cool for long display sessions</li>
+<li>Compact footprint for desks, bedside tables, gaming setups, and shelves</li>
+<li>Wipe-clean acrylic and base; keep away from water and direct heat</li>
+<li>Makes a standout gift for any Black Clover or Asta fan</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • 3D illusion acrylic panel with a sharp Asta silhouette
+  • 16 colours selectable with the included remote
+  • USB-powered with energy-efficient, cool-running LEDs
+  • Smooth and flashing modes to match your setup
+  • Compact desk and shelf centrepiece
+  • Fan-made, anime-inspired gift for Black Clover fans
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (49 chars)        : Asta LED Frame Lamp | Black Clover 3D Night Light
+Meta Description (147 chars) : Anime-inspired Asta 3D illusion LED lamp. 16 colours, remote control, USB-powered. A Black Clover desk centrepiece from Otaku Store NG for ₦26,000.
+Focus keyword                       : Asta LED lamp
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Asta Black Clover 3D illusion acrylic LED frame lamp glowing on a desk
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product shot of an anime-inspired Asta acrylic 3D illusion LED frame lamp, ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent glow. Laser-etched clear acrylic panel showing a dynamic Asta silhouette with his greatsword, lit from an illuminated base. Halftone dot shading, speed lines, ink splatter, manga panel framing. Premium cinematic studio lighting, sharp reflections on a matte desk, dramatic rim light, high detail, photorealistic merch render.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

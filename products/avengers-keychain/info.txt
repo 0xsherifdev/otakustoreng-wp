@@ -1,0 +1,80 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Avengers Keychain
+SLUG         : avengers-keychain
+BUMPA ID     : 1873990
+WOO TYPE     : simple
+PARENT SKU   : OSN-1873990
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+
+TAGS: avengers keychain, marvel keychain, metal keyring, superhero keychain, iron man keychain, captain america keychain, spider-man keychain, anime accessories, otaku store ng, fan merch
+FRANCHISE: Marvel Avengers    CHARACTER: Avengers
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦3,500
+Total stock   : 9
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Die-cast hero emblem on a heavy-duty ring
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Rep your favourite hero everywhere you go. This die-cast metal Avengers keychain renders iconic emblems in 3D relief, finished in bold enamel colour and clipped to a solid split ring and chain. Pick your design and clip in.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Carry the roster in your pocket. This Avengers keychain is cast in solid metal and sculpted in raised 3D relief, capturing the iconic crest of your favourite hero in crisp detail. From the Captain America shield and Iron Man helmet to the Spider-Man mask, Black Panther, Thor's hammer and more, each design is finished in bold colour or polished metal and built to take a beating on your keys, bag or zip pull.</p><p>It is the easy, everyday way to fly your colours, and a clean little gift for the hero fan in your life. Fan-made, anime and pop-culture-inspired, and not affiliated with or endorsed by any studio or rights holder.</p><ul><li>Material: die-cast metal / alloy with enamel or polished finish</li><li>Build: solid split ring plus linked chain for a secure attach</li><li>Designs available: Captain America, Iron Man, Spider-Man, Black Panther, Thor's hammer, Batman, Superman and more (single item per order)</li><li>Detailing: sculpted 3D relief with sharp emblem definition</li><li>Use: keys, backpacks, wallets, zip pulls and everyday carry</li><li>Care: wipe clean with a soft dry cloth; keep away from prolonged moisture</li><li>Fan / pop-culture-inspired design, not official or licensed merchandise</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Solid die-cast metal build, not flimsy plastic
+  • Iconic hero emblems sculpted in 3D relief
+  • Heavy-duty split ring plus chain holds tight
+  • Bold enamel colour or polished metal finish
+  • Clips to keys, bags, wallets and zip pulls
+  • Multiple Avengers and hero designs to choose
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (47 chars)        : Avengers Keychain | Die-Cast Metal Hero Keyring
+Meta Description (152 chars) : Die-cast metal Avengers keychain with 3D hero emblems and a heavy-duty ring. Cap, Iron Man, Spidey and more. ₦3,500. Ships across Nigeria and worldwide.
+Focus keyword                       : Avengers keychain
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+  05.jpg  (gallery)
+  06.jpg  (gallery)
+  07.jpg  (gallery)
+  08.jpg  (gallery)
+  09.jpg  (gallery)
+  10.jpg  (gallery)
+  11.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Die-cast metal Avengers keychain collection showing Captain America shield, Iron Man helmet, Spider-Man mask and Black Panther emblems on split rings
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a die-cast metal superhero emblem keychain (Avengers-style shield and helmet crests) resting on a matte surface. Ink black #111111 background, paper white #FAFAFA rim light, single manga-red #E2261C accent glinting off the polished metal. Halftone dot texture and sharp speed lines radiating behind the keychain, subtle ink-splatter in the corners, framed inside a clean manga panel border. Macro detail on the sculpted 3D relief and the solid split ring; premium, cinematic, high contrast, shallow depth of field.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

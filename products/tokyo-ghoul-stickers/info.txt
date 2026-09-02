@@ -1,0 +1,85 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Tokyo Ghoul Stickers
+SLUG         : tokyo-ghoul-stickers
+BUMPA ID     : 1141066
+WOO TYPE     : simple
+PARENT SKU   : OSN-1141066
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Stickers
+
+TAGS: Tokyo Ghoul stickers, Ken Kaneki sticker, Touka Kirishima, anime vinyl stickers, waterproof laptop stickers, anime sticker pack, die-cut stickers, otaku stickers
+FRANCHISE: Tokyo Ghoul    CHARACTER: Ken Kaneki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦1,000
+Total stock   : 999
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+A whole ward of ghouls for your gear
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A loaded Tokyo Ghoul sticker pack stacked with Kaneki, Touka, Juuzou and more. Waterproof die-cut vinyl that survives spills, scratches and sun, sticking clean to laptops, bottles, phones and notebooks.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Bring the masked menace of the 20th Ward to your everyday carry. This fan-favourite Tokyo Ghoul pack is loaded with art across the series' icons, from half-ghoul Ken Kaneki in his stitched mask to Touka Kirishima's kakugan stare, plus Juuzou, Uta and the rest of the cast. Each sticker is die-cut with a crisp white border so every silhouette pops off whatever surface you slap it on.</p>
+<p>Printed on durable waterproof vinyl with a vivid, fade-resistant finish, these hold up to spills, scuffs and daily handling. Peel, place and press down for a clean, bubble-free stick. Mix the dark, blood-spattered panels with the softer character portraits to build a deck that reads pure Tokyo Ghoul. Wear the roster.</p>
+<ul>
+<li>Series: Tokyo Ghoul (fan / anime-inspired, not affiliated or official)</li>
+<li>Type: die-cut vinyl sticker pack</li>
+<li>Characters: Ken Kaneki, Touka Kirishima, Juuzou Suzuya, Uta and more</li>
+<li>Material: durable waterproof vinyl with vivid, fade-resistant print</li>
+<li>Finish: die-cut shapes with clean white borders</li>
+<li>Sticks to: laptops, water bottles, phones, notebooks, skateboards, helmets</li>
+<li>Application: peel-and-stick, no-residue adhesive backing</li>
+<li>Best for: smooth, clean, dry surfaces</li>
+<li>Pack: assorted designs, no duplicates</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Stacked with Tokyo Ghoul icons: Kaneki, Touka, Juuzou and more
+  • Waterproof vinyl shrugs off spills, scratches and sun fade
+  • Die-cut white borders make every character pop
+  • Sticks clean to laptops, bottles, phones and notebooks
+  • Peel-and-stick backing with no messy residue
+  • Assorted pack, no duplicates, ready to deck out your gear
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (40 chars)        : Tokyo Ghoul Stickers | Kaneki Vinyl Pack
+Meta Description (155 chars) : Tokyo Ghoul sticker pack with Kaneki, Touka and more. Waterproof die-cut vinyl for laptops, bottles and phones. Ships nationwide and worldwide from ₦1,000.
+Focus keyword                       : Tokyo Ghoul stickers
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Tokyo Ghoul die-cut vinyl sticker pack featuring Ken Kaneki, Touka and other characters fanned out, with a masked Kaneki sticker held in front
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product studio shot of a fanned-out Tokyo Ghoul die-cut vinyl sticker pack, a masked white-haired Ken Kaneki sticker held between fingers in the foreground. Ink black #111111 background, paper white #FAFAFA stickers, single manga-red #E2261C accent on a kakugan eye and ink splatter. Halftone dot shading, sharp speed lines radiating outward, manga panel framing, dramatic rim light, cinematic premium catalog photography, high detail.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

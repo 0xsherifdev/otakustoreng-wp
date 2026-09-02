@@ -1,0 +1,118 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Naruto Wallet
+SLUG         : naruto-wallet-1141417
+BUMPA ID     : 1141417
+WOO TYPE     : variable
+PARENT SKU   : OSN-1141417
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Shop by Anime > Naruto
+
+TAGS: Naruto wallet, Naruto Uzumaki, anime wallet, bi-fold wallet, Naruto merch, Hidden Leaf, anime accessories, faux leather wallet
+FRANCHISE: Naruto    CHARACTER: Naruto Uzumaki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦9,000
+Total stock   : 1895
+VARIATIONS (attribute: Style)
+  1              | ₦9,000 | stock 97   | SKU OSN-1141417-1
+  2              | ₦9,000 | stock 99   | SKU OSN-1141417-2
+  3              | ₦9,000 | stock 100  | SKU OSN-1141417-3
+  4              | ₦9,000 | stock 100  | SKU OSN-1141417-4
+  5              | ₦9,000 | stock 100  | SKU OSN-1141417-5
+  6              | ₦9,000 | stock 100  | SKU OSN-1141417-6
+  7              | ₦9,000 | stock 100  | SKU OSN-1141417-7
+  8              | ₦9,000 | stock 100  | SKU OSN-1141417-8
+  9              | ₦9,000 | stock 100  | SKU OSN-1141417-9
+  10             | ₦9,000 | stock 100  | SKU OSN-1141417-10
+  11             | ₦9,000 | stock 100  | SKU OSN-1141417-11
+  12             | ₦9,000 | stock 100  | SKU OSN-1141417-12
+  13             | ₦9,000 | stock 100  | SKU OSN-1141417-13
+  14             | ₦9,000 | stock 100  | SKU OSN-1141417-14
+  15             | ₦9,000 | stock 100  | SKU OSN-1141417-15
+  16             | ₦9,000 | stock 100  | SKU OSN-1141417-16
+  17             | ₦9,000 | stock 100  | SKU OSN-1141417-17
+  18             | ₦9,000 | stock 99   | SKU OSN-1141417-18
+  19             | ₦9,000 | stock 100  | SKU OSN-1141417-19
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the will of fire in your pocket
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A bi-fold Naruto wallet built for everyday carry. Printed character panel, snap-button closure and card slots, so you rep the Hidden Leaf every time you grab your cash. Pick from 19 designs.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some fans wear the roster on their chest. Real shinobi keep it in their pocket. This bi-fold Naruto wallet puts Naruto Uzumaki front and centre, locked in his summoning stance over Hidden Leaf swirls and manga-cloud detailing, so every checkout, fare and squad payout comes with a little ninja energy.</p>
+<p>Built from durable faux leather with a secure snap-button closure, it keeps your cards, cash and receipts tidy without the bulk. Slim enough for a back pocket or bag, loud enough to start a conversation. Anime-inspired fan gear, not affiliated with the official franchise.</p>
+<ul>
+<li>Bi-fold wallet with snap-button closure to keep contents secure</li>
+<li>Printed Naruto Uzumaki character panel with Hidden Leaf and manga-cloud artwork</li>
+<li>Durable faux leather (PU) exterior with stitched edges</li>
+<li>Interior card slots plus a main note/cash compartment</li>
+<li>Compact bi-fold size, comfortable for pocket or bag carry</li>
+<li>19 designs to choose from — pick your favourite at checkout</li>
+<li>Wipe clean with a soft, slightly damp cloth; avoid soaking</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold printed Naruto Uzumaki panel with Hidden Leaf detailing
+  • Durable faux leather build with stitched edges
+  • Snap-button closure keeps cards and cash secure
+  • Card slots plus a roomy note compartment
+  • Slim bi-fold profile for pocket or bag
+  • 19 designs to match your favourite moment
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (57 chars)        : Naruto Wallet | Bi-Fold Anime Fan Wallet | Otaku Store NG
+Meta Description (153 chars) : Bi-fold Naruto wallet in durable faux leather with snap closure and card slots. Rep the Hidden Leaf daily. 19 designs. Ships NG-wide + worldwide. ₦9,000.
+Focus keyword                       : Naruto wallet
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+  05.jpg  (gallery)
+  06.jpg  (gallery)
+  07.jpg  (gallery)
+  08.jpg  (gallery)
+  09.jpg  (gallery)
+  10.jpg  (gallery)
+  11.jpg  (gallery)
+  12.jpg  (gallery)
+  13.jpg  (gallery)
+  14.jpg  (gallery)
+  15.jpg  (gallery)
+  16.jpg  (gallery)
+  17.jpg  (gallery)
+  18.jpg  (gallery)
+  19.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Bi-fold Naruto wallet in faux leather with a printed Naruto Uzumaki summoning-pose panel and snap-button closure
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a bi-fold faux-leather Naruto wallet standing slightly open on a paper-white #FAFAFA surface against an ink-black #111111 backdrop. Single manga-red #E2261C accent slicing through dynamic speed lines and halftone dot texture; subtle ink-splatter in the corners and a thin manga panel border framing the scene. Cinematic side lighting, crisp focus on the printed character panel and snap closure, premium product photography, high detail, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

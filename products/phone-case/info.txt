@@ -1,0 +1,70 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Phone Case
+SLUG         : phone-case
+BUMPA ID     : 1229179
+WOO TYPE     : simple
+PARENT SKU   : OSN-1229179
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Phone Cases
+  - Shop by Anime > Bleach
+
+TAGS: anime phone case, Bleach phone case, Ichigo Kurosaki, custom anime phone case, Bankai, anime merch Nigeria, TPU phone case, manga phone case
+FRANCHISE: Bleach    CHARACTER: Ichigo Kurosaki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦11,000
+Total stock   : 0
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Your favourite character. Your exact phone.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Slim anime-inspired phone case with bold, full-wrap prints like Ichigo's Bankai blaze. Send us any character art or wallpaper and we'll customise it to your exact model, with raised edges and precise cutouts.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Carry the roster in your pocket. This anime-inspired phone case turns your daily driver into a statement piece, fronted by a fiery full-wrap print of Ichigo Kurosaki in full Bankai mode, ink-deep blacks and molten reds running edge to edge. Want a different fighter? Demon Slayer, Naruto, Jujutsu Kaisen and beyond are on the table, and you can send your own character art or wallpaper for a fully custom build.</p><p>The slim shell hugs your phone without the bulk, raised edges lift the screen and camera off flat surfaces, and every port and button sits exactly where it should. Pick your model, pick your design, and we handle the rest.</p><ul><li>Slim protective shell in durable TPU / hard PC</li><li>Full-wrap anime print with sharp, vivid colour</li><li>Raised edges to help guard the screen and camera</li><li>Precise cutouts for ports, buttons and lenses</li><li>Custom design option: send any character art or wallpaper</li><li>Wide model coverage; choose your exact phone at checkout</li><li>Fan-made, anime-inspired design; not affiliated with or endorsed by any studio</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Full-wrap Ichigo Bankai print in molten red and ink black
+  • Slim TPU / hard PC shell with raised screen and camera edges
+  • Precise cutouts for every port, button and lens
+  • Fully customisable: send your own character art or wallpaper
+  • Choose your exact phone model at checkout
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : Ichigo Bleach Anime Phone Case | Custom Print
+Meta Description (154 chars) : Anime-inspired Ichigo phone case with a full-wrap Bankai print. Slim shell, raised edges, precise cutouts, custom design option. Pick your model. ₦11,000.
+Focus keyword                       : anime phone case
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.png  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Slim anime phone case with a full-wrap print of Ichigo Kurosaki in Bankai mode, glowing red and black, held in hand
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product studio shot of a slim anime phone case standing upright on an ink-black #111111 surface, paper-white #FAFAFA backdrop. Full-wrap print of a fierce orange-haired swordsman wreathed in manga-red #E2261C flame on the case back. Halftone dot shading, sharp speed lines radiating outward, a single ink-splatter accent, framed inside a clean manga panel border. Cinematic rim lighting, premium catalogue feel, high contrast, crisp focus on the case, shallow depth of field.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

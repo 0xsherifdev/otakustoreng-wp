@@ -1,0 +1,72 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Wings Of Liberty Glow In The Dark Necklace
+SLUG         : wings-of-liberty-glow-in-the-dark-necklace
+BUMPA ID     : 1209741
+WOO TYPE     : simple
+PARENT SKU   : OSN-1209741
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Shop by Anime > One Piece
+
+TAGS: One Piece necklace, Wings of Liberty, glow in the dark necklace, anime pendant, Straw Hat Pirates, anime accessories, One Piece jewelry, anime-inspired necklace
+FRANCHISE: One Piece    CHARACTER: Straw Hat Pirates
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦6,000
+Total stock   : 502
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Glowing wings of freedom for the open sea
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Rep the freedom of the Grand Line with this Wings of Liberty pendant necklace. The winged emblem charges in light and glows after dark, so your One Piece crest carries from day into night on a durable everyday chain.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Set sail without ever leaving your crew behind. This Wings of Liberty Glow In The Dark Necklace turns the spread-wing freedom emblem into a pendant you can wear every day, an anime-inspired nod to the Straw Hat spirit of chasing the horizon. By daylight it reads as a clean, statement piece; soak it in light and the wings burn bright in the dark for that after-hours glow.</p><p>Built for fans who actually wear their merch, it pairs an everyday-tough chain with a glow-charged pendant so you can rep One Piece on the street, at the con, or on a late-night run. Fan-made and anime-inspired, not affiliated with the official series.</p><ul><li>Glow-in-the-dark pendant featuring the Wings of Liberty emblem</li><li>Charges under any light source, then glows in the dark</li><li>Durable metal-alloy pendant on a matching everyday chain</li><li>Lightweight and comfortable for all-day wear</li><li>Unisex design that layers easily with other pieces</li><li>One Piece anime-inspired fan accessory (single design, no variants)</li><li>Wipe clean with a soft dry cloth; recharge in light before low-light wear</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Glow-in-the-dark Wings of Liberty pendant that charges in light
+  • Durable metal-alloy charm on a matching everyday chain
+  • Lightweight, unisex fit for all-day wear and easy layering
+  • One Piece anime-inspired design for fans of the open sea
+  • Reads clean by day, glows bold after dark
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (50 chars)        : Wings of Liberty Glow Necklace | One Piece Pendant
+Meta Description (152 chars) : One Piece-inspired Wings of Liberty glow-in-the-dark necklace. Durable pendant that charges in light and glows after dark. Ships from Nigeria worldwide.
+Focus keyword                       : One Piece glow in the dark necklace
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: One Piece Wings of Liberty glow-in-the-dark pendant necklace on a chain
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a Wings of Liberty pendant necklace, glow-in-the-dark winged emblem emitting a soft manga-red #E2261C luminescence against ink black #111111 background; paper white #FAFAFA halftone dots and bold speed lines radiating outward, ink splatter accents framing the chain in a manga panel; cinematic premium lighting, sharp focus on the glowing pendant, dramatic high-contrast composition.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

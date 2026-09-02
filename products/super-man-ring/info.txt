@@ -1,0 +1,81 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Super Man Ring
+SLUG         : super-man-ring
+BUMPA ID     : 2265716
+WOO TYPE     : simple
+PARENT SKU   : OSN-2265716
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Rings
+
+TAGS: Super Man ring, hero shield ring, stainless steel signet ring, red enamel ring, fan-inspired ring, unisex statement ring, Otaku Store NG, anime-inspired jewelry
+FRANCHISE: Generic Anime    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦6,000
+Total stock   : 8
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Polished steel signet with a bold red shield emblem.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Suit up everyday wear with this polished stainless steel signet ring. A bold red enamel shield emblem sits front and centre, built tarnish-resistant for daily rotation. Pick your size and wear the roster with quiet confidence.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some heroes wear their crest on the chest. You wear yours on your hand. The Super Man Ring is a hero-inspired statement piece built around a bold red enamel shield emblem, set into a heavy polished signet face that catches the light from every angle. It is loud where it counts and clean everywhere else.</p>
+<p>Forged for the daily rotation, the band is shaped for comfort and finished to a high shine that pairs just as well with a fit as it does with a hoodie. Tarnish-resistant and easy to keep gleaming, it is the kind of ring you put on once and forget to take off.</p>
+<ul>
+<li><strong>Material:</strong> Stainless steel / alloy with red enamel inlay emblem</li>
+<li><strong>Finish:</strong> High-polish, mirror-bright signet face</li>
+<li><strong>Design:</strong> Raised hero shield emblem in manga-red enamel</li>
+<li><strong>Sizing:</strong> Standard ring sizes — select your size at checkout</li>
+<li><strong>Durability:</strong> Tarnish-resistant, built for everyday wear</li>
+<li><strong>Style:</strong> Unisex signet, fan / hero-inspired (not affiliated with any rights holder)</li>
+<li><strong>Care:</strong> Wipe clean with a soft dry cloth; avoid harsh chemicals</li>
+<li><strong>In the box:</strong> 1 x Super Man Ring</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold red enamel shield emblem on a polished signet face
+  • Stainless steel / alloy build, tarnish-resistant for daily wear
+  • Mirror-bright high-polish finish that catches the light
+  • Standard ring sizes — pick yours at checkout
+  • Unisex fit that pairs with any look
+  • Fan / hero-inspired design, not affiliated with any rights holder
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (51 chars)        : Super Man Ring | Red Shield Signet | Otaku Store NG
+Meta Description (153 chars) : Super Man Ring in polished stainless steel with a bold red shield emblem. Tarnish-resistant, unisex, standard sizes. Ships nationwide and worldwide from.
+Focus keyword                       : Super Man ring
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Polished stainless steel Super Man signet ring with a red enamel hero shield emblem on the face
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga style studio product shot of a polished stainless steel signet ring bearing a bold red enamel hero shield emblem. Ink black #111111 background with paper white #FAFAFA manga panel framing, a single manga-red #E2261C accent echoing the ring's emblem. Halftone dot shading, dynamic speed lines radiating from the ring, subtle ink splatter at the corners. Cinematic rim lighting, premium macro focus on the polished metal and red enamel, dramatic high-contrast composition.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

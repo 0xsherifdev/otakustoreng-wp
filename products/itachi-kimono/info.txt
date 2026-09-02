@@ -1,0 +1,82 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Itachi Kimono
+SLUG         : itachi-kimono
+BUMPA ID     : 1771927
+WOO TYPE     : simple
+PARENT SKU   : OSN-1771927
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Kimono
+  - Shop by Anime > Naruto
+
+TAGS: Itachi kimono, Naruto kimono, Itachi Uchiha, Akatsuki haori, anime kimono, Naruto haori, anime robe, unisex kimono
+FRANCHISE: Naruto    CHARACTER: Itachi Uchiha
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦15,000
+Total stock   : 96
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Akatsuki energy in an open-front statement haori.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel Itachi Uchiha in this lightweight, open-front anime-inspired kimono. Wide-sleeve drape layers effortlessly over a tee, with bold Naruto-style art that turns any fit into a Sharingan-charged statement. Unisex free-size, easy to wear, easy to flex.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Step into the shoes of the Uchiha prodigy. This Itachi-inspired kimono is built for fans who want their layering game to hit like a Mangekyo Sharingan, blending clean Akatsuki-coded artwork with a relaxed, wear-anywhere drape. The lightweight open front lets you throw it over a tee, hoodie, or vest and instantly upgrade the whole fit.</p>
+<p>Cut as a unisex free-size piece with wide, flowing sleeves, it moves with you whether you are at a con, a meet-up, or just running the streets. Premium feel, bold detail, zero cringe.</p>
+<ul>
+<li>Anime-inspired Itachi Uchiha print with Naruto-style detailing</li>
+<li>Open-front haori / kimono robe, no closures for easy layering</li>
+<li>Wide, flowing sleeves for that signature drape</li>
+<li>Unisex free-size cut designed to suit most body types</li>
+<li>Lightweight fabric, ideal as a statement layer over a tee</li>
+<li>Care: gentle wash, hang dry to keep colours sharp</li>
+<li>Fan-made and anime-inspired; not official or affiliated with any rights holder</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Itachi Uchiha anime-inspired artwork with Akatsuki-coded styling
+  • Open-front kimono drape that layers over any tee or hoodie
+  • Wide flowing sleeves for premium, cinematic movement
+  • Unisex free-size cut that suits most body types
+  • Lightweight fabric, easy to wear all day
+  • Gentle wash and hang dry to keep the print crisp
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (51 chars)        : Itachi Kimono | Naruto Anime Haori | Otaku Store NG
+Meta Description (145 chars) : Itachi Uchiha anime-inspired kimono haori. Lightweight open-front drape, unisex free-size. Ships from Nigeria, nationwide and worldwide. ₦15,000.
+Focus keyword                       : Itachi kimono
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Itachi Uchiha anime-inspired open-front kimono haori with wide sleeves and Naruto-style print
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of an open-front anime kimono haori on an invisible mannequin, three-quarter angle. Ink black #111111 backdrop, paper white #FAFAFA garment highlights, single manga-red #E2261C accent on the Uchiha crest. Halftone dot shading, dynamic speed lines and ink splatter framing the wide draped sleeves, divided into manga panels. Premium, cinematic lighting, sharp detail, high contrast.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

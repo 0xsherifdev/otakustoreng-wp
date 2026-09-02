@@ -1,0 +1,80 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Mikasa Tote Bag
+SLUG         : mikasa-tote-bag-2221589
+BUMPA ID     : 2221589
+WOO TYPE     : simple
+PARENT SKU   : OSN-2221589
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Tote Bags
+  - Shop by Anime > Attack on Titan
+
+TAGS: Mikasa tote bag, Attack on Titan tote bag, Mikasa Ackerman, anime tote bag, Attack on Titan merch, canvas tote bag, anime canvas bag, AOT fan gear
+FRANCHISE: Attack on Titan    CHARACTER: Mikasa Ackerman
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦7,000
+Total stock   : 10
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the strength of the Survey Corps' fiercest soldier.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A sturdy canvas tote built around bold Mikasa Ackerman artwork. Reinforced handles and a roomy main space swallow books, groceries and con hauls with ease. Anime-inspired everyday carry for any Attack on Titan fan who refuses to slow down.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some characters fight quietly, then hit like a thunderclap. This tote channels exactly that energy with a striking Mikasa Ackerman print, built for fans who want their everyday carry to say something. Whether you're hauling textbooks across campus, stocking up for the week or stacking merch at a convention, the roomy interior and reinforced handles keep up with the pace.</p>
+<p>The artwork is bold and high-contrast so it reads clean from across the room, while the durable canvas shell shrugs off daily use. It's an anime-inspired piece designed for fans, by fans, of the Survey Corps' most relentless soldier.</p>
+<ul>
+<li>Material: sturdy woven canvas with a structured, hold-its-shape body</li>
+<li>Handles: reinforced dual straps for shoulder or hand carry</li>
+<li>Capacity: spacious main compartment for books, groceries and con hauls</li>
+<li>Print: vivid Mikasa Ackerman character artwork, fade-resistant finish</li>
+<li>Use: everyday tote for school, work, shopping and events</li>
+<li>Care: spot clean or gentle hand wash, air dry, avoid harsh wringing</li>
+<li>Design: fan-made, anime-inspired; not affiliated with or endorsed by the rights holders</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold Mikasa Ackerman print that reads clean from across the room
+  • Sturdy canvas body that holds its shape through daily use
+  • Reinforced dual handles for comfortable shoulder or hand carry
+  • Roomy main compartment for books, groceries or con hauls
+  • Anime-inspired, fan-made design for Attack on Titan fans
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : Mikasa Tote Bag | Attack on Titan Canvas Tote
+Meta Description (150 chars) : Mikasa Ackerman canvas tote bag with bold anime-inspired print, reinforced handles and roomy carry. Fan-made Attack on Titan gear. Ships nationwide &.
+Focus keyword                       : Mikasa tote bag
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Canvas tote bag printed with bold Mikasa Ackerman artwork from Attack on Titan, shown with reinforced dual handles.
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a canvas tote bag standing upright on a seamless ink-black #111111 surface, paper-white #FAFAFA negative space, single manga-red #E2261C accent. The tote features bold high-contrast Mikasa Ackerman-inspired character artwork with her signature red scarf in the accent red. Halftone dot shading, dynamic speed lines and ink splatter framing the bag inside subtle manga panel borders. Reinforced dual handles catch a cinematic rim light; premium, crisp, editorial composition, shallow depth of field.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

@@ -1,0 +1,89 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Naruto Shoes
+SLUG         : naruto-shoes
+BUMPA ID     : 1141452
+WOO TYPE     : variable
+PARENT SKU   : OSN-1141452
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Shoes
+  - Shop by Anime > Naruto
+
+TAGS: Naruto shoes, Naruto sneakers, anime shoes, anime sneakers, Naruto merch, anime footwear, unisex sneakers, Hidden Leaf
+FRANCHISE: Naruto    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦35,000
+Total stock   : 800
+VARIATIONS (attribute: Size)
+  38             | ₦35,000 | stock 100  | SKU OSN-1141452-38
+  39             | ₦35,000 | stock 100  | SKU OSN-1141452-39
+  40             | ₦35,000 | stock 100  | SKU OSN-1141452-40
+  41             | ₦35,000 | stock 100  | SKU OSN-1141452-41
+  42             | ₦35,000 | stock 100  | SKU OSN-1141452-42
+  43             | ₦35,000 | stock 100  | SKU OSN-1141452-43
+  44             | ₦35,000 | stock 100  | SKU OSN-1141452-44
+  45             | ₦35,000 | stock 100  | SKU OSN-1141452-45
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+All-over Hidden Leaf ink for everyday wear
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Step into the shinobi world with these anime-inspired Naruto sneakers. All-over character print, cushioned sole and a true-to-size unisex fit. Pick your size and rep the roster from the village to the streets, every single day.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Lace up and rep the Hidden Leaf. These Naruto-inspired sneakers wrap an all-over manga print across the upper, so every angle catches the eye whether you're commuting, kicking back or pulling up to a meet. Built for fans who want their footwear to do the talking.</p>
+<p>A cushioned sole keeps you comfortable through long days on your feet, while the unisex silhouette pairs as easily with joggers as it does with jeans. Fan art, anime-inspired and made to be worn hard. Choose your size below and step into the roster.</p>
+<ul>
+<li>All-over Naruto-inspired character print across the upper</li>
+<li>Cushioned sole for all-day comfort</li>
+<li>Unisex fit, true to size</li>
+<li>Available in sizes 38, 39, 40, 41, 42, 43, 44 and 45 — select yours at checkout</li>
+<li>Lace-up closure for a secure, adjustable fit</li>
+<li>Fan-made, anime-inspired design (not official or affiliated)</li>
+<li>Wipe clean with a damp cloth; air dry away from direct heat</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • All-over Naruto-inspired manga print on the upper
+  • Cushioned sole built for all-day comfort
+  • Unisex fit, true to size
+  • Sizes 38-45 — pick yours at checkout
+  • Fan art, anime-inspired (not official or affiliated)
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (52 chars)        : Naruto Shoes | Anime-Print Sneakers | Otaku Store NG
+Meta Description (151 chars) : Naruto-inspired sneakers with all-over manga print, cushioned sole and unisex true-to-size fit. Sizes 38-45. Ships nationwide & worldwide from ₦35,000.
+Focus keyword                       : Naruto shoes
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Naruto-inspired sneakers with all-over manga character print on the upper, side view
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of anime-inspired Naruto sneakers, three-quarter angle on a paper-white #FAFAFA surface against an ink-black #111111 backdrop. Single manga-red #E2261C accent in dynamic speed lines and halftone dots radiating behind the shoe; subtle ink splatter framing the composition in manga panels. Cinematic rim lighting, premium product photography, high detail, crisp shadows, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

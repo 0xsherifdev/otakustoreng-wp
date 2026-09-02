@@ -1,0 +1,73 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Itachi’s Ring
+SLUG         : itachi-s-ring
+BUMPA ID     : 1508038
+WOO TYPE     : simple
+PARENT SKU   : OSN-1508038
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Rings
+  - Shop by Anime > Naruto
+
+TAGS: Itachi ring, Akatsuki ring, Naruto ring, Itachi Uchiha, anime ring, Naruto accessories, stainless steel ring, anime jewelry
+FRANCHISE: Naruto    CHARACTER: Itachi Uchiha
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦2,700
+Total stock   : 1001
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The Akatsuki crimson kanji, forged for daily wear
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel the cold genius of Itachi Uchiha with this Akatsuki-inspired ring. Polished, tarnish-resistant steel-alloy build with the engraved scarlet kanji detail, ready for everyday wear. Pick your size and own the roster.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Quiet power, no wasted motion. The <strong>Itachi Ring</strong> draws on the Akatsuki member band worn by Naruto's most iconic prodigy, capturing that signature engraved kanji face in a clean, wearable form. It is the kind of piece that reads subtle to most and instantly recognisable to the fans who know.</p><p>Built from polished stainless steel / alloy with a smooth, comfortable inner band, it is tarnish-resistant for everyday wear so you can stack it, layer it, or run it solo. Fan-made and anime-inspired, not affiliated with or endorsed by the official rights holders.</p><ul><li><strong>Material:</strong> stainless steel / alloy with polished finish</li><li><strong>Design:</strong> engraved Akatsuki-style kanji detail with red accent</li><li><strong>Sizing:</strong> standard ring sizes, buyer selects size at checkout</li><li><strong>Wearability:</strong> tarnish-resistant, smooth comfort-fit inner band</li><li><strong>Style:</strong> unisex, daily wear, easy to stack or layer</li><li><strong>In the box:</strong> 1 x Itachi-inspired ring</li><li><strong>Care:</strong> wipe clean with a soft dry cloth; avoid harsh chemicals</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Akatsuki-inspired engraved kanji detail with manga-red accent
+  • Polished stainless steel / alloy, tarnish-resistant for daily wear
+  • Comfort-fit smooth inner band, unisex sizing
+  • Standard ring sizes, you choose your fit at checkout
+  • Subtle enough for everyday, unmistakable to Naruto fans
+  • Ships nationwide across Nigeria and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (40 chars)        : Itachi Akatsuki Ring | Naruto Anime Ring
+Meta Description (153 chars) : Itachi Uchiha Akatsuki-inspired ring in polished, tarnish-resistant steel alloy. Engraved kanji detail, standard sizes. Ships Nigeria-wide and worldwide.
+Focus keyword                       : Itachi Akatsuki ring
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Itachi Uchiha Akatsuki-inspired stainless steel ring with engraved red kanji detail
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a polished stainless steel Akatsuki-inspired ring with an engraved kanji face accented in single manga-red #E2261C, resting on ink-black #111111 surface against paper-white #FAFAFA backdrop. Halftone dot texture, sharp speed lines radiating outward, subtle ink splatter framing a clean manga panel. Cinematic macro lighting, premium and crisp, shallow depth of field highlighting the engraved character detail.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

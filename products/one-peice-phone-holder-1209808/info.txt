@@ -1,0 +1,83 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : One Peice Phone Holder
+SLUG         : one-peice-phone-holder-1209808
+BUMPA ID     : 1209808
+WOO TYPE     : simple
+PARENT SKU   : OSN-1209808
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Shop by Anime > One Piece
+
+TAGS: One Piece, phone ring holder, Luffy, Straw Hat Pirates, phone grip, anime phone accessory, kickstand, Jolly Roger
+FRANCHISE: One Piece    CHARACTER: Monkey D. Luffy
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦2,500
+Total stock   : 100
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Grip your phone. Fly the Jolly Roger.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A One Piece-inspired finger-ring phone grip that doubles as a kickstand. Choose the Straw Hat Jolly Roger, chibi Luffy or the iconic straw hat. The 360-degree rotating metal ring keeps your phone secure for one-handed scrolling and drop-free flexing.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Set sail with a grip worthy of the Straw Hats. This One Piece-inspired phone ring holder sticks to the back of your phone or case and gives you a finger loop for confident, one-handed scrolling, plus a built-in kickstand for hands-free anime marathons. Pick your design and wear the roster everywhere your phone goes.</p>
+<p>The 360-degree swivel metal ring folds flat when you are done and props your phone up in portrait or landscape. Three crew-favourite designs to choose from: the Straw Hat Pirates Jolly Roger, a chibi Luffy figure, and Luffy's signature straw hat. Fan-made and anime-inspired; not affiliated with or endorsed by the official licence holders.</p>
+<ul>
+<li><strong>Item:</strong> Stick-on phone finger-ring grip and kickstand</li>
+<li><strong>Design options:</strong> Straw Hat Jolly Roger / chibi Luffy / Luffy's straw hat</li>
+<li><strong>Ring:</strong> 360-degree rotating metal ring, folds flat</li>
+<li><strong>Functions:</strong> Secure finger loop, anti-drop grip, hands-free stand</li>
+<li><strong>Mounting:</strong> Adhesive backing for phones and most cases</li>
+<li><strong>Build:</strong> Metal ring with durable printed faceplate</li>
+<li><strong>Best for:</strong> Everyday carry, gaming, video, repping your favourite crew</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • 360-degree rotating metal ring grip that folds flat
+  • Doubles as a hands-free kickstand for video and gaming
+  • Anti-drop finger loop for secure one-handed scrolling
+  • Choose Straw Hat Jolly Roger, chibi Luffy or the straw hat
+  • Adhesive backing fits most phones and cases
+  • Fan / anime-inspired One Piece design, not affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (49 chars)        : One Piece Phone Ring Holder Grip | Otaku Store NG
+Meta Description (154 chars) : One Piece-inspired phone ring holder and kickstand. 360-degree metal grip in Jolly Roger, Luffy or straw hat designs. Ships nationwide and worldwide from.
+Focus keyword                       : One Piece phone ring holder
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: One Piece-inspired phone ring holder with chibi Luffy design and 360-degree metal grip
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product studio shot of an anime phone ring holder grip mounted on the back of a smartphone, held up as a kickstand. Ink black #111111 background, paper white #FAFAFA phone, single manga-red #E2261C accent on the Straw Hat ribbon. Halftone dot shading, dramatic speed lines radiating from the chrome ring, subtle ink splatter in the corners, cinematic premium product lighting, manga panel framing. The faceplate shows a bold One Piece-style Jolly Roger skull with straw hat and crossbones. Crisp focus on the metal ring, shallow depth of field.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

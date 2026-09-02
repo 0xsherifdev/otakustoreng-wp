@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Tanjiro’s Earnings
+SLUG         : tanjiro-s-earnings
+BUMPA ID     : 1734132
+WOO TYPE     : simple
+PARENT SKU   : OSN-1734132
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Shop by Anime > Demon Slayer
+
+TAGS: Tanjiro earrings, hanafuda earrings, Demon Slayer accessories, anime earrings, Demon Slayer cosplay, Tanjiro Kamado, drop earrings, anime-inspired jewelry
+FRANCHISE: Demon Slayer    CHARACTER: Tanjiro Kamado
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,500
+Total stock   : 9
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Rep the hanafuda. Carry the legend.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Tanjiro's iconic hanafuda hook earrings, recreated as lightweight rectangular drops. The deep-maroon sun, radiating lines and pale teal band sit on silver-tone ear wires, ready for daily wear or cosplay.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>The hanafuda earrings every Demon Slayer fan knows on sight, now ready to hang from your ears. These drop earrings recreate Tanjiro Kamado's heirloom design: a deep-maroon sun set against crisp white, radiating lines fanning down to a calm pale-teal band. A clean, instantly recognisable piece that reps the series without saying a word.</p><p>Lightweight rectangular drops on slim silver-tone hook wires sit comfortably for all-day wear and finish a cosplay fit, a casual outfit, or a layered accessory stack. A small, affordable way to carry the roster with you.</p><ul><li>Style: anime-inspired hanafuda dangle / drop earrings, sold as a matching pair</li><li>Design: deep-maroon sun, radiating sunburst lines and pale-teal band on a white field</li><li>Fitting: silver-tone fish-hook (French hook) ear wires for pierced ears</li><li>Build: lightweight panel drops, comfortable for everyday and cosplay wear</li><li>Wear: pairs with cosplay fits, streetwear and everyday looks</li><li>Care: keep dry, store flat or hung, and wipe gently with a soft cloth</li><li>Fan / anime-inspired design, not affiliated with or endorsed by the rights holders</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Tanjiro's signature hanafuda design in a clean drop-earring shape
+  • Matching pair on silver-tone fish-hook ear wires for pierced ears
+  • Lightweight panels built for all-day comfort
+  • Cosplay-ready and easy to style with everyday fits
+  • Affordable way to rep Demon Slayer
+  • Fan-made, anime-inspired piece
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (57 chars)        : Tanjiro Hanafuda Earrings | Demon Slayer | Otaku Store NG
+Meta Description (153 chars) : Tanjiro's hanafuda hook earrings, anime-inspired drop pair with the maroon sun and teal band. Lightweight, cosplay-ready. Ships nationwide and worldwide.
+Focus keyword                       : Tanjiro hanafuda earrings
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Pair of Tanjiro hanafuda drop earrings with a deep-maroon sun, radiating lines and pale-teal band on silver-tone hook wires
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-Manga studio product shot of a pair of rectangular hanafuda dangle earrings hanging from silver-tone fish-hook wires, deep maroon sun with radiating black lines over white and a pale teal band, displayed on an ink-black #111111 surface with paper-white #FAFAFA negative space. Single manga-red #E2261C accent in dynamic speed lines and a thin ink-splatter arc behind the pair, halftone dot shading, sharp manga-panel framing, premium cinematic lighting, high detail, no text.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

@@ -1,0 +1,72 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Itachi figurine
+SLUG         : itachi-figurine
+BUMPA ID     : 2973764
+WOO TYPE     : simple
+PARENT SKU   : OSN-2973764
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Figurines
+  - Shop by Anime > Naruto
+
+TAGS: Itachi figurine, Itachi Uchiha, Naruto figurine, Akatsuki, anime figurine, collector statue, Naruto collectible, PVC figure, Sharingan, anime merch
+FRANCHISE: Naruto    CHARACTER: Itachi Uchiha
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦30,000
+Total stock   : 10
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The Uchiha prodigy, sculpted for your shelf
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A detailed Itachi Uchiha display figurine for Naruto fans. Pre-painted PVC/resin statue capturing the Akatsuki rogue in crisp, collector-grade detail — built for the shelf, not the toy box. Fan-made, anime-inspired.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Bring the calm menace of the Uchiha clan's lost prodigy home. This Itachi Uchiha figurine captures the Akatsuki shinobi in full presence — the iconic red cloud cloak, the weight of the Sharingan stare, every fold and detail sculpted to honour one of Naruto's most quietly devastating characters.</p><p>Cast in durable PVC/resin and fully pre-painted, it's a centrepiece-grade display piece for shelves, desks, and detolf cabinets. A standout for any collector building the roster of Konoha's elite and the Akatsuki's coldest minds.</p><ul><li>Character: Itachi Uchiha (Naruto / Akatsuki)</li><li>Material: detailed sculpted PVC / resin</li><li>Finish: pre-painted, collector display quality</li><li>Type: static display statue — not a toy, not articulated</li><li>Includes: figurine and display base (where applicable)</li><li>Display: ideal for shelves, desks and glass cabinets</li><li>Care: keep out of direct sunlight; dust gently with a soft dry brush; handle delicate parts with care</li><li>Note: fan-made, anime-inspired collectible — not official or affiliated with the rights holders</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Itachi Uchiha in full Akatsuki cloak with signature Sharingan detail
+  • Sculpted PVC/resin with crisp pre-painted, collector-grade finish
+  • Static display statue built for shelves and detolf cabinets — not a toy
+  • A must-have for any Naruto and Akatsuki collection
+  • Ships from Nigeria — nationwide and worldwide
+  • Fan-made and anime-inspired; not official or affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (48 chars)        : Itachi Uchiha Figurine | Naruto Collector Statue
+Meta Description (149 chars) : Itachi Uchiha figurine for Naruto fans. Pre-painted PVC/resin Akatsuki display statue, collector-grade detail. Ships from Nigeria worldwide. ₦30,000.
+Focus keyword                       : Itachi figurine
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Itachi Uchiha figurine in red-cloud Akatsuki cloak with Sharingan eyes, pre-painted Naruto collector statue
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of an Itachi Uchiha collector figurine in his Akatsuki cloak, three-quarter view on a clean pedestal. Ink black #111111 background, paper white #FAFAFA rim light, single manga-red #E2261C accent on the cloud-pattern cloak and glowing Sharingan eyes. Halftone dot shading, dramatic speed lines and ink-splatter framing, manga panel borders. Premium, cinematic lighting, high detail, sharp focus on the painted face, shallow depth of field.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

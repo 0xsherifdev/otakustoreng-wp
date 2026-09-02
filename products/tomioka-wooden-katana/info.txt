@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Tomioka wooden katana
+SLUG         : tomioka-wooden-katana
+BUMPA ID     : 4032646
+WOO TYPE     : simple
+PARENT SKU   : OSN-4032646
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Katana & Weapons
+  - Shop by Anime > Demon Slayer
+
+TAGS: Tomioka wooden katana, Giyu Tomioka, Demon Slayer, wooden katana, bokken, cosplay prop, anime katana, Water Hashira
+FRANCHISE: Demon Slayer    CHARACTER: Giyu Tomioka
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦40,000
+Total stock   : 499
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The Water Hashira's blade, carved in wood.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel Giyu Tomioka with this anime-inspired wooden katana. A solid wood bokken-style display piece with a themed handle wrap and matching saya, built for cosplay, training poses and shelf presence. Wear the roster.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Still water runs deep. This Tomioka wooden katana channels the calm, unshakeable presence of the Water Hashira from Demon Slayer, recreated as a one-piece wooden display blade for collectors and cosplayers. The clean lines, themed tsuka wrap and matching saya make it a standout prop for Giyu cosplay, photo shoots and display stands alike.</p><p>Carved from solid wood and finished for durability, it delivers the silhouette of Giyu's signature katana without the risks of a steel edge, so it's safer for conventions, training forms and home display. An anime-inspired fan piece, not affiliated with or endorsed by the official rights holders.</p><ul><li>Anime-inspired Giyu Tomioka katana from Demon Slayer (fan design, not official)</li><li>Solid wood bokken-style blade with a smooth, blunt finish for display and cosplay</li><li>Themed handle (tsuka) with wrapped grip detailing</li><li>Matching wooden scabbard (saya) for storage and carry</li><li>Lightweight build, comfortable for posing and convention wear</li><li>Decorative collector and cosplay prop, not a functional or sharpened weapon</li><li>Wipe clean with a dry cloth; keep away from moisture and direct heat</li><li>Keep away from children; follow local laws on display blades and props</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Giyu Tomioka Water Hashira design from Demon Slayer
+  • Solid wood bokken-style blade, blunt and display-safe
+  • Themed tsuka grip wrap with matching wooden saya
+  • Lightweight and convention-friendly for cosplay poses
+  • Decorative collector prop, not a sharpened weapon
+  • Anime-inspired fan piece, not official or affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (49 chars)        : Tomioka Wooden Katana | Demon Slayer Cosplay Prop
+Meta Description (153 chars) : Anime-inspired Giyu Tomioka wooden katana from Demon Slayer. Solid wood bokken-style display blade with themed wrap and saya. Cosplay and collector prop.
+Focus keyword                       : Tomioka wooden katana
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Giyu Tomioka anime-inspired wooden katana from Demon Slayer with wrapped handle and matching wooden saya scabbard
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a wooden display katana inspired by Giyu Tomioka, laid diagonally across an ink-black #111111 surface with its matching wooden saya beside it. Paper-white #FAFAFA halftone dot gradient, dynamic manga speed lines and a single manga-red #E2261C ink splatter accent behind the blade. Cinematic rim lighting, sharp focus on the wrapped tsuka grip and carved wood grain, premium collector mood, manga panel framing.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

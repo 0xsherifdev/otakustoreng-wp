@@ -1,0 +1,80 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Bleach Rings
+SLUG         : bleach-rings
+BUMPA ID     : 1210486
+WOO TYPE     : simple
+PARENT SKU   : OSN-1210486
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Rings
+  - Shop by Anime > Bleach
+
+TAGS: Bleach rings, Ichigo ring, Hollow mask ring, anime rings, Bleach merch, Soul Reaper accessories, anime jewellery, silver-tone ring
+FRANCHISE: Bleach    CHARACTER: Ichigo Kurosaki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦3,000
+Total stock   : 93
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Channel the Hollow mask on your hand.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Bleach-inspired silver-tone rings built for daily wear. One channels Ichigo's Hollow mask fangs, the other carries a chain accent and bold emblem detail. Polished, tarnish-resistant, adjustable fit for Soul Reaper energy on any hand.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Slip on the Substitute Soul Reaper's edge. These Bleach-inspired rings translate Ichigo's Hollow mask, fangs and all, into sleek silver-tone metal, paired with a chain-accent band carrying a bold geometric emblem. Worn solo or stacked, they read clean from across the room and reward a closer look.</p>
+<p>Built with a polished, tarnish-resistant finish so they hold their shine through everyday wear. Anime-inspired fan design, not affiliated with or endorsed by the official Bleach license.</p>
+<ul>
+<li>Style: pair of Bleach-inspired statement rings (Hollow mask design + chain-accent emblem band)</li>
+<li>Material: stainless steel / alloy with a silver-tone polished finish</li>
+<li>Fit: adjustable / standard ring sizes, select your size at checkout</li>
+<li>Finish: tarnish-resistant, made for daily wear</li>
+<li>Wear: stack together or rock individually, unisex</li>
+<li>Care: keep dry, wipe with a soft cloth, store away from moisture</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Ichigo Hollow mask design rendered in sleek silver-tone metal
+  • Chain-accent band with bold geometric emblem for stacking
+  • Tarnish-resistant polished finish built for daily wear
+  • Adjustable / standard sizing, unisex fit
+  • Anime-inspired fan piece, not affiliated with official Bleach
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (48 chars)        : Bleach Rings - Ichigo Hollow Mask Anime Ring Set
+Meta Description (153 chars) : Bleach-inspired silver-tone rings with Ichigo's Hollow mask and chain-accent emblem. Tarnish-resistant, adjustable, unisex. Ships from Nigeria worldwide.
+Focus keyword                       : Bleach rings
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Pair of Bleach-inspired silver-tone rings, one with Ichigo's fanged Hollow mask and one with a chain accent and geometric emblem, on a red and black backdrop
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of two silver-tone anime rings on a matte ink-black #111111 surface, one ring shaped like a fanged Hollow mask, the other a slim band with a fine chain accent and geometric emblem. Paper-white #FAFAFA halftone dot field behind, a single manga-red #E2261C slash of speed lines and ink splatter cutting across the frame, dramatic cinematic rim light, shallow depth of field, premium jewellery catalog feel, high detail, no text.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

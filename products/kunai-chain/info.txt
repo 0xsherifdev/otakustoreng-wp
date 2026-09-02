@@ -1,0 +1,73 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Kunai Chain
+SLUG         : kunai-chain
+BUMPA ID     : 1875878
+WOO TYPE     : simple
+PARENT SKU   : OSN-1875878
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Naruto
+
+TAGS: kunai chain, naruto necklace, kunai pendant, naruto chain, anime necklace, ninja pendant, shinobi accessories, anime jewelry, naruto merch, pendant necklace
+FRANCHISE: Naruto    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,500
+Total stock   : 498
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the ninja blade everywhere you go.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A polished kunai blade pendant on a slim link chain, inspired by the shinobi world of Naruto. Tarnish-resistant metal, everyday wearable, and ninja-sharp in detail. Slips effortlessly under or over any fit, on or off the mission.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Every shinobi keeps a kunai close, and now you can too. This Kunai Chain reimagines the classic ninja throwing blade as a sleek, wearable pendant, capturing the iconic tang, wrapped grip and tapered point straight out of the world of Naruto. The silver-tone finish catches the light without screaming for attention, sitting clean against any outfit from a plain tee to full streetwear armour.</p><p>Built to be worn daily, not just displayed. The lightweight metal pendant resists tarnish and the slim link chain keeps the blade hanging exactly where it should. A premium fan piece for ninja-arc loyalists who want their loadout on lock. Fan-inspired design, not official or licensed merchandise.</p><ul><li><strong>Design:</strong> Kunai throwing-blade pendant, anime-inspired by Naruto shinobi gear</li><li><strong>Material:</strong> Durable tarnish-resistant metal alloy with a polished silver-tone finish</li><li><strong>Chain:</strong> Slim link chain, standard wearable length, sits cleanly over or under clothing</li><li><strong>What's included:</strong> 1x kunai pendant on chain</li><li><strong>Wear:</strong> Unisex, lightweight and comfortable for all-day wear</li><li><strong>Care:</strong> Wipe clean with a soft dry cloth, keep away from moisture and perfume</li><li><strong>Shipping:</strong> Ships from Nigeria, nationwide and worldwide</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Iconic kunai throwing-blade pendant inspired by Naruto's shinobi world
+  • Polished silver-tone finish that catches the light without going loud
+  • Tarnish-resistant metal alloy built for everyday wear
+  • Slim link chain in a standard, comfortable wearable length
+  • Unisex and lightweight, layers easily over or under any fit
+  • Wipe-clean care keeps the blade sharp-looking for the long run
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (54 chars)        : Kunai Chain - Naruto Ninja Pendant Necklace | Otaku NG
+Meta Description (150 chars) : Kunai Chain necklace inspired by Naruto. Tarnish-resistant kunai blade pendant on a slim chain. Unisex, everyday wear. Ships NG and worldwide. ₦4,500.
+Focus keyword                       : kunai chain
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Silver-tone kunai blade pendant on a slim link chain, held in an open hand against dark fabric
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product still: a polished silver kunai blade pendant on a slim chain, suspended against an ink-black #111111 background with paper-white #FAFAFA halftone dot texture. Single manga-red #E2261C accent as a sharp speed-line streak slicing diagonally behind the blade. Dramatic cinematic rim lighting on the metal edge, subtle ink-splatter at the corners, framed inside a clean manga panel border. Premium studio jewelry shot, high contrast, crisp focus on the kunai tip.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

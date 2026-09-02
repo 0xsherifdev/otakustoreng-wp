@@ -1,0 +1,69 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : February Sales
+SLUG         : february-sales
+BUMPA ID     : 4442503
+WOO TYPE     : simple
+PARENT SKU   : OSN-4442503
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Uncategorized
+
+TAGS: anime merch, February sales, anime sale, otaku store, anime streetwear, anime accessories, fan merch, anime collection
+FRANCHISE: Generic Anime    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦6,035,000
+Total stock   : 0
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The whole roster, one February drop.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Otaku Store NG's February Sales event — your gateway to the full anime-inspired roster. Stack hoodies, jerseys, chains, rings and more across every series, all in one cart at sale-season value. Wear the roster.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>February Sales is Otaku Store NG's season-long event for fans who want to <strong>wear the roster</strong> — not just one character. This listing is your gateway into the full anime-inspired collection, from streetwear hoodies and jerseys to chains, rings, kunai and collectibles spanning every series we stock. One drop, every fandom, sale-season value.</p><p>Whether you're kitting out a full fit or building a wishlist, this is the moment to load up. Fan-made and anime-inspired, designed for the culture, never affiliated with any studio or rights holder.</p><ul><li>Store-wide February Sales event across the Otaku Store NG catalogue</li><li>Covers anime-inspired apparel, accessories and collectibles</li><li>Mix and match across multiple franchises and characters</li><li>Designed for everyday wear and display by real fans</li><li>Fan / anime-inspired merch — not official, not licensed, not affiliated</li><li>Ships from Nigeria, nationwide and worldwide</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Store-wide February Sales across the full anime-inspired roster
+  • Mix and match apparel, chains, rings and collectibles from every series
+  • Fan-favourite streetwear and accessories in one event
+  • Fan / anime-inspired — not official or licensed
+  • Ships from Nigeria, nationwide and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (51 chars)        : February Sales | Anime Merch Event | Otaku Store NG
+Meta Description (153 chars) : Shop Otaku Store NG's February Sales — anime-inspired hoodies, jerseys, chains, rings and collectibles across every series. Ships from Nigeria worldwide.
+Focus keyword                       : anime merch February sales
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.png  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Otaku Store NG February Sales anime merch event listing
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga style promotional poster for an anime merch sale event. Ink black #111111 background, paper white #FAFAFA negative space, single manga-red #E2261C accent. Bold halftone dot gradients, dramatic diagonal speed lines and ink splatter framing the composition. A clean manga panel layout with large red kanji-style sale burst, a price tag silhouette, and a stylised rack of hoodies and accessories in monochrome. Premium, cinematic, high-contrast, no text legibility errors, no logos, no real brand marks. Centered hero layout with room for headline copy.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

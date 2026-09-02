@@ -1,0 +1,189 @@
+OTAKU STORE NG — ADDRESS-DRIVEN LAGOS LGA SHIPPING (locked)
+============================================================
+What it does: when the checkout Region = Lagos, shows a required "Delivery Area (LGA)"
+dropdown; the shipping cost is set AUTOMATICALLY from the chosen LGA (customer cannot
+pick a cheaper one). Other states + Ghana keep using normal WooCommerce flat-rate zones.
+Checkout type: CLASSIC / shortcode ([woocommerce_checkout]) — confirmed.
+
+HOW TO INSTALL
+--------------
+1. Install the free plugin "Code Snippets" (Plugins > Add New > search "Code Snippets").
+2. Code Snippets > Add New. Title: "Lagos LGA Shipping". Paste EVERYTHING below the
+   line marked ===PHP START=== (do NOT include the "<?php" if your snippet box adds it;
+   Code Snippets does NOT need the opening tag — paste from 'function osn_lagos...').
+3. Set "Run snippet everywhere" and click "Save Changes and Activate".
+4. WooCommerce > Settings > Shipping > open the "Lagos" zone:
+     - REMOVE the 20 flat-rate methods (they are replaced by this).
+     - Add shipping method > "Lagos LGA Delivery (auto)" > save.
+     - Edit it and set the title to "Home Delivery" (or similar).
+5. Keep the OTHER zones (states / Ghana / Terminal) exactly as set up.
+6. Test (site is in Maintenance Mode — good): checkout with Region=Lagos, pick an LGA,
+   confirm the shipping cost updates to match. Change LGA -> cost changes. Try Epe (9000)
+   and Mushin (2500). Then try a non-Lagos state -> dropdown disappears, flat rate shows.
+
+NOTE: edit the rates in ONE place — the osn_lagos_lga_rates() function below.
+
+
+===PHP START===
+// ---- Otaku Store NG: Lagos LGA address-driven shipping ----
+
+// 1) Single source of truth for LGA -> [Label, Cost NGN]
+function osn_lagos_lga_rates() {
+    return array(
+        'agege'            => array('Agege', 3000),
+        'ajeromi-ifelodun' => array('Ajeromi-Ifelodun', 4000),
+        'alimosho'         => array('Alimosho', 4000),
+        'amuwo-odofin'     => array('Amuwo-Odofin', 3000),
+        'apapa'            => array('Apapa', 3000),
+        'badagry'          => array('Badagry', 6000),
+        'epe'              => array('Epe', 9000),
+        'eti-osa'          => array('Eti-Osa', 3500),
+        'ibeju-lekki'      => array('Ibeju-Lekki', 8500),
+        'ikeja'            => array('Ikeja', 3000),
+        'ikorodu'          => array('Ikorodu', 5000),
+        'kosofe'           => array('Kosofe', 3500),
+        'lagos-island'     => array('Lagos Island', 3000),
+        'lagos-mainland'   => array('Lagos Mainland', 2500),
+        'mushin'           => array('Mushin', 2500),
+        'ojo'              => array('Ojo', 5000),
+        'oshodi-isolo'     => array('Oshodi-Isolo', 3000),
+        'shomolu'          => array('Shomolu', 2500),
+        'surulere'         => array('Surulere', 2500),
+        'ifako-ijaye'      => array('Ifako-Ijaye', 3500),
+    );
+}
+
+// 2) Add the LGA dropdown to checkout (billing section)
+add_filter('woocommerce_checkout_fields', function ($fields) {
+    $options = array('' => 'Select your LGA…');
+    foreach (osn_lagos_lga_rates() as $slug => $r) {
+        $options[$slug] = $r[0] . ' — ₦' . number_format($r[1]);
+    }
+    $fields['billing']['osn_lga'] = array(
+        'type'     => 'select',
+        'label'    => 'Delivery Area (Lagos LGA)',
+        'required' => false, // enforced conditionally below
+        'class'    => array('form-row-wide'),
+        'options'  => $options,
+        'priority' => 85, // just after the State field
+    );
+    return $fields;
+});
+
+// 3) Show the field only when State = Lagos (LA); recalc on change
+add_action('woocommerce_after_checkout_form', function () { ?>
+<script>
+(function ($) {
+    function osnState() {
+        var s = $('#billing_state').val();
+        if ($('#ship-to-different-address-checkbox').is(':checked')) {
+            s = $('#shipping_state').val();
+        }
+        return s;
+    }
+    function osnToggle() {
+        var $row = $('#osn_lga_field');
+        if (!$row.length) { return; }
+        if (osnState() === 'LA') {
+            $row.show();
+            $row.find('select').prop('required', true);
+        } else {
+            $row.hide();
+            $row.find('select').prop('required', false).val('');
+        }
+    }
+    $(document.body).on('change', '#billing_state, #shipping_state, #ship-to-different-address-checkbox', osnToggle);
+    $(document.body).on('change', '#osn_lga', function () { $(document.body).trigger('update_checkout'); });
+    $(document.body).on('updated_checkout', osnToggle);
+    $(function () { osnToggle(); });
+})(jQuery);
+</script>
+<?php });
+
+// 4) Save the chosen LGA to the session during AJAX checkout updates
+add_action('woocommerce_checkout_update_order_review', function ($post_data) {
+    if (!WC()->session) { return; }
+    parse_str($post_data, $data);
+    WC()->session->set('osn_lga', isset($data['osn_lga']) ? sanitize_text_field($data['osn_lga']) : '');
+});
+
+// 5) Put the LGA into the shipping package so the rate cache refreshes when it changes
+add_filter('woocommerce_cart_shipping_packages', function ($packages) {
+    $lga = WC()->session ? WC()->session->get('osn_lga') : '';
+    foreach ($packages as $k => $p) {
+        $packages[$k]['osn_lga'] = $lga;
+    }
+    return $packages;
+});
+
+// 6) The custom shipping method that prices by the selected LGA
+add_action('woocommerce_shipping_init', function () {
+    if (class_exists('WC_Shipping_Method') && !class_exists('OSN_Lagos_LGA_Shipping')) {
+        class OSN_Lagos_LGA_Shipping extends WC_Shipping_Method {
+            public function __construct($instance_id = 0) {
+                $this->id                 = 'osn_lagos_lga';
+                $this->instance_id        = absint($instance_id);
+                $this->method_title       = 'Lagos LGA Delivery (auto)';
+                $this->method_description = 'Auto-prices Lagos delivery from the customer-selected LGA.';
+                $this->supports           = array('shipping-zones', 'instance-settings', 'instance-settings-modal');
+                $this->init();
+            }
+            public function init() {
+                $this->instance_form_fields = array(
+                    'title' => array(
+                        'title'   => 'Method title',
+                        'type'    => 'text',
+                        'default' => 'Home Delivery',
+                    ),
+                );
+                $this->title = $this->get_option('title', 'Home Delivery');
+                add_action('woocommerce_update_options_shipping_' . $this->id, array($this, 'process_admin_options'));
+            }
+            public function calculate_shipping($package = array()) {
+                $rates = osn_lagos_lga_rates();
+                $lga   = WC()->session ? WC()->session->get('osn_lga') : '';
+                $cost  = 0;
+                $label = $this->title;
+                if ($lga && isset($rates[$lga])) {
+                    $cost  = $rates[$lga][1];
+                    $label = $this->title . ' — ' . $rates[$lga][0];
+                }
+                $this->add_rate(array(
+                    'id'      => $this->get_rate_id(),
+                    'label'   => $label,
+                    'cost'    => $cost,
+                    'package' => $package,
+                ));
+            }
+        }
+    }
+});
+add_filter('woocommerce_shipping_methods', function ($methods) {
+    $methods['osn_lagos_lga'] = 'OSN_Lagos_LGA_Shipping';
+    return $methods;
+});
+
+// 7) Require the LGA when shipping to Lagos
+add_action('woocommerce_checkout_process', function () {
+    $state = isset($_POST['billing_state']) ? wc_clean(wp_unslash($_POST['billing_state'])) : '';
+    if (!empty($_POST['ship_to_different_address']) && isset($_POST['shipping_state'])) {
+        $state = wc_clean(wp_unslash($_POST['shipping_state']));
+    }
+    if ($state === 'LA' && empty($_POST['osn_lga'])) {
+        wc_add_notice('Please select your Lagos LGA for delivery.', 'error');
+    }
+});
+
+// 8) Save the LGA onto the order + show it in admin
+add_action('woocommerce_checkout_create_order', function ($order) {
+    if (!empty($_POST['osn_lga'])) {
+        $rates = osn_lagos_lga_rates();
+        $slug  = wc_clean(wp_unslash($_POST['osn_lga']));
+        $order->update_meta_data('Lagos LGA', isset($rates[$slug]) ? $rates[$slug][0] : $slug);
+    }
+});
+add_action('woocommerce_admin_order_data_after_shipping_address', function ($order) {
+    $lga = $order->get_meta('Lagos LGA');
+    if ($lga) { echo '<p><strong>Lagos LGA:</strong> ' . esc_html($lga) . '</p>'; }
+});
+// ---- end ----

@@ -1,0 +1,80 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Mangekou sharingan
+SLUG         : mangekou-sharingan
+BUMPA ID     : 4269828
+WOO TYPE     : simple
+PARENT SKU   : OSN-4269828
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Shop by Anime > Naruto
+
+TAGS: Mangekyou Sharingan, Sharingan contact lens, Naruto cosplay, Uchiha, anime contact lens, Itachi cosplay, costume lens, cosplay eyes
+FRANCHISE: Naruto    CHARACTER: Sharingan (Uchiha)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦17,000
+Total stock   : 500
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Awaken the Uchiha eye.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Slip on the Mangekyou Sharingan and finish your Uchiha cosplay in seconds. A single anime-inspired costume contact lens prints the crimson iris and black pinwheel blades straight onto your eye for that unmistakable Naruto stare.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Every Uchiha fan knows the look: a blood-red iris spinning a black pinwheel, locked in on its target. This anime-inspired Mangekyou Sharingan costume contact lens brings that exact stare to your cosplay, photoshoot, convention run or Halloween fit. The crimson base, bold black blades and clear central pupil zone read instantly as Naruto from across the room and up close in the camera.</p>
+<p>Designed for fans who want the transformation, not just the costume. Drop one in and your Itachi, Sasuke or Kakashi build goes from good to genjutsu-level. Sold as a single lens so you can rock the classic one-eye Mangekyou look, or grab two for the full awakening.</p>
+<ul>
+<li>Anime-inspired Mangekyou Sharingan design: crimson red iris with black three-blade pinwheel pattern</li>
+<li>Clear central zone over the pupil so your natural vision stays unobstructed</li>
+<li>Cosmetic costume contact lens for cosplay, conventions, photoshoots and Halloween</li>
+<li>Sold individually (1 lens) so you can wear single-eye or pair up for both eyes</li>
+<li>Pairs perfectly with Itachi, Sasuke, Madara, Obito and Kakashi cosplay looks</li>
+<li>Best worn for short costume sessions; always clean and store in proper lens solution between wears</li>
+<li>Fan / anime-inspired item, not affiliated with or endorsed by any official rights holder</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Crimson iris with the iconic black Mangekyou pinwheel blades
+  • Clear pupil zone keeps your vision unobstructed
+  • Single lens for the classic one-eye Uchiha look
+  • Instantly completes Itachi, Sasuke, Madara or Kakashi cosplay
+  • Costume-grade lens built for cons, shoots and Halloween
+  • Care simple: clean and store in proper lens solution
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (49 chars)        : Mangekyou Sharingan Contact Lens | Naruto Cosplay
+Meta Description (151 chars) : Anime-inspired Mangekyou Sharingan costume contact lens. Crimson Uchiha iris with black pinwheel for Naruto cosplay. Single lens, ships across Nigeria.
+Focus keyword                       : Mangekyou Sharingan contact lens
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Mangekyou Sharingan costume contact lens worn on an eye, showing a red iris with a black pinwheel pattern
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product hero shot of a single circular cosplay contact lens printed with a Mangekyou Sharingan pattern, crimson red iris and a black three-blade pinwheel, floating above an open lens case. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent glow on the lens. Halftone dot texture, sharp speed lines radiating outward, subtle ink splatter framing a manga panel border. Premium, cinematic studio lighting, macro detail on the lens print, high contrast, dramatic shadow.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

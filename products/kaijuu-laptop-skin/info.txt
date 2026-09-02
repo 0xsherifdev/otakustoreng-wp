@@ -1,0 +1,70 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Kaijuu Laptop Skin
+SLUG         : kaijuu-laptop-skin
+BUMPA ID     : 1875654
+WOO TYPE     : simple
+PARENT SKU   : OSN-1875654
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Laptop Skins
+
+TAGS: Kaijuu laptop skin, Kaiju No. 8 skin, anime laptop skin, vinyl laptop decal, Kaiju No. 8 merch, anime laptop wrap, laptop vinyl skin, otaku laptop accessories
+FRANCHISE: Kaiju No. 8    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦7,500
+Total stock   : 9
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Suit up your laptop in monster-grade ink.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A bubble-free vinyl skin that wraps your laptop in bold Kaiju No. 8-inspired art. Snap-tight fit, scratch-resistant matte finish, and clean residue-free removal whenever you want a fresh look. Fan-made, not affiliated.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Turn your everyday machine into a Defense-Force-grade statement. This Kaijuu laptop skin layers monster-scale energy onto a premium printed vinyl decal, anime-inspired art built for fans who want their lid to roar as loud as their playlist. The textured matte print fights glare and fingerprints while the precision-cut layout hugs ports, vents and hinges so nothing gets in the way of how you work or game.</p><p>Air-channel adhesive means a smooth, bubble-free application even on your first try, and when you're ready to switch characters it peels away clean with no sticky residue left behind. Pick your exact laptop size and model at checkout for a tailored fit.</p><ul><li>Material: durable printed vinyl decal with a textured matte finish</li><li>Application: air-channel adhesive for a bubble-free, repositionable install</li><li>Removal: residue-free, leaves no gunk on your laptop shell</li><li>Finish: anti-glare, helps resist fingerprints and light scuffs</li><li>Cut: precision-cut to clear ports, vents, camera and hinges</li><li>Fit: choose your size/model at checkout for a tailored wrap</li><li>Coverage: top lid skin (keyboard deck and underside availability varies by model)</li><li>Design: Kaiju No. 8-inspired fan art, not affiliated with or endorsed by the rights holders</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold Kaiju No. 8-inspired monster art for your lid
+  • Bubble-free air-channel adhesive, easy first-try install
+  • Residue-free removal, no sticky mess when you swap
+  • Textured matte finish resists glare and fingerprints
+  • Precision-cut to clear ports, vents and hinges
+  • Choose your exact laptop size and model at checkout
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (49 chars)        : Kaijuu Laptop Skin | Kaiju No. 8 Vinyl Decal Wrap
+Meta Description (153 chars) : Kaijuu laptop skin inspired by Kaiju No. 8. Bubble-free vinyl decal, matte anti-glare finish, residue-free removal. Pick your size and model. Ships from.
+Focus keyword                       : Kaijuu laptop skin
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Kaiju No. 8-inspired Kaijuu laptop skin vinyl decal applied to a laptop lid
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio shot of a laptop lid wrapped in a Kaiju No. 8-inspired vinyl skin, towering monster silhouette in ink black #111111 against paper white #FAFAFA, single manga-red #E2261C accent slashing across the design. Halftone dot shading, dramatic speed lines and ink-splatter texture framing the laptop in manga panels. Cinematic top-down product angle, premium matte finish catching soft rim light, high detail, no text.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

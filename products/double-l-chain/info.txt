@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Double L Chain
+SLUG         : double-l-chain
+BUMPA ID     : 1927338
+WOO TYPE     : simple
+PARENT SKU   : OSN-1927338
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+
+TAGS: Death Note, L necklace, L Lawliet, anime necklace, anime pendant, Death Note merch, L chain, anime chain, otaku accessories
+FRANCHISE: Death Note    CHARACTER: L
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,500
+Total stock   : 504
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Two interlocking L emblems on a corded chain
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel the world's greatest detective with this Death Note-inspired Double L pendant. Two interlocking gothic L emblems in polished steel-tone metal, etched with the notebook's chilling rule, strung on an adjustable black cord. Anime-inspired, fan-made.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>For the fan who solves cases from the shadows. This Double L Chain stacks two interlocking gothic "L" emblems, the calling card of Death Note's enigmatic detective, finished in a cool polished steel tone and subtly etched with the notebook's famous rule. It is a quiet, knowing piece. Other fans clock it instantly, everyone else just sees a sharp pendant.</p><p>Strung on a slim adjustable black cord, it sits clean over a tee, a hoodie, or layered with your other chains. Anime-inspired and fan-made, it is built to be worn every day, not stashed in a drawer.</p><ul><li>Design: twin interlocking "L" emblems inspired by Death Note's detective L</li><li>Detailing: etched lettering across the pendant face</li><li>Pendant material: durable tarnish-resistant alloy in a polished steel tone</li><li>Chain: slim black cord, adjustable length</li><li>Finish: smooth polished front, lightweight on the neck</li><li>Styling: layers easily; great with tees, hoodies and other chains</li><li>Care: wipe clean with a soft dry cloth; keep away from water and perfume</li><li>Unisex; one size; single design</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Twin interlocking L emblems inspired by Death Note's detective
+  • Etched with the notebook's iconic rule for true-fan detail
+  • Polished steel-tone alloy that resists tarnish
+  • Adjustable black cord fits every neck
+  • Lightweight and unisex, made for daily wear
+  • Layers cleanly with tees, hoodies and other chains
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (44 chars)        : Death Note L Double L Chain Pendant Necklace
+Meta Description (155 chars) : Death Note-inspired Double L pendant necklace. Twin gothic L emblems in tarnish-resistant steel-tone alloy on an adjustable cord. Fan-made. Shop at ₦4,500.
+Focus keyword                       : Death Note L necklace
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Death Note-inspired Double L pendant with two interlocking steel-tone L emblems on a black cord necklace, held in hand
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a Death Note-inspired Double L pendant necklace: two interlocking gothic silver "L" emblems with etched lettering on a slim black cord, laid on ink-black #111111 surface. Single manga-red #E2261C accent slashing through the frame, halftone dot texture, sharp speed lines and ink splatter radiating behind the pendant, manga panel borders, dramatic rim lighting catching the polished steel, premium cinematic close-up, paper-white #FAFAFA highlights.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

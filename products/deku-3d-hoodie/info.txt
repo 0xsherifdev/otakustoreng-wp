@@ -1,0 +1,89 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Deku 3d Hoodie
+SLUG         : deku-3d-hoodie
+BUMPA ID     : 1125296
+WOO TYPE     : variable
+PARENT SKU   : OSN-1125296
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+  - Shop by Anime > My Hero Academia
+
+TAGS: Deku hoodie, My Hero Academia hoodie, Izuku Midoriya, anime hoodie, 3D all-over print hoodie, MHA merch, anime streetwear, pullover hoodie
+FRANCHISE: My Hero Academia    CHARACTER: Deku
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦28,000
+Total stock   : 498
+VARIATIONS (attribute: Size)
+  M              | ₦28,000 | stock 100  | SKU OSN-1125296-M
+  L              | ₦28,000 | stock 99   | SKU OSN-1125296-L
+  XL             | ₦28,000 | stock 99   | SKU OSN-1125296-XL
+  2XL            | ₦28,000 | stock 100  | SKU OSN-1125296-2XL
+  XXXL           | ₦28,000 | stock 100  | SKU OSN-1125296-XXXL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Plus Ultra energy, printed edge to edge.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel Izuku Midoriya with this anime-inspired Deku 3D hoodie. Bold all-over graphics, brushed-fleece warmth, ribbed cuffs and hem, and a relaxed unisex streetwear fit built for everyday wear and convention days alike.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Suit up like the symbol of the next generation. This Deku 3D hoodie brings One For All energy to your fit with a vivid, edge-to-edge print inspired by Izuku Midoriya and the world of My Hero Academia. The brushed-fleece interior keeps you warm on cool nights while the relaxed unisex cut layers clean over tees and under jackets.</p>
+<p>Built for fans who want to wear the roster loud and proud, this is a fan-made, anime-inspired piece, not affiliated with or endorsed by the official rights holders.</p>
+<ul>
+<li>All-over 3D graphic print inspired by Deku / My Hero Academia</li>
+<li>Brushed-fleece interior for cozy warmth</li>
+<li>Pullover style with kangaroo front pocket</li>
+<li>Ribbed cuffs and hem for a snug, lasting fit</li>
+<li>Unisex streetwear fit, true to type</li>
+<li>Thick cotton fabric (note your preferred colour at checkout)</li>
+<li>Available sizes: M, L, XL, 2XL, XXXL</li>
+<li>Machine wash cold, inside-out; hang or low-tumble dry</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • All-over 3D print inspired by Deku from My Hero Academia
+  • Brushed-fleece interior for everyday warmth
+  • Kangaroo pocket with ribbed cuffs and hem
+  • Relaxed unisex streetwear fit
+  • Thick cotton fabric, colour selectable at checkout
+  • Sizes M through XXXL
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (46 chars)        : Deku 3D Hoodie | My Hero Academia Anime Hoodie
+Meta Description (149 chars) : Anime-inspired Deku 3D hoodie from My Hero Academia. All-over print, brushed-fleece warmth, unisex fit. Sizes M-XXXL. Ships nationwide and worldwide.
+Focus keyword                       : Deku 3D hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Deku 3D all-over print pullover hoodie inspired by My Hero Academia, front view
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a folded all-over-print pullover hoodie inspired by Deku from My Hero Academia. Ink black #111111 background, paper white #FAFAFA surface, single manga-red #E2261C accent. Halftone dot shading, dynamic speed lines and ink splatter framing the garment in manga panels. Dramatic cinematic side lighting, crisp fabric texture, premium catalog feel. No text, no logos, no watermark.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

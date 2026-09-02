@@ -1,0 +1,82 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : 3 In 1 Yingyang Accessories
+SLUG         : 3-in-1-yingyang-accessories
+BUMPA ID     : 1149117
+WOO TYPE     : simple
+PARENT SKU   : OSN-1149117
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Couple Accessories
+
+TAGS: yin-yang couple set, anime couple accessories, matching rings, couple bracelet, dragon pendant necklace, his and hers set, anime jewelry, couple gift
+FRANCHISE: Generic Anime    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦12,000
+Total stock   : 998
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Two halves. One bond. Wear the roster.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A his-and-hers yin-yang set built for two: matching split rings, a braided medallion bracelet and twin dragon pendant necklaces. Anime-inspired balance you wear every day, packed as a ready-to-gift duo.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Light meets dark, and the two of you complete the circle. This 3-in-1 yin-yang couple set channels that classic anime balance aesthetic across three pieces, so you and your other half can wear the bond your own way. The black-and-white dragon medallions, split yin-yang rings and twin pendant necklaces all read as one matched story, finished in a sleek monochrome that goes with everything.</p>
+<p>It arrives as a complete his-and-hers duo, ready to split between two people or hand over as one gift. Easy, low-maintenance everyday wear for fans who like their style with a little lore.</p>
+<ul>
+<li>Includes: 1 braided cord bracelet with yin-yang dragon medallion, 1 pair of split yin-yang rings, and 2 matching dragon pendant cord necklaces</li>
+<li>Style: anime-inspired yin-yang and dragon motif in classic black and white</li>
+<li>Finish: polished silver-tone metal with black and white enamel detail and small clear crystal accents</li>
+<li>Rings: open, adjustable band design to fit a range of finger sizes</li>
+<li>Bracelet: adjustable braided cord with bead detailing for a comfortable fit</li>
+<li>Necklaces: lightweight pendants on adjustable black cord chains</li>
+<li>Sold as: one his-and-hers / duo set, ideal for couples, best friends and gifting</li>
+<li>Care: keep dry, wipe clean with a soft cloth, store away from moisture to protect the finish</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • 3-in-1 set: matching rings, bracelet and twin necklaces in one box
+  • Classic yin-yang and dragon motif for that anime-inspired balance look
+  • His-and-hers design, perfect for couples or best friends
+  • Adjustable rings and cord sizing for an easy, comfortable fit
+  • Sleek black-and-white monochrome that pairs with any fit
+  • Ready-to-gift duo set
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (43 chars)        : 3-in-1 Yin-Yang Couple Set | Otaku Store NG
+Meta Description (152 chars) : Anime-inspired 3-in-1 yin-yang couple set: matching rings, braided bracelet and twin dragon necklaces. His-and-hers duo, ships nationwide and worldwide.
+Focus keyword                       : yin-yang couple set
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: 3-in-1 anime-inspired yin-yang couple set with matching split rings, braided dragon medallion bracelet and twin black-and-white dragon pendant necklaces
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-Manga studio product shot of a 3-in-1 yin-yang couple jewelry set arranged on ink-black #111111 surface: a pair of split black-and-white yin-yang adjustable rings, a braided cord bracelet with a yin-yang dragon medallion, and two black-cord dragon pendant necklaces. Paper-white #FAFAFA halftone dot backdrop, single manga-red #E2261C speed-line accent slicing diagonally, subtle ink splatter, manga panel framing, dramatic cinematic side lighting, premium high-detail, sharp reflections on polished silver-tone metal.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

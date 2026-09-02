@@ -1,0 +1,86 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : L N Light Tshirt
+SLUG         : l-n-light-tshirt
+BUMPA ID     : 1131409
+WOO TYPE     : variable
+PARENT SKU   : OSN-1131409
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+
+TAGS: Death Note, L Lawliet, Light Yagami, anime t-shirt, Death Note shirt, anime graphic tee, otaku fashion, unisex anime tee
+FRANCHISE: Death Note    CHARACTER: L &amp; Light Yagami
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦12,000
+Total stock   : 498
+VARIATIONS (attribute: Size)
+  M              | ₦12,000 | stock 100  | SKU OSN-1131409-M
+  L              | ₦12,000 | stock 99   | SKU OSN-1131409-L
+  XL             | ₦12,000 | stock 99   | SKU OSN-1131409-XL
+  2XL            | ₦12,000 | stock 100  | SKU OSN-1131409-2XL
+  3XL            | ₦12,000 | stock 100  | SKU OSN-1131409-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The detective vs. the god of the new world.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Death Note-inspired tee built around the L versus Light rivalry. Soft cotton, unisex regular fit, crew neck, and a durable fade-resistant print that holds up wash after wash. Wear the roster and pick your side.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Two minds, one notebook, zero trust. This Death Note fan tee puts L and Light Yagami head to head in a print built for fans who live for the mind games. The graphic stays sharp and bold so the rivalry reads loud the moment you walk in.</p>
+<p>Cut in a unisex regular fit with a clean crew neck, it pairs as easily over jeans as it does under a jacket. Soft to wear, easy to style, and made to be worn on repeat.</p>
+<ul>
+<li>Anime-inspired L &amp; Light graphic print (fan art, not affiliated with the official series)</li>
+<li>Soft cotton fabric with a comfortable everyday feel</li>
+<li>Unisex regular fit, classic crew neck</li>
+<li>Durable, fade-resistant print</li>
+<li>Available sizes: M, L, XL, 2XL, 3XL</li>
+<li>Care: machine wash cold, inside-out; hang or tumble dry low</li>
+<li>At checkout, indicate the slide (design) you want</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • L vs. Light Death Note rivalry graphic
+  • Soft cotton, comfy all-day wear
+  • Unisex regular fit with crew neck
+  • Durable fade-resistant print
+  • Sizes M to 3XL
+  • Ships nationwide and worldwide from Nigeria
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (49 chars)        : L &amp; Light Death Note T-Shirt | Otaku Store NG
+Meta Description (150 chars) : Death Note-inspired L vs. Light tee. Soft cotton, unisex fit, fade-resistant print. Sizes M-3XL, ₦12,000. Ships from Nigeria nationwide and worldwide.
+Focus keyword                       : Death Note L Light t-shirt
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Death Note-inspired t-shirt featuring L and Light Yagami face-off graphic print
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a folded anime graphic t-shirt featuring L and Light Yagami in a face-off. Ink black #111111 background, paper white #FAFAFA fabric, single manga-red #E2261C accent. Halftone dot shading, sharp speed lines radiating from the figures, ink-splatter texture, divided manga panels framing each character. Premium cinematic lighting, crisp focus, high-contrast, editorial merch photography.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

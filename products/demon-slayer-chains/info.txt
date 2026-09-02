@@ -1,0 +1,88 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Demon Slayer Chains
+SLUG         : demon-slayer-chains
+BUMPA ID     : 1134721
+WOO TYPE     : variable
+PARENT SKU   : OSN-1134721
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Demon Slayer
+
+TAGS: Demon Slayer necklace, Kimetsu no Yaiba, anime pendant necklace, Tanjiro, Hashira crest, fox mask necklace, anime chains, anime jewelry
+FRANCHISE: Demon Slayer    CHARACTER: Tanjiro Kamado
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,500
+Total stock   : 1398
+VARIATIONS (attribute: Style)
+  1              | ₦4,500 | stock 98   | SKU OSN-1134721-1
+  2              | ₦4,500 | stock 100  | SKU OSN-1134721-2
+  3              | ₦4,500 | stock 100  | SKU OSN-1134721-3
+  4              | ₦4,500 | stock 100  | SKU OSN-1134721-4
+  5              | ₦4,500 | stock 100  | SKU OSN-1134721-5
+  6              | ₦4,500 | stock 100  | SKU OSN-1134721-6
+  7              | ₦4,500 | stock 100  | SKU OSN-1134721-7
+  8              | ₦4,500 | stock 100  | SKU OSN-1134721-8
+  9              | ₦4,500 | stock 100  | SKU OSN-1134721-9
+  10             | ₦4,500 | stock 100  | SKU OSN-1134721-10
+  11             | ₦4,500 | stock 100  | SKU OSN-1134721-11
+  12             | ₦4,500 | stock 100  | SKU OSN-1134721-12
+  13             | ₦4,500 | stock 100  | SKU OSN-1134721-13
+  14             | ₦4,500 | stock 100  | SKU OSN-1134721-14
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+14 Kimetsu no Yaiba pendants. One bead chain. Pick your crest.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Carry the Corps with a Demon Slayer pendant necklace. Choose from 14 fan-favourite designs - Hashira crests, fox masks, butterfly motifs and the iconic Kimetsu no Yaiba logo - each on a silver-tone bead chain that wipes clean and resists tarnish.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>The Slayer Corps just got a roster you can wear. This anime-inspired Demon Slayer necklace pairs an enamel-finished pendant with a silver-tone bead chain, so you carry your favourite breathing style everywhere without shouting about it. From the Flame and Wind Hashira crests to Urokodaki's fox masks, the butterfly motifs, Nezuko's bamboo muzzle, the Slayer Corps book and the unmistakable Kimetsu no Yaiba logo - there's a design for every fan.</p><p>Choose your pendant from the 14 numbered options (counted left to right in the product photos). Lightweight enough for daily wear, bold enough to read across the room - drop it over a tee, layer it, or gift it to the demon hunter in your life.</p><ul><li>Anime-inspired Demon Slayer (Kimetsu no Yaiba) pendant necklace</li><li>14 designs to choose from: Hashira and Corps crests, fox masks, butterfly pendants, bamboo muzzle, Slayer Corps book, gourd/hat and the Kimetsu no Yaiba logo</li><li>Enamel-painted detailing on a durable stainless-steel / alloy pendant that resists tarnish</li><li>Silver-tone metal bead (ball) chain with secure connector clasp</li><li>Standard wearable chain length suited to layering or solo wear</li><li>Unisex design - great for everyday wear, cosplay accents or gifting</li><li>Care: wipe clean with a soft dry cloth; keep away from water and perfume</li><li>Fan-made / anime-inspired - not affiliated with or endorsed by the official rights holders</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • 14 designs to pick from - Hashira crests, fox masks, butterfly motifs and the Kimetsu no Yaiba logo
+  • Enamel-painted pendant on a tarnish-resistant stainless-steel / alloy build
+  • Silver-tone bead chain with a secure connector clasp
+  • Lightweight unisex fit - layer it or wear it solo
+  • Wipe clean with a soft dry cloth
+  • Ships nationwide across Nigeria and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (53 chars)        : Demon Slayer Chains - 14 Pendant Necklaces | Otaku NG
+Meta Description (151 chars) : Demon Slayer pendant necklaces in 14 designs - Hashira crests, fox masks, butterfly motifs and the Kimetsu no Yaiba logo. ₦4,500. Ships nationwide and.
+Focus keyword                       : Demon Slayer necklace
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Demon Slayer anime pendant necklaces in 14 designs including Hashira crests, fox masks and butterfly motifs on silver-tone bead chains
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot: a single Demon Slayer-inspired enamel pendant on a silver-tone bead chain laid across an ink-black #111111 surface, paper-white #FAFAFA negative space, one manga-red #E2261C accent glowing on the pendant. Halftone-dot shading, sharp speed lines radiating outward, subtle ink splatter, cinematic top-down lighting, premium catalogue feel, high detail, manga panel framing.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

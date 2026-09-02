@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Itachi led frame lamp
+SLUG         : itachi-led-frame-lamp
+BUMPA ID     : 3099645
+WOO TYPE     : simple
+PARENT SKU   : OSN-3099645
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Home & Decor > LED Lamps
+  - Shop by Anime > Naruto
+
+TAGS: Itachi, Itachi Uchiha, Naruto, Akatsuki, anime LED lamp, 3D illusion lamp, anime night light, Naruto decor, LED frame lamp, Uchiha
+FRANCHISE: Naruto    CHARACTER: Itachi Uchiha
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦26,000
+Total stock   : 8
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Light the night with the Uchiha prodigy
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+An Itachi Uchiha 3D illusion LED frame lamp that turns flat acrylic into a glowing crow-and-Sharingan centrepiece. USB-powered, energy-efficient, switches through 16 colours, and ships with a remote so you set the mood from across the room.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Hang the Uchiha legend on your wall. This Itachi Uchiha LED frame lamp uses a precision-etched acrylic panel and a glowing base to create a striking 3D illusion of Konoha's most haunting prodigy. Off, it reads as clean line art in a sleek frame. On, it floods the room with anime-inspired atmosphere worthy of an Akatsuki shrine.</p><p>Built for fans who want a real centrepiece, not a gimmick. Energy-efficient LEDs run cool and quiet, the USB connection plugs into any standard adapter or power bank, and the included remote lets you cycle colours, dim the glow, or set it on auto from across the room. Perfect above a desk, gaming setup, or shelf in your Naruto collection.</p><ul><li>Character: Itachi Uchiha (Naruto / Akatsuki) fan-art design, anime-inspired and not affiliated with or endorsed by the rights holders</li><li>Type: 3D illusion acrylic frame night light</li><li>Lighting: 16 colours with a remote control included</li><li>Modes: colour cycling and brightness adjust via remote</li><li>Power: USB-powered; works with a standard USB adapter or power bank (cable included; adapter not guaranteed)</li><li>LEDs: energy-efficient, low-heat, long-life</li><li>Use: wall-mount or stand on a desk, shelf, or gaming setup</li><li>Finish: clear acrylic line-art panel in a framed base</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Itachi Uchiha 3D illusion in clean acrylic line art
+  • 16 colours, switchable by the included remote
+  • USB-powered and energy-efficient — plug into any adapter or power bank
+  • Doubles as line art by day, glowing centrepiece by night
+  • Remote control: cycle colours, dim, or set auto from across the room
+  • A standout piece for any Naruto or Akatsuki collection
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : Itachi LED Frame Lamp | Naruto 3D Night Light
+Meta Description (153 chars) : Itachi Uchiha 3D illusion LED frame lamp. 16 colours, remote control, USB-powered. A glowing Naruto centrepiece for your desk or shelf. Ships nationwide.
+Focus keyword                       : Itachi LED lamp
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Itachi Uchiha anime LED frame lamp glowing red, a 3D illusion acrylic night light on a desk
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product shot of an Itachi Uchiha 3D illusion acrylic LED frame lamp on a minimalist desk. Ink black #111111 background, paper white #FAFAFA surface, single manga-red #E2261C glow emitting from the etched acrylic panel showing Itachi with crows and a Sharingan eye. Halftone dot shading, sharp speed lines radiating from the lamp, subtle ink splatter in the corners, framed manga-panel composition. Premium, cinematic studio lighting, shallow depth of field, glowing red light spill on the desk. No text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

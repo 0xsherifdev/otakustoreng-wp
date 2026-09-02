@@ -1,0 +1,82 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Anime Ring
+SLUG         : anime-ring
+BUMPA ID     : 1146098
+WOO TYPE     : simple
+PARENT SKU   : OSN-1146098
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Rings
+
+TAGS: Meliodas ring, Seven Deadly Sins ring, Nanatsu no Taizai, Dragon's Sin of Wrath, anime ring, anime rings, anime accessories, stainless steel ring
+FRANCHISE: The Seven Deadly Sins    CHARACTER: Meliodas
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦3,000
+Total stock   : 996
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The Dragon's Sin, worn on your hand.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Carry the Dragon's Sin of Wrath everywhere. This blackened anime-inspired band wraps Meliodas's dragon crest around your finger with a glinting accent stone, built tarnish-resistant for daily wear by any Seven Deadly Sins fan.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some captains lead from the front. Now you can too. This anime-inspired ring channels Meliodas, the Dragon's Sin of Wrath, with his dragon crest sculpted in raised relief around a deep gunmetal-black band, finished with a single clear accent stone for that flash of Liones nobility.</p>
+<p>The blackened polished finish is tarnish-resistant and built for everyday wear, so it survives the daily grind as well as the captain survives a tavern brawl. Stack it, gift it, or rep your favourite Sin solo. A clean piece for any Seven Deadly Sins fan who likes their fandom subtle but sharp.</p>
+<ul>
+<li><strong>Character motif:</strong> Meliodas / Dragon's Sin of Wrath crest (The Seven Deadly Sins, anime-inspired)</li>
+<li><strong>Material:</strong> stainless steel / alloy with blackened polished finish</li>
+<li><strong>Detailing:</strong> raised dragon crest relief plus a single clear accent stone</li>
+<li><strong>Finish:</strong> tarnish-resistant, suitable for daily wear</li>
+<li><strong>Sizing:</strong> available in standard ring sizes; buyer selects size at checkout</li>
+<li><strong>Style:</strong> unisex statement band, stacks easily with other rings</li>
+<li><strong>In the box:</strong> 1 anime-inspired ring</li>
+<li><strong>Care:</strong> keep dry, wipe with a soft cloth, avoid harsh chemicals and perfume</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Meliodas Dragon's Sin of Wrath crest in raised relief
+  • Blackened polished finish with a single clear accent stone
+  • Stainless steel / alloy, tarnish-resistant for daily wear
+  • Available in standard ring sizes - pick yours at checkout
+  • Unisex statement band that stacks with other rings
+  • Fan / anime-inspired design, not affiliated or licensed
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (44 chars)        : Meliodas Dragon Sin Ring | Seven Deadly Sins
+Meta Description (149 chars) : Anime-inspired Meliodas Dragon's Sin of Wrath ring in blackened steel/alloy with accent stone. Tarnish-resistant, standard sizes. Ships from Nigeria.
+Focus keyword                       : Meliodas ring
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Blackened metal Meliodas Dragon's Sin of Wrath crest ring from The Seven Deadly Sins with a clear accent stone, shown beside the character Meliodas
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a blackened gunmetal stainless-steel ring engraved with a stylized dragon crest and a single clear accent stone, ink black #111111 background, paper white #FAFAFA negative space, single manga-red #E2261C accent slash. Halftone dot shading, dramatic speed lines radiating from the ring, fine ink splatter framing, manga panel border. Premium cinematic macro lighting, sharp specular highlights on the polished black metal, high detail, 1:1.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

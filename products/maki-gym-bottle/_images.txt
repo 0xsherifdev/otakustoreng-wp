@@ -1,0 +1,2 @@
+filename	url
+01.jpg	https://dodptt9f4zk9h.cloudfront.net/stores/144399/products/9ee9d484e53a18961b4b950e3171f0381dfd5f53.jpeg

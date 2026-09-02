@@ -1,0 +1,78 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Jjk Bedsheet N Pillow Cases
+SLUG         : jjk-bedsheet-n-pillow-cases
+BUMPA ID     : 1141397
+WOO TYPE     : variable
+PARENT SKU   : OSN-1141397
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Home & Decor > Room Decor
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Jujutsu Kaisen bedsheet, JJK bedding, anime bedsheet set, anime pillowcase, Jujutsu Kaisen room decor, anime bedroom decor, Gojo bedding, otaku bedding
+FRANCHISE: Jujutsu Kaisen    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦35,000
+Total stock   : 400
+VARIATIONS (attribute: Style)
+  1              | ₦35,000 | stock 100  | SKU OSN-1141397-1
+  2              | ₦35,000 | stock 100  | SKU OSN-1141397-2
+  3              | ₦35,000 | stock 100  | SKU OSN-1141397-3
+  4              | ₦35,000 | stock 100  | SKU OSN-1141397-4
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Sleep inside the cursed energy.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Bring Jujutsu Kaisen into your bedroom with this anime-inspired bedsheet and pillowcase set. Vivid, fade-resistant print across four bold style options, sized to your bed for a clean, sorcerer-worthy refresh.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Turn your bedroom into a domain of its own with this Jujutsu Kaisen-inspired bedsheet and pillowcase set. Bold JJK artwork wraps your bed in cursed-energy attitude, with a crisp, high-contrast print built to anchor any otaku space. Pick from four distinct style options to match your roster and your room.</p><p>The set includes coordinated pillowcases for a finished, put-together look. Choose your bed size at checkout so your sheet fits right, then make the bed and let the room do the talking.</p><ul><li>Theme: Jujutsu Kaisen anime-inspired fan art (not affiliated, unofficial)</li><li>Set includes: bedsheet plus matching pillowcase(s)</li><li>Style options: 1, 2, 3, or 4 - select your favourite design</li><li>Size: choose your bed size at checkout for a proper fit</li><li>Print: vivid, high-contrast, fade-resistant colours</li><li>Feel: soft, breathable fabric for everyday comfort</li><li>Care: machine washable; wash cold and tumble dry low to protect the print</li><li>Best for: bedrooms, dorms, hostel rooms and otaku setups</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Four bold Jujutsu Kaisen style options to pick from
+  • Bedsheet plus matching pillowcase set, fully coordinated
+  • Vivid, fade-resistant print that holds its colour
+  • Soft, breathable fabric for nightly comfort
+  • Choose your bed size at checkout for the right fit
+  • Machine washable and easy to care for
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (57 chars)        : Jujutsu Kaisen Bedsheet & Pillowcase Set | Otaku Store NG
+Meta Description (148 chars) : Jujutsu Kaisen anime-inspired bedsheet and pillowcase set. 4 bold styles, fade-resistant print, soft feel. Pick your bed size. Ships nationwide and.
+Focus keyword                       : Jujutsu Kaisen bedsheet
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Jujutsu Kaisen anime-inspired bedsheet and matching pillowcase set on a made bed
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga style studio shot of a Jujutsu Kaisen-inspired bedsheet and pillowcase set on a neatly made bed. Ink black #111111 backdrop, paper white #FAFAFA sheets, single manga-red #E2261C accent on the print and a thrown pillow. Halftone dot shading, dramatic speed lines radiating from the headboard, ink splatter framing the corners, arranged in manga panel borders. Premium, cinematic lighting, sharp folds, high contrast. No text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

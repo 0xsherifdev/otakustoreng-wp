@@ -1,0 +1,80 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Hidden Leaf Face Cap
+SLUG         : hidden-leaf-face-cap
+BUMPA ID     : 2135496
+WOO TYPE     : simple
+PARENT SKU   : OSN-2135496
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Headwear
+  - Shop by Anime > One Piece
+  - Shop by Anime > Naruto
+
+TAGS: Naruto, Hidden Leaf, Konoha, snapback cap, anime cap, face cap, anime headwear, ninja headband, streetwear
+FRANCHISE: Naruto    CHARACTER: Hidden Leaf Village (Konoha)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦10,000
+Total stock   : 10
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Konoha ninja headband, reimagined as a snapback.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Rep the Hidden Leaf with this jet-black flat-brim snapback. A riveted metal plate carries the iconic Konoha leaf crest front and centre, with an adjustable back closure for a clean, comfortable one-size fit. Anime-inspired headwear built for everyday wear.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Every shinobi earns the leaf. This Hidden Leaf Face Cap takes the most recognisable symbol in <em>Naruto</em> and bolts it onto a structured, jet-black flat-brim snapback. The riveted metal plate sits dead-centre across the front panels, echoing the steel forehead protector worn by Team 7 and the rest of Konoha — a clean, statement-making nod that reads instantly to anyone who knows the Hidden Leaf Village.</p>
+<p>The all-black build keeps it versatile enough to pair with anything, while the flat brim and crisp crown give it that premium streetwear silhouette. Wear the roster, on and off duty.</p>
+<ul>
+<li>Anime-inspired Hidden Leaf (Konoha) design from <em>Naruto</em> — fan-made, not affiliated with or endorsed by the rights holders</li>
+<li>Flat-brim snapback / structured crown silhouette</li>
+<li>Riveted metal front plate featuring the Hidden Leaf village crest</li>
+<li>Adjustable rear closure for a one-size-fits-most fit</li>
+<li>Solid jet-black colourway for easy styling</li>
+<li>Everyday casual and streetwear-ready headwear</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Iconic Hidden Leaf (Konoha) crest on a riveted metal front plate
+  • Structured flat-brim snapback in solid jet black
+  • Adjustable rear closure for a one-size-fits-most fit
+  • Anime-inspired Naruto headwear, fan-made and not affiliated
+  • Premium streetwear silhouette that pairs with anything
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : Hidden Leaf Face Cap | Naruto Konoha Snapback
+Meta Description (146 chars) : Naruto-inspired Hidden Leaf Face Cap: jet-black flat-brim snapback with a riveted Konoha metal plate. Adjustable one-size fit. Ships from Nigeria.
+Focus keyword                       : Hidden Leaf face cap
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black flat-brim snapback cap with a riveted metal plate displaying the Naruto Hidden Leaf Village (Konoha) crest
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a jet-black flat-brim snapback cap with a riveted silver metal front plate engraved with the Hidden Leaf (Konoha) ninja crest. Ink black #111111 background, paper white #FAFAFA rim light, single manga-red #E2261C accent slashing behind the cap. Halftone dot shading, bold speed lines and ink-splatter around the brim, framed in a clean manga panel. Premium, cinematic three-quarter angle, sharp focus on the metal plate, dramatic high-contrast lighting.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

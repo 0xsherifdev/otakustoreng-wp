@@ -1,0 +1,73 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Akastuki Chain
+SLUG         : akastuki-chain-1146337
+BUMPA ID     : 1146337
+WOO TYPE     : simple
+PARENT SKU   : OSN-1146337
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Naruto
+
+TAGS: Akatsuki chain, Naruto necklace, Akatsuki red cloud, anime pendant, Naruto Shippuden, anime chain, Akatsuki necklace, anime accessories
+FRANCHISE: Naruto    CHARACTER: Akatsuki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,000
+Total stock   : 997
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The red cloud, around your neck.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Rep the rogue ninja with this Akatsuki red-cloud pendant paired with a Naruto Shippuden dog tag on an adjustable cord chain. Bold enamel colour, tarnish-resistant build, and clean detail that reads instantly to any fan.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some symbols need no introduction. The Akatsuki red cloud is one of them, and this fan-inspired chain wears it loud. A glossy enamel cloud pendant sits beside an engraved Naruto Shippuden dog tag, hung on a cord-style chain that drops clean over any tee or hoodie.</p><p>Built from durable, tarnish-resistant metal with crisp colour and edges, it's the easy everyday cosign for anyone who rides with the rogue ninja. Anime-inspired, made for fans, not affiliated with any official rights holder.</p><ul><li>Design: Akatsuki red-cloud enamel pendant plus engraved Naruto Shippuden dog-tag charm</li><li>Material: durable, tarnish-resistant metal alloy with enamel detailing</li><li>Chain: cord-style necklace with lobster-clasp closure and extender for adjustable fit</li><li>Finish: glossy manga-red cloud, brushed-silver tag</li><li>Wear: lightweight, layers easily, sits well on the chest</li><li>Care: wipe clean with a soft dry cloth; keep away from water and perfume</li><li>Included: one Akatsuki cloud and dog-tag chain set</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Iconic Akatsuki red-cloud enamel pendant, instantly recognisable
+  • Paired with an engraved Naruto Shippuden dog-tag charm
+  • Durable, tarnish-resistant metal that holds its shine
+  • Cord-style chain with adjustable extender for the right fit
+  • Lightweight and layerable over tees, hoodies and jackets
+  • Fan-made, anime-inspired - not official or affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (50 chars)        : Akatsuki Chain - Naruto Red Cloud Pendant Necklace
+Meta Description (151 chars) : Shop the Akatsuki red-cloud pendant chain with a Naruto Shippuden dog tag. Tarnish-resistant, adjustable cord necklace. Ships nationwide and worldwide.
+Focus keyword                       : Akatsuki chain
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Akatsuki red-cloud enamel pendant beside an engraved Naruto Shippuden dog tag on a black cord chain
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product studio shot: an Akatsuki red-cloud enamel pendant and a brushed-silver Naruto Shippuden dog tag hanging on a black cord chain, suspended against an ink-black #111111 backdrop. The single manga-red #E2261C cloud glows as the only colour pop; paper-white #FAFAFA halftone dots and diagonal speed lines radiate behind it, with subtle ink-splatter framing in a manga panel. Premium, cinematic, high-contrast lighting catching the glossy enamel and metal edges. No text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

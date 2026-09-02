@@ -1,0 +1,91 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Anime Shadow Light
+SLUG         : anime-shadow-light
+BUMPA ID     : 4614394
+WOO TYPE     : variable
+PARENT SKU   : OSN-4614394
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Home & Decor > Room Decor
+  - Home & Decor > LED Lamps
+
+TAGS: anime shadow light, 3D LED wall lamp, anime room decor, shadow projection lamp, anime night light, Zoro lamp, Goku lamp, Luffy lamp, otaku wall art, gaming room decor
+FRANCHISE: Generic Anime    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦30,000
+Total stock   : 98
+VARIATIONS (attribute: Style)
+  Zoro           | ₦30,000 | stock 18   | SKU OSN-4614394-ZORO
+  Luffy          | ₦30,000 | stock 20   | SKU OSN-4614394-LUFFY
+  Batman         | ₦30,000 | stock 20   | SKU OSN-4614394-BATMAN
+  Spiderman      | ₦30,000 | stock 20   | SKU OSN-4614394-SPIDERMAN
+  Goku           | ₦30,000 | stock 20   | SKU OSN-4614394-GOKU
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Cast your hero's shadow across the wall.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A 3D shadow-projection LED wall lamp that throws a giant character silhouette across your wall from a single glowing emblem. Pick your fighter, mount it, switch on, and watch your room turn cinematic in seconds.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some lamps light a room. This one tells a story. The Anime Shadow Light is a 3D wall fixture built around a single illuminated emblem that projects a towering hero silhouette across your wall, so the moment you flick it on, your space goes full opening-shot cinematic. Choose your roster: a three-blade Zoro stance, a charging Goku, a Gear 5 Luffy, or go beyond anime with Batman and Spiderman.</p>
+<p>It works as a statement night light, a gaming-corner accent, or the centrepiece your shelf wall has been missing. Soft, atmospheric glow by night; a sharp display piece by day. Fan-made and anime-inspired, not affiliated with or endorsed by any studio or rights holder.</p>
+<ul>
+<li>Type: 3D shadow-projection LED wall lamp (emblem plate plus cast silhouette effect)</li>
+<li>Style options: Zoro, Luffy, Batman, Spiderman, Goku</li>
+<li>Effect: single lit emblem casts an oversized character shadow onto the wall</li>
+<li>Finish: bold colour emblem face matched to each character</li>
+<li>Mounting: designed for wall installation as a fixed accent piece</li>
+<li>Best in low light for the strongest shadow contrast</li>
+<li>Ideal for bedrooms, gaming setups, otaku display walls and lounges</li>
+<li>Care: wipe gently with a dry or lightly damp cloth; keep electronics dry</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • 3D shadow projection casts a giant hero silhouette on your wall
+  • Five styles to pick from: Zoro, Luffy, Batman, Spiderman and Goku
+  • Glowing colour emblem doubles as the light source and centrepiece
+  • Instant cinematic atmosphere for bedrooms and gaming corners
+  • Wall-mounted accent that looks sharp lit or unlit
+  • Fan-inspired anime decor, not affiliated with any studio
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (54 chars)        : Anime Shadow Light - 3D LED Wall Lamp | Otaku Store NG
+Meta Description (150 chars) : Anime Shadow Light: a 3D LED wall lamp that casts a giant hero silhouette. Pick Zoro, Luffy, Batman, Spiderman or Goku. ₦30,000. Ships nationwide and.
+Focus keyword                       : anime shadow light
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+  05.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Anime Shadow Light 3D LED wall lamp casting a large Roronoa Zoro three-sword silhouette around a glowing Wanted poster emblem
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product shot of a 3D anime shadow-projection wall lamp mounted on a paper-white #FAFAFA wall, single glowing emblem plate casting a dramatic oversized warrior silhouette in ink black #111111 across the surface. Cinematic low-key lighting, single manga-red #E2261C accent glow rimming the emblem, halftone dot texture in the shadows, faint speed lines radiating outward, subtle ink splatter at the edges, framed like a manga panel. Premium, moody, high-contrast, photorealistic studio render, no text.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

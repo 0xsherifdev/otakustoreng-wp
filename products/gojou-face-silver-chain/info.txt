@@ -1,0 +1,73 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Gojou Face Silver Chain
+SLUG         : gojou-face-silver-chain
+BUMPA ID     : 1927289
+WOO TYPE     : simple
+PARENT SKU   : OSN-1927289
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > One Piece
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Gojo necklace, Jujutsu Kaisen chain, Gojo Satoru pendant, anime silver chain, JJK accessories, anime necklace, Gojo merch, pendant chain
+FRANCHISE: Jujutsu Kaisen    CHARACTER: Gojo Satoru
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦5,000
+Total stock   : 504
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The strongest sorcerer, on a chain.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A polished silver-tone Gojo Satoru face pendant on a slim cable chain. The blindfolded spiky-hair silhouette reads instantly to fellow Jujutsu Kaisen fans. Lightweight, tarnish-resistant and ready for daily wear or layering.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Throughout heaven and earth, you alone are the honored one and now you can carry that energy everywhere. The Gojou Face Silver Chain renders Satoru's iconic spiky hair and blindfold as a clean cut-out pendant in bright silver-tone metal, hanging from a slim cable chain. It is a quiet flex: subtle enough for everyday, but every Jujutsu Kaisen fan will clock it the second they look.</p><p>Anime-inspired fan merch from Otaku Store NG. Wear the roster. Ships from Nigeria nationwide and worldwide.</p><ul><li><strong>Character:</strong> Gojo Satoru (Jujutsu Kaisen) face silhouette pendant</li><li><strong>Material:</strong> Durable tarnish-resistant alloy/stainless-steel with a polished silver-tone finish</li><li><strong>Pendant style:</strong> Open cut-out outline of Gojo's hair and blindfold</li><li><strong>Chain:</strong> Slim cable-link chain, standard wearable length</li><li><strong>Fit:</strong> Lightweight and comfortable for daily wear or layering with other chains</li><li><strong>Care:</strong> Wipe clean with a soft dry cloth; keep away from moisture and harsh chemicals</li><li><strong>Includes:</strong> One pendant on chain</li><li><strong>Price:</strong> ₦5,000</li><li><em>Fan / anime-inspired design. Not official or licensed; not affiliated with the rights holders.</em></li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Gojo Satoru face silhouette - instantly recognised by JJK fans
+  • Bright polished silver-tone finish that resists tarnish
+  • Slim cable chain, lightweight and comfortable all day
+  • Layers cleanly with other chains and pendants
+  • Wipe-clean alloy/steel build for everyday wear
+  • Fan-favourite Jujutsu Kaisen accessory at ₦5,000
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (48 chars)        : Gojo Face Silver Chain - Jujutsu Kaisen Necklace
+Meta Description (149 chars) : Gojo Satoru face silver-tone pendant on a slim chain. Tarnish-resistant Jujutsu Kaisen necklace. ₦5,000. Ships from Nigeria nationwide and worldwide.
+Focus keyword                       : Gojo silver chain
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Silver-tone Gojo Satoru face pendant from Jujutsu Kaisen on a slim cable chain, held in hand
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a silver-tone cut-out pendant shaped like Gojo Satoru's spiky hair and blindfolded face, hanging on a slim silver cable chain. Ink black #111111 background, paper white #FAFAFA halftone dots, single manga-red #E2261C accent in a sharp speed-line burst behind the pendant. Ink splatter and bold manga panel framing, dramatic rim lighting catching the polished metal, cinematic premium jewelry photography, high detail, no text.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

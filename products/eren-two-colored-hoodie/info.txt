@@ -1,0 +1,87 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Eren Two Colored Hoodie
+SLUG         : eren-two-colored-hoodie
+BUMPA ID     : 1121128
+WOO TYPE     : variable
+PARENT SKU   : OSN-1121128
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+  - Shop by Anime > Attack on Titan
+
+TAGS: Eren hoodie, Attack on Titan hoodie, Eren Yeager, anime hoodie, AOT merch, pullover hoodie, anime streetwear, Shingeki no Kyojin
+FRANCHISE: Attack on Titan    CHARACTER: Eren Yeager
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦25,000
+Total stock   : 2499
+VARIATIONS (attribute: Size)
+  M              | ₦25,000 | stock 500  | SKU OSN-1121128-M
+  L              | ₦25,000 | stock 500  | SKU OSN-1121128-L
+  XL             | ₦25,000 | stock 499  | SKU OSN-1121128-XL
+  2XL            | ₦25,000 | stock 500  | SKU OSN-1121128-2XL
+  3XL            | ₦25,000 | stock 500  | SKU OSN-1121128-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Two-tone Eren energy for the front lines.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Anime-inspired Eren Yeager pullover hoodie with bold two-colored graphics, brushed-fleece warmth, ribbed cuffs and a roomy kangaroo pocket. Unisex streetwear fit built for every fan ready to charge the wall.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Step into the fight with the Eren Two Colored Hoodie, a fan-made tribute to Attack on Titan's most relentless soldier. The striking two-tone design channels Eren Yeager's all-or-nothing resolve, printed across a heavyweight pullover that wears as hard as the man himself. This is anime streetwear that holds its own on cold nights and crowded conventions alike.</p>
+<p>Brushed-fleece on the inside keeps you warm, while the unisex cut layers clean over tees and under jackets. Pull up the hood, stash your hands in the kangaroo pocket, and wear the roster with pride.</p>
+<ul>
+<li><strong>Design:</strong> Two-colored Attack on Titan / Eren Yeager anime-inspired graphic (fan art, not affiliated or official)</li>
+<li><strong>Style:</strong> Pullover hoodie with adjustable drawstring hood</li>
+<li><strong>Fabric:</strong> Cotton and polyester blend with brushed-fleece interior for warmth</li>
+<li><strong>Details:</strong> Ribbed cuffs and hem, roomy kangaroo front pocket</li>
+<li><strong>Fit:</strong> Unisex streetwear fit</li>
+<li><strong>Sizes:</strong> M, L, XL, 2XL, 3XL</li>
+<li><strong>Care:</strong> Machine wash cold, inside-out; hang or line dry to protect the print</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold two-colored Eren Yeager graphic inspired by Attack on Titan
+  • Brushed-fleece interior for serious cold-night warmth
+  • Ribbed cuffs and hem with a roomy kangaroo pocket
+  • Cotton and polyester blend that holds its shape wash after wash
+  • Unisex streetwear fit in sizes M through 3XL
+  • Fan-made, anime-inspired design (not affiliated or official)
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (48 chars)        : Eren Two Colored Hoodie | Attack on Titan Hoodie
+Meta Description (154 chars) : Anime-inspired Eren Yeager two-colored pullover hoodie. Brushed-fleece warmth, ribbed cuffs, kangaroo pocket. Unisex fit, sizes M-3XL. Ships from Nigeria.
+Focus keyword                       : Eren hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Two-colored Eren Yeager Attack on Titan pullover hoodie with hood and kangaroo pocket
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a two-tone anime pullover hoodie inspired by Eren Yeager, displayed on an invisible mannequin against an ink-black #111111 backdrop. Single manga-red #E2261C accent slashing across the composition as a speed-line, halftone dot texture in the shadows, paper-white #FAFAFA rim lighting tracing the hood and ribbed cuffs. Sharp ink splatter framing the kangaroo pocket, manga panel borders, premium cinematic lighting, high detail, no text.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

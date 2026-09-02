@@ -1,0 +1,70 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Akastuki Socks
+SLUG         : akastuki-socks
+BUMPA ID     : 1734022
+WOO TYPE     : simple
+PARENT SKU   : OSN-1734022
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Shop by Anime > Naruto
+
+TAGS: Akatsuki socks, Naruto socks, anime socks, Akatsuki merch, Naruto merch, red cloud, anime fan socks, ninja merch
+FRANCHISE: Naruto    CHARACTER: Akatsuki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦3,000
+Total stock   : 5
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Red clouds on your feet, rogue-ninja energy all day.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Rep the rogue-ninja crew with these Akatsuki-inspired socks. Bold red clouds on deep black, soft stretch-knit comfort, and a true fan-grade finish built for everyday wear, training days, and convention runs.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Slip into the legend of the rogue ninja. These Akatsuki-inspired socks bring the unmistakable red-cloud motif on a deep black knit, a fan-favourite look pulled straight from Naruto's most feared organisation. Whether you're repping the crew at a meet-up, layering up for training, or just flexing your roster on a lazy day, these put the detail where everyone can see it.</p><p>Made from a breathable, stretchy knit blend with a snug ribbed cuff that stays up and a reinforced heel and toe for daily wear. Premium fan-grade finish, anime-inspired and unaffiliated, designed for fans who want their fit to do the talking.</p><ul><li>Design: Akatsuki red-cloud motif on black, Naruto-inspired</li><li>Material: soft, breathable stretch-knit blend</li><li>Fit: ribbed cuff that holds, cushioned underfoot feel</li><li>Build: reinforced heel and toe for everyday durability</li><li>Sizing: stretch-fit, suits most adult sizes</li><li>Included: one pair of socks</li><li>Care: machine wash cold, air dry to keep colours bold</li><li>Wear: everyday, training, cosplay layering, convention days</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Iconic Akatsuki red-cloud design on deep black knit
+  • Soft, breathable stretch-knit for all-day comfort
+  • Ribbed cuff stays up plus reinforced heel and toe
+  • Stretch-fit sizing suits most adult feet
+  • Fan-grade finish, anime-inspired and unaffiliated
+  • Ships nationwide and worldwide from Nigeria
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (52 chars)        : Akatsuki Socks | Naruto-Inspired Red Cloud Fan Socks
+Meta Description (155 chars) : Akatsuki-inspired socks with the iconic red-cloud design on black. Soft stretch-knit, ribbed cuff, reinforced heel and toe. Ships nationwide and worldwide.
+Focus keyword                       : Akatsuki socks
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Pair of black Akatsuki-inspired socks featuring the red cloud design from Naruto
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a folded pair of black socks bearing the Akatsuki red-cloud motif, ink black #111111 backdrop with paper white #FAFAFA negative space, single manga-red #E2261C accent on the clouds, halftone dot shading, dynamic speed lines and ink-splatter framing, manga panel border, dramatic cinematic lighting, premium editorial product photography, sharp focus on knit texture and ribbed cuff.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

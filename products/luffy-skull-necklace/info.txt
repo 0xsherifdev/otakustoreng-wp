@@ -1,0 +1,82 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Luffy Skull  Necklace
+SLUG         : luffy-skull-necklace
+BUMPA ID     : 1927293
+WOO TYPE     : simple
+PARENT SKU   : OSN-1927293
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > One Piece
+
+TAGS: Luffy necklace, One Piece necklace, Straw Hat Pirates pendant, Jolly Roger necklace, anime necklace, One Piece accessories, skull pendant, Luffy merch
+FRANCHISE: One Piece    CHARACTER: Monkey D. Luffy
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,500
+Total stock   : 8
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Fly the Straw Hat Jolly Roger every day.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Rep the Straw Hat Pirates with a silver-tone skull-and-crossbones pendant crowned by Luffy's iconic straw hat, hung on an adjustable black cord. Lightweight, tarnish-resistant, and built for everyday wear by real One Piece fans.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Set sail with the Luffy Skull Necklace, a fan-favourite tribute to the Straw Hat Pirates' Jolly Roger. The detailed skull-and-crossbones pendant is finished in bright silver-tone and topped with Luffy's unmistakable straw hat in painted yellow and red, so your allegiance reads loud and clear the moment it catches the light.</p>
+<p>Threaded on a sleek black cord with an adjustable extender and secure clasp, it sits easy under a tee or over a fit. Lightweight, tarnish-resistant and wipe-clean, this is everyday One Piece gear for fans who never stop chasing the One Piece. Anime-inspired fan merch, not affiliated with or endorsed by the official rights holders.</p>
+<ul>
+<li><strong>Design:</strong> Straw Hat Pirates skull-and-crossbones pendant with painted straw-hat detailing</li>
+<li><strong>Pendant finish:</strong> Silver-tone metal alloy with colour enamel-style accents</li>
+<li><strong>Chain:</strong> Black cord with adjustable extender and lobster-style clasp</li>
+<li><strong>Build:</strong> Lightweight and tarnish-resistant for everyday wear</li>
+<li><strong>Care:</strong> Wipe clean with a soft dry cloth; keep away from water and perfume</li>
+<li><strong>In the box:</strong> 1x Luffy skull pendant on cord necklace</li>
+<li><strong>Style:</strong> Unisex; layers well or wears solo</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Straw Hat Pirates Jolly Roger skull pendant with Luffy's signature straw hat
+  • Silver-tone alloy finish with painted hat detailing
+  • Adjustable black cord with secure lobster-style clasp
+  • Lightweight and tarnish-resistant for daily wear
+  • Wipe-clean and low maintenance
+  • Unisex - layer it or wear it solo
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (50 chars)        : Luffy Skull Necklace | One Piece Straw Hat Pendant
+Meta Description (147 chars) : Luffy Skull Necklace - One Piece Straw Hat Pirates Jolly Roger pendant on an adjustable black cord. Tarnish-resistant fan gear. Ships from Nigeria.
+Focus keyword                       : Luffy skull necklace
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Silver-tone One Piece Straw Hat Pirates skull-and-crossbones pendant with yellow straw hat on a black cord necklace
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a silver-tone skull-and-crossbones pendant wearing a yellow straw hat with red band, hung on a black cord necklace, laid on ink-black #111111 surface with paper-white #FAFAFA negative space; single manga-red #E2261C accent slash behind the pendant; halftone dot shading, dynamic speed lines and subtle ink splatter framing a manga panel; crisp metallic highlights catching the rim light, premium cinematic jewellery photography, high detail, sharp focus.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

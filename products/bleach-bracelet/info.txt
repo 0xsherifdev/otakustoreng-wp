@@ -1,0 +1,73 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Bleach Bracelet
+SLUG         : bleach-bracelet
+BUMPA ID     : 1734033
+WOO TYPE     : simple
+PARENT SKU   : OSN-1734033
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Shop by Anime > Bleach
+
+TAGS: Bleach bracelet, Bleach anime, anime bracelet, Ichigo merch, Soul Society, braided bracelet, anime accessories, anime jewelry
+FRANCHISE: Bleach    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,000
+Total stock   : 7
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Braided cord, gold-tone skull crest. Carry the Shinigami energy.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A black braided cord bracelet topped with a gold-tone Bleach-inspired skull crest and red enamel accents. Tough metal collars, everyday-ready, and an easy way to rep the Soul Society on your wrist without saying a word.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some fans wear the shirt. Real ones carry the crest. This Bleach-inspired bracelet pairs a tight black braided cord with a brushed gold-tone centerpiece — a skull-style crest with crisp red enamel detailing that catches the light without screaming for attention. It is the kind of piece that reads "clean accessory" to everyone else and "I'd run into the Soul Society" to the people who know.</p><p>Built around durable alloy hardware and secured metal collars, it stacks easily with watches and other bands, or stands alone as a quiet flex. A premium, affordable way to rep Ichigo's world every single day — fan-made, anime-inspired, and made to be worn hard.</p><ul><li><strong>Series:</strong> Bleach (anime-inspired fan design, not official or licensed)</li><li><strong>Type:</strong> Charm bracelet — braided cord with a metal feature crest</li><li><strong>Cord:</strong> Black braided cord, flexible and lightweight for all-day wear</li><li><strong>Charm &amp; hardware:</strong> Gold-tone alloy skull crest with red enamel accents and reinforced metal collars</li><li><strong>Style:</strong> Unisex; stacks well with watches or layered bands</li><li><strong>Wear:</strong> Everyday-friendly; keep away from water, sweat and perfume to protect the finish</li><li><strong>In the box:</strong> 1x Bleach braided crest bracelet</li><li><strong>Shipping:</strong> Ships from Nigeria — nationwide and worldwide</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Gold-tone Bleach-inspired skull crest with sharp red enamel accents
+  • Black braided cord that is light and comfortable for daily wear
+  • Durable alloy hardware with reinforced metal collars
+  • Unisex fit — stacks cleanly with watches and other bands
+  • Subtle fan flex that reads premium, not costume
+  • Affordable everyday way to rep the Soul Society
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (42 chars)        : Bleach Bracelet | Braided Cord Crest Charm
+Meta Description (150 chars) : Bleach-inspired braided cord bracelet with a gold-tone crest charm and red enamel accents. Unisex, durable, everyday flex. Ships from Nigeria. ₦4,000.
+Focus keyword                       : Bleach bracelet
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Black braided cord Bleach bracelet with a gold-tone skull crest charm and red enamel accents worn on a wrist
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a black braided cord bracelet with a brushed gold-tone Bleach-style skull crest charm and red enamel accents, laid on ink-black #111111 surface with paper-white #FAFAFA negative space; single manga-red #E2261C accent via subtle speed lines and ink splatter; halftone dot texture, manga panel framing, dramatic cinematic side lighting, sharp macro focus on the metal crest, premium high-contrast composition
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+  - QA fixes applied: Hallucinated specific: the charm is described as a 'flaming Hollow-style crest' / 'Hollow crest'. Hollows in Bleach are defined by bone-white masks, not a gold flaming crest, so this asserts an unverifiable design detail. Softened to a generic 'skull-style crest' which matches Bleach's skull iconography and stays true-to-type without inventing canon.
+================================================================================

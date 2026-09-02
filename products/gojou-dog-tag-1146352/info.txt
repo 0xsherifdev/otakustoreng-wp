@@ -1,0 +1,72 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Gojou Dog Tag
+SLUG         : gojou-dog-tag-1146352
+BUMPA ID     : 1146352
+WOO TYPE     : simple
+PARENT SKU   : OSN-1146352
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Gojou dog tag, Satoru Gojo necklace, Jujutsu Kaisen chain, JJK pendant, anime dog tag, anime necklace, Gojo merch, stainless steel anime chain
+FRANCHISE: Jujutsu Kaisen    CHARACTER: Satoru Gojo
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦6,000
+Total stock   : 995
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The Strongest, worn at the throat.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Carry the Honored One everywhere. This Satoru Gojo dog tag pairs a printed steel pendant with a box-link chain — bold Six Eyes artwork, tarnish-resistant finish, and an everyday-tough build for serious Jujutsu Kaisen fans.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some fits need a closer. The Gojou Dog Tag puts the Strongest sorcerer right at your chest — full-colour Satoru Gojo artwork with that signature white hair, Six Eyes glare and raised hand, framed by "STRONGEST" and "JUJUTSU SORCERER" side text and the bold 五条悟 kanji tab. It is loud in all the right ways and built to be worn, not shelved.</p><p>The pendant is cut from durable stainless-steel-style metal with a printed graphic and smooth edges, hung on a matching box-link chain that sits clean over a tee or under a hoodie. Anime-inspired fan design, not affiliated with or endorsed by the official rights holders.</p><ul><li>Character: Satoru Gojo from Jujutsu Kaisen</li><li>Style: military dog-tag pendant on a box-link chain</li><li>Material: durable stainless-steel-style metal, tarnish-resistant finish</li><li>Design: full-colour printed front graphic with kanji detailing</li><li>Fit: standard chain length, sits comfortably at the chest</li><li>Care: wipe clean with a soft, dry cloth; avoid harsh chemicals</li><li>Included: one Gojou pendant with matching chain</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Full-colour Satoru Gojo Six Eyes artwork on a bold dog-tag pendant
+  • Durable stainless-steel-style metal with a tarnish-resistant finish
+  • Comes on a matching box-link steel chain, ready to wear
+  • Smooth edges and a lightweight build for all-day comfort
+  • Layers easily over a tee or under a hoodie
+  • Fan-made Jujutsu Kaisen piece, not affiliated with the official rights holders
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (40 chars)        : Gojou Dog Tag | Satoru Gojo JJK Necklace
+Meta Description (149 chars) : Satoru Gojo dog tag necklace in tarnish-resistant steel-style metal with bold JJK artwork and a box-link chain. Anime-inspired fan piece, ships from.
+Focus keyword                       : Gojou dog tag
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Stainless-steel dog-tag pendant with full-colour Satoru Gojo artwork and SATORU GOJO text on a box-link chain
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a stainless-steel anime dog-tag pendant on a box-link chain, hung against an ink-black #111111 backdrop with paper-white #FAFAFA halftone dots and dynamic speed lines radiating outward; a single manga-red #E2261C ink splatter accent behind the tag; crisp cinematic rim light catching the polished metal and chain links, dramatic shadows, premium e-commerce composition, manga panel border framing, high detail, sharp focus on the pendant.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

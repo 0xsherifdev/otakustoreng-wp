@@ -1,0 +1,70 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Zoro Wallet
+SLUG         : zoro-wallet
+BUMPA ID     : 2789171
+WOO TYPE     : simple
+PARENT SKU   : OSN-2789171
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Wallets
+  - Shop by Anime > One Piece
+
+TAGS: Zoro wallet, One Piece wallet, Roronoa Zoro, anime wallet, PU leather wallet, card holder, One Piece merch, anime card wallet
+FRANCHISE: One Piece    CHARACTER: Roronoa Zoro
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦9,000
+Total stock   : 503
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Three-sword style. Everyday carry, sharpened.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Carry the Pirate Hunter everywhere. This slim Zoro wallet pairs bold One Piece-inspired artwork with durable PU leather, multiple card slots and a full note compartment for clean, low-bulk everyday carry.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some crew members fight with one blade. Zoro fights with three. The Zoro Wallet brings that same no-retreat energy to your pocket, fronted by bold One Piece-inspired artwork of the Pirate Hunter and built slim enough to disappear into your daily carry while still holding everything you need.</p><p>Crafted from durable PU leather with crisp printed graphics that resist everyday wear, it keeps your cards and cash organised without the bulk. Whether you're heading to class, the gym or a convention, this is fan gear that earns its place in your pocket. Fan-made and anime-inspired; not affiliated with or endorsed by the official rights holders.</p><ul><li>Material: durable PU leather with a smooth, easy-wipe finish</li><li>Design: bold Roronoa Zoro / One Piece-inspired printed artwork</li><li>Layout: multiple card slots plus a full-length note compartment</li><li>Profile: slim, low-bulk build for comfortable everyday carry</li><li>Use: ideal for cards, cash and small everyday essentials</li><li>Care: wipe clean with a soft, slightly damp cloth; avoid soaking</li><li>Includes: 1x Zoro anime-inspired wallet</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold Roronoa Zoro One Piece-inspired printed artwork
+  • Durable, easy-wipe PU leather construction
+  • Multiple card slots plus full-length note compartment
+  • Slim, low-bulk profile for everyday carry
+  • Fan-made gear, not affiliated with official rights holders
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (52 chars)        : Zoro Wallet | One Piece Anime PU Leather Card Wallet
+Meta Description (154 chars) : Slim Zoro wallet with bold One Piece-inspired art, PU leather, card slots and note compartment. Fan-made anime carry. Ships nationwide and worldwide from.
+Focus keyword                       : Zoro wallet
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Slim PU leather Zoro wallet with bold One Piece-inspired printed artwork of Roronoa Zoro
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga style studio product shot of a slim PU leather anime wallet featuring Roronoa Zoro from One Piece, three-sword silhouette. Ink black #111111 background, paper white #FAFAFA accents, single manga-red #E2261C accent on the swords. Halftone dot shading, dynamic speed lines radiating from the wallet, subtle ink splatter, manga panel framing. Wallet shown half-open revealing card slots and note compartment. Premium, cinematic, high-detail, sharp focus, dramatic rim lighting.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

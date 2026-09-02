@@ -1,0 +1,92 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Yingyang Ring
+SLUG         : yingyang-ring
+BUMPA ID     : 1202916
+WOO TYPE     : variable
+PARENT SKU   : OSN-1202916
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Couple Accessories
+  - Accessories > Rings
+
+TAGS: yingyang ring, couple rings, matching rings, his and hers rings, anime couple set, yin yang, anime rings, couple accessories
+FRANCHISE: Generic Anime    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,000
+Total stock   : 57
+VARIATIONS (attribute: Size)
+  6              | ₦4,000 | stock 9    | SKU OSN-1202916-6
+  7              | ₦4,000 | stock 10   | SKU OSN-1202916-7
+  8              | ₦4,000 | stock 9    | SKU OSN-1202916-8
+  9              | ₦4,000 | stock 10   | SKU OSN-1202916-9
+  10             | ₦4,000 | stock 9    | SKU OSN-1202916-10
+  11             | ₦4,000 | stock 10   | SKU OSN-1202916-11
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Two halves, one bond. Wear it together.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A matching his-and-hers ring set built on the yin-yang motif: one black half, one white half that complete each other. Anime-inspired everyday wear for couples, sized to fit you both, and made to be worn daily.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Balance, dialed in. The Yingyang Ring is a paired couple set inspired by the timeless yin-yang symbol — one ring carries the dark half, the other the light, so the two only feel complete side by side. It is a clean, anime-inspired piece that reads bold up close and subtle from across the room, the kind of everyday wear you reach for without thinking.</p>
+<p>Sold as a duo set, it makes an easy win for anniversaries, gifting, or just claiming your other half. Pick your sizes, slide them on, and let the roster speak for itself.</p>
+<ul>
+<li>His-and-hers couple set: two complementary yin-yang rings included</li>
+<li>Anime-inspired black-and-white design; bold up close, understated from afar</li>
+<li>Available sizes: 6, 7, 8, 9, 10, 11 (choose a size for each partner)</li>
+<li>Durable everyday metal finish, built for daily wear</li>
+<li>Unisex styling that suits any pairing</li>
+<li>Ships from Nigeria, nationwide and worldwide</li>
+<li>Fan / anime-inspired design; not affiliated with or endorsed by any studio</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Matching his-and-hers duo set — both rings included
+  • Yin-yang design: dark half and light half that complete each other
+  • Six sizes (6-11) so you each get a proper fit
+  • Durable everyday finish, built for daily wear
+  • Unisex styling for any couple
+  • Ships from Nigeria, nationwide and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (47 chars)        : Yingyang Couple Ring Set | Anime Matching Rings
+Meta Description (145 chars) : Yin-yang matching couple ring set — one black, one white. Anime-inspired his-and-hers rings in sizes 6-11. Ships from Nigeria, worldwide. ₦4,000.
+Focus keyword                       : yingyang couple ring
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+  05.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Matching yin-yang couple ring set, one black ring and one white ring, displayed side by side
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga style product shot of a matching yin-yang couple ring set, two rings side by side — one ink black #111111 half, one paper white #FAFAFA half forming the yin-yang motif. Manga-red #E2261C accent line splitting the composition, halftone dot shading, sharp speed lines radiating from the rings, ink splatter in the corners, framed inside a clean manga panel. Premium, cinematic studio lighting, high-contrast, glossy metal reflections, macro focus on the paired rings.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

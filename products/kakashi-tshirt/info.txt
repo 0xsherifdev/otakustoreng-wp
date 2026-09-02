@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Kakashi Tshirt
+SLUG         : kakashi-tshirt
+BUMPA ID     : 1507016
+WOO TYPE     : simple
+PARENT SKU   : OSN-1507016
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+  - Shop by Anime > Naruto
+
+TAGS: Kakashi t-shirt, Naruto t-shirt, Kakashi Hatake, anime t-shirt, Naruto merch, Copy Ninja, anime graphic tee, Hidden Leaf
+FRANCHISE: Naruto    CHARACTER: Kakashi Hatake
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦12,000
+Total stock   : 10
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Copy Ninja energy on premium cotton.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel the Copy Ninja with this Kakashi-inspired graphic tee. Soft, breathable cotton in a unisex regular fit, finished with a durable, fade-resistant print built to survive every mission and wash cycle.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some shinobi lead from the front, others read from behind a little orange book. The Kakashi Tee brings the Hidden Leaf's Copy Ninja to your everyday rotation with bold, anime-inspired artwork printed on soft, breathable cotton. Built for fans who know that staying calm under pressure is its own jutsu.</p><p>Cut in a clean unisex regular fit with a classic crew neck, this is the kind of tee you reach for on repeat. The print is sharp and fade-resistant, so the design stays crisp wash after wash. Wear the roster, on and off the battlefield.</p><ul><li>Material: soft, breathable 100% cotton</li><li>Fit: unisex regular fit, true to size</li><li>Neckline: classic ribbed crew neck</li><li>Print: bold Kakashi anime-inspired graphic, durable and fade-resistant</li><li>Colours available: white, black, blue, pink, purple</li><li>Care: machine wash cold, inside-out; do not bleach; hang or tumble dry low</li><li>Fan-made, anime-inspired design; not affiliated with or endorsed by the official rights holders</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Kakashi 'Copy Ninja' anime-inspired graphic for true Naruto fans
+  • Soft, breathable 100% cotton that wears easy all day
+  • Unisex regular fit with a classic crew neck
+  • Durable, fade-resistant print that survives every wash
+  • Choose from white, black, blue, pink or purple
+  • Easy care: machine wash cold, inside-out
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (51 chars)        : Kakashi T-Shirt | Naruto Anime Tee | Otaku Store NG
+Meta Description (154 chars) : Shop the Kakashi T-shirt, a Naruto-inspired cotton tee in a unisex fit. Bold fade-resistant print, 5 colours. Ships nationwide and worldwide from ₦12,000.
+Focus keyword                       : Kakashi t-shirt
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Kakashi Hatake Naruto-inspired graphic t-shirt in white, unisex regular fit crew neck cotton tee
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a folded crew-neck cotton t-shirt featuring a bold Kakashi Hatake anime-inspired graphic, ink black #111111 background with paper white #FAFAFA tee, single manga-red #E2261C accent on the print, halftone dot shading, dynamic speed lines and ink splatter framing a manga panel, dramatic cinematic side lighting, premium e-commerce presentation, high detail, sharp focus.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

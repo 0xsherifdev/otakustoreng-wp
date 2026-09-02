@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Akastuki tie
+SLUG         : akastuki-tie
+BUMPA ID     : 4435126
+WOO TYPE     : simple
+PARENT SKU   : OSN-4435126
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Ties
+  - Shop by Anime > Naruto
+
+TAGS: Akatsuki tie, Naruto tie, Akatsuki cloud necktie, anime necktie, Naruto merch, red cloud tie, anime tie, otaku formalwear
+FRANCHISE: Naruto    CHARACTER: Akatsuki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦9,500
+Total stock   : 496
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Red clouds. Sharp collar. Pure rogue energy.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Rep the rogue ninja organisation in formal mode. This black anime-inspired necktie scatters the iconic red Akatsuki clouds across a smooth woven finish, so you carry your Naruto loyalty straight into the office, the function, or the wedding.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some allegiances follow you everywhere. The Akatsuki Tie takes the most recognisable symbol in the Naruto world, the red cloud, and lays it across a deep ink-black necktie for a look that reads sharp from across the room and unmistakable up close. The pattern is bold without shouting, so it works just as well under a blazer as it does at a convention afterparty.</p><p>Cut to a standard adult length with a smooth woven finish and a clean, knot-friendly drape, it is the easy way to slip your favourite series into formalwear. Pair it with a crisp white shirt to let the clouds do the talking, or layer it under black for full rogue-nin energy. A fan-made, anime-inspired piece, not affiliated with or endorsed by the official rights holders.</p><ul><li>All-over red Akatsuki cloud print on a black ground</li><li>Smooth woven finish with a clean, knot-friendly drape</li><li>Standard adult necktie length</li><li>Pointed blade tip with a keeper loop on the back</li><li>Versatile width that suits most collar and lapel styles</li><li>Wipe clean or spot clean; hang to keep the drape crisp</li><li>Single design, one size; arrives ready to knot</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Iconic red Akatsuki cloud print, all over a deep black ground
+  • Smooth woven finish that knots clean and drapes sharp
+  • Standard adult length, versatile width for most collars
+  • Subtle enough for the office, bold enough for the function
+  • Fan-made anime-inspired design, not official merchandise
+  • Ships from Nigeria, nationwide and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (39 chars)        : Akatsuki Tie | Naruto Red Cloud Necktie
+Meta Description (145 chars) : Akatsuki cloud necktie inspired by Naruto. Black tie with all-over red clouds, smooth woven finish. Ships from Nigeria worldwide. Shop at ₦9,500.
+Focus keyword                       : Akatsuki tie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black anime-inspired necktie with an all-over print of red Akatsuki clouds from Naruto
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a black necktie patterned with bold red Akatsuki-style clouds, knotted neatly and draped over a paper-white surface. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent echoing the cloud print. Halftone dot shading, sharp speed lines radiating from the knot, a fine ink-splatter edge, framed inside a clean manga panel border. Premium, cinematic, high-contrast, crisp focus on the woven fabric texture. No text, no logos, no watermark.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

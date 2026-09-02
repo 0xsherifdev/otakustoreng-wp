@@ -1,0 +1,116 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Luffy 3d Phone  Case
+SLUG         : luffy-3d-phone-case
+BUMPA ID     : 1138568
+WOO TYPE     : variable
+PARENT SKU   : OSN-1138568
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Phone Cases
+  - Shop by Anime > One Piece
+
+TAGS: Luffy phone case, One Piece phone case, 3D iPhone case, Zoro phone case, MagSafe anime case, One Piece merch, anime iPhone case, Straw Hat Pirates
+FRANCHISE: One Piece    CHARACTER: Luffy
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦7,800
+Total stock   : 3000
+VARIATIONS (attribute: Style)
+  X/xs-Zoro      | ₦7,800 | stock 100  | SKU OSN-1138568-XXSZORO
+  X/xs-Luffy     | ₦7,800 | stock 100  | SKU OSN-1138568-XXSLUFFY
+  XR-Zoro        | ₦7,800 | stock 100  | SKU OSN-1138568-XRZORO
+  XR-Luffy       | ₦7,800 | stock 100  | SKU OSN-1138568-XRLUFFY
+  XSmax-Zoro     | ₦7,800 | stock 100  | SKU OSN-1138568-XSMAXZORO
+  XSmax-Luffy    | ₦7,800 | stock 100  | SKU OSN-1138568-XSMAXLUFFY
+  11-Zoro        | ₦7,800 | stock 100  | SKU OSN-1138568-11ZORO
+  11-Luffy       | ₦7,800 | stock 100  | SKU OSN-1138568-11LUFFY
+  11pro max-Zoro | ₦7,800 | stock 100  | SKU OSN-1138568-11PROMAXZORO
+  11pro max-Luffy | ₦7,800 | stock 100  | SKU OSN-1138568-11PROMAXLUFFY
+  12/12pro-Zoro  | ₦7,800 | stock 100  | SKU OSN-1138568-1212PROZORO
+  12/12pro-Luffy | ₦7,800 | stock 100  | SKU OSN-1138568-1212PROLUFFY
+  12promax-Zoro  | ₦7,800 | stock 100  | SKU OSN-1138568-12PROMAXZORO
+  12promax-Luffy | ₦7,800 | stock 100  | SKU OSN-1138568-12PROMAXLUFFY
+  13/14-Zoro     | ₦7,800 | stock 100  | SKU OSN-1138568-1314ZORO
+  13/14-Luffy    | ₦7,800 | stock 100  | SKU OSN-1138568-1314LUFFY
+  13pro-Zoro     | ₦7,800 | stock 100  | SKU OSN-1138568-13PROZORO
+  13pro-Luffy    | ₦7,800 | stock 100  | SKU OSN-1138568-13PROLUFFY
+  13promax-Zoro  | ₦7,800 | stock 100  | SKU OSN-1138568-13PROMAXZORO
+  13promax-Luffy | ₦7,800 | stock 100  | SKU OSN-1138568-13PROMAXLUFFY
+  14promax-Zoro  | ₦7,800 | stock 100  | SKU OSN-1138568-14PROMAXZORO
+  14promax-Luffy | ₦7,800 | stock 100  | SKU OSN-1138568-14PROMAXLUFFY
+  15-Zoro        | ₦7,800 | stock 100  | SKU OSN-1138568-15ZORO
+  15-Luffy       | ₦7,800 | stock 100  | SKU OSN-1138568-15LUFFY
+  15plus-Zoro    | ₦7,800 | stock 100  | SKU OSN-1138568-15PLUSZORO
+  15plus-Luffy   | ₦7,800 | stock 100  | SKU OSN-1138568-15PLUSLUFFY
+  15pro-Zoro     | ₦7,800 | stock 100  | SKU OSN-1138568-15PROZORO
+  15pro-Luffy    | ₦7,800 | stock 100  | SKU OSN-1138568-15PROLUFFY
+  15pro max-Zoro | ₦7,800 | stock 100  | SKU OSN-1138568-15PROMAXZORO
+  15pro max-Luffy | ₦7,800 | stock 100  | SKU OSN-1138568-15PROMAXLUFFY
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+3D motion artwork that shifts as you tilt it
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A One Piece 3D phone case with multi-layer laser artwork that shifts as you tilt it. Choose Luffy or Zoro, pick your iPhone model, and get a glossy shell with a tough black bumper, raised edges, and MagSafe-ready magnet ring.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Bring the Straw Hats to your pocket. This One Piece 3D phone case uses a multi-layer laser print that shifts and moves as you tilt the phone, giving Luffy's Gear flames and Zoro real depth instead of a flat sticker look. The glossy panel sits inside a tough black bumper with raised edges that guard the screen and camera against everyday knocks.</p>
+<p>Pick your fighter and your iPhone model at checkout. Built-in neodymium magnets line up with MagSafe chargers and accessories, so you keep your full setup while you wear the roster.</p>
+<ul>
+<li>Design: One Piece anime-inspired 3D motion artwork (changing visual angle as you tilt)</li>
+<li>Style options: Luffy or Zoro print</li>
+<li>Build: glossy printed back panel with a shock-absorbing black bumper frame</li>
+<li>Protection: raised lip around the screen and camera cutout</li>
+<li>Cutouts: precise access to ports, buttons, speakers and cameras</li>
+<li>MagSafe-ready: internal neodymium magnet ring for wireless charging and magnetic accessories</li>
+<li>Compatibility: iPhone only, X/XS through 15 Pro Max (select your exact model)</li>
+<li>Care: wipe clean with a soft, slightly damp cloth; avoid harsh solvents</li>
+<li>Note: fan-made, anime-inspired design; not affiliated with or endorsed by the rights holders</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • 3D motion print that shifts and shows depth as you tilt the phone
+  • Choose your fighter: Luffy or Zoro artwork
+  • MagSafe-ready with a built-in neodymium magnet ring
+  • Tough black bumper with raised screen and camera edges
+  • Fits iPhone X/XS through 15 Pro Max
+  • Precise cutouts for ports, buttons and cameras
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : Luffy 3D iPhone Case | One Piece MagSafe Case
+Meta Description (150 chars) : One Piece Luffy 3D iPhone case with shifting motion artwork, black bumper, raised edges and MagSafe magnets. Choose Luffy or Zoro. Ships from Nigeria.
+Focus keyword                       : Luffy 3D phone case
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: One Piece Luffy 3D iPhone case with shifting motion artwork and black bumper frame, shown with Zoro design option
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of an iPhone case standing upright on a slab, ink black #111111 background, paper white #FAFAFA floor highlight, single manga-red #E2261C accent. The glossy 3D case back shows a stylized Straw Hat pirate captain mid-motion with flame energy, rendered as if the print catches light at an angle. Halftone dot shading, sharp speed lines radiating from behind the case, a thin manga-red ink splatter in the corner, framed inside a clean manga panel border. Premium, cinematic, high-contrast, sharp focus on the case edge and camera cutout, subtle red rim light. No text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

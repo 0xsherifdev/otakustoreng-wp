@@ -1,0 +1,82 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Aot Cross Chain
+SLUG         : aot-cross-chain
+BUMPA ID     : 1507992
+WOO TYPE     : simple
+PARENT SKU   : OSN-1507992
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Attack on Titan
+
+TAGS: Attack on Titan, AOT necklace, Wings of Freedom, Survey Corps, anime cross chain, anime necklace, pendant chain, anime jewelry
+FRANCHISE: Attack on Titan    CHARACTER: Survey Corps (Wings of Freedom)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦6,000
+Total stock   : 495
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Wings of Freedom, worn on a cross.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Carry the Scout Regiment's vow everywhere. This Attack on Titan cross pendant fuses the blue-and-white Wings of Freedom emblem into polished stainless steel, strung on an adjustable ball chain. Tarnish-resistant, wipe-clean, built for daily wear.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Dedicate your heart. This anime-inspired cross necklace mounts the Survey Corps' iconic Wings of Freedom right at its heart, the blue-and-white enamel emblem set against bright, polished metal so every Attack on Titan fan knows exactly where your loyalty lies. The cross silhouette gives it real presence, equal parts streetwear edge and Scout Regiment honour.</p>
+<p>Built from durable, tarnish-resistant stainless-steel/alloy on an adjustable ball-and-bar chain, it sits clean over a tee or hoodie and survives the daily grind. Layer it, stack it, or let it stand alone, this is gear made to be worn, not stored.</p>
+<ul>
+<li>Theme: Attack on Titan Survey Corps "Wings of Freedom" cross pendant (fan-made, anime-inspired)</li>
+<li>Pendant: cross design with blue and white enamel wings emblem, polished silver-tone finish</li>
+<li>Material: durable stainless-steel / alloy that resists tarnish</li>
+<li>Chain: included ball-and-bar style necklace, adjustable/standard length, with lobster-style clasp</li>
+<li>Wear: unisex, lightweight, comfortable for everyday styling and layering</li>
+<li>Care: wipe clean with a soft, dry cloth; keep away from harsh chemicals and prolonged moisture</li>
+<li>In the box: 1 x cross pendant on chain</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Survey Corps Wings of Freedom emblem in crisp blue-and-white enamel
+  • Bold cross-shaped pendant with polished silver-tone finish
+  • Durable stainless-steel / alloy that resists tarnish
+  • Adjustable ball-and-bar chain with secure clasp
+  • Unisex, lightweight and built for everyday wear
+  • Wipe clean and go, low-maintenance fan gear
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (55 chars)        : Attack on Titan Cross Chain | Wings of Freedom Necklace
+Meta Description (150 chars) : Attack on Titan cross chain with the Survey Corps Wings of Freedom emblem. Tarnish-resistant steel pendant on an adjustable chain. Ships nationwide &.
+Focus keyword                       : Attack on Titan cross chain
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Attack on Titan cross pendant necklace with the blue-and-white Survey Corps Wings of Freedom emblem on a silver ball chain
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot: an Attack on Titan-inspired silver cross pendant necklace bearing a blue-and-white Wings of Freedom wings emblem, suspended on a steel ball-and-bar chain. Ink black #111111 background, paper white #FAFAFA negative space, a single manga-red #E2261C accent slashing through as a speed-line. Halftone dot texture, dramatic ink splatter, sharp manga panel framing, cinematic rim lighting catching the polished metal. Premium, high-contrast, no text.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

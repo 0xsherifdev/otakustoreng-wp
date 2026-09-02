@@ -1,0 +1,75 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Naruto , Pain N Sasuke Jeans Jacket
+SLUG         : naruto-pain-n-sasuke-jeans-jacket
+BUMPA ID     : 1124890
+WOO TYPE     : variable
+PARENT SKU   : OSN-1124890
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Shop by Anime > Naruto
+
+TAGS: Naruto, Naruto denim jacket, Pain jacket, Sasuke jacket, anime denim jacket, anime merch, shinobi streetwear, jeans jacket, Akatsuki
+FRANCHISE: Naruto    CHARACTER: Pain & Sasuke
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦27,500
+Total stock   : 500
+VARIATIONS (attribute: Size)
+  M              | ₦27,500 | stock 100  | SKU OSN-1124890-M
+  L              | ₦27,500 | stock 100  | SKU OSN-1124890-L
+  XL             | ₦27,500 | stock 100  | SKU OSN-1124890-XL
+  2XL            | ₦27,500 | stock 100  | SKU OSN-1124890-2XL
+  XXXL           | ₦27,500 | stock 100  | SKU OSN-1124890-XXXL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Shinobi denim with Pain and Sasuke on your back.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A heavyweight denim jacket built for Naruto fans, carrying Pain and Sasuke graphics across a rugged jeans-jacket silhouette. Layer-ready, everyday-tough, and made to turn heads at the meetup or on the street.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Wear the roster. This anime-inspired jeans jacket puts two of Naruto's heaviest hitters front and centre, with the Rinnegan menace of Pain and the cold fire of Sasuke worked into a rugged denim silhouette. Cut for layering over a tee or hoodie, it brings that shinobi-arc energy to your everyday fit without ever feeling like a costume.</p><p>Built from a cotton-and-polyester denim blend for structure and durability, it holds its shape through long days and longer nights. Premium, confident, and unmistakably otaku from the streets to the next convention floor.</p><ul><li>Anime-inspired Naruto denim jacket featuring Pain and Sasuke artwork (fan design, not affiliated or official)</li><li>Cotton and polyester denim blend for structure, warmth and everyday durability</li><li>Classic jeans-jacket cut with button-up front, ideal for layering</li><li>Bold front and back graphic placement</li><li>Available in sizes M, L, XL, 2XL and XXXL</li><li>Unisex styling that works over tees, hoodies and longsleeves</li><li>Wash cool and inside out to keep the print sharp</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Pain and Sasuke graphics on rugged Naruto-inspired denim
+  • Cotton/polyester denim blend built to last
+  • Classic button-up jeans-jacket cut, made for layering
+  • Sizes M through XXXL for an inclusive fit
+  • Unisex styling for streetwear and convention days
+  • Fan design, anime-inspired - not affiliated or official
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (50 chars)        : Naruto Pain & Sasuke Denim Jacket | Otaku Store NG
+Meta Description (147 chars) : Anime-inspired Naruto denim jacket with Pain & Sasuke graphics. Cotton-poly blend, classic jeans-jacket cut, sizes M-XXXL. Ships from Nigeria in ₦.
+Focus keyword                       : Naruto denim jacket
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Naruto-inspired denim jeans jacket featuring Pain and Sasuke graphic artwork
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga style studio product shot of a denim jeans jacket displayed on an invisible mannequin, Naruto-inspired Pain and Sasuke ink artwork across the back panel. Ink black #111111 background, paper white #FAFAFA lighting, single manga-red #E2261C accent on a panel border. Halftone dot shading, dramatic speed lines radiating outward, subtle ink splatter, framed inside a clean manga panel. Premium, cinematic, high-contrast product photography.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

@@ -1,0 +1,79 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Luffy Hoodie
+SLUG         : luffy-hoodie
+BUMPA ID     : 2963844
+WOO TYPE     : variable
+PARENT SKU   : OSN-2963844
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+  - Shop by Anime > One Piece
+
+TAGS: Luffy hoodie, One Piece hoodie, Monkey D. Luffy, anime hoodie, Wanted poster hoodie, Straw Hat Pirates, anime streetwear, pullover hoodie, One Piece merch
+FRANCHISE: One Piece    CHARACTER: Monkey D. Luffy
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦18,500
+Total stock   : 800
+VARIATIONS (attribute: Size & Material)
+  L-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2963844-LTHICKCOTTON
+  L-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2963844-LTHICKPOLYESTER
+  Xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2963844-XLTHICKCOTTON
+  Xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2963844-XLTHICKPOLYESTER
+  2xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2963844-2XLTHICKCOTTON
+  2xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2963844-2XLTHICKPOLYESTER
+  3xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2963844-3XLTHICKCOTTON
+  3xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2963844-3XLTHICKPOLYESTER
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Wanted: 1.5 billion berries of pure pullover heat
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Rep the Straw Hat captain in a black pullover hoodie stamped with Luffy's WANTED bounty poster and kanji sleeve detailing. Brushed-fleece warmth, kangaroo pocket and a unisex streetwear fit built for everyday wear.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>The bounty just went up. This Luffy Hoodie puts the Straw Hat captain's "WANTED: DEAD OR ALIVE — Monkey D. Luffy" poster front and centre, with bold vertical kanji running down both sleeves for that head-turning One Piece-inspired streetwear look. Crisp monochrome print on deep ink black means it pairs with everything in your rotation.</p><p>Built for comfort as much as flex: a brushed-fleece interior keeps you warm on cooler days, while the unisex cut layers easily over a tee or under a jacket. Choose your size and pick your fabric feel — thick cotton for that soft, breathable handle or thick polyester for a smoother, hard-wearing finish.</p><ul><li>Pullover hoodie with front kangaroo pocket and adjustable drawstring hood</li><li>Front WANTED bounty-poster graphic plus printed kanji sleeve detailing</li><li>Brushed-fleece interior for everyday warmth</li><li>Ribbed cuffs and hem hold their shape</li><li>Fabric choice at checkout: Thick Cotton or Thick Polyester</li><li>Sizes: L, XL, 2XL, 3XL — unisex streetwear fit</li><li>Machine wash cold, inside-out; do not bleach; hang or low tumble dry</li><li>Fan-made, anime-inspired design — not official or affiliated with the franchise</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Luffy WANTED bounty-poster graphic on the chest
+  • Printed kanji detailing down both sleeves
+  • Brushed-fleece interior for cosy everyday warmth
+  • Pick your feel: Thick Cotton or Thick Polyester
+  • Kangaroo pocket, ribbed cuffs and hem
+  • Unisex streetwear fit, sizes L to 3XL
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (47 chars)        : Luffy Hoodie | One Piece Wanted Pullover Hoodie
+Meta Description (150 chars) : Shop the Luffy Hoodie — black One Piece-inspired pullover with Wanted poster print and kanji sleeves. Thick cotton or polyester, sizes L-3XL. ₦18,500.
+Focus keyword                       : Luffy hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black Luffy pullover hoodie with Monkey D. Luffy WANTED bounty poster printed on the chest and Japanese kanji down the sleeves
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a black pullover hoodie featuring a monochrome "WANTED DEAD OR ALIVE" bounty poster of a grinning Monkey D. Luffy on the chest and vertical kanji down the sleeves. Ink black #111111 background, paper white #FAFAFA halftone dot texture, single manga-red #E2261C accent ribbon and speed lines slicing across the panel, subtle ink splatter in the corners, framed inside a bold manga panel border. Premium, cinematic streetwear lighting, crisp fabric detail, high contrast.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

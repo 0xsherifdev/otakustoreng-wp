@@ -1,0 +1,76 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Ds Crocs  Charm
+SLUG         : ds-crocs-charm
+BUMPA ID     : 1739295
+WOO TYPE     : variable
+PARENT SKU   : OSN-1739295
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Shop by Anime > Demon Slayer
+
+TAGS: Demon Slayer, Demon Slayer Crocs charm, Kimetsu no Yaiba, anime shoe charm, Tanjiro charm, Nezuko, Jibbitz, anime accessories, PVC charm, Crocs charm
+FRANCHISE: Demon Slayer    CHARACTER: Tanjiro Kamado
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦1,500
+Total stock   : 13
+VARIATIONS (attribute: Style)
+  1              | ₦2,000 | stock 4    | SKU OSN-1739295-1
+  2              | ₦4,000 | stock 5    | SKU OSN-1739295-2
+  3              | ₦1,500 | stock 4    | SKU OSN-1739295-3
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Clip your favourite Hashira to your Crocs
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Demon Slayer-inspired PVC shoe charm built for Crocs and any slip-on with charm holes. Tanjiro, Nezuko, Zenitsu, Inosuke, Giyu and more in chibi form. Pick your style, clip in, rep the roster everywhere you walk.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Rep the Demon Slayer Corps from the ground up. This anime-inspired PVC shoe charm snaps straight into the holes on your Crocs (or any compatible slip-on) so your favourite slayer rides with you all day. Choose from chibi-style designs spanning the core cast: Tanjiro, Nezuko, Zenitsu, Inosuke, Giyu Tomioka and Rengoku.</p><p>Soft, flexible and built for everyday wear, each charm pops with bold colour and clean detail. Mix and match a few, build a full crew across your shoe, and switch them up whenever the mood hits. An easy, affordable way to put your fandom on display.</p><ul><li>Material: soft, flexible PVC/rubber</li><li>Type: clip-in shoe charm (Jibbitz-style button back)</li><li>Compatibility: fits Crocs and most slip-ons with charm holes</li><li>Designs: Demon Slayer chibi cast - Tanjiro, Nezuko, Zenitsu, Inosuke, Giyu, Rengoku and more</li><li>Style options: 1, 2, 3 - pick your character at checkout</li><li>Sold per piece</li><li>Care: wipe clean with a damp cloth</li><li>Fan / anime-inspired design - not affiliated with or endorsed by the rights holders</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Demon Slayer chibi cast: Tanjiro, Nezuko, Zenitsu, Inosuke, Giyu and Rengoku
+  • Soft, flexible PVC built to take everyday wear
+  • Clip-in button back fits Crocs and most slip-ons with charm holes
+  • Pick your character with style options 1, 2 or 3
+  • Sold per piece - stack a full crew across your shoe
+  • Easy wipe-clean care, ready for daily rotation
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (58 chars)        : Demon Slayer Crocs Charm - Tanjiro & Cast | Otaku Store NG
+Meta Description (147 chars) : Demon Slayer-inspired PVC Crocs charm. Tanjiro, Nezuko, Zenitsu, Inosuke, Giyu and more chibi designs. Fits most slip-ons. ₦1,500 per piece. Ships.
+Focus keyword                       : Demon Slayer Crocs charm
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Demon Slayer chibi PVC shoe charms - Nezuko, Tanjiro, Zenitsu and Inosuke - clipped into a pink Crocs clog
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a single Demon Slayer-inspired chibi PVC Crocs shoe charm clipped into a clean slip-on shoe. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent on a katana slash behind the charm. Halftone dot shading, dynamic speed lines radiating from the charm, subtle ink splatter framing the corners, divided manga panel composition. Premium, cinematic macro lighting, crisp detail on the rubber charm, shallow depth of field.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

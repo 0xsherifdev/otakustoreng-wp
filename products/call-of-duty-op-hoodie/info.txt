@@ -1,0 +1,94 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Call Of Duty Op Hoodie
+SLUG         : call-of-duty-op-hoodie
+BUMPA ID     : 1125310
+WOO TYPE     : variable
+PARENT SKU   : OSN-1125310
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+
+TAGS: Call of Duty hoodie, Call of Duty merch, gaming hoodie, operator hoodie, anime gaming hoodie, graphic pullover hoodie, streetwear hoodie, fan hoodie
+FRANCHISE: Call of Duty    CHARACTER: Operator
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦26,500
+Total stock   : 500
+VARIATIONS (attribute: Size)
+  M              | ₦26,500 | stock 100  | SKU OSN-1125310-M
+  L              | ₦26,500 | stock 100  | SKU OSN-1125310-L
+  XL             | ₦26,500 | stock 100  | SKU OSN-1125310-XL
+  2XL            | ₦26,500 | stock 100  | SKU OSN-1125310-2XL
+  XXXL           | ₦26,500 | stock 100  | SKU OSN-1125310-XXXL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Drop in. Suit up. Wear the operator.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Tactical-inspired pullover hoodie built for fans of the shooter grind. Thick brushed-fleece interior, ribbed cuffs and hem, kangaroo pocket, and a bold all-over operator graphic in a relaxed unisex streetwear fit.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Lock in and rep the squad with the Call Of Duty Op Hoodie, a fan-made tribute to the operators who run the lobby. The bold graphic and tactical-grade attitude land hard whether you're queuing for ranked or hitting the street, while the thick brushed-fleece interior keeps you warm through late-night sessions.</p>
+<p>Cut in a relaxed unisex streetwear fit, this pullover is built for comfort first: roomy through the body, ribbed at the cuffs and hem to hold its shape, and finished with a roomy front pocket for your essentials. Anime-inspired gaming gear for true fans, not affiliated with or endorsed by the rights holders.</p>
+<ul>
+<li>Pullover hoodie with bold all-over operator-inspired graphic</li>
+<li>Thick cotton fabric with a soft brushed-fleece interior for warmth</li>
+<li>Ribbed cuffs and hem hold their shape wash after wash</li>
+<li>Roomy kangaroo front pocket plus an adjustable drawstring hood</li>
+<li>Relaxed unisex streetwear fit</li>
+<li>Available sizes: M, L, XL, 2XL, XXXL</li>
+<li>Choose your preferred print slide at checkout (e.g. Slide 1)</li>
+<li>Machine wash cold, inside-out; hang or line dry to protect the print</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Thick cotton with brushed-fleece interior for serious warmth
+  • Bold all-over operator-inspired graphic
+  • Ribbed cuffs and hem keep their shape
+  • Roomy kangaroo pocket and adjustable drawstring hood
+  • Relaxed unisex streetwear fit, M to XXXL
+  • Pick your print slide at checkout
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (42 chars)        : Call Of Duty Op Hoodie | Operator Pullover
+Meta Description (154 chars) : Call Of Duty Op Hoodie in thick brushed-fleece cotton. Bold operator graphic, ribbed cuffs, kangaroo pocket, unisex fit. Sizes M-XXXL. Ships from Nigeria.
+Focus keyword                       : Call of Duty hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+  05.jpg  (gallery)
+  06.jpg  (gallery)
+  07.jpg  (gallery)
+  08.jpg  (gallery)
+  09.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Call Of Duty Op Hoodie, a black pullover hoodie with a bold operator-inspired graphic, kangaroo pocket and drawstring hood
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product studio shot of a black pullover hoodie featuring a bold Call of Duty operator-inspired graphic. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent. Halftone dot texture, dynamic speed lines and ink splatter framing the garment inside crisp manga panels. Cinematic dramatic lighting, premium streetwear catalog aesthetic, tactical operator silhouette motif, sharp focus on ribbed cuffs and kangaroo pocket.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

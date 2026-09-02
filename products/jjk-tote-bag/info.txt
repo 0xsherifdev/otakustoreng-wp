@@ -1,0 +1,80 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Jjk Tote Bag
+SLUG         : jjk-tote-bag
+BUMPA ID     : 2221811
+WOO TYPE     : simple
+PARENT SKU   : OSN-2221811
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Tote Bags
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: JJK tote bag, Jujutsu Kaisen tote bag, anime tote bag, canvas tote bag, Jujutsu Kaisen merch, anime canvas bag, con haul bag, JJK merch
+FRANCHISE: Jujutsu Kaisen    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦7,000
+Total stock   : 8
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the curse. Canvas built for daily hauls.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A sturdy canvas tote inspired by Jujutsu Kaisen, with crisp printed artwork and reinforced handles. Roomy enough for books, groceries or your next con haul, and built to take the weight of everyday carry.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some bags hold your stuff. This one holds the whole sorcery vibe. The JJK Tote Bag pairs bold Jujutsu Kaisen-inspired artwork with heavyweight canvas, so it looks sharp on campus, on the commute and at the convention floor. The print stays crisp, the build stays solid, and your daily carry finally matches the rest of your roster.</p>
+<p>Roomy main compartment swallows books, snacks, gym kit or a full con haul, while reinforced handles keep their shape under real weight. A clean, durable everyday tote for fans who want their gear to do the talking.</p>
+<ul>
+<li>Material: sturdy woven canvas with reinforced stitched handles</li>
+<li>Design: printed Jujutsu Kaisen-inspired character artwork</li>
+<li>Capacity: roomy main compartment for books, groceries and con hauls</li>
+<li>Carry: shoulder or hand-carry handles built to hold their shape</li>
+<li>Use: everyday carry, campus, shopping, travel and conventions</li>
+<li>Care: spot clean or gentle hand wash; air dry to protect the print</li>
+<li>Style: single design, one size; fan-made and anime-inspired, not affiliated with the official franchise</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Heavyweight canvas with reinforced, shape-holding handles
+  • Bold printed Jujutsu Kaisen-inspired artwork that stays crisp
+  • Roomy enough for books, groceries or a full con haul
+  • Everyday carry that works on campus, commute and conventions
+  • Fan-made and anime-inspired, not officially affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (41 chars)        : JJK Tote Bag | Jujutsu Kaisen Canvas Tote
+Meta Description (155 chars) : Sturdy canvas JJK tote bag with bold Jujutsu Kaisen-inspired print and reinforced handles. Roomy everyday carry for books, groceries and con hauls. ₦7,000.
+Focus keyword                       : JJK tote bag
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: JJK canvas tote bag with printed Jujutsu Kaisen-inspired artwork and reinforced handles
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a canvas tote bag, ink black #111111 background with paper white #FAFAFA negative space and a single manga-red #E2261C accent. The tote stands upright, reinforced handles raised, displaying bold Jujutsu Kaisen-inspired character artwork in halftone-dot shading. Dynamic speed lines radiate behind the bag, ink splatter at the base, framed inside a single clean manga panel border. Premium, cinematic lighting, sharp focus, high contrast monochrome with one red accent.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

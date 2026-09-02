@@ -1,0 +1,87 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Itachi N Tshirt
+SLUG         : itachi-n-tshirt
+BUMPA ID     : 2135471
+WOO TYPE     : variable
+PARENT SKU   : OSN-2135471
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+  - Shop by Anime > Naruto
+
+TAGS: Itachi Uchiha t-shirt, Naruto t-shirt, Akatsuki shirt, Sharingan tee, anime t-shirt, manga panel tee, Uchiha clan, unisex anime shirt
+FRANCHISE: Naruto    CHARACTER: Itachi Uchiha
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦12,000
+Total stock   : 48
+VARIATIONS (attribute: Size)
+  M              | ₦12,000 | stock 10   | SKU OSN-2135471-M
+  L              | ₦12,000 | stock 10   | SKU OSN-2135471-L
+  XL             | ₦12,000 | stock 8    | SKU OSN-2135471-XL
+  2XL            | ₦12,000 | stock 10   | SKU OSN-2135471-2XL
+  3XL            | ₦12,000 | stock 10   | SKU OSN-2135471-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The clan's shadow, printed in ink-black manga panels.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Black crew-neck tee with a bold monochrome manga-panel print of Itachi Uchiha, a close-up Sharingan and the Akatsuki cloud. Soft cotton, unisex relaxed fit, fade-resistant graphic. Built for fans who run the whole roster.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some shinobi shout. Itachi never had to. This anime-inspired tee channels that quiet menace with a high-contrast, black-and-white manga-panel layout printed across the chest, framing Itachi Uchiha alongside a piercing close-up Sharingan and the unmistakable Akatsuki cloud, finished with crisp Japanese katakana down the side panel.</p>
+<p>Cut for everyday wear and statement layering, it lands in a soft, breathable cotton with a unisex relaxed fit and a clean crew neck. The durable graphic is built to hold its detail and resist fading, so the print stays as sharp as a fresh kunai wash after wash. A fan tribute for Naruto devotees, not an official or affiliated product.</p>
+<ul>
+<li>Character: Itachi Uchiha (Naruto / Akatsuki) anime-inspired fan design</li>
+<li>Front print: monochrome manga-panel graphic with Sharingan close-up, Akatsuki cloud and katakana detail</li>
+<li>Material: soft, breathable cotton (cotton-blend may vary by batch)</li>
+<li>Fit: unisex, regular-to-relaxed fit with classic crew neck</li>
+<li>Print: durable, fade-resistant graphic that keeps its contrast</li>
+<li>Available sizes: M, L, XL, 2XL, 3XL</li>
+<li>Care: machine wash cold, inside-out; do not iron directly on the print</li>
+<li>Ships from Nigeria, nationwide and worldwide</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold black-and-white manga-panel print of Itachi Uchiha
+  • Features a close-up Sharingan and the Akatsuki cloud
+  • Soft, breathable cotton with a unisex relaxed fit
+  • Durable, fade-resistant graphic that holds its detail
+  • Crew neck; sizes M through 3XL
+  • Anime-inspired fan tribute, ships nationwide and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (46 chars)        : Itachi Uchiha Naruto T-Shirt | Manga Panel Tee
+Meta Description (146 chars) : Itachi Uchiha Naruto t-shirt with a monochrome manga-panel Sharingan and Akatsuki print. Soft cotton, unisex fit, sizes M-3XL. Ships from Nigeria.
+Focus keyword                       : Itachi Uchiha t-shirt
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black Itachi Uchiha Naruto t-shirt with a monochrome manga-panel print of Itachi, a close-up Sharingan eye and the Akatsuki cloud
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a folded black crew-neck anime t-shirt featuring a high-contrast black-and-white manga-panel print of Itachi Uchiha, a close-up Sharingan eye and an Akatsuki cloud. Ink black #111111 background, paper white #FAFAFA garment fabric, a single manga-red #E2261C accent slash. Halftone dot shading, sharp speed lines and ink splatter framing the tee in clean manga panels. Premium, cinematic lighting, crisp focus on fabric texture and print detail, no text, no logo.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

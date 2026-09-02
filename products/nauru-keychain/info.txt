@@ -1,0 +1,84 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Nauru keychain
+SLUG         : nauru-keychain
+BUMPA ID     : 1734024
+WOO TYPE     : variable
+PARENT SKU   : OSN-1734024
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Shop by Anime > Naruto
+
+TAGS: Naruto keychain, anime keychain, Naruto charm, Sasuke keychain, Kakashi keychain, Gaara keychain, acrylic keychain, anime accessories
+FRANCHISE: Naruto    CHARACTER: Naruto Uzumaki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦3,000
+Total stock   : 37
+VARIATIONS (attribute: Style)
+  Sasuke         | ₦3,000 | stock 7    | SKU OSN-1734024-SASUKE
+  Naruto         | ₦3,000 | stock 10   | SKU OSN-1734024-NARUTO
+  Gaara          | ₦3,000 | stock 10   | SKU OSN-1734024-GAARA
+  Kakashi        | ₦3,000 | stock 10   | SKU OSN-1734024-KAKASHI
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Clip your favourite shinobi to any bag or key ring.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Rep the Hidden Leaf with a clear acrylic charm keychain featuring crisp chibi art of your chosen shinobi. Pick Sasuke, Naruto, Gaara or Kakashi, then clip it to your bag, keys or zipper. Lightweight, durable and ready to carry every day.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Carry the Hidden Leaf with you everywhere. This Naruto-inspired keychain is a die-cut clear acrylic charm printed with sharp, full-colour chibi artwork of your favourite shinobi, finished with a silver-tone lobster-claw clasp and swivel ring so it clips fast to bags, keys, belt loops and zipper pulls.</p>
+<p>Choose your fighter from the squad: pick Sasuke, Naruto, Gaara or Kakashi and rep the character that hits hardest for you. Slim, lightweight and tough enough for daily carry, it is an easy way for any fan to show their colours, gift a fellow Naruto head, or stack the whole roster.</p>
+<ul>
+<li>Style options: Sasuke, Naruto, Gaara or Kakashi (sold individually)</li>
+<li>Material: transparent acrylic charm with printed double-sided-style chibi artwork</li>
+<li>Hardware: silver-tone metal lobster-claw clasp with swivel ring</li>
+<li>Form: slim, lightweight die-cut charm for everyday carry</li>
+<li>Attaches to: backpacks, handbags, key rings, belt loops, zipper pulls</li>
+<li>Great as a gift or for collecting the full set</li>
+<li>Fan-made, anime-inspired design; not affiliated with or endorsed by the rights holders</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Clear acrylic charm with crisp full-colour chibi art
+  • Four shinobi to choose from: Sasuke, Naruto, Gaara, Kakashi
+  • Silver-tone lobster-claw clasp clips on in seconds
+  • Slim and lightweight for true everyday carry
+  • Perfect gift or collect the whole roster
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (54 chars)        : Naruto Acrylic Keychain | Sasuke, Gaara, Kakashi Charm
+Meta Description (153 chars) : Naruto-inspired acrylic keychain charm with chibi art. Pick Sasuke, Naruto, Gaara or Kakashi. Metal clasp, everyday carry. Ships from Nigeria for ₦3,000.
+Focus keyword                       : Naruto keychain
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Four clear acrylic Naruto chibi keychain charms of Gaara, Kakashi, Naruto and Sasuke with silver lobster-claw clasps
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a single clear acrylic die-cut anime chibi keychain charm hanging from a silver lobster-claw clasp, framed in a bold manga panel. Ink black #111111 background, paper white #FAFAFA negative space, one manga-red #E2261C accent on dynamic speed lines and ink splatter, halftone dot shading, dramatic rim light catching the glossy acrylic and chrome clasp. Premium, cinematic, high detail, no text.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

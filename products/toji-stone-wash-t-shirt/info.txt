@@ -1,0 +1,86 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Toji stone wash T-shirt
+SLUG         : toji-stone-wash-t-shirt
+BUMPA ID     : 3167899
+WOO TYPE     : variable
+PARENT SKU   : OSN-3167899
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Toji Fushiguro, Jujutsu Kaisen, anime t-shirt, stone wash tee, JJK merch, Sorcerer Killer, vintage anime shirt, unisex anime tee
+FRANCHISE: Jujutsu Kaisen    CHARACTER: Toji Fushiguro
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦24,000
+Total stock   : 73
+VARIATIONS (attribute: Size)
+  L              | ₦24,000 | stock 14   | SKU OSN-3167899-L
+  XL             | ₦24,000 | stock 20   | SKU OSN-3167899-XL
+  2XL            | ₦24,000 | stock 19   | SKU OSN-3167899-2XL
+  3XL            | ₦24,000 | stock 20   | SKU OSN-3167899-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Sorcerer Killer energy in vintage stone-wash ink.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A faded stone-wash tee built around Toji Fushiguro, the Sorcerer Killer. Soft cotton, unisex regular fit, and a durable fade-resistant print with a worn-in vintage finish that only gets cooler with every wear.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the Sorcerer Killer himself. This Toji Fushiguro stone-wash tee turns Jujutsu Kaisen's most lethal non-sorcerer into a wearable statement, with a vintage acid-faded body that looks like it has already survived a few cursed battles. The graphic sits clean against the worn-in finish, giving you that lived-in, premium streetwear look fans actually want.</p>
+<p>Cut as a unisex regular fit with a classic crew neck, it layers easily and wears soft from day one. This is a fan-made, anime-inspired design and is not official or affiliated with any rights holder.</p>
+<ul>
+<li>Toji Fushiguro / Jujutsu Kaisen anime-inspired graphic</li>
+<li>Stone-wash / acid-wash body with a vintage faded finish</li>
+<li>Soft cotton, breathable everyday feel</li>
+<li>Unisex regular fit with a classic crew neck</li>
+<li>Durable, fade-resistant print</li>
+<li>Available in L, XL, 2XL and 3XL</li>
+<li>Machine wash cold, inside-out; do not tumble dry hot</li>
+<li>Fan / anime-inspired design, not official or licensed</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Toji Fushiguro Jujutsu Kaisen anime-inspired tee
+  • Vintage stone-wash / acid-wash faded finish
+  • Soft cotton with a durable fade-resistant print
+  • Unisex regular fit, classic crew neck
+  • Sizes L to 3XL
+  • Machine wash cold inside-out for lasting wear
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (44 chars)        : Toji Stone Wash T-Shirt | Jujutsu Kaisen Tee
+Meta Description (154 chars) : Toji Fushiguro stone-wash T-shirt with a vintage faded finish. Soft cotton, unisex fit, fade-resistant print. Sizes L-3XL. Ships nationwide and worldwide.
+Focus keyword                       : Toji stone wash T-shirt
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Toji Fushiguro stone-wash T-shirt from Jujutsu Kaisen with a vintage faded finish and crew neck
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a folded stone-wash anime T-shirt featuring a Toji Fushiguro-inspired graphic. Ink black #111111 background, paper white #FAFAFA fabric highlights, single manga-red #E2261C accent. Halftone dot texture, sharp speed lines radiating behind the shirt, subtle ink-splatter. Tee laid on a clean manga panel layout, vintage acid-washed fabric texture visible, cinematic top-down lighting, premium e-commerce composition, no text, no logo.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

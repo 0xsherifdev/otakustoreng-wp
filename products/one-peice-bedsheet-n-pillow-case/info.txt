@@ -1,0 +1,90 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : One Peice Bedsheet N Pillow Case
+SLUG         : one-peice-bedsheet-n-pillow-case
+BUMPA ID     : 1141349
+WOO TYPE     : variable
+PARENT SKU   : OSN-1141349
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Home & Decor > Room Decor
+  - Shop by Anime > One Piece
+
+TAGS: One Piece bedding, Luffy duvet cover, anime bedsheet, Straw Hat crew, One Piece room decor, anime pillowcase, otaku bedroom, One Piece merch
+FRANCHISE: One Piece    CHARACTER: Monkey D. Luffy
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦35,000
+Total stock   : 500
+VARIATIONS (attribute: Style)
+  1              | ₦35,000 | stock 100  | SKU OSN-1141349-1
+  2              | ₦35,000 | stock 100  | SKU OSN-1141349-2
+  3              | ₦35,000 | stock 100  | SKU OSN-1141349-3
+  4              | ₦35,000 | stock 100  | SKU OSN-1141349-4
+  5              | ₦35,000 | stock 100  | SKU OSN-1141349-5
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Sail the Grand Line in your sleep
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Turn your room into Straw Hat HQ with this One Piece duvet cover and matching pillowcase set. Vivid all-over Luffy and crew prints across five bold designs, soft to sleep on and built to anchor any otaku bedroom.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Dock your room at the Grand Line. This One Piece bedding set wraps your bed in vivid, all-over manga art, from a fired-up Monkey D. Luffy clutching his straw hat to the full Straw Hat crew posing across a skull-jolly-roger backdrop. Each of the five styles brings its own energy, from full-colour battle scenes to clean black-and-white line art, so you can match the mood of your space.</p>
+<p>The duvet cover and pillowcase prints are crisp and saturated, with a soft, sleep-friendly hand feel and a reversible plain backing on select designs. It is the easiest way to take a bedroom from generic to full-on otaku command centre. Fan-made, anime-inspired design, not affiliated with or endorsed by the official rights holders.</p>
+<ul>
+<li><strong>Includes:</strong> 1 duvet cover and matching pillowcase(s) (no filler or duvet insert included)</li>
+<li><strong>Designs:</strong> 5 styles to choose, from full-colour Luffy and crew to minimalist line-art portraits</li>
+<li><strong>Print:</strong> vivid all-over manga graphics on both the cover and pillowcases</li>
+<li><strong>Bed size:</strong> made to order, indicate your bed size at checkout</li>
+<li><strong>Feel:</strong> soft, breathable fabric with a smooth finish</li>
+<li><strong>Care:</strong> machine wash cold, inside out, tumble dry low, do not bleach</li>
+<li><strong>Best for:</strong> One Piece fans, anime bedrooms, gifting</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Five bold One Piece designs featuring Luffy and the Straw Hat crew
+  • Vivid all-over manga print on duvet cover plus matching pillowcases
+  • Made to order, choose your bed size at checkout
+  • Soft, breathable, sleep-friendly fabric
+  • Transforms any room into an otaku command centre
+  • Fan-inspired design, not official or affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (52 chars)        : One Piece Bedsheet & Pillowcase Set | Otaku Store NG
+Meta Description (147 chars) : One Piece duvet cover and pillowcase set with vivid Luffy and Straw Hat crew prints in 5 styles. Choose your bed size. Ships from Nigeria, ₦35,000.
+Focus keyword                       : One Piece bedsheet set
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+  05.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: One Piece duvet cover and pillowcase set featuring Monkey D. Luffy with his straw hat in vivid colour
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga style studio shot of a folded anime bedding set on a bed, ink black #111111 backdrop with paper white #FAFAFA sheets, single manga-red #E2261C accent on a straw-hat pirate motif; halftone dot shading, dynamic speed lines radiating from the duvet, subtle ink splatter framing the composition, manga panel border; premium cinematic product lighting, crisp folds, shallow depth of field.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

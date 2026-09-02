@@ -1,0 +1,83 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Blue Lock Chains 02
+SLUG         : blue-lock-chains-02
+BUMPA ID     : 1134691
+WOO TYPE     : simple
+PARENT SKU   : OSN-1134691
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Blue Lock
+
+TAGS: Blue Lock, Blue Lock chain, anime necklace, pentagon pendant, stainless steel chain, anime accessories, anime jewelry, Blue Lock merch
+FRANCHISE: Blue Lock    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,500
+Total stock   : 1000
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Pentagon emblem pendant for the ego on the pitch.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A Blue Lock-inspired pentagon emblem pendant in polished steel-tone metal, hung on a clean box chain. Lightweight, tarnish-resistant, and built for everyday wear, training days, or matchday flexing. Stack it or rock it solo.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the ego. This Blue Lock-inspired chain frames the fragmented pentagon emblem in crisp, polished metal, the kind of striker energy you wear without saying a word. The cut-out geometry catches light from every angle, while the box-link chain keeps the whole piece sleek and street-ready.</p>
+<p>Built for daily wear and lightweight enough to forget you've got it on, it pairs just as well over a hoodie as it does with a fresh fit on matchday. A fan-made, anime-inspired accessory for the roster of strikers chasing the goal, not affiliated with or endorsed by the rights holders.</p>
+<ul>
+<li>Anime-inspired pentagon emblem pendant with open cut-out detailing</li>
+<li>Durable stainless-steel / alloy build that resists tarnish and rust</li>
+<li>Polished steel-tone box-link chain with secure lobster clasp</li>
+<li>Lightweight and comfortable for all-day wear</li>
+<li>Unisex design, easy to layer or wear on its own</li>
+<li>Wipe clean with a soft, dry cloth to keep the shine</li>
+<li>Arrives ready to gift or wear straight out the pack</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Blue Lock pentagon emblem pendant in polished steel-tone metal
+  • Tarnish-resistant stainless-steel / alloy construction
+  • Sleek box-link chain with secure lobster clasp
+  • Lightweight, unisex, and built for everyday wear
+  • Open cut-out detailing that catches the light
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (49 chars)        : Blue Lock Pendant Chain Necklace | Otaku Store NG
+Meta Description (150 chars) : Blue Lock-inspired pentagon emblem pendant on a polished steel-tone box chain. Tarnish-resistant, lightweight, unisex. Ships nationwide and worldwide.
+Focus keyword                       : Blue Lock chain necklace
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Blue Lock-inspired stainless-steel pentagon emblem pendant on a polished box-link chain
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a polished stainless-steel pentagon emblem pendant necklace with open cut-out geometry, hung on a box-link chain. Ink black #111111 background with paper white #FAFAFA torn manga panel, single manga-red #E2261C accent line slicing diagonally. Halftone dot shading, sharp speed lines radiating behind the pendant, subtle ink splatter at the edges. Cinematic rim lighting catching the metal, premium and high-contrast, manga-panel framing, shallow depth of field.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

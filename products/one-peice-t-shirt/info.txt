@@ -1,0 +1,88 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : One Peice T Shirt
+SLUG         : one-peice-t-shirt
+BUMPA ID     : 1125358
+WOO TYPE     : variable
+PARENT SKU   : OSN-1125358
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+  - Shop by Anime > One Piece
+
+TAGS: One Piece t-shirt, anime t-shirt, One Piece merch, anime graphic tee, Luffy shirt, Straw Hat Pirates, otaku clothing, anime streetwear
+FRANCHISE: One Piece    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦14,000
+Total stock   : 497
+VARIATIONS (attribute: Size)
+  M              | ₦14,000 | stock 99   | SKU OSN-1125358-M
+  L              | ₦14,000 | stock 100  | SKU OSN-1125358-L
+  XL             | ₦14,000 | stock 99   | SKU OSN-1125358-XL
+  2XL            | ₦14,000 | stock 99   | SKU OSN-1125358-2XL
+  XXXL           | ₦14,000 | stock 100  | SKU OSN-1125358-XXXL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Sail the Grand Line in heavyweight cotton
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A bold One Piece-inspired graphic tee in thick, soft cotton with a durable fade-resistant print. Unisex regular fit with a clean crew neck, built for everyday wear and serious roster energy. Pick your favourite slide design at checkout.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Fly the pirate flag with this One Piece-inspired graphic t-shirt, cut for fans who live and breathe the Grand Line. Printed on thick, premium cotton with a crisp, fade-resistant graphic, it pairs streetwear comfort with bold anime artwork that holds its colour wash after wash.</p>
+<p>This is a fan-made, anime-inspired design and is not official or affiliated with the franchise. Choose your preferred slide (design) at checkout, and wear the roster your way.</p>
+<ul>
+<li><strong>Material:</strong> thick, soft cotton for a substantial, premium feel</li>
+<li><strong>Fit:</strong> unisex regular fit, true-to-size</li>
+<li><strong>Neckline:</strong> classic crew neck</li>
+<li><strong>Print:</strong> durable, fade-resistant graphic that stays sharp</li>
+<li><strong>Sizes:</strong> M, L, XL, 2XL, XXXL</li>
+<li><strong>Design selection:</strong> indicate your chosen slide (first slide) at checkout</li>
+<li><strong>Care:</strong> machine wash cold, inside-out; do not bleach; hang or tumble dry low</li>
+<li><strong>Style:</strong> fan / anime-inspired design, not affiliated or official</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Thick, soft premium cotton with real weight and structure
+  • Durable fade-resistant One Piece-inspired graphic
+  • Unisex regular fit with a classic crew neck
+  • Sizes M to XXXL for an easy, true-to-size fit
+  • Pick your favourite slide design at checkout
+  • Fan-made, anime-inspired art (not official)
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (54 chars)        : One Piece T-Shirt | Anime Graphic Tee | Otaku Store NG
+Meta Description (141 chars) : Thick cotton One Piece-inspired t-shirt with a fade-resistant graphic. Unisex fit, sizes M-XXXL. Ships nationwide and worldwide from ₦14,000.
+Focus keyword                       : One Piece t-shirt
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: One Piece-inspired anime graphic t-shirt in thick cotton, unisex regular fit with crew neck
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a folded heavyweight cotton anime graphic t-shirt, One Piece-inspired pirate emblem on the chest. Ink black #111111 backdrop, paper white #FAFAFA garment, single manga-red #E2261C accent. Halftone dot texture, dynamic speed lines and ink splatter framing the tee in a manga panel composition. Premium, cinematic lighting, sharp focus, high detail, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

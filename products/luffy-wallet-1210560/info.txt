@@ -1,0 +1,73 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Luffy Wallet
+SLUG         : luffy-wallet-1210560
+BUMPA ID     : 1210560
+WOO TYPE     : variable
+PARENT SKU   : OSN-1210560
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Shop by Anime > One Piece
+
+TAGS: Luffy wallet, One Piece wallet, Monkey D. Luffy, anime wallet, One Piece accessories, Straw Hat Pirates, anime merch Nigeria, anime gift
+FRANCHISE: One Piece    CHARACTER: Monkey D. Luffy
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦9,000
+Total stock   : 17
+VARIATIONS (attribute: Style)
+  1              | ₦9,000 | stock 9    | SKU OSN-1210560-1
+  2              | ₦9,000 | stock 8    | SKU OSN-1210560-2
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry your bounty like the future Pirate King.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Rep the Straw Hat captain every time you pay. This Luffy-inspired wallet pairs bold One Piece artwork with a slim, everyday-ready build that slips easily into pocket or bag. Two designs to match your crew.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Set sail with the Luffy Wallet, a fan-made tribute to the rubber-powered captain of the Straw Hat Pirates. Bold One Piece-inspired artwork wraps a compact, everyday-carry design that holds your cards and cash without the bulk, so you can rep your favourite crew from the cafeteria queue to the next adventure.</p><p>Choose from two distinct styles and grab the look that matches your energy. Built for daily use and easy to slip into a pocket, bag or backpack, it is a clean, affordable way to wear the roster wherever you roam.</p><ul><li>Anime-inspired Monkey D. Luffy / One Piece design (fan art, not affiliated with or endorsed by the official rights holders)</li><li>Compact everyday-carry wallet with slots for cards and a section for cash</li><li>Available in 2 styles: Style 1 and Style 2</li><li>Lightweight, slim profile that fits easily in pocket, bag or backpack</li><li>Wipe clean with a soft, slightly damp cloth; keep away from prolonged moisture</li><li>Great gift for One Piece fans and Straw Hat crew members</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Monkey D. Luffy / One Piece fan-art design
+  • Slim everyday-carry build for cards and cash
+  • Two styles to choose from
+  • Lightweight and pocket-friendly
+  • Perfect gift for One Piece fans
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (54 chars)        : Luffy Wallet | One Piece Anime Wallet | Otaku Store NG
+Meta Description (139 chars) : Luffy Wallet inspired by One Piece. Slim, everyday-carry wallet for cards and cash in 2 styles. ₦9,000. Ships across Nigeria and worldwide.
+Focus keyword                       : Luffy wallet
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Luffy One Piece-inspired slim wallet shown in two design styles, front view
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a slim anime-inspired wallet for One Piece's Monkey D. Luffy. Ink black #111111 background, paper white #FAFAFA surface, single manga-red #E2261C accent. Halftone dot texture, dynamic speed lines and ink-splatter framing the wallet in a manga panel layout. Wallet shown angled, slightly open to reveal card slots, premium cinematic lighting, sharp focus, high detail. Two style variants subtly hinted via a second smaller panel. No text, no logos, no watermark.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

@@ -1,0 +1,91 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Naruto And Sasuke Tshirt
+SLUG         : naruto-and-sasuke-tshirt
+BUMPA ID     : 1131299
+WOO TYPE     : variable
+PARENT SKU   : OSN-1131299
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+  - Shop by Anime > Naruto
+
+TAGS: Naruto t-shirt, Sasuke t-shirt, Naruto and Sasuke, anime t-shirt, all-over-print tee, Naruto merch, anime shirt Nigeria, Six Paths Naruto, Uchiha shirt, otaku streetwear
+FRANCHISE: Naruto    CHARACTER: Naruto and Sasuke
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦14,000
+Total stock   : 497
+VARIATIONS (attribute: Size)
+  M              | ₦14,000 | stock 98   | SKU OSN-1131299-M
+  L              | ₦14,000 | stock 100  | SKU OSN-1131299-L
+  XL             | ₦14,000 | stock 99   | SKU OSN-1131299-XL
+  2XL            | ₦14,000 | stock 100  | SKU OSN-1131299-2XL
+  3XL            | ₦14,000 | stock 100  | SKU OSN-1131299-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Rivals on one front print. Pick your slide.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Naruto-inspired all-over-print tee built around the legendary Uchiha-vs-Uzumaki rivalry. Crisp full-front manga art, striped sleeve detailing and a relaxed crew-neck fit. Choose your favourite design at checkout and wear the roster.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Two halves of the same legend, one shirt. This Naruto-inspired t-shirt drops the Uzumaki-Uchiha rivalry across the full front in sharp, fade-resistant colour, with subtle striped sleeve detailing and side text print for that authentic streetwear edge. From Sasuke's lone silhouette to Six Paths Naruto to the iconic fist-bump duo, every panel reads loud and clean.</p>
+<p>Cut as a relaxed unisex crew neck on smooth all-over-print fabric, it sits easy over jeans or shorts and holds its print wash after wash. Choose the design you want using the slide number at checkout, then wear the roster.</p>
+<ul>
+<li>Anime-inspired all-over-print t-shirt (fan-made, not affiliated with or endorsed by the rights holders)</li>
+<li>Smooth polyester all-over-print fabric for vivid, edge-to-edge graphics</li>
+<li>Unisex regular fit with a classic crew neckline</li>
+<li>Full-front print plus striped sleeve and side text detailing</li>
+<li>Durable, fade-resistant colours that stay sharp through washes</li>
+<li>Design options: Sasuke vs Naruto split panel, Naruto x Sasuke duo, Six Paths Naruto, or lone Sasuke</li>
+<li>Available sizes: M, L, XL, 2XL, 3XL</li>
+<li>Indicate your chosen design (slide number) when checking out</li>
+<li>Machine wash cold, inside-out; do not bleach or tumble dry hot</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • All-over-print front featuring the Naruto x Sasuke rivalry
+  • Four design variants - pick your slide at checkout
+  • Relaxed unisex crew-neck fit in sizes M to 3XL
+  • Smooth all-over-print polyester with vivid, fade-resistant colour
+  • Striped sleeve and side text detailing for a streetwear edge
+  • Fan-made anime-inspired design, not officially affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (54 chars)        : Naruto and Sasuke T-Shirt | Anime Tee | Otaku Store NG
+Meta Description (150 chars) : Naruto and Sasuke anime-inspired t-shirt with all-over-print front art. Unisex crew-neck fit, sizes M-3XL. Pick your design. Ships across Nigeria and.
+Focus keyword                       : Naruto and Sasuke t-shirt
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: White all-over-print Naruto and Sasuke t-shirt showing Sasuke and Six Paths Sage Mode Naruto in a split manga panel with striped sleeve detail
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a white anime graphic t-shirt on an invisible mannequin, centered. Background ink black #111111 with paper white #FAFAFA manga panel borders and a single manga-red #E2261C accent stripe. Halftone dot texture, dynamic speed lines radiating from the shirt, sharp ink splatter in the corners. The tee front shows a bold Naruto-and-Sasuke rivalry illustration; crisp studio key light, cinematic high-contrast, premium e-commerce framing. No text, no logos, no watermark.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

@@ -1,0 +1,85 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Hidden Leaf Logo Stud
+SLUG         : hidden-leaf-logo-stud
+BUMPA ID     : 1134919
+WOO TYPE     : variable
+PARENT SKU   : OSN-1134919
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Shop by Anime > Naruto
+
+TAGS: Naruto, Hidden Leaf, Konoha, stud earring, anime earring, stainless steel earring, Naruto accessories, anime jewelry, Konoha crest, Otaku Store NG
+FRANCHISE: Naruto    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,000
+Total stock   : 299
+VARIATIONS (attribute: Color)
+  Silver         | ₦4,000 | stock 100  | SKU OSN-1134919-SILVER
+  Black          | ₦4,000 | stock 99   | SKU OSN-1134919-BLACK
+  Gold           | ₦4,000 | stock 100  | SKU OSN-1134919-GOLD
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Rep the village with one sharp stud.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Carry the Hidden Leaf crest on your ear. This anime-inspired Konoha stud earring features a clean leaf-spiral cutout in polished stainless steel, with a secure screw-back fitting. Subtle, everyday-wearable shinobi energy in Silver, Black or Gold.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some fans shout their fandom. Some let one detail do the talking. This Hidden Leaf Logo Stud puts the Konoha village crest — that unmistakable leaf-and-spiral mark — right on your ear, cut clean and polished for everyday wear. It is the quiet flex that other Naruto fans clock instantly.</p>
+<p>Crafted in durable stainless steel with a smooth finish, the stud uses a screw-back fitting that holds firm through training arcs and full work days alike. Pick your finish to match your style: bright Silver, stealth Black, or warm Gold. Anime-inspired fan design, not affiliated with the official series.</p>
+<ul>
+<li>Design: Hidden Leaf (Konoha) village emblem with open leaf-spiral cutout</li>
+<li>Material: durable stainless steel, polished finish</li>
+<li>Fitting: screw-back stud for a secure hold</li>
+<li>Finish options: Silver, Black, Gold</li>
+<li>Wear: lightweight, low-profile, comfortable for daily use</li>
+<li>Sold as: single stud (see product options to select your finish)</li>
+<li>Care: wipe clean with a soft cloth; keep dry to preserve the finish</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Hidden Leaf (Konoha) village crest with crisp leaf-spiral cutout
+  • Durable stainless steel with a polished, everyday-tough finish
+  • Secure screw-back fitting that stays put
+  • Three finishes: Silver, Black, Gold
+  • Lightweight, low-profile design for subtle daily wear
+  • Anime-inspired fan piece for Naruto fans
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (51 chars)        : Hidden Leaf Logo Stud Earring | Naruto Konoha Crest
+Meta Description (151 chars) : Naruto-inspired Hidden Leaf (Konoha) stud earring in stainless steel. Crisp village-crest cutout, secure screw-back. Silver, Black or Gold. Ships from.
+Focus keyword                       : Hidden Leaf logo stud earring
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Naruto-inspired Hidden Leaf Konoha crest stud earrings shown in silver, black and gold stainless steel with screw-back fittings
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a single stainless steel Hidden Leaf (Konoha) crest stud earring on a paper-white #FAFAFA surface against ink-black #111111 background. Macro detail of the polished leaf-and-spiral cutout, screw-back fitting visible. Single manga-red #E2261C accent as a thin diagonal speed line behind the stud, halftone dot texture in the shadows, subtle ink splatter at one corner, framed inside a clean manga panel border. Premium, cinematic, high-contrast, sharp focus.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Gojou Dog Tag
+SLUG         : gojou-dog-tag
+BUMPA ID     : 1507894
+WOO TYPE     : simple
+PARENT SKU   : OSN-1507894
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Gojo dog tag, Satoru Gojo necklace, Jujutsu Kaisen necklace, anime dog tag chain, Gojo pendant, anime necklace, JJK merch, stainless steel anime chain
+FRANCHISE: Jujutsu Kaisen    CHARACTER: Satoru Gojo
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦6,000
+Total stock   : 8
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The strongest sorcerer, around your neck.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Carry the strongest sorcerer everywhere. This Gojo dog tag pairs a full-colour Satoru Gojo print on a sturdy stainless-steel pendant with a tarnish-resistant chain. Lightweight, everyday-ready, and built to hold its shine. Anime-inspired fan gear, not affiliated.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Six Eyes locked, hand raised, Infinity engaged. This Gojo dog tag puts Jujutsu Kaisen's most overpowered sorcerer front and centre, with a sharp full-colour Satoru Gojo print, "SATORU GOJO" lettering and "Strongest Jujutsu Sorcerer" side panels finished off by his name in kanji. It is the kind of piece that gets noticed at the convention and survives the everyday.</p><p>Built on a durable stainless-steel pendant that resists tarnish and a matching chain that sits clean under a hoodie or over a tee. A premium fan accessory for anyone who reps the strongest. Anime-inspired and unofficial, made for fans by fans.</p><ul><li>Style: military-inspired dog tag pendant on a matching chain</li><li>Material: durable stainless-steel pendant, tarnish-resistant chain</li><li>Design: full-colour Satoru Gojo print with name lettering and kanji detail</li><li>Finish: smooth printed face, holds its shine with everyday wear</li><li>Wear: lightweight and low-profile, layers easily under or over clothing</li><li>Care: wipe clean with a soft dry cloth; keep away from harsh chemicals</li><li>Includes: one Gojo dog tag pendant with chain</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Full-colour Satoru Gojo print with name lettering and kanji detail
+  • Durable stainless-steel pendant that resists tarnish
+  • Matching chain sits clean under a hoodie or over a tee
+  • Lightweight, low-profile and ready for everyday wear
+  • Premium anime-inspired fan piece for Jujutsu Kaisen fans
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (44 chars)        : Gojo Dog Tag Necklace | Jujutsu Kaisen Chain
+Meta Description (147 chars) : Satoru Gojo dog tag necklace in durable stainless steel. Full-colour Jujutsu Kaisen print on a tarnish-resistant chain. Ships from Nigeria, ₦6,000.
+Focus keyword                       : Gojo dog tag necklace
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Satoru Gojo Jujutsu Kaisen stainless-steel dog tag pendant with full-colour print on a silver chain
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product studio shot of a stainless-steel anime dog tag pendant on a silver chain, hero-lit on ink black #111111 background. Manga-red #E2261C accent on a single side panel, paper white #FAFAFA highlights catching the polished metal edge. Halftone dot texture and faint speed lines radiating from the pendant, subtle ink splatter in the lower corner, framed in a clean manga panel border. Cinematic premium e-commerce lighting, sharp focus, high contrast, shallow depth of field.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

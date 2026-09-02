@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Naruto Figurine
+SLUG         : naruto-figurine
+BUMPA ID     : 1873965
+WOO TYPE     : simple
+PARENT SKU   : OSN-1873965
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Figurines
+  - Shop by Anime > Naruto
+
+TAGS: Naruto figurine, Naruto Uzumaki, Naruto statue, anime figurine, Naruto merch, Hidden Leaf, PVC figure, collector figurine, Shippuden, anime collectible
+FRANCHISE: Naruto    CHARACTER: Naruto Uzumaki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦15,000
+Total stock   : 10
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The Number One Hyperactive Knucklehead, on your shelf
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Naruto Uzumaki locked into his Shadow Clone hand sign, sculpted in his orange-and-black Shippuden jumpsuit on a round display base. A pre-painted PVC display figure built to anchor any Hidden Leaf shelf.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Believe it. This anime-inspired Naruto Uzumaki figurine captures the Number One Knucklehead mid hand-sign, leaf headband on, blue eyes blazing and ready to throw a Shadow Clone. The sculpt nails the bright orange-and-black Shippuden jumpsuit, the spiked blonde hair and that signature grin, finished in clean pre-painted detail that reads sharp from across the room.</p><p>Mounted on a sturdy round base for a stable, dynamic stance, it sits perfectly on a desk, gaming setup, shelf or display cabinet. A premium collector centrepiece for any Hidden Leaf fan and a clean gift for the Naruto lover in your life. Wear the roster, then build the shelf.</p><ul><li>Character: Naruto Uzumaki in his orange-and-black Shippuden outfit, Shadow Clone hand sign pose</li><li>Material: detailed pre-painted PVC display statue</li><li>Approx. size: around 18cm tall on a roughly 12cm round base (sizes vary slightly by figure)</li><li>Includes: one figure with attached display base</li><li>Use: collector display piece for shelf, desk or cabinet, not a toy</li><li>Care: keep out of direct sunlight, dust gently with a soft dry cloth, handle with care</li><li>Fan-made, anime-inspired collectible, not affiliated with or endorsed by the rights holders</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Naruto Uzumaki frozen mid Shadow Clone hand sign
+  • Detailed pre-painted PVC display statue, around 18cm tall
+  • Sturdy round base for a stable, dynamic stance
+  • Sharp sculpt of the orange-and-black Shippuden jumpsuit
+  • Premium collector centrepiece for desk, shelf or cabinet
+  • Ships nationwide across Nigeria and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (53 chars)        : Naruto Uzumaki Figurine | PVC Statue | Otaku Store NG
+Meta Description (155 chars) : Naruto Uzumaki figurine in his orange Shippuden jumpsuit, Shadow Clone pose. Pre-painted PVC collector statue. ₦15,000, ships across Nigeria and worldwide.
+Focus keyword                       : Naruto Uzumaki figurine
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Naruto Uzumaki figurine in orange-and-black Shippuden jumpsuit doing the Shadow Clone hand sign on a round black base
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a Naruto Uzumaki anime figurine in his orange-and-black jumpsuit performing a hand sign, standing on a round black base. Ink black #111111 background, paper white #FAFAFA rim light, single manga-red #E2261C accent slashing through. Halftone dot texture, dramatic speed lines radiating behind the figure, subtle ink splatter, framed inside a clean manga panel. Premium, cinematic collector-figure lighting, high detail, sharp focus on the sculpt.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

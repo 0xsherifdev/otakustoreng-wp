@@ -1,0 +1,94 @@
+{
+  "brand": "Otaku Store NG",
+  "taglineRule": "Brand tagline must NOT reference Nigeria. It should be about anime fandom, gear, power, or wearing your favourite series. Short and ownable.",
+  "style": "DARK MANGA aesthetic. Palette: ink black #111111, paper white #FAFAFA, and a single bold manga-red #E2261C accent (use sparingly for energy). Textures: halftone/screentone dots, manga speed lines, brush-ink splatter, manga panel layouts, high contrast monochrome with one red pop. Mood: premium anime-streetwear, bold, cinematic.",
+  "market": "Based in Nigeria, ships nationwide AND internationally/worldwide. Prices in Nigerian Naira (₦). Trust signals: secure checkout, fast nationwide + worldwide delivery, easy returns. Do NOT make the brand identity Nigeria-only — it's a global anime brand that happens to ship from Nigeria.",
+  "priceFacts": "Anime jerseys ₦23,000. Catalog ranges ₦1,000 (stickers/small accessories) to ₦250,000 (premium katana/figurines), median ~₦18,500. Free-shipping threshold and promos should feel realistic.",
+  "categoryTree": {
+    "Apparel": [
+      "Jerseys",
+      "T-Shirts",
+      "Hoodies",
+      "Kimono",
+      "Trousers",
+      "Shorts",
+      "Headwear",
+      "Shoes",
+      "Ties",
+      "Cosplay"
+    ],
+    "Accessories": [
+      "Chains & Necklaces",
+      "Bracelets",
+      "Rings",
+      "Wallets",
+      "Lanyards",
+      "Phone Cases",
+      "AirPods Cases",
+      "Laptop Skins",
+      "Masks",
+      "Tote Bags",
+      "Couple Accessories"
+    ],
+    "Collectibles": [
+      "Figurines",
+      "Katana & Weapons",
+      "Stickers",
+      "Bottles & Drinkware"
+    ],
+    "Home & Decor": [
+      "Room Decor",
+      "LED Lamps"
+    ],
+    "Shop by Anime": [
+      "Naruto",
+      "One Piece",
+      "Attack on Titan",
+      "Demon Slayer",
+      "Bleach",
+      "Jujutsu Kaisen",
+      "Dragon Ball",
+      "Hunter x Hunter",
+      "Berserk",
+      "Solo Leveling",
+      "Chainsaw Man",
+      "My Hero Academia",
+      "Tokyo Revengers"
+    ]
+  },
+  "heroProducts": [
+    {
+      "type": "Anime Jerseys",
+      "example": "Gojo / Itachi / Luffy all-over-print jerseys",
+      "price": "₦23,000",
+      "note": "signature product, vivid full-print"
+    },
+    {
+      "type": "Hoodies",
+      "example": "Sukuna, Kaneki, Gojo hoodies",
+      "note": "97 styles, streetwear staple"
+    },
+    {
+      "type": "Katana & Weapons",
+      "example": "Tanjiro Nichirin blade, Zoro / Yubashiri katana",
+      "note": "premium collectible display pieces"
+    },
+    {
+      "type": "Figurines",
+      "example": "anime GK figures & statues",
+      "note": "collector shelf pieces"
+    },
+    {
+      "type": "Chains & Necklaces",
+      "example": "Akatsuki cloud, Uchiha, dog-tag chains",
+      "note": "139 accessories, entry-price hype items"
+    },
+    {
+      "type": "Kimono",
+      "example": "haori / kimono robes",
+      "note": "statement layering pieces"
+    }
+  ],
+  "sectionMap": "You are mapping content onto the Minimog (Fashion demo) homepage. Fill EVERY numbered slot.\n\n1. ANNOUNCEMENT BAR (rotating, short) — 2-3 rotating messages (e.g. shipping, new drops, app).\n2. HEADER — logo wordmark idea, primary nav menu items (Home, Shop, New In, Anime, Blog, Track Order, Contact), search placeholder text, and the left \"SHOP BY CATEGORIES\" mega-menu (list the category tree).\n3. HERO SLIDER — 2 slides. Each: eyebrow, big headline, 1-line subtext, CTA button label, target. + IMAGE PROMPT for each slide.\n4. THREE PROMO BANNER CARDS (small grid under hero) — 3 cards, each: title, 1-line, CTA. + IMAGE PROMPT each.\n5. POPULAR CATEGORIES (icon row) — 7 category chips with label (pick best-sellers) + one IMAGE PROMPT describing the icon style for the whole row.\n6. TRENDING COLLECTION (3 large cards) — 3 cards: title + subtext. + IMAGE PROMPT each.\n7. WHAT'S TRENDING THIS WEEK (feature block) — a left feature panel (badge, headline, paragraph, CTA) + 2 product spotlight cards (name + price). + IMAGE PROMPT for the feature panel.\n8. FEATURED PRODUCTS (tabbed grid) — tab labels (by category/anime) + intro line. (Products auto-pull; just give the heading + tabs + a SALE-badge note.)\n9. PROMO / DEAL BAR — headline, deal line with ₦ price (strike + now), CTA. + IMAGE PROMPT background.\n10. SERVICE ICONS ROW — 4 trust badges, each: title + 1-line (shipping NG + worldwide, guarantee, support, secure payment).\n11. FOOTER — brand blurb (2 lines), 4 link columns (FIND IT FAST / CUSTOMER CARE / SHOP / COMPANY) with realistic links, newsletter heading + subtext + button label + consent microcopy, social handles line, payment methods line, copyright line.\n12. SEO / META — homepage <title> (<=60 chars) + meta description (<=155 chars).\n13. BRAND BONUS — final chosen tagline + 3 alternate taglines + a 2-3 sentence \"brand voice guide\" the user can reuse.",
+  "outputRules": "- Output PLAIN TEXT (no markdown tables). Use clear section headers exactly like \"## SECTION 3 — HERO SLIDER\".\n- For every line of copy that replaces template text, prefix with \"REPLACE WITH:\" so it is obvious what to paste.\n- For every visual, add a line \"IMAGE PROMPT (Google Flow): <full prompt>\" including palette, texture, composition, aspect ratio (e.g. 16:9 hero, 1:1 cards, 3:4 promo), and \"no text overlay, no watermark\".\n- Keep it tight and skimmable. Real, paste-ready copy — not placeholders.\n- Use ₦ for all prices."
+}

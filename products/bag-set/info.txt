@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Bag Set
+SLUG         : bag-set
+BUMPA ID     : 1920014
+WOO TYPE     : simple
+PARENT SKU   : OSN-1920014
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Tote Bags
+
+TAGS: anime tote bag, canvas tote bag, anime bag set, anime canvas tote, tote bag set, anime inspired bag, con haul bag, everyday tote bag
+FRANCHISE: Generic Anime    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦28,000
+Total stock   : 10
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Anime canvas totes built to carry the whole roster
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+An anime-inspired canvas tote bag set with bold printed artwork and reinforced handles. Roomy, everyday carry for books, groceries or your next con haul. Lightweight, durable and built to hold your roster wherever you roll.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Wear the roster, then carry it too. This anime-inspired canvas tote set pairs bold, high-contrast character artwork with sturdy everyday construction, so it handles the grocery run, the campus haul and the convention floor without flinching. Sleek enough to flex your fandom, roomy enough to actually be useful.</p><p>Reinforced handles keep heavy loads comfortable on the shoulder, while the durable canvas body holds its shape wear after wear. Fan-made and anime-inspired, designed for the people who live the culture. Not affiliated with or endorsed by any studio or rights holder.</p><ul><li>Material: sturdy woven canvas body with reinforced stitched handles</li><li>Print: bold anime-inspired character artwork, front-facing graphic</li><li>Capacity: roomy main compartment for books, groceries and con hauls</li><li>Carry: dual top handles sized for shoulder or hand</li><li>Set: multi-piece tote set (see catalogue photos for included styles)</li><li>Use: everyday carry, shopping, school, travel and events</li><li>Care: spot clean or hand wash cold, lay flat to dry, do not bleach</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Sturdy woven canvas with reinforced stitched handles
+  • Bold anime-inspired character print, front and centre
+  • Roomy main compartment for books, groceries and con hauls
+  • Multi-piece set for everyday rotation
+  • Dual top handles for shoulder or hand carry
+  • Fan-made, anime-inspired - not affiliated with any studio
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (42 chars)        : Anime Canvas Tote Bag Set | Otaku Store NG
+Meta Description (152 chars) : Anime-inspired canvas tote bag set with bold print and reinforced handles. Roomy everyday carry for books, groceries and con hauls. ₦28,000. Ships NG +.
+Focus keyword                       : anime canvas tote bag set
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Anime-inspired canvas tote bag set with bold character print and reinforced top handles
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of an anime-inspired canvas tote bag set standing upright on a paper-white #FAFAFA surface against an ink-black #111111 backdrop. Halftone dot texture and diagonal manga speed lines radiating behind the bags, with a single manga-red #E2261C accent on a print graphic and a thin red panel border. Subtle ink splatter in one corner, cinematic side lighting, premium high-contrast composition, sharp focus on the reinforced stitched handles. No text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

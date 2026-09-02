@@ -1,0 +1,91 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Zenistu Hoodie
+SLUG         : zenistu-hoodie
+BUMPA ID     : 2964640
+WOO TYPE     : variable
+PARENT SKU   : OSN-2964640
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+  - Shop by Anime > Demon Slayer
+
+TAGS: Zenitsu hoodie, Demon Slayer hoodie, Zenitsu Agatsuma, anime hoodie, Thunder Breathing, Kimetsu no Yaiba, anime streetwear, pullover hoodie, unisex anime hoodie, fan-made anime merch
+FRANCHISE: Demon Slayer    CHARACTER: Zenitsu Agatsuma
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦18,500
+Total stock   : 799
+VARIATIONS (attribute: Size & Material)
+  L-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964640-LTHICKCOTTON
+  L-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964640-LTHICKPOLYESTER
+  Xl-Thick Cotton | ₦21,000 | stock 99   | SKU OSN-2964640-XLTHICKCOTTON
+  Xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964640-XLTHICKPOLYESTER
+  2xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964640-2XLTHICKCOTTON
+  2xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964640-2XLTHICKPOLYESTER
+  3xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964640-3XLTHICKCOTTON
+  3xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964640-3XLTHICKPOLYESTER
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Thunder Breathing energy in brushed-fleece comfort
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel Zenitsu's Thunder Breathing in this anime-inspired pullover hoodie. Brushed-fleece interior, ribbed cuffs and hem, and a roomy kangaroo pocket deliver cosy warmth with a unisex streetwear fit built to flex from convention floor to everyday rotation.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Move like a Thunder Breathing strike. This Zenitsu-inspired pullover hoodie brings Demon Slayer energy to your everyday rotation, pairing bold anime graphics with a soft brushed-fleece interior that keeps the warmth locked in. The unisex streetwear cut layers clean over a tee and sits right with joggers or denim, so you wear the roster wherever the day takes you.</p>
+<p>Choose your fabric and size to dial in the feel, then style it for class, the convention floor, or a chilled night in. A fan-made tribute for Zenitsu fans who want comfort with real presence.</p>
+<ul>
+<li>Pullover hoodie with bold Zenitsu Agatsuma anime-inspired graphic print</li>
+<li>Soft brushed-fleece interior for cosy, everyday warmth</li>
+<li>Ribbed cuffs and hem to hold shape and trap heat</li>
+<li>Roomy kangaroo front pocket for hands and essentials</li>
+<li>Relaxed unisex streetwear fit, true to anime fashion sizing</li>
+<li>Fabric choice: Thick Cotton or Thick Polyester</li>
+<li>Sizes: L, XL, 2XL, 3XL</li>
+<li>Machine wash cold, inside-out; hang or low tumble dry to protect the print</li>
+<li>Fan-made, anime-inspired design; not official or affiliated with the franchise</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Zenitsu Agatsuma Thunder Breathing anime-inspired graphic
+  • Brushed-fleece interior for serious warmth
+  • Ribbed cuffs and hem plus a roomy kangaroo pocket
+  • Pick Thick Cotton or Thick Polyester
+  • Relaxed unisex streetwear fit, sizes L to 3XL
+  • Fan-made tribute, not official or licensed
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (51 chars)        : Zenitsu Hoodie | Demon Slayer Anime Pullover Hoodie
+Meta Description (153 chars) : Zenitsu Agatsuma anime-inspired pullover hoodie. Brushed fleece, kangaroo pocket, unisex fit. Thick Cotton or Polyester, sizes L-3XL. Ships from Nigeria.
+Focus keyword                       : Zenitsu hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Zenitsu Agatsuma Demon Slayer anime-inspired pullover hoodie with bold graphic print and kangaroo pocket
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-Manga studio product shot of a folded pullover hoodie featuring a Zenitsu Agatsuma anime-inspired graphic, on a paper-white #FAFAFA backdrop with ink-black #111111 manga panels and a single manga-red #E2261C accent. Halftone-dot shading, dynamic speed lines and crisp ink splatter framing the garment, lightning-motif energy nodding to Thunder Breathing. Premium, cinematic catalog lighting, sharp focus on brushed-fleece texture, ribbed cuffs and kangaroo pocket, high-end streetwear presentation.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

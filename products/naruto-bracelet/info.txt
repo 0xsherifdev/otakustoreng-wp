@@ -1,0 +1,81 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Naruto Bracelet
+SLUG         : naruto-bracelet
+BUMPA ID     : 1734040
+WOO TYPE     : simple
+PARENT SKU   : OSN-1734040
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Shop by Anime > Naruto
+
+TAGS: Naruto bracelet, Hidden Leaf bracelet, Konoha crest, anime bracelet, Naruto accessories, braided cord bracelet, anime jewelry, shinobi merch
+FRANCHISE: Naruto    CHARACTER: Naruto Uzumaki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,000
+Total stock   : 4
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Hidden Leaf crest on braided cord
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Rep the Hidden Leaf every day with this braided black cord bracelet, finished with an antique-gold plate engraved with the Konoha village crest. A clean, durable, anime-inspired wrist piece for any Naruto fan.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Carry the Will of Fire wherever you go. This Naruto-inspired bracelet pairs a woven black cord band with an antique-gold metal centerpiece engraved with the Hidden Leaf Village (Konoha) crest, the same symbol shipped on every shinobi headband. It is the kind of subtle, everyday flex that other fans clock instantly while sitting clean enough for class, work, or a night out.</p>
+<p>Built for daily wear, it slips on easy and reads premium without shouting. Stack it with your other pieces or let the Leaf crest stand alone, this is an affordable way to rep the roster on your wrist.</p>
+<ul>
+<li>Design: engraved Hidden Leaf Village (Konoha) crest on a metal centerpiece plate</li>
+<li>Band: braided/woven cord in black</li>
+<li>Hardware finish: antique gold-tone metal</li>
+<li>Style: unisex, everyday wear, easy slip-on fit</li>
+<li>Best for: Naruto and shinobi fans building an anime accessory stack</li>
+<li>Care: wipe clean with a dry cloth; keep away from water and perfume to protect the finish</li>
+<li>Fan / anime-inspired design, not affiliated with or endorsed by the rights holders</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Engraved Hidden Leaf Village (Konoha) crest centerpiece
+  • Braided black cord band with antique gold-tone metal
+  • Unisex everyday fit, easy slip-on style
+  • Subtle anime flex that reads premium, not costume
+  • Stacks cleanly with rings, chains and other wrist pieces
+  • Fan-made, anime-inspired design (not affiliated)
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : Naruto Bracelet | Hidden Leaf Crest Cord Band
+Meta Description (152 chars) : Naruto-inspired braided cord bracelet with an antique-gold Hidden Leaf (Konoha) crest plate. Unisex everyday wrist piece, ships from Nigeria nationwide.
+Focus keyword                       : Naruto bracelet
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Naruto braided black cord bracelet with antique-gold Hidden Leaf Village Konoha crest plate worn on a wrist
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a black braided cord bracelet with an antique gold-tone metal centerpiece engraved with the Hidden Leaf Village (Konoha) crest. Ink black #111111 background, paper white #FAFAFA accents, single manga-red #E2261C highlight catching the metal plate. Halftone dot texture and sharp speed lines radiating outward, faint ink splatter in the corners, framed inside a clean manga panel. Premium, cinematic, high-contrast macro detail on the engraved crest; dramatic side lighting, crisp focus.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

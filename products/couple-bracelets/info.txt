@@ -1,0 +1,82 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Couple Bracelets
+SLUG         : couple-bracelets
+BUMPA ID     : 1254740
+WOO TYPE     : simple
+PARENT SKU   : OSN-1254740
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Couple Accessories
+  - Accessories > Bracelets
+
+TAGS: anime couple bracelets, couple bracelet set, magnetic heart bracelet, matching bracelets, his and hers bracelets, cuban chain bracelet, anime couple gift, otaku jewelry
+FRANCHISE: Generic Anime    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦6,000
+Total stock   : 4
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Two halves, one heart — magnetic couple chains
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A matching his-and-hers bracelet set in silver-tone curb chain, joined by a magnetic split-heart charm that snaps together when your hands meet. Anime-inspired everyday wear and a gift any duo will love.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Wear the bond. This anime-inspired couple set pairs two silver-tone curb-chain bracelets, each carrying one half of a magnetic heart. Bring your wrists together and the halves snap into a single heart — a clean, low-key flex for fans who like their accessories with meaning. Equal parts statement and sentiment, it sits just as well over a hoodie as it does on date night.</p>
+<p>Built for daily wear with a bold cuban-link weave and a satisfying magnetic clasp, it ships ready to gift to the duo who already share a watchlist.</p>
+<ul>
+<li>Set of 2 matching bracelets — a his-and-hers / duo pairing</li>
+<li>Silver-tone metal alloy with a polished, everyday-durable finish</li>
+<li>Bold cuban / curb-link chain styling</li>
+<li>Magnetic split-heart charm: one half per bracelet, snaps together when paired</li>
+<li>Unisex sizing suited to most wrists</li>
+<li>Anime-inspired couple design; fan-made, not affiliated with any studio</li>
+<li>Arrives gift-ready for anniversaries, birthdays and Valentine's</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Set of 2 matching bracelets — his-and-hers duo
+  • Magnetic split-heart charm snaps together when wrists meet
+  • Bold silver-tone cuban / curb-link chain
+  • Unisex everyday-durable metal alloy
+  • Gift-ready for anniversaries and Valentine's
+  • Anime-inspired, fan-made design
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (49 chars)        : Anime Couple Bracelets — Magnetic Heart Chain Set
+Meta Description (152 chars) : Anime-inspired couple bracelets: matching silver-tone chain set with a magnetic split-heart charm. His-and-hers duo gift. Ships from Nigeria, worldwide.
+Focus keyword                       : anime couple bracelets
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Pair of silver-tone anime couple bracelets in cuban-link chain with a magnetic split-heart charm
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of two matching silver-tone cuban-link couple bracelets with a magnetic split-heart charm joining at center. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent on the heart split line. Halftone dot shading, sharp speed lines radiating from the joined heart, subtle ink splatter at the edges, framed inside a clean manga panel. Premium, cinematic, high-contrast macro detail on the polished chain links.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

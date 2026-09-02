@@ -1,0 +1,84 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : 3 In 1 Bamboo Kunai
+SLUG         : 3-in-1-bamboo-kunai
+BUMPA ID     : 1507922
+WOO TYPE     : simple
+PARENT SKU   : OSN-1507922
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Shop by Anime > Naruto
+
+TAGS: bamboo kunai, naruto kunai, kunai set, naruto cosplay, hidden leaf, anime props, cosplay accessory, konoha, ninja kunai, anime gift
+FRANCHISE: Naruto    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦7,000
+Total stock   : 7
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Three Hidden Leaf bamboo kunai in a Konoha gift box
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel your inner shinobi with this 3-in-1 bamboo kunai set. Three lightweight wood replicas with cord-wrapped handles and ring pommels, boxed with the Hidden Leaf crest. Blunt, display-safe cosplay props for any Naruto fan.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Three throwing knives, zero chakra required. This 3-in-1 Bamboo Kunai set is a Naruto-inspired cosplay and display trio, crafted from lightweight bamboo wood and finished in matte black with cord-wrapped grips and classic ring pommels. The shape is pulled straight from a shinobi's tool pouch, so it reads instantly on any anime fan's shelf or at your next con.</p>
+<p>The whole set arrives nested in a kraft gift box stamped with the Hidden Leaf Village crest, making it a ready-to-give pick for the Naruto fan in your life. Note these are blunt bamboo replicas built for cosplay, photos and display, not real bladed weapons. Fan-made, anime-inspired merch, not affiliated with or licensed by the rights holders.</p>
+<ul>
+<li><strong>Set:</strong> 3 matching kunai replicas (3-in-1)</li>
+<li><strong>Material:</strong> Lightweight bamboo wood, matte black finish</li>
+<li><strong>Details:</strong> Cord-wrapped handles with solid ring pommels</li>
+<li><strong>Edge:</strong> Blunt, non-sharpened — display and cosplay prop only</li>
+<li><strong>Series vibe:</strong> Naruto / Hidden Leaf shinobi aesthetic</li>
+<li><strong>Includes:</strong> Kraft gift box with Konoha crest, padded insert</li>
+<li><strong>Best for:</strong> Cosplay accessory, desk display, collector gift</li>
+<li><strong>Care:</strong> Wipe clean with a dry cloth; keep away from moisture</li>
+<li><strong>Price:</strong> ₦7,000 for the full 3-piece set</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Complete 3-piece kunai set in one box
+  • Lightweight bamboo wood with matte black finish
+  • Authentic cord-wrapped grips and ring pommels
+  • Kraft gift box stamped with the Hidden Leaf crest
+  • Blunt, display-safe — cosplay and shelf-ready
+  • Ships nationwide across Nigeria and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (46 chars)        : 3-in-1 Bamboo Kunai Set | Naruto Cosplay Props
+Meta Description (153 chars) : Naruto-inspired 3-in-1 bamboo kunai: 3 matte-black wood replicas with cord grips in a Hidden Leaf gift box. Blunt cosplay props. ₦7,000, ships worldwide.
+Focus keyword                       : bamboo kunai set
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Set of three black bamboo Naruto kunai with cord-wrapped handles and ring pommels in a kraft gift box with the Hidden Leaf crest
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga style studio product shot of three black bamboo kunai replicas with white cord-wrapped handles and ring pommels, arranged in a fanned-out trio across an open kraft gift box. Ink black #111111 background, paper white #FAFAFA box and cords, a single manga-red #E2261C Hidden Leaf swirl crest glowing on the box lid. Halftone dot shading, dramatic speed lines radiating from the blade tips, ink splatter accents, manga panel framing, cinematic top-down lighting, premium and sharp. No text, no logos other than the stylized leaf swirl.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - QA fixes applied: meta_description was 157 characters, exceeding the 155-character limit. Trimmed to 153 characters by dropping the redundant word 'set' (the leading phrase already conveys the set). All other fields pass: correct Naruto franchise, SEO title 46 chars, no official/licensed claims (explicit non-affiliation disclaimer present), no hallucinated specifics, valid long_description_html with clean p/ul/li and no h1, on-voice, and Dark Manga image prompt with correct hex codes.
+================================================================================

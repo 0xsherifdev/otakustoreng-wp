@@ -1,0 +1,76 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Itachi Cosplay
+SLUG         : itachi-cosplay
+BUMPA ID     : 1164104
+WOO TYPE     : variable
+PARENT SKU   : OSN-1164104
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Cosplay
+  - Shop by Anime > Naruto
+
+TAGS: Itachi cosplay, Akatsuki cloak, Naruto cosplay, Itachi Uchiha, Akatsuki costume, anime cosplay, Naruto costume, cosplay cloak
+FRANCHISE: Naruto    CHARACTER: Itachi Uchiha
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦28,000
+Total stock   : 42
+VARIATIONS (attribute: Size)
+  M              | ₦28,000 | stock 8    | SKU OSN-1164104-M
+  L              | ₦28,000 | stock 7    | SKU OSN-1164104-L
+  XL             | ₦28,000 | stock 9    | SKU OSN-1164104-XL
+  2XL            | ₦28,000 | stock 8    | SKU OSN-1164104-2XL
+  3XL            | ₦28,000 | stock 10   | SKU OSN-1164104-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Wear the cloak. Become the rogue genius.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel Itachi Uchiha with this full anime-inspired Akatsuki kit: the iconic red-cloud cloak, a Konoha headband, a cloud pendant necklace and a clan ring. Cosplay-ready for conventions, shoots and watch-party flexes.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Step into the shadows of the Akatsuki. This Itachi Uchiha cosplay set brings the rogue Uchiha to life with the unmistakable high-collar black cloak streaked in manga-red clouds, finished with a clean front zip so you can throw it on and own the room. It is the look that defined a generation of Naruto fans, built for the people who actually know the lore.</p><p>The full kit lands ready for the panel floor, your next photoshoot or a marathon watch party. Pick your size from the dropdown before you order, then assemble the cloak, headband, pendant and ring to complete the transformation. Fan-made and anime-inspired; not affiliated with or endorsed by the official rights holders.</p><ul><li>Includes: red-cloud Akatsuki cloak, metal Konoha-style headband, red cloud pendant necklace, and Akatsuki-style ring</li><li>Cloak style: high stand-up collar, full-length, front zip closure</li><li>Material: durable polyester fabric, lightweight and easy to wear all day</li><li>Sizes available: M, L, XL, 2XL, 3XL (check the size option before ordering)</li><li>Best for: anime conventions, cosplay shoots, Halloween, cosplay events and themed parties</li><li>Care: gentle hand wash, hang to dry, do not bleach to keep the cloud prints sharp</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Complete 4-piece set: cloak, headband, cloud necklace and ring
+  • Iconic Akatsuki red-cloud print on a high-collar black cloak
+  • Easy front-zip cloak you can throw on in seconds
+  • Sizes M through 3XL for a fit that works on stage or street
+  • Lightweight polyester built for all-day convention wear
+  • Fan-made, anime-inspired tribute to Itachi Uchiha
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (48 chars)        : Itachi Cosplay Set | Akatsuki Cloak Kit | Naruto
+Meta Description (144 chars) : Full Itachi Uchiha cosplay set: Akatsuki red-cloud cloak, Konoha headband, cloud necklace and ring. Sizes M-3XL. Ships nationwide and worldwide.
+Focus keyword                       : Itachi cosplay
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Itachi Uchiha Akatsuki cosplay set with black red-cloud cloak, Konoha headband, cloud pendant necklace and clan ring
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a complete Naruto Akatsuki-inspired Itachi cosplay set laid flat on paper-white #FAFAFA backdrop: a high-collar black cloak with bold manga-red #E2261C cloud prints, a metal Konoha-style headband, a red cloud pendant necklace and a silver clan ring arranged in a clean manga panel grid. Ink black #111111 shadows, halftone dot shading, dynamic speed lines radiating from the cloak, a single ink splatter accent in manga-red. Premium, cinematic, high-contrast editorial lighting, sharp focus, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

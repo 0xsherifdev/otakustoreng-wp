@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Ichigo jersey
+SLUG         : ichigo-jersey
+BUMPA ID     : 3041192
+WOO TYPE     : simple
+PARENT SKU   : OSN-3041192
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Jerseys
+  - Shop by Anime > Bleach
+
+TAGS: Ichigo, Ichigo Kurosaki, Bleach, anime jersey, all-over print, dye-sublimation, Soul Reaper, anime streetwear, button-up jersey, baseball jersey
+FRANCHISE: Bleach    CHARACTER: Ichigo Kurosaki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦23,000
+Total stock   : 6
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Bankai energy, edge-to-edge. Wear the Substitute Soul Reaper.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+All-over-print Ichigo jersey built for Bleach fans. Vivid edge-to-edge dye-sublimated graphics on lightweight, breathable polyester. Button-up baseball cut, unisex and true to size. Convention-ready, match-watch approved, streetwear-sharp.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the Substitute Soul Reaper himself. This Ichigo Kurosaki all-over-print jersey delivers vivid, edge-to-edge <strong>Bleach</strong> graphics that wrap the entire piece in dye-sublimated detail, from the Zangetsu energy to that unmistakable orange-haired intensity. The print is baked into the fabric, so it stays bold wash after wash, with no cracking, peeling, or fading.</p><p>Cut as a unisex button-up baseball jersey in lightweight, breathable 100% polyester, it stays cool and comfortable whether you are layering it open over a tee for everyday streetwear, repping at a convention, or holding it down at a match-watch party. Confident, comfortable, and unmistakably anime. Secure checkout, fast nationwide and worldwide delivery, and easy returns on every order.</p><ul><li><strong>Material:</strong> Lightweight, breathable 100% polyester</li><li><strong>Print:</strong> All-over dye-sublimation, vivid edge-to-edge, fade-resistant</li><li><strong>Fit:</strong> Unisex button-up baseball jersey cut, true to size</li><li><strong>Sizing:</strong> Available M to 3XL. Between sizes? Size up for a relaxed fit</li><li><strong>Care:</strong> Machine wash cold, inside-out. Do not iron the print directly</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Vivid edge-to-edge all-over print of Ichigo Kurosaki from Bleach
+  • Lightweight, breathable 100% polyester that wears cool all day
+  • Button-up baseball cut, unisex and true to size (M-3XL)
+  • Dye-sublimated graphics that won't crack, peel, or fade
+  • Built for conventions, match-watch parties, and streetwear layering
+  • Secure checkout with fast nationwide and worldwide delivery
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (43 chars)        : Ichigo Anime Jersey | Bleach All-Over Print
+Meta Description (141 chars) : Shop the Ichigo anime jersey from Bleach. All-over-print, breathable polyester, button-up cut. Sizes M-3XL. Fast worldwide delivery. ₦23,000.
+Focus keyword                       : Ichigo anime jersey
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Ichigo Kurosaki Bleach all-over-print anime baseball jersey in vivid dye-sublimated graphics
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga aesthetic studio shot of an all-over-print anime baseball jersey featuring Ichigo Kurosaki from Bleach, displayed on an invisible mannequin against an ink-black #111111 background. High-contrast monochrome scene with halftone screentone dots and bold manga speed lines radiating outward, brush-ink splatter accents, manga panel layout framing. A single bold manga-red #E2261C pop used sparingly for energy slashing diagonally like a Zangetsu blade. Paper-white #FAFAFA negative space, cinematic premium anime-streetwear mood, dramatic rim lighting, sharp fabric detail.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - QA fixes applied: Grammar error in long_description_html: 'Cut as an unisex button-up...' should be 'Cut as a unisex button-up...' ('unisex' starts with a consonant sound, so it takes 'a').
+================================================================================

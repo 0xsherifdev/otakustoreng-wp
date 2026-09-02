@@ -1,0 +1,83 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Anime Temporary Tattoo
+SLUG         : anime-temporary-tattoo
+BUMPA ID     : 1121916
+WOO TYPE     : simple
+PARENT SKU   : OSN-1121916
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Shop by Anime > Naruto
+
+TAGS: Naruto temporary tattoo, Sharingan tattoo, Curse Mark tattoo, Akatsuki cloud, Konoha symbol, anime temporary tattoo, cosplay tattoo, waterproof temporary tattoo
+FRANCHISE: Naruto    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦3,000
+Total stock   : 16
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Ink the roster. Sharingan, Curse Mark, Konoha and more.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Waterproof temporary tattoos loaded with Naruto-inspired icons: the Sharingan, Curse Mark seal, Hidden Leaf symbol, Eight Trigrams spiral and Akatsuki cloud. Press on, rep your clan, peel off whenever. Fan-made, not affiliated.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Suit up for the next mission without committing to real ink. This Naruto-inspired temporary tattoo pack stacks the symbols every shinobi fan knows on sight: the three-tomoe Sharingan, the Heaven Curse Mark seal, the Hidden Leaf (Konoha) village crest, the Eight Trigrams sealing spiral and the Akatsuki cloud. Wrist, forearm, neck or behind the ear, you decide where to rep the roster.</p>
+<p>Application is the classic wet-transfer method: peel the clear film, press the design face-down onto clean, dry skin, dab with a damp cloth, hold a few seconds, then slide the backing away. Waterproof and sweat-resistant so it stays sharp through the day, and it lifts off easily with oil or alcohol when you want a fresh design.</p>
+<ul>
+<li>Theme: Naruto-inspired symbols (Sharingan, Curse Mark, Konoha crest, Eight Trigrams spiral, Akatsuki cloud)</li>
+<li>Type: waterproof, sweat-resistant wet-transfer temporary tattoo sheets</li>
+<li>Application: press onto clean dry skin, dab with water, peel backing</li>
+<li>Placement: wrist, forearm, neck, ankle or behind the ear</li>
+<li>Finish: crisp black line art for a realistic inked look</li>
+<li>Removal: lifts off with baby oil, lotion or alcohol</li>
+<li>Best for: cosplay, conventions, photoshoots and everyday fan flexing</li>
+<li>Fan-made / anime-inspired design, not affiliated with or endorsed by the franchise</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Naruto-inspired icons: Sharingan, Curse Mark, Konoha crest, Akatsuki cloud
+  • Waterproof and sweat-resistant for all-day wear
+  • Easy wet-transfer application in under a minute
+  • Crisp black line art for a realistic inked finish
+  • Peels off clean with oil or alcohol, no commitment
+  • Perfect for cosplay, cons and photoshoots
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : Naruto Temporary Tattoo Pack | Otaku Store NG
+Meta Description (149 chars) : Waterproof Naruto-inspired temporary tattoos: Sharingan, Curse Mark, Konoha and Akatsuki icons. Easy press-on, peels off clean. Ships nationwide and.
+Focus keyword                       : Naruto temporary tattoo
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Naruto-inspired temporary tattoo sheet featuring Sharingan, Curse Mark seal, Hidden Leaf crest, Eight Trigrams spiral and Akatsuki cloud symbols
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a Naruto-inspired temporary tattoo sheet, ink black #111111 background with paper white #FAFAFA tattoo sheet showing crisp black Sharingan, Curse Mark, Konoha leaf and Akatsuki cloud symbols. A single manga-red #E2261C accent slashes diagonally as a speed-line streak. Halftone dot shading, ink splatter at the corners, dramatic manga panel framing, cinematic top-down lighting, premium and high-contrast.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

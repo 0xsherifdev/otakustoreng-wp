@@ -1,0 +1,73 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Zoro Figurine
+SLUG         : zoro-figurine-1873968
+BUMPA ID     : 1873968
+WOO TYPE     : simple
+PARENT SKU   : OSN-1873968
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Figurines
+  - Shop by Anime > One Piece
+
+TAGS: Zoro figurine, One Piece figure, Roronoa Zoro, anime statue, Santoryu, Three-Sword Style, PVC figurine, anime collectible, One Piece merch, display statue
+FRANCHISE: One Piece    CHARACTER: Roronoa Zoro
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦17,000
+Total stock   : 7
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Three-Sword Style, frozen mid-strike.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Roronoa Zoro caught mid-Santoryu, three katana drawn and green coat flaring. A pre-painted PVC display statue on a sculpted, kanji-carved base, built to anchor any One Piece shelf. Fan-made, anime-inspired collectible for serious display.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>The Pirate Hunter, locked in his Three-Sword Style. This anime-inspired Roronoa Zoro figurine captures Santoryu in full motion: one katana clenched in his teeth, two more swept low and wide, coat flaring behind him as he crouches over a sculpted, kanji-carved battlefield base. The teal hair, the scarred left eye, the cut musculature, the layered green haramaki all read clean and crisp from across the room.</p><p>Hand-painted PVC with sharp panel-line detail and a stable diorama base, this is a shelf centrepiece for any One Piece collector. A premium fan tribute to the Straw Hats' swordsman, not a toy. Handle with care and keep out of direct sunlight to protect the paint.</p><ul><li>Character: Roronoa Zoro (One Piece), Three-Sword Style / Santoryu battle pose</li><li>Material: detailed sculpted, pre-painted PVC with resin accents</li><li>Includes: figure, three katana, sculpted kanji-carved display base</li><li>Finish: hand-painted with crisp panel lines and dynamic effect detailing</li><li>Use: display statue for shelves and cabinets (collector piece, not a toy)</li><li>Care: dust gently, avoid direct sunlight and humidity to preserve paint</li><li>Status: fan-made, anime-inspired collectible, not official or affiliated</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Iconic Three-Sword Style pose with all three katana drawn
+  • Hand-painted PVC with crisp panel-line and effect detailing
+  • Sculpted kanji-carved battlefield base for stable display
+  • Teal hair, scarred eye and flowing green coat captured in detail
+  • Shelf-ready centrepiece for any One Piece collection
+  • Fan-made anime-inspired statue, built for display not play
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (41 chars)        : Zoro Figurine | One Piece Santoryu Statue
+Meta Description (146 chars) : Roronoa Zoro figurine in Three-Sword Style pose. Hand-painted PVC One Piece display statue on a sculpted base. Ships from Nigeria, nationwide and.
+Focus keyword                       : Zoro figurine
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Roronoa Zoro figurine in Three-Sword Style pose with three katana on a sculpted kanji-carved base
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a Roronoa Zoro collector statue in Three-Sword Style: one katana in mouth, two swords swept wide, green coat flaring, crouched on a kanji-carved base. Ink black #111111 background, paper white #FAFAFA rim light, single manga-red #E2261C accent on a slashing speed line behind the blades. Halftone dot shading, sharp ink splatter, manga panel framing, cinematic top-down key light, premium high-contrast collectible photography, ultra-detailed.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

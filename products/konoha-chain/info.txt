@@ -1,0 +1,83 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Konoha Chain
+SLUG         : konoha-chain
+BUMPA ID     : 1927348
+WOO TYPE     : simple
+PARENT SKU   : OSN-1927348
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Naruto
+
+TAGS: Konoha chain, Naruto necklace, Hidden Leaf pendant, anime chain, Konohagakure, Naruto merch, leaf symbol necklace, anime jewelry, alloy chain necklace, fan-made
+FRANCHISE: Naruto    CHARACTER: Konohagakure (Hidden Leaf Village)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦5,500
+Total stock   : 508
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Rep the Hidden Leaf, on and off duty
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A Naruto-inspired Konoha chain with two leaf-symbol pendants on a tarnish-resistant link chain. Lightweight, everyday-ready, and built for fans who came up on the Hidden Leaf. Fan-made, not affiliated. Ships nationwide and worldwide.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>The Hidden Leaf goes everywhere you do. This Naruto-inspired Konoha Chain pairs a forehead-protector-style plate engraved with the iconic Konohagakure leaf symbol alongside an open-cut leaf-swirl pendant, both finished in a clean silver tone with crisp ink-dark detailing. It is the kind of low-key flex every shinobi fan clocks instantly, sized to layer over a tee or sit clean on its own.</p>
+<p>Built to be worn, not just shelved. The polished link chain wears light around the neck and resists tarnish, so it keeps its shine through daily rotation. A confident pickup at <strong>₦5,500</strong> that earns its spot in the everyday roster.</p>
+<ul>
+<li><strong>Design:</strong> Konohagakure leaf-symbol plate pendant plus open leaf-swirl pendant (Naruto-inspired)</li>
+<li><strong>Material:</strong> Tarnish-resistant metal alloy with a silver-tone finish</li>
+<li><strong>Chain:</strong> Slim polished link chain, lobster-clasp closure</li>
+<li><strong>Fit:</strong> Standard unisex length, sits comfortably for layering or solo wear</li>
+<li><strong>Included:</strong> One Konoha Chain (one chain with paired pendants as pictured)</li>
+<li><strong>Care:</strong> Wipe clean with a soft dry cloth; keep away from water, perfume and lotions to preserve the shine</li>
+<li><strong>Shipping:</strong> Ships from Nigeria, nationwide and worldwide</li>
+<li><strong>Note:</strong> Fan-made, anime-inspired merch. Not official or licensed; not affiliated with the rights holders.</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Naruto-inspired Konohagakure leaf-symbol pendants
+  • Tarnish-resistant metal alloy in a clean silver tone
+  • Slim polished link chain that wears light all day
+  • Headband-plate plus leaf-swirl pendant pairing
+  • Unisex length, layers easily or stands on its own
+  • Wipe clean and keep its shine with simple care
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (44 chars)        : Konoha Chain - Naruto-Inspired Leaf Necklace
+Meta Description (153 chars) : Naruto-inspired Konoha Chain with leaf-symbol pendants on a tarnish-resistant link chain. ₦5,500. Fan-made. Ships from Nigeria, nationwide and worldwide.
+Focus keyword                       : Konoha chain necklace
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Silver-tone Naruto-inspired Konoha Chain with a leaf-symbol headband plate pendant and an open leaf-swirl pendant on a slim link chain, held in hand
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product shot of a silver-tone Naruto-inspired Konoha leaf-symbol pendant necklace with a forehead-protector plate and an open leaf-swirl pendant on a slim link chain. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent slashing behind the pendant. Halftone dot texture, sharp speed lines, ink-splatter edges, manga panel framing. Cinematic studio lighting catching the polished metal, premium and crisp, high detail.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+  - QA fixes applied: Naming inconsistency: short_description, long_description, and tags describe the chain as 'tarnish-resistant stainless-steel / alloy' while the Material spec lists 'stainless-steel / alloy' (acceptable as true-to-type), but the dual claim of both stainless steel AND alloy is vague; tightened to a single honest, non-overstated material claim to avoid implying a tested/certified spec.; Voice nit: 'every Shinobi fan' over-capitalizes a common noun; lowercased to 'shinobi'. Minor polish for premium voice consistency.; All hard limits pass (SEO title 44 chars, meta description 151 chars). No official/licensed/trademark claims found; fan-made disclaimer present. Franchise/character correct (Naruto / Konohagakure). Image prompt is on Dark-Manga style. Corrections below are light polish only.
+================================================================================

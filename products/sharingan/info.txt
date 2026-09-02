@@ -1,0 +1,81 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Sharingan
+SLUG         : sharingan
+BUMPA ID     : 4269832
+WOO TYPE     : simple
+PARENT SKU   : OSN-4269832
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Shop by Anime > Naruto
+
+TAGS: Sharingan contact lens, Naruto cosplay, Sasuke Uchiha, cosplay contact lens, Sharingan, anime cosplay lens, Akatsuki, Uchiha
+FRANCHISE: Naruto    CHARACTER: Sasuke Uchiha
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦17,000
+Total stock   : 500
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Unlock the Uchiha gaze.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Drop into character with a crimson Sharingan cosplay contact lens, printed with the iconic three-tomoe Uchiha pattern. The detail that turns a Naruto fit into a full transformation, ready for cons, shoots and cosplay nights.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some looks are decided by the eyes. This Sharingan cosplay contact lens drops you straight into Uchiha bloodline territory, finished in deep manga-red with the unmistakable three-tomoe pattern circling a clear pupil zone so your real eye reads naturally underneath. It is the finishing touch that takes a Sasuke, Itachi or Akatsuki fit from "nice cosplay" to "stop and stare."</p>
+<p>Built for cosplayers, conventions, photoshoots and fan events, the print stays bold under flash and stage lighting while a soft, breathable lens material keeps wear comfortable for the big moments. Anime-inspired fan gear, not affiliated with the official series.</p>
+<ul>
+<li>Design: red Sharingan cosplay contact lens with the classic three-tomoe Uchiha pattern</li>
+<li>Inspiration: Naruto / Sasuke Uchiha and the Akatsuki aesthetic</li>
+<li>Optical type: zero-power (plano) cosmetic cosplay lens for costume use</li>
+<li>Material: soft, breathable hydrogel-style lens for comfortable short-session wear</li>
+<li>Coverage: bold opaque colour with a clear central zone for natural vision</li>
+<li>Best for: cosplay, conventions, photoshoots, Halloween and anime fan events</li>
+<li>Care: clean and store in fresh lens solution; never share lenses or sleep in them</li>
+<li>In the box: one Sharingan cosplay contact lens (single eye)</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Iconic three-tomoe Sharingan print for an instant Uchiha transformation
+  • Deep manga-red colour that pops under camera flash and stage lights
+  • Clear central pupil zone keeps your real vision natural
+  • Soft, breathable lens material for comfortable cosplay sessions
+  • Zero-power cosmetic lens, made purely for costume and fan looks
+  • Built for cons, photoshoots and anime nights
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (56 chars)        : Sharingan Cosplay Contact Lens | Naruto | Otaku Store NG
+Meta Description (149 chars) : Red Sharingan cosplay contact lens with the three-tomoe Uchiha pattern. Naruto-inspired fan gear for cons and shoots. Ships nationwide and worldwide.
+Focus keyword                       : Sharingan contact lens
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Red Sharingan cosplay contact lens with the three-tomoe Uchiha pattern worn in an eye, Naruto-inspired
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-Manga style studio macro shot: a single red Sharingan cosplay contact lens with crisp three-tomoe pattern resting on ink-black #111111 surface, paper-white #FAFAFA halftone dot backdrop, single manga-red #E2261C accent glow, dramatic speed lines radiating outward and a subtle ink splatter framing the lens in a manga panel, premium cinematic product photography, high detail, sharp focus on the tomoe markings
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

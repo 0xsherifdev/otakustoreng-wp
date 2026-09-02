@@ -1,0 +1,80 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Akastuki Headwarmer
+SLUG         : akastuki-headwarmer
+BUMPA ID     : 1143750
+WOO TYPE     : variable
+PARENT SKU   : OSN-1143750
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Headwear
+  - Shop by Anime > Naruto
+
+TAGS: Akatsuki head-warmer, Naruto beanie, anime headwear, Akatsuki cloud, Naruto merch, anime knit beanie, Otaku Store NG, cotton head-warmer
+FRANCHISE: Naruto    CHARACTER: Akatsuki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,500
+Total stock   : 598
+VARIATIONS (attribute: Color)
+  Black          | ₦4,500 | stock 98   | SKU OSN-1143750-BLACK
+  White          | ₦4,500 | stock 100  | SKU OSN-1143750-WHITE
+  Red            | ₦4,500 | stock 100  | SKU OSN-1143750-RED
+  Ash            | ₦4,500 | stock 100  | SKU OSN-1143750-ASH
+  Purple         | ₦4,500 | stock 100  | SKU OSN-1143750-PURPLE
+  Pink           | ₦4,500 | stock 100  | SKU OSN-1143750-PINK
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Rock the red clouds. Stay warm, stay rogue.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Anime-inspired Akatsuki head-warmer in soft cotton knit, stitched with the rogue-ninja red cloud motif. One-size stretch fit, six colourways, and a snug everyday wear built for fans who rep the roster loud.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Pull on the red clouds. This Akatsuki head-warmer takes the most feared crew in <em>Naruto</em> and turns it into everyday headwear you can actually rep on the street. The signature cloud motif sits clean on a soft cotton knit, so you stay warm while flying the rogue-ninja flag.</p><p>Cut for a snug, stretchy one-size fit that hugs the head without squeezing, it layers easily under a hood or rides solo. Six colourways mean you can match your fit to your favourite member or your whole wardrobe. Anime-inspired fan gear, not affiliated with or endorsed by the official rights holders.</p><ul><li>Material: soft cotton knit, breathable and stretchy</li><li>Motif: Akatsuki red cloud, stitched front detail</li><li>Fit: one-size adjustable stretch, snug everyday wear</li><li>Colour options: Black, White, Red, Ash, Purple, Pink</li><li>Style: unisex head-warmer / knitted beanie cut</li><li>Wear: layers under hoods or solo; all-season comfort</li><li>Care: gentle cool wash, reshape and air dry flat</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Stitched Akatsuki red cloud motif for true Naruto fans
+  • Soft cotton knit that is breathable and stretchy
+  • One-size adjustable stretch fit for a snug everyday wear
+  • Six colourways: Black, White, Red, Ash, Purple, Pink
+  • Unisex cut that layers under hoods or stands solo
+  • Anime-inspired fan gear, not affiliated with the official brand
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (42 chars)        : Akatsuki Head-Warmer | Naruto Anime Beanie
+Meta Description (151 chars) : Anime-inspired Akatsuki head-warmer with the Naruto red cloud motif. Soft cotton knit, one-size stretch fit, 6 colours. Ships nationwide and worldwide.
+Focus keyword                       : Akatsuki head-warmer
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Black Akatsuki head-warmer beanie with the Naruto red cloud motif stitched on the front
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a knitted cotton head-warmer beanie featuring the Akatsuki red cloud motif, displayed on a clean head form. Ink black #111111 background, paper white #FAFAFA negative space, single manga-red #E2261C accent on the cloud detail. Halftone dot shading, sharp speed lines radiating behind the beanie, a splash of ink splatter framing one corner, divided into subtle manga panels. Premium, cinematic, high-contrast, sharp focus on the knit texture and stitched cloud.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

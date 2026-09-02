@@ -1,0 +1,75 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Berserk2 gym short
+SLUG         : berserk2-gym-short
+BUMPA ID     : 2987900
+WOO TYPE     : variable
+PARENT SKU   : OSN-2987900
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Shorts
+  - Shop by Anime > Berserk
+
+TAGS: Baki gym shorts, anime gym shorts, 2-in-1 compression shorts, manga print shorts, Baki the Grappler merch, Baki Hanma, mesh workout shorts, anime activewear
+FRANCHISE: Baki the Grappler    CHARACTER: Baki Hanma
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦16,000
+Total stock   : 400
+VARIATIONS (attribute: Size)
+  L              | ₦16,000 | stock 100  | SKU OSN-2987900-L
+  XL             | ₦16,000 | stock 100  | SKU OSN-2987900-XL
+  2XL            | ₦16,000 | stock 100  | SKU OSN-2987900-2XL
+  3XL            | ₦16,000 | stock 100  | SKU OSN-2987900-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+2-in-1 mesh gym shorts with manga-panel liner.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Train like a Hanma. These Baki-inspired 2-in-1 gym shorts pair a breathable black mesh outer with a printed compression liner stacked with manga fight panels. Elastic drawstring waist, unisex fit, built for heavy warm-weather sessions.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Step into the arena. These Baki-inspired 2-in-1 gym shorts stack a lightweight, breathable black mesh outer over a printed compression liner loaded with manga fight panels and the bold BAKI graphic in our signature manga-red. The mesh keeps you cool through warm-weather sessions while the snug inner layer locks everything in for lifts, sprints, and street fits alike.</p><p>An anime-inspired fan piece for Baki the Grappler diehards. Not official or affiliated. Just wear the roster.</p><ul><li>2-in-1 build: breathable mesh outer short with a printed compression liner underneath</li><li>All-over manga-panel print plus BAKI front graphic in manga-red on ink black</li><li>Elastic drawstring waist for an adjustable, secure fit</li><li>Lightweight and breathable, made for warm weather and hard training</li><li>Unisex cut, suits gym sessions, lounging, and casual fits</li><li>Available in L, XL, 2XL and 3XL</li><li>Care: machine wash cold, inside out, hang dry to protect the print</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • 2-in-1 design: airy mesh outer over a printed compression liner
+  • Bold BAKI manga-panel print in manga-red on ink black
+  • Elastic drawstring waist for a locked-in, adjustable fit
+  • Lightweight, breathable build for warm-weather training
+  • Unisex cut in L, XL, 2XL and 3XL
+  • Fan-made tribute, not official or affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (42 chars)        : Baki 2-in-1 Gym Shorts | Anime Mesh Shorts
+Meta Description (148 chars) : Baki-inspired 2-in-1 gym shorts: breathable mesh outer, manga-panel compression liner, drawstring waist. Unisex L-3XL. Ships from Nigeria worldwide.
+Focus keyword                       : Baki gym shorts
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black 2-in-1 Baki gym shorts with red drawstrings, BAKI front graphic and manga fight-panel compression liner
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+DARK MANGA studio product shot of black 2-in-1 mesh gym shorts with red drawstrings and a BAKI manga-panel compression liner, folded on an ink-black surface. Ink black #111111 background, paper white #FAFAFA rim light, single manga-red #E2261C accent on the drawstrings and graphic. Halftone dots, dynamic speed lines and ink splatter framing the shorts inside subtle manga panels, premium cinematic lighting, high detail, no text overlay.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

@@ -1,0 +1,78 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Led Framed Lamp
+SLUG         : led-framed-lamp
+BUMPA ID     : 1483927
+WOO TYPE     : simple
+PARENT SKU   : OSN-1483927
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Home & Decor > Room Decor
+  - Shop by Anime > Naruto
+
+TAGS: Naruto LED lamp, Sasuke light box, anime LED lamp, Naruto room decor, shadow box lamp, anime desk light, Uchiha decor, otaku room decor, anime wall art, LED frame lamp
+FRANCHISE: Naruto    CHARACTER: Sasuke Uchiha
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦26,000
+Total stock   : 5
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Light up your shelf with Sharingan-red glow
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A layered shadow-box LED light box that frames Sasuke in cinematic depth. Soft, even glow turns your desk or shelf into a Hidden Leaf shrine - flip the switch and the panel comes alive. Anime-inspired room decor for serious fans.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some panels hit different in the dark. This Naruto LED Framed Lamp stacks laser-cut layers behind glass so Sasuke's stare reads with real depth, then backlights it with a clean, even glow that fills the box edge to edge. Set it on your desk, your shelf, or your bedside table and watch a flat print turn into a lit centrepiece.</p><p>It is the easy upgrade for any otaku setup - statement lighting by night, sharp display art by day. Fan-made and anime-inspired, built to anchor a room that wears the roster.</p><ul><li>Layered 3D shadow-box light box with a clean white frame</li><li>Naruto-inspired front panel featuring Sasuke Uchiha (catalogue includes Itachi, Minato and Kakashi designs)</li><li>LED backlight casts a soft, even glow for ambient mood lighting</li><li>Compact rectangular format - sits flat on a desk, shelf or nightstand</li><li>USB-powered for simple plug-and-play setup</li><li>Doubles as display wall art when switched off</li><li>Wipe gently with a dry cloth; keep away from water</li><li>Fan / anime-inspired collectible - not official or affiliated with the rights holders</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Layered shadow-box design gives the artwork real 3D depth
+  • Soft, even LED backlight - ambient mood lighting by night, display art by day
+  • Sasuke front panel with a Sharingan-red glow that owns the shelf
+  • USB-powered plug-and-play - no fuss setup
+  • Compact desk-and-shelf format for any otaku space
+  • Fan / anime-inspired - ships nationwide and worldwide from Nigeria
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (41 chars)        : Naruto LED Framed Lamp - Sasuke Light Box
+Meta Description (149 chars) : Naruto LED framed lamp featuring Sasuke. Layered shadow-box light box with a soft glow for your desk or shelf. ₦26,000. Ships nationwide & worldwide.
+Focus keyword                       : Naruto LED framed lamp
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+  05.jpg  (gallery)
+  06.jpg  (gallery)
+  07.jpg  (gallery)
+  08.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Naruto LED framed lamp showing Sasuke Uchiha glowing red in a white shadow-box frame on a dark shelf
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-Manga product studio shot: a rectangular anime LED shadow-box lamp glowing manga-red (#E2261C) on an ink-black #111111 surface, layered paper-cut depth visible through the frame. Halftone dot texture and diagonal speed lines radiate from the glow, a single ink splatter in the corner, paper-white #FAFAFA highlights catching the white frame edge. Cinematic, premium, high-contrast manga-panel composition, dramatic side lighting, shallow depth of field.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

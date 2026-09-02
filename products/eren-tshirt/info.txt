@@ -1,0 +1,92 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Eren Tshirt
+SLUG         : eren-tshirt
+BUMPA ID     : 1131334
+WOO TYPE     : variable
+PARENT SKU   : OSN-1131334
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+  - Shop by Anime > Attack on Titan
+
+TAGS: Eren t-shirt, Attack on Titan t-shirt, Eren Yeager, Survey Corps, Shingeki no Kyojin, anime t-shirt, AOT merch, anime graphic tee
+FRANCHISE: Attack on Titan    CHARACTER: Eren Yeager
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦12,000
+Total stock   : 995
+VARIATIONS (attribute: Size & Color)
+  M-Black        | ₦12,000 | stock 98   | SKU OSN-1131334-MBLACK
+  M-White        | ₦12,000 | stock 100  | SKU OSN-1131334-MWHITE
+  L-Black        | ₦12,000 | stock 100  | SKU OSN-1131334-LBLACK
+  L-White        | ₦12,000 | stock 98   | SKU OSN-1131334-LWHITE
+  Xl-Black       | ₦12,000 | stock 100  | SKU OSN-1131334-XLBLACK
+  Xl-White       | ₦12,000 | stock 100  | SKU OSN-1131334-XLWHITE
+  2xl-Black      | ₦12,000 | stock 99   | SKU OSN-1131334-2XLBLACK
+  2xl-White      | ₦12,000 | stock 100  | SKU OSN-1131334-2XLWHITE
+  3xl-Black      | ₦12,000 | stock 100  | SKU OSN-1131334-3XLBLACK
+  3xl-White      | ₦12,000 | stock 100  | SKU OSN-1131334-3XLWHITE
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Front emblem, full-back Eren line-art. Wear the roster.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+An anime-inspired Attack on Titan tee built for Eren mains. Subtle Survey Corps emblem on the chest, bold back print of Eren and the Shingeki no Kyojin logo with a manga-red splatter. Soft cotton, unisex crew neck, fade-resistant print.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Devote your heart. This Eren Yeager tee channels everything that makes <em>Attack on Titan</em> hit so hard: a clean Survey Corps "Wings of Freedom" emblem sits on the front-left chest, while the back goes all-out with a striking line-art portrait of Eren paired with the iconic Shingeki no Kyojin logo and a single manga-red splatter. Understated from the front, unmissable from behind.</p>
+<p>Cut for everyday rotation, it's a soft, breathable crew neck with a relaxed unisex fit that layers easily and wears in beautifully. A fan-made, anime-inspired piece for true AOT heads, this is not an official or licensed product.</p>
+<ul>
+<li><strong>Design:</strong> Survey Corps emblem front print, large Eren back print with Shingeki no Kyojin logo and manga-red accent</li>
+<li><strong>Material:</strong> Soft, breathable cotton (cotton-blend on some runs)</li>
+<li><strong>Fit:</strong> Unisex regular/relaxed fit, classic crew neck</li>
+<li><strong>Print:</strong> Durable, fade-resistant graphic</li>
+<li><strong>Colours:</strong> Black or White</li>
+<li><strong>Sizes:</strong> M, L, XL, 2XL, 3XL</li>
+<li><strong>Care:</strong> Machine wash cold, inside-out; do not iron directly on the print</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Survey Corps emblem front print with full-back Eren line-art design
+  • Iconic Shingeki no Kyojin logo finished with a single manga-red splatter
+  • Soft, breathable cotton in a relaxed unisex crew-neck fit
+  • Durable, fade-resistant graphic that holds up wash after wash
+  • Available in Black or White, sizes M to 3XL
+  • Fan-made, anime-inspired tee for true AOT fans
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : Eren Attack on Titan T-Shirt | Otaku Store NG
+Meta Description (153 chars) : Anime-inspired Eren Yeager Attack on Titan tee. Survey Corps front emblem, bold back print. Soft cotton, unisex fit, Black or White, M-3XL. From ₦12,000.
+Focus keyword                       : Eren Attack on Titan t-shirt
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Attack on Titan Eren t-shirt in black and white with Survey Corps front emblem and large Eren back print
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga style studio product shot of a folded anime graphic t-shirt, ink black #111111 background with paper white #FAFAFA fabric flat-lay, single manga-red #E2261C accent on the printed Shingeki no Kyojin logo. Halftone dot shading, dramatic speed lines radiating outward, ink splatter framing the corners, arranged inside angular manga panels. Crisp Eren Yeager line-art portrait visible on the back panel, Survey Corps wings emblem on the chest. Premium, cinematic, high-contrast lighting, sharp focus.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

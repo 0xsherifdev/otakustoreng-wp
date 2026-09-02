@@ -1,0 +1,86 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Toji Sweater
+SLUG         : toji-sweater
+BUMPA ID     : 2135562
+WOO TYPE     : variable
+PARENT SKU   : OSN-2135562
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Toji Fushiguro, Jujutsu Kaisen, JJK sweater, anime sweater, knit crewneck, anime streetwear, Toji merch, unisex pullover, anime hoodie
+FRANCHISE: Jujutsu Kaisen    CHARACTER: Toji Fushiguro
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦29,000
+Total stock   : 39
+VARIATIONS (attribute: Size)
+  L              | ₦29,000 | stock 10   | SKU OSN-2135562-L
+  XL             | ₦29,000 | stock 10   | SKU OSN-2135562-XL
+  2XL            | ₦29,000 | stock 9    | SKU OSN-2135562-2XL
+  XXXL           | ₦29,000 | stock 10   | SKU OSN-2135562-XXXL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The Sorcerer Killer, rendered in ink.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A cream knit crewneck pullover built around a bold ink-style graphic of Toji Fushiguro mid-strike. Heavyweight, brushed-soft inside, with ribbed collar, cuffs and hem for a clean unisex streetwear drape. Fan-made, anime-inspired.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some characters don't need cursed energy to be terrifying. This Toji Fushiguro knit sweater puts the Sorcerer Killer front and centre, captured mid-strike in a heavy black ink rendering that bleeds across a clean cream body. Speed lines, splatter and that cold grin do the talking, no logos needed, just pure Jujutsu Kaisen menace built into the weave.</p>
+<p>Cut as a relaxed unisex crewneck pullover with a brushed-soft interior, it layers as easily over a tee as it does under a jacket. A fan-made, anime-inspired piece for fans who want their roster on their chest, not screen-printed on for one wash.</p>
+<ul>
+<li>Knit crewneck pullover sweater with woven-in graphic, not a flaky print</li>
+<li>Bold ink-style portrait of Toji Fushiguro mid-strike with manga speed lines and splatter</li>
+<li>Brushed-soft interior for warmth and comfort</li>
+<li>Ribbed crew collar, cuffs and hem for structure and shape retention</li>
+<li>Relaxed unisex streetwear fit</li>
+<li>Available in L, XL, 2XL and XXXL</li>
+<li>Machine wash cold, inside-out; lay flat to dry to protect the knit</li>
+<li>Fan / anime-inspired design, not official or affiliated with the franchise</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Woven-in ink graphic of Toji Fushiguro, not a peeling screen print
+  • Heavyweight knit crewneck with brushed-soft interior for warmth
+  • Ribbed crew collar, cuffs and hem hold their shape wash after wash
+  • Relaxed unisex streetwear fit, sizes L through XXXL
+  • Manga speed lines and ink splatter for full Jujutsu Kaisen menace
+  • Fan-made, anime-inspired piece, not official or affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (44 chars)        : Toji Fushiguro Knit Sweater | Jujutsu Kaisen
+Meta Description (144 chars) : Cream knit crewneck pullover with a bold ink graphic of Toji Fushiguro. Brushed-soft, ribbed trims, unisex fit. Fan-made JJK merch from ₦29,000.
+Focus keyword                       : Toji Fushiguro sweater
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Cream knit crewneck sweater featuring a large black ink-style manga graphic of Toji Fushiguro from Jujutsu Kaisen mid-strike with his blade
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a cream off-white knit crewneck pullover sweater laid flat, dominated by a bold black ink illustration of Toji Fushiguro mid-strike with his blade. Ink black #111111 and paper white #FAFAFA palette with a single manga-red #E2261C accent slashing through the frame as a speed line. Halftone dot shading, sharp manga speed lines, ink splatter around the edges, arranged like a cinematic manga panel. Premium, high-contrast, dramatic studio lighting, crisp fabric texture showing ribbed collar, cuffs and hem.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

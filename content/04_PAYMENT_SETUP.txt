@@ -1,0 +1,220 @@
+OTAKU STORE NG — PAYMENT GATEWAY SETUP & CURCY CONFIGURATION
+=============================================================
+Store: WordPress + Minimog + WooCommerce | Base currency: NGN (₦)
+Ships: Nigeria + worldwide | Primary gateway: Paystack
+Last updated: 2026-06-08 (web-verified pricing)
+
+
+-------------------------------------------------------------
+1. DECISION SUMMARY
+-------------------------------------------------------------
+Primary gateway:   PAYSTACK
+Shipping:          Terminal Africa (plugin used for couriers ONLY,
+                   payment layer disabled; wallet pre-funded by
+                   local bank transfer / local card — never an
+                   international card, which costs 4.5% uncapped)
+Display layer:     Curcy (CURCY Premium) — shows local-currency
+                   prices, but every charge settles in NGN
+
+Why Paystack:
+ - Best Nigerian card authorization rates (bulk of sales are local)
+ - Cleanest WooCommerce plugin
+ - Accepts international Visa/Mastercard/Amex from any country
+ - On a ₦-priced cart, foreign cards settle in NGN to ANY Nigerian
+   bank — no domiciliary account, no Zenith lock-in, no $1,000 trap
+ - %-based fee is safe for low-value anime merch
+   (Squad's flat $2.50/$5 intl fees would cost ~12% on a $20 tee)
+
+Fees (verified June 2026):
+ - Local:          1.5% + ₦100 (flat ₦100 waived under ₦2,500), cap ₦2,000
+ - International:   3.9% + ₦100, settled in NGN by default
+ - Payout (NGN):    T+1
+
+Phase-2 upgrade trigger:
+ Add KORAPAY (bank-agnostic USD settlement + Virtual USD accounts,
+ no Zenith requirement, no $1,000 threshold) ONLY when international
+ becomes a real revenue line AND you decide to actually BANK USD/GBP
+ (not just display it). Until then it is unnecessary complexity.
+
+Rejected for this store:
+ - Squad:      flat intl fees destroy low-AOV margins
+ - Flutterwave:$1,000 USD settlement trap + 7.5% VAT on fees
+ - Monnify:    domestic-only strength, weak cross-border
+ - Terminal embedded wallet: liquidity held captive in a logistics co.
+
+
+-------------------------------------------------------------
+2. HOW INTERNATIONAL PAYMENT ACTUALLY WORKS HERE
+-------------------------------------------------------------
+A Nigerian Paystack account can only CHARGE in NGN (or USD only via
+the Zenith dom-account pilot). It CANNOT charge EUR / GBP / GHS.
+
+So a customer in Ghana, Netherlands, US, etc.:
+ - Sees local-currency prices (Curcy display)
+ - Pays with their normal Visa/Mastercard/Amex
+ - Is charged the NGN equivalent; their own bank does the FX
+ - Statement shows a Naira charge
+ - You receive NGN next-day to your normal Nigerian bank account
+
+Caveats (normal for African gateways):
+ - Some foreign banks add a foreign-transaction fee / fraud-flag
+   the NGN charge
+ - 3D-Secure OTP can fail on roaming SIMs
+ (These are exactly what Korapay's USD-virtual-account route solves
+  LATER — not a reason to switch now.)
+
+KEY PRINCIPLE:
+ Curcy is a DISPLAY layer, not a settlement layer. Let it show local
+ currency for browsing, but force the actual payment to settle in the
+ base currency (NGN). It cannot make Paystack pay you in euros.
+
+
+-------------------------------------------------------------
+3. CURCY PREMIUM — PRECISE SETTINGS
+   (WooCommerce → Multi Currency)
+-------------------------------------------------------------
+
+STEP 0 — Base currency
+ WooCommerce → Settings → General → Currency = Nigerian Naira (₦)
+
+STEP 1 — Currencies (what you DISPLAY)
+ General tab → "Currency option"
+ - Add: USD, EUR, GBP, GHS (plus NGN as base)
+ - Each: set Symbol, Decimals = 2
+ - Rate: leave on AUTO-UPDATE (live rates) or set manually
+ - TIP: add a small rate markup (+3–5%) per currency to cushion FX
+   swings between display price and the NGN your bank receives
+
+STEP 2 — General tab
+ - Enable:                    ON
+ - Fixed Price:               OFF  (let exchange rates do the work
+                                    across all 890 products)
+ - Don't use exchange rate:   OFF
+ - Data storage method:       WooCommerce Session
+ - Switch Currency by JS:     ON   (clean URLs for SEO)
+ - Use Cache plugin:          AJAX (if running WP Rocket/LiteSpeed),
+                                    else default
+ - Bot currency:              NGN  (Google indexes real base prices)
+ - Fixed Structure currency:  NGN  (schema markup matches base)
+
+STEP 3 — Location tab (auto-detect) — REAL LABELS from this install
+ - Auto Detect:           "Auto select currency"
+                          (auto-switches the visitor to their currency;
+                           "Approximate Price" only shows a ~estimate;
+                           "Initial currency" just forces one default)
+ - Switch when user login: "Billing, if empty, select Shipping"
+                          (returning customers follow billing country)
+ - Geo API:               "WooCommerce Geolocation" (free)
+                          OR "MaxMind Geolocation" (faster; needs free
+                          license key in WooCommerce > Settings >
+                          Integration)
+   * DEPENDENCY: WooCommerce > Settings > General >
+     "Default customer location" = "Geolocate"
+     (or "Geolocate (with page caching support)" if using a cache
+     plugin). Without this, WooCommerce Geolocation has no data.
+ - Currency by Country:   toggle ON
+   1. Click green "Get country by currency" to auto-fill each row
+   2. Tidy to:
+        NGN -> Nigeria
+        GHS -> Ghana
+        GBP -> United Kingdom
+        USD -> United States + main export/diaspora markets
+               (Canada, Germany, France, UAE, Australia, etc.)
+   * FALLBACK: any unmapped country falls back to base NGN and sees
+     Naira prices. Pad the USD row with the countries you actually
+     ship to so "rest of world" lands on USD, not raw Naira. Customers
+     can still switch manually via the switcher.
+
+STEP 4 — Checkout tab  *** THIS PREVENTS FAILURES ***
+ REAL LABELS from this install. CORE RULE: only NGN may have
+ "Checkout Currency = Yes" so every order converts to NGN before it
+ reaches Paystack. This is the safe, verified launch setup.
+
+ - Enable:                     ON   ("Manage checkout currencies")
+ - Enable Cart Page:           OFF  (customers keep seeing their own
+                                     currency through the cart; it
+                                     converts to NGN only at payment)
+ - Checkout currency table:
+        NGN  -> Default ON, Checkout Currency = Yes
+        USD  -> Checkout Currency = No
+        GBP  -> Checkout Currency = No
+        GHS  -> Checkout Currency = No
+   => Browsing currency (USD/GBP/GHS) is display-only; order reverts
+      to NGN at checkout, Paystack charges NGN, customer's bank does
+      the FX. No "Currency Not Supported" error possible.
+ - Currency by Payment method: OFF (empty)
+ - Change currency follow:     None (conflicts with switcher at checkout)
+ - Display multi currencies:   OFF  (optional later: ON shows the
+                                     customer's currency estimate next
+                                     to the NGN total at checkout)
+ - Click SAVE.
+
+ LATER (when adding a USD-capable gateway — Paystack USD via Zenith,
+ or Korapay): flip USD -> Checkout Currency = Yes AND drop that gateway
+ into the USD row's "Payment methods" box. NEVER set EUR/GBP/GHS to Yes
+ unless a gateway can actually charge that currency.
+
+STEP 5 — Test before trusting it
+ 1. Incognito window → switch to EUR → confirm € prices show
+ 2. Add item → checkout → confirm Paystack total shows in ₦
+    (recommended mode) → complete with a test card
+ 3. Switch to GHS → repeat
+ No "Currency Not Supported" error = configured correctly
+
+
+-------------------------------------------------------------
+4. PAYSTACK — ACQUISITION & SETUP
+-------------------------------------------------------------
+
+A. CREATE + VERIFY ACCOUNT
+ - Sign up at dashboard.paystack.com (business email)
+ - Submit compliance: CAC (RC number), TIN, director ID,
+   business bank account (any Nigerian bank — NGN settles here)
+ - Settings → Preferences → turn ON
+   "Accept payments from international cards"
+ - (Only if you later want USD payouts) open a Zenith Bank USD
+   domiciliary account — Paystack has a fast-track form. Skip for now.
+
+B. GET API KEYS
+ - Settings → API Keys & Webhooks
+ - Copy Test + Live (public + secret) keys
+ - Set Webhook URL (plugin shows the exact one), e.g.
+   https://otakustoreng.com/?wc-api=wc_paystack
+
+C. INSTALL WOOCOMMERCE PLUGIN
+ - Plugins → Add New → "Paystack WooCommerce" (by Paystack)
+ - Install → Activate
+ - WooCommerce → Settings → Payments → Paystack → Manage:
+   enable, paste keys, start in TEST mode, tick international cards
+
+D. TEST → GO LIVE
+ - Test order with Paystack test cards; confirm order → Processing
+   and webhook fires
+ - Flip to LIVE; do one real ₦100–₦500 purchase; confirm settlement
+
+E. TERMINAL AFRICA (shipping, kept separate)
+ - Install Terminal Africa plugin, paste API key
+ - DISABLE its payment layer (you use Paystack)
+ - Keep courier + address validation only
+ - Pre-fund wallet via LOCAL bank transfer (₦200 flat over ₦10k) —
+   NOT an international card (4.5% uncapped)
+ - Ensure plugin >= v1.13.18 (CVE-2025-32515 XSS affected <=1.13.17)
+
+MARGIN TIP:
+ Paystack charges its % on the GROSS (product + shipping), so you pay
+ ~3.9% on the DHL fee too. Use Terminal's "markup on fees" setting to
+ invisibly offset that on the shipping line.
+
+
+-------------------------------------------------------------
+5. SOURCES (verified June 2026)
+-------------------------------------------------------------
+ - Paystack pricing:        https://paystack.com/pricing
+ - Paystack intl payments:  https://support.paystack.com/en/articles/2130690
+ - Paystack USD/Zenith:     https://paystack.com/blog/product/zenith-bank-usd-settlements
+ - "Currency Not Supported": https://support2.paystack.com/hc/en-us/articles/360013622540-Transaction-Error-Currency-Not-Supported
+ - Curcy plugin:            https://wordpress.org/plugins/woo-multi-currency/
+ - Curcy docs:              https://docs.villatheme.com/woocommerce-multi-currency/
+ - Korapay USD virtual acct: https://developers.korapay.com/docs/virtual-bank-accounts-usd
+ - Flutterwave threshold:   https://flutterwave.com/us/support/payments/minimum-settlement-threshold
+ - Terminal WooCommerce:    https://www.terminal.africa/woocommerce

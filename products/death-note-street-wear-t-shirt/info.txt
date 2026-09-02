@@ -1,0 +1,78 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Death Note Street Wear T Shirt
+SLUG         : death-note-street-wear-t-shirt
+BUMPA ID     : 1125402
+WOO TYPE     : variable
+PARENT SKU   : OSN-1125402
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+
+TAGS: Death Note t-shirt, Death Note streetwear, anime t-shirt, anime streetwear, Light Yagami shirt, manga tee, unisex anime tee, otaku fashion
+FRANCHISE: Death Note    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦24,000
+Total stock   : 500
+VARIATIONS (attribute: Size)
+  M              | ₦24,000 | stock 100  | SKU OSN-1125402-M
+  L              | ₦24,000 | stock 100  | SKU OSN-1125402-L
+  XL             | ₦24,000 | stock 100  | SKU OSN-1125402-XL
+  2XL            | ₦24,000 | stock 100  | SKU OSN-1125402-2XL
+  XXXL           | ₦24,000 | stock 100  | SKU OSN-1125402-XXXL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the notebook. Wear the verdict.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Death Note-inspired streetwear tee in thick, soft cotton with a bold, fade-resistant graphic. Unisex regular fit, crew neck, built for everyday wear. A fan-made piece for anyone who lives by their own rules.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Make your statement without saying a word. This Death Note-inspired streetwear tee channels the show's eerie, high-stakes energy into a bold front graphic on heavyweight cotton, the kind of tee that holds its shape and earns a permanent spot in your rotation. Cut for comfort and built to last, it pairs with everything from joggers to denim while you write your own story.</p><p>This is a fan-made, anime-inspired design and is not official or affiliated with the Death Note franchise. Choose your favourite print at checkout and wear the roster with pride.</p><ul><li>Fabric: thick, soft 100% cotton for a structured, premium feel</li><li>Fit: unisex regular fit, true to size</li><li>Neckline: ribbed crew neck</li><li>Print: bold Death Note-inspired front graphic, durable and fade-resistant</li><li>Sizes: M, L, XL, 2XL, XXXL</li><li>Design selection: indicate your chosen print (slide) at checkout</li><li>Care: machine wash cold, inside-out; do not tumble dry</li><li>Style: everyday anime streetwear, easy to layer</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Heavyweight, soft 100% cotton with a structured, premium feel
+  • Bold Death Note-inspired front graphic, durable and fade-resistant
+  • Unisex regular fit with a ribbed crew neck
+  • Sizes M through XXXL for an inclusive range
+  • Pick your favourite print (slide) at checkout
+  • Fan-made anime-inspired design, not official or affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (48 chars)        : Death Note Streetwear T-Shirt | Anime Cotton Tee
+Meta Description (155 chars) : Death Note-inspired streetwear t-shirt in thick soft cotton. Unisex fit, bold fade-resistant graphic, sizes M-XXXL. Fan-made anime tee from Otaku Store NG.
+Focus keyword                       : Death Note streetwear t-shirt
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Death Note-inspired streetwear t-shirt in cotton with a bold front graphic, unisex regular fit
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a folded streetwear t-shirt on ink black #111111 backdrop, single manga-red #E2261C accent lighting, halftone dot texture and diagonal speed lines behind, subtle ink splatter framing, paper white #FAFAFA highlights catching the fabric weave, premium cinematic lighting, manga panel composition, high detail, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

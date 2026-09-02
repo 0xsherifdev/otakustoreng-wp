@@ -1,0 +1,72 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Nanami tie
+SLUG         : nanami-tie
+BUMPA ID     : 4435102
+WOO TYPE     : simple
+PARENT SKU   : OSN-4435102
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Ties
+  - Shop by Anime > One Piece
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Nanami tie, Jujutsu Kaisen tie, anime necktie, Kento Nanami, JJK merch, anime tie, anime-inspired tie, otaku fashion
+FRANCHISE: Jujutsu Kaisen    CHARACTER: Kento Nanami
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦9,500
+Total stock   : 500
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The salaryman sorcerer's daily wear, reimagined
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel Kento Nanami's overtime-is-over energy with this anime-inspired necktie. Smooth woven finish, standard adult length, and a clean Jujutsu Kaisen-flavoured design that reps your roster from the office to the convention floor.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Nanami Kento built his whole vibe on one principle: do the job right, then clock out. This Nanami-inspired necktie carries that same disciplined, salaryman-sorcerer energy into your wardrobe. A smooth woven finish and a confident, manga-flavoured colourway let you rep Jujutsu Kaisen at work, weddings, exams or the next con without saying a word.</p><p>Cut to a standard adult length and built to knot clean every time, it is the easy way to slot your favourite jujutsu sorcerer into a real outfit. Wear the roster, then call it a day.</p><ul><li>Anime-inspired Kento Nanami / Jujutsu Kaisen design</li><li>Smooth woven necktie with a premium finish</li><li>Standard adult length, suited to most collar and suit styles</li><li>Knots cleanly for a sharp, structured look</li><li>Versatile for work, formal events and anime meet-ups</li><li>Wipe clean and store rolled or hung to keep its shape</li><li>Fan-made, anime-inspired tribute; not affiliated with or endorsed by the rights holders</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Anime-inspired Kento Nanami (Jujutsu Kaisen) design
+  • Smooth woven finish with a premium hand-feel
+  • Standard adult length that knots clean and sharp
+  • Versatile from the office to weddings to conventions
+  • Easy care: wipe clean, store rolled or hung
+  • Fan tribute, not an official licensed product
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (41 chars)        : Nanami Tie | Jujutsu Kaisen Anime Necktie
+Meta Description (153 chars) : Anime-inspired Kento Nanami necktie. Smooth woven finish, standard adult length, sharp clean knot. Rep Jujutsu Kaisen at work or con. Ships from Nigeria.
+Focus keyword                       : Nanami tie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Nanami-inspired Jujutsu Kaisen anime necktie with a smooth woven finish, shown knotted
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a folded anime necktie laid on ink-black #111111 surface, paper-white #FAFAFA backdrop, single manga-red #E2261C accent. Halftone dot shading, dynamic speed lines and a flick of ink splatter framing the tie in a clean manga panel layout. The tie knotted at the top, fabric cascading diagonally, premium cinematic lighting, high contrast, sharp focus, salaryman-sorcerer mood. No text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

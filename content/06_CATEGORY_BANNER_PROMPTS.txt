@@ -1,0 +1,239 @@
+OTAKU STORE NG — CATEGORY BANNER IMAGE PROMPTS (WIDE / TITLE-BAR)
+==================================================================
+For: WooCommerce > Edit Category > "Banner" field (Minimog title-bar background).
+Tool: Google Flow (Imagen). Recommended size: 1920 x 480 px (~4:1 ultra-wide).
+Brand: Dark Manga — ink black #111111, paper white #FAFAFA, manga-red #E2261C,
+halftone dots, speed lines, ink splatter.
+Companion to 05_CATEGORY_ICON_PROMPTS.txt (square icons). 46 categories.
+
+HOW TO USE
+----------
+1. The category NAME + breadcrumb sit ON TOP of this image in light/white text,
+   so banners are intentionally DARK and atmospheric (opposite of the bright square icons).
+2. Paste: <category subject>  +  <STYLE BLOCK>
+3. Keep a calmer/darker mid-band; push focal art toward the edges so the centered
+   title text stays legible.
+4. Franchise banners = fan/anime-INSPIRED symbolic scenes ONLY. No copyrighted
+   characters, faces, or official logos (brand rule: never imply official/licensed).
+
+
+==================================================================
+STYLE BLOCK  (append to every prompt below)
+==================================================================
+wide cinematic full-bleed manga key-visual banner, dark moody atmosphere, ink-black
+(#111111) base with bold manga-red (#E2261C) accents, halftone texture, dramatic speed
+lines and ink splatter, dramatic rim lighting, a subtle dark gradient and vignette
+across the whole frame so light overlaid title text stays readable, focal elements
+pushed toward the left and right edges leaving a calmer darker mid-band, high detail,
+no text, no words, no logos, no watermark, 1920x480 ultra-wide 4:1 aspect ratio
+
+
+==================================================================
+A. PRODUCT CATEGORIES
+==================================================================
+
+Accessories
+ A dark display surface scattered edge to edge with enamel pins, woven patches,
+ keychains and badges, dramatic side light and red glints. [STYLE BLOCK]
+
+AirPods Cases
+ A row of wireless-earbud charging cases lined across a dark reflective surface,
+ sharp rim light, charm straps dangling. [STYLE BLOCK]
+
+Bottles & Drinkware
+ A lineup of insulated bottles and tumbler mugs across a dark counter, condensation
+ droplets, red label accents, moody backlight. [STYLE BLOCK]
+
+Bracelets
+ An array of beaded bracelets and cuff bands laid in a row across dark textured fabric,
+ macro glint highlights. [STYLE BLOCK]
+
+Chains & Necklaces
+ Bold curb chains and pendants draped across a dark stone slab, dramatic spotlight
+ glint, red pendant accent. [STYLE BLOCK]
+
+Cosplay
+ A dim backstage scene with dramatic costumed silhouettes, wigs on stands and props,
+ strong rim light and haze. [STYLE BLOCK]
+
+Couple Accessories
+ Paired matching items mirrored across a dark surface, two pendant halves meeting near
+ center to form a heart, symmetrical. [STYLE BLOCK]
+
+Figurines
+ A row of collectible anime-style figures on a dark display shelf with pooled
+ spotlights, generic original characters. [STYLE BLOCK]
+
+Headwear
+ Snapback caps and beanies lined across a dark surface, dramatic side lighting,
+ crisp stitching. [STYLE BLOCK]
+
+Hoodies
+ Oversized pullover hoodies hung on a rack in a dim streetwear store aisle, moody
+ light, bold fabric folds. [STYLE BLOCK]
+
+Jerseys
+ Sports jerseys hung in a row in a dim locker-room atmosphere, blank generic crests,
+ spotlight beams. [STYLE BLOCK]
+
+Katana & Weapons
+ Katana and blades mounted on a dark wall rack, dramatic edge light catching the steel,
+ faint red glow. [STYLE BLOCK]
+
+Kimono
+ Traditional kimono and haori robes hanging in a row against a dark backdrop, warm
+ paper-lantern glow, elegant folds. [STYLE BLOCK]
+
+LED Lamps
+ A dark room with several glowing acrylic LED lamps casting soft colored light pools,
+ atmospheric haze. [STYLE BLOCK]
+
+Lanyards
+ Neck lanyards with badge clips hanging in a row against deep shadow, single red strap
+ accent. [STYLE BLOCK]
+
+Laptop Skins
+ Laptops in a row with patterned decorated lids glowing in a dark desk setting,
+ dramatic low light. [STYLE BLOCK]
+
+Masks
+ A shadowed wall of stylized oni and face masks, one mask spotlit with a red stripe
+ accent, eerie depth. [STYLE BLOCK]
+
+Phone Cases
+ Smartphones lined up back-facing with patterned protective cases on a dark surface,
+ sharp rim light. [STYLE BLOCK]
+
+Rings
+ Rings and a bold signet ring arranged across dark velvet, macro glint and shallow
+ depth of field. [STYLE BLOCK]
+
+Room Decor
+ A wide styled dark room corner — wall tapestry, floating shelves with figures, a
+ glowing lamp and plant, cozy moody vibe. [STYLE BLOCK]
+
+Shoes
+ High-top sneakers lined across a dark concrete floor, dramatic spotlight and long
+ shadows, street vibe. [STYLE BLOCK]
+
+Shorts
+ Folded athletic shorts arranged in a row on a dark surface, crisp fabric folds,
+ moody side light. [STYLE BLOCK]
+
+Stickers
+ A wide scatter of die-cut stickers with white borders across a dark desk, peeling
+ corners, playful spread. [STYLE BLOCK]
+
+T-Shirts
+ Short-sleeve tees on a rack and folded stacks in a dim streetwear store, moody light,
+ subtle fabric folds. [STYLE BLOCK]
+
+Ties
+ Neckties draped in a row across a dark surface, smooth diagonal weave, dramatic
+ highlight. [STYLE BLOCK]
+
+Tote Bags
+ Canvas tote bags standing in a row against a dark wall, sturdy handles, moody
+ directional light. [STYLE BLOCK]
+
+Trousers
+ Cargo trousers and joggers folded and hung in a row in a dim wardrobe scene, cuffed
+ ankles, pocket detail. [STYLE BLOCK]
+
+Wallets
+ Bifold wallets arranged across a dark leather surface, stitched edges, macro glint,
+ shallow depth. [STYLE BLOCK]
+
+
+==================================================================
+B. PARENT / BROWSE CATEGORIES
+==================================================================
+
+Apparel
+ A wide dim streetwear store scene — racks of tees, hoodies and trousers receding into
+ shadow, spotlight pools, moody. [STYLE BLOCK]
+
+Collectibles
+ A wide dark display cabinet filled with collectible figures and window boxes lit by
+ internal spotlights, glass reflections. [STYLE BLOCK]
+
+Home & Decor
+ A wide cozy dark room — framed posters, glowing lamps, a wall tapestry and shelf
+ trinkets, warm pooled light. [STYLE BLOCK]
+
+Shop by Anime
+ A wide manga-panel collage wall and shelves stacked with manga volumes, dynamic speed
+ lines and halftone, cinematic depth. [STYLE BLOCK]
+
+
+==================================================================
+C. ANIME FRANCHISES
+(fan/anime-inspired symbolic scenes ONLY — no copyrighted characters or logos)
+==================================================================
+
+Attack on Titan
+ A vast panorama: a colossal faceless humanoid silhouette looming over an enormous
+ crumbling stone wall at dusk, blood-red sky, smoke. Original fan interpretation.
+ [STYLE BLOCK]
+
+Berserk
+ A lone armored swordsman silhouette with an enormous slab greatsword on a desolate
+ gothic battlefield at dusk, circling crows, ominous. Original fan interpretation,
+ generic character. [STYLE BLOCK]
+
+Bleach
+ A moonlit rooftop at night, a slim katana planted upright with drifting spirit-energy
+ wisps and a faint hollow-mask motif, cool moon glow with red accents. Original fan
+ interpretation. [STYLE BLOCK]
+
+Blue Lock   *** palette exception: electric blue, not red ***
+ A dark stadium at night, a soccer ball ablaze in electric-blue flame on the pitch,
+ sweeping floodlight beams and haze. Use electric blue (#1E6BFF) as the accent.
+ Original fan interpretation. [STYLE BLOCK]
+
+Chainsaw Man
+ A grungy rain-slick alley at night, a roaring chainsaw silhouette raised against a
+ small horned devil shadow, crimson splatter and neon glow. Original fan interpretation.
+ [STYLE BLOCK]
+
+Demon Slayer
+ A misty moonlit bamboo forest, a vertical nichirin katana with a checkerboard-patterned
+ haori cloth and a swirling water-and-flame breathing effect. Original fan
+ interpretation. [STYLE BLOCK]
+
+Dragon Ball   *** palette exception: warm orange, not red ***
+ A desert wasteland under a dusk sky with several glowing orange star-spheres floating,
+ radiant aura and dust. Use warm orange (#F5821F) as the accent. Original fan
+ interpretation. [STYLE BLOCK]
+
+Hunter x Hunter
+ A wide adventurous landscape at dawn with a glowing aura hand-print radiating energy
+ and a faint hunter license-card motif. Original fan interpretation. [STYLE BLOCK]
+
+Jujutsu Kaisen
+ A dark night-city street wreathed in curling cursed-energy smoke, a bandage-wrapped
+ talisman glowing, ominous black-and-red wisps. Original fan interpretation. [STYLE BLOCK]
+
+My Hero Academia
+ A heroic city skyline at dusk with a clenched energy-lightning fist motif rising,
+ dynamic clouds and rim light. Original fan interpretation. [STYLE BLOCK]
+
+Naruto
+ A wide hidden-village rooftop landscape at dusk, a swirling chakra sphere hovering over
+ an open palm with crossed kunai and shuriken. Original fan interpretation, no village
+ logo. [STYLE BLOCK]
+
+One Piece
+ A vast golden-dusk ocean horizon, a worn straw hat on crossed cutlasses with a distant
+ sailing-ship silhouette and a rolled treasure map. Original fan interpretation.
+ [STYLE BLOCK]
+
+Solo Leveling   *** optional palette exception: shadow blue/purple ***
+ A dark dungeon gateway with rising shadow wisps, a glowing portal and a planted dagger,
+ ominous depth. Optionally use shadow blue/purple (#5B4BFF) as accent. Original fan
+ interpretation. [STYLE BLOCK]
+
+Tokyo Revengers
+ A moody neon-lit night street, a draped embroidered bomber jacket and a vintage pocket
+ watch with a small flame, delinquent-era mood. Original fan interpretation, no gang
+ logo. [STYLE BLOCK]

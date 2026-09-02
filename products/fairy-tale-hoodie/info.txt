@@ -1,0 +1,89 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Fairy Tale Hoodie
+SLUG         : fairy-tale-hoodie
+BUMPA ID     : 2964651
+WOO TYPE     : variable
+PARENT SKU   : OSN-2964651
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+
+TAGS: Fairy Tail hoodie, anime hoodie, Fairy Tail merch, pullover hoodie, anime streetwear, fleece hoodie, unisex hoodie, Fairy Tail guild
+FRANCHISE: Fairy Tail    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦18,500
+Total stock   : 797
+VARIATIONS (attribute: Size & Material)
+  L-Thick Cotton | ₦21,000 | stock 99   | SKU OSN-2964651-LTHICKCOTTON
+  L-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964651-LTHICKPOLYESTER
+  Xl-Thick Cotton | ₦21,000 | stock 98   | SKU OSN-2964651-XLTHICKCOTTON
+  Xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964651-XLTHICKPOLYESTER
+  2xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964651-2XLTHICKCOTTON
+  2xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964651-2XLTHICKPOLYESTER
+  3xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964651-3XLTHICKCOTTON
+  3xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964651-3XLTHICKPOLYESTER
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Guild-mark heat for every season.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A Fairy Tail-inspired pullover hoodie built for the guild faithful. Brushed-fleece interior, ribbed cuffs and hem, kangaroo pocket and a clean unisex streetwear fit. Pick your size and fabric, then wear the roster.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the rowdiest guild in fandom with the Fairy Tail Hoodie, a fan-designed pullover that pairs bold anime-inspired graphics with proper cold-weather comfort. The brushed-fleece interior keeps the warmth in while the unisex streetwear cut keeps the silhouette clean, so it layers as easily over a tee as it does under a jacket.</p>
+<p>This is anime-inspired fan apparel, not affiliated with or endorsed by the official rights holders. Choose your size and fabric at checkout and represent the mark with confidence.</p>
+<ul>
+<li>Pullover hoodie with anime-inspired Fairy Tail graphic print</li>
+<li>Brushed-fleece interior for everyday warmth</li>
+<li>Ribbed cuffs and hem hold their shape</li>
+<li>Front kangaroo pocket for hands and essentials</li>
+<li>Unisex streetwear fit</li>
+<li>Fabric choice: Thick Cotton or Thick Polyester</li>
+<li>Sizes: L, XL, 2XL, 3XL</li>
+<li>Care: machine wash cold, inside-out; do not bleach</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Fairy Tail guild-inspired graphic hoodie
+  • Cosy brushed-fleece interior for warmth
+  • Ribbed cuffs and hem keep their shape
+  • Roomy kangaroo front pocket
+  • Choose Thick Cotton or Thick Polyester
+  • Unisex fit, sizes L to 3XL
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (51 chars)        : Fairy Tail Hoodie | Anime Pullover | Otaku Store NG
+Meta Description (149 chars) : Fairy Tail-inspired pullover hoodie with brushed-fleece warmth, kangaroo pocket and unisex fit. Cotton or polyester, sizes L-3XL. Ships from Nigeria.
+Focus keyword                       : Fairy Tail hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Fairy Tail-inspired pullover hoodie with anime guild graphic, kangaroo pocket and ribbed cuffs
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a black pullover hoodie laid flat, anime guild emblem in single manga-red #E2261C ink on the chest. Ink black #111111 background, paper white #FAFAFA accents, halftone dot shading, dynamic speed lines radiating outward, subtle ink-splatter texture framed in clean manga panels. Premium cinematic lighting, high detail, crisp fabric folds, brushed-fleece interior visible at the open cuff.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

@@ -1,0 +1,82 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Jjk Stickers
+SLUG         : jjk-stickers
+BUMPA ID     : 1140988
+WOO TYPE     : simple
+PARENT SKU   : OSN-1140988
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Stickers
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Jujutsu Kaisen stickers, JJK stickers, anime stickers, Sukuna sticker, Gojo sticker, Yuji Itadori sticker, vinyl sticker pack, waterproof anime stickers, laptop stickers, anime decals
+FRANCHISE: Jujutsu Kaisen    CHARACTER: Sukuna
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦1,000
+Total stock   : 984
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Domain-expand your laptop with cursed-energy decals
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A 10-piece pack of waterproof Jujutsu Kaisen vinyl stickers. Slap Sukuna, Gojo, Yuji, Megumi and Nobara on your laptop, bottle or notebook. Vivid, fade-resistant print that survives daily abuse and the odd cursed technique.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Roll up to class, the office or the gym carrying the whole Tokyo Jujutsu High roster. This 10-piece pack stacks the heaviest hitters in <strong>Jujutsu Kaisen</strong> into one drop, from the King of Curses Sukuna and the Honored One Gojo to Yuji, Megumi and Nobara, all rendered in clean, high-contrast anime art that pops against any surface.</p>
+<p>Printed on durable waterproof vinyl with a vivid, fade-resistant finish, these die-cut decals shrug off scratches, spills and sunlight. Peel, place, press, done. Perfect for laptops, water bottles, phone backs, notebooks, skateboards and laptop sleeves.</p>
+<ul>
+<li>Pack of 10 die-cut Jujutsu Kaisen vinyl stickers</li>
+<li>Waterproof, scratch-resistant and durable for everyday use</li>
+<li>Vivid, fade-resistant print that holds colour over time</li>
+<li>Sticks to laptops, water bottles, phones, notebooks, skateboards and more</li>
+<li>Easy peel-and-stick backing; residue-free on most surfaces</li>
+<li>Fan-made, anime-inspired design; not affiliated with or endorsed by the official rights holders</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • 10-piece Jujutsu Kaisen sticker pack
+  • Sukuna, Gojo, Yuji, Megumi and Nobara art
+  • Waterproof, scratch-resistant vinyl
+  • Vivid, fade-resistant print
+  • Sticks to laptops, bottles, phones and notebooks
+  • Easy peel-and-stick, residue-free backing
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : Jujutsu Kaisen Stickers - 10pc JJK Vinyl Pack
+Meta Description (152 chars) : Shop a 10-piece Jujutsu Kaisen vinyl sticker pack. Waterproof, fade-resistant JJK decals of Sukuna, Gojo and Yuji for laptops, bottles and more. ₦1,000.
+Focus keyword                       : Jujutsu Kaisen stickers
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Fan of 10 die-cut Jujutsu Kaisen vinyl stickers featuring Sukuna, Gojo, Yuji and other characters
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product studio shot: a fan of die-cut Jujutsu Kaisen anime vinyl stickers spread across a slim laptop lid, shot top-down. Ink black #111111 background with paper white #FAFAFA negative space, single manga-red #E2261C accent on one hero sticker. Halftone dot texture, sharp speed lines radiating from the laptop, subtle ink splatter at the edges, framed inside a clean manga panel border. Premium, cinematic, high-contrast lighting, crisp focus on the glossy waterproof vinyl finish.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

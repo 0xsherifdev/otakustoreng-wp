@@ -1,0 +1,77 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Anime Led Flash Cases
+SLUG         : anime-led-flash-cases
+BUMPA ID     : 1139640
+WOO TYPE     : variable
+PARENT SKU   : OSN-1139640
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Phone Cases
+
+TAGS: anime led flash case, anime phone case, led light up phone case, iphone anime case, anime-inspired case, led flash iphone case, anime merch, otaku phone case
+FRANCHISE: Generic Anime    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦7,500
+Total stock   : 500
+VARIATIONS (attribute: Style)
+  1              | ₦7,500 | stock 100  | SKU OSN-1139640-1
+  2              | ₦7,500 | stock 100  | SKU OSN-1139640-2
+  3              | ₦7,500 | stock 100  | SKU OSN-1139640-3
+  4              | ₦7,500 | stock 100  | SKU OSN-1139640-4
+  5              | ₦7,500 | stock 100  | SKU OSN-1139640-5
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Anime that lights up when your phone does.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Anime-inspired LED flash phone case that lights up with incoming calls and notifications. Slim protective shell with raised edges and precise cutouts. Pick from 5 bold designs and lock in your roster.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Make every call an entrance. This anime-inspired LED flash case lights up with incoming calls and notifications, throwing a glow across your favourite design while you keep your phone protected. Slim, sharp, and built to turn heads in the dark.</p><p>The slim shell hugs your iPhone with raised edges that lift the screen and camera off flat surfaces, plus precise cutouts so every port, button, and speaker stays free. Choose from 5 bold anime-inspired designs and wear the roster everywhere you go. Fan-made and anime-inspired, not affiliated with any studio or brand.</p><ul><li>Material: durable protective shell with a smooth printed finish</li><li>LED flash that lights up on incoming calls and notifications</li><li>Raised edges to help protect the screen and rear camera</li><li>Precise cutouts for ports, buttons, speaker, and camera</li><li>5 anime-inspired design options to choose from (styles 1-5)</li><li>Compatibility: iPhone models, just tell us your exact model after ordering</li><li>Slim, pocket-friendly profile with full grip and access</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • LED flash lights up on calls and notifications
+  • Slim protective shell with raised screen and camera edges
+  • Precise cutouts for full button, port, and speaker access
+  • 5 bold anime-inspired designs to choose from
+  • Built for iPhone, just confirm your model after ordering
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (43 chars)        : Anime LED Flash Phone Case | Otaku Store NG
+Meta Description (150 chars) : Anime-inspired LED flash iPhone case that lights up on calls and notifications. Slim, protective, 5 bold designs. Ships nationwide and worldwide from.
+Focus keyword                       : anime led flash phone case
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Anime-inspired LED flash iPhone case glowing along the edges with a bold manga print
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga style studio product shot of an anime-inspired LED flash iPhone case glowing along its edges in a dark room. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent on the glowing LED light. Halftone dot shading, sharp speed lines radiating from the lit case, ink splatter accents, framed inside a clean manga panel. Premium, cinematic, high-contrast, dramatic rim lighting catching the slim case profile.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

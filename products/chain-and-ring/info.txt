@@ -1,0 +1,81 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Chain And Ring
+SLUG         : chain-and-ring
+BUMPA ID     : 1261189
+WOO TYPE     : simple
+PARENT SKU   : OSN-1261189
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Chains & Necklaces
+
+TAGS: anime chain and ring set, anime necklace and ring, anime pendant chain, matching ring set, anime inspired jewellery, stainless steel chain, unisex anime accessories, otaku store ng
+FRANCHISE: Generic Anime    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦7,000
+Total stock   : 0
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+A matched chain and ring set, ready to stack.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+An anime-inspired chain and ring set built to be worn together. Durable tarnish-resistant metal, an adjustable pendant chain, and a matching ring that finishes any everyday fit or convention look. Clean, premium, easy to style daily.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some pieces just go together. This anime-inspired chain and ring set pairs a pendant necklace with a matching ring so you can layer your look in one move, no guesswork, no mismatched metals. It's the kind of everyday flex that reads clean with a tee on campus and sharp under a fit at the next con.</p>
+<p>Made from durable, tarnish-resistant metal that holds its shine through daily wear. The chain sits at a comfortable length with an adjustable fit, while the ring keeps the same finish so the whole set stays cohesive. Fan-made and anime-inspired, not affiliated with or endorsed by any studio or rights holder.</p>
+<ul>
+<li>Set includes one pendant chain necklace and one matching ring</li>
+<li>Durable stainless-steel/alloy build that resists tarnish and keeps its shine</li>
+<li>Adjustable chain length for a comfortable everyday fit</li>
+<li>Coordinated finish so the chain and ring read as one set</li>
+<li>Lightweight feel, sturdy clasp, built for daily wear</li>
+<li>Unisex styling that layers easily with other pieces</li>
+<li>Wipe clean with a soft dry cloth; keep dry to maintain shine</li>
+<li>Fan / anime-inspired design, not official or licensed merchandise</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Chain and matching ring sold as one coordinated set
+  • Tarnish-resistant metal that keeps its shine
+  • Adjustable chain length for an easy everyday fit
+  • Unisex styling that layers with the rest of your stack
+  • Wipe clean and go, built for daily wear
+  • Fan / anime-inspired, not affiliated with any studio
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (41 chars)        : Anime Chain and Ring Set | Otaku Store NG
+Meta Description (155 chars) : Anime-inspired chain and ring set in tarnish-resistant metal. Adjustable pendant necklace plus matching ring, built for daily wear. Shop at Otaku Store NG.
+Focus keyword                       : anime chain and ring set
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.png  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Anime-inspired pendant chain necklace with a matching ring laid out as a set
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot: an anime-inspired silver pendant chain necklace and a matching ring arranged together on ink-black #111111 surface, paper-white #FAFAFA negative space, single manga-red #E2261C accent ribbon of light across the metal. Halftone dot texture in the background, sharp diagonal speed lines, a touch of ink splatter framing the composition like a manga panel. Cinematic top-down lighting, crisp reflections on the chain and ring, premium e-commerce hero shot, high detail, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

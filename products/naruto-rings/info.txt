@@ -1,0 +1,73 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Naruto Rings
+SLUG         : naruto-rings
+BUMPA ID     : 1146041
+WOO TYPE     : simple
+PARENT SKU   : OSN-1146041
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Rings
+  - Shop by Anime > Naruto
+
+TAGS: Naruto rings, Akatsuki ring set, Naruto accessories, anime rings, Akatsuki cosplay, signet ring set, Naruto fan merch, ring and chain set
+FRANCHISE: Naruto    CHARACTER: Akatsuki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦18,000
+Total stock   : 999
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+10-piece Akatsuki ring set with display box and chain
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Claim the whole Akatsuki roster in one drop. Ten polished signet rings with red-and-black kanji emblems, a wearable chain to rock one as a pendant, and a window display box. Anime-inspired, built for everyday flex.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>The Akatsuki always rolled deep, and now you can too. This Naruto-inspired set lands with ten polished signet rings, each carrying its own red-on-black kanji emblem in a domed cabochon face, so you can rotate the cast or stack your favourites. It nods to the canon detail every fan knows: every Akatsuki member wore a ring, and the full set was the flex.</p><p>A matching link chain is included so you can thread a single ring and wear it as a pendant, and the whole lineup arrives seated in a window display box, ready to gift or shelf. Tarnish-resistant and built for daily wear, this is fan gear made to be worn, not just collected. Anime-inspired and unofficial fan merchandise; not affiliated with or endorsed by the rights holders.</p><ul><li>Set of 10 signet-style rings, each with a unique red and black kanji emblem in a domed face</li><li>Material: polished stainless steel / alloy, silver-tone finish</li><li>Tarnish-resistant for everyday wear</li><li>Matching link chain included to wear any ring as a pendant</li><li>Presented in a window display gift box</li><li>Mixed standard ring sizes across the set; designed to suit most fingers</li><li>Wipe clean with a soft dry cloth; keep away from water and harsh chemicals to preserve the finish</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Full 10-piece Akatsuki ring set, one per signature emblem
+  • Polished silver-tone stainless steel / alloy, tarnish-resistant
+  • Matching chain included to wear a ring as a pendant
+  • Domed red-and-black kanji faces, true to the anime
+  • Arrives in a window display gift box
+  • Anime-inspired fan merch, built for daily wear
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (48 chars)        : Naruto Akatsuki Rings Set of 10 with Chain & Box
+Meta Description (153 chars) : Naruto Akatsuki ring set: 10 polished signet rings with red-black kanji emblems, a chain to wear one as a pendant, and a display box. Anime-inspired fan.
+Focus keyword                       : Naruto Akatsuki rings
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Naruto Akatsuki ring set of 10 silver signet rings with red and black kanji emblems in a window display box with a silver chain
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a 10-piece Naruto Akatsuki-inspired signet ring set arranged in a fan on ink-black #111111 surface, polished silver-tone rings with red #E2261C and black kanji emblem faces, a silver link chain coiled beside threading one ring as a pendant, paper-white #FAFAFA negative space, halftone dot texture and bold diagonal speed lines, single manga-red ink splatter accent, sharp manga-panel framing, premium cinematic lighting, high detail, no text
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

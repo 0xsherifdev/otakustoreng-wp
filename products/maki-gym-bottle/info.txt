@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Maki gym bottle
+SLUG         : maki-gym-bottle
+BUMPA ID     : 4430190
+WOO TYPE     : simple
+PARENT SKU   : OSN-4430190
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Bottles & Drinkware
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Maki Zenin, Jujutsu Kaisen, gym bottle, anime water bottle, anime drinkware, JJK merch, sports bottle, reusable bottle
+FRANCHISE: Jujutsu Kaisen    CHARACTER: Maki Zenin
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦19,000
+Total stock   : 500
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Train like the strongest non-sorcerer.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Maki Zenin gym bottle built for fans who go hard. Bold Jujutsu Kaisen-inspired artwork, a leak-resistant lid and a comfortable carry loop make it your daily training companion from warm-up to cooldown.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel Maki Zenin's relentless discipline every time you reach for a drink. This anime-inspired gym bottle pairs clean Jujutsu Kaisen energy with a sturdy, everyday-ready build, so it earns its place in your kit bag, on your desk and at the squat rack alike.</p><p>The screw-top lid seals tight for confident carry, while the bold character print stays the centre of attention. Hand-wash to keep the artwork crisp, refill, and get back to the grind. A fan tribute for the Zenin faithful — not affiliated with or endorsed by the official rights holders.</p><ul><li>Character: Maki Zenin (Jujutsu Kaisen fan-inspired artwork)</li><li>Single-wall reusable gym/sports bottle</li><li>Food-safe, BPA-free material</li><li>Screw-top, leak-resistant lid for kit-bag carry</li><li>Wide mouth for easy filling and ice</li><li>Carry loop for grab-and-go training sessions</li><li>Hand-wash recommended to protect the print</li><li>Single capacity option (no variants)</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold Maki Zenin Jujutsu Kaisen-inspired artwork
+  • Leak-resistant screw-top lid for confident carry
+  • Food-safe, BPA-free reusable build
+  • Wide mouth fits ice and quick refills
+  • Carry loop for grab-and-go gym sessions
+  • Hand-wash safe to keep the print sharp
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (48 chars)        : Maki Zenin Gym Bottle | Jujutsu Kaisen Drinkware
+Meta Description (150 chars) : Maki Zenin gym bottle with bold Jujutsu Kaisen-inspired art, leak-resistant lid and carry loop. Food-safe, BPA-free. Ships from Nigeria, nationwide &.
+Focus keyword                       : Maki Zenin gym bottle
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Maki Zenin Jujutsu Kaisen-inspired gym bottle with bold character artwork and screw-top lid
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a sports gym water bottle featuring Maki Zenin from Jujutsu Kaisen. Ink black #111111 backdrop, paper white #FAFAFA highlights, single manga-red #E2261C accent. Bottle stands centre-frame on a concrete gym floor with a coiled jump rope nearby. Halftone dot shading, dynamic speed lines radiating outward, ink splatter framing, manga panel borders. Premium, cinematic, high-contrast lighting, sharp focus on the character print.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

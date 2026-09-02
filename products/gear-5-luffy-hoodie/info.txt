@@ -1,0 +1,92 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Gear 5 Luffy Hoodie
+SLUG         : gear-5-luffy-hoodie
+BUMPA ID     : 2964518
+WOO TYPE     : variable
+PARENT SKU   : OSN-2964518
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+  - Shop by Anime > One Piece
+
+TAGS: Gear 5 Luffy hoodie, One Piece hoodie, Luffy hoodie, anime hoodie, One Piece merch, Gear 5, anime streetwear, pullover hoodie, Nika Luffy
+FRANCHISE: One Piece    CHARACTER: Monkey D. Luffy
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦18,500
+Total stock   : 800
+VARIATIONS (attribute: Size & Material)
+  L-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964518-LTHICKCOTTON
+  L-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964518-LTHICKPOLYESTER
+  Xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964518-XLTHICKCOTTON
+  Xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964518-XLTHICKPOLYESTER
+  2xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964518-2XLTHICKCOTTON
+  2xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964518-2XLTHICKPOLYESTER
+  3xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964518-3XLTHICKCOTTON
+  3xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964518-3XLTHICKPOLYESTER
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Awaken the Sun God. Wear the roster.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel Luffy's Gear 5 awakening with this anime-inspired pullover hoodie. Brushed-fleece interior, ribbed cuffs and hem, and a roomy kangaroo pocket for everyday streetwear comfort. Pick your size and fabric: thick cotton or thick polyester.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>When Luffy breaks past every limit and the sky turns white, that is Gear 5 — pure, liberated freedom. This anime-inspired hoodie brings the Sun God Nika energy of One Piece straight into your rotation with bold graphic styling built for fans who live and breathe the Grand Line. A fan-made design, not affiliated with or endorsed by the official rights holders.</p>
+<p>Cut for a relaxed unisex streetwear fit, it layers easily over tees and pairs just as well with joggers or denim. Choose the fabric that suits your climate and feel — thick cotton for soft, breathable warmth or thick polyester for a smoother, hard-wearing finish.</p>
+<ul>
+<li>Pullover hoodie with bold Gear 5 Luffy graphic print</li>
+<li>Brushed-fleece interior for cosy warmth</li>
+<li>Ribbed cuffs and hem to hold their shape</li>
+<li>Roomy kangaroo front pocket</li>
+<li>Relaxed unisex streetwear fit</li>
+<li>Fabric choice: Thick Cotton or Thick Polyester</li>
+<li>Available sizes: L, XL, 2XL, 3XL</li>
+<li>Machine wash cold, inside-out; do not tumble dry hot</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Gear 5 Luffy graphic for One Piece fans
+  • Brushed-fleece interior for everyday warmth
+  • Ribbed cuffs and hem plus kangaroo pocket
+  • Choose Thick Cotton or Thick Polyester
+  • Relaxed unisex streetwear fit, L to 3XL
+  • Fan-inspired design, not officially affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (44 chars)        : Gear 5 Luffy Hoodie | One Piece Anime Hoodie
+Meta Description (151 chars) : Gear 5 Luffy hoodie inspired by One Piece. Brushed-fleece pullover, kangaroo pocket, choose thick cotton or polyester. Sizes L-3XL. Ships from Nigeria.
+Focus keyword                       : Gear 5 Luffy hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Gear 5 Luffy pullover hoodie with One Piece-inspired graphic print, front view
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a pullover hoodie on an invisible mannequin, ink black #111111 background with paper white #FAFAFA panel borders, single manga-red #E2261C accent. Halftone dot shading, dramatic speed lines radiating outward, ink splatter framing the garment. Cinematic rim lighting catches the brushed-fleece texture and ribbed cuffs. Premium streetwear catalogue aesthetic, manga panel layout, high contrast, sharp focus on the kangaroo pocket and bold front graphic.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

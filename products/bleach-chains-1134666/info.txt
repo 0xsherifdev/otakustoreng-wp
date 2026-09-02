@@ -1,0 +1,83 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Bleach Chains
+SLUG         : bleach-chains-1134666
+BUMPA ID     : 1134666
+WOO TYPE     : simple
+PARENT SKU   : OSN-1134666
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Bleach
+
+TAGS: Bleach, Bleach necklace, Ichigo Hollow mask, Quincy cross pendant, anime necklace, Soul Reaper, Bleach chain, anime accessories, pendant necklace, anime jewellery
+FRANCHISE: Bleach    CHARACTER: Ichigo Kurosaki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦3,700
+Total stock   : 999
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Hollow masks, Quincy crosses and Soul Reaper emblems on cord
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel your inner Soul Reaper with these Bleach-inspired pendant necklaces. Choose from Ichigo's Hollow mask, the Quincy cross and Bleach emblem designs in red, silver or gold, each strung on an adjustable black cord that wipes clean and resists tarnish.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Suit up for the next Hollow hunt. This Bleach-inspired pendant range pulls the most iconic marks from the series straight to your chest, from Ichigo's fractured Vizard mask to the sharp Quincy cross and the unmistakable Bleach emblem. Each pendant hangs on a clean black cord, so the artwork does the talking while the look stays effortlessly street.</p>
+<p>Built to be worn, not boxed. The metal pendants keep their finish over time, the cord stays comfortable all day, and a quick wipe keeps everything sharp. Pick the design that matches your favourite arc and wear the roster.</p>
+<ul>
+<li>Design: Bleach-inspired pendant necklace (fan-made, not affiliated with the official series)</li>
+<li>Choice of designs: Hollow / Vizard mask, Quincy cross and Bleach emblem styles</li>
+<li>Colour options: manga red, silver and gold-tone finishes where offered</li>
+<li>Pendant material: durable metal alloy that resists tarnish</li>
+<li>Chain: black cord with adjustable lobster-clasp closure and extender</li>
+<li>Unisex fit, layers easily with other chains</li>
+<li>Care: wipe clean with a soft dry cloth; keep away from water and perfume</li>
+<li>Ships from Nigeria, nationwide and worldwide</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Iconic Bleach designs: Hollow mask, Quincy cross and Bleach emblem
+  • Durable metal pendant that resists tarnish
+  • Adjustable black cord with lobster clasp and extender
+  • Choice of manga red, silver or gold-tone finishes
+  • Unisex and easy to layer with other chains
+  • Fan-made anime-inspired piece, not affiliated with the official series
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (53 chars)        : Bleach Chains | Hollow Mask & Quincy Pendant Necklace
+Meta Description (147 chars) : Bleach-inspired pendant necklaces featuring Ichigo's Hollow mask, Quincy cross and Bleach emblem on adjustable cord. Choice of designs. Ships from.
+Focus keyword                       : Bleach necklace
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Bleach-inspired pendant necklaces on black cord, featuring Hollow masks, Quincy cross and Bleach emblem in red, silver and gold
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a Bleach-inspired metal pendant necklace on a black cord, single Hollow mask pendant centred. Ink black #111111 background, paper white #FAFAFA rim light, one manga-red #E2261C accent on the pendant. Halftone dot texture, dramatic diagonal speed lines, subtle ink splatter framing the pendant, manga panel border. Premium, cinematic, high-contrast macro detail on the metal texture and cord clasp.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

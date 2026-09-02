@@ -1,0 +1,83 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Aot Silver Chain
+SLUG         : aot-silver-chain
+BUMPA ID     : 1875885
+WOO TYPE     : simple
+PARENT SKU   : OSN-1875885
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Attack on Titan
+
+TAGS: AOT chain, Attack on Titan necklace, Survey Corps pendant, Wings of Freedom, anime necklace, Scout Regiment chain, anime jewellery, silver pendant chain
+FRANCHISE: Attack on Titan    CHARACTER: Survey Corps (Scout Regiment)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦5,000
+Total stock   : 96
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Wings of Freedom. Worn loud.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+An anime-inspired Attack on Titan necklace built around the Survey Corps Wings of Freedom crest in blue-and-white enamel, hung on a silver-tone chain. Lightweight, tarnish-resistant and ready to repping the Scouts every day.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Join the Scouts. The <strong>AOT Silver Chain</strong> centres on the Survey Corps "Wings of Freedom" crest, picked out in crisp blue-and-white enamel against a clean silver-tone shield. It is the emblem every Attack on Titan fan knows by heart, sized to sit clean on the chest and catch the light whenever you move.</p>
+<p>Strung on a slim silver-tone box chain, it is light enough to forget you are wearing it and bold enough to start a conversation. Layer it over a tee, a hoodie or your everyday fit and let the roster do the talking. Anime-inspired fan piece; not affiliated with or endorsed by the official rights holders.</p>
+<ul>
+<li><strong>Design:</strong> Survey Corps Wings of Freedom crest pendant in blue &amp; white enamel</li>
+<li><strong>Pendant finish:</strong> polished silver-tone with detailed enamel inlay</li>
+<li><strong>Chain:</strong> matching silver-tone box-link chain, lobster-clasp closure</li>
+<li><strong>Material:</strong> tarnish-resistant stainless-steel / alloy build</li>
+<li><strong>Wear:</strong> unisex, sits flat on the chest, comfortable for daily wear</li>
+<li><strong>Care:</strong> wipe clean with a soft dry cloth; keep away from water and perfume to preserve shine</li>
+<li><strong>In the box:</strong> 1 x pendant on chain</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Survey Corps Wings of Freedom crest in crisp blue-and-white enamel
+  • Polished silver-tone pendant on a matching box-link chain
+  • Tarnish-resistant stainless-steel / alloy build for daily wear
+  • Lightweight and unisex, sits flat and clean on the chest
+  • Secure lobster-clasp closure
+  • Anime-inspired fan piece, ships nationwide and worldwide from Nigeria
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (46 chars)        : AOT Silver Chain | Survey Corps Wings Necklace
+Meta Description (149 chars) : Attack on Titan Survey Corps Wings of Freedom pendant on a silver-tone chain. Tarnish-resistant, unisex anime necklace. Ships from Nigeria worldwide.
+Focus keyword                       : AOT silver chain
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Attack on Titan AOT silver chain with the Survey Corps Wings of Freedom crest pendant in blue and white enamel on a silver-tone box chain, held in hand
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga style studio product shot of a silver-tone enamel pendant necklace featuring the Survey Corps "Wings of Freedom" crest in blue and white, laid on ink-black #111111 background. Single manga-red #E2261C accent slash behind the pendant, paper-white #FAFAFA halftone dots and speed lines radiating outward, subtle ink splatter, manga panel framing. Cinematic rim lighting catching the polished chain, premium high-detail, sharp focus on the enamel wings.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

@@ -1,0 +1,72 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Sharingan Ring
+SLUG         : sharingan-ring
+BUMPA ID     : 1919953
+WOO TYPE     : simple
+PARENT SKU   : OSN-1919953
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Rings
+  - Shop by Anime > Naruto
+
+TAGS: Sharingan ring, Naruto ring, Uchiha, Sasuke, Itachi, anime ring, anime accessories, otaku jewelry
+FRANCHISE: Naruto    CHARACTER: Sasuke / Itachi Uchiha (Sharingan)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦3,500
+Total stock   : 7
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Awaken the Uchiha bloodline on your hand.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel the Uchiha clan with this Sharingan-inspired ring. Forged in tarnish-resistant stainless steel with a polished finish and crisp three-tomoe detailing, it's built for daily wear and bold enough to finish any otaku fit.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Every Uchiha legend starts with the awakening of the Sharingan, and now you can carry that power on your hand. This anime-inspired Sharingan Ring captures the iconic three-tomoe eye in crisp detail against a bold manga-red field, a quiet flex for fans of Sasuke, Itachi and the whole Uchiha bloodline.</p><p>Crafted from durable, tarnish-resistant metal with a smooth polished finish, it sits comfortably for everyday wear and stacks effortlessly with the rest of your roster. Pick your size, slide it on, and let the genjutsu begin.</p><ul><li>Material: stainless steel / alloy with a polished finish</li><li>Design: three-tomoe Sharingan motif with manga-red detailing</li><li>Sizing: select your standard ring size at checkout; resizable fit</li><li>Finish: tarnish-resistant, built for daily wear</li><li>Style: unisex, stackable, slim profile</li><li>Care: wipe clean with a soft dry cloth; avoid harsh chemicals</li><li>Fan / anime-inspired design, not affiliated with or endorsed by the official rights holders</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Iconic three-tomoe Sharingan motif in manga-red detail
+  • Tarnish-resistant metal built for everyday wear
+  • Polished finish with a slim, stackable unisex profile
+  • Choose your standard ring size at checkout
+  • Fan-inspired Uchiha clan piece for any Naruto fit
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (41 chars)        : Sharingan Ring | Naruto Uchiha Anime Ring
+Meta Description (152 chars) : Sharingan Ring inspired by Naruto's Uchiha clan. Tarnish-resistant polished metal, three-tomoe design, choose your size. Ships nationwide and worldwide.
+Focus keyword                       : Sharingan ring
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Sharingan ring in polished metal featuring the Naruto Uchiha three-tomoe red eye design
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a polished stainless steel Sharingan ring resting on ink-black surface #111111, the three-tomoe Sharingan eye glowing in single manga-red #E2261C accent against paper-white #FAFAFA highlights; halftone dot shading, sharp speed lines radiating outward, subtle ink splatter, dramatic manga-panel framing, premium cinematic lighting, macro detail on the engraved eye motif
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

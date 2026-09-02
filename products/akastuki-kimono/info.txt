@@ -1,0 +1,81 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Akastuki Kimono
+SLUG         : akastuki-kimono
+BUMPA ID     : 1771966
+WOO TYPE     : simple
+PARENT SKU   : OSN-1771966
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Kimono
+  - Shop by Anime > Naruto
+
+TAGS: Akatsuki kimono, Naruto haori, Akatsuki cloud robe, anime kimono, Naruto cosplay, open-front haori, anime layering piece, unisex kimono
+FRANCHISE: Naruto    CHARACTER: Akatsuki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦15,000
+Total stock   : 99
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The red cloud, worn loud.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Drape into the rogue-ninja organisation with this Akatsuki-inspired haori. Ink-black open-front kimono splashed with the iconic red cloud, wide sleeves and a free-size cut that layers effortlessly over any tee.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some symbols need no introduction. The red cloud has marked the most feared rogue ninja in the village-hidden world, and now it falls across your shoulders. This Akatsuki-inspired haori is cut from lightweight fabric in deep ink black, scattered front, back and sleeve with the unmistakable crimson cloud for an instant statement layer.</p>
+<p>Worn open over a tee with the sleeves loose, it reads effortless and cinematic. Unisex free-size drape means it works whether you are hitting a convention, a shoot, or just answering the door. Fan-made and anime-inspired, not affiliated with or endorsed by the official rights holders.</p>
+<ul>
+<li>Lightweight open-front haori / kimono robe, easy layering piece</li>
+<li>All-over red Akatsuki cloud print across body, back and wide sleeves</li>
+<li>Colourway: ink black with manga-red cloud motif</li>
+<li>Unisex free-size drape, designed to fall loose over a tee</li>
+<li>Three-quarter wide sleeves and a relaxed open front (no fastening)</li>
+<li>Great over plain tees, vests or hoodies for cons, cosplay and everyday fits</li>
+<li>Care: gentle cold wash, hang dry, do not tumble dry or iron the print</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Iconic red Akatsuki cloud print, front, back and sleeves
+  • Lightweight open-front haori built for easy layering
+  • Unisex free-size drape over any tee
+  • Wide three-quarter sleeves for that authentic kimono fall
+  • Fan-inspired Naruto fit, perfect for cons and cosplay
+  • Gentle cold wash, hang dry to keep the print sharp
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (41 chars)        : Akatsuki Kimono Haori | Naruto Cloud Robe
+Meta Description (151 chars) : Anime-inspired Akatsuki kimono haori in ink black with the iconic red cloud print. Lightweight unisex free-size robe. Ships from Nigeria, nationwide &.
+Focus keyword                       : Akatsuki kimono
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black Akatsuki haori kimono with red cloud print, front and back view worn over a white tee
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio shot of an ink-black open-front haori kimono displayed on an invisible mannequin, scattered with bold manga-red Akatsuki cloud motifs. Background ink black #111111 with paper-white #FAFAFA manga panel borders, single manga-red #E2261C accent, halftone dot shading, dramatic speed lines and a flick of ink splatter behind the wide sleeves. Premium, cinematic, high-contrast product lighting catching the fabric drape.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

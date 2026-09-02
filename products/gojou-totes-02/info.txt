@@ -1,0 +1,81 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Gojou Totes 02
+SLUG         : gojou-totes-02
+BUMPA ID     : 1873993
+WOO TYPE     : simple
+PARENT SKU   : OSN-1873993
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Tote Bags
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Gojo Satoru tote bag, Jujutsu Kaisen tote, anime tote bag, Gojo merch, canvas tote bag, JJK merch, anime canvas bag, Satoru Gojo
+FRANCHISE: Jujutsu Kaisen    CHARACTER: Gojo Satoru
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦6,000
+Total stock   : 9
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the strongest. Six Eyes on canvas.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A black canvas tote built around a striking Gojo Satoru print, with the strongest sorcerer lowering his blindfold against a blue-purple panel. Roomy, reinforced handles, ready for books, groceries or your next con haul.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>The strongest sorcerer goes everywhere you do. This Gojo Satoru tote frames the Jujutsu Kaisen icon mid-flex, lowering his glasses on a moody blue-and-purple manga panel topped with the series kanji and the "Gojo Satoru" name plate. It is a clean, statement-making everyday carry for fans who don't do subtle.</p>
+<p>Cut from sturdy canvas with reinforced handles, it swallows textbooks, grocery runs and full con hauls without sagging. Sling it over a shoulder, knot it to a backpack, or let the artwork do the talking solo. Fan-made, anime-inspired apparel, not affiliated with or endorsed by the rights holders.</p>
+<ul>
+<li>Sturdy woven canvas body with a roomy open main compartment</li>
+<li>Reinforced long handles sized for comfortable shoulder carry</li>
+<li>High-detail front print: Gojo Satoru with Jujutsu Kaisen kanji and name panel</li>
+<li>Black base colourway that keeps the blue-purple artwork popping</li>
+<li>Everyday-versatile: books, laptop, groceries, gym kit or con merch</li>
+<li>Wipe-clean and built for daily use; spot clean and air dry</li>
+<li>Fan / anime-inspired design, not official or licensed merchandise</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold Gojo Satoru front print with Jujutsu Kaisen kanji and name panel
+  • Sturdy canvas body with reinforced shoulder handles
+  • Roomy open carry for books, groceries or con hauls
+  • Black base that makes the blue-purple artwork pop
+  • Fan-made, anime-inspired, not official merchandise
+  • Ships from Nigeria, nationwide and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (44 chars)        : Gojo Satoru Canvas Tote Bag | Jujutsu Kaisen
+Meta Description (142 chars) : Gojo Satoru canvas tote bag with bold Jujutsu Kaisen print and reinforced handles. Roomy everyday carry. ₦6,000. Ships from Nigeria worldwide.
+Focus keyword                       : Gojo Satoru tote bag
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black canvas tote bag with a printed Gojo Satoru graphic lowering his glasses, Jujutsu Kaisen kanji above and Gojo Satoru name panel below
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product studio shot of a black canvas tote bag laid on ink-black #111111 surface, paper-white #FAFAFA negative space, single manga-red #E2261C accent stripe; halftone dot texture and bold speed lines radiating from a Gojo-inspired silhouette printed on the bag; sharp ink splatter at the corners arranged in clean manga panels; reinforced canvas handles draped naturally; premium cinematic lighting, high contrast, crisp focus on the printed character artwork.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

@@ -1,0 +1,72 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : One Piece Biro
+SLUG         : one-piece-biro-1873996
+BUMPA ID     : 1873996
+WOO TYPE     : simple
+PARENT SKU   : OSN-1873996
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Shop by Anime > One Piece
+
+TAGS: One Piece, One Piece pen set, anime pens, Luffy, Straw Hat crew, gel pens, anime stationery, manga panel, anime accessories, otaku gifts
+FRANCHISE: One Piece    CHARACTER: Monkey D. Luffy
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦1,500
+Total stock   : 9
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+A 6-pen Grand Line set for your notebook
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Rep the Straw Hats every time you write. This 6-piece One Piece gel pen set wraps smooth 0.5mm retractable click pens in black-and-white manga-panel art of Luffy and the crew. Fan-made, anime-inspired, everyday-ready.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Take the Grand Line to class, the office or your desk setup. This anime-inspired One Piece pen set bundles six retractable gel pens dressed in crisp black-and-white manga panels of Monkey D. Luffy and the Straw Hat crew, so every page you write quietly reps the roster.</p><p>Each pen runs a smooth 0.5mm gel tip with a simple click-action mechanism and a comfortable grip section. They write clean, look the part on any desk, and make an easy gift for the One Piece fan in your life. Fan / anime-inspired design, not affiliated with or endorsed by the official rights holders.</p><ul><li>Set of 6 retractable click gel pens</li><li>0.5mm gel ink tip for smooth, fine writing</li><li>Barrels printed with black-and-white One Piece manga-panel art</li><li>Soft grip section for comfortable everyday use</li><li>Materials: durable plastic barrels with rubberised grips</li><li>Great for school, work, journaling, study notes and gifting</li><li>Sold as a complete 6-piece set</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • 6-piece set of retractable gel pens
+  • Smooth 0.5mm gel ink tip
+  • Black-and-white One Piece manga-panel barrels featuring Luffy and the crew
+  • Comfortable grip for everyday writing
+  • Perfect desk upgrade or fan gift
+  • Fan / anime-inspired, not affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (47 chars)        : One Piece Pen Set (6 Gel Pens) | Otaku Store NG
+Meta Description (148 chars) : Anime-inspired One Piece gel pen set: 6 retractable 0.5mm click pens with Luffy manga-panel art. Rep the Straw Hats. Ships nationwide and worldwide.
+Focus keyword                       : One Piece pen set
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Set of six One Piece retractable gel pens with black-and-white manga-panel barrels featuring Luffy, held in front of dark packaging
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga style studio product shot of six retractable gel pens fanned out across a flat surface, barrels printed with black-and-white One Piece manga panels of Luffy and the Straw Hat crew. Ink black #111111 background, paper white #FAFAFA highlights, a single bold manga-red #E2261C accent on one pen's grip and as a slashing speed-line streak. Halftone dot shading, dynamic manga speed lines radiating outward, subtle ink splatter in the corners, segmented manga-panel framing. Premium, cinematic, high-contrast lighting, crisp focus on the pen tips, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

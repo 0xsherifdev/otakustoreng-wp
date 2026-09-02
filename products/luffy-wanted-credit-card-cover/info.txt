@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Luffy Wanted Credit Card Cover
+SLUG         : luffy-wanted-credit-card-cover
+BUMPA ID     : 1395766
+WOO TYPE     : simple
+PARENT SKU   : OSN-1395766
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Stickers
+  - Shop by Anime > One Piece
+
+TAGS: Luffy credit card cover, One Piece card skin, Luffy WANTED sticker, anime card decal, One Piece sticker, Monkey D. Luffy, vinyl card skin, anime debit card cover
+FRANCHISE: One Piece    CHARACTER: Monkey D. Luffy
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦3,500
+Total stock   : 10
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Wear your bounty on your bank card
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Turn an ordinary bank card into a Straw Hat statement. This Luffy WANTED poster vinyl skin wraps your debit or credit card in iconic One Piece bounty art, with a clean chip cutout, waterproof finish, and fade-resistant print.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Slap the most famous bounty in the East Blue straight onto your wallet. This Luffy WANTED Credit Card Cover is a fan-made vinyl skin that wraps your debit, credit or bank card in Monkey D. Luffy's "Dead or Alive" pirate poster art — grungy paper texture, bold red stamp energy, and that grinning Straw Hat captain front and centre.</p><p>The skin is precision-cut so the EMV chip stays exposed and your card taps, swipes and inserts exactly like normal. It's a quick, peel-and-stick way to flex your One Piece colours every time you pay. Anime-inspired fan art — not affiliated with or endorsed by the official licence holders.</p><ul><li>Material: durable adhesive vinyl card skin / decal with a smooth protective finish</li><li>Design: Luffy WANTED "Dead or Alive" bounty poster art</li><li>Fit: sized for standard debit / credit / bank cards, with a cutout for the EMV chip</li><li>Print: vivid, fade-resistant colours that won't smudge with daily handling</li><li>Finish: waterproof and wipe-clean for everyday wear in your wallet</li><li>Application: peel-and-stick, repositionable on clean cards; trim edges if needed</li><li>Pack: one card skin (covers the front face of a single card)</li><li>Note: does not affect chip, tap or magstripe function when applied correctly</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Iconic Luffy WANTED bounty poster art straight from One Piece
+  • Precision chip cutout — your card still taps, swipes and inserts
+  • Waterproof, wipe-clean vinyl with fade-resistant colour
+  • Peel-and-stick application that sits flush on standard cards
+  • Premium fan-made decal for debit, credit and bank cards
+  • Easy way to wear the roster every time you pay
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (53 chars)        : Luffy WANTED Credit Card Cover | One Piece Vinyl Skin
+Meta Description (151 chars) : Wrap your bank card in Luffy's WANTED poster art. One Piece vinyl card skin, waterproof, chip cutout, fade-resistant print. ₦3,500, ships from Nigeria.
+Focus keyword                       : Luffy credit card cover
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: One Piece Luffy WANTED poster vinyl credit card skin with EMV chip cutout, shown applied to a bank card
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-Manga studio product shot: a debit-card-sized vinyl skin wrapped in Monkey D. Luffy's WANTED "Dead or Alive" bounty poster art, lying at a dynamic angle on an ink-black #111111 surface. Single manga-red #E2261C accent stamp glowing across a paper-white #FAFAFA "WANTED" banner, visible EMV chip cutout catching a sharp highlight. Halftone dot shading, diagonal speed lines, scattered ink splatter framing the card in a single bold manga panel. Premium, cinematic, high-contrast key light, crisp macro detail on the vinyl texture. No logos, no text watermarks.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

@@ -1,0 +1,81 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Mini Gojou Figurine
+SLUG         : mini-gojou-figurine
+BUMPA ID     : 1873947
+WOO TYPE     : simple
+PARENT SKU   : OSN-1873947
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Figurines
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Gojo figurine, Jujutsu Kaisen figurine, Gojo Satoru, chibi figurine, anime figurine Nigeria, JJK collectible, Gojo statue, anime merch
+FRANCHISE: Jujutsu Kaisen    CHARACTER: Gojo Satoru
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦10,000
+Total stock   : 4
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The Strongest, sized for your shelf
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A chibi-style Gojo Satoru figurine in his signature seated pose, white spiky hair, glowing Six Eyes and round shades. Hand-painted PVC detail, premium finish, ready to anchor any Jujutsu Kaisen display.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>The honoured one, scaled down and sitting pretty. This Mini Gojo Satoru figurine captures the strongest sorcerer in a cute deformed (chibi) seated pose, blue Jujutsu Kaisen uniform, wild silver-white hair, and those glowing Six Eyes peeking over his signature round shades. It is the kind of piece that earns the front row of any shelf.</p>
+<p>Sculpted in pre-painted PVC with crisp linework and a clean studio finish, this is a fan-made, anime-inspired collectible built for display, not play. Pair it with your other Jujutsu Kaisen pieces or let Gojo hold the spotlight solo.</p>
+<ul>
+<li>Character: Gojo Satoru (Jujutsu Kaisen) in chibi seated pose</li>
+<li>Material: pre-painted PVC display figurine</li>
+<li>Approx. size: compact mini scale (roughly 9-10cm tall) — sizing as shown on the listing photo</li>
+<li>Style: cute deformed (chibi) with detailed hair, uniform and Six Eyes paintwork</li>
+<li>Use: shelf and desk display piece; handle with care, not a toy</li>
+<li>In the box: 1 x Mini Gojo figurine</li>
+<li>Care: keep out of direct sunlight; dust gently with a soft dry cloth</li>
+<li>Fan / anime-inspired collectible — not official or affiliated with the rights holders</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Chibi Gojo Satoru in his iconic seated pose
+  • Hand-painted PVC with glowing Six Eyes and round shades detail
+  • Compact mini scale — perfect for shelves, desks and display cases
+  • Premium clean finish that anchors any Jujutsu Kaisen collection
+  • Ships nationwide across Nigeria and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (55 chars)        : Mini Gojo Satoru Figurine | Jujutsu Kaisen Chibi Statue
+Meta Description (153 chars) : Chibi Gojo Satoru figurine from Jujutsu Kaisen — seated pose, Six Eyes, round shades. Hand-painted PVC display piece. Ships across Nigeria and worldwide.
+Focus keyword                       : Gojo figurine
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Chibi Gojo Satoru figurine from Jujutsu Kaisen in a seated pose with white spiky hair, glowing Six Eyes and round dark glasses
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-Manga studio product shot of a chibi Gojo Satoru PVC figurine seated in his blue Jujutsu Kaisen uniform with silver-white spiky hair and round dark shades. Ink black #111111 background, paper white #FAFAFA rim light, single manga-red #E2261C accent glow. Halftone dot texture, dynamic speed lines and ink splatter framing the figure inside a clean manga panel. Premium, cinematic, high-detail product photography, shallow depth of field, dramatic top-down key light catching the glowing Six Eyes.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

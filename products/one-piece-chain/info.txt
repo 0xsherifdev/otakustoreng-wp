@@ -1,0 +1,76 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : One Piece Chain
+SLUG         : one-piece-chain
+BUMPA ID     : 1875945
+WOO TYPE     : variable
+PARENT SKU   : OSN-1875945
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > One Piece
+
+TAGS: One Piece, One Piece necklace, anime necklace, Jolly Roger pendant, anime chain, Straw Hat, pendant necklace, anime accessories
+FRANCHISE: One Piece    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,800
+Total stock   : 40
+VARIATIONS (attribute: Style)
+  1              | ₦4,800 | stock 9    | SKU OSN-1875945-1
+  2              | ₦4,800 | stock 2    | SKU OSN-1875945-2
+  3              | ₦4,800 | stock 9    | SKU OSN-1875945-3
+  4              | ₦4,800 | stock 10   | SKU OSN-1875945-4
+  5              | ₦4,800 | stock 10   | SKU OSN-1875945-5
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Fly your crew's flag, daily wear
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Pick your allegiance with this One Piece pendant necklace. Five anime-inspired Jolly Roger and crew emblems on a black cord with lobster clasp and extender, finished in tarnish-resistant metal for everyday wear.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Set sail with a pendant that flies your crew's colours. This One Piece-inspired necklace pairs a crisp enamel-and-metal emblem with a clean black cord, so you can rep your favourite flag on the streets, at the meet-up, or under a hoodie. Detailed, lightweight, and built to be worn every single day.</p><p>Choose from five fan-favourite designs and lock in your allegiance. Anime-inspired, made for fans, not affiliated with or endorsed by the official rights holders.</p><ul><li><strong>Style options:</strong> 5 designs to choose from (1, 2, 3, 4, 5) covering iconic crew emblems and Jolly Roger insignia</li><li><strong>Pendant:</strong> detailed metal alloy charm with coloured accents</li><li><strong>Chain:</strong> black braided cord with lobster-clasp closure and adjustable extender</li><li><strong>Finish:</strong> tarnish-resistant, holds its shine with everyday wear</li><li><strong>Fit:</strong> adjustable length, suits most necklines, unisex</li><li><strong>Care:</strong> wipe clean with a soft dry cloth; keep away from water and perfume</li><li><strong>Includes:</strong> one One Piece pendant necklace in your chosen style</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • 5 anime-inspired designs: pick the crew emblem or Jolly Roger you ride for
+  • Detailed metal pendant with crisp coloured accents
+  • Black braided cord with lobster clasp and adjustable extender
+  • Tarnish-resistant finish made for everyday wear
+  • Lightweight and unisex, layers easily under any fit
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (44 chars)        : One Piece Chain Necklace | 5 Pendant Designs
+Meta Description (142 chars) : One Piece pendant necklace in 5 anime-inspired designs. Tarnish-resistant emblem on an adjustable black cord. Ships from Nigeria. Only ₦4,800.
+Focus keyword                       : One Piece chain necklace
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: One Piece pendant necklaces in five designs on black cords with lobster-clasp extenders
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product studio shot of a single One Piece-inspired metal pendant necklace on a black braided cord, hanging against an ink black #111111 backdrop with paper white #FAFAFA negative space; one manga-red #E2261C accent stroke behind the pendant; halftone dot texture, sharp speed lines and a touch of ink splatter framing the charm in a manga panel layout; dramatic cinematic side lighting catching the metal emblem, premium and crisp; no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : One Peice Stickers
+SLUG         : one-peice-stickers
+BUMPA ID     : 1140992
+WOO TYPE     : simple
+PARENT SKU   : OSN-1140992
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Stickers
+  - Shop by Anime > One Piece
+
+TAGS: One Piece stickers, Luffy stickers, anime stickers, Straw Hat crew, vinyl sticker pack, waterproof stickers, laptop stickers, One Piece merch
+FRANCHISE: One Piece    CHARACTER: Monkey D. Luffy
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦1,000
+Total stock   : 994
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Stick the Straw Hats on everything you own.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Set sail with a stacked One Piece vinyl sticker pack: Luffy and the full Straw Hat crew in vivid, fade-resistant prints. Waterproof and tough enough for laptops, bottles, phones and notebooks. Fan-made, no two layouts the same.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Claim your spot on the Grand Line. This One Piece vinyl sticker pack is loaded with Monkey D. Luffy in every gear and pose, plus the whole Straw Hat crew, Jolly Roger logos and Devil Fruit motifs ripped straight from the panels. Bold lines, punchy colour, the kind of art that makes people lean in to read your laptop lid.</p><p>Printed on durable waterproof vinyl with a fade-resistant finish, so they survive the bag, the bottle and the daily commute without peeling or bleeding. Peel, stick, repeat until every flat surface flies the pirate flag.</p><ul><li>Anime-inspired One Piece sticker pack featuring Luffy and the Straw Hat crew (fan art, not affiliated)</li><li>Durable waterproof vinyl with a vivid, fade-resistant print</li><li>Sticks clean to laptops, water bottles, phones, notebooks, skateboards and consoles</li><li>Strong residue-light adhesive for smooth, flat surfaces</li><li>Mixed assorted designs, sizes vary across the pack</li><li>Wipe surface clean and dry before applying for the best hold</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Loaded with Luffy plus the full Straw Hat crew
+  • Waterproof, fade-resistant vinyl built to last
+  • Sticks to laptops, bottles, phones and notebooks
+  • Assorted mixed designs in every pack
+  • Bold manga-panel artwork that pops
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : One Piece Stickers - Luffy Vinyl Sticker Pack
+Meta Description (150 chars) : One Piece vinyl sticker pack with Luffy and the Straw Hat crew. Waterproof, fade-resistant, sticks to laptops, bottles and phones. Ships from Nigeria.
+Focus keyword                       : One Piece stickers
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: One Piece vinyl sticker pack featuring Monkey D. Luffy and the Straw Hat crew with Jolly Roger logos
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a scattered One Piece anime sticker pack on an ink-black #111111 surface, paper-white #FAFAFA highlights, single manga-red #E2261C accent on a pirate Jolly Roger sticker. Halftone dot texture and diagonal speed lines radiating behind the pile, subtle ink splatter at the edges, framed inside a clean manga panel border. Cinematic top-down lighting, premium glossy vinyl reflections, sharp focus, high contrast.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

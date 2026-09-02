@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Luffy Gear 5 Tshirt
+SLUG         : luffy-gear-5-tshirt
+BUMPA ID     : 1507026
+WOO TYPE     : simple
+PARENT SKU   : OSN-1507026
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+  - Shop by Anime > One Piece
+
+TAGS: Luffy Gear 5 t-shirt, One Piece t-shirt, Monkey D Luffy, anime t-shirt, Gear 5 merch, One Piece merch, Sun God Nika, anime graphic tee
+FRANCHISE: One Piece    CHARACTER: Monkey D. Luffy
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦20,000
+Total stock   : 96
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Awaken the Sun God on a bold black tee
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel the Joy Boy himself. This black crew-neck tee features a bold back graphic of Luffy in Gear 5, laughing mid-air in a burst of white smoke. Soft, breathable cotton in a relaxed unisex fit built for everyday wear.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>The transformation that broke the internet, now on your back. Our Luffy Gear 5 t-shirt drops the Sun God Nika across a deep black canvas, the white-haired captain caught mid-laugh in a swirl of cloud and rubber chaos, with bold "ONE PIECE" and manga-red "GEAR5" lettering framing the scene. It is a fan-favourite print for anyone who lost their mind during that arc.</p><p>Cut in a relaxed unisex fit on soft, breathable cotton, it wears just as easily to a con as it does to a Sunday rewatch. The durable, fade-resistant print holds its punch wash after wash so the drip stays loud. Anime-inspired fan design, not affiliated with or endorsed by the rights holders.</p><ul><li><strong>Design:</strong> Large back-print of Monkey D. Luffy in Gear 5 with smoke and speed-line detailing</li><li><strong>Material:</strong> Soft, breathable cotton</li><li><strong>Fit:</strong> Unisex regular/relaxed fit</li><li><strong>Neck:</strong> Classic crew neck</li><li><strong>Colour:</strong> Black with white and manga-red graphics</li><li><strong>Print:</strong> Durable, fade-resistant graphic</li><li><strong>Care:</strong> Machine wash cold, inside-out; do not tumble dry hot</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold back-print of Luffy in Gear 5 mid-laugh, wrapped in smoke
+  • Manga-red GEAR5 lettering against deep black
+  • Soft, breathable cotton for all-day comfort
+  • Relaxed unisex fit, classic crew neck
+  • Durable, fade-resistant print that survives the wash
+  • Ships nationwide across Nigeria and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (53 chars)        : Luffy Gear 5 T-Shirt | One Piece Tee | Otaku Store NG
+Meta Description (146 chars) : Luffy Gear 5 t-shirt with a bold One Piece back-print on soft black cotton. Unisex fit, fade-resistant graphic. ₦20,000. Ships across Nigeria and.
+Focus keyword                       : Luffy Gear 5 t-shirt
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black crew-neck t-shirt with a large back-print of Monkey D. Luffy in Gear 5 laughing in white smoke, with ONE PIECE and red GEAR5 lettering
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product studio shot: a black crew-neck cotton t-shirt laid flat on paper-white #FAFAFA seamless, ink black #111111 backdrop edges, lit cinematically. Back of the tee faces camera showing a Gear 5 Luffy graphic. Halftone dot texture and diagonal manga speed lines radiating from the shirt, a single manga-red #E2261C ink splatter accent in one corner, framed inside a clean manga panel border. Premium e-commerce lighting, soft shadow, high detail, no text overlays.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

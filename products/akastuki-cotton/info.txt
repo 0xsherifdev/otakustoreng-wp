@@ -1,0 +1,72 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Akastuki Cotton
+SLUG         : akastuki-cotton
+BUMPA ID     : 1141316
+WOO TYPE     : simple
+PARENT SKU   : OSN-1141316
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Home & Decor > Room Decor
+  - Shop by Anime > Naruto
+
+TAGS: Akatsuki curtains, Naruto curtains, anime curtains, red cloud decor, Naruto room decor, anime window curtains, otaku room decor, Akatsuki cloud
+FRANCHISE: Naruto    CHARACTER: Akatsuki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦10,000
+Total stock   : 1000
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Pain rains red clouds on your window
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Drape your room in rogue-ninja energy. These Akatsuki red-cloud curtain panels print the iconic crimson clouds across a deep black ground, with grommet tops that glide onto any rod and a soft backing to tame daylight. Hideout-tier vibes, instantly.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some rooms whisper. Yours should announce that the Akatsuki have arrived. These curtain panels carry the legendary red-cloud motif scattered across an ink-black field, the same crimson silhouette every Naruto fan clocks from across a room. Hang them and the light filtering through turns your space into a rogue-ninja hideout.</p><p>Cut from a smooth, drapey fabric with metal grommet tops, they slide straight onto a standard curtain rod and fall in clean folds. The lighter inner backing softens harsh sun and adds privacy without going pitch black, so the print still reads bold day or night. Anime-inspired fan decor for Naruto and Akatsuki lovers, not affiliated with or endorsed by the rights holders.</p><ul><li>Design: all-over Akatsuki red-cloud pattern on a black ground</li><li>Style: grommet / eyelet top, fits a standard curtain rod</li><li>Backing: lighter inner lining for partial light filtering and privacy</li><li>Feel: smooth, lightweight drapey fabric that hangs in clean folds</li><li>Best for: bedrooms, living rooms, gaming corners and otaku spaces</li><li>Care: gentle machine or hand wash cold, hang to dry, low iron if needed</li><li>Note: exact panel size and number of panels confirmed at checkout</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Iconic Akatsuki red clouds on deep black, instantly recognisable to any Naruto fan
+  • Grommet / eyelet top slides straight onto a standard curtain rod
+  • Lighter inner backing filters harsh daylight and adds privacy
+  • Smooth drapey fabric that hangs in clean, premium folds
+  • Turns any bedroom, lounge or gaming corner into a rogue-ninja hideout
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (51 chars)        : Akatsuki Red Cloud Naruto Curtains | Otaku Store NG
+Meta Description (149 chars) : Akatsuki red-cloud curtain panels for Naruto fans. Iconic crimson clouds on black, grommet top, light-filtering backing. ₦10,000. Ships nationwide &.
+Focus keyword                       : Akatsuki curtains
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Pair of black Naruto Akatsuki curtain panels covered in red clouds, hung on a curtain rod by a window
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga style product hero shot of black anime window curtain panels printed with bold red Akatsuki-style clouds, hung from a metal rod with visible grommet eyelets. Ink black #111111 dominant ground, paper white #FAFAFA wall and soft daylight behind the fabric, single manga-red #E2261C accent on the cloud print. Halftone dot shading in the shadows, subtle speed lines radiating from the window, a flick of ink splatter framing one corner like a manga panel. Cinematic side lighting, premium catalog composition, the fabric falling in clean vertical folds. No text, no logos, no characters.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

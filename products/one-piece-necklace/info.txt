@@ -1,0 +1,80 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : One Piece Necklace
+SLUG         : one-piece-necklace
+BUMPA ID     : 2373558
+WOO TYPE     : simple
+PARENT SKU   : OSN-2373558
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > One Piece
+
+TAGS: One Piece necklace, Trafalgar Law, Heart Pirates, anime pendant, Jolly Roger, anime necklace, One Piece merch, anime jewelry
+FRANCHISE: One Piece    CHARACTER: Trafalgar Law (Heart Pirates)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,500
+Total stock   : 503
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Rep the Heart Pirates Jolly Roger
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Carry the Surgeon of Death's mark everywhere. This One Piece pendant necklace features the Heart Pirates Jolly Roger on an adjustable black cord, finished in tarnish-resistant metal for everyday wear that holds its shine.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>If your loyalty flies with the Heart Pirates, this is your mark. Our One Piece necklace puts Trafalgar Law's iconic Jolly Roger right where everyone can see it, the grinning smiley emblem rendered in clean white-and-orange enamel against a polished metal pendant. It's bold without shouting, the kind of piece that gets a knowing nod from anyone who knows the man named "Surgeon of Death".</p>
+<p>Strung on a slim black cord that sits clean over tees, hoodies and layered fits, it's built for daily wear, anime-inspired and made for fans, not affiliated with the official series. Wear the roster.</p>
+<ul>
+<li><strong>Design:</strong> Heart Pirates / Trafalgar Law Jolly Roger pendant</li>
+<li><strong>Pendant material:</strong> durable, tarnish-resistant metal alloy with enamel detailing</li>
+<li><strong>Chain:</strong> slim black cord with secure lobster-style clasp</li>
+<li><strong>Length:</strong> standard adjustable fit, sits comfortably at the chest</li>
+<li><strong>Style:</strong> unisex, lightweight and easy to layer</li>
+<li><strong>Care:</strong> wipe clean with a soft dry cloth; keep away from water and perfume</li>
+<li><strong>In the box:</strong> 1 x One Piece pendant necklace</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Heart Pirates Jolly Roger pendant, Trafalgar Law's iconic mark
+  • Tarnish-resistant metal alloy with crisp enamel detailing
+  • Slim black cord, adjustable fit that layers over any outfit
+  • Lightweight and unisex, built for everyday wear
+  • Fan-made, anime-inspired piece, not affiliated with the official series
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : One Piece Necklace, Heart Pirates Law Pendant
+Meta Description (153 chars) : One Piece necklace with the Heart Pirates / Trafalgar Law Jolly Roger pendant on an adjustable black cord. Tarnish-resistant, unisex. Ships nationwide &.
+Focus keyword                       : One Piece necklace
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: One Piece necklace with a metal Heart Pirates Jolly Roger pendant on a black cord, held in hand
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+DARK MANGA studio product shot of an anime-inspired pendant necklace: a circular metal pendant bearing a stylised smiley-face Jolly Roger emblem with crossed bars, on a slim black cord. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent glow behind the pendant. Halftone dot texture, sharp speed lines radiating outward, subtle ink splatter, manga panel framing. Premium, cinematic studio lighting, crisp metallic reflection on the pendant, high detail, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

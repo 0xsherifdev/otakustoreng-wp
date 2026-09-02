@@ -1,0 +1,74 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Obito gym short
+SLUG         : obito-gym-short
+BUMPA ID     : 2987924
+WOO TYPE     : variable
+PARENT SKU   : OSN-2987924
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Shorts
+  - Shop by Anime > Naruto
+
+TAGS: Obito shorts, Naruto shorts, anime gym shorts, Uchiha merch, anime shorts, unisex gym shorts, Naruto merch, otaku fashion
+FRANCHISE: Naruto    CHARACTER: Obito Uchiha
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦16,000
+Total stock   : 399
+VARIATIONS (attribute: Size)
+  L              | ₦16,000 | stock 99   | SKU OSN-2987924-L
+  XL             | ₦16,000 | stock 100  | SKU OSN-2987924-XL
+  2XL            | ₦16,000 | stock 100  | SKU OSN-2987924-2XL
+  3XL            | ₦16,000 | stock 100  | SKU OSN-2987924-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Train like the masked one. Obito-inspired gym shorts.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Anime-inspired Obito gym shorts built for the grind. Lightweight, breathable fabric with an elastic drawstring waist for a locked-in fit. Unisex cut, bold Naruto-fan print, and warm-weather comfort that moves from the gym to the streets.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Suit up for the grind with the Obito gym shorts, a fan-tribute to the Uchiha who refused to break. The bold print channels Obito Uchiha energy while a lightweight, breathable build keeps you cool through every set, sprint and rest day. This is gear for fans who train like the world is watching.</p><p>The elastic drawstring waist locks in a personalised fit, the unisex cut suits every roster, and the relaxed length keeps you moving freely from warm-up to cooldown. Wear it to the gym, throw it on for a casual fit, or rep your favourite shinobi on a hot day.</p><ul><li>Material: lightweight, breathable fabric for warm-weather comfort</li><li>Fit: unisex, relaxed cut</li><li>Waist: elastic waistband with adjustable drawstring</li><li>Print: Obito-inspired Naruto fan design</li><li>Sizes available: L, XL, 2XL, 3XL</li><li>Best for: gym sessions, training, casual everyday wear</li><li>Care: machine wash cold, wash inside out, hang or tumble dry low to protect the print</li><li>Note: fan / anime-inspired design, not official or affiliated with any rights holder</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Obito Uchiha fan print for true Naruto heads
+  • Lightweight, breathable fabric built for the gym
+  • Elastic drawstring waist for a dialled-in fit
+  • Unisex relaxed cut, sizes L to 3XL
+  • Warm-weather ready, gym-to-street versatile
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (47 chars)        : Obito Gym Shorts | Naruto Anime-Inspired Shorts
+Meta Description (150 chars) : Obito-inspired Naruto gym shorts: lightweight, breathable, elastic drawstring waist. Unisex, sizes L-3XL. Ships from Nigeria nationwide and worldwide.
+Focus keyword                       : Obito gym shorts
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Obito-inspired Naruto gym shorts with a bold Uchiha fan print, lightweight breathable fabric and elastic drawstring waist
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of folded anime gym shorts on a paper-white #FAFAFA surface against an ink-black #111111 backdrop. Single manga-red #E2261C accent on the waistband drawstring tips. Heavy halftone dot shading, sharp speed lines radiating from the shorts, ink-splatter texture in the corners, framed inside a clean manga panel border. Premium, cinematic lighting, crisp focus on fabric weave; high-contrast monochrome with one red pop. No text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

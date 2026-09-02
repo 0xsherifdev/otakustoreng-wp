@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Gojou Laptop Skin
+SLUG         : gojou-laptop-skin
+BUMPA ID     : 1875670
+WOO TYPE     : simple
+PARENT SKU   : OSN-1875670
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Laptop Skins
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Gojou laptop skin, Jujutsu Kaisen laptop skin, Satoru Gojo, anime laptop skin, vinyl decal, Jujutsu Kaisen merch, anime laptop decal, laptop wrap
+FRANCHISE: Jujutsu Kaisen    CHARACTER: Satoru Gojo
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦7,500
+Total stock   : 9
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The Strongest, locked onto your lid.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Refresh your laptop with The Strongest. This Gojou vinyl skin wraps your lid in glowing Six Eyes artwork — bubble-free to apply, residue-free to remove, and cut to fit your exact model. Anime-inspired armour for your everyday carry.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some sorcerers hide their power. Satoru Gojo wears it on his face — and now you wear it on your lid. This Gojou laptop skin is a precision-printed vinyl decal soaked in cool blues and ink-black shadow, with those signature Six Eyes glowing right back at anyone who looks over your shoulder. It's the kind of upgrade that turns a plain laptop into a statement: Wear the roster.</p><p>Application is clean and stress-free. The air-channel adhesive pushes out bubbles as you smooth it down, and when it's time for a new look it peels away without leaving sticky residue behind. Choose your size and model at checkout so the cut lines up with your ports, vents and camera. Fan-made, anime-inspired art — not affiliated with or endorsed by the franchise.</p><ul><li>Material: durable printed vinyl decal with a smooth, scratch-resistant finish</li><li>Application: air-channel adhesive for a bubble-free, even apply</li><li>Removal: peels off clean with no sticky residue when you want a change</li><li>Fit: select your laptop size/model at checkout for accurate cutouts</li><li>Coverage: lid-focused character print (cutouts vary by chosen model)</li><li>Design: anime-inspired Gojou Six Eyes artwork, fan-made and unofficial</li><li>Care: wipe gently with a soft, dry or slightly damp cloth — avoid harsh solvents</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Glowing Six Eyes Gojou artwork printed edge to edge
+  • Bubble-free air-channel adhesive for a clean apply
+  • Residue-free removal — swap the look whenever you want
+  • Cut to fit: pick your exact laptop size and model
+  • Scratch-resistant vinyl that shields against scuffs and dust
+  • Anime-inspired fan art, not official or licensed
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (46 chars)        : Gojou Laptop Skin | Jujutsu Kaisen Vinyl Decal
+Meta Description (152 chars) : Gojou laptop skin in glowing Six Eyes artwork. Bubble-free vinyl decal, residue-free removal, cut to fit your model. Anime-inspired, ships from Nigeria.
+Focus keyword                       : Gojou laptop skin
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Gojou laptop skin showing Satoru Gojo with white hair and glowing blue Six Eyes from Jujutsu Kaisen, printed on vinyl decal
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of an anime laptop vinyl skin applied to a slim laptop lid, lid angled three-quarters toward camera. The skin features a fan-inspired white-haired sorcerer with piercing glowing eyes. Palette: ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent on a corner sticker and speed lines. Halftone dot texture, sharp speed lines and a streak of ink splatter framing the laptop, manga-panel border. Premium cinematic lighting, hard rim light catching the lid edge, shallow depth of field. No text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

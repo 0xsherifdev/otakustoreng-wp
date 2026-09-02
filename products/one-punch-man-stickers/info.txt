@@ -1,0 +1,69 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : One Punch Man Stickers
+SLUG         : one-punch-man-stickers
+BUMPA ID     : 1831208
+WOO TYPE     : simple
+PARENT SKU   : OSN-1831208
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Stickers
+
+TAGS: One Punch Man stickers, Saitama stickers, Genos sticker, anime vinyl stickers, waterproof laptop stickers, anime sticker pack, OPM merch, manga stickers
+FRANCHISE: One Punch Man    CHARACTER: Saitama
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦1,000
+Total stock   : 9
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+One-punch energy for everything you own.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A 10-piece pack of waterproof One Punch Man vinyl stickers. Slap Saitama, Genos and hero-art panels on your laptop, water bottle, phone or notebook. Vivid, fade-resistant print that takes a hit and keeps on shining.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Caped Baldy approves. This 10-piece One Punch Man sticker pack puts Saitama's signature smirk, Genos and a stack of manga-style hero panels right where the world can see them. Bold linework, clean colours and that effortless "I won in one punch" energy in every die-cut piece.</p><p>Printed on durable waterproof vinyl with a fade-resistant finish, these stickers shrug off scuffs, spills and daily abuse. Peel, stick and decorate your laptop, water bottle, phone case, notebook or skateboard. Anime-inspired fan art, not affiliated with the official series.</p><ul><li>Pack of 10 die-cut vinyl stickers</li><li>One Punch Man theme: Saitama, Genos and assorted hero-art designs</li><li>Waterproof, durable, fade-resistant print</li><li>Sticks to laptops, water bottles, phones, notebooks, journals and more</li><li>Non-residue peel-and-stick backing for smooth, flat surfaces</li><li>Assorted designs supplied per pack</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • 10 die-cut vinyl stickers per pack
+  • Saitama, Genos and manga hero-art designs
+  • Waterproof and fade-resistant print
+  • Sticks to laptops, bottles, phones and notebooks
+  • Durable peel-and-stick, no messy residue
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (48 chars)        : One Punch Man Stickers - 10pc Saitama Vinyl Pack
+Meta Description (148 chars) : One Punch Man sticker pack: 10 waterproof Saitama and Genos vinyl stickers for laptops, bottles and notebooks. Vivid, fade-resistant fan art. Ships.
+Focus keyword                       : One Punch Man stickers
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Fan of 10 One Punch Man vinyl stickers with Saitama flexing in his yellow jumpsuit and red gloves, plus Genos and manga hero-art panels
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product shot of a 10-piece One Punch Man vinyl sticker pack fanned out on an ink-black #111111 surface, paper-white #FAFAFA sticker borders, single manga-red #E2261C accent on a Saitama smirk and speed lines. Halftone dot texture, ink splatter, dramatic manga panel framing, premium cinematic studio lighting, crisp glossy vinyl reflections, top-down hero composition.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

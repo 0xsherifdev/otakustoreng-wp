@@ -1,0 +1,76 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Gojou 4 acid tee
+SLUG         : gojou-4-acid-tee
+BUMPA ID     : 4434830
+WOO TYPE     : variable
+PARENT SKU   : OSN-4434830
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Gojo Satoru, Jujutsu Kaisen, anime t-shirt, acid wash tee, stone wash shirt, vintage anime tee, JJK merch, streetwear, unisex tee, anime graphic shirt
+FRANCHISE: Jujutsu Kaisen    CHARACTER: Satoru Gojo
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦24,000
+Total stock   : 2499
+VARIATIONS (attribute: Size)
+  M              | ₦24,000 | stock 500  | SKU OSN-4434830-M
+  L              | ₦24,000 | stock 500  | SKU OSN-4434830-L
+  XL             | ₦24,000 | stock 500  | SKU OSN-4434830-XL
+  2XL            | ₦24,000 | stock 499  | SKU OSN-4434830-2XL
+  XXXL           | ₦24,000 | stock 500  | SKU OSN-4434830-XXXL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Acid-wash vintage tee for the Strongest
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A faded acid-wash tee built around a bold monochrome Gojo Satoru print. Vintage washed black, oversized streetwear vibe, durable fade-resistant graphic. Unisex regular fit, crew neck, soft and ready for everyday rotation. Wear the roster.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Six Eyes locked, Limitless engaged. This acid-wash tee puts Satoru Gojo front and centre with a sweeping monochrome ink print and a clean "GOJO SATORU / JUJUTSU KAISEN" chest hit, all dropped onto a vintage washed-black body. The stone-wash finish gives every piece a slightly different faded texture, so your fit reads lived-in and premium straight out of the bag.</p><p>Cut for everyday rotation in a unisex regular fit with a comfortable crew neck, it pairs just as easily with cargos as it does under an open hoodie. A fan-made, anime-inspired design from Otaku Store NG, not affiliated with or endorsed by the official rights holders.</p><ul><li>Design: large monochrome Satoru Gojo graphic with chest text print</li><li>Finish: acid / stone-wash vintage faded black</li><li>Fabric: soft cotton-rich jersey, lightweight and breathable</li><li>Fit: unisex regular fit, crew neck</li><li>Sizes: M, L, XL, 2XL, XXXL</li><li>Print: durable, fade-resistant graphic</li><li>Care: machine wash cold, inside-out; do not tumble dry hot; iron inside-out avoiding the print</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold monochrome Satoru Gojo print with Jujutsu Kaisen chest text
+  • Acid / stone-wash vintage faded-black finish, each piece unique
+  • Unisex regular fit with classic crew neck
+  • Soft, breathable cotton-rich jersey
+  • Durable fade-resistant graphic that holds up wash after wash
+  • Sizes M through XXXL
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (48 chars)        : Gojo Satoru Acid-Wash Tee | Jujutsu Kaisen Shirt
+Meta Description (148 chars) : Vintage acid-wash Gojo Satoru tee with a bold monochrome Jujutsu Kaisen print. Unisex regular fit, sizes M-XXXL. Ships from Nigeria, nationwide and.
+Focus keyword                       : Gojo Satoru acid wash tee
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black acid-wash t-shirt with a large monochrome Satoru Gojo print and Jujutsu Kaisen chest text
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a vintage acid-wash black t-shirt with a bold monochrome Gojo Satoru graphic, laid flat on ink black #111111 backdrop, paper white #FAFAFA lighting, single manga-red #E2261C accent strip, halftone dot texture and subtle speed lines framing the tee, ink splatter in the corners, manga panel border, premium cinematic lighting, sharp focus on the faded stone-wash fabric texture.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

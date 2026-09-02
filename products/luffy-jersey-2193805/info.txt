@@ -1,0 +1,74 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Luffy Jersey
+SLUG         : luffy-jersey-2193805
+BUMPA ID     : 2193805
+WOO TYPE     : variable
+PARENT SKU   : OSN-2193805
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Jerseys
+  - Shop by Anime > One Piece
+
+TAGS: Luffy, Monkey D. Luffy, One Piece, anime jersey, all-over-print jersey, anime streetwear, Straw Hat Pirates, dye-sublimated jersey
+FRANCHISE: One Piece    CHARACTER: Monkey D. Luffy
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦23,000
+Total stock   : 27
+VARIATIONS (attribute: Size)
+  L              | ₦23,000 | stock 8    | SKU OSN-2193805-L
+  XL             | ₦23,000 | stock 10   | SKU OSN-2193805-XL
+  2XL            | ₦23,000 | stock 9    | SKU OSN-2193805-2XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Set sail in all-over-print Pirate King swagger
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Rep the future Pirate King in this all-over-print Luffy jersey. Vivid edge-to-edge One Piece graphics on lightweight, breathable polyester. Unisex, true-to-size, and built for cons, watch parties, and everyday anime streetwear. Wear your crew loud.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Hoist the Straw Hat flag in the <strong>Luffy Jersey</strong> — an all-over-print, dye-sublimated piece that wraps you in vivid edge-to-edge <strong>One Piece</strong> energy. The graphics run seamless from collar to hem, channeling Monkey D. Luffy's freedom-chasing, Pirate-King-bound spirit into a bold streetwear silhouette.</p><p>Cut from lightweight, breathable 100% polyester, it stays cool through con queues, match-watch parties, and full-day wear. Unisex fit runs true to size — if you're between sizes, go up for that relaxed layering drape. Loud, durable, and ready to set sail.</p><ul><li><strong>Material:</strong> Lightweight, breathable 100% polyester</li><li><strong>Print:</strong> All-over-print, dye-sublimated edge-to-edge graphics that won't crack or peel</li><li><strong>Fit:</strong> Unisex, relaxed jersey cut</li><li><strong>Sizing:</strong> True to size — available in L, XL, 2XL; size up if between sizes</li><li><strong>Care:</strong> Machine wash cold inside-out; do not iron print directly</li><li><strong>Delivery:</strong> Secure checkout with fast nationwide and worldwide shipping, plus easy returns</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Vivid all-over-print Monkey D. Luffy / One Piece graphics, edge to edge
+  • Lightweight, breathable 100% polyester that stays cool all day
+  • Unisex relaxed fit, true to size (size up if between sizes)
+  • Dye-sublimated print that won't crack, fade, or peel
+  • Perfect for conventions, watch parties, and anime streetwear layering
+  • Secure checkout with fast nationwide + worldwide delivery
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : Luffy Anime Jersey | One Piece All-Over Print
+Meta Description (140 chars) : Shop the Luffy anime jersey — all-over-print One Piece graphics on breathable polyester. Unisex, true to size. Fast worldwide delivery in ₦.
+Focus keyword                       : Luffy anime jersey
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Monkey D. Luffy One Piece all-over-print anime jersey with vivid edge-to-edge character graphics on breathable polyester
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga aesthetic studio shot of a folded all-over-print anime baseball jersey featuring Monkey D. Luffy from One Piece, displayed on a matte ink-black #111111 surface. High-contrast monochrome composition with paper-white #FAFAFA highlights and a single bold manga-red #E2261C accent used sparingly for energy. Background layered with halftone screentone dots, dynamic manga speed lines, and brush-ink splatter framing a manga panel layout. Premium anime-streetwear mood, cinematic dramatic lighting, sharp fabric texture detail, bold and editorial.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

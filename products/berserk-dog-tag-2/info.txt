@@ -1,0 +1,73 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Berserk Dog Tag 2
+SLUG         : berserk-dog-tag-2
+BUMPA ID     : 1507908
+WOO TYPE     : simple
+PARENT SKU   : OSN-1507908
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Berserk
+
+TAGS: Berserk, Guts, Berserk necklace, anime dog tag, anime necklace, Berserk merch, anime pendant, stainless steel chain, anime accessories, Black Swordsman
+FRANCHISE: Berserk    CHARACTER: Guts
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦6,000
+Total stock   : 6
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the Black Swordsman's mark.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A rugged Berserk-inspired dog tag pendant built for fans of Guts. Crafted from tarnish-resistant metal with a bold engraved design and an adjustable chain, it wears clean from training arc to street fit. Fan-made, not affiliated.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Forged for the ones who keep swinging no matter what the night throws at them. This Berserk-inspired dog tag channels the relentless spirit of Guts, the Black Swordsman, into a pendant that sits heavy and confident on the chest. The dark, etched detailing catches light like ink on a manga panel, making it an easy daily-wear piece or a standout drop for cons, meetups and photo shoots.</p><p>Built from durable, tarnish-resistant metal with a smooth finish that wipes clean, it pairs with tees, hoodies and layered chains alike. Adjustable wear lets you set the drop where it feels right, so the roster sits exactly how you want it.</p><ul><li><strong>Design:</strong> Berserk / Guts-inspired engraved dog-tag pendant</li><li><strong>Material:</strong> durable tarnish-resistant stainless-steel / alloy</li><li><strong>Finish:</strong> dark etched detailing with a smooth, premium feel</li><li><strong>Chain:</strong> matching pendant chain, adjustable/standard wear</li><li><strong>Includes:</strong> one dog-tag pendant on chain</li><li><strong>Care:</strong> wipe clean with a soft dry cloth; keep away from moisture</li><li><strong>Wear:</strong> unisex; layers easily with other chains</li><li><strong>Note:</strong> fan-made, anime-inspired design; not official or affiliated</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Berserk-inspired Guts dog tag for everyday wear
+  • Durable, tarnish-resistant metal with a premium dark finish
+  • Adjustable chain so you set the perfect drop
+  • Unisex piece that layers cleanly with other chains
+  • Wipe-clean and built for cons, fits and daily rotation
+  • Fan-made anime-inspired design, not official
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (50 chars)        : Berserk Dog Tag 2 - Guts Necklace | Otaku Store NG
+Meta Description (147 chars) : Berserk-inspired Guts dog tag necklace in tarnish-resistant metal with an adjustable chain. Fan-made anime accessory, ₦6,000. Ships nationwide and.
+Focus keyword                       : Berserk dog tag necklace
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Berserk-inspired Guts dog tag pendant on a metal chain, dark etched finish
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a stainless-steel Berserk-inspired Guts dog-tag pendant on a metal chain, resting on ink-black #111111 surface with paper-white #FAFAFA backdrop; single manga-red #E2261C accent slash behind it; halftone dot texture, dramatic speed lines, subtle ink splatter, manga panel framing; cinematic rim lighting, premium macro detail, sharp engraved detailing visible. No text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

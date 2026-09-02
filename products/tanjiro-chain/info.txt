@@ -1,0 +1,82 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Tanjiro Chain
+SLUG         : tanjiro-chain
+BUMPA ID     : 1134695
+WOO TYPE     : simple
+PARENT SKU   : OSN-1134695
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Demon Slayer
+
+TAGS: Tanjiro chain, Demon Slayer necklace, Tanjiro Kamado pendant, anime necklace, anime pendant chain, Demon Slayer accessories, Kimetsu no Yaiba jewelry, anime-inspired chain
+FRANCHISE: Demon Slayer    CHARACTER: Tanjiro Kamado
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦3,800
+Total stock   : 998
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the Hashira spirit on your chest
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A Tanjiro-inspired pendant necklace built for everyday wear. Tarnish-resistant metal, an adjustable chain that sits clean over tees or hoodies, and a wipe-clean finish that keeps its edge. Anime-inspired, not affiliated.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Slip on the Tanjiro Chain and wear the roster. Inspired by Demon Slayer's lead demon hunter, this pendant nods to Tanjiro Kamado's signature look with clean lines and bold contrast that read instantly across the room. It layers easily over a plain tee, drops perfectly under a hoodie, and finishes off any fit with a hit of anime energy.</p>
+<p>Crafted from durable, tarnish-resistant metal so it holds its shine through daily wear, with an adjustable chain that lands at the length you like. A quick wipe keeps it looking sharp. Fan-made and anime-inspired, not official or affiliated.</p>
+<ul>
+<li>Tanjiro-inspired pendant necklace (Demon Slayer fan design)</li>
+<li>Durable, tarnish-resistant stainless-steel / alloy build</li>
+<li>Adjustable chain length to suit your fit</li>
+<li>Secure clasp closure for everyday wear</li>
+<li>Lightweight and comfortable for all-day use</li>
+<li>Wipe clean with a soft, dry cloth</li>
+<li>Unisex styling, layers well with other chains</li>
+<li>Anime-inspired fan piece, not official or licensed</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Tanjiro Kamado-inspired Demon Slayer pendant design
+  • Tarnish-resistant metal that keeps its shine
+  • Adjustable chain length for the perfect drop
+  • Lightweight, unisex, and easy to layer
+  • Wipe-clean finish for low-maintenance wear
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : Tanjiro Chain | Demon Slayer Pendant Necklace
+Meta Description (152 chars) : Tanjiro-inspired Demon Slayer pendant necklace in tarnish-resistant metal with an adjustable chain. Anime fan accessory, ships nationwide and worldwide.
+Focus keyword                       : Tanjiro chain necklace
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Tanjiro-inspired Demon Slayer pendant necklace on a stainless-steel chain
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a Tanjiro-inspired pendant necklace on a fine stainless-steel chain, ink black #111111 background with paper white #FAFAFA negative space, single manga-red #E2261C accent glinting off the pendant edge. Halftone dot shading, dynamic speed lines radiating outward, ink splatter framing the bottom corner, arranged like a manga panel. Cinematic rim lighting, premium jewelry macro, sharp focus on the pendant, shallow depth of field.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

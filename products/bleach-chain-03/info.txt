@@ -1,0 +1,83 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Bleach Chain 03
+SLUG         : bleach-chain-03
+BUMPA ID     : 1248684
+WOO TYPE     : simple
+PARENT SKU   : OSN-1248684
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Bleach
+
+TAGS: Bleach necklace, Hollow mask pendant, Bleach chain, anime necklace, Ichigo merch, Soul Reaper jewelry, cross pendant, Bleach merch, anime jewelry, stainless steel necklace
+FRANCHISE: Bleach    CHARACTER: Hollow Mask (Ichigo)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦5,000
+Total stock   : 509
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Hollow mask cross pendant on a box-link chain.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A Bleach-inspired cross pendant with the red Hollow mask burning at its core, framed by flames and bat wings. Polished silver-tone metal on an adjustable box-link chain that resists tarnish. Built for everyday wear by Soul Reaper fans.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>The Hollow mask burns at the heart of this winged cross pendant, sculpted in polished silver-tone metal with a deep manga-red enamel centre and flame detailing pulled straight from the world of Bleach. The bat-wing crossguard and tapered blade-tip give it weight and presence, hanging clean on a box-link chain that sits right whether you stack it or wear it solo.</p>
+<p>Built to ride the line between subtle and statement, it is a fan favourite for anyone who repped the Substitute Soul Reaper before it was cool. Anime-inspired and unofficial, designed for daily wear.</p>
+<ul>
+<li>Bleach-inspired Hollow mask cross pendant with flame and bat-wing detailing</li>
+<li>Red enamel centre against a polished silver-tone finish</li>
+<li>Durable stainless-steel / alloy build that resists everyday tarnish</li>
+<li>Box-link chain with a secure lobster-clasp closure</li>
+<li>Standard adjustable length suited to most necklines</li>
+<li>Lightweight and comfortable for all-day wear</li>
+<li>Wipe clean with a soft, dry cloth</li>
+<li>Fan-made / anime-inspired tribute, not affiliated with or endorsed by the official rights holders</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Iconic red Hollow mask cross pendant straight from Bleach
+  • Polished silver-tone metal with bold manga-red enamel
+  • Tarnish-resistant build for everyday wear
+  • Adjustable box-link chain with secure lobster clasp
+  • Ships nationwide across Nigeria and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (50 chars)        : Bleach Hollow Mask Cross Necklace | Otaku Store NG
+Meta Description (153 chars) : Bleach-inspired Hollow mask cross pendant in silver-tone metal with red enamel, on an adjustable box-link chain. Ships from Nigeria. Shop at Otaku Store.
+Focus keyword                       : Bleach Hollow mask necklace
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Bleach-inspired silver cross pendant with a red Hollow mask centre and bat wings on a box-link chain
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a silver-tone winged cross pendant with a glowing manga-red enamel Hollow skull mask at its centre, hanging on a fine box-link chain. Ink black #111111 background with paper white #FAFAFA negative space, single manga-red #E2261C accent glow on the enamel. Halftone dot shading, sharp speed lines radiating from the pendant, subtle ink splatter at the edges, framed inside a clean manga panel. Premium, cinematic, high-contrast, sharp focus on the metal engraving.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

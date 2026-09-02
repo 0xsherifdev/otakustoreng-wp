@@ -1,0 +1,86 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Naruto totes bag
+SLUG         : naruto-totes-bag
+BUMPA ID     : 3099599
+WOO TYPE     : variable
+PARENT SKU   : OSN-3099599
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Tote Bags
+  - Shop by Anime > Naruto
+
+TAGS: Naruto tote bag, anime tote bag, canvas tote bag, Naruto merch, anime canvas bag, ninja bag, Naruto Uzumaki, shoulder tote, anime shopping bag, otaku tote
+FRANCHISE: Naruto    CHARACTER: Naruto Uzumaki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦7,000
+Total stock   : 60
+VARIATIONS (attribute: Style)
+  1              | ₦7,000 | stock 20   | SKU OSN-3099599-1
+  2              | ₦7,000 | stock 20   | SKU OSN-3099599-2
+  3              | ₦7,000 | stock 20   | SKU OSN-3099599-3
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the will of fire, everywhere you go.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Anime-inspired Naruto canvas tote built for the daily grind. Sturdy fabric, reinforced handles and bold ninja artwork give you roomy carry for books, groceries or con hauls. Pick your style and wear the roster.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some shinobi never quit, and neither should your everyday carry. This anime-inspired Naruto canvas tote pairs roomy, throw-it-all-in space with bold ninja artwork that turns a grocery run, a library haul or a full con day into a flex. Built on sturdy canvas with reinforced handles, it shrugs off the load and keeps the look sharp wherever you take it.</p>
+<p>Choose from three artwork styles to match your loadout, then carry the will of fire from class to convention floor. Fan-made, anime-inspired design; not affiliated with or endorsed by the official franchise.</p>
+<ul>
+<li><strong>Material:</strong> sturdy woven canvas built for daily use</li>
+<li><strong>Handles:</strong> reinforced dual straps for comfortable shoulder or hand carry</li>
+<li><strong>Capacity:</strong> roomy main compartment for books, groceries, gym kit or con hauls</li>
+<li><strong>Artwork:</strong> printed Naruto-inspired character graphic, available in 3 styles</li>
+<li><strong>Use:</strong> everyday tote, shopping, school, travel and convention carry</li>
+<li><strong>Care:</strong> spot clean or gentle hand wash, air dry to protect the print</li>
+<li><strong>Style options:</strong> 1, 2, 3</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Sturdy canvas built to handle the daily grind
+  • Reinforced dual handles for comfortable shoulder or hand carry
+  • Roomy main space for books, groceries and con hauls
+  • Bold Naruto-inspired ninja artwork in 3 style options
+  • Lightweight, foldable and easy to carry anywhere
+  • Fan-made anime-inspired design, not affiliated with the official franchise
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (52 chars)        : Naruto Tote Bag | Anime Canvas Tote - Otaku Store NG
+Meta Description (153 chars) : Anime-inspired Naruto canvas tote bag with reinforced handles and roomy carry. 3 bold styles, ₦7,000. Ships nationwide and worldwide from Otaku Store NG.
+Focus keyword                       : Naruto tote bag
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Naruto-inspired canvas tote bag with bold ninja character artwork and reinforced dual handles
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a canvas tote bag standing upright, Naruto-inspired ninja character printed in bold manga line art across the front panel. Ink black #111111 background, paper white #FAFAFA bag body, single manga-red #E2261C accent on the print and a thin speed-line burst behind the bag. Halftone dot shading, sharp speed lines, subtle ink splatter framing a clean manga panel composition. Premium, cinematic lighting, crisp focus on the woven canvas texture and reinforced handles. No text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

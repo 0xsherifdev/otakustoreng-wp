@@ -1,0 +1,89 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Zoro Shoes
+SLUG         : zoro-shoes
+BUMPA ID     : 1141476
+WOO TYPE     : variable
+PARENT SKU   : OSN-1141476
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Shoes
+  - Shop by Anime > One Piece
+
+TAGS: Zoro shoes, One Piece sneakers, Roronoa Zoro, anime shoes, anime sneakers, One Piece merch, high-top sneakers, anime footwear, unisex anime shoes, otaku fashion
+FRANCHISE: One Piece    CHARACTER: Roronoa Zoro
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦35,000
+Total stock   : 800
+VARIATIONS (attribute: Size)
+  38             | ₦35,000 | stock 100  | SKU OSN-1141476-38
+  39             | ₦35,000 | stock 100  | SKU OSN-1141476-39
+  40             | ₦35,000 | stock 100  | SKU OSN-1141476-40
+  41             | ₦35,000 | stock 100  | SKU OSN-1141476-41
+  42             | ₦35,000 | stock 100  | SKU OSN-1141476-42
+  43             | ₦35,000 | stock 100  | SKU OSN-1141476-43
+  44             | ₦35,000 | stock 100  | SKU OSN-1141476-44
+  45             | ₦35,000 | stock 100  | SKU OSN-1141476-45
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Three-sword style, locked into a high-top
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Step into the dojo with Zoro-inspired high-top sneakers. Green-and-white panels, katana art and bandana detailing on a cushioned sole. Unisex, true to size, sizes 38-45. Anime-inspired fan footwear that carries the whole crew on your feet.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the Pirate Hunter every time you lace up. These Zoro-inspired high-top sneakers wrap your feet in the swordsman's signature green-and-white colourway, complete with katana line art, ink-style slashes and bandana-meets-haramaki detailing across the panels. It is the kind of statement kick that One Piece fans clock from across the room.</p>
+<p>Built for everyday wear with a padded collar and a cushioned, grippy sole, they pair just as easily with joggers as with denim. Unisex sizing means anyone in the crew can rock them, and they run true to size, so just pick your usual fit.</p>
+<ul>
+<li>Roronoa Zoro / One Piece anime-inspired design (fan-made, not affiliated)</li>
+<li>High-top silhouette with all-over green-and-white character art</li>
+<li>Lace-up front with padded collar and tongue for ankle support</li>
+<li>Cushioned, lightweight sole with grippy outsole tread</li>
+<li>Unisex fit, true to size, choose from sizes 38-45</li>
+<li>Synthetic upper with textile lining; spot-clean with a damp cloth and air dry</li>
+<li>Ships from Nigeria, nationwide and worldwide</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold Zoro green-and-white colourway with katana and bandana art
+  • High-top build with padded collar for everyday ankle support
+  • Cushioned, grippy sole made for all-day wear
+  • Unisex fit, true to size, sizes 38-45
+  • Anime-inspired fan footwear, not officially affiliated
+  • Ships from Nigeria, nationwide and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (40 chars)        : Zoro Shoes | One Piece High-Top Sneakers
+Meta Description (144 chars) : Zoro-inspired One Piece high-top sneakers in green and white with katana art. Unisex, true to size 38-45. Ships from Nigeria worldwide. ₦35,000.
+Focus keyword                       : Zoro shoes
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Zoro-inspired One Piece high-top sneakers in green and white with katana and bandana artwork and black laces
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga style studio product shot of green-and-white Zoro-inspired One Piece high-top sneakers floating at a dynamic three-quarter angle. Ink black #111111 backdrop, paper white #FAFAFA floor, single manga-red #E2261C accent slash behind the shoes. Halftone dot shading, bold speed lines radiating outward, subtle ink splatter framing the composition in manga panels. Sharp katana glint highlight on the swoosh, premium cinematic lighting, high detail, crisp focus on the sneaker texture.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

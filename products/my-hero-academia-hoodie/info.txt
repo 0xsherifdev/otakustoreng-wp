@@ -1,0 +1,90 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : My Hero Academia Hoodie
+SLUG         : my-hero-academia-hoodie
+BUMPA ID     : 2964636
+WOO TYPE     : variable
+PARENT SKU   : OSN-2964636
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+  - Shop by Anime > My Hero Academia
+
+TAGS: My Hero Academia hoodie, anime hoodie, MHA merch, Plus Ultra, U.A. High, pullover hoodie, anime streetwear, otaku fashion
+FRANCHISE: My Hero Academia    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦18,500
+Total stock   : 799
+VARIATIONS (attribute: Size & Material)
+  L-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964636-LTHICKCOTTON
+  L-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964636-LTHICKPOLYESTER
+  Xl-Thick Cotton | ₦21,000 | stock 99   | SKU OSN-2964636-XLTHICKCOTTON
+  Xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964636-XLTHICKPOLYESTER
+  2xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964636-2XLTHICKCOTTON
+  2xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964636-2XLTHICKPOLYESTER
+  3xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964636-3XLTHICKCOTTON
+  3xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964636-3XLTHICKPOLYESTER
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Go Beyond. Plus Ultra streetwear.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Suit up like a U.A. hero in this brushed-fleece My Hero Academia hoodie. Bold anime-inspired graphics, ribbed cuffs and hem, kangaroo pocket and a unisex streetwear fit. Pick your size and choose thick cotton or thick polyester.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel your inner Pro Hero. This My Hero Academia hoodie brings U.A. High energy to the streets with bold, anime-inspired graphics and a heavyweight build made to be lived in. Brushed-fleece on the inside keeps you warm on cold days and late-night manga marathons, while the unisex streetwear cut layers clean over tees or under a jacket.</p>
+<p>Choose your fabric to match your vibe: thick cotton for that soft, breathable feel, or thick polyester for a smoother, hard-wearing finish. Whichever you pick, it is built to hold its shape wash after wash. Fan-made and anime-inspired, not affiliated with or endorsed by the official rights holders.</p>
+<ul>
+<li>Pullover hoodie with My Hero Academia anime-inspired graphic print</li>
+<li>Brushed-fleece interior for warmth and comfort</li>
+<li>Ribbed cuffs and hem to lock in heat and keep their shape</li>
+<li>Roomy kangaroo front pocket and lined drawstring hood</li>
+<li>Unisex streetwear fit, true to everyday sizing</li>
+<li>Fabric choice: thick cotton or thick polyester</li>
+<li>Available sizes: L, XL, 2XL, 3XL</li>
+<li>Care: machine wash cold, inside-out; hang or tumble dry low</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Brushed-fleece interior for serious warmth
+  • Bold My Hero Academia anime-inspired graphics
+  • Choose thick cotton or thick polyester
+  • Ribbed cuffs and hem hold their shape
+  • Roomy kangaroo pocket and lined hood
+  • Unisex streetwear fit, sizes L to 3XL
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (55 chars)        : My Hero Academia Hoodie | Anime Hoodie | Otaku Store NG
+Meta Description (150 chars) : Brushed-fleece My Hero Academia hoodie with bold anime-inspired graphics. Thick cotton or polyester, sizes L-3XL. Ships nationwide and worldwide from.
+Focus keyword                       : My Hero Academia hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: My Hero Academia pullover hoodie with bold anime-inspired graphic print, kangaroo pocket and ribbed cuffs
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a My Hero Academia pullover hoodie on an invisible mannequin, three-quarter angle. Ink black #111111 background, paper white #FAFAFA hoodie body, single manga-red #E2261C accent on the graphic and drawstrings. Halftone dot shading, dynamic speed lines radiating behind the garment, subtle ink splatter framing a manga panel border. Crisp cinematic studio lighting, premium streetwear catalog feel, sharp focus on brushed-fleece texture, ribbed cuffs and kangaroo pocket. No text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

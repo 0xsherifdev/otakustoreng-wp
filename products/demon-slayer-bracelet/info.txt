@@ -1,0 +1,86 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Demon slayer bracelet
+SLUG         : demon-slayer-bracelet
+BUMPA ID     : 1734031
+WOO TYPE     : simple
+PARENT SKU   : OSN-1734031
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Shop by Anime > Demon Slayer
+
+TAGS: Demon Slayer bracelet, Demon Slayer, anime bracelet, Tanjiro, Nezuko, Zenitsu, braided cord bracelet, anime accessories, Kimetsu no Yaiba, charm bracelet
+FRANCHISE: Demon Slayer    CHARACTER: Tanjiro Kamado
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦3,500
+Total stock   : 9
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Braided cord, glass cabochon, four Demon Slayer faces.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Rep the Demon Slayer Corps everyday with a braided black cord bracelet and a domed glass charm. Choose from four anime-inspired character designs framed by polished metal beads. Adjustable, lightweight and built to wear daily.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Carry the Demon Slayer Corps on your wrist. This braided black cord bracelet centres on a domed glass cabochon charm, printed with crisp anime-inspired art and locked between polished silver-tone metal beads. Layered cords and a clean, dark finish keep it subtle enough for everyday wear yet unmistakable to a fellow fan.</p>
+<p>Pick your fighter from four designs spanning the roster, then stack it solo or layer it with your other pieces. A fan-made, anime-inspired accessory built for daily wear, not a glass-case shelf.</p>
+<ul>
+<li><strong>Item:</strong> Anime-inspired character bracelet</li>
+<li><strong>Charm:</strong> Domed glass cabochon over printed character art, set in a metal bezel</li>
+<li><strong>Band:</strong> Multi-strand braided black cord with polished silver-tone metal beads</li>
+<li><strong>Designs:</strong> Choose from 4 options — Tanjiro, Zenitsu, Nezuko and more from the roster</li>
+<li><strong>Fit:</strong> Adjustable tie closure, unisex, one size fits most</li>
+<li><strong>Wear:</strong> Lightweight and comfortable for daily use; stack or wear solo</li>
+<li><strong>Care:</strong> Keep dry; wipe the charm gently with a soft cloth and avoid harsh chemicals</li>
+<li><strong>Note:</strong> Fan-made and anime-inspired; not official or affiliated with the rights holders</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Domed glass cabochon charm with crisp anime-inspired character art
+  • Multi-strand braided black cord with polished silver-tone metal beads
+  • Choose from 4 designs across the Demon Slayer roster
+  • Adjustable tie closure — unisex, one size fits most
+  • Lightweight everyday wear: stack it or rock it solo
+  • Fan-made / anime-inspired, not affiliated with the rights holders
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (59 chars)        : Demon Slayer Bracelet | Braided Charm Cuff – Otaku Store NG
+Meta Description (151 chars) : Demon Slayer braided cord bracelet with a glass character charm. Choose from 4 designs incl. Tanjiro, Zenitsu &amp; Nezuko. Adjustable, unisex. ₦3,500.
+Focus keyword                       : Demon Slayer bracelet
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+  05.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Demon Slayer braided black cord bracelet with a domed glass Tanjiro Kamado charm and polished silver-tone metal beads, held in hand
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product hero shot of a braided black cord bracelet with a domed glass cabochon charm and polished silver-tone metal beads, charm printed with stylised manga character art. Ink black #111111 background, paper white #FAFAFA negative space, single manga-red #E2261C accent on speed lines slicing behind the bracelet. Halftone dot shading, sharp ink splatter, manga panel framing. Bracelet coiled on a matte stone surface, cinematic top-down studio lighting, crisp reflections on the metal beads, premium and high-contrast. No text, no logos, no watermark.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

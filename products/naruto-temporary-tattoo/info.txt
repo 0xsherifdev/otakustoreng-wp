@@ -1,0 +1,83 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Naruto Temporary Tattoo
+SLUG         : naruto-temporary-tattoo
+BUMPA ID     : 1147450
+WOO TYPE     : simple
+PARENT SKU   : OSN-1147450
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Shop by Anime > Naruto
+
+TAGS: Naruto temporary tattoo, anime temporary tattoo, Naruto accessories, waterproof tattoo, cosplay tattoo, Hidden Leaf, anime fan merch, Naruto cosplay
+FRANCHISE: Naruto    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦3,000
+Total stock   : 15
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Ink the Hidden Leaf without the needle
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Six waterproof Naruto-inspired temporary tattoos in one pack. Press on, peel off, rep the Hidden Leaf for days. Fan-made art, easy to apply, perfect for cosplay, events or everyday flexing your ninja way.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel your inner shinobi without committing to the needle. This Naruto-inspired temporary tattoo pack drops six bold, fan-designed sheets so you can rep the Hidden Leaf at conventions, cosplay shoots, watch parties or just on a regular Tuesday. Waterproof and built to last a day or two, the art stays sharp through sweat, splashes and the daily grind.</p>
+<p>Application is dead simple: place the tattoo where you want it, press a damp cloth over the backing, hold for a few seconds, then peel away to reveal crisp ninja ink. When you're done, it lifts off clean. Anime-inspired fan art, not affiliated with or endorsed by the official rights holders.</p>
+<ul>
+<li>Pack contents: 6 temporary tattoos per pack</li>
+<li>Design theme: Naruto-inspired fan art</li>
+<li>Finish: waterproof, smudge-resistant once applied</li>
+<li>Wear time: typically lasts 1-2 days</li>
+<li>Application: water-transfer; press with a damp cloth, then peel backing</li>
+<li>Removal: lifts off cleanly, no permanent marking</li>
+<li>Best for: cosplay, conventions, events, everyday fan flex</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • 6 Naruto-inspired temporary tattoos per pack
+  • Waterproof and smudge-resistant once applied
+  • Lasts 1-2 days, then peels off clean
+  • Easy water-transfer application with a damp cloth
+  • Perfect for cosplay, conventions and everyday flexing
+  • Fan-made anime art, not affiliated with official rights holders
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (49 chars)        : Naruto Temporary Tattoo Pack (6) | Otaku Store NG
+Meta Description (151 chars) : Naruto-inspired temporary tattoo pack: 6 waterproof, easy-apply ninja tattoos that last 1-2 days. Fan-made art. Ships nationwide and worldwide. ₦3,000.
+Focus keyword                       : Naruto temporary tattoo
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Pack of six waterproof Naruto-inspired temporary tattoos with ninja-themed fan art
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a sheet of Naruto-inspired temporary tattoos resting on ink-black #111111 surface, paper-white #FAFAFA highlights, single manga-red #E2261C accent on a swirling ninja crest. Halftone dot shading, sharp speed lines radiating from the pack, subtle ink splatter in corners, framed inside a clean manga panel border. Premium cinematic lighting, high contrast, glossy waterproof sheen catching the light, shallow depth of field.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

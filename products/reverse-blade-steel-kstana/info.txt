@@ -1,0 +1,80 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Reverse blade steel kstana
+SLUG         : reverse-blade-steel-kstana
+BUMPA ID     : 4021395
+WOO TYPE     : simple
+PARENT SKU   : OSN-4021395
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Katana & Weapons
+
+TAGS: reverse blade katana, sakabato, Kenshin Himura, Rurouni Kenshin, anime katana, display sword, cosplay sword, replica katana, anime collectible, steel katana
+FRANCHISE: Rurouni Kenshin    CHARACTER: Kenshin Himura
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦98,000
+Total stock   : 500
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The legendary sakabato, reborn in steel.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A fan-crafted reverse-blade katana inspired by Kenshin Himura's sakabato. Themed handle wrap and scabbard, ready-to-display steel build, and a complete kit for collectors and cosplayers who want the roster on their wall.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Honour the wanderer's vow. This anime-inspired reverse-blade katana channels the sakabato carried by Kenshin Himura in Rurouni Kenshin, the blade sharpened on its inner edge so the swordsman never takes a life. It is a decorative display and cosplay piece built to look the part on a shelf, in a glass case, or strapped on at your next convention.</p>
+<p>The steel blade, themed tsuka wrap and matching saya scabbard make it an instant centrepiece for any anime collection. It arrives ready to stage, complete with everything you need to display and maintain it from day one.</p>
+<ul>
+<li>Anime-inspired reverse-blade (sakabato) styling, modelled on Kenshin Himura's iconic sword</li>
+<li>Steel display blade with a reverse-edge profile for that signature wanderer look</li>
+<li>Themed handle wrap (tsuka) and matching scabbard (saya)</li>
+<li>Includes a free display stand, a carry belt, and blade cleaning solution</li>
+<li>Built as a decorative collector and cosplay prop, not a functional weapon</li>
+<li>Keep out of reach of children; follow your local laws on bladed display items</li>
+<li>Fan / anime-inspired design; not official, licensed, or affiliated with the rights holders</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Reverse-blade sakabato styling inspired by Kenshin Himura
+  • Steel display blade with signature reverse-edge profile
+  • Themed tsuka handle wrap and matching saya scabbard
+  • Free display stand, carry belt, and cleaning solution included
+  • Display and cosplay collector prop, not a functional weapon
+  • Fan-made, anime-inspired design, not affiliated with rights holders
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (53 chars)        : Reverse-Blade Steel Katana | Kenshin Sakabato Replica
+Meta Description (151 chars) : Fan-made reverse-blade steel katana inspired by Kenshin Himura's sakabato. Steel blade, themed scabbard, free stand, belt and cleaning solution. Ships.
+Focus keyword                       : reverse blade katana
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Reverse-blade steel katana inspired by Kenshin Himura's sakabato, with themed handle wrap and scabbard on a display stand
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a reverse-blade (sakabato) display katana resting on a wooden stand. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent on the handle wrap cord. Halftone dot shading, dynamic speed lines radiating from the steel reverse-edge blade, subtle ink splatter framing the saya scabbard. Cinematic side lighting catching the polished steel, premium collector presentation, manga panel framing, high detail, no text.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

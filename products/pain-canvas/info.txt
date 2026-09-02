@@ -1,0 +1,87 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Pain Canvas
+SLUG         : pain-canvas
+BUMPA ID     : 1141443
+WOO TYPE     : variable
+PARENT SKU   : OSN-1141443
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Shoes
+  - Shop by Anime > Naruto
+
+TAGS: Pain shoes, Naruto sneakers, Akatsuki shoes, anime canvas shoes, Rinnegan, Naruto merch, anime sneakers, unisex anime shoes
+FRANCHISE: Naruto    CHARACTER: Pain
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦22,000
+Total stock   : 800
+VARIATIONS (attribute: Size)
+  38             | ₦22,000 | stock 100  | SKU OSN-1141443-38
+  39             | ₦22,000 | stock 100  | SKU OSN-1141443-39
+  40             | ₦22,000 | stock 100  | SKU OSN-1141443-40
+  41             | ₦22,000 | stock 100  | SKU OSN-1141443-41
+  42             | ₦22,000 | stock 100  | SKU OSN-1141443-42
+  43             | ₦22,000 | stock 100  | SKU OSN-1141443-43
+  44             | ₦22,000 | stock 100  | SKU OSN-1141443-44
+  45             | ₦22,000 | stock 100  | SKU OSN-1141443-45
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Walk the path of pain with Rinnegan-grade swagger.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Step into the Akatsuki with these Pain-inspired canvas shoes. All-over Rinnegan and cloud art wraps a cushioned, true-to-size unisex silhouette built for daily wear. Pick your size and own every street.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the leader of the Akatsuki with the Pain Canvas — a fan-inspired sneaker that wraps Nagato's Rinnegan stare and crimson-cloud energy across an all-over print. Bold ink-line art on a clean canvas upper makes these a statement for any Naruto devotee who'd rather wear the roster than just watch it.</p>
+<p>Built for the long haul: a cushioned sole keeps you comfortable from class to convention, and the unisex, true-to-size fit means anyone can lace up. Anime-inspired design, not affiliated with or officially licensed by the rights holders.</p>
+<ul>
+<li>All-over Pain / Akatsuki-inspired graphic print across the full upper</li>
+<li>Durable canvas upper with reinforced lace-up closure</li>
+<li>Cushioned insole and grippy rubber outsole for everyday comfort</li>
+<li>Unisex design — true to size, so order your usual fit</li>
+<li>Available in sizes 38 to 45</li>
+<li>Easy care: spot clean and air dry to keep the print sharp</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • All-over Pain & Akatsuki Rinnegan-inspired print
+  • Durable canvas upper, lace-up closure
+  • Cushioned sole for all-day comfort
+  • Unisex, true-to-size fit (EU 38-45)
+  • Fan-inspired Naruto design, not affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (44 chars)        : Pain Canvas Shoes | Naruto Akatsuki Sneakers
+Meta Description (148 chars) : Pain Canvas sneakers with all-over Akatsuki Rinnegan art. Cushioned, unisex, true-to-size EU 38-45. Fan-inspired Naruto shoes shipping from Nigeria.
+Focus keyword                       : Pain canvas shoes
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Pain Canvas anime sneakers with all-over Akatsuki Rinnegan print on a white canvas upper
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of low-top canvas sneakers, all-over Akatsuki-inspired Rinnegan eye and red-cloud print. Ink black #111111 background, paper white #FAFAFA shoes, single manga-red #E2261C accent on the cloud motifs and laces. Halftone dot shading, dramatic speed lines radiating from the shoes, ink splatter at the edges, framed inside a clean manga panel. Premium cinematic lighting, sharp focus, three-quarter angle, floating product hero composition.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

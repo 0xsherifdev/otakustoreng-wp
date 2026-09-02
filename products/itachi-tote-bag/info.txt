@@ -1,0 +1,79 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Itachi Tote Bag
+SLUG         : itachi-tote-bag
+BUMPA ID     : 2221578
+WOO TYPE     : simple
+PARENT SKU   : OSN-2221578
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Tote Bags
+  - Shop by Anime > Naruto
+
+TAGS: Itachi tote bag, Naruto tote bag, Itachi Uchiha merch, anime canvas tote, Akatsuki merch, anime tote bag, Naruto accessories, Uchiha gifts
+FRANCHISE: Naruto    CHARACTER: Itachi Uchiha
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦7,000
+Total stock   : 10
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the crow's shadow everywhere you go
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A sturdy canvas tote built for the Uchiha faithful. Itachi artwork printed bold across the front, with reinforced handles and a roomy main compartment ready for books, groceries or your next con haul.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some legends hide their love behind a mission. This Itachi tote wears it loud and proud. Inspired by Naruto's most haunting Uchiha, the print lands sharp against heavy-duty canvas built to take a beating and keep its shape. Whether you're hauling library books, market runs or your weekend con loot, this bag carries the weight while you carry the legacy.</p>
+<p>Fan-made and anime-inspired, crafted for the roster you grew up on. Not affiliated with or endorsed by the original creators.</p>
+<ul>
+<li>Sturdy woven canvas body that holds its shape and resists everyday wear</li>
+<li>Reinforced stitched handles for comfortable shoulder or hand carry</li>
+<li>Roomy open main compartment for books, groceries, gym kit or con hauls</li>
+<li>Bold front-printed Itachi artwork in a crisp, high-contrast finish</li>
+<li>Lightweight, foldable and easy to stash when not in use</li>
+<li>Wipe-clean exterior; spot clean or gentle hand wash, air dry, avoid tumble drying</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Heavy-duty canvas built for daily carry
+  • Reinforced handles for books, groceries and con hauls
+  • Bold front-printed Itachi Uchiha artwork
+  • Lightweight and foldable everyday essential
+  • Fan-made, anime-inspired Naruto design
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (53 chars)        : Itachi Tote Bag | Naruto Canvas Tote - Otaku Store NG
+Meta Description (150 chars) : Itachi Uchiha canvas tote bag with bold Naruto-inspired print and reinforced handles. Roomy everyday carry for ₦7,000. Ships nationwide and worldwide.
+Focus keyword                       : Itachi tote bag
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black canvas tote bag with a bold front print of Itachi Uchiha from Naruto, reinforced shoulder handles
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a canvas tote bag standing upright on a paper-white #FAFAFA seamless surface, ink-black #111111 bag body with a high-contrast manga-style portrait of Itachi Uchiha printed across the front, single manga-red #E2261C accent on the Sharingan eyes, halftone dot shading, dramatic speed lines radiating behind the bag, subtle ink splatter at the base, framed inside a clean manga panel border, cinematic premium lighting, sharp focus, no text
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

@@ -1,0 +1,87 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Anime Led Lamps
+SLUG         : anime-led-lamps
+BUMPA ID     : 1483906
+WOO TYPE     : simple
+PARENT SKU   : OSN-1483906
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Home & Decor > LED Lamps
+
+TAGS: anime LED lamp, 3D illusion lamp, anime night light, anime desk lamp, 16 colour LED lamp, USB anime lamp, anime room decor, otaku desk setup
+FRANCHISE: Generic Anime    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦16,000
+Total stock   : 502
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+3D illusion night light that owns the desk
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Light up your setup with this anime-inspired 3D illusion LED lamp. A flat acrylic panel throws a crisp 3D glow, cycles through 16 colours, and ships with a remote so you set the mood without leaving your chair.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Turn any desk, shelf or gaming corner into a shrine with this anime-inspired 3D illusion LED lamp. A laser-etched acrylic panel sits in a sturdy base and bends the light into a sharp 3D effect, so your favourite scene appears to float in mid-air. By day it reads as clean line art; flick it on and the whole panel comes alive.</p>
+<p>Powered over USB and tuned with energy-efficient LEDs, it runs cool and quiet enough to leave on all night. Cycle through the full colour range or lock in one shade, then dim it down for a soft ambient glow. A fan piece that earns its spot on the roster.</p>
+<ul>
+<li>3D illusion acrylic panel on a stable display base</li>
+<li>16 selectable light colours with smooth transitions and steady-on modes</li>
+<li>Remote control included for colour, mode and brightness from across the room</li>
+<li>USB powered (cable included) — plug into a power bank, adapter or PC</li>
+<li>Energy-efficient LEDs that stay cool for all-night use</li>
+<li>Lightweight, low-profile footprint for desks, shelves and bedside tables</li>
+<li>Fan / anime-inspired design — not affiliated with or endorsed by any studio</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • 3D illusion acrylic panel with a crisp floating-art glow
+  • 16 colours with a remote to switch mode and brightness
+  • USB powered with energy-efficient, cool-running LEDs
+  • Compact base built for desks, shelves and bedside tables
+  • Fan / anime-inspired design, not affiliated with any studio
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (50 chars)        : Anime 3D Illusion LED Lamp | 16-Colour Night Light
+Meta Description (154 chars) : Anime-inspired 3D illusion LED lamp with 16 colours, remote and USB power. Cool-running night light for desks and shelves. Ships nationwide and worldwide.
+Focus keyword                       : anime LED lamp
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+  05.jpg  (gallery)
+  06.jpg  (gallery)
+  07.jpg  (gallery)
+  08.jpg  (gallery)
+  09.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Anime-inspired 3D illusion acrylic LED lamp glowing red on a desk, with remote control
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of an anime 3D illusion acrylic LED night light on a minimal desk. Ink black #111111 background, paper white #FAFAFA surface, single manga-red #E2261C glow from the lamp. Halftone dot texture, diagonal speed lines and a touch of ink splatter framing a clean manga panel. Lamp acrylic panel etched with bold anime line art on a low display base, slim remote resting beside it, USB cable trailing off. Premium, cinematic lighting, high contrast, shallow depth of field, product centred.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

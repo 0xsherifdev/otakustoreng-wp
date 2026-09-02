@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : 5in 1 Rings With Bracelet
+SLUG         : 5in-1-rings-with-bracelet
+BUMPA ID     : 1507890
+WOO TYPE     : simple
+PARENT SKU   : OSN-1507890
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Bracelets
+
+TAGS: hand chain bracelet, ring and bracelet set, silver-tone bracelet, anime accessories, finger ring chain, hand harness, adjustable bracelet, anime-inspired jewelry
+FRANCHISE: Generic Anime    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦5,500
+Total stock   : 6
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Linked ring-and-chain hand harness in silver-tone steel
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A statement hand-chain bracelet that links a wrist chain to four open finger rings via delicate strands. Silver-tone, lobster-clasp closure, adjustable open-band rings. Anime-inspired everyday edge that drapes the back of your hand like a panel come to life.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some accessories whisper. This one holds the frame. The 5in1 Rings With Bracelet is a layered hand harness that runs a wrist chain across the back of your hand and ties it to a row of open finger rings, so the whole piece moves as one. It is the kind of detail that finishes a fit without trying too hard, equal parts streetwear and main-character energy.</p><p>Built in cool silver-tone metal with fine cable-link chains and slim open-band rings, it slips on fast and adjusts to fit. Anime-inspired and made for daily wear, it layers cleanly with cuffs, watches and your usual stack. Otaku Store NG, fan-made and not affiliated with any studio or brand.</p><ul><li><strong>Style:</strong> hand-chain harness bracelet linked to four open finger rings</li><li><strong>Finish:</strong> polished silver-tone metal</li><li><strong>Chain:</strong> fine cable-link strands draping the back of the hand</li><li><strong>Closure:</strong> lobster-clasp wrist fastening</li><li><strong>Fit:</strong> open-band rings flex to adjust; one-size suits most</li><li><strong>Wear:</strong> everyday-durable; lightweight on the hand</li><li><strong>Care:</strong> keep dry, wipe with a soft cloth, store flat to avoid tangling</li><li><strong>Includes:</strong> one connected ring-and-bracelet hand chain set</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Hand-chain harness links a wrist bracelet to four open finger rings
+  • Cool silver-tone metal with fine cable-link chains
+  • Lobster-clasp closure for a secure, quick on-off
+  • Open-band rings flex to adjust, one-size suits most
+  • Lightweight and everyday-durable for daily wear
+  • Anime-inspired fan design, layers with your usual stack
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (50 chars)        : 5-in-1 Ring & Bracelet Hand Chain | Otaku Store NG
+Meta Description (150 chars) : Silver-tone hand-chain harness linking a wrist bracelet to 4 open finger rings. Adjustable, everyday-durable, anime-inspired. ₦5,500. Ships worldwide.
+Focus keyword                       : ring bracelet hand chain
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Silver-tone hand-chain harness bracelet linking a wrist chain to four open finger rings worn on a hand
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a silver-tone hand-chain harness bracelet linking a wrist chain to four open finger rings, draped over a sculpted hand. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent glinting off the chain links. Halftone dot shading, sharp speed lines radiating from the wrist clasp, subtle ink splatter at the edges, framed inside a clean manga panel. Premium, cinematic, high-contrast macro detail on the polished metal and fine cable links.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

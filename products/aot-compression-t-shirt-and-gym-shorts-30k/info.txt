@@ -1,0 +1,75 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Aot compression T-shirt and gym shorts  30k
+SLUG         : aot-compression-t-shirt-and-gym-shorts-30k
+BUMPA ID     : 2987937
+WOO TYPE     : variable
+PARENT SKU   : OSN-2987937
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Shorts
+  - Shop by Anime > Attack on Titan
+
+TAGS: Attack on Titan, AOT, compression set, gym shorts, anime gym wear, Survey Corps, anime activewear, anime-inspired, unisex shorts, Otaku Store NG
+FRANCHISE: Attack on Titan    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦30,000
+Total stock   : 400
+VARIATIONS (attribute: Size)
+  L              | ₦30,000 | stock 100  | SKU OSN-2987937-L
+  XL             | ₦30,000 | stock 100  | SKU OSN-2987937-XL
+  2XL            | ₦30,000 | stock 100  | SKU OSN-2987937-2XL
+  3XL            | ₦30,000 | stock 100  | SKU OSN-2987937-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Train like you're inside the Walls.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Attack on Titan-inspired compression set: a second-skin training tee plus breathable gym shorts. Moisture-wicking, stretchy and built for hard sessions. Unisex fit, sizes L to 3XL. Wear the roster from warm-up to last rep.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Gear up like a Survey Corps recruit. This Attack on Titan-inspired two-piece pairs a snug compression T-shirt with matching gym shorts, built to move with you through every set, sprint and stretch. The compression top hugs the body for support and muscle definition, while the lightweight shorts keep you cool and free when the session heats up.</p><p>Bold AOT-style graphics and a clean athletic silhouette make this a full kit that works in the gym, on a run, or layered into a streetwear fit. Anime-inspired design by Otaku Store NG, made for fans who actually train.</p><ul><li>Includes: 1 compression T-shirt + 1 pair of gym shorts (matching set)</li><li>Compression top: stretchy, second-skin fit for support and definition</li><li>Shorts: lightweight, breathable, built for movement</li><li>Moisture-wicking, quick-dry performance feel</li><li>Elastic waistband on shorts for a secure fit</li><li>Unisex sizing: L, XL, 2XL, 3XL</li><li>Attack on Titan anime-inspired graphics (fan design, not affiliated with the franchise)</li><li>Machine wash cold, inside out; hang dry to protect the print</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Two-piece set: compression tee plus matching gym shorts
+  • Second-skin compression fit for support and definition
+  • Lightweight, breathable shorts built for movement
+  • Moisture-wicking, quick-dry performance feel
+  • Unisex sizing from L to 3XL
+  • Attack on Titan anime-inspired fan design
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (50 chars)        : Attack on Titan Compression Set - Tee & Gym Shorts
+Meta Description (151 chars) : Attack on Titan-inspired compression tee and gym shorts set. Moisture-wicking, breathable, unisex L to 3XL. Train like a Scout. Ships across Nigeria &.
+Focus keyword                       : Attack on Titan compression set
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Attack on Titan-inspired compression T-shirt and matching gym shorts set laid flat on a dark background
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product studio shot: an Attack on Titan-inspired athletic two-piece set, a fitted black compression T-shirt and matching gym shorts, displayed on an invisible mannequin. Ink black #111111 backdrop, paper white #FAFAFA rim light, single manga-red #E2261C accent on the Survey Corps-style wing emblem. Halftone dot shading, dynamic speed lines and ink-splatter framing the kit in a manga panel composition. Premium, cinematic, high-contrast, sweat-glistened performance-fabric texture, editorial activewear catalog feel.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

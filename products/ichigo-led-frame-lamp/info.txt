@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Ichigo led frame lamp
+SLUG         : ichigo-led-frame-lamp
+BUMPA ID     : 3099654
+WOO TYPE     : simple
+PARENT SKU   : OSN-3099654
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Home & Decor > LED Lamps
+  - Shop by Anime > Bleach
+
+TAGS: Ichigo LED lamp, Bleach lamp, anime LED lamp, 3D illusion light box, Ichigo Kurosaki, Hollow mask, anime night light, Bleach merch
+FRANCHISE: Bleach    CHARACTER: Ichigo Kurosaki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦26,000
+Total stock   : 10
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Half-Hollow Ichigo, lit up in 16 colours.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A layered 3D light box of Ichigo Kurosaki splitting into his Hollow mask. USB-powered, glows in 16 colours with a remote to switch shades and brightness. The centrepiece your Bleach desk or shelf has been missing.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>The moment the Hollow takes over, frozen on your desk. This Bleach-inspired LED frame lamp captures Ichigo Kurosaki mid-transformation, half his face shielded by the cracked Hollow mask, built from layered acrylic panels that create real depth behind the clean white frame. Switch it on and the cut-out comes alive with edge-lit glow.</p><p>Cycle through 16 colours with the included remote, dial the brightness up for a statement piece or down for an ambient night-light, and let it anchor your shelf, gaming setup or bookcase. Energy-efficient LEDs and USB power mean you can run it all night. Fan-made and anime-inspired; not affiliated with or endorsed by the official rights holders.</p><ul><li>Design: Ichigo Kurosaki with Hollow mask, layered 3D illusion light box</li><li>Frame: clean white border with multi-layer acrylic art panels</li><li>Lighting: 16 colours, adjustable brightness, energy-efficient LEDs</li><li>Control: wireless remote to change colour, brightness and modes</li><li>Power: USB-powered (plug into adapter, power bank or laptop)</li><li>In the box: LED frame lamp, remote control, USB cable</li><li>Placement: desk, shelf, bookcase or bedside; great as a night-light</li><li>Care: wipe gently with a dry, soft cloth; keep away from water</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Ichigo mid-Hollow transformation in layered 3D acrylic
+  • Glows in 16 colours with adjustable brightness
+  • Wireless remote to switch colours and modes
+  • USB-powered with energy-efficient LEDs
+  • Desk, shelf and bedside centrepiece for any Bleach fan
+  • Doubles as an ambient night-light
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (43 chars)        : Ichigo LED Frame Lamp | Bleach 3D Light Box
+Meta Description (146 chars) : Bleach-inspired Ichigo LED frame lamp with Hollow mask art. 16 colours, remote, USB-powered. Ships from Nigeria nationwide and worldwide. ₦26,000.
+Focus keyword                       : Ichigo LED frame lamp
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Ichigo Kurosaki LED frame lamp with half Hollow mask, layered acrylic light box glowing orange in a white frame
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of an Ichigo Bleach 3D acrylic LED frame light box in a clean white frame, half-face Hollow mask design glowing manga-red #E2261C. Ink black #111111 background, paper white #FAFAFA surface, single manga-red accent. Halftone dot shading, dynamic speed lines and ink splatter radiating from the lamp, framed manga panel border, dramatic edge lighting, premium cinematic composition, sharp focus on the glowing acrylic layers.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

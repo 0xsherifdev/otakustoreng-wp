@@ -1,0 +1,78 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Uzumaki Up N Down Track
+SLUG         : uzumaki-up-n-down-track
+BUMPA ID     : 1125301
+WOO TYPE     : variable
+PARENT SKU   : OSN-1125301
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Shop by Anime > Naruto
+
+TAGS: Naruto tracksuit, Uzumaki tracksuit, Naruto anime merch, anime tracksuit, Naruto apparel, Konoha streetwear, anime track set, Naruto fan merch, Naruto Uzumaki, anime clothing Nigeria
+FRANCHISE: Naruto    CHARACTER: Naruto Uzumaki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦26,000
+Total stock   : 499
+VARIATIONS (attribute: Size)
+  M              | ₦26,000 | stock 100  | SKU OSN-1125301-M
+  L              | ₦26,000 | stock 100  | SKU OSN-1125301-L
+  XL             | ₦26,000 | stock 100  | SKU OSN-1125301-XL
+  2XL            | ₦26,000 | stock 99   | SKU OSN-1125301-2XL
+  XXXL           | ₦26,000 | stock 100  | SKU OSN-1125301-XXXL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Suit up in Uzumaki colours and own every panel.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Anime-inspired Uzumaki tracksuit built for fans who live the ninja way. Thick cotton fabric for everyday comfort, with a clean Naruto-themed look that reps Konoha from warm-up to wind-down. Pick your colour at checkout.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel your inner shinobi with the Uzumaki Up N Down Track, a Naruto-inspired tracksuit set made for fans who never tap out. Cut from thick cotton fabric, it brings real comfort and presence whether you're training, gaming or just repping Konoha on the streets.</p><p>This is fan-made, anime-inspired apparel for true Naruto heads, not affiliated with or endorsed by the official franchise. Choose your preferred colour at checkout and wear the roster your way.</p><ul><li>Material: thick cotton fabric for everyday comfort and durability</li><li>Set: matching top and bottom tracksuit ("up n down")</li><li>Theme: Naruto / Uzumaki anime-inspired fan design</li><li>Sizes: M, L, XL, 2XL, XXXL</li><li>Colour: select your preferred colour at checkout</li><li>Care: machine wash cold, inside out; hang or line dry to keep the print sharp</li><li>Fit: relaxed, unisex-friendly streetwear cut</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Naruto Uzumaki anime-inspired tracksuit set (top and bottom)
+  • Thick cotton fabric for all-day comfort and durability
+  • Relaxed unisex streetwear fit, sizes M to XXXL
+  • Choose your preferred colour at checkout
+  • Fan-made design, not affiliated with the official franchise
+  • Ships nationwide across Nigeria and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (53 chars)        : Naruto Uzumaki Tracksuit | Anime Track Set | Otaku NG
+Meta Description (154 chars) : Naruto-inspired Uzumaki tracksuit in thick cotton. Matching top and bottom, sizes M-XXXL, your choice of colour. Fan apparel from Otaku Store NG. ₦26,000.
+Focus keyword                       : Naruto Uzumaki tracksuit
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Naruto Uzumaki anime-inspired thick cotton tracksuit set, matching top and bottom
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a folded anime-inspired tracksuit set on a paper-white #FAFAFA surface against an ink-black #111111 backdrop. Halftone dot texture and diagonal speed lines radiate behind the garment, with a single manga-red #E2261C swirl motif and ink splatter accent echoing the Uzumaki spiral. Cinematic premium lighting, sharp manga-panel framing, high contrast, no text or logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

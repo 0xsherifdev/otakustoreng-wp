@@ -1,0 +1,76 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Aot Led Lamp
+SLUG         : aot-led-lamp
+BUMPA ID     : 1141248
+WOO TYPE     : variable
+PARENT SKU   : OSN-1141248
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Home & Decor > Room Decor
+  - Shop by Anime > Attack on Titan
+
+TAGS: Attack on Titan, AoT LED lamp, anime LED lamp, anime room decor, anime night light, Survey Corps decor, otaku desk lamp, acrylic LED lamp
+FRANCHISE: Attack on Titan    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦16,000
+Total stock   : 298
+VARIATIONS (attribute: Style)
+  1              | ₦16,000 | stock 98   | SKU OSN-1141248-1
+  2              | ₦16,000 | stock 100  | SKU OSN-1141248-2
+  3              | ₦16,000 | stock 100  | SKU OSN-1141248-3
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Light up your titan-slaying sanctuary.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+An anime-inspired Attack on Titan LED lamp with 16 colours and a remote so you can set the mood from a fierce manga-red to a cool calm glow. The centrepiece every Survey Corps fan's desk or shelf has been missing.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Claim your wall before the Titans claim the city. This Attack on Titan LED lamp turns any otaku corner into a cinematic command post, casting a soft acrylic glow over your desk, shelf or bedside. The etched AoT design lights up edge-to-edge for that crisp, panel-out-of-the-manga look fans chase.</p><p>With 16 colours and an included remote, you control the vibe entirely. Switch to a fierce manga-red for hype nights, cool it down for late-night reading, or let it cycle while you grind. A fan-made, anime-inspired piece, not affiliated with or endorsed by the official licence holders.</p><ul><li>Franchise: Attack on Titan (anime-inspired fan design)</li><li>Type: acrylic LED night lamp with display base</li><li>Style options: choose from Style 1, 2 or 3 at checkout</li><li>16 selectable colours via included remote control</li><li>Adjustable brightness and colour-cycling modes</li><li>Included: LED lamp, base, remote control and power cable</li><li>Placement: desk, shelf, bedside or display cabinet</li><li>Care: wipe gently with a dry, soft cloth; keep away from moisture</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • 16 selectable colours with included remote control
+  • Etched acrylic panel glows edge-to-edge
+  • Three Attack on Titan style options to pick from
+  • Adjustable brightness plus colour-cycling modes
+  • Perfect centrepiece for desk, shelf or bedside
+  • Fan-made anime-inspired design, not affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (46 chars)        : Attack on Titan LED Lamp | 16-Colour AoT Light
+Meta Description (149 chars) : Anime-inspired Attack on Titan LED lamp with 16 colours and a remote. Three styles, adjustable glow. Light up your otaku space. Ships nationwide and.
+Focus keyword                       : Attack on Titan LED lamp
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Attack on Titan anime-inspired acrylic LED lamp glowing red on a display base with remote control
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of an etched acrylic Attack on Titan LED lamp glowing on a display base, ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent from the lamp glow; halftone dot shading, dramatic speed lines radiating outward, ink splatter accents framed in manga panels; premium cinematic lighting, crisp shadows, low angle hero composition.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

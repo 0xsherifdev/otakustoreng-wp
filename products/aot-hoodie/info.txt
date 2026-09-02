@@ -1,0 +1,75 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Aot hoodie
+SLUG         : aot-hoodie
+BUMPA ID     : 3167966
+WOO TYPE     : variable
+PARENT SKU   : OSN-3167966
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+  - Shop by Anime > Attack on Titan
+
+TAGS: Attack on Titan hoodie, Survey Corps hoodie, Wings of Freedom, AOT hoodie, anime hoodie, Recon Corps, Eren Yeager merch, anime streetwear
+FRANCHISE: Attack on Titan    CHARACTER: Survey Corps
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦21,000
+Total stock   : 74
+VARIATIONS (attribute: Size)
+  L              | ₦21,000 | stock 16   | SKU OSN-3167966-L
+  XL             | ₦21,000 | stock 18   | SKU OSN-3167966-XL
+  2XL            | ₦21,000 | stock 20   | SKU OSN-3167966-2XL
+  3XL            | ₦21,000 | stock 20   | SKU OSN-3167966-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Wings of Freedom. Worn loud.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Enlist in the Survey Corps with this black Attack on Titan pullover hoodie. The gold Wings of Freedom emblem hits the chest, sleeves and full back over a brushed-fleece interior. Unisex streetwear fit, built for cold-night patrols.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Suit up for the next expedition beyond the walls. This Attack on Titan pullover hoodie carries the Survey Corps "Wings of Freedom" crest in striking gold across the chest, down both sleeves and emblazoned large on the back beneath the "ATTACK ON TITAN / RECON CORPS" lettering. Clean black base, premium gold print, zero filler.</p><p>The brushed-fleece interior keeps you warm on harmattan nights, while the relaxed unisex cut layers easily over a tee for everyday streetwear. A fan-made, anime-inspired piece for Scouts who wear the roster loud and proud.</p><ul><li>Pullover hoodie with gold Survey Corps Wings of Freedom emblem on chest, sleeves and back</li><li>Brushed-fleece interior for warmth and comfort</li><li>Ribbed cuffs and hem to lock in heat and hold shape</li><li>Front kangaroo pocket with double-lined drawstring hood</li><li>Unisex streetwear fit, true to a relaxed everyday cut</li><li>Available in sizes L, XL, 2XL and 3XL</li><li>Machine wash cold, inside-out; do not tumble dry hot to protect the print</li><li>Fan-made, anime-inspired design; not official or affiliated with the licensor</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Gold Survey Corps Wings of Freedom emblem on chest, sleeves and back
+  • Brushed-fleece interior built for cold-night warmth
+  • Ribbed cuffs and hem plus a roomy kangaroo pocket
+  • Unisex streetwear fit in sizes L to 3XL
+  • Premium black base with bold gold print
+  • Fan-made, anime-inspired, not official
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (52 chars)        : Attack on Titan Survey Corps Hoodie | Otaku Store NG
+Meta Description (151 chars) : Attack on Titan Survey Corps hoodie in black with gold Wings of Freedom print. Brushed fleece, unisex fit, sizes L-3XL. Ships nationwide and worldwide.
+Focus keyword                       : Attack on Titan hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black Attack on Titan pullover hoodie with gold Survey Corps Wings of Freedom emblem on the chest, sleeves and full back
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a black pullover hoodie featuring a gold Survey Corps Wings of Freedom emblem on the chest and large on the back, "ATTACK ON TITAN RECON CORPS" lettering. Ink black #111111 background, paper white #FAFAFA rim light, single manga-red #E2261C accent slashing across one corner. Halftone dot texture, dynamic speed lines radiating outward, ink-splatter flecks, framed in a bold manga panel border. Premium, cinematic, high-contrast streetwear catalog aesthetic.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

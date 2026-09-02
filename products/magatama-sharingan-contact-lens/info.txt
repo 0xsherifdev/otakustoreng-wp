@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Magatama Sharingan Contact Lens
+SLUG         : magatama-sharingan-contact-lens
+BUMPA ID     : 1318392
+WOO TYPE     : simple
+PARENT SKU   : OSN-1318392
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Cosplay
+  - Shop by Anime > Naruto
+
+TAGS: Sharingan contact lens, Naruto cosplay, Sasuke cosplay, Itachi cosplay, Magatama Sharingan, anime contact lenses, Akatsuki cosplay, Uchiha eyes, cosplay lenses, colored contact lenses
+FRANCHISE: Naruto    CHARACTER: Sasuke Uchiha
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦13,500
+Total stock   : 7
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Awaken the Sharingan. One look and they freeze.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Drop into Uchiha mode with these red-and-black Magatama Sharingan contact lenses. The swirling tomoe pattern reads sharp on camera and in person, finishing any Sasuke, Itachi or Akatsuki cosplay with one unforgettable stare.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some cosplays are about the fit. This one is about the eyes. The Magatama Sharingan Contact Lens turns any Uchiha build, Sasuke, Itachi, Madara or full Akatsuki, into the real deal, with a deep manga-red iris and the signature swirling tomoe (magatama) ring that fans clock instantly. Anime-inspired, designed for fans who want the look to land in photos, on stage and across the convention floor.</p><p>Tinted for bold colour payoff while keeping a clear central zone for your vision, this is the finishing detail that separates a costume from a transformation. Check the size and your prescription needs before ordering, and treat them like the cosmetic eyewear they are.</p><ul><li>Design: red Sharingan iris with black Magatama / tomoe pattern</li><li>Best for: Sasuke, Itachi, Madara, Kakashi and Akatsuki cosplay</li><li>Water content: 38%</li><li>Diameter: 14.5mm</li><li>Material: soft tinted cosmetic lens (polymer / hydrogel type)</li><li>Wear style: non-prescription cosmetic colour lenses</li><li>Quantity: one pair as shown</li><li>Care: clean and store in lens solution; do not share; follow safe wear-time guidance</li><li>Use: cosplay, conventions, photoshoots, anime events and Halloween</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Iconic red Sharingan iris with black Magatama tomoe ring
+  • Perfect finishing touch for Sasuke, Itachi and Akatsuki cosplay
+  • 14.5mm diameter for full, bold on-camera coverage
+  • 38% water content soft tinted cosmetic lens
+  • Reads sharp in photos, on stage and at conventions
+  • Anime-inspired fan design, not affiliated with any studio
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (48 chars)        : Magatama Sharingan Contact Lens | Naruto Cosplay
+Meta Description (152 chars) : Red and black Magatama Sharingan cosplay contact lenses. 14.5mm, 38% water content. Complete your Sasuke, Itachi or Akatsuki look. Ships across Nigeria.
+Focus keyword                       : Sharingan contact lens
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Red Magatama Sharingan cosplay contact lens with black tomoe pattern shown on an eye and beside Naruto Uchiha characters
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga style studio macro shot: a single red Sharingan cosmetic contact lens with a black Magatama tomoe ring resting on a paper-white #FAFAFA surface against an ink-black #111111 background. Cinematic close-up, dramatic side lighting, halftone dot shading, sharp manga-red #E2261C accent glow on the lens edge, subtle ink splatter and speed lines framing the corners, premium product photography, high detail, no text.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

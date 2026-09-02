@@ -1,0 +1,93 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Akastuki Zip Up Hoodie
+SLUG         : akastuki-zip-up-hoodie
+BUMPA ID     : 2964591
+WOO TYPE     : variable
+PARENT SKU   : OSN-2964591
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+  - Shop by Anime > Naruto
+
+TAGS: Akatsuki hoodie, Naruto hoodie, anime zip up hoodie, Akatsuki cloud, Naruto merch, anime streetwear, fleece hoodie, otaku clothing
+FRANCHISE: Naruto    CHARACTER: Akatsuki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦18,500
+Total stock   : 800
+VARIATIONS (attribute: Size & Material)
+  L-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964591-LTHICKCOTTON
+  L-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964591-LTHICKPOLYESTER
+  Xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964591-XLTHICKCOTTON
+  Xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964591-XLTHICKPOLYESTER
+  2xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964591-2XLTHICKCOTTON
+  2xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964591-2XLTHICKPOLYESTER
+  3xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964591-3XLTHICKCOTTON
+  3xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964591-3XLTHICKPOLYESTER
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Rep the rogue ninja organisation in full
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+An Akatsuki-inspired zip-up hoodie built for fans of Naruto. Brushed-fleece interior keeps you warm, with a full-zip front, ribbed cuffs and hem, and a unisex streetwear fit. Choose thick cotton or thick polyester across sizes L to 3XL.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Wear the roster. This Akatsuki-inspired zip-up hoodie channels the most feared organisation in Naruto, blending bold red-cloud streetwear energy with everyday comfort. The full-length zip front makes it easy to layer over a tee, while the brushed-fleece interior keeps the cold out on late-night runs and convention floors alike.</p>
+<p>Cut for a relaxed unisex fit, it pairs clean lines with a premium feel that holds its shape wash after wash. Pick your fabric weight and own the look whether you are repping Itachi, Pain or the whole crew. A fan-made, anime-inspired piece, not affiliated with or endorsed by the official rights holders.</p>
+<ul>
+<li><strong>Style:</strong> Full-zip pullover-alternative hoodie with attached drawstring hood</li>
+<li><strong>Fabric options:</strong> Thick cotton or thick polyester (select at checkout)</li>
+<li><strong>Interior:</strong> Brushed-fleece lining for warmth</li>
+<li><strong>Build:</strong> Ribbed cuffs and hem for a snug, lasting fit</li>
+<li><strong>Fit:</strong> Unisex streetwear cut</li>
+<li><strong>Sizes:</strong> L, XL, 2XL, 3XL</li>
+<li><strong>Design:</strong> Akatsuki / Naruto-inspired graphic print</li>
+<li><strong>Care:</strong> Machine wash cold, inside-out; do not tumble dry on high</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Akatsuki-inspired Naruto design for true fans
+  • Full-length zip front for easy layering
+  • Brushed-fleece interior for real warmth
+  • Ribbed cuffs and hem hold their shape
+  • Choose thick cotton or thick polyester
+  • Unisex streetwear fit, sizes L to 3XL
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (44 chars)        : Akatsuki Zip Up Hoodie | Naruto Anime Hoodie
+Meta Description (153 chars) : Akatsuki-inspired zip-up hoodie for Naruto fans. Brushed-fleece warmth, full-zip front, cotton or polyester, sizes L-3XL. Ships nationwide and worldwide.
+Focus keyword                       : Akatsuki zip up hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Akatsuki-inspired zip-up hoodie with red cloud Naruto design, full front zipper and drawstring hood
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga style studio product shot of a black zip-up hoodie with red Akatsuki cloud motifs, displayed on an invisible mannequin. Ink black #111111 background, paper white #FAFAFA rim lighting, single manga-red #E2261C accent on the cloud graphics. Halftone dot texture, dynamic speed lines radiating outward, subtle ink splatter framing the garment in manga panels. Premium, cinematic, high-contrast, sharp focus on the zipper and ribbed cuffs.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

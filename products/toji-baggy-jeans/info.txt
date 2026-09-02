@@ -1,0 +1,76 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Toji Baggy Jeans
+SLUG         : toji-baggy-jeans
+BUMPA ID     : 2119132
+WOO TYPE     : variable
+PARENT SKU   : OSN-2119132
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Trousers
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Toji baggy jeans, Jujutsu Kaisen jeans, Toji Fushiguro, anime baggy jeans, JJK streetwear, anime denim, baggy jeans, anime trousers
+FRANCHISE: Jujutsu Kaisen    CHARACTER: Toji Fushiguro
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦27,000
+Total stock   : 48
+VARIATIONS (attribute: Size)
+  M              | ₦27,000 | stock 10   | SKU OSN-2119132-M
+  L              | ₦27,000 | stock 9    | SKU OSN-2119132-L
+  XL             | ₦27,000 | stock 9    | SKU OSN-2119132-XL
+  2XL            | ₦27,000 | stock 10   | SKU OSN-2119132-2XL
+  3XL            | ₦27,000 | stock 10   | SKU OSN-2119132-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Baggy black denim with a Toji ink-print statement.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Drop into the Sorcerer Killer's energy. These baggy black jeans pack a bold white Toji print and blade graphics down the leg, with a relaxed five-pocket cut built to anchor any anime streetwear fit. Unisex sizing M to 3XL.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Toji Fushiguro never needed cursed energy to dominate, and these baggy jeans carry that same unbothered menace. A high-contrast white Toji print runs down one leg, flanked by inked blade graphics that nod to the Sorcerer Killer's arsenal, all set against deep ink-black denim. The relaxed, wide-leg cut stacks clean over sneakers or boots for a proper anime streetwear silhouette.</p><p>Five-pocket construction with a classic button-and-zip fly keeps the build true to real denim, while the unisex sizing from M to 3XL means almost any Jujutsu Kaisen fan can lock into the look. Fan-made, anime-inspired apparel; not affiliated with or endorsed by the official rights holders.</p><ul><li>Style: baggy, wide-leg jeans with a relaxed drop</li><li>Material: durable cotton-blend denim</li><li>Graphic: white Toji Fushiguro print plus inked blade artwork down the leg</li><li>Closure: button-and-zip fly with belt loops</li><li>Pockets: classic five-pocket layout</li><li>Fit: unisex; sizes M, L, XL, 2XL, 3XL</li><li>Style it: pair with a matching JJK tee or hoodie and clean sneakers</li><li>Care: machine wash cold inside out, hang or line dry to protect the print</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold white Toji Fushiguro print with inked blade graphics
+  • Baggy wide-leg cut that stacks over sneakers or boots
+  • Durable cotton-blend denim in deep ink-black
+  • Classic five-pocket build with button-and-zip fly
+  • Unisex sizing from M to 3XL
+  • Fan-designed Jujutsu Kaisen streetwear, not affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (50 chars)        : Toji Baggy Jeans | Jujutsu Kaisen Anime Streetwear
+Meta Description (155 chars) : Shop Toji baggy jeans: black denim with a bold white Jujutsu Kaisen print and blade graphics. Wide-leg, five-pocket, unisex M-3XL. Fan-inspired streetwear.
+Focus keyword                       : Toji baggy jeans
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black baggy denim jeans with a white Toji Fushiguro print and inked blade graphics running down the leg
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of black baggy wide-leg denim jeans laid flat, featuring a high-contrast white inked print of Toji Fushiguro and stylized blade graphics down one leg. Palette strictly ink black #111111, paper white #FAFAFA, single manga-red #E2261C accent. Halftone-dot shading, sharp speed lines and ink-splatter detailing framed inside crisp manga panels. Premium cinematic lighting, hard rim light catching the denim weave, subtle red accent glow on the panel borders, shallow depth of field. No text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

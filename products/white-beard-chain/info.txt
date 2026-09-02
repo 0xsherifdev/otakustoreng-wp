@@ -1,0 +1,83 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : White Beard Chain
+SLUG         : white-beard-chain
+BUMPA ID     : 1210397
+WOO TYPE     : simple
+PARENT SKU   : OSN-1210397
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > One Piece
+
+TAGS: Whitebeard necklace, One Piece chain, Whitebeard Pirates pendant, Jolly Roger necklace, anime necklace, One Piece jewelry, Edward Newgate, anime pendant chain
+FRANCHISE: One Piece    CHARACTER: Whitebeard (Edward Newgate)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,500
+Total stock   : 100
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Fly the flag of the strongest man in the world.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Rep the Whitebeard Pirates with this anime-inspired Jolly Roger pendant on a ball chain. The grinning crescent-moustache skull in polished silver-tone metal sits on durable, tarnish-resistant alloy that wipes clean and wears every day.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>The mark of the strongest man in the world, ready to hang from your neck. This anime-inspired pendant captures Whitebeard's Jolly Roger in crisp detail — the grinning skull, the signature crescent moustache and the crossed bones, finished in a polished silver-tone that catches the light. Flip it and the "ONE PIECE" stamp finishes the look for fans who know exactly which flag they're flying.</p>
+<p>Built on a durable, tarnish-resistant alloy with a smooth ball chain, it is sized to layer or wear solo, on deck or off. A clean fan piece for crewmates who back the Whitebeard Pirates.</p>
+<ul>
+<li>Whitebeard Pirates Jolly Roger pendant — grinning skull, crescent moustache and crossed bones</li>
+<li>Reverse stamped with the "ONE PIECE" logo</li>
+<li>Polished silver-tone finish with red accent detailing</li>
+<li>Durable, tarnish-resistant alloy that resists everyday wear</li>
+<li>Smooth ball-link chain with a secure connector clasp</li>
+<li>Lightweight and comfortable for all-day wear or layering</li>
+<li>Wipe clean with a soft, dry cloth</li>
+<li>Fan / anime-inspired design — not affiliated with or endorsed by the rights holders</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Whitebeard Pirates Jolly Roger pendant in polished silver-tone
+  • Reverse stamped with the ONE PIECE logo
+  • Durable, tarnish-resistant alloy built for daily wear
+  • Smooth ball chain with a secure connector clasp
+  • Lightweight and comfortable to layer or wear solo
+  • Wipe-clean finish — fan-made, not affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : Whitebeard Chain Necklace | One Piece Pendant
+Meta Description (151 chars) : Whitebeard Pirates Jolly Roger pendant necklace on a ball chain. Anime-inspired One Piece chain in tarnish-resistant alloy. Ships from Nigeria. ₦4,500.
+Focus keyword                       : Whitebeard chain necklace
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Silver-tone Whitebeard Pirates Jolly Roger pendant necklace on a ball chain, with ONE PIECE stamped on the reverse
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a silver-tone One Piece Whitebeard Pirates Jolly Roger pendant — grinning skull with a crescent moustache and crossed bones — hanging from a polished ball chain. Ink black #111111 background, paper white #FAFAFA rim light, single manga-red #E2261C accent glinting in the pendant's eye. Halftone-dot texture, sharp speed lines radiating behind the pendant, a flick of ink splatter, framed inside a clean manga panel. Premium, cinematic, high-contrast macro lighting on the metal.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

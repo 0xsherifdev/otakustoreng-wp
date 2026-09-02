@@ -1,0 +1,80 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Couple/ Friends Glow In The Dark Chain
+SLUG         : couple-friends-glow-in-the-dark-chain
+BUMPA ID     : 1254765
+WOO TYPE     : simple
+PARENT SKU   : OSN-1254765
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Couple Accessories
+  - Accessories > Chains & Necklaces
+
+TAGS: glow in the dark chain, couple chain set, matching friend necklaces, anime couple accessories, his and hers chains, glow necklace, anime gift set, duo pendant
+FRANCHISE: Generic Anime    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦6,000
+Total stock   : 506
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Two chains that burn bright in the dark.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A matching pair of glow-in-the-dark chains for couples or best friends. Charge them under any light and watch them shine after dark. Anime-inspired everyday wear, sold as a his-and-hers duo set ready to gift.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some bonds don't fade when the lights go out. This anime-inspired glow-in-the-dark chain set is built for two, a matching duo for couples or ride-or-die best friends who wear their connection out loud. Charge each pendant under daylight or a lamp and it glows luminous after dark, like a panel lighting up mid-scene.</p>
+<p>Lightweight and comfortable for everyday wear, these chains pair just as well with a hoodie run as they do with your convention fit. Pull them out of the box, split the pair, and you've got an instant gift that actually means something.</p>
+<ul>
+<li>Set of 2 matching glow-in-the-dark chains (his-and-hers / duo)</li>
+<li>Anime-inspired pendant design (fan-made, not affiliated with any studio)</li>
+<li>Photoluminescent finish: charges under light, glows in the dark</li>
+<li>Durable, lightweight everyday materials for daily wear</li>
+<li>Adjustable chain length for a comfortable unisex fit</li>
+<li>Ships as a ready-to-gift duo set for couples, friends or family</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Set of 2 matching chains for couples or best friends
+  • Glow-in-the-dark: charge under light, shine after dark
+  • Lightweight, durable build for everyday wear
+  • Adjustable, unisex-friendly chain length
+  • Anime-inspired fan design, not affiliated with any studio
+  • Ships ready to gift as a his-and-hers duo set
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (54 chars)        : Couple & Friends Glow In The Dark Chain Set | Otaku NG
+Meta Description (148 chars) : Matching anime-inspired glow-in-the-dark chain set for couples and best friends. Charges under light, glows after dark. Duo gift set, ₦6,000. Ships.
+Focus keyword                       : glow in the dark couple chain
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Pair of matching anime-inspired glow-in-the-dark chains shown side by side, one glowing luminous and one in daylight finish
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio shot: two matching glow-in-the-dark pendant chains laid side by side on ink-black #111111 surface, one pendant glowing luminous manga-red #E2261C, the other in paper-white #FAFAFA daylight finish. Halftone dot texture, sharp speed lines radiating from the glowing pendant, subtle ink splatter in corners, manga panel framing. Premium cinematic product lighting, high contrast, shallow depth of field.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

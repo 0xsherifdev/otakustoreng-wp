@@ -1,0 +1,75 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Sukuna 02 Gym Shorts
+SLUG         : sukuna-02-gym-shorts
+BUMPA ID     : 1241377
+WOO TYPE     : variable
+PARENT SKU   : OSN-1241377
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Shorts
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Sukuna shorts, Jujutsu Kaisen shorts, anime gym shorts, JJK merch, Sukuna merch, anime shorts, unisex gym shorts, King of Curses
+FRANCHISE: Jujutsu Kaisen    CHARACTER: Sukuna
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦15,000
+Total stock   : 49
+VARIATIONS (attribute: Size)
+  M              | ₦15,000 | stock 9    | SKU OSN-1241377-M
+  L              | ₦15,000 | stock 10   | SKU OSN-1241377-L
+  XL             | ₦15,000 | stock 10   | SKU OSN-1241377-XL
+  2XL            | ₦15,000 | stock 10   | SKU OSN-1241377-2XL
+  3XL            | ₦15,000 | stock 10   | SKU OSN-1241377-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+King of Curses energy, built for the gym
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Anime-inspired Sukuna gym shorts that move when you do. Lightweight, breathable fabric, elastic drawstring waist, and a bold Jujutsu Kaisen print built for training, lounging, and warm-weather fits. Unisex sizing M to 3XL.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the King of Curses every time you train. These Sukuna 02 Gym Shorts pair a bold, anime-inspired Jujutsu Kaisen print with a lightweight, breathable build that keeps you cool through warm-ups, heavy sets, and lazy rest days. Cut for movement, styled for the roster.</p><p>The elastic drawstring waist locks in a custom fit while the relaxed cut gives you freedom to move. Unisex sizing means anyone can rep the print, whether you're hitting the gym or keeping it casual at home.</p><ul><li>Anime-inspired Sukuna / Jujutsu Kaisen graphic print (fan-made, not affiliated)</li><li>Lightweight, breathable fabric for warm weather and workouts</li><li>Elastic drawstring waist for an adjustable, secure fit</li><li>Relaxed unisex cut suited to training, lounging, and everyday wear</li><li>Available in M, L, XL, 2XL and 3XL</li><li>Machine wash cold, inside out; hang or line dry to protect the print</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold anime-inspired Sukuna print from Jujutsu Kaisen
+  • Lightweight, breathable fabric for gym and warm weather
+  • Elastic drawstring waist for an adjustable fit
+  • Relaxed unisex cut, sizes M to 3XL
+  • Ships nationwide across Nigeria and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (47 chars)        : Sukuna Gym Shorts | Jujutsu Kaisen Anime Shorts
+Meta Description (155 chars) : Anime-inspired Sukuna gym shorts from Jujutsu Kaisen. Lightweight, breathable, drawstring waist, unisex M-3XL. Ships from Nigeria nationwide and worldwide.
+Focus keyword                       : Sukuna gym shorts
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Sukuna 02 gym shorts with anime-inspired Jujutsu Kaisen print, front view
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga style studio product shot of folded anime-inspired gym shorts on a paper-white #FAFAFA surface against an ink-black #111111 backdrop. Single manga-red #E2261C accent on a curse-mark motif, halftone dot shading, sharp speed lines radiating from the shorts, subtle ink splatter at the edges, framed inside a clean manga panel. Premium, cinematic lighting, high detail, no text.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

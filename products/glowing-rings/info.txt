@@ -1,0 +1,90 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Glowing Rings
+SLUG         : glowing-rings
+BUMPA ID     : 1203017
+WOO TYPE     : variable
+PARENT SKU   : OSN-1203017
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Rings
+
+TAGS: anime glowing ring, anime ring, stainless steel ring, anime accessories, glow ring, stackable ring, cosplay ring, anime jewelry
+FRANCHISE: Generic Anime    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦3,000
+Total stock   : 31
+VARIATIONS (attribute: Size)
+  6              | ₦3,000 | stock 7    | SKU OSN-1203017-6
+  7              | ₦3,000 | stock 5    | SKU OSN-1203017-7
+  8              | ₦3,000 | stock 6    | SKU OSN-1203017-8
+  9              | ₦3,000 | stock 0    | SKU OSN-1203017-9
+  10             | ₦3,000 | stock 4    | SKU OSN-1203017-10
+  11             | ₦3,000 | stock 9    | SKU OSN-1203017-11
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Stack the glow. Own the night.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Anime-inspired glow rings in tarnish-resistant stainless steel. A polished band that catches light for an eye-catching finish, sized for everyday wear. Pick your size, stack your set, and carry the energy wherever you roll.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Light up your stack with the Glowing Rings, an anime-inspired band built for fans who want their accessories to hit different. The polished surface plays with light for a standout glow effect, while the smooth profile sits clean and comfortable on any finger. Wear one solo or stack a few for a layered, statement-ready look.</p>
+<p>Crafted from durable, tarnish-resistant metal, this ring is made to handle daily wear without losing its shine. Choose your size and lock in a piece that pairs just as well with your everyday fit as it does with your full cosplay loadout. Fan-made and anime-inspired; not affiliated with or endorsed by any studio or rights holder.</p>
+<ul>
+<li>Material: polished stainless steel / alloy with a tarnish-resistant finish</li>
+<li>Finish: high-shine polish with a light-catching glow effect</li>
+<li>Available sizes: 6, 7, 8, 9, 10, 11 (buyer selects size)</li>
+<li>Style: anime-inspired, unisex; great for stacking</li>
+<li>Wearability: smooth inner band, built for comfortable daily wear</li>
+<li>Care: wipe clean with a soft dry cloth; keep away from harsh chemicals</li>
+<li>In the box: 1 anime-inspired ring in your chosen size</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Tarnish-resistant stainless steel built for daily wear
+  • High-shine polish with an eye-catching glow effect
+  • Six sizes: 6, 7, 8, 9, 10, 11 - pick your fit
+  • Unisex profile that stacks for a layered look
+  • Anime-inspired design for everyday and cosplay
+  • Ships nationwide and worldwide from Nigeria
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (51 chars)        : Glowing Rings | Anime-Inspired Stainless Steel Ring
+Meta Description (152 chars) : Anime-inspired glowing ring in tarnish-resistant stainless steel. Polished, light-catching finish in sizes 6-11. Stack-ready for daily wear. Ships from.
+Focus keyword                       : anime glowing ring
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Polished anime-inspired glowing ring in stainless steel shown against a dark background
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a single polished stainless steel anime-inspired ring resting on an ink-black surface (#111111), paper-white (#FAFAFA) negative space, one bold manga-red (#E2261C) accent stripe slicing through the frame. Halftone dot shading, dynamic speed lines and ink splatter radiating from the ring, manga panel framing, dramatic rim light catching the polished glow on the band, premium cinematic macro shot, high contrast, crisp reflections.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

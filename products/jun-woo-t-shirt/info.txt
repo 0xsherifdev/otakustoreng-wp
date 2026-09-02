@@ -1,0 +1,85 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Jun woo T-shirt
+SLUG         : jun-woo-t-shirt
+BUMPA ID     : 3168135
+WOO TYPE     : variable
+PARENT SKU   : OSN-3168135
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+  - Shop by Anime > Solo Leveling
+
+TAGS: Solo Leveling, Sung Jinwoo, Arise, Shadow Monarch, anime t-shirt, Solo Leveling merch, anime shirt, manhwa apparel, anime streetwear, Jinwoo tee
+FRANCHISE: Solo Leveling    CHARACTER: Sung Jinwoo
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦15,000
+Total stock   : 56
+VARIATIONS (attribute: Size)
+  L              | ₦15,000 | stock 4    | SKU OSN-3168135-L
+  XL             | ₦15,000 | stock 16   | SKU OSN-3168135-XL
+  2XL            | ₦15,000 | stock 16   | SKU OSN-3168135-2XL
+  3XL            | ₦15,000 | stock 20   | SKU OSN-3168135-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Command the shadows. "Arise."
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A black Solo Leveling tee built around Sung Jinwoo's iconic "Arise" command, paired with a glowing shadow-soldier portrait. Soft cotton, unisex regular fit, crew neck, with a durable fade-resistant print made for everyday rotation.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>When Jinwoo whispers "Arise," the shadows answer. This anime-inspired Solo Leveling tee captures that exact moment, pairing a blackletter "Arise" call-out with a haunting, glowing-eyed shadow-soldier portrait on deep ink-black fabric. It is the kind of piece a fellow Hunter clocks across the room.</p>
+<p>Cut in a clean unisex regular fit with a crew neck, it is soft, easy to layer, and made to live in your weekly rotation. The graphic is printed for durability so the contrast stays sharp wash after wash.</p>
+<ul>
+<li>Anime-inspired Solo Leveling design featuring Sung Jinwoo's "Arise" command</li>
+<li>Soft cotton fabric for all-day comfort</li>
+<li>Unisex regular fit with a classic crew neck</li>
+<li>Durable, fade-resistant front graphic print</li>
+<li>Available in sizes L, XL, 2XL and 3XL</li>
+<li>Machine wash cold, inside-out; do not tumble dry hot</li>
+<li>Fan-made and anime-inspired; not official or affiliated with the rights holders</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Sung Jinwoo "Arise" shadow-monarch graphic on ink-black fabric
+  • Soft cotton, unisex regular fit, classic crew neck
+  • Durable fade-resistant print that survives the wash
+  • Roomy size range: L, XL, 2XL, 3XL
+  • Easy to layer, built for everyday rotation
+  • Fan-made anime-inspired design, not official
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (53 chars)        : Solo Leveling Jinwoo "Arise" T-Shirt | Otaku Store NG
+Meta Description (146 chars) : Solo Leveling "Arise" tee with Sung Jinwoo shadow art. Soft cotton, unisex fit, durable print. Sizes L-3XL, ₦15,000. Ships from Nigeria worldwide.
+Focus keyword                       : Solo Leveling Arise t-shirt
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black Solo Leveling t-shirt with blackletter "Arise" text and a glowing-eyed Sung Jinwoo shadow-soldier portrait
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a folded ink-black crew-neck t-shirt on a paper-white #FAFAFA backdrop, single manga-red #E2261C accent line slicing across the frame; the tee shows a blackletter "Arise" graphic and a glowing-eyed shadow-soldier portrait; halftone dot shading, sharp speed lines and a flick of ink splatter framing the garment in a clean manga panel; #111111 ink black shadows, premium cinematic lighting, high detail, no text watermark.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

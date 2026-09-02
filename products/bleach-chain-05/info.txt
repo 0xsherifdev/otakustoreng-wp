@@ -1,0 +1,84 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Bleach Chain 05
+SLUG         : bleach-chain-05
+BUMPA ID     : 1248697
+WOO TYPE     : simple
+PARENT SKU   : OSN-1248697
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Bleach
+
+TAGS: Bleach necklace, Bleach pendant, anime necklace, Soul Reaper chain, anime chain, Bleach merch, anime accessories, pendant necklace, Bleach jewelry, otaku accessories
+FRANCHISE: Bleach    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦5,000
+Total stock   : 508
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the Soul Reaper edge wherever you go
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A Bleach-inspired pendant necklace built for daily wear. Tarnish-resistant metal, an adjustable chain and crisp, anime-inspired detailing let you rep the Soul Society in clean, understated style.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some squads earn their reputation in battle. This <strong>Bleach Chain 05</strong> pendant necklace lets you wear that same Soul Reaper energy on the street, layered over a tee or stacked with your other pieces. Inspired by the iconic imagery of Bleach, it is cut for fans who want a statement that reads bold up close and clean from across the room.</p>
+<p>Crafted from durable, tarnish-resistant metal with a smooth finish, it is light enough for all-day wear and tough enough to keep its shine. A fan-made tribute, anime-inspired and not affiliated with or endorsed by the official rights holders.</p>
+<ul>
+<li>Bleach anime-inspired pendant on a matching chain</li>
+<li>Durable stainless-steel / alloy build that resists tarnish</li>
+<li>Adjustable / standard chain length for a comfortable fit</li>
+<li>Smooth, polished finish with crisp detailing</li>
+<li>Lightweight and built for everyday wear</li>
+<li>Unisex styling that layers easily with other chains</li>
+<li>Includes one pendant necklace</li>
+<li>Care: wipe clean with a soft dry cloth; keep away from water and harsh chemicals</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bleach anime-inspired pendant for true fans
+  • Tarnish-resistant metal that keeps its shine
+  • Adjustable chain for a comfortable, custom fit
+  • Lightweight and ready for all-day wear
+  • Unisex design that layers with any fit
+  • Fan-made tribute, not official or affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (54 chars)        : Bleach Pendant Necklace | Anime Chain | Otaku Store NG
+Meta Description (153 chars) : Bleach-inspired pendant necklace in tarnish-resistant metal with an adjustable chain. Rep the Soul Reapers in clean style. Ships from Nigeria, worldwide.
+Focus keyword                       : Bleach pendant necklace
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Bleach-inspired stainless-steel pendant necklace on an adjustable chain
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a Bleach-inspired metal pendant necklace coiled on a textured surface. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent glinting on the polished pendant. Dramatic halftone dots, diagonal speed lines and ink splatter framing the chain in a manga panel layout. Cinematic, premium, high-contrast lighting; sharp focus on the pendant detailing.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

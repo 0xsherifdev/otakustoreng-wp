@@ -1,0 +1,75 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Luffy Gear 5 T Shirt
+SLUG         : luffy-gear-5-t-shirt
+BUMPA ID     : 1164336
+WOO TYPE     : variable
+PARENT SKU   : OSN-1164336
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+  - Shop by Anime > One Piece
+
+TAGS: Luffy Gear 5 t-shirt, One Piece t-shirt, Luffy shirt, anime t-shirt, Gear 5 Nika, Monkey D. Luffy, One Piece merch, anime apparel
+FRANCHISE: One Piece    CHARACTER: Monkey D. Luffy
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦14,000
+Total stock   : 45
+VARIATIONS (attribute: Size)
+  M              | ₦14,000 | stock 7    | SKU OSN-1164336-M
+  L              | ₦14,000 | stock 10   | SKU OSN-1164336-L
+  XL             | ₦14,000 | stock 8    | SKU OSN-1164336-XL
+  2XL            | ₦14,000 | stock 10   | SKU OSN-1164336-2XL
+  XXXL           | ₦14,000 | stock 10   | SKU OSN-1164336-XXXL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Awaken the Joy Boy in your wardrobe.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel Luffy's legendary Gear 5 awakening with this soft cotton anime tee. Unisex regular fit, crew neck, and a bold fade-resistant One Piece print built to survive every wash and every rewatch.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>The moment the Drums of Liberation hit, every One Piece fan felt it. This Luffy Gear 5 tee captures that god-tier awakening energy with a crisp, high-contrast graphic that pops on the streets, at the con, or on rewatch nights. Anime-inspired and made for fans who wear the roster loud.</p><p>Cut in a unisex regular fit with a classic crew neck, it's soft, breathable, and easy to layer or wear solo. The print is built to stay bold wash after wash, so your Joy Boy stays vibrant long after the hype settles.</p><ul><li>Design: Luffy Gear 5 (Sun God Nika) anime-inspired graphic print</li><li>Material: soft 100% cotton</li><li>Fit: unisex regular fit</li><li>Neckline: ribbed crew neck</li><li>Print: durable, fade-resistant graphic</li><li>Sizes available: M, L, XL, 2XL, XXXL</li><li>Colour options: white, black, blue, pink, purple (note your choice at checkout)</li><li>Care: machine wash cold, inside-out; do not iron directly on print</li><li>Fan / anime-inspired design, not affiliated with or endorsed by the official rights holders</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold Luffy Gear 5 awakening graphic in true One Piece style
+  • Soft 100% cotton, breathable unisex regular fit
+  • Fade-resistant print that survives wash after wash
+  • Wide size range from M up to XXXL
+  • Choose from white, black, blue, pink or purple
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (42 chars)        : Luffy Gear 5 T-Shirt | One Piece Anime Tee
+Meta Description (150 chars) : Luffy Gear 5 T-shirt for One Piece fans. Soft cotton, unisex fit, fade-resistant print. Sizes M-XXXL in 5 colours. Ships across Nigeria and worldwide.
+Focus keyword                       : Luffy Gear 5 T-Shirt
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Luffy Gear 5 One Piece anime graphic t-shirt with bold Sun God Nika awakening print
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga style studio product shot of a folded anime graphic t-shirt featuring a Luffy Gear 5 awakening print. Ink black #111111 background, paper white #FAFAFA tee, single manga-red #E2261C accent on the design. Halftone dot texture, dynamic speed lines radiating outward, ink splatter framing the shirt, dramatic manga panel composition, premium cinematic lighting, high detail, fan anime-inspired apparel.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

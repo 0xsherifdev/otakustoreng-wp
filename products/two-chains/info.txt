@@ -1,0 +1,69 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Two Chains
+SLUG         : two-chains
+BUMPA ID     : 1286968
+WOO TYPE     : simple
+PARENT SKU   : OSN-1286968
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Chains & Necklaces
+
+TAGS: anime necklace, chain set, layered chains, stainless steel chain, anime jewelry, unisex necklace, cosplay accessory, two chain set
+FRANCHISE: Generic Anime    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦9,500
+Total stock   : 500
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Two chains. One drip. Stack the look.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A two-piece anime-inspired chain set built to layer. Tarnish-resistant stainless steel with adjustable lengths so you stack the lengths exactly how you want. Wear one solo or both together to finish any fit.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some looks need a single clean chain. Some need the stack. <strong>Two Chains</strong> hands you both, an anime-inspired pair built to layer at different lengths so your neckline never looks flat. Throw one on with a tee or run them together for full drip, the choice is yours, fam.</p><p>Forged from tarnish-resistant stainless steel with a smooth, weighty feel, these chains hold their shine through everyday wear. Adjustable clasps let you dial in the perfect drop, and a quick wipe keeps them looking fresh. Fan-made and anime-inspired, not affiliated with any studio or franchise.</p><ul><li>Set of two anime-inspired chains designed to be layered or worn solo</li><li>Durable stainless-steel construction that resists tarnish and discolouration</li><li>Adjustable chain lengths with secure lobster-clasp closures</li><li>Smooth, hypoallergenic-friendly finish that sits comfortably all day</li><li>Unisex styling that suits everyday wear, cosplay and conventions</li><li>Wipe clean with a soft, dry cloth to keep the shine</li><li>Ships protected in Otaku Store NG packaging</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Two-piece chain set, designed to layer or wear solo
+  • Tarnish-resistant stainless steel with a weighty, premium feel
+  • Adjustable lengths with secure lobster clasps
+  • Unisex styling for everyday, cosplay or convention wear
+  • Easy care, wipe clean with a soft dry cloth
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (48 chars)        : Two Chains | Anime-Inspired Layered Necklace Set
+Meta Description (152 chars) : Two Chains: an anime-inspired two-piece stainless-steel chain set built to layer. Adjustable, tarnish-resistant, unisex. Ships nationwide and worldwide.
+Focus keyword                       : anime chain necklace set
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.png  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Two Chains anime-inspired two-piece stainless-steel layered necklace set from Otaku Store NG
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a two-piece stainless-steel anime-inspired chain necklace set displayed on a matte ink-black surface, ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent ribbon weaving between the two chains. Halftone dot texture in the shadows, sharp speed lines radiating from the pendants, subtle ink splatter in one corner, framed inside a clean manga panel border. Cinematic top-down lighting, premium glossy reflections on the steel links, high detail, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

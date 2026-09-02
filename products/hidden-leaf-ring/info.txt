@@ -1,0 +1,80 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Hidden Leaf Ring
+SLUG         : hidden-leaf-ring
+BUMPA ID     : 2476351
+WOO TYPE     : simple
+PARENT SKU   : OSN-2476351
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Rings
+  - Shop by Anime > Naruto
+
+TAGS: Hidden Leaf ring, Naruto ring, Konoha ring, anime ring, Naruto jewelry, shinobi accessories, stainless steel ring, anime-inspired ring
+FRANCHISE: Naruto    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,000
+Total stock   : 502
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the Konoha crest on your hand
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A polished signet-style band engraved with the Hidden Leaf Village crest. Forged in tarnish-resistant stainless steel for everyday wear, this Naruto-inspired ring brings shinobi energy to any fit. Choose your size and rep the village.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Pledge your allegiance to the Hidden Leaf. This signet-style band carries the Konohagakure crest cut clean into a polished face, flanked by riveted detailing for that authentic forehead-protector look. It is the easy way to rep your favourite shinobi village without saying a word.</p>
+<p>Built in tarnish-resistant stainless steel with a smooth, comfortable inner band, it is made to be worn daily, gym to street to mission. Pick your ring size at checkout and stack it with the rest of the roster. Fan-made and anime-inspired; not affiliated with or endorsed by the official rights holders.</p>
+<ul>
+<li>Hidden Leaf Village (Konoha) crest engraved on a polished signet face</li>
+<li>Material: stainless steel / alloy with a bright polished finish</li>
+<li>Tarnish-resistant and water-friendly for everyday wear</li>
+<li>Available in standard ring sizes, buyer selects size at checkout</li>
+<li>Unisex fit, suits everyday styling and stacking</li>
+<li>Wipe clean with a soft dry cloth, avoid harsh chemicals and perfumes</li>
+<li>Includes: 1 anime-inspired ring</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Engraved Hidden Leaf Village (Konoha) crest on a polished signet face
+  • Tarnish-resistant stainless steel built for daily wear
+  • Available in standard sizes, you pick your fit at checkout
+  • Unisex design, perfect for stacking with the rest of the roster
+  • Fan-made, anime-inspired Naruto accessory
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (43 chars)        : Hidden Leaf Ring | Naruto Konoha Crest Ring
+Meta Description (148 chars) : Hidden Leaf Village crest ring in tarnish-resistant stainless steel. Naruto-inspired Konoha signet band, pick your size. Ships from Nigeria, ₦4,000.
+Focus keyword                       : Hidden Leaf ring
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Polished silver stainless steel signet ring engraved with the Naruto Hidden Leaf Village crest, worn on a finger
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a polished stainless steel signet ring engraved with the Hidden Leaf Village crest, resting on an ink-black #111111 surface against paper-white #FAFAFA backdrop. Single manga-red #E2261C accent glinting off the band, halftone dot texture, sharp speed lines and ink splatter framing the ring in a manga panel. Cinematic premium lighting, macro focus on the engraved crest, high contrast, dramatic shadow.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

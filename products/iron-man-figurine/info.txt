@@ -1,0 +1,82 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Iron Man Figurine
+SLUG         : iron-man-figurine
+BUMPA ID     : 1873973
+WOO TYPE     : simple
+PARENT SKU   : OSN-1873973
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Figurines
+
+TAGS: Iron Man figurine, Mark 85, Avengers Endgame, Tony Stark, Marvel collectible, anime-inspired figure, collector figurine, Iron Man statue, shelf display
+FRANCHISE: Marvel    CHARACTER: Iron Man (Tony Stark)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦17,500
+Total stock   : 10
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Mark 85 Endgame armor, ready for your shelf
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Suit up Tony Stark in his Mark 85 Endgame armor. A red-and-gold collector figurine with crisp paintwork, articulated joints and detachable back boosters, built for display, not play. Roughly 7-inch scale.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>The Mark 85 is the armor Tony Stark suits up in for the final stand in <em>Avengers: Endgame</em>, and this fan-inspired collector figurine captures it in full red-and-gold glory. Sharp panel lines, a glowing-style chest reactor and that battle-ready stance make it an instant centrepiece on any Marvel shelf.</p>
+<p>Built for display rather than rough play, it ships in printed Avengers collector packaging that makes it just as strong as a gift. Articulated joints let you pose the moment, and the detachable back boosters add height and presence.</p>
+<ul>
+<li><strong>Character:</strong> Iron Man / Tony Stark, Mark 85 Endgame armor</li>
+<li><strong>Type:</strong> Pre-painted collector figurine for shelf display</li>
+<li><strong>Material:</strong> Durable moulded PVC/ABS plastic</li>
+<li><strong>Scale:</strong> Approx. 7-inch (roughly 18 cm) standing figure</li>
+<li><strong>Articulation:</strong> Posable joints for dynamic display stances</li>
+<li><strong>Includes:</strong> Iron Man figure plus detachable back boosters/wings</li>
+<li><strong>Packaging:</strong> Printed Avengers-style collector box, gift-ready</li>
+<li><strong>Care:</strong> Display away from direct sunlight; dust gently with a soft cloth</li>
+<li><strong>Note:</strong> Collectible display piece, not a toy for young children</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Iron Man Mark 85 armor straight out of Avengers: Endgame
+  • Premium red-and-gold paintwork with crisp sculpted panel lines
+  • Posable articulated joints for dynamic display stances
+  • Detachable back boosters add height and presence
+  • Approx. 7-inch (18 cm) scale, perfect shelf centrepiece
+  • Gift-ready printed Avengers-style collector box
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (48 chars)        : Iron Man Mark 85 Figurine | Avengers Collectible
+Meta Description (146 chars) : Iron Man Mark 85 Endgame collector figurine in red and gold. Posable, approx. 7-inch, with detachable boosters and gift box. Ships nationwide and.
+Focus keyword                       : Iron Man figurine
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Red and gold Iron Man Mark 85 collector figurine with detachable back boosters, beside its Avengers collector box
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a red-and-gold Iron Man Mark 85 collector figurine in a heroic stance, detachable back boosters extended. Ink black #111111 backdrop, paper white #FAFAFA rim light, single manga-red #E2261C accent on speed lines radiating behind the figure. Halftone dot texture, sharp ink-splatter highlights, framed inside a clean manga panel. Premium, cinematic, high-contrast collector showcase.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

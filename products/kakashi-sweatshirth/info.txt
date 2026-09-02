@@ -1,0 +1,75 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Kakashi Sweatshirth
+SLUG         : kakashi-sweatshirth
+BUMPA ID     : 1123155
+WOO TYPE     : variable
+PARENT SKU   : OSN-1123155
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+  - Shop by Anime > Naruto
+
+TAGS: Kakashi hoodie, Naruto hoodie, Kakashi Hatake, anime hoodie, Naruto merch, Copy Ninja, anime streetwear, pullover hoodie
+FRANCHISE: Naruto    CHARACTER: Kakashi Hatake
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦20,000
+Total stock   : 413
+VARIATIONS (attribute: Size)
+  M              | ₦20,000 | stock 101  | SKU OSN-1123155-M
+  XL             | ₦20,000 | stock 100  | SKU OSN-1123155-XL
+  2XL            | ₦20,000 | stock 106  | SKU OSN-1123155-2XL
+  XXXL           | ₦20,000 | stock 106  | SKU OSN-1123155-XXXL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Copy Ninja heat. Wear the roster.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel the Copy Ninja in this Kakashi-inspired pullover hoodie. Brushed-fleece interior, ribbed cuffs and hem, kangaroo pocket and a clean unisex streetwear fit built for everyday wear and serious anime energy.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Step into the squad with the Kakashi Hatake hoodie, a fan-made tribute to Konoha's legendary Copy Ninja. The bold anime-inspired graphic and premium build make this a go-to layer whether you're repping Team 7 on campus, on a coffee run, or deep in a late-night episode binge.</p><p>Cut for everyday comfort, the brushed-fleece interior keeps you warm while the unisex streetwear fit drapes clean over a tee or layered under a jacket. Built to be lived in and styled however you wear the roster.</p><ul><li>Pullover hoodie with Kakashi (Naruto) anime-inspired graphic print</li><li>Soft brushed-fleece interior for warmth and comfort</li><li>Ribbed cuffs and hem to hold their shape</li><li>Front kangaroo pocket and adjustable drawstring hood</li><li>Unisex streetwear fit; sizes M, XL, 2XL and XXXL</li><li>Machine wash cold, inside-out; do not tumble dry the print</li><li>Fan / anime-inspired design, not official or affiliated with the franchise</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Kakashi Hatake anime-inspired graphic from Naruto
+  • Cosy brushed-fleece interior for real warmth
+  • Ribbed cuffs and hem keep their shape
+  • Front kangaroo pocket and adjustable hood
+  • Unisex streetwear fit in M to XXXL
+  • Ships nationwide across Nigeria and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (55 chars)        : Kakashi Hoodie | Naruto Anime Pullover - Otaku Store NG
+Meta Description (146 chars) : Kakashi Hatake anime-inspired pullover hoodie. Brushed-fleece warmth, ribbed cuffs, kangaroo pocket, unisex fit. Sizes M-XXXL. Ships from Nigeria.
+Focus keyword                       : Kakashi hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Kakashi Hatake Naruto-inspired pullover hoodie with front graphic print and kangaroo pocket
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a folded pullover hoodie featuring a Kakashi Hatake-inspired graphic, ink black #111111 background, paper white #FAFAFA fabric highlights, single manga-red #E2261C accent on the hood drawstring; halftone dot shading, sharp speed lines radiating from the garment, subtle ink splatter framing, arranged like a manga panel; premium cinematic lighting, crisp focus on the brushed-fleece texture and ribbed cuffs.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

@@ -1,0 +1,73 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Kaijuu No 8 Stickers
+SLUG         : kaijuu-no-8-stickers
+BUMPA ID     : 1831202
+WOO TYPE     : variable
+PARENT SKU   : OSN-1831202
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Stickers
+
+TAGS: Kaiju No. 8 stickers, anime vinyl stickers, Kafka Hibino, Defense Force, waterproof stickers, laptop stickers, anime sticker pack, Otaku Store NG
+FRANCHISE: Kaiju No. 8    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦1,000
+Total stock   : 40
+VARIATIONS (attribute: Style)
+  Comic          | ₦1,000 | stock 20   | SKU OSN-1831202-COMIC
+  Normal         | ₦1,000 | stock 20   | SKU OSN-1831202-NORMAL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Suit up with the Defense Force. Vinyl that survives the field.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Kaiju No. 8 vinyl stickers for fans who live for the Defense Force grind. Waterproof, fade-resistant, and built to stick to laptops, bottles, phones, and notebooks. Pick Comic or Normal style and rep Kafka's roster anywhere.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel Kafka Hibino and the Defense Force energy onto every surface you own. These Kaiju No. 8 vinyl stickers are anime-inspired art for fans who want their gear to hit as hard as a Numbers-class kaiju, with bold linework, clean color, and a finish that holds up to daily life.</p><p>Choose your vibe: <strong>Comic</strong> for punchy, panel-ready manga styling, or <strong>Normal</strong> for a sleeker, clean-print look. Slap them on your laptop, water bottle, phone case, or notebook and wear the roster wherever you go.</p><ul><li>Material: durable waterproof vinyl with a vivid, fade-resistant print</li><li>Style options: Comic or Normal (buyer's choice)</li><li>Surfaces: laptops, water bottles, phone cases, notebooks, lockers and more</li><li>Finish: smudge-resistant, scratch-resistant everyday wear</li><li>Application: peel-and-stick on clean, dry surfaces</li><li>Care: wipe clean; avoid heavy scrubbing to preserve the print</li><li>Theme: Kaiju No. 8 fan art (anime-inspired, not affiliated or official)</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Waterproof, fade-resistant vinyl built for daily wear
+  • Two styles to pick: Comic or Normal
+  • Sticks to laptops, bottles, phones, notebooks and more
+  • Bold Kaiju No. 8 fan-art for Defense Force fans
+  • Smudge- and scratch-resistant everyday finish
+  • Ships nationwide and worldwide from Nigeria
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : Kaiju No. 8 Stickers | Waterproof Anime Vinyl
+Meta Description (146 chars) : Kaiju No. 8 vinyl stickers, waterproof and fade-resistant. Pick Comic or Normal style for laptops, bottles and phones. ₦1,000. Ships from Nigeria.
+Focus keyword                       : Kaiju No. 8 stickers
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Kaiju No. 8 anime vinyl stickers in Comic and Normal styles displayed on a white surface
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product studio shot of Kaiju No. 8 anime-inspired vinyl stickers fanned out on a matte surface. Ink black #111111 background, paper white #FAFAFA stickers, single manga-red #E2261C accent. Halftone dot texture, dramatic speed lines radiating from center, subtle ink splatter in corners, framed in clean manga panels. Cinematic top-down lighting, premium glossy vinyl reflection, high contrast, sharp detail. No text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

@@ -1,0 +1,85 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Aot Glow In The Dark Gloves
+SLUG         : aot-glow-in-the-dark-gloves
+BUMPA ID     : 1208590
+WOO TYPE     : simple
+PARENT SKU   : OSN-1208590
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Shop by Anime > Attack on Titan
+
+TAGS: Attack on Titan, AOT gloves, Survey Corps, glow in the dark gloves, fingerless gloves, anime gloves, Wings of Freedom, anime accessories, cosplay gloves, Scout Regiment
+FRANCHISE: Attack on Titan    CHARACTER: Survey Corps
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,000
+Total stock   : 98
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Survey Corps wings that glow blue after dark
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Rep the Scout Regiment with these fingerless knit gloves. The Survey Corps Wings of Freedom emblem charges in light, then glows blue in the dark. Soft, stretchy and ready for everyday wear, riding or cosplay.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Pledge your heart to the Scout Regiment. These black fingerless knit gloves carry the Survey Corps "Wings of Freedom" emblem and the <strong>ATTACK ON TITAN</strong> wordmark across the back of the hand — printed so it sits clean by day and ignites electric blue once the lights drop. Soak the print under any bright light for a minute, step into the dark, and the wings glow like you just suited up for a mission beyond the walls.</p>
+<p>The half-finger cut keeps your fingertips free for your phone, controller or a tight grip, while the stretchy ribbed cuff hugs the wrist and stays put. Lightweight, breathable and easy to throw on — for daily fits, gaming nights, bike rides or convention cosplay.</p>
+<ul>
+<li><strong>Design:</strong> Survey Corps Wings of Freedom emblem + "Attack on Titan" text, glow-in-the-dark print</li>
+<li><strong>Glow:</strong> charges under light, glows blue in darkness; rechargeable, no battery needed</li>
+<li><strong>Style:</strong> fingerless / half-finger knit gloves with ribbed wrist cuff</li>
+<li><strong>Material:</strong> soft stretch knit fabric, breathable and lightweight</li>
+<li><strong>Colour:</strong> black with white / glow print</li>
+<li><strong>Fit:</strong> stretchy one-size, suits most teens and adults</li>
+<li><strong>Includes:</strong> one pair (left + right)</li>
+<li><strong>Care:</strong> hand wash cold, do not bleach, air dry to protect the glow print</li>
+<li><strong>Price:</strong> ₦4,000 — ships from Nigeria, nationwide and worldwide</li>
+</ul>
+<p>Fan-made, anime-inspired merch. Not official or licensed, and not affiliated with the creators of Attack on Titan.</p>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Survey Corps Wings of Freedom emblem on the back of each hand
+  • Glow-in-the-dark print charges in light and glows blue in the dark
+  • Fingerless half-finger cut keeps fingertips free for phone and controller
+  • Soft stretch knit with a snug ribbed wrist cuff
+  • Sold as a pair — perfect for daily wear, gaming or cosplay
+  • Affordable way to rep the Scout Regiment at ₦4,000
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (42 chars)        : AOT Glow In The Dark Gloves | Survey Corps
+Meta Description (152 chars) : Attack on Titan fingerless gloves with the Survey Corps emblem that glows blue in the dark. Soft stretch knit, sold as a pair. ₦4,000, ships nationwide.
+Focus keyword                       : Attack on Titan glow in the dark gloves
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Black fingerless Attack on Titan gloves with the Survey Corps Wings of Freedom emblem glowing blue in the dark
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a pair of black fingerless knit gloves bearing the Survey Corps "Wings of Freedom" emblem, the printed emblem glowing electric blue in the dark as the hero detail. Ink black #111111 background fading to paper white #FAFAFA, single manga-red #E2261C accent used in the halftone dot shading, sharp speed lines radiating outward, and ink splatter framing the gloves in a cinematic manga panel. Dramatic side lighting, premium high-contrast composition, blue glow print emphasized against the manga-red graphic accents.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - QA fixes applied: supplemental_image_prompt has a factual contradiction with the product: it describes the emblem glowing 'electric manga-red #E2261C' while the product (and all other copy) specifies the glow is BLUE. Per the Dark Manga style the accent must be manga-red, but the glowing hero detail of THIS product is blue glow-in-the-dark print. Reworked so the manga-red accent appears in halftone/speed-lines/splatter while the glow effect on the gloves stays blue (true to the product).; seo_title is 41 chars (OK) and meta_description is 152 chars (OK) — no change needed there.; Minor consistency polish: long description, highlights, tags, and alt all check out for franchise (Attack on Titan), character (Survey Corps), no official/licensed claims, valid HTML with no <h1>, and on-voice. No hallucinated measurements. Only the image prompt color/glow conflict required a fix.
+================================================================================

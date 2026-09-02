@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Rengoku wooden katana
+SLUG         : rengoku-wooden-katana
+BUMPA ID     : 4032653
+WOO TYPE     : simple
+PARENT SKU   : OSN-4032653
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Katana & Weapons
+  - Shop by Anime > Demon Slayer
+
+TAGS: Rengoku wooden katana, Demon Slayer katana, Kyojuro Rengoku, Flame Hashira sword, anime cosplay katana, wooden display katana, Demon Slayer cosplay prop, anime katana Nigeria
+FRANCHISE: Demon Slayer    CHARACTER: Kyojuro Rengoku
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦40,000
+Total stock   : 496
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Set your heart ablaze with the Flame Hashira's blade
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+An anime-inspired Rengoku wooden katana built for display and cosplay. The Flame Hashira's signature white-and-orange tsuka, flame guard, and engraved blade come paired with a matching saya. Pure roster energy on your shelf.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Carry the spirit of the Flame Hashira. This anime-inspired Kyojuro Rengoku wooden katana recreates his unmistakable look from Demon Slayer, from the white-and-orange wrapped tsuka and flame-shaped tsuba down to the deep red flame pattern licking up a dark, engraved blade. It is a clean, lightweight display and cosplay prop that lands every panel-perfect pose.</p><p>Slide it into the colour-matched white saya with its gold flame-tip detail and it sits as a statement piece on any otaku shelf, desk, or cosplay loadout. Hand-finished detailing means no two pieces are exactly alike. Set your heart ablaze and wear the roster.</p><ul><li>Character: Kyojuro Rengoku, the Flame Hashira (Demon Slayer-inspired fan replica)</li><li>Blade: solid wood, decorative flame-pattern finish with engraved kanji-style detailing</li><li>Tsuka (handle): themed white wrap with orange cord and flame-motif tsuba guard</li><li>Saya (scabbard): matching white wood scabbard with gold flame-tip accent</li><li>Type: non-functional decorative display and cosplay prop, not a sharpened weapon</li><li>Best for: collectors, cosplayers, anime room and shelf display</li><li>Care: wipe clean with a dry cloth, keep away from moisture and direct heat</li><li>Safety: keep away from children; follow your local laws on display blades</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Iconic Flame Hashira flame-pattern blade and engraved detailing
+  • White-and-orange tsuka with signature flame-shaped tsuba
+  • Matching white saya with gold flame-tip accent included
+  • Lightweight wood build, ideal for cosplay poses and shelf display
+  • Hand-finished fan replica, anime-inspired and not affiliated
+  • Ships nationwide and worldwide from Nigeria
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (50 chars)        : Rengoku Wooden Katana | Demon Slayer Display Sword
+Meta Description (150 chars) : Anime-inspired Rengoku wooden katana with flame-pattern blade and matching saya. Demon Slayer display and cosplay prop. ₦40,000. Ships NG + worldwide.
+Focus keyword                       : Rengoku wooden katana
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Rengoku wooden katana with red flame-pattern blade, white and orange handle, and matching white saya scabbard
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a Demon Slayer Rengoku wooden katana displayed diagonally on a stand. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent echoing the blade's flame pattern. Halftone dot shading, dramatic speed lines radiating from the flame tsuba, subtle ink splatter framing the white-and-orange handle and white saya. Cinematic rim lighting, premium collector aesthetic, manga panel composition.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

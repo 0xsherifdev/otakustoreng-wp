@@ -1,0 +1,79 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Zoro Hoodie 10
+SLUG         : zoro-hoodie-10
+BUMPA ID     : 2964545
+WOO TYPE     : variable
+PARENT SKU   : OSN-2964545
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+  - Shop by Anime > One Piece
+
+TAGS: Zoro hoodie, One Piece hoodie, Roronoa Zoro, anime hoodie, One Piece merch, Zoro merch, anime streetwear, pullover hoodie
+FRANCHISE: One Piece    CHARACTER: Roronoa Zoro
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦18,500
+Total stock   : 800
+VARIATIONS (attribute: Size & Material)
+  L-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964545-LTHICKCOTTON
+  L-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964545-LTHICKPOLYESTER
+  Xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964545-XLTHICKCOTTON
+  Xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964545-XLTHICKPOLYESTER
+  2xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964545-2XLTHICKCOTTON
+  2xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964545-2XLTHICKPOLYESTER
+  3xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964545-3XLTHICKCOTTON
+  3xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964545-3XLTHICKPOLYESTER
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Three-sword style, front to back.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Pull on the Pirate Hunter. This black Zoro pullover hoodie pairs a three-sword-stance front print with a sakura Jolly Roger back and katakana sleeves, finished in brushed fleece for everyday warmth. Fan-made One Piece streetwear built to wear the roster.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the Pirate Hunter every time you throw this on. Our Zoro Hoodie 10 wraps a clean black pullover in full Roronoa Zoro artwork: his three-sword stance and bold "ZORO" lettering across the front, a cherry-blossom Jolly Roger on the back, and his name in crisp katakana running down the sleeve. It is a quiet-confident flex for any One Piece fan who lives by the swordsman's code.</p><p>Built for daily rotation, the brushed-fleece interior keeps the warmth in while the unisex streetwear cut layers easily over a tee or under a jacket. Choose your fabric and size to dial in the exact feel you want. Fan-made, anime-inspired apparel from Otaku Store NG; not official or affiliated with the One Piece licence.</p><ul><li>Pullover hoodie with full hood and front kangaroo pocket</li><li>Roronoa Zoro graphics: three-sword-stance front, sakura Jolly Roger back, katakana sleeve print</li><li>Brushed-fleece interior for cosy, everyday warmth</li><li>Ribbed cuffs and hem to hold the shape and lock in heat</li><li>Unisex streetwear fit, true to your usual hoodie size</li><li>Fabric options: thick cotton or thick polyester</li><li>Sizes available: L, XL, 2XL, 3XL</li><li>Care: machine wash cold, inside-out; do not tumble dry hot</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Full Roronoa Zoro three-sword-stance front print
+  • Sakura Jolly Roger graphic across the back
+  • Zoro katakana name down the sleeve
+  • Brushed-fleece interior for everyday warmth
+  • Choice of thick cotton or thick polyester
+  • Unisex streetwear fit, L to 3XL
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (55 chars)        : Zoro Hoodie - One Piece Anime Pullover | Otaku Store NG
+Meta Description (155 chars) : Zoro pullover hoodie with three-sword-stance front, sakura Jolly Roger back and katakana sleeves. Brushed fleece, cotton or polyester, L-3XL. From ₦18,500.
+Focus keyword                       : Zoro hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black Zoro pullover hoodie showing Roronoa Zoro three-sword stance and ZORO text on the front and a sakura Jolly Roger on the back
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a black pullover hoodie laid flat, brushed-fleece Roronoa Zoro fan-art design with three-sword-stance front print and sakura Jolly Roger. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent on speed lines and ink splatter. Halftone dot shading, sharp manga panel framing, dramatic cinematic rim light, premium streetwear catalogue aesthetic, high detail, no text watermark.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

@@ -1,0 +1,83 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Aot Leather Bracelet
+SLUG         : aot-leather-bracelet
+BUMPA ID     : 1875842
+WOO TYPE     : simple
+PARENT SKU   : OSN-1875842
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Bracelets
+  - Shop by Anime > Attack on Titan
+
+TAGS: Attack on Titan, AOT bracelet, leather bracelet, Survey Corps, Wings of Freedom, anime bracelet, anime accessories, Scout Regiment, anime jewelry, braided bracelet
+FRANCHISE: Attack on Titan    CHARACTER: Survey Corps
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,500
+Total stock   : 501
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the Wings of Freedom on your wrist.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Braided leather-cord bracelet with a metal Survey Corps emblem - the Wings of Freedom plus "進撃" kanji centerpiece. Everyday-durable, adjustable-friendly fit, and built for fans who ride with the Scouts. Anime-inspired, not affiliated.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Pledge your heart to humanity. This Attack on Titan leather bracelet wraps a tight, two-tone braided cord around your wrist and locks it down with a polished metal centerpiece stamped with the Survey Corps "Wings of Freedom" crest and the "進撃" kanji. Subtle enough for daily wear, loud enough that fellow fans clock it instantly.</p>
+<p>The woven cord keeps things flexible and comfortable, while the metal emblem gives it real weight and a premium feel on the wrist. Stack it with chains and rings or let it ride solo - either way, you are wearing the roster.</p>
+<ul>
+<li>Franchise: Attack on Titan, fan-inspired Survey Corps / Scout Regiment design</li>
+<li>Centerpiece: metal plate featuring the Wings of Freedom emblem and "進撃" kanji detailing</li>
+<li>Band: braided two-tone (brown/tan) faux-leather cord</li>
+<li>Style: everyday-durable corded bracelet, lightweight and comfortable</li>
+<li>Fit: standard wrist fit, sits snug without digging in</li>
+<li>Wear: unisex - works solo or stacked with other anime accessories</li>
+<li>Included: 1 x Attack on Titan leather bracelet</li>
+<li>Care: keep away from prolonged water exposure; wipe the metal emblem clean with a dry cloth</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Survey Corps Wings of Freedom emblem centerpiece in polished metal
+  • Braided two-tone faux-leather cord for an everyday-durable wrist
+  • "進撃" kanji detailing for true Attack on Titan fans
+  • Unisex fit - wear it solo or stack it with chains and rings
+  • Fan / anime-inspired design, not affiliated with the official license
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (54 chars)        : Attack on Titan Leather Bracelet | Survey Corps Emblem
+Meta Description (147 chars) : Attack on Titan leather bracelet with a braided cord and metal Survey Corps Wings of Freedom emblem. Everyday-durable fan gear. Ships from Nigeria.
+Focus keyword                       : Attack on Titan leather bracelet
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Attack on Titan braided brown leather bracelet with a metal Survey Corps Wings of Freedom emblem and Japanese kanji centerpiece, held in hand.
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-Manga studio product shot of a braided two-tone brown faux-leather cord bracelet with a polished metal centerpiece bearing the Survey Corps Wings of Freedom emblem and Japanese kanji. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent on speed lines and an ink-splatter burst behind the emblem. Halftone dot shading, manga panel framing, dramatic side lighting, premium cinematic close-up, shallow depth of field.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

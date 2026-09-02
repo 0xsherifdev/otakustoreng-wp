@@ -1,0 +1,88 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Jjk O2 Baggy Jeans
+SLUG         : jjk-o2-baggy-jeans
+BUMPA ID     : 2119146
+WOO TYPE     : variable
+PARENT SKU   : OSN-2119146
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Jujutsu Kaisen, JJK, Gojo, baggy jeans, wide-leg jeans, anime jeans, anime streetwear, anime denim, graphic jeans, otaku fashion
+FRANCHISE: Jujutsu Kaisen    CHARACTER: Gojo Satoru
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦27,000
+Total stock   : 50
+VARIATIONS (attribute: Size)
+  M              | ₦27,000 | stock 10   | SKU OSN-2119146-M
+  L              | ₦27,000 | stock 10   | SKU OSN-2119146-L
+  XL             | ₦27,000 | stock 10   | SKU OSN-2119146-XL
+  2XL            | ₦27,000 | stock 10   | SKU OSN-2119146-2XL
+  3XL            | ₦27,000 | stock 10   | SKU OSN-2119146-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Wide-leg denim that runs the whole Jujutsu Kaisen roster.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Light-wash baggy denim built for sorcerers. All-over Jujutsu Kaisen graphics run down the leg, from inked manga panels of the squad to a full-colour cursed-energy blowout and 呪術廻戦 kanji at the cuff. Loose, drapey, statement-ready.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Drop into the streets like you just walked out of Jujutsu High. These light-wash baggy jeans carry the entire Jujutsu Kaisen energy down one leg: crisp black-and-white manga panels of the squad stacked on the side seam, a full-colour cursed-energy graphic blasting down the front, and the iconic 呪術廻戦 kanji printed at the cuff. It is loud, it is clean, and it lets every fan know exactly which roster you rep.</p>
+<p>Cut with a relaxed wide-leg drape, they sit easy over chunky sneakers or boots and pair with a plain tee so the artwork does all the talking. Fan-made, anime-inspired streetwear for people who treat denim like a panel page. Not affiliated with or endorsed by the official rights holders.</p>
+<ul>
+<li><strong>Style:</strong> Baggy wide-leg jeans, relaxed unisex fit</li>
+<li><strong>Fabric:</strong> Light-wash cotton-blend denim with a soft, broken-in feel</li>
+<li><strong>Artwork:</strong> All-over Jujutsu Kaisen print - inked manga panels of the squad, full-colour cursed-energy graphic, and 呪術廻戦 kanji at the cuff</li>
+<li><strong>Sizes:</strong> M, L, XL, 2XL, 3XL</li>
+<li><strong>Closure:</strong> Zip fly with button fastening, belt loops</li>
+<li><strong>Pockets:</strong> Standard five-pocket layout</li>
+<li><strong>Style it:</strong> Wear loose over high-top sneakers or boots with a plain tee or hoodie</li>
+<li><strong>Care:</strong> Turn inside out, cold machine wash, hang dry to protect the print</li>
+<li><strong>Heads up:</strong> Fan / anime-inspired design, not officially licensed</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • All-over Jujutsu Kaisen artwork down the full leg
+  • Inked manga panels of the squad plus a full-colour cursed-energy graphic
+  • 呪術廻戦 kanji printed at the cuff
+  • Relaxed wide-leg baggy fit, unisex
+  • Light-wash denim with a soft broken-in feel
+  • Sizes M through 3XL
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (47 chars)        : Jujutsu Kaisen Baggy Jeans | Wide-Leg JJK Denim
+Meta Description (148 chars) : Light-wash Jujutsu Kaisen baggy jeans with all-over JJK manga-panel and cursed-energy print. Wide-leg unisex denim, sizes M-3XL. Ships from Nigeria.
+Focus keyword                       : Jujutsu Kaisen baggy jeans
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Light-wash baggy wide-leg jeans with all-over Jujutsu Kaisen print, manga panels of the squad down one leg and the 呪術廻戦 kanji at the cuff
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of light-wash wide-leg baggy denim jeans laid flat, displaying the all-over Jujutsu Kaisen graphic print and side-seam manga panels. Ink black #111111 background, paper white #FAFAFA fill light, single manga-red #E2261C accent on speed lines and a torn ink-splatter banner. Halftone dot shading, sharp manga panel framing, dramatic raking light, cinematic premium streetwear catalogue look, high detail, no text watermark.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

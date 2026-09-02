@@ -1,0 +1,87 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Naruto Mini Figurines
+SLUG         : naruto-mini-figurines
+BUMPA ID     : 2973736
+WOO TYPE     : variable
+PARENT SKU   : OSN-2973736
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Figurines
+  - Shop by Anime > Naruto
+
+TAGS: Naruto figurine, Naruto mini figure, chibi figurine, Itachi figure, Kakashi figure, anime figurine, Naruto collectible, Akatsuki figure, anime desk decor, Naruto Nigeria
+FRANCHISE: Naruto    CHARACTER: Naruto Uzumaki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦9,000
+Total stock   : 300
+VARIATIONS (attribute: Style)
+  Naruto (yellow Hair) | ₦9,000 | stock 100  | SKU OSN-2973736-NARUTOYELLOWHAIR
+  Itachi(black Hair ) | ₦9,000 | stock 100  | SKU OSN-2973736-ITACHIBLACKHAIR
+  Kakashi(white Hair) | ₦9,000 | stock 100  | SKU OSN-2973736-KAKASHIWHITEHAIR
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Chibi shinobi who guard your shelf.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Bring the Hidden Leaf home with these chibi Naruto mini figurines. Choose Naruto, Itachi or Kakashi — each a pre-painted seated PVC piece with crisp face detail and headband sculpt, built for desks, shelves and display cases.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Assemble your own squad of Konoha's finest. These chibi-style Naruto mini figurines capture the roster in adorable seated poses — Naruto's wild yellow spikes and whisker grin, Itachi's brooding red Sharingan stare under the Akatsuki collar, and Kakashi's lazy half-lidded eye behind the mask. Each piece is pre-painted with clean linework on the forehead protector and crisp colour blocking that reads sharp from across the room.</p>
+<p>Sized small to slot anywhere — desk, monitor stand, bookshelf or glass display case — they look great solo or lined up as a trio. A fan-made, anime-inspired collectible for serious Naruto fans, not affiliated with or endorsed by the original creators.</p>
+<ul>
+<li><strong>Characters available:</strong> Naruto (yellow hair), Itachi (black hair), Kakashi (silver/white hair)</li>
+<li><strong>Material:</strong> moulded PVC, pre-painted finish</li>
+<li><strong>Style:</strong> chibi / super-deformed, seated display pose</li>
+<li><strong>Size:</strong> compact mini figure — ideal for desks and shelves</li>
+<li><strong>Use:</strong> display collectible for shelf or desk (not a toy)</li>
+<li><strong>Included:</strong> one figurine per order in your chosen character</li>
+<li><strong>Care:</strong> keep out of direct sunlight; dust gently with a soft, dry cloth</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Chibi-style Naruto, Itachi and Kakashi mini figurines in seated display poses
+  • Pre-painted PVC with crisp face detail and sculpted Leaf forehead protectors
+  • Compact size fits desks, monitor stands, shelves and glass display cases
+  • Collect all three to display the squad as a trio
+  • Fan-made anime-inspired collectible, not affiliated or official
+  • Display piece for collectors, handle with care
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (51 chars)        : Naruto Mini Figurines | Chibi Itachi Kakashi Statue
+Meta Description (145 chars) : Chibi Naruto mini figurines — pick Naruto, Itachi or Kakashi. Pre-painted PVC collectible for desk and shelf display. Ships from Nigeria, ₦9,000.
+Focus keyword                       : Naruto mini figurines
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Chibi Naruto, Kakashi and Itachi mini figurines seated in a row, pre-painted PVC collectibles
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of three chibi anime ninja mini figurines lined up on a slab — ink black #111111 background, paper white #FAFAFA rim light, single manga-red #E2261C accent glow behind the centre figure. Halftone dot texture and faint speed lines radiating outward, subtle ink splatter at the base, manga panel framing. Crisp pre-painted PVC detail on spiky hair, forehead protectors and seated poses, premium cinematic lighting, shallow depth of field, high-contrast collector display aesthetic.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

@@ -1,0 +1,84 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Bleach Street Wear Hoodie
+SLUG         : bleach-street-wear-hoodie
+BUMPA ID     : 2964456
+WOO TYPE     : simple
+PARENT SKU   : OSN-2964456
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+  - Shop by Anime > Bleach
+
+TAGS: Bleach hoodie, anime hoodie, Ichigo hoodie, Soul Reaper, streetwear hoodie, washed black hoodie, oversized anime hoodie, Bleach merch, Hollow Ichigo, anime streetwear
+FRANCHISE: Bleach    CHARACTER: Ichigo Kurosaki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦21,000
+Total stock   : 9
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Soul Reaper power, washed-black streetwear weight.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Bleach-inspired washed-black streetwear hoodie built for fans of the Soul Society. Bold Hollow Ichigo and Captain-tier graphics on a heavyweight oversized fit with ribbed cuffs and a soft brushed interior. Wear the roster, on or off the battlefield.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Step into the Soul Society with the Bleach Street Wear Hoodie, an anime-inspired streetwear piece built around the heaviest hitters of Karakura Town. The print pulls Hollow Ichigo, Renji, Zaraki Kenpachi and Captain-Commander Yamamoto into one acid-wash, oversized silhouette finished in that signature vintage-faded black with a single bold manga-red accent.</p>
+<p>Cut for everyday fits, the heavyweight brushed fleece keeps the warmth in while the unisex streetwear shape keeps it loose and layer-ready. Whether you are repping your favourite Captain or just chasing that worn-in vintage look, this one earns its spot in the rotation. Fan-made and anime-inspired, not affiliated with or endorsed by the official rights holders.</p>
+<ul>
+<li>Bold Bleach-inspired front graphic featuring Hollow Ichigo and the Soul Reaper roster</li>
+<li>Vintage acid-wash finish in faded black for a lived-in streetwear look</li>
+<li>Heavyweight construction with a soft brushed-fleece interior for warmth</li>
+<li>Oversized unisex streetwear fit, true to drop-shoulder styling</li>
+<li>Ribbed cuffs and hem to hold the shape</li>
+<li>Machine wash cold, inside-out; do not tumble dry hot, to protect the print and wash effect</li>
+<li>Ships from Nigeria, nationwide and worldwide</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Anime-inspired Bleach graphic: Hollow Ichigo, Renji, Zaraki and Yamamoto
+  • Vintage acid-wash faded-black streetwear finish
+  • Heavyweight feel with soft brushed-fleece interior
+  • Oversized unisex fit with ribbed cuffs and hem
+  • Machine wash cold inside-out to protect the print
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (52 chars)        : Bleach Street Wear Hoodie | Anime Soul Reaper Hoodie
+Meta Description (151 chars) : Bleach-inspired washed-black streetwear hoodie with Hollow Ichigo and Soul Reaper graphics. Heavyweight oversized unisex fit. ₦21,000, ships worldwide.
+Focus keyword                       : Bleach hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+  05.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Vintage acid-wash black Bleach hoodie with Hollow Ichigo Vasto Lorde graphic and red BLEACH lettering on the chest
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a vintage acid-wash faded-black oversized streetwear hoodie laid flat, centered on a paper-white #FAFAFA backdrop with ink-black #111111 shadows. Single manga-red #E2261C accent in the background as a slashing speed-line panel. Halftone dot texture, ink splatter, sharp manga panel borders framing the garment, dramatic cinematic side lighting, premium e-commerce hero composition, high detail, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

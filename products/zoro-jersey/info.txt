@@ -1,0 +1,73 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Zoro Jersey
+SLUG         : zoro-jersey
+BUMPA ID     : 2193811
+WOO TYPE     : variable
+PARENT SKU   : OSN-2193811
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Jerseys
+  - Shop by Anime > One Piece
+
+TAGS: Zoro, Roronoa Zoro, One Piece, anime jersey, all-over print jersey, dye sublimation, anime streetwear, baseball jersey
+FRANCHISE: One Piece    CHARACTER: Roronoa Zoro
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦23,000
+Total stock   : 25
+VARIATIONS (attribute: Size)
+  L              | ₦23,000 | stock 5    | SKU OSN-2193811-L
+  XL             | ₦23,000 | stock 10   | SKU OSN-2193811-XL
+  2XL            | ₦23,000 | stock 10   | SKU OSN-2193811-2XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Three-sword style, edge-to-edge ink
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Suit up in the Zoro all-over-print anime jersey: vivid edge-to-edge One Piece graphics on lightweight, breathable polyester. Built for conventions, watch parties and streetwear layering. Unisex fit, true to size, secure checkout with fast worldwide delivery.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the Pirate Hunter himself. This Zoro anime jersey is a full dye-sublimated, all-over-print piece — bold One Piece graphics run edge to edge, no cracked screen-prints, no fade. The lightweight 100% polyester body breathes easy so you can rock it through a full convention day or a back-to-back One Piece marathon.</p><p>Cut in a unisex button-up baseball style that layers clean over a tee or hoodie. True to size with a relaxed, easy drape — if you're between sizes, size up for a roomier fit. From match-watch parties to everyday streetwear, this is how you wear your crew. Ships from Nigeria nationwide and worldwide with secure checkout and easy returns. Price: ₦23,000.</p><ul><li><strong>Material:</strong> Lightweight, breathable 100% polyester</li><li><strong>Print:</strong> All-over dye-sublimated graphics, edge to edge, fade-resistant</li><li><strong>Fit:</strong> Unisex button-up baseball jersey, relaxed drape</li><li><strong>Sizing:</strong> True to size — available in L, XL, 2XL; size up if between sizes</li><li><strong>Care:</strong> Machine wash cold inside-out; do not iron the print directly</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Edge-to-edge dye-sublimated Zoro print — vivid and fade-resistant
+  • Lightweight, breathable 100% polyester for all-day wear
+  • Unisex button-up fit, true to size (size up if between sizes)
+  • Perfect for conventions, watch parties and streetwear layering
+  • Secure checkout, fast nationwide + worldwide delivery, easy returns
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (44 chars)        : Zoro Anime Jersey | One Piece All-Over Print
+Meta Description (137 chars) : Shop the Zoro anime jersey — One Piece all-over print on breathable polyester. Unisex fit, sizes L-2XL. Fast worldwide delivery. ₦23,000.
+Focus keyword                       : Zoro anime jersey
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Zoro Roronoa One Piece all-over-print anime baseball jersey in vivid full-front graphics
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga aesthetic studio shot of a Roronoa Zoro–inspired all-over-print baseball jersey on an invisible mannequin, three-quarter angle. Ink black #111111 background with paper white #FAFAFA halftone screentone dots and dynamic manga speed lines radiating outward, a single bold manga-red #E2261C accent slash for energy used sparingly. High-contrast monochrome with one red pop, brush-ink splatter texture, manga panel framing, cinematic premium anime-streetwear mood, sharp product focus, dramatic rim lighting.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

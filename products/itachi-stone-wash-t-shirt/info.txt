@@ -1,0 +1,87 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Itachi stone wash T-shirt
+SLUG         : itachi-stone-wash-t-shirt
+BUMPA ID     : 3168015
+WOO TYPE     : variable
+PARENT SKU   : OSN-3168015
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+  - Shop by Anime > Naruto
+
+TAGS: Itachi, Itachi Uchiha, Naruto, Akatsuki, Sharingan, stone wash t-shirt, anime t-shirt, vintage anime tee, Uchiha, Naruto shirt
+FRANCHISE: Naruto    CHARACTER: Itachi Uchiha
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦24,000
+Total stock   : 77
+VARIATIONS (attribute: Size)
+  L              | ₦24,000 | stock 20   | SKU OSN-3168015-L
+  XL             | ₦24,000 | stock 20   | SKU OSN-3168015-XL
+  2XL            | ₦24,000 | stock 19   | SKU OSN-3168015-2XL
+  3XL            | ₦24,000 | stock 18   | SKU OSN-3168015-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Vintage stone-wash tee built for the Uchiha faithful
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A faded stone-wash crew tee with a high-contrast manga portrait of Itachi Uchiha and Japanese "Uchiha Itachi" lettering. Soft, durable cotton in a relaxed unisex fit, finished with a vintage worn-in look. Wear the roster.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Calm, lethal, unforgettable. This Itachi Uchiha stone-wash tee puts the Akatsuki prodigy front and centre with a stark black-and-white manga portrait, a single blood-red Sharingan, and bold Japanese "Uchiha Itachi" lettering across the chest. The acid-washed finish gives every shirt a unique, worn-in fade so no two look exactly alike.</p>
+<p>Cut in a relaxed unisex fit on soft, breathable cotton, it pairs the comfort of a everyday tee with a vintage edge that holds up wash after wash. A fan-made, anime-inspired piece for the ones who quote the manga from memory.</p>
+<ul>
+<li><strong>Design:</strong> Front-print Itachi Uchiha manga portrait with red Sharingan and Japanese kanji lettering</li>
+<li><strong>Finish:</strong> Acid / stone-wash for a vintage faded, worn-in look (each piece varies slightly)</li>
+<li><strong>Material:</strong> Soft, breathable cotton</li>
+<li><strong>Fit:</strong> Unisex regular fit with a relaxed, drop-shoulder feel</li>
+<li><strong>Neckline:</strong> Classic ribbed crew neck</li>
+<li><strong>Print:</strong> Durable, fade-resistant graphic</li>
+<li><strong>Sizes:</strong> L, XL, 2XL, 3XL</li>
+<li><strong>Care:</strong> Machine wash cold, inside-out; hang or line dry to protect the print and wash finish</li>
+<li><strong>Status:</strong> Fan / anime-inspired design, not affiliated with or endorsed by the official rights holders</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • High-contrast Itachi Uchiha manga portrait with a single red Sharingan
+  • Unique vintage stone-wash fade - no two tees look the same
+  • Soft, breathable cotton in a relaxed unisex fit
+  • Durable, fade-resistant front print
+  • Japanese 'Uchiha Itachi' kanji lettering across the chest
+  • Sizes L through 3XL, ships nationwide and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : Itachi Uchiha Stone Wash T-Shirt | Naruto Tee
+Meta Description (148 chars) : Vintage stone-wash Itachi Uchiha tee with a red Sharingan manga print. Soft cotton, relaxed unisex fit, sizes L-3XL. Ships nationwide and worldwide.
+Focus keyword                       : Itachi stone wash t-shirt
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black stone-wash t-shirt with a manga portrait of Itachi Uchiha, a red Sharingan eye, and Japanese Uchiha Itachi lettering
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a vintage stone-wash black t-shirt featuring a high-contrast Itachi Uchiha manga portrait with a single manga-red Sharingan eye. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent. Halftone dot shading, dramatic speed lines radiating outward, ink splatter and a subtle manga panel border framing the garment. Tee laid flat / floating with crisp rim lighting, premium cinematic catalog look, sharp focus on the faded acid-wash texture and print detail.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

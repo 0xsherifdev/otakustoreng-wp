@@ -1,0 +1,83 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Zoro Wanted Dogtag
+SLUG         : zoro-wanted-dogtag
+BUMPA ID     : 1920463
+WOO TYPE     : simple
+PARENT SKU   : OSN-1920463
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > One Piece
+
+TAGS: Zoro necklace, One Piece jewelry, Roronoa Zoro, wanted poster dogtag, anime dog tag chain, One Piece necklace, anime necklace, Zoro bounty
+FRANCHISE: One Piece    CHARACTER: Roronoa Zoro
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦6,000
+Total stock   : 4
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The Pirate Hunter's bounty, around your neck
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Carry the Pirate Hunter's bounty everywhere. This Zoro wanted-poster dog-tag pendant pairs a bold black-and-gold print with a tarnish-resistant steel chain, built for daily wear and easy to wipe clean. Anime-inspired, not affiliated.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some bounties are worth wearing. The Zoro Wanted Dogtag puts Roronoa Zoro's "DEAD OR ALIVE" poster on a sleek black tag, complete with the Pirate Hunter mid-glare and that nine-figure number every One Piece fan knows by heart. The black-and-gold print pops against a polished steel chain, so it reads bold up close and clean from across the room.</p>
+<p>Built from durable, tarnish-resistant metal, it shrugs off everyday wear and wipes clean in seconds. Layer it over a tee, stack it with your other chains, or wear it solo as a daily flex for the crew. Fan / anime-inspired design, not affiliated with or endorsed by the rights holders.</p>
+<ul>
+<li><strong>Design:</strong> Roronoa Zoro "WANTED – Dead or Alive" bounty-poster dog-tag</li>
+<li><strong>Pendant:</strong> rectangular dog-tag with bold black-and-gold print</li>
+<li><strong>Material:</strong> durable, tarnish-resistant stainless steel / alloy</li>
+<li><strong>Chain:</strong> matching box-link steel chain with lobster-clasp closure</li>
+<li><strong>Finish:</strong> polished metal chain; smooth printed tag face</li>
+<li><strong>Styling:</strong> wear solo, layered, or stacked with other chains</li>
+<li><strong>Care:</strong> wipe clean with a soft, dry cloth; keep away from harsh chemicals</li>
+<li><strong>Includes:</strong> one Zoro dog-tag pendant on chain</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Roronoa Zoro WANTED bounty-poster dog-tag in bold black-and-gold print
+  • Durable, tarnish-resistant steel build for everyday wear
+  • Matching steel box-link chain with secure lobster clasp
+  • Layers or stacks easily with your other chains
+  • Wipes clean with a soft, dry cloth
+  • Fan / anime-inspired design, not affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : Zoro Wanted Dogtag Necklace | One Piece Chain
+Meta Description (153 chars) : Roronoa Zoro WANTED bounty-poster dog-tag necklace in black & gold on a tarnish-resistant steel chain. One Piece fan jewelry, ₦6,000. Ships nationwide &.
+Focus keyword                       : Zoro wanted dogtag necklace
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black Roronoa Zoro WANTED bounty-poster dog-tag pendant in gold print on a stainless-steel chain
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a black rectangular dog-tag pendant printed with a One Piece-style WANTED bounty poster of a swordsman, on a polished stainless-steel box-link chain. Ink black #111111 background, paper white #FAFAFA negative space, single manga-red #E2261C accent on speed lines and a torn poster edge. Halftone dot shading, ink splatter, sharp manga panel framing, dramatic rim light catching the chain links. Premium, cinematic, high detail, crisp reflections on the steel. No text watermark.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

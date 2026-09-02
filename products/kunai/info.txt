@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Kunai
+SLUG         : kunai
+BUMPA ID     : 1484668
+WOO TYPE     : simple
+PARENT SKU   : OSN-1484668
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Katana & Weapons
+  - Shop by Anime > Naruto
+
+TAGS: Naruto kunai, kunai replica, anime kunai, Naruto cosplay prop, ninja kunai, anime weapon replica, shinobi blade, cosplay accessory
+FRANCHISE: Naruto    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦7,000
+Total stock   : 9
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The shinobi blade, ready for display
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Anime-inspired Naruto kunai display replica — a collector and cosplay prop with a themed metal blade and ring-pommel handle. Boxed and ready to gift. Built to complete your ninja loadout and hold its own on the shelf.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Every shinobi knows the kunai. This anime-inspired Naruto kunai is a decorative display and cosplay replica built for fans who want the classic ninja throwing blade in hand and on the shelf — leaf-village energy, no jutsu required.</p><p>With its iconic leaf-shaped blade and ring-pommel handle, it photographs beautifully alongside your other Naruto pieces and finishes any ninja cosplay. A display and collector's prop only — keep away from children and follow your local laws on bladed display items.</p><ul><li>Type: anime-inspired Naruto kunai display / cosplay replica</li><li>Blade: themed metal blade with the classic leaf-shaped kunai profile</li><li>Handle: wrapped grip with signature ring pommel</li><li>Use: display, collecting and cosplay — decorative prop, not a functional weapon</li><li>Includes: kunai in box, ready to gift</li><li>Care: wipe clean and store dry to keep the finish sharp</li><li>Safety: not a toy; keep away from children</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Iconic leaf-shaped kunai profile straight out of Naruto
+  • Themed metal blade with ring-pommel wrapped handle
+  • Display and cosplay prop — collector-ready, not a functional weapon
+  • Comes boxed, ready to gift
+  • Anime-inspired fan piece — not affiliated with the official franchise
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : Naruto Kunai Display Replica | Otaku Store NG
+Meta Description (151 chars) : Anime-inspired Naruto kunai display and cosplay replica with a themed metal blade and ring pommel. Boxed and ready to gift. Ships from Nigeria. ₦7,000.
+Focus keyword                       : Naruto kunai
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Anime-inspired Naruto kunai display replica with leaf-shaped metal blade and ring-pommel wrapped handle, shown with its box
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio shot of a Naruto-style ninja kunai display replica laid diagonally across an ink-black #111111 surface, paper-white #FAFAFA halftone-dot backdrop, single manga-red #E2261C accent catching the leaf-shaped blade edge. Dramatic speed lines and ink-splatter framing in manga panels, cinematic top-down lighting, premium product photography, sharp metallic highlights on the blade and ring pommel.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

@@ -1,0 +1,85 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Jjk  Wall Paper
+SLUG         : jjk-wall-paper
+BUMPA ID     : 1163769
+WOO TYPE     : variable
+PARENT SKU   : OSN-1163769
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Home & Decor > Room Decor
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Jujutsu Kaisen, JJK poster, anime wall poster, anime room decor, Jujutsu Kaisen wall art, otaku room decor, anime print, wall poster Nigeria
+FRANCHISE: Jujutsu Kaisen    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦6,000
+Total stock   : 80
+VARIATIONS (attribute: Style)
+  1              | ₦6,000 | stock 10   | SKU OSN-1163769-1
+  2              | ₦6,000 | stock 10   | SKU OSN-1163769-2
+  3              | ₦6,000 | stock 10   | SKU OSN-1163769-3
+  4              | ₦6,000 | stock 10   | SKU OSN-1163769-4
+  5              | ₦6,000 | stock 10   | SKU OSN-1163769-5
+  6              | ₦6,000 | stock 10   | SKU OSN-1163769-6
+  7              | ₦6,000 | stock 10   | SKU OSN-1163769-7
+  8              | ₦6,000 | stock 10   | SKU OSN-1163769-8
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Cursed energy on your wall, one panel at a time.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Turn your room into Jujutsu High with this anime-inspired Jujutsu Kaisen wall poster. Vivid 40x60cm print, eight bold styles to choose from, and crisp detail that brings Gojo-tier energy to any otaku space.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some rooms just need more cursed energy. This Jujutsu Kaisen wall poster brings the world of Jujutsu High straight to your space with a sharp, vivid 40x60cm print built for fans who live and breathe the series. Whether you are powering through a binge or grinding through study sessions, the right wall art sets the tone.</p><p>Choose from eight bold styles to match your vibe, then mount it solo for a statement piece or pair a few together for a full anime gallery wall. A fan-favourite, anime-inspired pick that instantly upgrades any otaku corner.</p><ul><li>Theme: Jujutsu Kaisen anime-inspired wall poster (fan art, not affiliated with the official series)</li><li>Print size: 40 x 60cm</li><li>Style options: 8 designs to choose from (1-8)</li><li>Format: flat wall poster / print for room decor</li><li>Best for: bedrooms, study nooks, gaming setups, otaku display walls</li><li>Mounting: pairs well with tape, putty, frames or clips (mounting hardware not included)</li><li>Care: keep away from direct moisture; wipe gently to clean</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Vivid 40x60cm Jujutsu Kaisen print with crisp, fan-ready detail
+  • Eight bold style options to match your room
+  • Perfect solo statement piece or part of an anime gallery wall
+  • Anime-inspired fan art, not affiliated with the official series
+  • Ships nationwide across Nigeria and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (51 chars)        : Jujutsu Kaisen Wall Poster 40x60cm | Otaku Store NG
+Meta Description (147 chars) : Jujutsu Kaisen anime-inspired wall poster, vivid 40x60cm print in 8 styles. Upgrade your otaku room for ₦6,000. Ships across Nigeria and worldwide.
+Focus keyword                       : Jujutsu Kaisen wall poster
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+  05.jpg  (gallery)
+  06.jpg  (gallery)
+  07.jpg  (gallery)
+  08.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Jujutsu Kaisen anime-inspired wall poster, 40x60cm print mounted on a room wall
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga style studio shot of a 40x60cm Jujutsu Kaisen-inspired anime wall poster mounted on an ink-black #111111 wall, paper-white #FAFAFA poster border, single manga-red #E2261C accent on a cursed-energy motif; halftone dot shading, dynamic speed lines radiating outward, ink splatter framing the edges, manga panel composition; cinematic side lighting, premium gallery feel, sharp focus, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

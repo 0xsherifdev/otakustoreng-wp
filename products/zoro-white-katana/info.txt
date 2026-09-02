@@ -1,0 +1,73 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Zoro White Katana
+SLUG         : zoro-white-katana
+BUMPA ID     : 1143916
+WOO TYPE     : variable
+PARENT SKU   : OSN-1143916
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Katana & Weapons
+  - Shop by Anime > One Piece
+
+TAGS: Zoro white katana, One Piece katana, Roronoa Zoro sword, anime display sword, cosplay katana, Zoro replica, One Piece collectible, anime katana Nigeria
+FRANCHISE: One Piece    CHARACTER: Roronoa Zoro
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦40,000
+Total stock   : 191
+VARIATIONS (attribute: Material)
+  Wooden         | ₦40,000 | stock 100  | SKU OSN-1143916-WOODEN
+  Steel          | ₦98,000 | stock 91   | SKU OSN-1143916-STEEL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The swordsman's white blade, ready to display.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel the Pirate Hunter with this anime-inspired Zoro white katana, a striking display replica with a white-wrapped handle and matching scabbard. Built for cosplay, collectors and shelf-stopping shrine setups. Fan-made tribute, not affiliated with One Piece.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Three swords, one legend. This Zoro White Katana is a fan-crafted tribute to the Pirate Hunter's signature white blade, recreated as a clean display replica for collectors and cosplayers who live and breathe One Piece. From the crisp white handle wrap to the matching saya, it's built to anchor your anime shrine or finish a Roronoa Zoro fit.</p><p>Choose your finish to match your setup: a lightweight wooden build that's easy to handle for cosplay, or a steel-blade version with that authentic display-piece heft. Either way, it's a decorative collectible prop, made for the wall, the shelf and the camera, not for combat.</p><ul><li>Anime-inspired Roronoa Zoro white katana replica (fan tribute, not affiliated)</li><li>Material options: Wooden or Steel blade</li><li>White-wrapped handle (tsuka) with matching white scabbard (saya)</li><li>Decorative display and cosplay prop, not a functional weapon</li><li>Ideal for collectors, anime shrines, photoshoots and convention cosplay</li><li>Keep away from children; follow your local laws on bladed display items</li><li>Care: wipe the blade with a soft dry cloth, store away from moisture</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Fan-inspired replica of Zoro's iconic white katana from One Piece
+  • Pick your build: lightweight Wooden or weighty Steel blade
+  • White handle wrap and matching scabbard for that clean Wado look
+  • Display and cosplay prop, perfect for shrines and photoshoots
+  • Premium collector piece for serious One Piece fans
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (51 chars)        : Zoro White Katana | One Piece Display Replica Sword
+Meta Description (149 chars) : Anime-inspired Zoro white katana display replica with white handle wrap and scabbard. Wooden or steel options for cosplay and collectors. Ships from.
+Focus keyword                       : Zoro white katana
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Zoro white katana display replica with white handle wrap and matching white scabbard, One Piece fan-inspired sword
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a white-wrapped katana resting diagonally on a stand, ink black #111111 background, paper white #FAFAFA blade and handle wrap, single manga-red #E2261C accent on the tsuba and a thin speed-line streak behind the blade; halftone dot texture in the shadows, subtle ink splatter at the base, framed inside a sharp manga panel border; cinematic rim lighting, premium collector-piece mood, high detail, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

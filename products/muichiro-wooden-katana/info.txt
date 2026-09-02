@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Muichiro wooden katana
+SLUG         : muichiro-wooden-katana
+BUMPA ID     : 4032656
+WOO TYPE     : simple
+PARENT SKU   : OSN-4032656
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Katana & Weapons
+  - Shop by Anime > Demon Slayer
+
+TAGS: Muichiro wooden katana, Muichiro Tokito, Demon Slayer katana, Kimetsu no Yaiba, Mist Hashira, wooden katana, anime katana, cosplay sword
+FRANCHISE: Demon Slayer    CHARACTER: Muichiro Tokito
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦40,000
+Total stock   : 499
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The Mist Hashira's blade, carved in wood.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A solid wooden katana inspired by Muichiro Tokito, the Mist Hashira. Built as a display and cosplay piece with a themed handle wrap and matching scabbard, it brings the Mist Breathing energy straight to your shelf.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the youngest Hashira with this wooden katana inspired by Muichiro Tokito, the Mist Pillar of Demon Slayer. Carved as a one-piece display blade, it captures the clean, understated lines of Muichiro's Nichirin sword and turns them into a piece you can actually hold, pose with and show off.</p><p>This is a decorative collector and cosplay prop, not a sharpened weapon. The wooden blade keeps it light and safe for photos, conventions and shelf display, while the themed handle wrap and matching scabbard finish the Mist Breathing look. Anime-inspired fan piece, not affiliated with or endorsed by the official rights holders.</p><ul><li>Theme: Muichiro Tokito, Mist Hashira (Demon Slayer / Kimetsu no Yaiba inspired)</li><li>Material: solid wood blade with wood-finished fittings</li><li>Includes: wooden katana plus matching wooden scabbard (saya)</li><li>Handle: themed tsuka wrap for an authentic in-hand feel</li><li>Edge: blunt, non-sharpened display blade</li><li>Use: cosplay, photography, anime collection and shelf display</li><li>Care: wipe clean with a dry cloth; keep away from moisture and direct heat</li><li>Safety: decorative prop only, not a toy; keep away from children and follow local laws on display blades</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Inspired by Muichiro Tokito, the Mist Hashira
+  • Solid wood blade, light and display-safe
+  • Comes with a matching wooden scabbard (saya)
+  • Themed handle wrap for an authentic grip
+  • Blunt edge, built for cosplay and shelf display
+  • Fan-made anime-inspired piece, not affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (51 chars)        : Muichiro Wooden Katana | Demon Slayer Display Sword
+Meta Description (155 chars) : Muichiro Tokito wooden katana inspired by Demon Slayer's Mist Hashira. Solid wood blade with matching scabbard for cosplay and display. Ships from Nigeria.
+Focus keyword                       : Muichiro wooden katana
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Muichiro Tokito inspired wooden katana with matching scabbard, Demon Slayer Mist Hashira display sword
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a wooden display katana inspired by Demon Slayer's Mist Hashira, laid diagonally across a paper-white #FAFAFA surface with its matching wooden scabbard beside it. Ink black #111111 background, halftone dot gradients and sharp speed lines radiating from the blade, a single manga-red #E2261C accent ribbon trailing along the handle wrap, subtle ink splatter in the corners, framed inside clean manga panel borders. Premium, cinematic lighting, high detail, collector-grade presentation.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

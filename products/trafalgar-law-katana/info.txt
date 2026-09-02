@@ -1,0 +1,72 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Trafalgar Law Katana
+SLUG         : trafalgar-law-katana
+BUMPA ID     : 1145002
+WOO TYPE     : simple
+PARENT SKU   : OSN-1145002
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Katana & Weapons
+  - Shop by Anime > One Piece
+
+TAGS: Trafalgar Law, Kikoku, One Piece, display katana, cosplay sword, Heart Pirates, anime weapon, collectible katana
+FRANCHISE: One Piece    CHARACTER: Trafalgar Law
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦98,000
+Total stock   : 999
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Kikoku-inspired nodachi for the Surgeon of Death
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A display katana inspired by Trafalgar Law's nodachi Kikoku. Long alloy blade, themed tsuka wrap and fur-trimmed saya, finished for One Piece collectors and cosplayers who want the Heart Pirates' edge on the wall.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the Surgeon of Death. This fan-made display katana takes its cues from Trafalgar Law's signature nodachi, Kikoku — the long, dark-sheathed blade he carries across One Piece. Built as a collector and cosplay prop, it pairs a full-length blade with a themed handle wrap and a fur-trimmed scabbard so the silhouette reads instantly to anyone who knows the Heart Pirates.</p><p>This is a decorative display and cosplay piece, not a functional weapon. Mount it on the included stand, sling it over your shoulder for a convention build, or let it anchor your One Piece shelf. Anime-inspired by Trafalgar Law — fan art, not official or affiliated with the rights holders.</p><ul><li>Inspired by Trafalgar Law's nodachi "Kikoku" from One Piece</li><li>Steel blade with a themed handle wrap (tsuka) and matching scabbard (saya)</li><li>Approx. 104cm overall length</li><li>Approx. 1.2kg weight</li><li>Includes display stand and sword belt (metal blade version)</li><li>Wooden blade version ships without stand or belt</li><li>For display, cosplay and collecting only — keep away from children</li><li>Follow your local laws on owning and carrying bladed display items</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Inspired by Trafalgar Law's nodachi Kikoku from One Piece
+  • Full-length blade with fur-trimmed scabbard and themed tsuka wrap
+  • Approx. 104cm long, around 1.2kg
+  • Includes display stand and sword belt (metal version)
+  • Cosplay-ready and shelf-worthy for Heart Pirates fans
+  • Decorative display prop — fan-made, not official
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (55 chars)        : Trafalgar Law Katana - Kikoku Display Sword | One Piece
+Meta Description (151 chars) : Trafalgar Law katana inspired by Kikoku from One Piece. Display sword with stand and belt for cosplay and collectors. Ships from Nigeria. From ₦98,000.
+Focus keyword                       : Trafalgar Law katana
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Trafalgar Law Kikoku-inspired display katana with dark fur-trimmed scabbard and stand
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a long display nodachi inspired by One Piece's Kikoku, dark sheath with white fur trim, resting on a black display stand. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent on a halftone-dot panel behind the blade. Speed lines and subtle ink splatter framing the composition, sharp cinematic studio lighting, premium collectible feel, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

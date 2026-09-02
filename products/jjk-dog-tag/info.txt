@@ -1,0 +1,73 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Jjk Dog Tag
+SLUG         : jjk-dog-tag
+BUMPA ID     : 1146365
+WOO TYPE     : simple
+PARENT SKU   : OSN-1146365
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: JJK dog tag, Jujutsu Kaisen necklace, Yuji Itadori, Sukuna, anime dog tag, anime necklace, JJK merch, anime pendant
+FRANCHISE: Jujutsu Kaisen    CHARACTER: Yuji Itadori & Ryomen Sukuna
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦6,000
+Total stock   : 996
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Two souls, one body, one chain
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A bold JJK dog-tag pendant featuring the split-face Yuji and Sukuna portrait under the Jujutsu Kaisen kanji. Tarnish-resistant metal on a sturdy box chain, finished in matte black with a full-colour print. Wear the roster everywhere you roll.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Vessel and curse, side by side. This anime-inspired dog tag splits Yuji Itadori and Ryomen Sukuna across one black tag, framed by the unmistakable Jujutsu Kaisen kanji and a hit of curse-energy colour. It is the kind of piece that sorcery-circle fans clock instantly, built to sit clean over a tee or layered under a hoodie.</p><p>Made from durable, tarnish-resistant metal and strung on a sturdy box chain, it keeps its matte-black finish and sharp full-colour print through everyday wear. Fan-made, anime-inspired merch (not official or affiliated). Ships from Nigeria, nationwide and worldwide.</p><ul><li><strong>Design:</strong> Yuji Itadori x Ryomen Sukuna split-face portrait with Jujutsu Kaisen (呵術廃戦) kanji</li><li><strong>Pendant:</strong> rectangular dog-tag style, matte-black base with full-colour printed graphic</li><li><strong>Material:</strong> durable tarnish-resistant metal pendant on a stainless-steel-tone box chain</li><li><strong>Chain:</strong> standard adjustable-fit necklace length, lobster-clasp closure</li><li><strong>Wear:</strong> unisex, lightweight, sits flat for solo or layered styling</li><li><strong>Care:</strong> wipe clean with a soft dry cloth; keep away from water and perfume to protect the print</li><li><strong>Includes:</strong> 1 x JJK dog-tag pendant on chain</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Split-face Yuji Itadori and Sukuna portrait under the JJK kanji
+  • Matte-black dog-tag pendant with crisp full-colour print
+  • Durable, tarnish-resistant metal on a sturdy box chain
+  • Unisex fit, sits clean solo or layered
+  • Wipe-clean and built for everyday wear
+  • Fan-inspired JJK merch, ships nationwide and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (44 chars)        : JJK Dog Tag Necklace - Yuji & Sukuna Pendant
+Meta Description (143 chars) : Jujutsu Kaisen dog tag necklace, Yuji x Sukuna split-face design. Tarnish-resistant metal on a box chain. ₦6,000. Ships nationwide & worldwide.
+Focus keyword                       : JJK dog tag necklace
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Jujutsu Kaisen dog tag necklace with split-face Yuji Itadori and Sukuna portrait on a silver-tone box chain
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product shot of a rectangular black anime dog-tag pendant hanging on a silver-tone box chain. Ink black #111111 background with paper white #FAFAFA halftone dot texture and bold manga-red #E2261C speed lines radiating behind the tag. Single red accent only, ink splatter at the edges, sharp manga-panel framing, dramatic side lighting, premium cinematic studio feel, high detail, no text.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+  - QA fixes applied: meta_description was 156 characters (over the 155 limit). Trimmed to 152 characters by replacing 'Tarnish-resistant metal on a box chain.' phrasing with a tighter version.; Everything else checks out: correct franchise (Jujutsu Kaisen) and characters (Yuji Itadori & Ryomen Sukuna) matching the 'JJK Dog Tag' title; SEO title is 44 chars (<=60); no official/licensed/trademark-claiming language (explicitly states fan-made, not official or affiliated); long_description_html uses clean <p>/<ul>/<li> with no <h1> and is relevant to Chains & Necklaces; claims are true-to-type for a printed metal dog-tag pendant (no invented measurements, awards, or reviews); on-brand voice with the 'Wear the roster' tagline woven in; image prompt follows the Dark Manga style spec.
+================================================================================

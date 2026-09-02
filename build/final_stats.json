@@ -1,0 +1,117 @@
+{
+  "stats": {
+    "total_products": 890,
+    "variable": 407,
+    "simple": 483,
+    "variations": 2091,
+    "total_rows": 2981
+  },
+  "top_categories": [
+    [
+      "Accessories",
+      235
+    ],
+    [
+      "Apparel > T-Shirts",
+      110
+    ],
+    [
+      "Apparel > Hoodies",
+      97
+    ],
+    [
+      "Collectibles > Katana & Weapons",
+      42
+    ],
+    [
+      "Collectibles > Stickers",
+      38
+    ],
+    [
+      "Apparel > Jerseys",
+      35
+    ],
+    [
+      "Collectibles > Figurines",
+      35
+    ],
+    [
+      "Accessories > Tote Bags",
+      26
+    ],
+    [
+      "Accessories > Chains & Necklaces",
+      24
+    ],
+    [
+      "Apparel > Headwear",
+      23
+    ],
+    [
+      "Home & Decor > Room Decor",
+      20
+    ],
+    [
+      "Apparel > Trousers",
+      17
+    ]
+  ],
+  "franchises": [
+    [
+      "Naruto",
+      220
+    ],
+    [
+      "One Piece",
+      149
+    ],
+    [
+      "Jujutsu Kaisen",
+      95
+    ],
+    [
+      "Demon Slayer",
+      76
+    ],
+    [
+      "Attack on Titan",
+      74
+    ],
+    [
+      "Bleach",
+      53
+    ],
+    [
+      "Hunter x Hunter",
+      12
+    ],
+    [
+      "Berserk",
+      11
+    ],
+    [
+      "Solo Leveling",
+      10
+    ],
+    [
+      "Blue Lock",
+      8
+    ],
+    [
+      "Dragon Ball",
+      7
+    ],
+    [
+      "Chainsaw Man",
+      7
+    ],
+    [
+      "My Hero Academia",
+      6
+    ],
+    [
+      "Tokyo Revengers",
+      3
+    ]
+  ]
+}

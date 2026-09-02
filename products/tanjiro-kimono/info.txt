@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Tanjiro Kimono
+SLUG         : tanjiro-kimono
+BUMPA ID     : 1771955
+WOO TYPE     : simple
+PARENT SKU   : OSN-1771955
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Kimono
+  - Shop by Anime > Demon Slayer
+
+TAGS: Tanjiro kimono, Demon Slayer haori, Tanjiro Kamado, anime kimono robe, checkered haori, cosplay kimono, anime layering piece, Demon Slayer cosplay
+FRANCHISE: Demon Slayer    CHARACTER: Tanjiro Kamado
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦15,000
+Total stock   : 97
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The checkered haori every Demon Slayer fan knows
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Drape into Tanjiro's iconic green-and-black checkered haori. A lightweight, open-front kimono robe with wide sleeves and a unisex free-size cut, built to layer over a tee and turn heads at any con.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the Water Breathing swordsman with the Tanjiro Kimono, an anime-inspired haori that recreates Tanjiro Kamado's instantly recognisable green-and-black checkered pattern with bold black front trim. The open-front drape and wide sleeves give you that effortless Demon Slayer silhouette the second you throw it on.</p><p>Lightweight and breezy, it layers cleanly over a plain tee for cosplay, conventions, anime nights, or just a statement fit on the street. Free-size cut wears loose and relaxed on most builds, so it slots straight into your roster.</p><ul><li>Anime-inspired Tanjiro checkered haori; fan design, not affiliated with or endorsed by the rights holders</li><li>Open-front kimono robe with wide, flowing sleeves</li><li>Unisex free-size drape for a loose, layered fit</li><li>Lightweight fabric, ideal as a layer over a tee</li><li>All-over checkered print with contrast black front panels and collar</li><li>Care: gentle cold wash, hang dry, do not bleach</li><li>Single style; one option, no variants</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Tanjiro's signature green-and-black checkered haori print
+  • Open-front drape with wide, flowing sleeves
+  • Unisex free-size fit layers over any tee
+  • Lightweight fabric, easy to pack for cons
+  • Fan / anime-inspired design, not affiliated
+  • Gentle cold wash, hang dry
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (40 chars)        : Tanjiro Kimono Haori | Demon Slayer Robe
+Meta Description (155 chars) : Tanjiro Kimono - the iconic green-and-black checkered Demon Slayer haori. Lightweight unisex free-size robe, perfect for cosplay. ₦15,000, ships worldwide.
+Focus keyword                       : Tanjiro kimono
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Tanjiro Kamado green-and-black checkered haori kimono worn open over a white tee, front view
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga style studio product shot of a green-and-black checkered open-front haori kimono on an invisible mannequin, three-quarter angle. Ink black #111111 background with paper white #FAFAFA negative space, single manga-red #E2261C accent stripe slicing across the panel. Halftone dot shading, dramatic speed lines radiating behind the garment, subtle ink splatter at the edges, manga panel framing. Premium, cinematic lighting; high contrast; the checkered fabric crisp and detailed. No text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

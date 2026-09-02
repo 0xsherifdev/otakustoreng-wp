@@ -1,0 +1,87 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Zoro 3d Hoodie
+SLUG         : zoro-3d-hoodie-1123005
+BUMPA ID     : 1123005
+WOO TYPE     : variable
+PARENT SKU   : OSN-1123005
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+  - Shop by Anime > One Piece
+
+TAGS: Zoro hoodie, One Piece hoodie, 3D anime hoodie, Roronoa Zoro, anime pullover hoodie, all-over print hoodie, One Piece merch, anime streetwear
+FRANCHISE: One Piece    CHARACTER: Roronoa Zoro
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦28,000
+Total stock   : 500
+VARIATIONS (attribute: Size)
+  M              | ₦28,000 | stock 100  | SKU OSN-1123005-M
+  L              | ₦28,000 | stock 100  | SKU OSN-1123005-L
+  XL             | ₦28,000 | stock 100  | SKU OSN-1123005-XL
+  2XL            | ₦28,000 | stock 100  | SKU OSN-1123005-2XL
+  XXXL           | ₦28,000 | stock 100  | SKU OSN-1123005-XXXL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+All-over 3D Zoro ink print. Three-sword energy.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel the world's greatest swordsman with this all-over 3D Zoro pullover. Vivid ink-style artwork wraps front, back, hood and sleeves, with brushed-fleece warmth and a relaxed unisex streetwear fit built for everyday wear.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Draw your blade. This Zoro 3D Hoodie puts One Piece's three-sword demon front and centre, with a cinematic ink-and-red illustration printed across the entire garment, hood and sleeves included. The high-contrast black, paper-white and signature crimson artwork makes it a standout piece for any fan who lives by the Pirate Hunter's code.</p>
+<p>Built for real wear, not just the shelf. A brushed-fleece interior keeps you warm, while the relaxed unisex cut layers easily over tees or under a jacket. This is a fan-made, anime-inspired design and is not official or affiliated with the franchise.</p>
+<ul>
+<li>All-over 3D sublimation print of Roronoa Zoro spanning front, back, hood and sleeves</li>
+<li>Pullover style with kangaroo front pocket and adjustable drawstring hood</li>
+<li>Brushed-fleece interior for warmth and comfort</li>
+<li>Ribbed cuffs and hem for a snug, structured finish</li>
+<li>Cotton and polyester blend fabric</li>
+<li>Relaxed unisex streetwear fit</li>
+<li>Sizes available: M, L, XL, 2XL, XXXL</li>
+<li>Care: machine wash cold inside-out, do not bleach, hang or line dry</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • All-over 3D Zoro print wraps front, back, hood and sleeves
+  • Brushed-fleece interior for cozy, everyday warmth
+  • Pullover with kangaroo pocket and drawstring hood
+  • Ribbed cuffs and hem for a clean streetwear finish
+  • Relaxed unisex fit, sizes M to XXXL
+  • Fan-made, anime-inspired One Piece design
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (41 chars)        : Zoro 3D Hoodie | One Piece Anime Pullover
+Meta Description (155 chars) : Zoro 3D all-over print hoodie for One Piece fans. Brushed-fleece pullover, unisex fit, sizes M-XXXL. Fan-made anime hoodie, ships nationwide and worldwide.
+Focus keyword                       : Zoro 3D hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: All-over 3D print pullover hoodie featuring Roronoa Zoro from One Piece in ink-style art with red accents on black and white
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of an all-over-print pullover hoodie laid flat, ink black #111111 background with paper white #FAFAFA garment surface and a single manga-red #E2261C accent slashing across like a katana stroke. Halftone dots, speed lines and ink splatter framing the hoodie inside a bold manga panel border. Premium, cinematic lighting, sharp focus on ribbed cuffs and kangaroo pocket, high-contrast crimson sword-energy motif. No text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

@@ -1,0 +1,70 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Spider-Man Laptop Skin
+SLUG         : spider-man-laptop-skin
+BUMPA ID     : 1875667
+WOO TYPE     : simple
+PARENT SKU   : OSN-1875667
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Laptop Skins
+
+TAGS: Spider-Man laptop skin, anime laptop skin, vinyl laptop decal, Spider-Man merch, anime-inspired skin, laptop wrap, dark manga art, Otaku Store NG
+FRANCHISE: Generic Anime    CHARACTER: Spider-Man
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦7,500
+Total stock   : 10
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Swing into the panel. Suit up your laptop.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Anime-inspired Spider-Man laptop skin in bold manga ink. Precision-cut vinyl wraps your lid bubble-free, peels off clean with no residue. Pick your exact size and model for a snug, dust-proof fit that refreshes any rig.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Throw your laptop into the spotlight with this anime-inspired Spider-Man skin. Rendered in high-contrast manga ink with halftone shading and a clean red accent, the web-slinger lands across your lid like a fresh comic panel ready to swing. Premium vinyl, vivid print, zero cringe.</p><p>The textured matte film resists fingerprints and everyday scuffs, while the air-channel adhesive lets you apply it bubble-free and peel it off clean with no sticky residue. Choose your exact size and model and the cut wraps your shell for a snug, second-skin fit.</p><ul><li>Material: printed adhesive vinyl decal with a matte, scuff-resistant finish</li><li>Application: air-channel bubble-free adhesive for easy, repositionable install</li><li>Removal: residue-free peel that won't damage your laptop shell</li><li>Fit: select your size and laptop model at checkout for a precise cut</li><li>Coverage: top lid skin (camera and logo cutouts vary by model)</li><li>Care: wipe clean with a dry or lightly damp cloth; avoid harsh solvents</li><li>Note: fan / anime-inspired artwork, not affiliated with or endorsed by any rights holder</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold anime-inspired Spider-Man art in dark-manga ink and red accent
+  • Bubble-free air-channel application, no trapped air or creases
+  • Residue-free removal that leaves your shell clean
+  • Matte, scuff- and fingerprint-resistant vinyl finish
+  • Choose your exact size and laptop model for a precise fit
+  • Ships nationwide and worldwide from Nigeria
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (51 chars)        : Spider-Man Laptop Skin | Anime-Inspired Vinyl Decal
+Meta Description (151 chars) : Anime-inspired Spider-Man laptop skin in dark-manga ink. Bubble-free, residue-free vinyl decal cut to your model. ₦7,500. Ships from Nigeria worldwide.
+Focus keyword                       : Spider-Man laptop skin
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Anime-inspired Spider-Man laptop skin in black, white and red manga ink applied to a laptop lid
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga style studio product shot of an anime-inspired Spider-Man laptop skin applied to a closed laptop lid, three-quarter angle on a clean surface. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent webbing across the design. Halftone dot shading, dynamic speed lines and ink splatter framing the panel, dramatic cinematic rim light grazing the matte vinyl texture, sharp focus on the decal edge showing a precise bubble-free fit. Premium, high-contrast, comic-panel composition.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

@@ -1,0 +1,92 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Bleach Chain Set 8 In 1
+SLUG         : bleach-chain-set-8-in-1
+BUMPA ID     : 1248719
+WOO TYPE     : simple
+PARENT SKU   : OSN-1248719
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Bleach
+
+TAGS: Bleach chain set, Bleach necklace, anime pendant necklace, Ichigo Hollow mask chain, Soul Reaper necklace, stainless steel anime chain, anime chains Nigeria, Espada pendant
+FRANCHISE: Bleach    CHARACTER: Ichigo Kurosaki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦45,000
+Total stock   : 510
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Eight Soul Reaper pendants, one drop.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Eight Bleach-inspired pendants on stainless-steel chains in one drop. Hollow masks, Soul Reaper crests, the flaming cross and the No. 6 Espada crest, finished in silver-tone steel with crisp red and gold enamel. Stack one or rotate the roster.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Eight pendants. One unmistakable franchise. The Bleach Chain Set 8 In 1 hands you the whole roster of Soul Society iconography in a single drop — Ichigo's Hollow masks with their signature red stripes, Soul Reaper and Vizard skull crests wrapped in flame enamel, the winged flaming cross, and the gold-accented No. 6 Espada crest. Each one is a fan-grade anime-inspired piece built to be seen.</p>
+<p>Pendants are cut from durable silver-tone stainless steel and alloy with bold red and gold enamel detailing that resists everyday tarnish. Every design rides on its own box or cable chain, so you can wear a different mask each day, layer two for a heavier stack, or split the set with the crew. Wipe clean with a soft cloth to keep the shine sharp.</p>
+<ul>
+<li>Set of 8 Bleach anime-inspired pendant necklaces, each on its own chain</li>
+<li>Designs include Hollow / Vizard masks, Soul Reaper skull crests, flaming winged cross and the No. 6 Espada crest</li>
+<li>Durable silver-tone stainless steel and alloy construction; tarnish-resistant</li>
+<li>Hand-finished red and gold enamel accents on select pendants</li>
+<li>Box and cable-style chains with secure lobster-clasp closures</li>
+<li>Standard everyday length; lightweight and comfortable for daily wear</li>
+<li>Unisex — works solo or layered/stacked</li>
+<li>Wipe clean with a soft, dry cloth; avoid water and harsh chemicals</li>
+<li>Fan / anime-inspired design; not official or affiliated merchandise</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • 8 chains in one set — full Bleach pendant roster, ready to rotate or split with friends
+  • Hollow masks, Soul Reaper crests, the flaming cross and the No. 6 Espada crest
+  • Silver-tone stainless steel and alloy that resists tarnish for daily wear
+  • Crisp red and gold enamel detailing on a clean, premium finish
+  • Each pendant on its own box or cable chain — wear solo or layer up
+  • Unisex fit, secure lobster clasps, wipe-clean care
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (49 chars)        : Bleach Chain Set 8 In 1 | Anime Pendant Necklaces
+Meta Description (144 chars) : Bleach Chain Set 8 In 1: eight anime-inspired pendant necklaces — Hollow masks, Soul Reaper crests and more in tarnish-resistant steel. ₦45,000.
+Focus keyword                       : Bleach chain set
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+  05.jpg  (gallery)
+  06.jpg  (gallery)
+  07.jpg  (gallery)
+  08.jpg  (gallery)
+  09.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Bleach-inspired 8-piece pendant necklace set with Hollow masks, Soul Reaper crests and a flaming cross in silver-tone steel with red and gold enamel
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of eight Bleach-inspired stainless-steel pendant necklaces fanned out across an ink-black #111111 surface — Hollow masks, Soul Reaper skull crests, a winged flaming cross and a No. 6 Espada crest, each on its own silver box chain. Single manga-red #E2261C enamel accent glowing on the pendants, paper-white #FAFAFA highlights. Halftone dot texture, sharp speed lines radiating outward, subtle ink splatter framing the layout in manga panels. Premium, cinematic top-down lighting, high detail, crisp reflections.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

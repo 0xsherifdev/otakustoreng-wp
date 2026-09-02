@@ -1,0 +1,55 @@
+# ── macOS / editor cruft ────────────────────────────────────────────────
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+.idea/
+.vscode/
+*.swp
+*~
+
+# ── Python (build/ scripts) ─────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+.venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+
+# ── Node (if any tooling gets added) ────────────────────────────────────
+node_modules/
+npm-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# ── Secrets / credentials ──────────────────────────────────────────────
+# Paystack, Curcy, Terminal Africa keys must never be committed.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets.json
+credentials.json
+
+# ── Run artifacts ───────────────────────────────────────────────────────
+*.log
+build/download.log
+tmp/
+.cache/
+
+# ── Heavy binaries: uncomment if the repo gets too large to clone ───────
+# The 890 product folders under products/ hold ~348 MB of scraped Bumpa
+# images. They are the source assets for the WooCommerce import, so they
+# stay tracked by default. If the repo becomes unwieldy, move them to
+# object storage / Git LFS and uncomment the lines below.
+# products/**/*.jpg
+# products/**/*.png
+# content/hero/*.png

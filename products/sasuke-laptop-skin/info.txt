@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Sasuke Laptop Skin
+SLUG         : sasuke-laptop-skin
+BUMPA ID     : 1875691
+WOO TYPE     : simple
+PARENT SKU   : OSN-1875691
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Laptop Skins
+  - Shop by Anime > Naruto
+
+TAGS: Sasuke laptop skin, Naruto laptop skin, Sasuke Uchiha, anime laptop skin, vinyl laptop decal, Naruto merch, anime laptop wrap, Otaku Store NG
+FRANCHISE: Naruto    CHARACTER: Sasuke Uchiha
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦7,500
+Total stock   : 7
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the last Uchiha on your machine.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Refresh your laptop with bold Sasuke Uchiha artwork. This anime-inspired vinyl skin applies bubble-free, peels off residue-free, and comes cut to your exact laptop size and model. Wear the roster.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Give your setup a clean upgrade with the Sasuke Laptop Skin — a precision-printed vinyl decal built for fans who let their gear do the talking. Inspired by the lone-wolf intensity of the last Uchiha, the artwork hits with sharp colour and crisp detail that survives daily wear without looking cheap.</p><p>Application is fool-proof. The adhesive lays down bubble-free, repositions while you align it, and lifts away clean with no sticky residue when it is time for a change. Pick your laptop size and model at checkout for an edge-to-edge fit. This is a fan-made, anime-inspired design and is not affiliated with or endorsed by the official rights holders.</p><ul><li>Material: printed self-adhesive vinyl decal/wrap</li><li>Finish: vibrant, scratch-resistant surface with a smooth feel</li><li>Application: bubble-free, repositionable, beginner-friendly</li><li>Removal: residue-free and clean lift-off</li><li>Fit: cut to the size and model you select at checkout</li><li>Design: Sasuke Uchiha (Naruto) fan art, anime-inspired</li><li>Care: wipe gently with a soft, slightly damp cloth; avoid harsh solvents</li><li>In the box: 1 x laptop skin (laptop not included)</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold Sasuke Uchiha fan-art print for Naruto fans
+  • Bubble-free application, repositions while you align
+  • Residue-free, clean removal whenever you switch it up
+  • Cut to your exact laptop size and model at checkout
+  • Scratch-resistant vinyl that handles daily carry
+  • Ships nationwide and worldwide from Nigeria
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (56 chars)        : Sasuke Laptop Skin | Naruto Vinyl Decal | Otaku Store NG
+Meta Description (148 chars) : Sasuke Uchiha laptop skin in printed vinyl. Bubble-free, residue-free, cut to your model. Anime-inspired Naruto fan art. ₦7,500. Ships from Nigeria.
+Focus keyword                       : Sasuke laptop skin
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Laptop skin featuring Sasuke Uchiha from Naruto applied edge-to-edge on a closed laptop lid
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio shot of an open laptop with a Sasuke Uchiha-inspired vinyl skin on the closed lid in foreground. Ink black #111111 background, paper white #FAFAFA surface, single manga-red #E2261C accent on the Sharingan motif. Halftone dot shading, dynamic speed lines, ink splatter framing, manga panel borders. Premium, cinematic product lighting, sharp focus on the skin texture and clean edge-to-edge fit.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Tensa zangestu 01 steel katana
+SLUG         : tensa-zangestu-01-steel-katana
+BUMPA ID     : 4026233
+WOO TYPE     : simple
+PARENT SKU   : OSN-4026233
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Katana & Weapons
+  - Shop by Anime > Bleach
+
+TAGS: Tensa Zangetsu, Ichigo Kurosaki, Bleach katana, anime katana, display katana, cosplay sword, steel katana, bankai blade, anime weapon replica
+FRANCHISE: Bleach    CHARACTER: Ichigo Kurosaki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦98,000
+Total stock   : 499
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the bankai. Tensa Zangetsu, forged in steel.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel Ichigo's bankai with this anime-inspired Tensa Zangetsu display katana. A sleek steel blade with a black-wrapped handle and matching scabbard, built for collectors, cosplay and shelf presence.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>The moment Ichigo unleashes his bankai, Zangetsu reshapes into the slim, jet-black Tensa Zangetsu, and this anime-inspired replica captures that exact silhouette. The narrow blade, blacked-out fittings and clean profile make it an instant standout in any Bleach collection, whether it is mounted on a wall, posed on a stand or carried as the centerpiece of an Ichigo cosplay.</p><p>This is a decorative collector and cosplay display piece, not a functional weapon. Handle with care, keep away from children, and follow your local laws on bladed display items.</p><ul><li>Anime-inspired Tensa Zangetsu (Bleach) display katana</li><li>Steel blade with themed black handle wrap (tsuka)</li><li>Matching scabbard (saya) for storage and display</li><li>Built for display, cosplay and collecting</li><li>Decorative prop only, not sharpened for use as a weapon</li><li>Fan-made and anime-inspired; not official or affiliated with any rights holder</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Anime-inspired Tensa Zangetsu bankai blade from Bleach
+  • Steel blade with themed black handle wrap and scabbard
+  • Slim, jet-black silhouette true to Ichigo's bankai
+  • Display and cosplay collector prop, not a functional weapon
+  • Mount it, stand it or wield it for the full Ichigo look
+  • Fan-made, not official or affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (51 chars)        : Tensa Zangetsu Steel Katana | Ichigo Bleach Replica
+Meta Description (149 chars) : Anime-inspired Tensa Zangetsu steel display katana from Bleach. Ichigo's bankai blade with black handle wrap and scabbard for cosplay and collectors.
+Focus keyword                       : Tensa Zangetsu katana
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Tensa Zangetsu anime-inspired steel display katana with slim black blade, black handle wrap and matching scabbard from Bleach
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a slim jet-black Tensa Zangetsu display katana lying diagonally across a paper-white #FAFAFA surface, ink-black #111111 background, single manga-red #E2261C accent streaking behind the blade as a speed-line slash; halftone dot shading, ink splatter, sharp manga panel framing; the blade and black handle wrap rendered in crisp cinematic detail; premium collector presentation, dramatic high-contrast lighting.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

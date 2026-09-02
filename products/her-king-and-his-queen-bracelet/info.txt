@@ -1,0 +1,84 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Her King And His Queen Bracelet
+SLUG         : her-king-and-his-queen-bracelet
+BUMPA ID     : 1254746
+WOO TYPE     : simple
+PARENT SKU   : OSN-1254746
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Couple Accessories
+  - Accessories > Bracelets
+
+TAGS: couple bracelet set, Her King His Queen, matching bracelets, his and hers bracelet, anime couple gift, stainless steel bracelet, crown bracelet, couple accessories
+FRANCHISE: Generic Anime    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦6,000
+Total stock   : 500
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Matching his-and-hers crown bracelet set for two
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A matching couple bracelet duo for fans who rule together. Black "Her King" and rose-gold "His Queen" stainless-steel bars, each set with a crystal accent on a chunky curb-link chain. The anime-inspired gift you wear as a pair.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Crown your other half. The Her King And His Queen set pairs two stainless-steel ID bracelets built for everyday wear: a deep black "Her King" bar with a blue crystal and a rose-gold "His Queen" bar with a soft pink crystal, each engraved with its own crown. Both ride on a chunky curb-link chain that reads bold solo and unmistakable together.</p>
+<p>It is the easy answer for anniversaries, Valentine's, or just claiming your duo out loud. Anime-inspired, fan-made energy for two people who roll as a pair. Otaku Store NG: wear the roster.</p>
+<ul>
+<li><strong>What's included:</strong> 2 bracelets, one "Her King" (black) and one "His Queen" (rose-gold)</li>
+<li><strong>Material:</strong> stainless steel ID bars with curb / Cuban-link chains</li>
+<li><strong>Accents:</strong> square crystal stones, engraved crown motifs and script text</li>
+<li><strong>Finish:</strong> black and rose-gold tone, polished steel chain</li>
+<li><strong>Closure:</strong> secure clasp for everyday on-and-off wear</li>
+<li><strong>Style:</strong> unisex his-and-hers couple set, sold as a duo</li>
+<li><strong>Care:</strong> keep dry, wipe clean, store apart from other metal to avoid scratches</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • His-and-hers couple set: black Her King + rose-gold His Queen
+  • Stainless steel ID bars on chunky curb-link chains
+  • Crown engravings with blue and pink crystal accents
+  • Unisex fit, secure clasp for everyday wear
+  • Anime-inspired gift for anniversaries and Valentine's
+  • Sold as a matched pair, ready to gift
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (55 chars)        : Her King His Queen Couple Bracelet Set | Otaku Store NG
+Meta Description (154 chars) : Matching Her King and His Queen couple bracelet set in stainless steel with crown engravings and crystal accents. Anime-inspired his-and-hers duo, ₦6,000.
+Focus keyword                       : Her King His Queen couple bracelet set
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Her King and His Queen matching couple bracelet set with black and rose-gold stainless-steel bars, crown engravings and crystal accents on curb-link chains
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-Manga style studio product shot of a matching his-and-hers couple bracelet set, two stainless-steel ID bracelets on chunky curb-link chains crossed over each other: one matte ink-black bar engraved "Her King" with a small crown and a square crystal, one rose-gold bar engraved "His Queen" with a crown and a square crystal. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent ribbon weaving between the chains. Halftone dot texture, dramatic speed lines radiating from center, subtle ink splatter at the edges, manga panel framing. Premium, cinematic, high-contrast macro lighting, sharp focus on engraving.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

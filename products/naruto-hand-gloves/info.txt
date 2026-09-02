@@ -1,0 +1,87 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Naruto Hand Gloves
+SLUG         : naruto-hand-gloves
+BUMPA ID     : 1146117
+WOO TYPE     : variable
+PARENT SKU   : OSN-1146117
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Shop by Anime > Naruto
+
+TAGS: Naruto, Naruto gloves, fingerless gloves, anime gloves, Hidden Leaf, Uchiha, Sharingan, glow in the dark, anime accessories, ninja cosplay
+FRANCHISE: Naruto    CHARACTER: Naruto
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,000
+Total stock   : 398
+VARIATIONS (attribute: Style)
+  1              | ₦4,000 | stock 99   | SKU OSN-1146117-1
+  2              | ₦4,000 | stock 99   | SKU OSN-1146117-2
+  3              | ₦4,000 | stock 100  | SKU OSN-1146117-3
+  4              | ₦4,000 | stock 100  | SKU OSN-1146117-4
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Fingerless ninja gloves with Hidden Leaf energy
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Black fingerless knit gloves repping Naruto, from the Hidden Leaf spiral seal to the Uchiha crest and glowing Sharingan prints. Soft, stretchy and half-finger so you stay mobile while you wear the roster everywhere.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the chakra without losing dexterity. These Naruto-inspired fingerless gloves are cut in soft, stretchy knit fabric with bold prints pulled straight from the ninja world, from the Hidden Leaf spiral seal to the Uchiha clan crest and Sharingan-style emblems. The half-finger design keeps your fingertips free for your phone, your controller or your morning ramen.</p>
+<p>Pick your allegiance from four designs, including glow-in-the-dark prints that light up after dark for full shinobi presence. A clean, everyday way to rep your favourite series whether you are training, gaming or just out repping the roster. Fan-made and anime-inspired, not affiliated with or endorsed by the official rights holders.</p>
+<ul>
+<li>Style: fingerless / half-finger gloves, sold as a pair</li>
+<li>Material: soft stretch knit fabric for a snug, flexible fit</li>
+<li>Designs: 4 options including Hidden Leaf seal, Uchiha crest and Sharingan-style prints</li>
+<li>Glow feature: select styles feature glow-in-the-dark (noctilucent) prints</li>
+<li>Fit: stretchy one-size build suited to most teen and adult hands</li>
+<li>Wear: unisex, great for daily wear, cosplay layering, gaming and cooler weather</li>
+<li>Care: hand wash cold and air dry to protect the print</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Fingerless half-finger cut keeps your fingertips free for phone and controller
+  • Four designs: Hidden Leaf seal, Uchiha crest and Sharingan-style emblems
+  • Glow-in-the-dark prints on select styles for after-dark shinobi presence
+  • Soft stretch knit fabric with a snug, flexible one-size fit
+  • Unisex pair, ideal for daily wear, gaming and cosplay layering
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (44 chars)        : Naruto Fingerless Gloves | Anime Hand Gloves
+Meta Description (148 chars) : Naruto-inspired fingerless knit gloves with Hidden Leaf, Uchiha and glow Sharingan prints. 4 styles, soft stretch fit. Ships from Nigeria worldwide.
+Focus keyword                       : Naruto fingerless gloves
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Pair of black Naruto fingerless knit gloves with a glowing blue Hidden Leaf spiral seal print
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a pair of black fingerless half-finger knit gloves worn on crossed hands, glowing manga-red Hidden Leaf spiral seal and Uchiha crest prints on the back of the hands. Ink black #111111 background with paper white #FAFAFA negative space, single manga-red #E2261C accent, halftone dot texture, sharp speed lines and ink splatter framing the hands in a manga panel. Premium, cinematic, high-contrast lighting, crisp detail on knit fabric weave.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

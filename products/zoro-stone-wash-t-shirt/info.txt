@@ -1,0 +1,75 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Zoro stone wash T-shirt
+SLUG         : zoro-stone-wash-t-shirt
+BUMPA ID     : 3167853
+WOO TYPE     : variable
+PARENT SKU   : OSN-3167853
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+  - Shop by Anime > One Piece
+
+TAGS: Zoro t-shirt, One Piece t-shirt, stone wash tee, anime t-shirt, Roronoa Zoro, vintage anime tee, Zoro merch, One Piece merch
+FRANCHISE: One Piece    CHARACTER: Roronoa Zoro
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦24,000
+Total stock   : 80
+VARIATIONS (attribute: Size)
+  L              | ₦24,000 | stock 20   | SKU OSN-3167853-L
+  XL             | ₦24,000 | stock 20   | SKU OSN-3167853-XL
+  2XL            | ₦24,000 | stock 20   | SKU OSN-3167853-2XL
+  3XL            | ₦24,000 | stock 20   | SKU OSN-3167853-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Three-sword swagger, washed-in vintage edge.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A faded stone-wash tee with a crisp white line-art Zoro print, blades drawn. Soft, lived-in cotton feel, drop-shoulder fit and a crew neck. Anime-inspired streetwear built for fans who carry the roster on their chest.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>The Pirate Hunter never backs down, and neither does this tee. A high-contrast white line-art of Roronoa Zoro, three blades poised, sits front and centre on a moody charcoal stone-wash body. The vintage acid-faded finish means no two pieces wash exactly alike, so yours wears in like it has already survived a few duels.</p><p>Cut with a relaxed drop-shoulder silhouette and a ribbed crew neck, it layers clean or stands on its own. This is fan-made, anime-inspired streetwear for the crew that knows the Wano arc by heart. Wear the roster.</p><ul><li>Stone-wash / acid-wash cotton tee with a vintage faded finish</li><li>High-contrast white Zoro line-art print, front placement</li><li>Unisex relaxed drop-shoulder fit with ribbed crew neck</li><li>Durable, fade-resistant print built to last wash after wash</li><li>Sizes: L, XL, 2XL, 3XL</li><li>Care: machine wash cold, inside-out; hang or low-tumble dry</li><li>Fan / anime-inspired design, not affiliated with or endorsed by the official rights holders</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Vintage stone-wash finish, every piece slightly unique
+  • Crisp white Zoro three-sword line-art print
+  • Relaxed unisex drop-shoulder fit, ribbed crew neck
+  • Fade-resistant print holds up wash after wash
+  • Sizes L through 3XL
+  • Anime-inspired fan design
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (39 chars)        : Zoro Stone Wash T-Shirt | One Piece Tee
+Meta Description (154 chars) : Vintage stone-wash Zoro T-shirt with crisp white three-sword line-art. Relaxed unisex fit, fade-resistant One Piece-inspired tee. Sizes L-3XL. Ships from.
+Focus keyword                       : Zoro stone wash t-shirt
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Charcoal stone-wash T-shirt with white line-art print of One Piece's Roronoa Zoro holding three katanas
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a charcoal stone-wash t-shirt laid flat, white line-art print of a swordsman with three katanas across the chest. Ink black #111111 background, paper white #FAFAFA fabric highlights, single manga-red #E2261C accent on a folded sleeve edge. Halftone dot shading, dramatic speed lines radiating from the garment, subtle ink splatter in the corners, framed inside a clean manga panel border. Premium, cinematic, high-contrast lighting, top-down hero angle.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

@@ -1,0 +1,76 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Customized Gym Bottles
+SLUG         : customized-gym-bottles
+BUMPA ID     : 1508231
+WOO TYPE     : simple
+PARENT SKU   : OSN-1508231
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Bottles & Drinkware
+
+TAGS: customized anime bottle, anime gym bottle, custom anime tumbler, insulated water bottle, anime drinkware, personalised tumbler, anime water bottle, gym tumbler
+FRANCHISE: Generic Anime    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦13,000
+Total stock   : 9
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Your favourite anime, printed your way.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A slim white insulated tumbler with a clear flip lid and metal straw, printed with any anime artwork you send. Keeps drinks cold through long gym sessions, lectures and commutes. Fan-made, anime-inspired drinkware built to show off your roster.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Bring your roster to the gym. The Customized Gym Bottle is a slim, double-wall stainless-steel tumbler that you make your own &ndash; send us any anime artwork, panel or character shot and we wrap it around the white bottle in full, edge-to-edge colour. Luffy in Gear 5, an Akatsuki line-up, a Wanted poster, your own ult pull&hellip; if you can picture it, we can print it.</p><p>The clear flip-top lid and reusable metal straw make it easy to sip mid-set, and the insulated build keeps water cold long after the warm-up. A premium, anime-inspired piece for fans &ndash; fan-made and not affiliated with or endorsed by any studio or rights holder.</p><ul><li>Fully custom print &ndash; send the picture you want printed on the bottle</li><li>Slim insulated stainless-steel tumbler, white base colour only</li><li>Double-wall design helps keep drinks cold</li><li>Includes clear flip-top lid and reusable metal straw</li><li>Edge-to-edge wrap-around full-colour artwork</li><li>Great for the gym, school, work and daily commutes</li><li>Hand-wash recommended to protect the print and finish</li><li>Fan-made / anime-inspired &ndash; not official or licensed merchandise</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Print ANY anime artwork you send on the bottle
+  • Slim insulated stainless-steel tumbler in white
+  • Clear flip-top lid plus reusable metal straw included
+  • Double-wall build keeps drinks cold for longer
+  • Full wrap-around, edge-to-edge colour print
+  • Hand-wash recommended to keep the artwork sharp
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (50 chars)        : Customized Anime Gym Bottle | Custom Print Tumbler
+Meta Description (153 chars) : Custom anime gym bottle: slim insulated steel tumbler with flip lid and straw, printed with any artwork you send. Fan-made drinkware. Ships from Nigeria.
+Focus keyword                       : customized anime gym bottle
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+  05.jpg  (gallery)
+  06.jpg  (gallery)
+  07.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: White insulated anime gym tumbler with clear flip lid and metal straw, printed with custom One Piece Luffy artwork
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a slim white insulated stainless-steel tumbler with a clear flip-top lid and a metal straw, standing centred on ink-black #111111 surface. The tumbler shows a bold wrap-around anime-inspired print in paper-white #FAFAFA with a single manga-red #E2261C accent. Background filled with halftone dot texture, dynamic speed lines and ink splatter framing the bottle like a manga panel. Cinematic rim lighting, premium high-contrast feel, sharp focus on the bottle, subtle red glow. No text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

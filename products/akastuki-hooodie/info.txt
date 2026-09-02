@@ -1,0 +1,77 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Akastuki Hooodie
+SLUG         : akastuki-hooodie
+BUMPA ID     : 1123121
+WOO TYPE     : variable
+PARENT SKU   : OSN-1123121
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+  - Shop by Anime > Naruto
+
+TAGS: Akatsuki hoodie, Naruto hoodie, anime hoodie, Akatsuki red cloud, Naruto merch, pullover hoodie, anime streetwear, Itachi hoodie
+FRANCHISE: Naruto    CHARACTER: Akatsuki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦18,000
+Total stock   : 499
+VARIATIONS (attribute: Size)
+  M              | ₦18,000 | stock 100  | SKU OSN-1123121-M
+  L              | ₦18,000 | stock 100  | SKU OSN-1123121-L
+  XL             | ₦18,000 | stock 99   | SKU OSN-1123121-XL
+  2XL            | ₦18,000 | stock 100  | SKU OSN-1123121-2XL
+  XXXL           | ₦18,000 | stock 100  | SKU OSN-1123121-XXXL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Red clouds. Rogue ninja energy. Pulled over your head.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel the rogue-ninja organisation in this thick, brushed-fleece pullover hoodie. Bold Akatsuki red-cloud graphics, ribbed cuffs and hem, and a roomy unisex streetwear fit built for everyday wear. Fan-made, anime-inspired.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Throw on the cloak of the most feared organisation in the ninja world. This Akatsuki pullover hoodie carries the iconic red-cloud motif across a heavyweight, brushed-fleece build that keeps the warmth in and the look sharp. Whether you ride with Itachi, Pain or Deidara, this is how you wear the roster.</p><p>Cut for a relaxed unisex streetwear fit, it layers clean over a tee or zips your whole fit together. A fan-made, anime-inspired piece for Naruto fans who want their loyalty loud.</p><ul><li>Pullover hoodie with bold Akatsuki red-cloud graphic</li><li>Brushed-fleece interior for cosy warmth</li><li>Ribbed cuffs and hem to hold their shape</li><li>Front kangaroo pocket for hands and essentials</li><li>Unisex streetwear fit; relaxed and roomy</li><li>Fabric blend: thick cotton and polyester</li><li>Sizes: M, L, XL, 2XL, XXXL</li><li>Colour choice available; specify your preferred colour at checkout</li><li>Care: machine wash cold, inside-out; do not bleach</li><li>Fan-made and anime-inspired; not official or affiliated</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Iconic Akatsuki red-cloud graphic from Naruto
+  • Thick cotton-polyester blend with brushed-fleece interior
+  • Ribbed cuffs and hem plus a front kangaroo pocket
+  • Relaxed unisex streetwear fit, sizes M to XXXL
+  • Colour choice available at checkout
+  • Fan-made, anime-inspired design
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (56 chars)        : Akatsuki Hoodie - Naruto Anime Pullover | Otaku Store NG
+Meta Description (154 chars) : Akatsuki red-cloud pullover hoodie for Naruto fans. Thick brushed-fleece, ribbed cuffs, unisex fit, sizes M-XXXL. ₦18,000. Ships nationwide and worldwide.
+Focus keyword                       : Akatsuki hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Akatsuki red-cloud pullover hoodie from Naruto, unisex streetwear fit with front kangaroo pocket
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of an Akatsuki red-cloud pullover hoodie on an invisible mannequin, ink black #111111 background, paper white #FAFAFA key lighting, single manga-red #E2261C accent on the cloud graphic; halftone dot texture, dynamic speed lines and ink splatter framing the garment in a manga panel layout; premium, cinematic, high-detail fabric weave, brushed-fleece interior hinted at the cuff. Fan-made, anime-inspired.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

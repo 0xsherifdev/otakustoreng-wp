@@ -1,0 +1,76 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Yuta B Jersey
+SLUG         : yuta-b-jersey
+BUMPA ID     : 4846026
+WOO TYPE     : variable
+PARENT SKU   : OSN-4846026
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Jerseys
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Yuta Okkotsu, Jujutsu Kaisen, anime jersey, all-over-print jersey, JJK merch, dye sublimation jersey, anime streetwear, unisex jersey
+FRANCHISE: Jujutsu Kaisen    CHARACTER: Yuta Okkotsu
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦23,000
+Total stock   : 250
+VARIATIONS (attribute: Size)
+  M              | ₦23,000 | stock 50   | SKU OSN-4846026-M
+  L              | ₦23,000 | stock 50   | SKU OSN-4846026-L
+  XL             | ₦23,000 | stock 50   | SKU OSN-4846026-XL
+  2XL            | ₦23,000 | stock 50   | SKU OSN-4846026-2XL
+  3XL            | ₦23,000 | stock 50   | SKU OSN-4846026-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Unleash Special Grade power on the streets
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+All-over-print Yuta Okkotsu jersey in vivid dye-sublimated graphics. Lightweight, breathable 100% polyester with edge-to-edge Jujutsu Kaisen energy. Built for cons, watch parties and everyday anime streetwear. Unisex fit, true to size.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the quiet menace of Yuta Okkotsu, the Special Grade sorcerer who carries Rika's cursed energy. This all-over-print anime jersey wraps you in vivid, edge-to-edge dye-sublimated graphics inspired by Jujutsu Kaisen, so the artwork never cracks, peels or fades the way cheap screen prints do. The colour runs corner to corner across a lightweight, breathable build made to keep you cool through long convention days and late-night watch parties.</p><p>Cut for an easy unisex fit, it layers clean over a tee or wears bold on its own. Throw it on for match-watch nights, cosplay-adjacent streetwear, or just to fly your JJK colours. Ships from Nigeria nationwide and worldwide with secure checkout and easy returns.</p><ul><li><strong>Material:</strong> 100% polyester, lightweight and breathable</li><li><strong>Print:</strong> All-over dye-sublimation, vivid edge-to-edge graphics that won't peel or fade</li><li><strong>Fit:</strong> Unisex, relaxed jersey cut</li><li><strong>Sizing:</strong> True to size in M, L, XL, 2XL, 3XL; between sizes? Size up</li><li><strong>Care:</strong> Machine wash cold inside-out; do not iron directly on the print</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • All-over-print Yuta Okkotsu graphics, vivid edge to edge
+  • Lightweight, breathable 100% polyester for all-day wear
+  • Dye-sublimated print that won't crack, peel or fade
+  • Unisex fit, true to size (M-3XL); size up if in between
+  • Built for conventions, watch parties and streetwear layering
+  • Ships nationwide and worldwide with secure checkout
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (42 chars)        : Yuta Okkotsu Anime Jersey | Jujutsu Kaisen
+Meta Description (147 chars) : Shop the Yuta Okkotsu anime jersey - all-over-print Jujutsu Kaisen design, breathable polyester, unisex fit. ₦23,000. Ships nationwide & worldwide.
+Focus keyword                       : Yuta Okkotsu anime jersey
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Yuta Okkotsu Jujutsu Kaisen all-over-print anime jersey in 100% polyester, front view
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga aesthetic studio product shot of an all-over-print anime baseball jersey featuring Yuta Okkotsu from Jujutsu Kaisen, displayed on an invisible mannequin floating against an ink-black #111111 background. High-contrast monochrome artwork with halftone screentone dots and manga speed lines radiating outward, a single bold manga-red #E2261C accent glowing along the collar and cuffs and in a cursed-energy slash behind the figure. Brush-ink splatter scattered across the frame, paper-white #FAFAFA highlights on the fabric folds, manga panel border framing. Premium anime-streetwear mood, cinematic dramatic lighting, sharp focus on the jersey, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

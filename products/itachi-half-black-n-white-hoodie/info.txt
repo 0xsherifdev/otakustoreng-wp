@@ -1,0 +1,76 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Itachi Half Black N White Hoodie
+SLUG         : itachi-half-black-n-white-hoodie
+BUMPA ID     : 1123132
+WOO TYPE     : variable
+PARENT SKU   : OSN-1123132
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+  - Shop by Anime > Naruto
+
+TAGS: Itachi hoodie, Naruto hoodie, Itachi Uchiha, Akatsuki, Sharingan, anime hoodie, Naruto merch, split black white hoodie, anime streetwear, unisex pullover hoodie
+FRANCHISE: Naruto    CHARACTER: Itachi Uchiha
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦28,000
+Total stock   : 500
+VARIATIONS (attribute: Size)
+  M              | ₦28,000 | stock 100  | SKU OSN-1123132-M
+  L              | ₦28,000 | stock 100  | SKU OSN-1123132-L
+  XL             | ₦28,000 | stock 100  | SKU OSN-1123132-XL
+  2XL            | ₦28,000 | stock 100  | SKU OSN-1123132-2XL
+  XXXL           | ₦28,000 | stock 100  | SKU OSN-1123132-XXXL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Split-panel Sharingan. Half shadow, half light.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Anime-inspired Itachi pullover hoodie split clean down the middle: black on white, one crimson Sharingan staring out. Village symbols run the sleeves, brushed-fleece lining keeps it warm. Unisex streetwear fit built to be worn on repeat.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Two halves of the same legend. The Itachi Half Black N White Hoodie cuts a hard vertical line straight down the front, dropping a manga-panel print of Itachi Uchiha across the divide with a single crimson Sharingan locked on whoever's in front of you. The kanji reads "Uchiha Itachi," and a red Akatsuki-style cloud sits on each shoulder for fans who know the lore.</p><p>Look closer and the detail keeps coming: the hidden-village headband symbols march down both sleeves like a kill-count, the split colourway stays crisp wherever you throw it, and the brushed-fleece interior makes it the layer you reach for first. This is a fan-made, anime-inspired piece for the Naruto faithful, not affiliated with or endorsed by the official rights holders. Wear the roster.</p><ul><li>Pullover hoodie with split half-black, half-white colourway and manga-panel Itachi graphic</li><li>Single red Sharingan eye, "Uchiha Itachi" kanji, and Akatsuki-style cloud detailing</li><li>Hidden-village headband symbols printed down both sleeves</li><li>Brushed-fleece interior for warmth; ribbed cuffs and hem hold their shape</li><li>Front kangaroo pocket and adjustable drawstring hood</li><li>Unisex streetwear fit; sizes M, L, XL, 2XL and XXXL</li><li>Made from a cotton and polyester blend; choose your fabric preference at checkout</li><li>Machine wash cold, inside-out; hang or line dry to protect the print</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Split half-black, half-white panel design with manga-style Itachi print
+  • Single crimson Sharingan eye and 'Uchiha Itachi' kanji detailing
+  • Hidden-village headband symbols running down both sleeves
+  • Brushed-fleece interior with ribbed cuffs and hem for warmth
+  • Unisex streetwear fit in M, L, XL, 2XL and XXXL
+  • Cotton/polyester blend, with fabric preference selectable at checkout
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (48 chars)        : Itachi Half Black N White Hoodie | Naruto Hoodie
+Meta Description (153 chars) : Anime-inspired Itachi split black & white pullover hoodie with Sharingan print, sleeve symbols and fleece lining. Unisex fit, M-XXXL. Ships from Nigeria.
+Focus keyword                       : Itachi hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Itachi Uchiha split black and white pullover hoodie with manga-style Sharingan eye print, kanji and Akatsuki cloud, worn by a model
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a split half-black, half-white pullover hoodie laid flat on paper-white #FAFAFA backdrop. Ink black #111111 left panel meets paper-white right panel down a sharp vertical seam, manga-panel print of Itachi Uchiha's face with a single glowing manga-red #E2261C Sharingan eye across the divide, small red cloud motif on the shoulder, headband symbols down the sleeve. Halftone dot shading, bold speed lines radiating from the eye, ink splatter flicks in the corners, framed inside subtle manga panel borders. Premium, cinematic, high-contrast streetwear catalogue lighting, single red accent only.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

@@ -1,0 +1,73 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Eren Street Wear Hoodie
+SLUG         : eren-street-wear-hoodie
+BUMPA ID     : 1286812
+WOO TYPE     : simple
+PARENT SKU   : OSN-1286812
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+  - Shop by Anime > Attack on Titan
+
+TAGS: Eren hoodie, Attack on Titan hoodie, Eren Yeager, anime hoodie, AOT merch, Survey Corps, anime streetwear, pullover hoodie
+FRANCHISE: Attack on Titan    CHARACTER: Eren Yeager
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦30,000
+Total stock   : 1000
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Suit up for the fight beyond the walls
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+An Attack on Titan-inspired pullover hoodie built for Eren fans. Brushed-fleece interior, ribbed cuffs and hem, roomy kangaroo pocket, and a bold manga-style graphic in an easy unisex streetwear fit. Wear the roster.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the relentless drive of Eren Yeager with this Attack on Titan-inspired pullover hoodie. The graphic captures that on-the-edge intensity from beyond the walls, printed bold so it reads from across the room. This is fan-made gear designed for Survey Corps die-hards who want their everyday fit to do the talking.</p><p>Cut in a relaxed unisex streetwear silhouette, it layers easy over a tee and pairs just as well with joggers or denim. Soft brushed-fleece on the inside keeps the warmth in for cooler nights, late train rides, and weekend rewatches.</p><ul><li>Pullover hoodie with an Attack on Titan / Eren Yeager-inspired graphic print</li><li>Brushed-fleece interior for cosy warmth</li><li>Ribbed cuffs and hem to hold their shape</li><li>Roomy kangaroo front pocket</li><li>Drawstring hood</li><li>Unisex streetwear fit, true to size</li><li>Material: cotton</li><li>Care: machine wash cold, inside-out; hang or tumble dry low to protect the print</li><li>Fan-made and anime-inspired; not official or affiliated with the rights holders</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Attack on Titan / Eren Yeager-inspired bold graphic print
+  • Brushed-fleece interior for everyday warmth
+  • Ribbed cuffs and hem plus a roomy kangaroo pocket
+  • Relaxed unisex streetwear fit, true to size
+  • Cotton build, machine washable inside-out
+  • Fan-made anime gear, not official or affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (48 chars)        : Eren Street Wear Hoodie | Attack on Titan Hoodie
+Meta Description (155 chars) : Attack on Titan-inspired Eren pullover hoodie. Brushed fleece, kangaroo pocket, unisex streetwear fit. ₦30,000. Ships from Nigeria, nationwide & worldwide.
+Focus keyword                       : Eren hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Eren Yeager Attack on Titan-inspired pullover hoodie with bold manga graphic and kangaroo pocket
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a pullover hoodie on a faceless mannequin, centered. Ink black #111111 background, paper white #FAFAFA hoodie, single manga-red #E2261C accent on the drawstrings and graphic. Halftone dot shading, dynamic speed lines radiating from the chest graphic, ink splatter in the corners, manga panel border framing. Cinematic rim lighting, premium streetwear catalog feel, high contrast, sharp detail.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

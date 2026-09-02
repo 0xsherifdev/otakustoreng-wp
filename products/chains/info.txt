@@ -1,0 +1,81 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Chains
+SLUG         : chains
+BUMPA ID     : 1317034
+WOO TYPE     : simple
+PARENT SKU   : OSN-1317034
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Chains & Necklaces
+
+TAGS: anime chain, anime necklace, pendant necklace, anime jewelry, otaku accessories, stainless steel chain, unisex chain, anime-inspired
+FRANCHISE: Generic Anime    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦8,500
+Total stock   : 500
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Anime-inspired pendant chain. Wear the roster.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+An anime-inspired pendant chain built for everyday flex. Tarnish-resistant metal, an adjustable fit and a clean pendant that pairs with tees, hoodies and full fits. Subtle enough for school, bold enough for the convention floor.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some drips need to talk. This anime-inspired pendant chain is the quiet flex that finishes a fit, whether you are stacking it over a graphic tee or letting it sit solo under a hoodie. The pendant catches the light, the chain keeps its shine, and the whole piece reads premium without screaming for attention.</p>
+<p>Crafted from durable, tarnish-resistant metal and finished for everyday wear, it is the kind of accessory you put on once and forget you are wearing, until someone asks where you copped it. Otaku Store NG: wear the roster.</p>
+<ul>
+<li>Material: durable, tarnish-resistant stainless-steel / alloy with a polished finish</li>
+<li>Style: anime-inspired pendant necklace, clean unisex design</li>
+<li>Fit: adjustable / standard chain length, suits most necklines</li>
+<li>Pendant: lightweight and comfortable for all-day wear</li>
+<li>Versatility: layers easily over tees, hoodies and cosplay fits</li>
+<li>Care: wipe clean with a soft cloth; keep dry to preserve the shine</li>
+<li>Includes: 1 pendant chain</li>
+<li>Note: fan / anime-inspired design, not official or affiliated with any studio</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Tarnish-resistant metal that keeps its shine wear after wear
+  • Adjustable, unisex fit that sits clean on any neckline
+  • Lightweight pendant comfortable enough for all-day wear
+  • Layers effortlessly over tees, hoodies and cosplay fits
+  • Anime-inspired design, fan-made and not affiliated with any studio
+  • Wipe-clean finish for low-maintenance everyday flex
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : Anime Pendant Chain Necklace | Otaku Store NG
+Meta Description (148 chars) : Anime-inspired pendant chain in tarnish-resistant metal with an adjustable, unisex fit. Layer it over any fit. ₦8,500. Ships from Nigeria worldwide.
+Focus keyword                       : anime pendant chain
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.png  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Anime-inspired pendant chain necklace in tarnish-resistant metal on a clean studio backdrop
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of an anime-inspired metal pendant chain necklace laid on a flat surface, ink black #111111 background with paper white #FAFAFA highlights and a single manga-red #E2261C accent ribbon. Halftone dot texture, dynamic speed lines radiating behind the pendant, subtle ink splatter framing the edges, manga panel border. Polished silver chain catching cinematic rim light, shallow depth of field, premium product photography, high contrast, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

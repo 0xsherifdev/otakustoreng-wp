@@ -1,0 +1,83 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Jjk keychains
+SLUG         : jjk-keychains
+BUMPA ID     : 1734006
+WOO TYPE     : variable
+PARENT SKU   : OSN-1734006
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Jujutsu Kaisen keychain, JJK keychain, anime acrylic charm, Gojo keychain, Sukuna keychain, Megumi keychain, anime keychain, anime accessories
+FRANCHISE: Jujutsu Kaisen    CHARACTER: Gojo, Sukuna, Yuji, Megumi, Nanami
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦3,000
+Total stock   : 3027
+VARIATIONS (attribute: Style)
+  1              | ₦3,000 | stock 503  | SKU OSN-1734006-1
+  2              | ₦3,000 | stock 504  | SKU OSN-1734006-2
+  3              | ₦3,000 | stock 505  | SKU OSN-1734006-3
+  4              | ₦3,000 | stock 505  | SKU OSN-1734006-4
+  5              | ₦3,000 | stock 505  | SKU OSN-1734006-5
+  6              | ₦3,000 | stock 505  | SKU OSN-1734006-6
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Acrylic JJK charms. Clip your favourite sorcerer.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Double-sided acrylic JJK keychains in 6 character styles, from Gojo and Sukuna to Megumi, Yuji and Nanami. Crisp printed charm, sturdy metal clasp and split ring to clip onto your keys, bag or zipper.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Rep your favourite sorcerer everywhere you go. These anime-inspired Jujutsu Kaisen acrylic keychains pack vivid, double-sided character art into a clear cutout charm, built to clip onto keys, backpacks, pencil cases and bag zippers. Pick your fighter from six standout styles spanning the Tokyo Jujutsu High roster.</p><p>The clear acrylic body keeps colours sharp while a metal swivel clasp and split ring make it quick to attach and swap. Lightweight, slim and tough enough for daily carry, it is the easy way to add a little cursed energy to your everyday setup.</p><ul><li>Material: clear acrylic charm with double-sided printed artwork</li><li>Hardware: metal lobster-style swivel clasp plus split key ring</li><li>Style options: 6 JJK characters including Gojo, Sukuna, Megumi, Yuji and Nanami</li><li>Use: keys, backpacks, school bags, pencil cases, zipper pulls and lanyards</li><li>Design: anime-inspired fan art, slim and lightweight for everyday carry</li><li>Care: wipe clean with a dry or slightly damp cloth; avoid harsh solvents</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Double-sided acrylic charm with vivid, fade-resistant printed art
+  • 6 character styles across the JJK roster, including Gojo and Sukuna
+  • Metal swivel clasp and split ring clip onto keys, bags and zippers
+  • Slim and lightweight, built for everyday carry
+  • Affordable way to rep your favourite sorcerer
+  • Anime-inspired fan design, not affiliated with the official series
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : Jujutsu Kaisen Keychains | Acrylic JJK Charms
+Meta Description (140 chars) : Double-sided acrylic Jujutsu Kaisen keychains in 6 styles - Gojo, Sukuna, Megumi, Yuji, Nanami. Metal clasp, clips to keys and bags. ₦3,000.
+Focus keyword                       : Jujutsu Kaisen keychain
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+  05.jpg  (gallery)
+  06.jpg  (gallery)
+  07.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Set of six double-sided acrylic Jujutsu Kaisen keychains with metal clasps, featuring Gojo, Sukuna, Megumi, Yuji and Nanami
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of an acrylic Jujutsu Kaisen-inspired keychain charm with a metal swivel clasp, suspended against an ink black #111111 background with paper white #FAFAFA negative space; a single manga-red #E2261C accent stripe, halftone dot texture and diagonal speed lines behind the charm; subtle ink splatter and manga panel borders framing the composition; premium, cinematic, high-contrast product photography, sharp focus on the clear acrylic and chrome hardware.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

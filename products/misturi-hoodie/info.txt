@@ -1,0 +1,89 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Misturi Hoodie
+SLUG         : misturi-hoodie
+BUMPA ID     : 1123114
+WOO TYPE     : variable
+PARENT SKU   : OSN-1123114
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+  - Shop by Anime > Demon Slayer
+
+TAGS: Mitsuri hoodie, Mitsuri Kanroji, Demon Slayer hoodie, Love Hashira, anime hoodie, Kimetsu no Yaiba, pullover hoodie, anime streetwear
+FRANCHISE: Demon Slayer    CHARACTER: Mitsuri Kanroji
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦25,000
+Total stock   : 500
+VARIATIONS (attribute: Size)
+  M              | ₦25,000 | stock 100  | SKU OSN-1123114-M
+  L              | ₦25,000 | stock 100  | SKU OSN-1123114-L
+  XL             | ₦25,000 | stock 100  | SKU OSN-1123114-XL
+  2XL            | ₦25,000 | stock 100  | SKU OSN-1123114-2XL
+  XXXL           | ₦25,000 | stock 100  | SKU OSN-1123114-XXXL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Channel the Love Hashira in brushed-fleece comfort
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Bring Mitsuri Kanroji's Love Hashira energy to the streets. This anime-inspired pullover hoodie pairs bold Demon Slayer graphics with a cozy brushed-fleece interior, ribbed cuffs and a kangaroo pocket. Unisex streetwear fit, built to wear the roster.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Lead with your heart like the Love Hashira herself. The Mitsuri Hoodie channels Mitsuri Kanroji's fierce-yet-gentle spirit into a fan-favourite Demon Slayer piece, blending vivid anime-inspired artwork with everyday streetwear comfort. The brushed-fleece interior keeps you warm through cold mornings and late-night marathons alike.</p>
+<p>Cut for a relaxed unisex fit, it layers easily over tees or under a jacket so you can rep your roster anywhere. Pick your colour at checkout and make it yours.</p>
+<ul>
+<li>Pullover hoodie with bold Mitsuri Kanroji / Demon Slayer anime-inspired graphic</li>
+<li>Made with thick cotton and polyester blend for structure and warmth</li>
+<li>Soft brushed-fleece interior lining</li>
+<li>Ribbed cuffs and hem to hold their shape</li>
+<li>Front kangaroo pocket and adjustable drawstring hood</li>
+<li>Unisex streetwear fit; sizes M, L, XL, 2XL and XXXL</li>
+<li>Colour selectable at checkout</li>
+<li>Machine wash cold, inside-out; do not tumble dry hot</li>
+<li>Fan-made design, anime-inspired and not affiliated with or endorsed by the official rights holders</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Mitsuri Kanroji Love Hashira anime-inspired graphic
+  • Cozy brushed-fleece interior for real warmth
+  • Thick cotton and polyester blend, built to last
+  • Ribbed cuffs, hem and a roomy kangaroo pocket
+  • Unisex streetwear fit in sizes M to XXXL
+  • Colour of your choice, selected at checkout
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (42 chars)        : Mitsuri Hoodie | Demon Slayer Anime Hoodie
+Meta Description (152 chars) : Mitsuri Kanroji Demon Slayer hoodie. Brushed-fleece pullover, thick cotton-poly blend, unisex fit, sizes M-XXXL. Anime-inspired streetwear from ₦25,000.
+Focus keyword                       : Mitsuri hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Mitsuri Kanroji Demon Slayer anime-inspired pullover hoodie with kangaroo pocket and ribbed cuffs
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a pullover hoodie featuring a Mitsuri Kanroji Love Hashira inspired graphic. Ink black #111111 background, paper white #FAFAFA hoodie, single manga-red #E2261C accent on the print and drawstrings. Halftone dot shading, dynamic speed lines radiating behind the garment, subtle ink splatter, framed inside a bold manga panel border. Premium, cinematic lighting, high detail, crisp fabric texture showing ribbed cuffs and kangaroo pocket.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

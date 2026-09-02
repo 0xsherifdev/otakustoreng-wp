@@ -1,0 +1,73 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Luffy Gear 5 Figurine
+SLUG         : luffy-gear-5-figurine
+BUMPA ID     : 1873959
+WOO TYPE     : simple
+PARENT SKU   : OSN-1873959
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Figurines
+  - Shop by Anime > One Piece
+
+TAGS: Luffy Gear 5 figurine, One Piece figurine, Sun God Nika, Monkey D. Luffy statue, anime figurine Nigeria, One Piece collectible, Gear 5 Luffy, PVC anime figure
+FRANCHISE: One Piece    CHARACTER: Monkey D. Luffy
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦8,000
+Total stock   : 10
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Sun God Nika, mid-air and wild
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Awaken the Sun God on your shelf. This Luffy Gear 5 figurine captures Nika mid-flight with snow-white hair, swirling translucent blue and purple energy, and clear flight-pose stand. A bold One Piece centerpiece for any collector.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>The Drums of Liberation hit your display. This anime-inspired Luffy Gear 5 figurine freezes Monkey D. Luffy in full Sun God Nika mode, mid-air with that signature grin, snow-white hair flaring out and translucent blue-to-purple energy coiling around him like living smoke. Mounted on a clear flight-pose stand, he looks like he is bouncing straight off the panel.</p><p>Hand-detailed and pre-painted PVC sculpt built for shelf display, not rough play. Pull it onto your desk, your gaming setup, or your One Piece shrine and let the roster do the talking.</p><ul><li>Character: Monkey D. Luffy in Gear 5 (Sun God Nika) form</li><li>Series: One Piece (fan / anime-inspired, not affiliated with or endorsed by the rights holders)</li><li>Material: pre-painted PVC with translucent effect parts</li><li>Style: dynamic mid-air action pose with swirling energy aura</li><li>Includes: figurine, clear flight-pose display base and support rod</li><li>Use: collector display piece for shelf, desk or cabinet (not a toy)</li><li>Care: keep out of direct sunlight, dust gently with a soft dry brush or cloth</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Luffy in iconic Gear 5 Sun God Nika form, mid-air action pose
+  • Snow-white hair with translucent blue and purple energy effect parts
+  • Pre-painted PVC sculpt with crisp, hand-finished detailing
+  • Clear flight-pose stand keeps him floating above the base
+  • Premium One Piece display piece for shelf, desk or cabinet
+  • Straw hat slung on the back for that authentic Nika silhouette
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : Luffy Gear 5 Figurine | One Piece Nika Statue
+Meta Description (152 chars) : Luffy Gear 5 figurine in Sun God Nika form with translucent energy effects and flight stand. Anime-inspired One Piece collectible. Ships across Nigeria.
+Focus keyword                       : Luffy Gear 5 figurine
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Luffy Gear 5 Sun God Nika figurine with white hair and translucent blue-purple energy in a mid-air pose on a clear flight stand
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a One Piece Luffy Gear 5 (Sun God Nika) collector figurine, ink black #111111 background, paper white #FAFAFA rim light, single manga-red #E2261C accent glow. Figure shown mid-air on a clear flight stand, snow-white hair flaring, translucent blue and purple energy aura, straw hat on the back. Halftone dot texture, dynamic speed lines and ink splatter radiating outward, manga panel framing. Premium, cinematic, high-detail collectible photography, dramatic single-source lighting, shallow depth of field.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

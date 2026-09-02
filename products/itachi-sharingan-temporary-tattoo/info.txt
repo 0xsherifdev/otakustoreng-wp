@@ -1,0 +1,83 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Itachi Sharingan Temporary Tattoo
+SLUG         : itachi-sharingan-temporary-tattoo
+BUMPA ID     : 1229031
+WOO TYPE     : simple
+PARENT SKU   : OSN-1229031
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Stickers
+  - Shop by Anime > Naruto
+
+TAGS: Itachi temporary tattoo, Sharingan tattoo, Mangekyou Sharingan, Naruto temporary tattoo, Itachi Uchiha, anime temporary tattoo, cosplay tattoo, Naruto fan art
+FRANCHISE: Naruto    CHARACTER: Itachi Uchiha
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦2,500
+Total stock   : 18
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Wear the Mangekyou. No commitment required.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel Itachi with a Mangekyou Sharingan temporary tattoo. A hyper-detailed weeping eye wrapped in ravens and ink splatter, applied with water in seconds. Skin-safe, sweat-resistant and convention-ready, peeling off clean whenever you want.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Activate your kekkei genkai without a single needle. This anime-inspired temporary tattoo captures Itachi Uchiha's Mangekyou Sharingan as a hyper-realistic weeping eye, framed by his signature crows, feathered shadow and ink-splatter detail. The crimson tomoe pops against deep black linework so it reads from across the cosplay floor.</p>
+<p>Application is fast: peel the clear film, press the design face-down on clean dry skin, hold a damp cloth over it for around 20-30 seconds, then slide the backing away. Set it on a forearm, calf or shoulder and you are convention-ready. When you are done, lift an edge with oil, lotion or tape and it removes clean, so you can run a different look next time.</p>
+<ul>
+<li>Design: Itachi-inspired Mangekyou Sharingan eye with crows, feather and ink-splatter accents</li>
+<li>Format: pre-printed water-transfer temporary tattoo sheet (fan art, not affiliated with the franchise)</li>
+<li>Application: water-activated, sticks in roughly 20-30 seconds, no heat or needles</li>
+<li>Wear: skin-safe ink with a realistic finish, holds up to light sweat and daily movement</li>
+<li>Removal: peels off clean with oil, lotion or tape, no scrubbing</li>
+<li>Placement: ideal for forearm, bicep, calf, shoulder or back of hand</li>
+<li>Best for: cosplay, conventions, photoshoots, fan meetups and everyday flexing</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Itachi Mangekyou Sharingan in hyper-detailed weeping-eye realism
+  • Water-activated, applies in roughly 20-30 seconds, no needles
+  • Skin-safe ink with a sharp crimson-and-black finish
+  • Holds up to light sweat and movement, cosplay-ready
+  • Peels off clean with oil or lotion when you are done
+  • Sized for forearm, calf, shoulder or back of hand
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (50 chars)        : Itachi Sharingan Temporary Tattoo | Naruto Fan Art
+Meta Description (146 chars) : Itachi Mangekyou Sharingan temporary tattoo. Water-applied, skin-safe, sweat-resistant and cosplay-ready, peels off clean. Naruto fan art. ₦2,500.
+Focus keyword                       : Itachi Sharingan temporary tattoo
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Itachi Mangekyou Sharingan temporary tattoo showing a realistic crimson weeping eye with crows and ink splatter applied on a forearm
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of an Itachi Mangekyou Sharingan temporary tattoo applied to a forearm. Ink black #111111 background, paper white #FAFAFA negative space, single manga-red #E2261C accent glowing in the Sharingan eye. Halftone dot shading, dynamic speed lines radiating outward, ink splatter and silhouetted crows in flight across manga panel borders. The realistic crimson tomoe eye is the hero, crisp black linework, premium cinematic lighting with a soft red rim glow. High detail, editorial merch photography, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

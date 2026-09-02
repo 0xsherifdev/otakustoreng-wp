@@ -1,0 +1,77 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Eren Titans T Shirt
+SLUG         : eren-titans-t-shirt
+BUMPA ID     : 1125479
+WOO TYPE     : variable
+PARENT SKU   : OSN-1125479
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+  - Shop by Anime > Attack on Titan
+
+TAGS: Eren Titans T Shirt, Attack on Titan, Eren Yeager, Attack Titan, anime t-shirt, Shingeki no Kyojin, manga tee, anime merch Nigeria
+FRANCHISE: Attack on Titan    CHARACTER: Eren Yeager
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦10,500
+Total stock   : 500
+VARIATIONS (attribute: Size)
+  M              | ₦10,500 | stock 100  | SKU OSN-1125479-M
+  L              | ₦10,500 | stock 100  | SKU OSN-1125479-L
+  XL             | ₦10,500 | stock 100  | SKU OSN-1125479-XL
+  2XL            | ₦10,500 | stock 100  | SKU OSN-1125479-2XL
+  XXXL           | ₦10,500 | stock 100  | SKU OSN-1125479-XXXL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Eren's Attack Titan roars in raw ink line-art.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel the rage of the Rumbling with this Attack on Titan tee. A screaming Attack Titan rendered in bold black-and-white line-art, framed in a manga panel beside the "Shingeki no Kyojin" kanji. Soft cotton, unisex regular fit, crew neck.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Devote your heart. This fan-designed <strong>Eren Titans T Shirt</strong> captures Eren Yeager's Attack Titan mid-roar, drawn in raw black-and-white line-art and locked inside a clean manga panel border. The vertical <em>Shingeki no Kyojin</em> kanji finishes the frame, so the whole graphic reads like a page torn straight out of the manga.</p><p>Cut for everyday wear in a unisex regular fit, it sits clean under a hoodie or stands alone for any Attack on Titan rotation. Anime-inspired design by Otaku Store NG; not affiliated with or endorsed by the rights holders.</p><ul><li><strong>Print:</strong> high-detail Attack Titan line-art in a manga panel with vertical kanji</li><li><strong>Material:</strong> soft, breathable cotton fabric</li><li><strong>Fit:</strong> unisex regular fit</li><li><strong>Neckline:</strong> classic crew neck</li><li><strong>Colour options:</strong> black or white</li><li><strong>Sizes:</strong> M, L, XL, 2XL, XXXL</li><li><strong>Durability:</strong> fade-resistant graphic built to survive the wash</li><li><strong>Care:</strong> machine wash cold, inside-out; hang or tumble dry low; do not iron directly on the print</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold black-and-white Attack Titan line-art framed in a manga panel
+  • Vertical Shingeki no Kyojin kanji completes the authentic manga look
+  • Soft, breathable cotton in a unisex regular fit
+  • Classic crew neck with a fade-resistant, wash-durable print
+  • Choose black or white; sizes M through XXXL
+  • Anime-inspired fan design from Otaku Store NG
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (41 chars)        : Eren Titans T Shirt | Attack on Titan Tee
+Meta Description (142 chars) : Eren's Attack Titan in bold manga line-art on a soft cotton Attack on Titan tee. Unisex fit, crew neck, black or white, sizes M-XXXL. ₦10,500.
+Focus keyword                       : Eren Titans T Shirt
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Eren Titans T Shirt with black-and-white line-art of Eren's screaming Attack Titan in a manga panel beside Shingeki no Kyojin kanji
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a folded crew-neck cotton t-shirt, ink black #111111 garment on a paper white #FAFAFA backdrop, featuring a high-contrast black-and-white line-art print of a screaming Attack Titan inside a thin manga panel border with vertical Japanese kanji. Cinematic single-light setup, manga-red #E2261C accent on a small folded tag and a thin underline, halftone dot texture, dynamic speed lines and a subtle ink splatter framing the composition, premium editorial merch photography, sharp focus, high detail.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

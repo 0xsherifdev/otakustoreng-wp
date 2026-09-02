@@ -1,0 +1,75 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Naruto Keychain
+SLUG         : naruto-keychain-1146372
+BUMPA ID     : 1146372
+WOO TYPE     : variable
+PARENT SKU   : OSN-1146372
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Naruto
+
+TAGS: Naruto keychain, anime keychain, ninja charm keyring, Akatsuki, Hidden Leaf, shuriken charm, anime accessories, metal keychain
+FRANCHISE: Naruto    CHARACTER: Naruto
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦3,500
+Total stock   : 995
+VARIATIONS (attribute: Style)
+  1              | ₦3,500 | stock 496  | SKU OSN-1146372-1
+  2              | ₦3,500 | stock 499  | SKU OSN-1146372-2
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Shinobi charms on a split-ring keychain
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Carry the ninja way wherever you go. This Naruto-inspired metal keychain stacks shinobi charms — shuriken, kunai and clan icons — on a sturdy split ring. Pick your style and clip it to keys or a bag.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Every shinobi carries their tools, and now so can you. This Naruto-inspired keychain clusters miniature ninja charms — throwing stars, a kunai blade and recognisable clan icons like the Hidden Leaf plate and the Akatsuki red cloud — onto a solid metal split ring. Detailed, weighty in the hand and built to ride on your keys or bag day after day.</p><p>Available in two charm layouts so you can match your favourite arc. A clean, fan-made accessory that finishes any otaku setup without screaming for attention — until the right person spots it.</p><ul><li>Design: Naruto-inspired ninja charm keychain (fan-made, anime-inspired, not affiliated)</li><li>Style options: choose Style 1 or Style 2 charm layout at checkout</li><li>Charms: mix of shuriken / throwing star, kunai, and clan-icon pendants (Konoha plate, Akatsuki cloud)</li><li>Material: durable metal alloy with a tarnish-resistant finish</li><li>Hardware: standard split key ring with charm links</li><li>Use: clip to keys, backpack, belt loop or zip pull</li><li>Care: wipe clean with a soft dry cloth; keep away from moisture</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Stacked metal shinobi charms — shuriken, kunai and clan icons
+  • Two style options to match your favourite arc
+  • Durable alloy with a tarnish-resistant finish
+  • Solid split ring clips to keys, bags or belt loops
+  • Fan-made Naruto-inspired design, subtle yet unmistakable
+  • Just ₦3,500 — easy everyday otaku flex
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (54 chars)        : Naruto Keychain | Ninja Charm Keyring - Otaku Store NG
+Meta Description (144 chars) : Naruto-inspired metal keychain with shuriken, kunai & clan charms. Two styles, durable alloy, ₦3,500. Ships from Nigeria nationwide & worldwide.
+Focus keyword                       : Naruto keychain
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Naruto-inspired metal keychains with shuriken, kunai and clan charms in two styles
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a Naruto-inspired metal ninja charm keychain — clustered shuriken, kunai and clan-icon charms on a split ring. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent glowing on a red-cloud charm. Halftone dot texture, sharp speed lines radiating outward, subtle ink splatter, framed in a clean manga panel. Premium, cinematic, high-contrast, glossy metal reflections, dramatic side lighting.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

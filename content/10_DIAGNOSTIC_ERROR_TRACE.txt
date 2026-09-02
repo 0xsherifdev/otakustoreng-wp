@@ -1,0 +1,64 @@
+OTAKU STORE NG — TEMP DIAGNOSTIC: find what adds the checkout "required fields" error
+======================================================================================
+Purpose: The international (Kenya) checkout fails with "Please fill in all required
+fields". Logs proved it's a VALIDATION notice (not a crash): WooCommerce's order tracer
+stops right before validate_checkout, and wc_logger shows no PHP fatal. Some plugin is
+calling wc_add_notice('...required fields...', 'error') during checkout validation and
+checking the native billing_state / shipping_state, which Terminal never fills.
+
+This snippet intercepts every error notice containing "required" and logs a full
+backtrace, so we can see the EXACT file/function adding it.
+
+THIS IS TEMPORARY — remove (or deactivate) it once we've identified the source.
+
+
+HOW TO USE
+----------
+1. WPCode > Code Snippets > + Add Snippet > "Add Your Custom Code (New Snippet)".
+2. Title: "TEMP diagnostic: error trace".
+3. Code Type: PHP Snippet.
+4. Paste everything below ===PHP START=== (no <?php needed).
+5. Insertion: Auto Insert > Run Everywhere. Toggle Active > Save Snippet.
+6. Reproduce the KENYA checkout failure ONCE (Place Order).
+7. WooCommerce > Status > Logs > open the newest "osn-error-trace-*" file.
+8. Send the contents. The line pointing at /wp-content/plugins/<name>/... is the culprit.
+9. DEACTIVATE this snippet afterwards.
+
+
+===PHP START===
+// TEMP DIAGNOSTIC v3 — list every callback on the checkout-validation hooks with its
+// source file, to find which plugin adds the 'some_required_fields' error.
+// Remove once the source is identified.
+add_action('woocommerce_after_checkout_validation', function ($data, $errors) {
+    global $wp_filter;
+    $out = array();
+    foreach (array('woocommerce_after_checkout_validation', 'woocommerce_checkout_process') as $hook) {
+        $out[] = "== {$hook} ==";
+        if (empty($wp_filter[$hook])) { $out[] = '  (none)'; continue; }
+        foreach ($wp_filter[$hook]->callbacks as $prio => $cbs) {
+            foreach ($cbs as $cb) {
+                $fn = $cb['function'];
+                $label = '?'; $where = '';
+                try {
+                    if (is_array($fn)) {
+                        $cls = is_object($fn[0]) ? get_class($fn[0]) : $fn[0];
+                        $ref = new ReflectionMethod($cls, $fn[1]);
+                        $label = $cls . '->' . $fn[1];
+                    } elseif ($fn instanceof Closure) {
+                        $ref = new ReflectionFunction($fn);
+                        $label = 'Closure';
+                    } else {
+                        $ref = new ReflectionFunction($fn);
+                        $label = (string) $fn;
+                    }
+                    $where = $ref->getFileName() . ':' . $ref->getStartLine();
+                } catch (Throwable $e) {
+                    $where = '(reflect failed)';
+                }
+                $out[] = "  prio {$prio}: {$label}  @  {$where}";
+            }
+        }
+    }
+    wc_get_logger()->debug("HOOK CALLBACKS:\n" . implode("\n", $out), array('source' => 'osn-error-trace'));
+}, 9999, 2);
+// --- end ---

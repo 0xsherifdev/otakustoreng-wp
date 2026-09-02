@@ -1,0 +1,83 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Bleach Chain 04
+SLUG         : bleach-chain-04
+BUMPA ID     : 1248690
+WOO TYPE     : simple
+PARENT SKU   : OSN-1248690
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Bleach
+
+TAGS: Bleach necklace, Ichigo Kurosaki, Hollow mask pendant, anime chain, Bleach merch, stainless steel necklace, dog tag pendant, anime necklace
+FRANCHISE: Bleach    CHARACTER: Ichigo Kurosaki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦5,000
+Total stock   : 10
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Ichigo's Hollow mask, locked on a dog-tag plate.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel your inner Hollow with this Bleach-inspired pendant necklace. The fanged Hollow mask pendant, slashed with manga-red, layers over a "Bleach" dog-tag plate on a durable stainless-steel chain. Built for daily wear and ready to ship.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some masks you fight to keep off. This one you wear with pride. The Bleach Chain 04 puts Ichigo's iconic Hollow mask front and centre, its bone-white face slashed with manga-red stripes and that piercing single eye, layered over a stamped "Bleach" dog-tag plate. It is a clean, statement piece for any Soul Reaper who carries the fight with them everywhere.</p>
+<p>Cast in tarnish-resistant metal with a smooth silver-tone finish, it sits comfortably for all-day wear and slips perfectly under a hoodie or over a tee. A fan-made tribute for serious Bleach fans, designed and inspired by the series, not affiliated with or endorsed by the rights holders.</p>
+<ul>
+<li><strong>Design:</strong> Ichigo Hollow mask pendant layered with a stamped "Bleach" dog-tag plate</li>
+<li><strong>Material:</strong> Durable stainless-steel / alloy, tarnish-resistant</li>
+<li><strong>Finish:</strong> Silver-tone with manga-red accent detailing</li>
+<li><strong>Chain:</strong> Box-style link chain, secure lobster-clasp closure</li>
+<li><strong>Wear:</strong> Lightweight and comfortable for everyday styling, layers well</li>
+<li><strong>Care:</strong> Wipe clean with a soft dry cloth; keep away from water and perfume</li>
+<li><strong>In the box:</strong> One Bleach-inspired pendant necklace on chain</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Ichigo's signature Hollow mask, slashed with bold manga-red detailing
+  • Layered dog-tag plate stamped with the Bleach name
+  • Tarnish-resistant stainless-steel build in a clean silver-tone finish
+  • Secure box-link chain with lobster-clasp closure
+  • Lightweight, all-day comfort that layers over a tee or under a hoodie
+  • Fan-inspired tribute design, ships nationwide and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : Bleach Hollow Mask Necklace | Ichigo Chain 04
+Meta Description (150 chars) : Bleach-inspired Ichigo Hollow mask pendant necklace on a durable stainless-steel chain. Silver-tone with manga-red detail. ₦5,000. Ships from Nigeria.
+Focus keyword                       : Bleach Hollow mask necklace
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Bleach-inspired Ichigo Hollow mask pendant necklace with red detailing on a silver dog-tag plate and stainless-steel chain
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product studio shot of a silver stainless-steel pendant necklace: a fanged Hollow mask pendant slashed with a single manga-red (#E2261C) accent, layered over a dog-tag plate, suspended against an ink-black #111111 backdrop. Paper-white #FAFAFA halftone dots and dynamic speed lines radiate behind the pendant, faint ink splatter framing the edges in manga panels. Sharp rim light catches the polished metal, cinematic premium catalog lighting, high detail, crisp focus on the engraved mask, shallow depth of field.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

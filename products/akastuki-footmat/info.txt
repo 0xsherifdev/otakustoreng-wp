@@ -1,0 +1,86 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Akastuki Footmat
+SLUG         : akastuki-footmat
+BUMPA ID     : 1141287
+WOO TYPE     : variable
+PARENT SKU   : OSN-1141287
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Home & Decor > Room Decor
+  - Shop by Anime > Naruto
+
+TAGS: Akatsuki footmat, Naruto rug, Akatsuki cloud mat, anime floor mat, Naruto room decor, tufted shag rug, anime rug, otaku room decor
+FRANCHISE: Naruto    CHARACTER: Akatsuki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦13,000
+Total stock   : 997
+VARIATIONS (attribute: Style)
+  1              | ₦13,000 | stock 498  | SKU OSN-1141287-1
+  2              | ₦13,000 | stock 499  | SKU OSN-1141287-2
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The red cloud, underfoot.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A plush, cloud-shaped tufted floor mat cut into the iconic Akatsuki red-cloud silhouette. Soft high-pile shag with a crisp white swirl outline and black edge — the rogue-ninja flex your otaku room has been missing.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Pledge your loyalty to the Akatsuki the moment your feet hit the floor. This anime-inspired tufted mat is cut to the exact silhouette of the red cloud worn by Naruto's most feared rogue ninja — deep crimson fill, crisp white swirls and a clean black border, rendered in a soft, dense high-pile shag that feels as good as it looks.</p>
+<p>Drop it bedside, by the door, in front of your gaming setup or your study desk. It anchors a room instantly and tells every visitor exactly which roster you wear. Choose from two style variations to match your space.</p>
+<ul>
+<li>Cloud-shaped (die-cut silhouette) Akatsuki red-cloud design</li>
+<li>Soft, dense high-pile tufted shag pile for a plush underfoot feel</li>
+<li>Colourway: deep red fill, white swirl outline, black contour edge</li>
+<li>Non-slip backing helps keep the mat planted on hard floors</li>
+<li>Available in 2 style variations</li>
+<li>Great as a bedside rug, doorway mat, desk mat or accent floor piece</li>
+<li>Spot clean or gentle hand wash; air dry flat to protect the pile</li>
+<li>Fan-made, anime-inspired design — not affiliated with or endorsed by the official rights holders</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Iconic Akatsuki red-cloud silhouette, die-cut to shape
+  • Plush high-pile tufted shag — soft and warm underfoot
+  • Bold colourway: deep red, white swirls, black edge
+  • Non-slip backing keeps it planted on hard floors
+  • 2 style variations to suit your space
+  • Fan-made, anime-inspired — not official
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (42 chars)        : Akatsuki Cloud Footmat | Naruto Tufted Rug
+Meta Description (150 chars) : Plush Akatsuki red-cloud tufted floor mat from Naruto. Soft high-pile shag, non-slip backing, 2 styles. Anime-inspired room decor. Ships nationwide &.
+Focus keyword                       : Akatsuki footmat
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Akatsuki red-cloud shaped plush tufted floor mat from Naruto on a wooden floor
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga style studio product shot of a plush cloud-shaped tufted floor mat in the Akatsuki red-cloud silhouette, deep manga-red #E2261C fill with white swirl outline and black border, placed on an ink-black #111111 floor against a paper-white #FAFAFA wall; halftone dot texture in the background, dramatic speed lines radiating from the mat, subtle ink splatter in the corners, single red accent lighting, cinematic top-down three-quarter angle, premium minimalist composition, high detail on the soft shag pile.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

@@ -1,0 +1,84 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Gojou Hand Sign Chain
+SLUG         : gojou-hand-sign-chain-1507911
+BUMPA ID     : 1507911
+WOO TYPE     : simple
+PARENT SKU   : OSN-1507911
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Gojou hand sign chain, Satoru Gojo necklace, Jujutsu Kaisen chain, JJK pendant, anime necklace, stainless steel pendant, anime chains Nigeria, Gojo merch
+FRANCHISE: Jujutsu Kaisen    CHARACTER: Satoru Gojo
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,500
+Total stock   : 502
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Throw the hand sign. Unleash the Limitless.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel Satoru Gojo with this polished stainless-steel pendant cut into his iconic hand sign. Tarnish-resistant, everyday-tough, and finished on a sleek curb chain. The clean-cut JJK flex for sorcerers who run the roster.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some techniques you just have to throw. The Gojou Hand Sign Chain captures Satoru Gojo's signature cursed-energy gesture in a crisp, mirror-polished pendant that reads instantly to any Jujutsu Kaisen fan. The silhouette is sharp, the lines are clean, and the silver-tone finish catches light like ink on paper.</p>
+<p>Built from durable, tarnish-resistant stainless-steel-grade metal, it shrugs off daily wear and wipes clean in seconds. Strung on a slim curb-link chain that sits easy under a tee or over a hoodie, it is the kind of low-key flex that the right people clock immediately. This is fan-made, anime-inspired merch, not official or affiliated.</p>
+<ul>
+<li><strong>Character:</strong> Satoru Gojo hand sign pendant (Jujutsu Kaisen-inspired)</li>
+<li><strong>Pendant material:</strong> durable tarnish-resistant stainless-steel-grade metal, mirror-polished silver tone</li>
+<li><strong>Chain:</strong> matching curb-link chain with lobster-clasp closure</li>
+<li><strong>Finish:</strong> smooth polished surface, lightweight and comfortable for all-day wear</li>
+<li><strong>Style:</strong> unisex; layers well or wears solo</li>
+<li><strong>Care:</strong> wipe clean with a soft dry cloth; keep away from water and perfume to preserve shine</li>
+<li><strong>In the box:</strong> 1x Gojou hand sign pendant on chain</li>
+<li><strong>Price:</strong> ₦4,500</li>
+<li><strong>Shipping:</strong> ships from Nigeria, nationwide and worldwide</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Satoru Gojo hand sign pendant for Jujutsu Kaisen fans
+  • Mirror-polished, tarnish-resistant stainless-steel-grade metal
+  • Slim curb-link chain with secure lobster clasp
+  • Lightweight, unisex, and comfortable for all-day wear
+  • Wipe-clean finish that keeps its shine
+  • Ships from Nigeria, nationwide and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (47 chars)        : Gojou Hand Sign Chain | Jujutsu Kaisen Necklace
+Meta Description (146 chars) : Gojou hand sign pendant chain inspired by Jujutsu Kaisen. Polished, tarnish-resistant steel on a curb chain. ₦4,500. Ships from Nigeria worldwide.
+Focus keyword                       : Gojou hand sign chain
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Polished silver-tone stainless-steel pendant shaped like Satoru Gojo's hand sign on a curb-link chain, held in hand
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product studio shot of a polished silver-tone stainless-steel pendant cut into Satoru Gojo's hand sign, hanging on a slim curb-link chain. Ink black #111111 background with paper white #FAFAFA negative space, single manga-red #E2261C accent slashing behind the pendant. Halftone dot shading, sharp speed lines radiating outward, ink-splatter texture at the edges, manga panel framing. Dramatic rim lighting on the metal, cinematic and premium, high contrast, crisp focus on the pendant.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

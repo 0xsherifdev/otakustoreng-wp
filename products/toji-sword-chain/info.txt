@@ -1,0 +1,83 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Toji sword chain
+SLUG         : toji-sword-chain
+BUMPA ID     : 1734001
+WOO TYPE     : variable
+PARENT SKU   : OSN-1734001
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Toji sword chain, Toji Fushiguro, Jujutsu Kaisen, JJK necklace, anime necklace, sword pendant, anime accessories, Sorcerer Killer, JJK merch, anime chain
+FRANCHISE: Jujutsu Kaisen    CHARACTER: Toji Fushiguro
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦5,000
+Total stock   : 14
+VARIATIONS (attribute: Style)
+  Black Chain    | ₦5,000 | stock 7    | SKU OSN-1734001-BLACKCHAIN
+  Silver Chain   | ₦5,000 | stock 7    | SKU OSN-1734001-SILVERCHAIN
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the Sorcerer Killer's blade everywhere
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A Toji Fushiguro-inspired sword pendant necklace for Jujutsu Kaisen fans. Pick Black or Silver chain, slide on the blade charm, and rep the Sorcerer Killer with a clean, everyday accessory that pairs with any fit.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the Sorcerer Killer himself. This Toji Fushiguro-inspired sword chain puts a sleek blade pendant on a durable necklace, so you can carry that cursed-spirit-slaying energy into class, the gym, or a con. It is the kind of low-key piece that fans clock instantly while everyone else just sees a sharp accessory.</p>
+<p>Choose your vibe with two chain colourways and let the sword charm do the talking. An easy, affordable way to rep your favourite Jujutsu Kaisen heavy-hitter day in, day out.</p>
+<ul>
+<li>Anime-inspired sword pendant necklace (fan-made, not affiliated with or endorsed by the official series)</li>
+<li>Chain colour options: Black Chain or Silver Chain</li>
+<li>Crafted from durable everyday metal alloy for daily wear</li>
+<li>Lightweight blade charm with a clean, detailed finish</li>
+<li>Lobster-style clasp for a secure, fuss-free fit</li>
+<li>Unisex styling that layers easily over tees, hoodies and jackets</li>
+<li>Wipe clean with a soft, dry cloth; keep away from water and perfume to preserve the finish</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Toji Fushiguro-inspired sword pendant for Jujutsu Kaisen fans
+  • Two colourways: Black Chain or Silver Chain
+  • Durable metal alloy built for everyday wear
+  • Lightweight, unisex charm that layers over any fit
+  • Secure lobster-style clasp
+  • Affordable way to rep the Sorcerer Killer
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (42 chars)        : Toji Sword Chain | Jujutsu Kaisen Necklace
+Meta Description (155 chars) : Toji Fushiguro-inspired sword pendant necklace in Black or Silver chain. Durable, unisex Jujutsu Kaisen fan accessory. Ships nationwide and worldwide from.
+Focus keyword                       : Toji sword chain
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Toji Fushiguro-inspired sword pendant necklace in silver, a Jujutsu Kaisen fan accessory from Otaku Store NG
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a Toji Fushiguro-inspired sword pendant necklace, silver blade charm on a fine chain laid on ink-black #111111 surface, paper-white #FAFAFA halftone-dot backdrop, a single manga-red #E2261C speed-line streak slicing diagonally behind the blade, dramatic ink-splatter accents, manga panel framing, sharp cinematic rim lighting catching the metal edge, premium high-detail close-up, shallow depth of field.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

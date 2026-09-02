@@ -1,0 +1,72 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Deathnote Bucket Hat
+SLUG         : deathnote-bucket-hat
+BUMPA ID     : 1143844
+WOO TYPE     : simple
+PARENT SKU   : OSN-1143844
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Headwear
+
+TAGS: Death Note bucket hat, Death Note merch, anime bucket hat, anime headwear, otaku fashion, anime hat Nigeria, Death Note fan gear, streetwear bucket hat
+FRANCHISE: Death Note    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦7,000
+Total stock   : 999
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Write the rules. Own the shade.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A Death Note-inspired bucket hat for fans who play the long game. Clean monochrome panels, embroidered notebook motif and an all-day fit that pulls your shinigami fit together, on campus or off.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>For the strategist in every anime fan, the Deathnote Bucket Hat channels the cold, calculated energy of the series' most infamous notebook. Inky black with a single sharp accent, it's a low-key flex that the right people will recognise on sight, no monologue required.</p><p>Cut for everyday wear and styled to finish any streetwear or otaku fit, it's a fan-made, anime-inspired piece (not affiliated with or endorsed by the rights holders). Drop it on your head and let the hat do the talking.</p><ul><li>Style: classic all-around-brim bucket hat</li><li>Motif: Death Note-inspired notebook design, embroidered/printed</li><li>Fit: unisex, one-size, suits most adult head sizes</li><li>Construction: stitched panels with a structured downturned brim</li><li>Wear: pairs easily with tees, hoodies and layered streetwear looks</li><li>Care: hand wash cold, reshape damp, air dry to keep the brim crisp</li><li>Design: fan / anime-inspired, not official or licensed</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Death Note-inspired notebook motif for fans who know
+  • Classic all-around-brim bucket hat silhouette
+  • Unisex one-size fit suits most adult head sizes
+  • Clean monochrome look pairs with any streetwear fit
+  • Stitched panels with a structured downturned brim
+  • Fan-made anime-inspired design, not affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (55 chars)        : Death Note Bucket Hat | Anime Headwear | Otaku Store NG
+Meta Description (154 chars) : Death Note-inspired bucket hat in clean monochrome with an embroidered notebook motif. Unisex one-size fit. Fan-made anime headwear, shipped from Nigeria.
+Focus keyword                       : Death Note bucket hat
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Death Note-inspired black bucket hat with embroidered notebook motif on a clean studio background
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a black bucket hat with an embroidered Death Note notebook motif, ink black #111111 background, paper white #FAFAFA rim light, single manga-red #E2261C accent on the brim stitching; halftone dot texture, sharp speed lines radiating behind the hat, subtle ink splatter in one corner, cinematic premium lighting, manga panel framing, high detail.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

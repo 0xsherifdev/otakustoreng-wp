@@ -1,0 +1,75 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Dragon Ball Bracelet
+SLUG         : dragon-ball-bracelet
+BUMPA ID     : 1134697
+WOO TYPE     : variable
+PARENT SKU   : OSN-1134697
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Bracelets
+  - Shop by Anime > Dragon Ball
+
+TAGS: Dragon Ball bracelet, anime bracelet, Dragon Ball merch, anime accessories, Goku, Dragon Ball Z, otaku jewelry, fan-made bracelet
+FRANCHISE: Dragon Ball    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦3,000
+Total stock   : 400
+VARIATIONS (attribute: Color)
+  Orange         | ₦3,000 | stock 200  | SKU OSN-1134697-ORANGE
+  Purple         | ₦3,000 | stock 200  | SKU OSN-1134697-PURPLE
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the Z energy on your wrist
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A Dragon Ball-inspired bracelet built for everyday wear. Available in bold Orange or deep Purple, it pairs an iconic energy with all-day comfort and durable construction so you can rep your favorite saga anywhere you go.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Power up your everyday fit with the Dragon Ball Bracelet, a fan-made tribute to the most legendary saga in anime. The bold colorway and clean silhouette channel that signature Z energy without trying too hard, so it reads just as well in a lecture hall as it does at a convention.</p><p>Lightweight and comfortable for all-day wear, it stacks easily with watches and other bands, or stands strong on its own. Choose Orange for that classic gi energy or Purple for a darker, sharper edge.</p><ul><li>Anime-inspired Dragon Ball design (fan-made, not affiliated with or endorsed by the rights holders)</li><li>Color options: Orange or Purple</li><li>Comfortable, lightweight build for everyday wear</li><li>Easy to stack with watches and other bracelets</li><li>Unisex style suitable for most wrist sizes</li><li>Wipe clean with a soft, dry cloth; avoid prolonged water exposure</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Dragon Ball-inspired design with iconic Z energy
+  • Two colorways: bold Orange or deep Purple
+  • Lightweight and comfortable for all-day wear
+  • Stacks easily with watches and other bands
+  • Unisex fit for most wrist sizes
+  • Fan-made tribute, not affiliated with the rights holders
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (37 chars)        : Dragon Ball Bracelet | Otaku Store NG
+Meta Description (148 chars) : Dragon Ball-inspired bracelet in Orange or Purple. Lightweight, everyday-durable anime fan gear from Otaku Store NG. Ships nationwide and worldwide.
+Focus keyword                       : Dragon Ball bracelet
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Dragon Ball-inspired bracelet shown in Orange and Purple colorways on a clean background
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a Dragon Ball-inspired bracelet resting on a slab of ink-black stone. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent glow. Halftone dot texture and sharp speed lines radiating outward, subtle ink splatter framing the edges, manga panel border. Cinematic rim lighting, shallow depth of field, premium product photography, high detail.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

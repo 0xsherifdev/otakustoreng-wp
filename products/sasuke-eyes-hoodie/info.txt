@@ -1,0 +1,87 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Sasuke Eyes Hoodie
+SLUG         : sasuke-eyes-hoodie
+BUMPA ID     : 1123019
+WOO TYPE     : variable
+PARENT SKU   : OSN-1123019
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+  - Shop by Anime > Naruto
+
+TAGS: Sasuke hoodie, Naruto hoodie, Sharingan hoodie, Akatsuki hoodie, anime hoodie, Uchiha merch, all-over print hoodie, Rinnegan, Naruto merch, anime streetwear
+FRANCHISE: Naruto    CHARACTER: Sasuke Uchiha
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦28,000
+Total stock   : 500
+VARIATIONS (attribute: Size)
+  M              | ₦28,000 | stock 100  | SKU OSN-1123019-M
+  L              | ₦28,000 | stock 100  | SKU OSN-1123019-L
+  XL             | ₦28,000 | stock 100  | SKU OSN-1123019-XL
+  2XL            | ₦28,000 | stock 100  | SKU OSN-1123019-2XL
+  XXXL           | ₦28,000 | stock 100  | SKU OSN-1123019-XXXL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Sharingan and Rinnegan, locked in ink-black.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel the last Uchiha in this all-over-print pullover hoodie. A red Sharingan and purple Rinnegan stare down the chest, framed by Akatsuki clouds and brushed-fleece warmth built for everyday wear.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Two eyes, two legends, one hoodie. The <strong>Sasuke Eyes Hoodie</strong> drops the crimson Sharingan and the haunting purple Rinnegan across an ink-black canvas, scattered with red Akatsuki clouds for that unmistakable Uchiha edge. It is a fan-made, anime-inspired piece for anyone who rates the last Uchiha above the whole roster.</p>
+<p>Brushed-fleece interior keeps the warmth in, the unisex streetwear cut keeps it easy, and the all-over print means the design wraps the body instead of sitting flat on the front. Pull it on for late-night marathons, campus runs, or cold-season layering.</p>
+<ul>
+<li>Style: pullover hoodie with adjustable drawstring hood and front kangaroo pocket</li>
+<li>Print: vivid all-over-print Sharingan, Rinnegan and Akatsuki cloud design on a black base</li>
+<li>Fabric: thick cotton and polyester blend with a brushed-fleece interior for warmth</li>
+<li>Build: ribbed cuffs and hem for a snug, structured finish</li>
+<li>Fit: unisex streetwear cut</li>
+<li>Sizes: M, L, XL, 2XL, XXXL</li>
+<li>Care: machine wash cold, inside-out, hang or tumble dry low to protect the print</li>
+<li>Fan / anime-inspired design, not affiliated with or endorsed by the official rights holders</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • All-over-print Sharingan and Rinnegan eyes on an ink-black base
+  • Red Akatsuki cloud detailing across chest and pocket
+  • Brushed-fleece interior for real cold-weather warmth
+  • Pullover cut with kangaroo pocket and drawstring hood
+  • Ribbed cuffs and hem for a snug streetwear finish
+  • Unisex fit, sizes M through XXXL
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (44 chars)        : Sasuke Eyes Hoodie | Sharingan Naruto Hoodie
+Meta Description (149 chars) : Sasuke Eyes Hoodie with all-over Sharingan, Rinnegan and Akatsuki cloud print. Brushed-fleece pullover, unisex fit, sizes M-XXXL. Ships from Nigeria.
+Focus keyword                       : Sasuke Eyes Hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black all-over-print Sasuke Eyes Hoodie showing a red Sharingan and purple Rinnegan with red Akatsuki clouds and a white-lined hood.
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a black pullover anime hoodie on an invisible mannequin, the front featuring a glowing red Sharingan eye and a purple Rinnegan eye with scattered red manga-cloud motifs. Ink black #111111 background, paper white #FAFAFA rim light, single manga-red #E2261C accent on the eyes and clouds. Halftone-dot shading, dramatic speed lines radiating from the eyes, fine ink splatter at the edges, framed inside a clean manga panel. Premium, cinematic, high-contrast streetwear catalog lighting.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

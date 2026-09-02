@@ -1,0 +1,75 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Asta Jeans Jacket
+SLUG         : asta-jeans-jacket
+BUMPA ID     : 1124894
+WOO TYPE     : variable
+PARENT SKU   : OSN-1124894
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Uncategorized
+
+TAGS: Asta jeans jacket, Black Clover jacket, Asta denim jacket, Black Clover merch, anime denim jacket, anime jacket Nigeria, Asta merch, Black Clover clothing, anime streetwear
+FRANCHISE: Black Clover    CHARACTER: Asta
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦27,500
+Total stock   : 500
+VARIATIONS (attribute: Size)
+  M              | ₦27,500 | stock 100  | SKU OSN-1124894-M
+  L              | ₦27,500 | stock 100  | SKU OSN-1124894-L
+  XL             | ₦27,500 | stock 100  | SKU OSN-1124894-XL
+  2XL            | ₦27,500 | stock 100  | SKU OSN-1124894-2XL
+  XXXL           | ₦27,500 | stock 100  | SKU OSN-1124894-XXXL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Suit up like the Wizard King in the making.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Anime-inspired Asta denim jacket built for Black Clover fans. Rugged jeans-style outerwear with a bold streetwear silhouette, layered look, and everyday durability. Wear the roster from convention floors to the daily grind.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the anti-magic underdog energy of Black Clover's loudest hero with the Asta Jeans Jacket. This fan-designed denim piece pairs a classic jeans-jacket silhouette with Asta-inspired styling, so you carry that never-give-up spirit straight onto the streets, the campus, and the convention floor.</p><p>Cut for layering and built to hold up to daily wear, it slings effortlessly over a tee or hoodie and finishes any otaku fit with confidence. Premium, comfortable, and unmistakably on-brand for the roster you rep.</p><ul><li>Anime-inspired Black Clover (Asta) denim jacket — fan design, not affiliated with or endorsed by the official series</li><li>Classic jeans-jacket cut with button-front closure and front pockets</li><li>Available sizes: M, L, XL, 2XL, XXXL</li><li>Layer-friendly fit — wears great over tees and hoodies</li><li>Durable denim-style construction for everyday streetwear</li><li>Care: machine wash cold, wash inside out, hang or line dry to protect the print</li><li>Ships nationwide across Nigeria and worldwide</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Asta-inspired Black Clover denim jacket for true fans
+  • Classic jeans-jacket silhouette with button-front closure
+  • Layer-ready fit over tees and hoodies
+  • Sizes M through XXXL for an inclusive range
+  • Durable denim-style build for everyday wear
+  • Ships nationwide in Nigeria and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (44 chars)        : Asta Jeans Jacket | Black Clover Anime Denim
+Meta Description (141 chars) : Anime-inspired Asta jeans jacket for Black Clover fans. Classic denim cut, sizes M-XXXL. Ships across Nigeria and worldwide. Wear the roster.
+Focus keyword                       : Asta jeans jacket
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Asta-inspired Black Clover denim jeans jacket with button-front closure on a plain studio backdrop
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a folded denim jeans jacket, ink black #111111 background with paper white #FAFAFA negative space, single manga-red #E2261C accent. Halftone dot texture and bold speed lines radiating behind the jacket, sharp ink splatter accents framing the garment in a manga panel composition. Premium cinematic lighting, crisp focus on denim texture and button-front detail, high-contrast editorial product photography, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

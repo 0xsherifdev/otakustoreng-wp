@@ -1,0 +1,86 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Anime Cross Chain
+SLUG         : anime-cross-chain
+BUMPA ID     : 1734141
+WOO TYPE     : variable
+PARENT SKU   : OSN-1734141
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Chains & Necklaces
+
+TAGS: anime cross chain, anime necklace, winged cross pendant, anime jewellery, cross chain necklace, anime pendant, Akatsuki necklace, Survey Corps necklace, fan-made anime chain, silver cross chain
+FRANCHISE: Generic Anime    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦6,000
+Total stock   : 23
+VARIATIONS (attribute: Style)
+  1              | ₦6,000 | stock 5    | SKU OSN-1734141-1
+  2              | ₦6,000 | stock 4    | SKU OSN-1734141-2
+  3              | ₦6,000 | stock 5    | SKU OSN-1734141-3
+  4              | ₦6,000 | stock 4    | SKU OSN-1734141-4
+  5              | ₦6,000 | stock 5    | SKU OSN-1734141-5
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Winged silver cross, your emblem inside
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A winged gothic cross pendant with your favourite anime emblem set in the centre. Pick from five fan-inspired designs on a slim ball chain, built in tarnish-resistant metal to wear every day and rep your roster.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Rep your roster the hard way. The Anime Cross Chain pairs a winged gothic cross with a bold anime emblem set right in the heart of the pendant, so your allegiance reads from across the room. Five fan-inspired designs to choose from, each cast in a polished silver-tone finish and strung on a slim ball chain that sits clean over any fit.</p>
+<p>Whether you're claiming the Survey Corps wings, the Straw Hat skull, the Akatsuki cloud, the Death Note "L", or a Bleach-style emblem, this is everyday armour for the anime faithful. Anime-inspired, fan-made, not affiliated with any studio.</p>
+<ul>
+<li><strong>Style:</strong> winged gothic cross pendant with inset anime emblem</li>
+<li><strong>Designs:</strong> 5 to choose from (Style 1-5) - including Survey Corps wings, Straw Hat skull, Akatsuki cloud, "L", and a Bleach-style emblem</li>
+<li><strong>Material:</strong> durable alloy with silver-tone finish; resists everyday tarnish</li>
+<li><strong>Chain:</strong> slim ball/bead chain, lobster-style clasp</li>
+<li><strong>Pendant accents:</strong> coloured enamel detailing on the central emblem</li>
+<li><strong>Wear:</strong> unisex, lightweight; layers easily or stands alone</li>
+<li><strong>Care:</strong> wipe clean with a soft dry cloth; keep away from water and perfume</li>
+<li><strong>Includes:</strong> 1 cross pendant on chain in your chosen style</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Winged gothic cross with your anime emblem set dead centre
+  • 5 fan-inspired styles: Survey Corps wings, Straw Hat skull, Akatsuki cloud, 'L' and a Bleach-style emblem
+  • Silver-tone alloy that resists everyday tarnish
+  • Slim ball chain, unisex and lightweight enough to wear daily
+  • Layers with other chains or stands alone as a statement piece
+  • Anime-inspired and fan-made - wipe clean and rep your roster
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (54 chars)        : Anime Cross Chain - Winged Pendant Necklace | 5 Styles
+Meta Description (153 chars) : Winged anime cross chain with your emblem set in the centre. 5 fan-inspired styles in tarnish-resistant silver-tone metal. Ships from Nigeria, worldwide.
+Focus keyword                       : anime cross chain
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Five winged silver-tone anime cross pendants on ball chains, each with a different coloured emblem in the centre
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product shot of a single winged gothic cross pendant on a slim silver ball chain, the central emblem glowing manga-red #E2261C, suspended against an ink-black #111111 background with paper-white #FAFAFA halftone dots, diagonal speed lines and a burst of ink splatter framing the pendant in a single manga panel; dramatic rim lighting, cinematic, premium, high detail.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

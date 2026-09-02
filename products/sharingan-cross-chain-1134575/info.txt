@@ -1,0 +1,72 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Sharingan Cross Chain
+SLUG         : sharingan-cross-chain-1134575
+BUMPA ID     : 1134575
+WOO TYPE     : simple
+PARENT SKU   : OSN-1134575
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Naruto
+
+TAGS: Sharingan cross chain, Naruto necklace, Sharingan pendant, Uchiha accessories, anime cross chain, Naruto jewellery, anime necklace Nigeria, cosplay accessory
+FRANCHISE: Naruto    CHARACTER: Uchiha (Sharingan)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦5,500
+Total stock   : 997
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The Uchiha eye, forged into a gothic cross.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A silver-tone gothic cross pendant set with a blazing red Sharingan eye, strung on an adjustable black cord. Lightweight, tarnish-resistant, and built for everyday wear. The Uchiha drip every Naruto fan needs around their neck.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the Uchiha clan's most feared visual prowess. The Sharingan Cross Chain fuses a sharp gothic cross with a glowing red Sharingan centerpiece, so the eye sits dead-centre and catches every glance. Anime-inspired drip that reads clean from across the room and detailed up close.</p><p>The pendant rides on a slim black cord that knots to adjust, settling easily over tees, hoodies and layered chains. Durable metal alloy keeps the shine going day after day, while a quick wipe brings it back to mint. Subtle enough for the daily fit, bold enough for the con floor.</p><ul><li>Style: gothic cross pendant with a red Sharingan eye centerpiece</li><li>Pendant material: tarnish-resistant metal alloy, silver-tone finish</li><li>Chain: black braided cord, knot-adjustable length</li><li>Theme: Naruto / Uchiha-inspired fan accessory</li><li>Wear: unisex, lightweight, layers well with other chains</li><li>Care: wipe clean with a soft dry cloth; keep away from water and perfume</li><li>Included: 1 Sharingan cross pendant on cord</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Red Sharingan eye set into a sharp gothic cross
+  • Silver-tone tarnish-resistant alloy pendant
+  • Adjustable knot-tie black cord fits any neck
+  • Lightweight and unisex; layers with other chains
+  • Anime-inspired Uchiha drip, fan-made not affiliated
+  • Wipe clean and ready for everyday wear or the con floor
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (54 chars)        : Sharingan Cross Chain Necklace | Naruto Uchiha Pendant
+Meta Description (148 chars) : Sharingan Cross Chain: silver-tone gothic cross with a red Uchiha eye on an adjustable black cord. Naruto-inspired fan necklace. Ships from Nigeria.
+Focus keyword                       : Sharingan cross chain
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Silver-tone gothic cross pendant with a red Sharingan eye centre on a black cord, held in hand
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product studio shot of a silver-tone gothic cross pendant with a glowing single manga-red (#E2261C) Sharingan eye at its centre, hanging on a black braided cord. Ink-black #111111 background, paper-white #FAFAFA halftone dot texture radiating behind the pendant, sharp speed lines and ink splatter framing manga panels. Dramatic rim light catching the metal edges, cinematic premium jewellery photography, high contrast, shallow depth of field. No text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

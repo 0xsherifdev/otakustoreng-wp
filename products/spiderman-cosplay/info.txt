@@ -1,0 +1,80 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Spiderman Cosplay
+SLUG         : spiderman-cosplay
+BUMPA ID     : 1164160
+WOO TYPE     : variable
+PARENT SKU   : OSN-1164160
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Cosplay
+
+TAGS: Spider-Man cosplay, Miles Morales costume, Spider-Man bodysuit, superhero cosplay, zentai suit, cosplay costume, convention costume, fan cosplay
+FRANCHISE: Spider-Man    CHARACTER: Miles Morales
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦20,000
+Total stock   : 50
+VARIATIONS (attribute: Size)
+  M              | ₦20,000 | stock 10   | SKU OSN-1164160-M
+  L              | ₦20,000 | stock 10   | SKU OSN-1164160-L
+  XL             | ₦20,000 | stock 10   | SKU OSN-1164160-XL
+  2XL            | ₦20,000 | stock 10   | SKU OSN-1164160-2XL
+  3XL            | ₦20,000 | stock 10   | SKU OSN-1164160-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Suit up as Miles Morales in full black-and-red
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Become Miles Morales in this full black-and-red Spider-Man bodysuit. Stretch zentai jumpsuit with attached hood mask, lens detail and raised front-and-back spider emblems. Built for conventions, photoshoots and cosplay events. Check the size chart before ordering.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Drop into the multiverse as Miles Morales. This fan-made Spider-Man cosplay nails the iconic black-and-red look with a sleek printed bodysuit, glowing-lens mask and bold raised spider emblems on the chest and back. The 3D-style print and webbing run head to toe, so you read as the hero from across the room and in every photo.</p><p>The four-way stretch fabric hugs your frame for that signature painted-on silhouette while staying easy to move in. Pull it on, strike the pose, and own the room at your next con, shoot or themed event. Anime and pop-culture inspired, made for fans, not affiliated with or endorsed by any rights holder.</p><ul><li>Character look: Miles Morales Spider-Man, black and red</li><li>Includes: full-body jumpsuit with attached hood mask, gloves and integrated foot coverage as shown</li><li>Material: stretch polyester / spandex blend with four-way stretch</li><li>Detailing: all-over printed webbing, glowing-lens eye panels, raised spider emblem front and back</li><li>Closure: rear zip for easy on and off</li><li>Fit: snug zentai-style fit; unisex cut</li><li>Size options: M, L, XL, 2XL, 3XL, confirm against the size chart before ordering</li><li>Best for: conventions, cosplay, photoshoots, Halloween and themed events</li><li>Care: hand wash cold, hang to dry, do not iron the printed areas</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Iconic Miles Morales black-and-red Spider-Man look
+  • Full bodysuit with attached hood mask and glowing-lens eyes
+  • Raised 3D-style spider emblems on chest and back
+  • Four-way stretch fabric for a painted-on, easy-move fit
+  • Sizes M to 3XL, check the chart before ordering
+  • Convention, photoshoot and event ready
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (58 chars)        : Miles Morales Spider-Man Cosplay Bodysuit | Otaku Store NG
+Meta Description (148 chars) : Fan-made Miles Morales Spider-Man cosplay bodysuit in black and red. Stretch suit with hood mask and 3D spider emblems. Sizes M-3XL. ₦20,000. Ships.
+Focus keyword                       : Miles Morales Spider-Man cosplay
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+  05.jpg  (gallery)
+  06.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Miles Morales Spider-Man cosplay bodysuit in black and red with hood mask and raised spider emblem
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio shot of a Miles Morales Spider-Man cosplayer in a black-and-red bodysuit mid hero crouch. Ink black #111111 background, paper white #FAFAFA rim light, single manga-red #E2261C accent on the spider emblem and lens reflections. Halftone dot shading, sharp speed lines radiating from the figure, ink splatter at the edges, framed inside a bold manga panel border. Premium, cinematic, high-contrast comic-book energy.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

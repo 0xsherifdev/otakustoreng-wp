@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Enma steel katana
+SLUG         : enma-steel-katana
+BUMPA ID     : 4021375
+WOO TYPE     : simple
+PARENT SKU   : OSN-4021375
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Katana & Weapons
+  - Shop by Anime > One Piece
+
+TAGS: Enma katana, Zoro katana, One Piece katana, Roronoa Zoro, anime katana replica, display katana, cosplay sword, One Piece merch
+FRANCHISE: One Piece    CHARACTER: Roronoa Zoro
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦98,000
+Total stock   : 500
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry Oden's legendary black blade.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A display-grade Enma katana replica inspired by Zoro's legendary One Piece blade. Stainless steel, themed tsuka wrap and matching saya, finished for collectors and cosplayers who want Wano-level presence on the shelf or at con.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Enma. The blade that once cut the sky beside Kozuki Oden, now carried by the world's greatest swordsman-in-the-making. This fan-made, anime-inspired Enma steel katana brings that Wano legend to your shelf with a stainless steel blade, a deep dark finish and a themed handle wrap built to look the part from the first draw.</p><p>Built as a decorative collector and cosplay display piece, it lands as a centrepiece for any One Piece setup and a standout prop for Zoro cosplay. Keep it for display, photo work and the con floor, not for cutting or combat. Adults only and stored away from children.</p><ul><li>Anime-inspired replica of Enma, the legendary black blade carried by Roronoa Zoro</li><li>Stainless steel blade with a darkened, display-ready finish</li><li>Themed handle wrap (tsuka) for an authentic in-hand silhouette</li><li>Matching scabbard (saya) included to sheathe the blade</li><li>Free display stand included to showcase it horizontally or upright</li><li>Belt included for cosplay carry and posing</li><li>Cleaning solution included to keep the blade and fittings sharp-looking</li><li>Decorative display and cosplay prop only — not a functional weapon</li><li>Fan / anime-inspired collectible, not official or affiliated with the rights holders</li><li>Keep away from children; follow your local laws on bladed display items</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Inspired by Enma — Zoro's legendary One Piece black blade
+  • Stainless steel blade with a dark, display-ready finish
+  • Themed tsuka wrap and matching saya included
+  • Free display stand, carry belt and cleaning solution included
+  • Built for collectors, display setups and Zoro cosplay
+  • Decorative prop only — keep away from children
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (42 chars)        : Enma Steel Katana - Zoro One Piece Replica
+Meta Description (155 chars) : Enma steel katana inspired by Zoro's One Piece blade. Stainless display replica with themed wrap, saya, free stand, belt and cleaning solution. Ships from.
+Focus keyword                       : Enma katana
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Enma steel katana replica inspired by Roronoa Zoro from One Piece, with dark blade, themed handle wrap and matching scabbard
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of an Enma katana display replica, blade half-drawn from a matching black saya resting on a wooden display stand. Ink black #111111 background, paper white #FAFAFA negative space, single manga-red #E2261C accent glinting along the blade edge. Halftone dot shading, dramatic speed lines radiating from the hilt, fine ink-splatter texture in the corners, framed inside a clean manga panel. Premium, cinematic, high-contrast lighting; no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

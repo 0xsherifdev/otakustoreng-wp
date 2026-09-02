@@ -1,0 +1,72 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Kaneki Mask Chain
+SLUG         : kaneki-mask-chain-1134950
+BUMPA ID     : 1134950
+WOO TYPE     : simple
+PARENT SKU   : OSN-1134950
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+
+TAGS: Kaneki mask chain, Tokyo Ghoul necklace, Ken Kaneki pendant, anime necklace, ghoul mask pendant, Tokyo Ghoul merch, anime chain, cosplay necklace
+FRANCHISE: Tokyo Ghoul    CHARACTER: Ken Kaneki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,500
+Total stock   : 1000
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The mask that haunts the 20th Ward.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel Ken Kaneki with a sleek anime-inspired pendant chain shaped after his unmistakable ghoul mask. Tarnish-resistant metal, smooth adjustable chain, and a stealthy ink-black finish built for everyday wear and full cosplay drip.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>One eye. One mask. One legend. This Kaneki Mask Chain turns Tokyo Ghoul's most iconic silhouette into wearable steel, dropping the eye-patched ghoul mask straight onto your chest. The pendant catches the light with crisp detailing, while the matte-and-shine contrast nails that menacing, blood-thirsty edge Ken Kaneki is known for.</p><p>Built to take a beating without losing its shine, it pairs cleanly with hoodies, fits, and full cosplay. Subtle enough for daily wear, loud enough that fellow fans clock it instantly. Wear the roster.</p><ul><li>Anime-inspired Kaneki ghoul mask pendant (fan design, not affiliated or official)</li><li>Durable stainless-steel / alloy build engineered to resist tarnish and fading</li><li>Smooth matching chain with an adjustable, easy-to-fit length</li><li>Ink-black and silver-tone finish with detailed mask sculpting</li><li>Lightweight comfortable feel for all-day wear</li><li>Wipe clean with a soft dry cloth</li><li>Pairs perfectly with cosplay, streetwear, and casual fits</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Iconic Ken Kaneki ghoul mask pendant for Tokyo Ghoul fans
+  • Tarnish-resistant stainless-steel / alloy construction
+  • Adjustable chain length for an easy, comfortable fit
+  • Detailed ink-black and silver-tone mask sculpting
+  • Lightweight and built for daily wear or full cosplay
+  • Wipes clean with a soft dry cloth
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (48 chars)        : Kaneki Mask Chain | Tokyo Ghoul Pendant Necklace
+Meta Description (145 chars) : Anime-inspired Kaneki ghoul mask pendant chain for Tokyo Ghoul fans. Tarnish-resistant metal, adjustable length. Ships from Nigeria. Only ₦4,500.
+Focus keyword                       : Kaneki mask chain
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Tokyo Ghoul Kaneki ghoul mask pendant on a metal chain necklace
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product studio shot of a Ken Kaneki ghoul mask pendant necklace, ink black #111111 background with paper white #FAFAFA negative space, single manga-red #E2261C accent glinting off the mask's eye, halftone dot shading, sharp speed lines and ink splatter framing the chain, dramatic cinematic rim lighting, premium high-contrast manga panel composition, macro detail on the sculpted mask and metal links
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

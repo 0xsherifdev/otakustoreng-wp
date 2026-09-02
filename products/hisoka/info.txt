@@ -1,0 +1,80 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Hisoka
+SLUG         : hisoka
+BUMPA ID     : 1138588
+WOO TYPE     : variable
+PARENT SKU   : OSN-1138588
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Phone Cases
+  - Shop by Anime > Hunter x Hunter
+
+TAGS: Hisoka phone case, Hunter x Hunter phone case, anime phone case, Hisoka Morow, Hunter x Hunter merch, anime iPhone case, anime Android case, Hisoka Bungee Gum, otaku phone case
+FRANCHISE: Hunter x Hunter    CHARACTER: Hisoka
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,800
+Total stock   : 500
+VARIATIONS (attribute: Style)
+  1              | ₦4,800 | stock 100  | SKU OSN-1138588-1
+  2              | ₦4,800 | stock 100  | SKU OSN-1138588-2
+  3              | ₦4,800 | stock 100  | SKU OSN-1138588-3
+  4              | ₦4,800 | stock 100  | SKU OSN-1138588-4
+  5              | ₦4,800 | stock 100  | SKU OSN-1138588-5
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Bungee Gum grip for your everyday carry
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Hisoka-inspired anime phone case for Hunter x Hunter fans. Slim protective shell with raised edges, precise cutouts and a bold magician-card print across five designs to match your handset.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the most unpredictable Hunter on the roster. This Hisoka-inspired phone case brings Hunter x Hunter's card-slinging trickster to your handset with a sharp, print-forward design that looks as dangerous as Bungee Gum feels. Built as a slim protective shell, it hugs your phone without the bulk so it slides into a pocket as easily as a fresh deck.</p><p>Choose from five distinct designs and tell us your exact phone model at checkout so we match the case to your device. A fan-made, anime-inspired piece for collectors who want their everyday carry to read pure Hunter x Hunter.</p><ul><li>Hisoka / Hunter x Hunter anime-inspired print, fan-made design (not affiliated or licensed)</li><li>Slim protective shell in durable TPU / hard PC</li><li>Raised edges around the screen and camera for added protection</li><li>Precise cutouts for ports, buttons, speakers and cameras</li><li>Five design options to choose from (1, 2, 3, 4, 5)</li><li>Compatible with most iPhone and Android models, confirm your exact model after ordering</li><li>Easy snap-on fit; wipe clean with a soft, slightly damp cloth</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Hisoka magician-card print for true Hunter x Hunter fans
+  • Slim shell with raised edges to guard screen and camera
+  • Precise cutouts for ports, buttons and cameras
+  • Five bold designs to pick from
+  • Fits most iPhone and Android models, confirm yours at checkout
+  • Fan-made, anime-inspired design, not affiliated or licensed
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (46 chars)        : Hisoka Phone Case | Hunter x Hunter Anime Case
+Meta Description (148 chars) : Hisoka Hunter x Hunter anime phone case. Slim protective shell, raised edges, precise cutouts, 5 designs for most iPhone and Android models. ₦4,800.
+Focus keyword                       : Hisoka phone case
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+  05.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Hisoka Hunter x Hunter anime-inspired slim phone case with magician-card print on a smartphone
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a slim anime phone case mounted on a smartphone, Hisoka from Hunter x Hunter inspired artwork featuring playing-card suits and a teardrop-and-star face motif. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent on the card suits. Halftone dot shading, sharp speed lines radiating outward, ink splatter detailing, framed inside a clean manga panel border. Cinematic three-quarter angle, premium hard light, crisp reflections on the glossy shell, shallow depth of field. No text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

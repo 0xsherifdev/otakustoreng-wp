@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Levi Credit Card Cover
+SLUG         : levi-credit-card-cover
+BUMPA ID     : 1395793
+WOO TYPE     : simple
+PARENT SKU   : OSN-1395793
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Stickers
+  - Shop by Anime > Attack on Titan
+
+TAGS: Levi Ackerman, Attack on Titan, card skin, credit card sticker, vinyl sticker, anime sticker, AOT merch, debit card cover
+FRANCHISE: Attack on Titan    CHARACTER: Levi Ackerman
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦3,500
+Total stock   : 10
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Humanity's strongest soldier, on your card.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Suit up your bank card with Levi mid-ODM strike. A precision die-cut vinyl card skin with a chip cutout, waterproof and fade-resistant finish that wraps any standard debit or credit card without adding bulk.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Make every tap feel like a clean kill. This Levi Ackerman card skin wraps your standard debit or credit card in Captain Levi mid-ODM strike, monochrome city ruins cut by manga-red blood and that famous cravat. Slim die-cut vinyl with a precise chip cutout means it sits flush, scans clean, and turns your everyday card into a piece of the roster.</p><p>Built to take a beating in your wallet. The laminated, waterproof print shrugs off sweat, splashes and pocket friction so the art stays sharp wherever you swipe. Anime-inspired fan design, not affiliated with or endorsed by the rights holders.</p><ul><li>Design: Levi Ackerman ODM-gear strike, Attack on Titan inspired art</li><li>Type: die-cut adhesive vinyl card skin / cover (fits standard credit and debit cards)</li><li>Chip-ready: cutout for the EMV chip so payments still tap and read</li><li>Finish: laminated, waterproof and fade-resistant for vivid long-lasting colour</li><li>Slim profile: ultra-thin so it slides in and out of your wallet with no bulk</li><li>Easy apply: peel, line up to your card edges, smooth out from the centre</li><li>Includes: 1 single-card skin (card not included)</li><li>Care: wipe clean with a soft dry cloth; avoid prolonged soaking</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Levi Ackerman mid-ODM strike in dark monochrome with manga-red accents
+  • Die-cut vinyl skin fits standard credit and debit cards
+  • Chip cutout keeps tap-to-pay and chip reads working
+  • Laminated, waterproof and fade-resistant for daily wallet abuse
+  • Ultra-slim peel-and-stick application, no added bulk
+  • Fan design, anime-inspired, not affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (52 chars)        : Levi Ackerman Card Skin | Attack on Titan | Otaku NG
+Meta Description (149 chars) : Levi Ackerman Attack on Titan vinyl card skin. Waterproof, fade-resistant die-cut cover with chip cutout for any debit or credit card. ₦3,500, ships.
+Focus keyword                       : Levi Ackerman card skin
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Levi Ackerman Attack on Titan vinyl credit card skin showing him mid-ODM strike with red blood accents and a chip cutout
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a vinyl bank card skin featuring Levi Ackerman mid-ODM-gear strike, blades drawn, cape billowing. Ink black #111111 background, paper white #FAFAFA, single manga-red #E2261C accent on blood splatter and cravat. Halftone dot shading, speed lines radiating outward, ink splatter framing, manga panel border. The skin shown applied to a slim card held at a three-quarter angle, visible EMV chip cutout, soft cinematic rim light, premium glossy laminate sheen. High detail, dramatic, no text.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

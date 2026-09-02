@@ -1,0 +1,85 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Jjk Bracelet 2
+SLUG         : jjk-bracelet-2
+BUMPA ID     : 1920108
+WOO TYPE     : variable
+PARENT SKU   : OSN-1920108
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Bracelets
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Jujutsu Kaisen bracelet, JJK bracelet, Nanami bracelet, Toji bracelet, Geto bracelet, anime bracelet, braided cord bracelet, anime accessories, charm bracelet, JJK merch
+FRANCHISE: Jujutsu Kaisen    CHARACTER: Nanami, Toji, Geto
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦3,500
+Total stock   : 28
+VARIATIONS (attribute: Style)
+  Nanami         | ₦3,500 | stock 8    | SKU OSN-1920108-NANAMI
+  Toji           | ₦3,500 | stock 10   | SKU OSN-1920108-TOJI
+  Geto           | ₦3,500 | stock 10   | SKU OSN-1920108-GETO
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Braided cord, glass cabochon charm, pick your sorcerer.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Carry your favourite Jujutsu Kaisen heavy-hitter on your wrist. A black braided cord bracelet with a domed glass cabochon charm and silver-tone beads. Choose Nanami, Toji or Geto. Adjustable, everyday-durable, fan-made for the roster.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some fights you don't forget, and some characters you just want on you. This Jujutsu Kaisen-inspired bracelet stacks a black braided cord with a domed glass cabochon charm, framed in a silver-tone metal setting and finished with chunky bead spacers. It is the kind of low-key, premium accessory that reads clean with a watch or layers into a full stack.</p>
+<p>Pick your sorcerer: Nanami's sharp blue, Geto's purple curse-energy art, or Toji's brooding panel. Adjustable cord fit means it sits right on most wrists, and the everyday-durable build keeps up whether you are repping it to class, the gym, or a con. Fan-made and anime-inspired; not affiliated with or endorsed by the official rights holders.</p>
+<ul>
+<li>Style options: Nanami, Toji, or Geto (select at checkout)</li>
+<li>Black braided cord with adjustable closure for an everyday fit</li>
+<li>Domed glass cabochon charm in a silver-tone metal setting</li>
+<li>Silver-tone bead spacers for a layered, stacked look</li>
+<li>Anime-inspired character artwork, fan-made design</li>
+<li>Unisex, low-key everyday-durable wear; easy to stack with other bands</li>
+<li>Wipe clean with a soft dry cloth; keep away from water and perfume to protect the print</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Black braided cord with a domed glass cabochon character charm
+  • Choose your fighter: Nanami, Toji or Geto
+  • Silver-tone metal setting and bead spacers for a layered look
+  • Adjustable cord fit, unisex, everyday-durable
+  • Stacks cleanly with watches and other bands
+  • Fan-made, anime-inspired Jujutsu Kaisen accessory
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (44 chars)        : Jujutsu Kaisen Bracelet - Nanami, Toji, Geto
+Meta Description (151 chars) : Jujutsu Kaisen-inspired braided cord bracelet with a glass charm. Choose Nanami, Toji or Geto. Adjustable, unisex. Ships nationwide and worldwide from.
+Focus keyword                       : Jujutsu Kaisen bracelet
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Three black braided cord Jujutsu Kaisen bracelets with silver-tone beads and glass charms of Nanami, Geto and Toji, held in hand
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product studio shot of a black braided cord bracelet with a domed glass cabochon charm and silver-tone metal beads, charm showing a stylised Jujutsu Kaisen sorcerer portrait. Ink black #111111 background, paper white #FAFAFA negative space, single manga-red #E2261C accent through halftone dots, speed lines and ink splatter framed in clean manga panels. Premium, cinematic macro lighting, sharp focus on the metal setting and braided texture, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

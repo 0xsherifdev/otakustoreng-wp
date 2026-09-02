@@ -1,0 +1,80 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Customizes Case
+SLUG         : customizes-case
+BUMPA ID     : 1286600
+WOO TYPE     : simple
+PARENT SKU   : OSN-1286600
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Uncategorized
+
+TAGS: anime phone case, custom phone case, iphone case, anime merch, Bleach phone case, Naruto phone case, Jujutsu Kaisen case, soft touch case, wrist strap case
+FRANCHISE: Generic Anime    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦5,000
+Total stock   : 0
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Your favourite character, printed on your phone
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A soft-touch anime-inspired phone case built to flex the roster. Slim, grippy and shock-absorbing with raised camera and screen lips, a matching wrist strap, and a print you choose. Pick your character and device at checkout.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Carry your roster everywhere. This customisable anime-inspired phone case turns your daily driver into a statement piece, with bold character art printed across a slim, soft-touch shell. From Bleach and Jujutsu Kaisen to Naruto and beyond, you pick the design and we print it sharp, edge to edge.</p>
+<p>The liquid-silicone-style finish feels grippy in hand and resists fingerprints, while raised camera and screen lips help shield your lens and display from face-down drops. A colour-matched wrist strap keeps it secure on the go. Fan-made and anime-inspired; not affiliated with or endorsed by any studio or rights holder.</p>
+<ul>
+<li>Customisable print: choose your character/design and phone model at checkout</li>
+<li>Soft-touch, grippy shell with a smooth matte feel</li>
+<li>Raised camera bezel and screen lip for added lens and display protection</li>
+<li>Precise cutouts for ports, buttons and speakers</li>
+<li>Includes a colour-matched wrist strap</li>
+<li>Slim, pocket-friendly profile that keeps wireless charging accessible</li>
+<li>Designs available for popular iPhone models (and more on request)</li>
+<li>Fan / anime-inspired artwork, not an official or licensed product</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Choose your character and phone model at checkout
+  • Soft-touch, grippy shell with a clean matte finish
+  • Raised camera and screen lips for drop protection
+  • Matching wrist strap included
+  • Slim profile keeps wireless charging accessible
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (46 chars)        : Customizable Anime Phone Case | Otaku Store NG
+Meta Description (149 chars) : Customisable anime-inspired phone case. Soft-touch grip, raised camera lip, wrist strap. Pick your character and model. ₦5,000. Ships nationwide and.
+Focus keyword                       : anime phone case
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.png  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Customisable anime-inspired soft-touch iPhone case with character print and matching wrist strap
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-Manga product studio shot: a slim soft-touch anime phone case standing upright on a matte paper-white #FAFAFA pedestal against an ink-black #111111 backdrop. The case shows bold black-and-white manga character art with a single manga-red #E2261C accent, side-printed vertical title lettering, and a colour-matched wrist strap looped beside it. Halftone dot shading, sharp speed lines radiating from the case, subtle ink splatter in one corner, framed as a clean manga panel. Premium, cinematic, high-contrast product photography, dramatic side lighting, raised camera bezel detail visible. No logos, no text watermarks.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

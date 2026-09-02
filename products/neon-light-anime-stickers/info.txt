@@ -1,0 +1,80 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Neon Light Anime Stickers
+SLUG         : neon-light-anime-stickers
+BUMPA ID     : 1141011
+WOO TYPE     : simple
+PARENT SKU   : OSN-1141011
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Stickers
+  - Shop by Anime > Attack on Titan
+
+TAGS: Attack on Titan stickers, anime stickers, neon stickers, vinyl sticker pack, AOT merch, laptop stickers, waterproof stickers, Survey Corps, Otaku Store NG
+FRANCHISE: Attack on Titan    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦1,200
+Total stock   : 86
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Neon-glow AOT decals to claim every surface
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Light up your gear with a 10-piece pack of neon-style Attack on Titan vinyl stickers. Waterproof, fade-resistant, and built to grip laptops, water bottles, phones, and notebooks. Fan-made art for the Survey Corps faithful.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Suit up your everyday carry with the Neon Light Anime Stickers, a 10-piece vinyl pack channeling the Attack on Titan world in glowing, neon-inspired ink. Bold lineart, electric colour, and that grim Survey Corps energy turn a plain laptop lid or bottle into a statement only real fans will clock.</p><p>Each die-cut decal is printed on durable waterproof vinyl with a fade-resistant finish, so the colours stay loud through daily handling, spills, and weather. Peel, stick, and rep the roster anywhere a flat surface dares you to.</p><ul><li>Pack of 10 neon-style die-cut vinyl stickers</li><li>Attack on Titan fan-inspired artwork (not affiliated with or endorsed by the rights holders)</li><li>Waterproof, durable vinyl with a fade-resistant print</li><li>Sticks to laptops, water bottles, phones, tablets, notebooks, and helmets</li><li>Easy peel-and-stick backing with a clean residue-light removal</li><li>Best applied to smooth, dry, dust-free surfaces</li><li>Wipe clean with a damp cloth; avoid harsh scrubbing on artwork</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • 10-piece neon-style Attack on Titan sticker pack
+  • Waterproof, durable vinyl that survives daily wear
+  • Fade-resistant print keeps colours loud
+  • Sticks to laptops, bottles, phones, and notebooks
+  • Die-cut decals with easy peel-and-stick backing
+  • Fan-inspired art for the Survey Corps faithful
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (53 chars)        : Neon Light Attack on Titan Stickers - 10pc Vinyl Pack
+Meta Description (146 chars) : Neon-style Attack on Titan vinyl sticker pack of 10. Waterproof, fade-resistant decals for laptops, bottles & phones. Fan art, ships from Nigeria.
+Focus keyword                       : Attack on Titan stickers
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+  05.jpg  (gallery)
+  06.jpg  (gallery)
+  07.jpg  (gallery)
+  08.jpg  (gallery)
+  09.jpg  (gallery)
+  10.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Pack of 10 neon-style Attack on Titan vinyl stickers fanned out on a dark surface
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product shot: a fanned-out pack of 10 neon-glow Attack on Titan inspired vinyl stickers arranged on an ink-black #111111 surface, single manga-red #E2261C accent glowing through halftone dots and dynamic speed lines, paper-white #FAFAFA highlights, ink splatter framing the edges, manga panel borders, cinematic studio lighting, premium and crisp, shallow depth of field, no text or logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

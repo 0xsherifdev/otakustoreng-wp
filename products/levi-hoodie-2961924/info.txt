@@ -1,0 +1,90 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Levi Hoodie
+SLUG         : levi-hoodie-2961924
+BUMPA ID     : 2961924
+WOO TYPE     : variable
+PARENT SKU   : OSN-2961924
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+  - Shop by Anime > Attack on Titan
+
+TAGS: Levi hoodie, Levi Ackerman, Attack on Titan hoodie, anime hoodie, Survey Corps, Shingeki no Kyojin, anime streetwear, pullover hoodie, AOT merch
+FRANCHISE: Attack on Titan    CHARACTER: Levi Ackerman
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦18,500
+Total stock   : 4000
+VARIATIONS (attribute: Size & Material)
+  L-Thick Cotton | ₦21,000 | stock 500  | SKU OSN-2961924-LTHICKCOTTON
+  L-Thick Polyester | ₦18,500 | stock 500  | SKU OSN-2961924-LTHICKPOLYESTER
+  Xl-Thick Cotton | ₦21,000 | stock 500  | SKU OSN-2961924-XLTHICKCOTTON
+  Xl-Thick Polyester | ₦18,500 | stock 500  | SKU OSN-2961924-XLTHICKPOLYESTER
+  2xl-Thick Cotton | ₦21,000 | stock 500  | SKU OSN-2961924-2XLTHICKCOTTON
+  2xl-Thick Polyester | ₦18,500 | stock 500  | SKU OSN-2961924-2XLTHICKPOLYESTER
+  3xl-Thick Cotton | ₦21,000 | stock 500  | SKU OSN-2961924-3XLTHICKCOTTON
+  3xl-Thick Polyester | ₦18,500 | stock 500  | SKU OSN-2961924-3XLTHICKPOLYESTER
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Humanity's strongest, wrapped in brushed fleece.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Pull on Captain Levi and command the room. This black pullover hoodie pairs a piercing Levi eye-panel print with sleeve kanji and a Survey Corps emblem on the back, finished with a brushed-fleece interior, kangaroo pocket, and ribbed cuffs.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Salute Captain Levi without saying a word. This Attack on Titan-inspired pullover hoodie leads with a cinematic close-up of Levi Ackerman's razor-sharp glare across the chest, framed by his name in Japanese, with bold sleeve kanji and the Survey Corps Wings of Freedom emblem dominating the back. It is the kind of fit that reads as anime to those who know and as clean black streetwear to everyone else.</p>
+<p>Built for daily wear, the brushed-fleece interior keeps you warm through Harvattan mornings and cold AC offices alike, while the unisex streetwear cut layers easily over a tee or under a jacket. Choose your fabric and size below to dial in the exact weight and feel you want.</p>
+<ul>
+<li>Anime-inspired Levi Ackerman graphic: front eye-panel print, sleeve kanji, and back Survey Corps emblem</li>
+<li>Pullover hoodie with a roomy kangaroo front pocket</li>
+<li>Brushed-fleece interior for warmth and softness</li>
+<li>Ribbed cuffs and hem to hold shape and lock in heat</li>
+<li>Unisex streetwear fit, true to anime-merch sizing</li>
+<li>Fabric choice: Thick Cotton or Thick Polyester</li>
+<li>Sizes: L, XL, 2XL, 3XL</li>
+<li>Care: machine wash cold, inside-out; do not iron directly over the print</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Levi Ackerman eye-panel front print with Japanese name detail
+  • Survey Corps Wings of Freedom emblem on the back
+  • Brushed-fleece interior with ribbed cuffs and hem for warmth
+  • Pullover cut with kangaroo pocket, unisex streetwear fit
+  • Pick your fabric: Thick Cotton or Thick Polyester
+  • Sizes L through 3XL
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (44 chars)        : Levi Hoodie | Attack on Titan Anime Pullover
+Meta Description (155 chars) : Levi Ackerman Attack on Titan hoodie: black pullover with eye-panel print, sleeve kanji and Survey Corps emblem. Thick cotton or polyester, L-3XL. ₦18,500.
+Focus keyword                       : Levi hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black Attack on Titan Levi Ackerman pullover hoodie showing front eye-panel print with Japanese name and the Survey Corps Wings of Freedom emblem on the back.
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a black pullover hoodie laid on a flat ink-black #111111 surface, paper-white #FAFAFA halftone-dot backdrop, single manga-red #E2261C accent slashing diagonally as a speed-line. Hoodie front faces camera showing a monochrome Levi Ackerman eye-panel print across the chest; subtle ink-splatter and manga-panel borders frame the composition. Cinematic rim lighting, premium streetwear catalog feel, high contrast, sharp halftone texture, no visible text or logos beyond the garment graphic.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

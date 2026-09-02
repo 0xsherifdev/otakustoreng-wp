@@ -1,0 +1,90 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Deku Hoodie
+SLUG         : deku-hoodie-2964549
+BUMPA ID     : 2964549
+WOO TYPE     : variable
+PARENT SKU   : OSN-2964549
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+  - Shop by Anime > My Hero Academia
+
+TAGS: Deku hoodie, My Hero Academia hoodie, Izuku Midoriya merch, anime hoodie, MHA merch, anime pullover hoodie, Boku no Hero Academia, otaku streetwear
+FRANCHISE: My Hero Academia    CHARACTER: Deku (Izuku Midoriya)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦18,500
+Total stock   : 798
+VARIATIONS (attribute: Size & Material)
+  L-Thick Cotton | ₦21,000 | stock 99   | SKU OSN-2964549-LTHICKCOTTON
+  L-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964549-LTHICKPOLYESTER
+  Xl-Thick Cotton | ₦21,000 | stock 99   | SKU OSN-2964549-XLTHICKCOTTON
+  Xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964549-XLTHICKPOLYESTER
+  2xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964549-2XLTHICKCOTTON
+  2xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964549-2XLTHICKPOLYESTER
+  3xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964549-3XLTHICKCOTTON
+  3xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964549-3XLTHICKPOLYESTER
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Go Beyond. Plus Ultra street fleece.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Suit up as the symbol of the next generation. This Deku pullover hoodie pairs a smiling Midoriya chest panel with bold katakana sleeve print on brushed-fleece warmth. Unisex streetwear fit, drawstring hood, kangaroo pocket. Pick your size and fabric.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel One For All. This anime-inspired <strong>Deku Hoodie</strong> puts Izuku Midoriya front and centre with a framed manga-panel portrait, the bold "DEKU" wordmark and crisp Japanese katakana running the chest sidebar and both sleeves. It is the kind of statement piece My Hero Academia fans clock from across the room, built on cosy brushed-fleece for everyday wear.</p>
+<p>Cut as a relaxed unisex pullover, it layers easily over a tee or under a jacket for campus runs, late nights and lazy weekends. Choose your size and fabric weight to dial in the fit and feel you want.</p>
+<ul>
+<li><strong>Design:</strong> Deku (Izuku Midoriya) chest portrait panel, "DEKU" wordmark, katakana side and full-length sleeve print</li>
+<li><strong>Fit:</strong> unisex streetwear pullover, relaxed everyday cut</li>
+<li><strong>Interior:</strong> soft brushed-fleece lining for warmth</li>
+<li><strong>Build:</strong> drawstring hood, ribbed cuffs and hem, front kangaroo pocket</li>
+<li><strong>Fabric options:</strong> Thick Cotton or Thick Polyester</li>
+<li><strong>Sizes:</strong> L, XL, 2XL, 3XL</li>
+<li><strong>Care:</strong> machine wash cold inside-out, hang or low tumble dry to protect the print</li>
+<li>Fan-made, anime-inspired apparel. Not affiliated with or endorsed by the rights holders.</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Smiling Deku manga-panel portrait with bold DEKU wordmark
+  • Full-length katakana print down both sleeves
+  • Soft brushed-fleece interior for all-day warmth
+  • Unisex streetwear fit with drawstring hood and kangaroo pocket
+  • Choose Thick Cotton or Thick Polyester in L to 3XL
+  • Machine wash cold inside-out to keep the print sharp
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : Deku Hoodie | My Hero Academia Anime Pullover
+Meta Description (152 chars) : Shop the Deku Hoodie, a My Hero Academia anime-inspired pullover with Midoriya print, fleece lining and sleeve katakana. L-3XL, cotton or poly. ₦18,500.
+Focus keyword                       : Deku hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black Deku hoodie with smiling Izuku Midoriya manga-panel print, DEKU wordmark and Japanese katakana down the sleeves
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a folded Deku pullover hoodie on ink-black #111111 surface, lit cinematically. Paper-white #FAFAFA halftone-dot backdrop with diagonal manga speed lines and subtle ink splatter framing the garment in a manga panel. Single manga-red #E2261C accent on a thin panel border and a small "Plus Ultra" tag. Hoodie shows the framed Midoriya chest portrait and katakana sleeve print, brushed-fleece texture visible, drawstring hood and kangaroo pocket. Premium streetwear catalogue aesthetic, high detail, sharp focus, no text watermark.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

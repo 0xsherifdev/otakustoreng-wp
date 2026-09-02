@@ -1,0 +1,80 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Gojou Jeans
+SLUG         : gojou-jeans
+BUMPA ID     : 1145122
+WOO TYPE     : variable
+PARENT SKU   : OSN-1145122
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Trousers
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Gojo jeans, Jujutsu Kaisen jeans, anime denim, Satoru Gojo, anime trousers, JJK merch, unisex jeans, Otaku Store NG
+FRANCHISE: Jujutsu Kaisen    CHARACTER: Satoru Gojo
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦27,000
+Total stock   : 79
+VARIATIONS (attribute: Size & Color)
+  M-Black        | ₦27,000 | stock 10   | SKU OSN-1145122-MBLACK
+  M-Blue         | ₦27,000 | stock 10   | SKU OSN-1145122-MBLUE
+  L-Black        | ₦27,000 | stock 10   | SKU OSN-1145122-LBLACK
+  L-Blue         | ₦27,000 | stock 10   | SKU OSN-1145122-LBLUE
+  Xl-Black       | ₦27,000 | stock 10   | SKU OSN-1145122-XLBLACK
+  Xl-Blue        | ₦27,000 | stock 9    | SKU OSN-1145122-XLBLUE
+  Xxl-Black      | ₦27,000 | stock 10   | SKU OSN-1145122-XXLBLACK
+  Xxl-Blue       | ₦27,000 | stock 10   | SKU OSN-1145122-XXLBLUE
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Six Eyes energy in heavyweight denim.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Heavyweight Gojo-inspired denim jeans built for everyday wear. Thick, durable jean fabric with a clean unisex cut that pairs perfectly with your Jujutsu Kaisen jersey or hoodie. Available in black and blue across multiple sizes.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the strongest sorcerer with the Gojou Jeans, a Jujutsu Kaisen-inspired denim built for fans who want their fit to hit as hard as a Hollow Purple. Cut in thick, durable jean fabric, these trousers hold their shape through everyday wear while keeping a clean, confident silhouette.</p><p>Unisex and easy to style, they slot straight into your roster next to a matching jersey or hoodie. Wear the roster, on or off the convention floor.</p><ul><li>Material: heavyweight, thick denim jean fabric</li><li>Fan / anime-inspired design (not official or affiliated with Jujutsu Kaisen)</li><li>Unisex fit, suitable for men and women</li><li>Colour options: Black and Blue</li><li>Size options: M, L, XL, XXL</li><li>Style tip: pair with the matching anime jersey or hoodie</li><li>Care: machine wash cold, inside out; hang or line dry to protect colour</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Heavyweight, thick denim that holds its shape
+  • Jujutsu Kaisen Gojo-inspired everyday jeans
+  • Unisex cut in Black or Blue
+  • Sizes M through XXL
+  • Pairs with your matching jersey or hoodie
+  • Fan-made design, not official or affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (51 chars)        : Gojou Jeans | Jujutsu Kaisen Denim - Otaku Store NG
+Meta Description (147 chars) : Gojo-inspired Jujutsu Kaisen denim jeans in heavyweight fabric. Unisex fit, Black or Blue, sizes M-XXL. Fan-made anime style. Ships nationwide and.
+Focus keyword                       : Gojo jeans
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Gojou Jeans heavyweight denim trousers in black, Jujutsu Kaisen Satoru Gojo-inspired fan design
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of folded heavyweight black denim jeans on a paper-white #FAFAFA backdrop, ink-black #111111 shadows, single manga-red #E2261C accent in a thin diagonal speed-line streak behind the fabric. Halftone dot texture and subtle ink splatter framing a clean manga panel border. Cinematic top-down lighting, premium e-commerce composition, Jujutsu Kaisen Gojo-inspired energy, high detail, sharp denim weave.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

@@ -1,0 +1,76 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Gojou B Jersey
+SLUG         : gojou-b-jersey
+BUMPA ID     : 4846018
+WOO TYPE     : variable
+PARENT SKU   : OSN-4846018
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Jerseys
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Gojo Satoru, Jujutsu Kaisen, anime jersey, JJK jersey, all-over print jersey, Gojo jersey, anime streetwear, dye sublimation jersey, football jersey, manga jersey
+FRANCHISE: Jujutsu Kaisen    CHARACTER: Gojo Satoru
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦23,000
+Total stock   : 249
+VARIATIONS (attribute: Size)
+  M              | ₦23,000 | stock 49   | SKU OSN-4846018-M
+  L              | ₦23,000 | stock 50   | SKU OSN-4846018-L
+  XL             | ₦23,000 | stock 50   | SKU OSN-4846018-XL
+  2XL            | ₦23,000 | stock 50   | SKU OSN-4846018-2XL
+  3XL            | ₦23,000 | stock 50   | SKU OSN-4846018-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Throw Hands. Honored One Energy. Number 97.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+All-over-print Gojo Satoru football jersey in ink-black and manga-white with a bold varsity 97, chibi Gojo panels and red-blue accents. Lightweight, breathable polyester built for cons, watch parties and everyday flex.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Six Eyes locked, Infinity engaged. The <strong>Gojou B Jersey</strong> wraps Jujutsu Kaisen's strongest sorcerer across an edge-to-edge dye-sublimated print: a high-contrast manga-panel battle scene in ink-black and paper-white, a bold varsity <strong>97</strong> front and centre, mischievous chibi Gojo Satoru cut-ins, and crisp red-and-blue sleeve stripes that nod to his Cursed Technique. "GOJO SATORU" runs the hem, "JUJUTSU KAISEN" rides the side panels.</p><p>Cut American-football style with a V-neck and relaxed unisex drop, it's vivid enough to own the convention floor and comfy enough for a full Shibuya Arc rewatch. Layer it over a tee, throw it on for a match-watch party, or wear the Honored One loud and proud. Secure checkout, fast delivery nationwide and worldwide, easy returns.</p><ul><li><strong>Material:</strong> Lightweight, breathable 100% polyester</li><li><strong>Print:</strong> All-over dye-sublimation graphics, edge to edge, won't crack or peel</li><li><strong>Fit:</strong> Unisex, relaxed football cut, true to size — between sizes? size up</li><li><strong>Sizing:</strong> Available in M, L, XL, 2XL, 3XL</li><li><strong>Care:</strong> Machine wash cold, inside-out; do not iron directly on the print</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold all-over manga-panel print of Gojo Satoru with a varsity 97 front graphic
+  • Vivid dye-sublimation: edge-to-edge colour that won't crack, fade or peel
+  • Lightweight, breathable 100% polyester for all-day con and watch-party wear
+  • Relaxed unisex football cut with V-neck — true to size, size up if between
+  • Red & blue sleeve accents nodding to Gojo's Cursed Technique
+  • Ships fast nationwide and worldwide with secure checkout and easy returns
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : Gojo Satoru Anime Jersey | JJK All-Over Print
+Meta Description (155 chars) : Gojo Satoru anime jersey from Jujutsu Kaisen — bold all-over manga print, breathable polyester, unisex fit. ₦23,000. Fast worldwide shipping, easy returns.
+Focus keyword                       : Gojo Satoru anime jersey
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Gojo Satoru Jujutsu Kaisen all-over-print football jersey in black and white with bold varsity 97, chibi Gojo panels and red-blue sleeve stripes
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga aesthetic studio product shot of a black-and-white all-over-print anime football jersey featuring Gojo Satoru, displayed on an invisible mannequin against an ink-black #111111 backdrop. Heavy halftone screentone dots and diagonal manga speed lines radiating behind the jersey, brush-ink splatter in the corners, manga panel layout framing. High-contrast monochrome scene with a single bold manga-red #E2261C accent striking through the composition like a slash. Paper-white #FAFAFA rim light, cinematic premium anime-streetwear mood, dramatic shadows, ultra-sharp fabric detail.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

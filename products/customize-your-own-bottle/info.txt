@@ -1,0 +1,85 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Customize Your Own Bottle
+SLUG         : customize-your-own-bottle
+BUMPA ID     : 4450866
+WOO TYPE     : variable
+PARENT SKU   : OSN-4450866
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Bottles & Drinkware
+
+TAGS: custom anime bottle, personalised water bottle, anime drinkware, build your own bottle, stanley style bottle, gym bottle, anime water bottle, custom character design
+FRANCHISE: Generic Anime    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦11,000
+Total stock   : 1489
+VARIATIONS (attribute: Style)
+  Stanley Bottle   1 | ₦28,000 | stock 495  | SKU OSN-4450866-STANLEYBOTTLE1
+  Gym Bottle  2  | ₦19,000 | stock 497  | SKU OSN-4450866-GYMBOTTLE2
+  Normal Bottle  3 | ₦11,000 | stock 497  | SKU OSN-4450866-NORMALBOTTLE3
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Your character. Your design. Your bottle.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Build your own anime-inspired bottle from the ground up. Pick any character and design, then choose your shape: Stanley, Gym, or Normal. Food-safe and ready to carry your favourite roster everywhere you go.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>This is your bottle, your way. Choose any anime character and supply the design you want, and we bring it to life on a food-safe drinkware build made for daily carry. Whether you rep a shonen heavyweight, a quiet anti-hero, or a deep-cut favourite nobody else knows, the artwork is entirely yours.</p>
+<p>Pick the shape that fits your routine: the chunky Stanley-style build for all-day hydration, the slim Gym bottle for training sessions, or the everyday Normal bottle for desk, school, and commute. Hand-wash recommended to keep your custom print sharp wear after wear.</p>
+<ul>
+<li>Fully custom: you choose the character and supply your own design</li>
+<li>Three style options: Stanley-style, Gym, or Normal bottle</li>
+<li>Food-safe drinkware suitable for cold beverages</li>
+<li>Wraparound character artwork printed across the body</li>
+<li>Reusable build to cut down on single-use plastic</li>
+<li>Hand-wash recommended to protect the print finish</li>
+<li>Fan-made, anime-inspired design; not affiliated with or endorsed by any anime studio or rights holder</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Pick any anime character and supply your own design
+  • Three shapes: Stanley-style, Gym, or Normal bottle
+  • Food-safe drinkware built for daily carry
+  • Wraparound custom artwork on a reusable body
+  • Hand-wash recommended to keep the print crisp
+  • Fan-made and anime-inspired, not affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (48 chars)        : Customize Your Own Anime Bottle | Otaku Store NG
+Meta Description (146 chars) : Design your own anime-inspired water bottle. Pick any character and your design, choose Stanley, Gym, or Normal style. Food-safe, reusable. Ships.
+Focus keyword                       : custom anime bottle
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Customisable anime-inspired water bottle shown in Stanley, gym, and normal styles with wraparound character artwork
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of three reusable water bottles lined up on ink-black #111111 surface: a chunky Stanley-style tumbler, a slim gym bottle, and a normal everyday bottle, each wrapped in dynamic manga character artwork. Paper-white #FAFAFA halftone-dot background, single manga-red #E2261C accent in speed lines and an ink-splatter burst behind the bottles. Sharp manga panel framing, cinematic rim lighting, premium glossy finish, high detail, no text.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

@@ -1,0 +1,82 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Itachi Tshirt
+SLUG         : itachi-tshirt-1507017
+BUMPA ID     : 1507017
+WOO TYPE     : simple
+PARENT SKU   : OSN-1507017
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+  - Shop by Anime > Naruto
+
+TAGS: Itachi t-shirt, Itachi Uchiha, Naruto t-shirt, anime t-shirt, Akatsuki, Sharingan, Uchiha clan, anime graphic tee, Naruto merch, unisex anime tee
+FRANCHISE: Naruto    CHARACTER: Itachi Uchiha
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦12,000
+Total stock   : 100
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Wear the Sharingan. Carry the legend.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Soft 100% cotton tee with anime-inspired Itachi Uchiha graphics for Naruto fans. Unisex regular fit, crew neck, durable fade-resistant print. Available in white, black, blue, pink and purple to wear the roster every day.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Honour the rogue prodigy of the Uchiha clan with the Itachi Tshirt from Otaku Store NG. A clean, anime-inspired Itachi Uchiha graphic sits on premium soft cotton, built for everyday wear, anime cons, campus days and lazy binge weekends. This is fan-made gear for true Naruto heads, not affiliated with or endorsed by the rights holders.</p>
+<p>The unisex regular fit and classic crew neck keep things relaxed for any body type, while the durable, fade-resistant print holds its detail wash after wash. Pick your colour, claim your character, and wear the roster.</p>
+<ul>
+<li><strong>Design:</strong> Anime-inspired Itachi Uchiha (Naruto) graphic print</li>
+<li><strong>Material:</strong> 100% cotton, soft and breathable</li>
+<li><strong>Fit:</strong> Unisex regular fit</li>
+<li><strong>Neckline:</strong> Classic crew neck</li>
+<li><strong>Print:</strong> Durable, fade-resistant graphic</li>
+<li><strong>Colours:</strong> White, black, blue, pink, purple</li>
+<li><strong>Care:</strong> Machine wash cold, inside-out; do not iron directly on the print</li>
+<li><strong>At checkout:</strong> Indicate your preferred colour (and the first slide design) when ordering</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Anime-inspired Itachi Uchiha graphic for Naruto fans
+  • Soft, breathable 100% cotton
+  • Unisex regular fit with classic crew neck
+  • Durable, fade-resistant print built to last
+  • Five colours: white, black, blue, pink, purple
+  • Machine wash cold, inside-out to protect the graphic
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (57 chars)        : Itachi Uchiha T-Shirt | Naruto Anime Tee | Otaku Store NG
+Meta Description (151 chars) : Anime-inspired Itachi Uchiha (Naruto) t-shirt in soft 100% cotton. Unisex fit, crew neck, fade-resistant print. 5 colours, ₦12,000. Ships nationwide &.
+Focus keyword                       : Itachi t-shirt
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Itachi Uchiha Naruto anime-inspired graphic t-shirt in black, unisex crew-neck cotton tee from Otaku Store NG
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a folded crew-neck cotton t-shirt featuring an anime-inspired Itachi Uchiha graphic. Ink black #111111 background, paper white #FAFAFA tee, single manga-red #E2261C accent on the Sharingan eyes. Halftone dot shading, dramatic speed lines radiating from behind, ink splatter framing the edges, divided into clean manga panels. Premium, cinematic, high-contrast lighting, sharp focus on fabric texture and print detail.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

@@ -1,0 +1,82 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Naruto Head Warmers
+SLUG         : naruto-head-warmers
+BUMPA ID     : 1484663
+WOO TYPE     : simple
+PARENT SKU   : OSN-1484663
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Headwear
+  - Shop by Anime > Naruto
+
+TAGS: Naruto, head warmer, anime beanie, Hidden Leaf Village, Konoha, knit beanie, anime headwear, Naruto merch
+FRANCHISE: Naruto    CHARACTER: Naruto Uzumaki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦6,000
+Total stock   : 8
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Konoha on the cuff. Cold weather, ninja warm.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A black ribbed-knit cuffed beanie with a metal Hidden Leaf Village plate riveted to the fold. One-size stretch fit, soft warmth, and that unmistakable Konoha swirl. Quiet shinobi energy for any rotation.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Every shinobi needs gear that works as hard as they do. This Naruto-inspired head warmer keeps it clean and classic: a deep black ribbed-knit beanie with a folded cuff, finished with a metal Hidden Leaf Village plate riveted right where Naruto wears his headband. The Konoha leaf-swirl catches the light, so the flex reads instantly to anyone who knows the roster.</p>
+<p>The stretch knit hugs without squeezing, and the doubled cuff stacks neatly above the brow or rolls down low over the ears when the harmattan bites. Pair it with a hoodie for everyday wear or build out a full Leaf Village fit. Energetic on the streets, low-key in the cold, always on theme.</p>
+<ul>
+<li>Hidden Leaf Village (Konoha) symbol on a metal headband-style plate, riveted to the cuff</li>
+<li>Soft, stretchy ribbed-knit construction with a foldable cuff</li>
+<li>One-size design with a flexible stretch fit for most adults and teens</li>
+<li>Classic black colourway that matches almost any outfit</li>
+<li>Wears two ways: cuffed high or pulled down over the ears for extra warmth</li>
+<li>Hand wash and air dry to keep the metal plate and knit in top shape</li>
+<li>Fan-made, anime-inspired design - not affiliated with or endorsed by the franchise owners</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Metal Hidden Leaf Village plate riveted to the cuff
+  • Soft ribbed-knit beanie with a foldable cuff
+  • One-size stretch fit for most adults and teens
+  • Classic all-black colourway, easy to style
+  • Wear cuffed high or pulled low over the ears
+  • Fan-made, anime-inspired - not official merch
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (50 chars)        : Naruto Head Warmer Beanie | Hidden Leaf Konoha Cap
+Meta Description (153 chars) : Naruto head warmer beanie in black ribbed knit with a metal Hidden Leaf Konoha plate. One-size stretch fit. Ships from Nigeria, nationwide and worldwide.
+Focus keyword                       : Naruto head warmer beanie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Black ribbed-knit Naruto head warmer beanie with a metal Hidden Leaf Village Konoha plate on the cuff
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a black ribbed-knit cuffed beanie with a metal Hidden Leaf Village (Konoha) leaf-swirl plate riveted to the fold, displayed three-quarter angle on an invisible head form. Ink black #111111 background with paper white #FAFAFA negative space, a single manga-red #E2261C accent slashing diagonally behind the cap. Halftone dot texture, sharp speed lines radiating from the metal plate, subtle ink splatter in the corners, framed inside a clean manga panel border. Premium, cinematic, high-contrast lighting, crisp focus on the knit ribbing and the catching metal plate.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

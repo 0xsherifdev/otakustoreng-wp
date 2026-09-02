@@ -1,0 +1,80 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : One Punch Man Wallet
+SLUG         : one-punch-man-wallet
+BUMPA ID     : 2789123
+WOO TYPE     : simple
+PARENT SKU   : OSN-2789123
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Wallets
+
+TAGS: One Punch Man wallet, Saitama wallet, anime wallet, anime bifold wallet, One Punch Man merch, PU leather wallet, anime card holder, otaku wallet
+FRANCHISE: One Punch Man    CHARACTER: Saitama
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦9,000
+Total stock   : 10
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+One punch. One wallet. Zero competition.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Carry the Caped Baldy everywhere. This anime-inspired bifold puts Saitama's iconic serious-punch front and centre in PU leather, with card slots, a note compartment, and a zippered coin pocket. Snap shut. Slip in. Done.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some heroes need a flashy outfit. Saitama needs a yellow jumpsuit and one punch. This One Punch Man bifold wallet channels that same no-nonsense energy, with the Caped Baldy mid-strike across cracked-screen artwork and bold "ONE PUNCH MAN" lettering. It's an everyday carry that quietly flexes your S-Class taste.</p>
+<p>Built from smooth PU leather with a secure snap-button strap, it keeps your cards, cash, and coins locked down whether you're commuting, gaming, or hunting monsters on a slow afternoon. Slim enough for a pocket, sharp enough to show off. A fan-made, anime-inspired piece for serious heroes only.</p>
+<ul>
+<li>Material: durable PU (faux) leather exterior with fabric-lined interior</li>
+<li>Design: printed Saitama punching artwork with shattered-glass background graphic</li>
+<li>Layout: multiple card slots, a full-length note compartment, and a side zippered coin pocket</li>
+<li>Closure: metal snap-button strap to keep everything secure</li>
+<li>Format: compact bifold, slim everyday-carry profile that fits front or back pockets</li>
+<li>Care: wipe clean with a soft, slightly damp cloth; avoid soaking</li>
+<li>Fan / anime-inspired design, not official or affiliated with the rights holders</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Saitama serious-punch artwork on shattered-glass print
+  • Slim PU leather bifold for everyday carry
+  • Multiple card slots plus a full note compartment
+  • Zippered side pocket keeps coins secure
+  • Metal snap-button strap closure
+  • Fan-inspired design for true One Punch Man fans
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (43 chars)        : One Punch Man Wallet - Saitama Anime Bifold
+Meta Description (154 chars) : One Punch Man bifold wallet with Saitama artwork. PU leather, card slots, note compartment, zip coin pocket, snap closure. Ships nationwide and worldwide.
+Focus keyword                       : One Punch Man wallet
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: One Punch Man bifold wallet featuring Saitama mid-punch over a shattered-glass print, with a black snap-button strap and side zip pocket, held in hand
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a One Punch Man bifold wallet featuring Saitama mid-punch, lying open on an ink-black #111111 surface with paper-white #FAFAFA paper texture; single manga-red #E2261C accent glowing along the card slots; halftone dot shading, dramatic diagonal speed lines and ink-splatter framing the wallet in a manga panel; cinematic top-down lighting, premium hero-product feel; card slots, note compartment and side zip coin pocket clearly visible.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

@@ -1,0 +1,73 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Death Note Ring
+SLUG         : death-note-ring
+BUMPA ID     : 1507981
+WOO TYPE     : simple
+PARENT SKU   : OSN-1507981
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Rings
+
+TAGS: Death Note ring, Death Note, anime ring, engraved anime band, silver-tone ring, anime accessories, anime jewelry, Otaku Store NG
+FRANCHISE: Death Note    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦3,000
+Total stock   : 393
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Engraved band for the keeper of the Note
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Silver-tone band ring engraved with the iconic Death Note logo in gothic lettering, finished with deep oxidised ink and small red stone accents. Tarnish-resistant and built for daily wear. A subtle, knowing nod for fans who know the rules.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Six letters, one rule: whoever's name is written here. The Death Note Ring carries the series' unmistakable scratchy gothic logo, engraved around a polished silver-tone band and filled with deep oxidised ink so every stroke reads sharp against the metal. Tiny red stone accents flank the lettering for a hit of contrast that catches the light.</p><p>Slim enough to stack or wear solo, it's a quiet statement piece for fans who don't need to explain themselves. Anime-inspired, made for everyday rotation. Otaku Store NG: wear the roster.</p><ul><li>Material: stainless steel / alloy with a polished silver-tone finish</li><li>Design: engraved Death Note logo with blackened ink detail and red stone accents</li><li>Finish: tarnish-resistant, built for daily wear</li><li>Sizing: select your standard ring size at checkout</li><li>Style: unisex slim band, easy to stack</li><li>Care: keep dry, wipe with a soft cloth, store away from moisture</li><li>Fan / anime-inspired design; not affiliated with or endorsed by the rights holders</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Engraved Death Note logo in the show's signature gothic lettering
+  • Deep oxidised ink fill for crisp, high-contrast detail
+  • Small red stone accents set into the band
+  • Polished silver-tone, tarnish-resistant for daily wear
+  • Slim unisex band that stacks or stands alone
+  • Choose your standard ring size at checkout
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (54 chars)        : Death Note Ring | Engraved Anime Band | Otaku Store NG
+Meta Description (153 chars) : Silver-tone Death Note ring engraved with the gothic anime logo and red stone accents. Tarnish-resistant daily wear. Ships from Nigeria, worldwide. From.
+Focus keyword                       : Death Note ring
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Silver-tone Death Note ring engraved with the gothic anime logo and small red stone accents, worn on a finger
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a slim silver-tone band ring engraved with gothic "DEATH NOTE" lettering filled with black ink and tiny red gemstone accents. Ink-black background (#111111), paper-white (#FAFAFA) key light, single manga-red (#E2261C) accent glow. Halftone dot texture, sharp speed lines radiating outward, a flick of ink splatter, cinematic macro focus on the engraving. Premium, high-contrast, manga panel composition.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

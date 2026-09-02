@@ -1,0 +1,73 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Aot HeadwArmer
+SLUG         : aot-headwarmer
+BUMPA ID     : 1734126
+WOO TYPE     : variable
+PARENT SKU   : OSN-1734126
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Headwear
+  - Shop by Anime > Attack on Titan
+
+TAGS: Attack on Titan beanie, Survey Corps merch, Wings of Freedom, anime beanie, AOT head warmer, Scout Regiment, embroidered beanie, anime headwear
+FRANCHISE: Attack on Titan    CHARACTER: Survey Corps (Scout Regiment)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦5,500
+Total stock   : 1003
+VARIATIONS (attribute: Color)
+  Black          | ₦5,500 | stock 500  | SKU OSN-1734126-BLACK
+  Pink           | ₦5,500 | stock 503  | SKU OSN-1734126-PINK
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Wings of Freedom on your head. Join the Scouts.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A cuffed knit beanie flying the Survey Corps Wings of Freedom, embroidered in crisp blue and white on the fold. Soft, stretchy, one-size — pick Black or Pink and rep the Scout Regiment everywhere you roam beyond the walls.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Suit up like you're rolling out past the walls. This Attack on Titan head warmer is a classic cuffed knit beanie carrying the Survey Corps "Wings of Freedom" crest, embroidered in clean blue and white right on the fold so it sits front and centre when you wear it. Anime-inspired, fan-made, and built for everyday rotation.</p><p>The soft ribbed knit hugs your head without squeezing, the turn-up cuff keeps your ears warm, and the stitched emblem holds its detail wear after wear. Choose Black for a stealth Scout look or Pink for something that pops — both fly the same banner. A clean, low-key way to rep the roster on cold mornings, late nights, and everything between.</p><ul><li>Style: cuffed (folded-brim) knit beanie / head warmer</li><li>Motif: Survey Corps Wings of Freedom crest, embroidered front cuff</li><li>Colour options: Black, Pink</li><li>Fit: one size, stretchy ribbed knit — fits most adults and teens</li><li>Feel: soft, warm, lightweight everyday knit</li><li>Care: hand wash cold, reshape and lay flat to dry, do not tumble dry</li><li>Anime-inspired fan merch — not affiliated with or endorsed by the official rights holders</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Embroidered Survey Corps Wings of Freedom crest on the cuff
+  • Soft, stretchy ribbed knit with a warm turn-up fold
+  • One size fits most — adults and teens
+  • Two colourways: stealth Black or standout Pink
+  • Anime-inspired fan piece for everyday wear
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (49 chars)        : Attack on Titan Beanie | Survey Corps Head Warmer
+Meta Description (152 chars) : Attack on Titan Survey Corps beanie with embroidered Wings of Freedom crest. Soft knit head warmer in Black or Pink, one size. ₦5,500. Ships nationwide.
+Focus keyword                       : Attack on Titan beanie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Black Attack on Titan cuffed knit beanie with embroidered Survey Corps Wings of Freedom crest in blue and white
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a folded-cuff knit beanie with an embroidered Survey Corps Wings of Freedom crest centred on the cuff. Ink black #111111 background, paper white #FAFAFA negative space, single manga-red #E2261C accent slashing diagonally behind the hat. Halftone dot shading, dramatic manga speed lines radiating outward, subtle ink splatter in the corners, framed inside a clean manga panel border. Premium, cinematic, high-contrast, crisp embroidery detail in focus.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

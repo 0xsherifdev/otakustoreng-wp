@@ -1,0 +1,70 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Aot Tote Bag
+SLUG         : aot-tote-bag
+BUMPA ID     : 2221680
+WOO TYPE     : simple
+PARENT SKU   : OSN-2221680
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Tote Bags
+  - Shop by Anime > Attack on Titan
+
+TAGS: Attack on Titan tote bag, AOT tote bag, Survey Corps, Wings of Freedom, anime tote bag, canvas tote bag, anime merch Nigeria, Attack on Titan merch
+FRANCHISE: Attack on Titan    CHARACTER: Survey Corps (Wings of Freedom)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦7,000
+Total stock   : 9
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the Wings of Freedom everywhere you go.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Black canvas tote bag stamped with the Survey Corps Wings of Freedom crest. Roomy enough for books, groceries or con hauls, with reinforced shoulder handles built for the daily grind. Anime-inspired, everyday-ready.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some join the Garrison. Some join the Military Police. The bold pledge their hearts to the Scout Regiment. This Attack on Titan tote carries the iconic Wings of Freedom crest in crisp white against deep ink-black canvas, a clean, no-nonsense statement piece for any fan who lives beyond the walls.</p><p>Sturdy canvas construction and reinforced handles make it a true everyday carry: load it with textbooks, manga volumes, gym kit, grocery runs or your full convention haul and it shrugs it all off. Wear the roster, on your shoulder.</p><ul><li>Material: durable woven canvas with a smooth printed front panel</li><li>Print: Survey Corps Wings of Freedom emblem in white on black</li><li>Handles: twin reinforced shoulder straps for comfortable carry</li><li>Capacity: roomy open main compartment for books, groceries and con hauls</li><li>Style: unisex, minimalist everyday tote</li><li>Care: cold hand-wash, hang to dry, do not bleach to protect the print</li><li>Fan / anime-inspired design, not affiliated with or endorsed by the official rights holders</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold white Survey Corps Wings of Freedom crest on black canvas
+  • Sturdy canvas with reinforced twin shoulder handles
+  • Roomy open main compartment for books, groceries and con hauls
+  • Unisex minimalist design that pairs with any fit
+  • Fan / anime-inspired, not affiliated with the official rights holders
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (50 chars)        : Attack on Titan Tote Bag | Wings of Freedom Canvas
+Meta Description (149 chars) : Attack on Titan canvas tote bag with the Survey Corps Wings of Freedom crest. Roomy, reinforced handles, ships from Nigeria nationwide and worldwide.
+Focus keyword                       : Attack on Titan tote bag
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black canvas Attack on Titan tote bag printed with the white Survey Corps Wings of Freedom emblem and twin shoulder handles
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a black canvas tote bag with twin shoulder handles, printed with a white Survey Corps Wings of Freedom crest. Ink black #111111 background, paper white #FAFAFA tote highlights, single manga-red #E2261C accent slashing through dynamic speed lines and ink splatter. Halftone dot shading, framed inside a cinematic manga panel, premium and high-contrast. Tote shown three-quarter angle, crisp lighting, no text, no logos other than the printed crest.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

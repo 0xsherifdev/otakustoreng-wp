@@ -1,0 +1,75 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Opm Tshirt
+SLUG         : opm-tshirt
+BUMPA ID     : 1131441
+WOO TYPE     : variable
+PARENT SKU   : OSN-1131441
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+
+TAGS: One Punch Man t-shirt, Saitama shirt, OPM anime tee, anime t-shirt, anime streetwear, Otaku Store NG, unisex anime shirt, manga graphic tee
+FRANCHISE: One Punch Man    CHARACTER: Saitama
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦12,000
+Total stock   : 500
+VARIATIONS (attribute: Size)
+  M              | ₦12,000 | stock 100  | SKU OSN-1131441-M
+  L              | ₦12,000 | stock 100  | SKU OSN-1131441-L
+  XL             | ₦12,000 | stock 100  | SKU OSN-1131441-XL
+  2XL            | ₦12,000 | stock 100  | SKU OSN-1131441-2XL
+  3XL            | ₦12,000 | stock 100  | SKU OSN-1131441-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Hero-for-fun energy on a heavyweight tee
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel the One Punch Man legend with this soft, thick-cotton tee. Bold anime-inspired Saitama graphics, a relaxed unisex crew-neck fit, and a fade-resistant print built to survive every training montage and washday.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>One blow, one icon. This One Punch Man fan tee puts Saitama's bald-headed, deadpan-hero energy front and centre on premium heavyweight cotton that feels as good as it looks. Cut for a relaxed unisex fit, it wears just as easily over a convention crowd as it does on a lazy Hero Association off-day.</p><p>The graphic is printed to stay sharp and bold wash after wash, so your favourite caped baldy stays loud for the long haul. Anime-inspired streetwear, made for fans who go all in.</p><ul><li>Material: soft, thick cotton for a substantial, durable feel</li><li>Fit: unisex regular fit, true to size</li><li>Neckline: ribbed crew neck</li><li>Print: bold One Punch Man / Saitama graphic, fade-resistant</li><li>Sizes available: M, L, XL, 2XL, 3XL</li><li>Care: machine wash cold, inside-out; do not iron directly on the print</li><li>Note: indicate the slide (first slide) design you want at checkout</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Heavyweight, thick cotton with a premium hand-feel
+  • Bold One Punch Man / Saitama anime-inspired graphic
+  • Relaxed unisex regular fit, true to size
+  • Fade-resistant print engineered to survive every wash
+  • Sizes M through 3XL for an easy fit
+  • Ships nationwide across Nigeria and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (46 chars)        : One Punch Man Saitama T-Shirt | Otaku Store NG
+Meta Description (152 chars) : Shop the One Punch Man Saitama tee at Otaku Store NG. Heavyweight cotton, fade-resistant anime print, unisex fit, sizes M-3XL. ₦12,000. Ships worldwide.
+Focus keyword                       : One Punch Man t-shirt
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: One Punch Man Saitama anime-inspired graphic t-shirt in cotton, unisex regular fit
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a folded heavyweight cotton t-shirt featuring a bold Saitama / One Punch Man inspired graphic. Ink black #111111 background, paper white #FAFAFA fabric, single manga-red #E2261C accent in speed lines and a punch impact burst behind the tee. Halftone dot shading, sharp ink splatter, dramatic manga-panel framing, cinematic rim lighting, premium high-contrast detail.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

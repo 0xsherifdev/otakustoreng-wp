@@ -1,0 +1,85 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Jun woo T-shirt
+SLUG         : jun-woo-t-shirt-3168006
+BUMPA ID     : 3168006
+WOO TYPE     : variable
+PARENT SKU   : OSN-3168006
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+  - Shop by Anime > Solo Leveling
+
+TAGS: Sung Jinwoo, Solo Leveling, anime t-shirt, Shadow Monarch, Jinwoo tee, manhwa merch, anime graphic tee, otaku apparel
+FRANCHISE: Solo Leveling    CHARACTER: Sung Jinwoo
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦13,000
+Total stock   : 77
+VARIATIONS (attribute: Size)
+  L              | ₦13,000 | stock 19   | SKU OSN-3168006-L
+  XL             | ₦13,000 | stock 20   | SKU OSN-3168006-XL
+  2XL            | ₦13,000 | stock 18   | SKU OSN-3168006-2XL
+  3XL            | ₦13,000 | stock 20   | SKU OSN-3168006-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Arise. The Shadow Monarch tee for Solo Leveling fans.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel the Shadow Monarch with this Sung Jinwoo-inspired graphic tee. Soft, breathable cotton in a unisex regular fit with a sharp, fade-resistant print built for hunters who level up every single day.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>From E-Rank nobody to the strongest hunter alive, Sung Jinwoo's rise is the kind of arc that earns a spot on your chest. This Solo Leveling-inspired t-shirt brings that Shadow Monarch energy into your everyday rotation with a bold, high-contrast graphic that pops whether you're at a convention, a watch party, or just running the city.</p>
+<p>Cut in a unisex regular fit on soft, breathable cotton, it sits clean on the shoulders and layers easily under a jacket or hoodie. The print is durable and fade-resistant, so the design stays crisp wash after wash. Fan-made and anime-inspired apparel, not affiliated with or endorsed by the official rights holders.</p>
+<ul>
+<li>Character: Sung Jinwoo (Solo Leveling-inspired graphic)</li>
+<li>Fit: unisex regular fit, crew neck</li>
+<li>Fabric: soft, breathable cotton (cotton/poly blend on some all-over-print runs)</li>
+<li>Print: durable, fade-resistant graphic</li>
+<li>Sizes available: L, XL, 2XL, 3XL</li>
+<li>Care: machine wash cold, inside-out; do not tumble dry hot</li>
+<li>Ships from Nigeria, nationwide and worldwide</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold Sung Jinwoo Shadow Monarch graphic for Solo Leveling fans
+  • Soft, breathable cotton in an everyday unisex regular fit
+  • Durable, fade-resistant print that survives the wash
+  • Crew neck, sizes L through 3XL
+  • Machine wash cold inside-out to keep colours sharp
+  • Ships from Nigeria, nationwide and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : Sung Jinwoo T-Shirt | Solo Leveling Anime Tee
+Meta Description (152 chars) : Sung Jinwoo Solo Leveling-inspired t-shirt in soft cotton, unisex regular fit, fade-resistant print. Sizes L-3XL. Ships from Nigeria worldwide. ₦13,000.
+Focus keyword                       : Sung Jinwoo t-shirt
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Sung Jinwoo Solo Leveling-inspired graphic t-shirt, unisex crew neck cotton tee
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a folded unisex crew-neck t-shirt featuring a Sung Jinwoo Shadow Monarch-inspired graphic. Ink black #111111 background, paper white #FAFAFA garment, single manga-red #E2261C accent on the print. Halftone dot shading, dynamic speed lines, ink splatter framing the tee in a manga panel layout. Premium, cinematic studio lighting, sharp focus, high contrast, no text logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

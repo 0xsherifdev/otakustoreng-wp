@@ -1,0 +1,70 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Palm ring
+SLUG         : palm-ring
+BUMPA ID     : 3050659
+WOO TYPE     : simple
+PARENT SKU   : OSN-3050659
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Rings
+
+TAGS: skeleton hand ring, palm ring, anime ring, gothic ring, silver-tone ring, stainless steel ring, streetwear ring, unisex ring
+FRANCHISE: Generic Anime    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦3,500
+Total stock   : 503
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Skeleton hand wrap ring with serious grip energy
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A skeletal palm ring that wraps the finger in detailed bone-style metalwork. Polished silver-tone, tarnish-resistant, and built for daily wear. Dark, gothic, anime-inspired energy that finishes any drip without trying too hard.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>The Palm Ring brings a skeletal hand to your knuckle, fingers and bones sculpted to curve around your own. It is the kind of piece that does the heavy lifting in a fit: gothic, a little sinister, and unmistakably anime-inspired streetwear. Wear it solo for a clean statement or stack it with chains and bands for full dark-aesthetic mode.</p><p>Cast in polished silver-tone metal with a tarnish-resistant finish, it is smooth against the skin and made to hold up through everyday wear. Pick your size at checkout and let the bones do the talking.</p><ul><li>Design: detailed skeletal hand / palm wrap-style ring</li><li>Material: stainless steel / alloy, silver-tone</li><li>Finish: polished, tarnish-resistant for daily wear</li><li>Sizing: standard ring sizes, buyer selects size at checkout</li><li>Style: unisex, gothic anime-inspired streetwear</li><li>Includes: 1 Palm Ring</li><li>Care: keep dry, wipe clean with a soft cloth, store away from moisture</li></ul><p>Fan / anime-inspired design. Not official, not affiliated with any franchise.</p>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Sculpted skeletal hand design that wraps the finger
+  • Polished silver-tone stainless steel / alloy
+  • Tarnish-resistant finish built for daily wear
+  • Standard ring sizes, choose yours at checkout
+  • Unisex gothic anime-inspired streetwear piece
+  • Stacks clean with chains, bands and other rings
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (54 chars)        : Skeleton Hand Palm Ring | Anime Gothic Ring | Otaku NG
+Meta Description (152 chars) : Skeletal hand Palm Ring in polished silver-tone, tarnish-resistant stainless steel. Anime-inspired gothic ring for daily wear. ₦3,500. Ships nationwide.
+Focus keyword                       : skeleton hand ring
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Silver-tone skeletal hand Palm Ring worn on a finger, bones wrapping around the digit
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a silver-tone skeletal hand ring, bony fingers wrapping a ring band, resting on ink-black #111111 surface with paper-white #FAFAFA highlights. Single manga-red #E2261C accent slash behind the ring. Halftone dot texture, dramatic speed lines, fine ink splatter, framed in a clean manga panel. Premium, cinematic macro lighting, crisp metallic reflections, high detail.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

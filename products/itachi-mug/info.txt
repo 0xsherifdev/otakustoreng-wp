@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Itachi mug
+SLUG         : itachi-mug
+BUMPA ID     : 4430158
+WOO TYPE     : simple
+PARENT SKU   : OSN-4430158
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Bottles & Drinkware
+  - Shop by Anime > Naruto
+
+TAGS: Itachi mug, Naruto mug, Itachi Uchiha, Akatsuki, anime mug, ceramic coffee mug, anime drinkware, Naruto merch
+FRANCHISE: Naruto    CHARACTER: Itachi Uchiha
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦8,500
+Total stock   : 500
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Sip like a Sharingan-wielding legend.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Start every morning with the Uchiha prodigy on your desk. This anime-inspired ceramic mug wraps Itachi and the Akatsuki red clouds in bold manga-panel art, with a roomy capacity for coffee, tea or ramen-day vibes.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the calm, deadly focus of the Uchiha prodigy. This Itachi mug wraps the legendary Akatsuki shinobi in a wraparound manga-panel collage, complete with the signature red-cloud robe and that piercing Sharingan stare. It is the kind of piece that turns a basic coffee break into a full anime moment.</p><p>Built from food-safe ceramic with a vivid printed finish, it is made for daily duty at your desk, kitchen or battle station. A fan-made, anime-inspired design for true Naruto heads, not affiliated with or endorsed by any official rights holder.</p><ul><li>Character: Itachi Uchiha (Akatsuki) wraparound manga-panel artwork</li><li>Material: food-safe ceramic with a glossy printed exterior</li><li>Shape: classic straight-wall mug with comfortable C-handle</li><li>Use: hot or cold drinks, coffee, tea, cocoa</li><li>Care: hand-wash recommended to protect the print and keep colours sharp</li><li>Best for: desk setups, gifting, anime collections and everyday brews</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Itachi Uchiha + Akatsuki red-cloud art wrapped around the body
+  • Food-safe ceramic with a bold glossy print finish
+  • Comfortable C-handle for everyday coffee, tea or cocoa
+  • Hand-wash recommended to keep the manga art crisp
+  • Fan-made, anime-inspired Naruto design
+  • Ships from Nigeria nationwide and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (44 chars)        : Itachi Mug | Naruto Anime Ceramic Coffee Mug
+Meta Description (151 chars) : Itachi Uchiha anime-inspired ceramic mug with Akatsuki red-cloud manga art. Food-safe coffee mug for Naruto fans. ₦8,500, ships from Nigeria worldwide.
+Focus keyword                       : Itachi mug
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: White ceramic Itachi Uchiha mug with Akatsuki red-cloud manga-panel artwork held in hand
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-Manga studio product shot of a white ceramic coffee mug featuring Itachi Uchiha in his Akatsuki red-cloud robe, Sharingan eyes glowing, wraparound manga-panel collage on the mug body. Ink black #111111 background, paper white #FAFAFA mug, single manga-red #E2261C accent on the clouds and one speed-line burst. Halftone dot shading, sharp ink splatter, dramatic manga panel framing, faint steam rising from the rim, cinematic single key light, premium high-contrast composition. No text, no logos, no watermarks.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

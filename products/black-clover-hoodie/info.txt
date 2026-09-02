@@ -1,0 +1,83 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Black clover hoodie
+SLUG         : black-clover-hoodie
+BUMPA ID     : 3167929
+WOO TYPE     : variable
+PARENT SKU   : OSN-3167929
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+
+TAGS: Black Clover hoodie, Black Bulls hoodie, anime hoodie, Black Clover merch, anime pullover hoodie, Asta hoodie, streetwear hoodie, anime-inspired hoodie
+FRANCHISE: Black Clover    CHARACTER: Black Bulls Squad
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦21,000
+Total stock   : 79
+VARIATIONS (attribute: Size)
+  L              | ₦21,000 | stock 19   | SKU OSN-3167929-L
+  XL             | ₦21,000 | stock 20   | SKU OSN-3167929-XL
+  2XL            | ₦21,000 | stock 20   | SKU OSN-3167929-2XL
+  3XL            | ₦21,000 | stock 20   | SKU OSN-3167929-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Rep the Black Bulls. No turning back.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Anime-inspired Black Clover pullover hoodie in ink-black with a bold gold Black Bulls skull on the back, a five-leaf clover on the chest, and gothic sleeve print. Brushed-fleece warmth, unisex streetwear fit.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some never give up, and they never lose. This Black Clover pullover hoodie carries the full Black Bulls energy: the squad's gold bull-skull insignia printed large across the back, a clean five-leaf clover on the left chest, and "Black Clover" gothic lettering running down both sleeves. Ink-black base, premium gold print, built for fans who wear the roster loud.</p>
+<p>The brushed-fleece interior keeps the warmth in while the unisex streetwear cut layers easily over a tee or under a jacket. A everyday-fit anime statement piece, not a costume. Fan-made and anime-inspired; not official or affiliated with the rights holders.</p>
+<ul>
+<li>Pullover hoodie with front kangaroo pocket</li>
+<li>Soft brushed-fleece interior for everyday warmth</li>
+<li>Ribbed cuffs and hem for a snug, lasting shape</li>
+<li>Front: five-leaf clover chest print; Back: large Black Bulls bull-skull insignia; both sleeves: gothic "Black Clover" lettering</li>
+<li>Ink-black base with gold-tone graphics</li>
+<li>Unisex streetwear fit; available in L, XL, 2XL and 3XL</li>
+<li>Machine wash cold, inside-out; hang or line dry to protect the print</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold gold Black Bulls bull-skull insignia across the back
+  • Five-leaf clover chest print plus gothic 'Black Clover' sleeve lettering
+  • Soft brushed-fleece interior for real warmth
+  • Ribbed cuffs and hem with front kangaroo pocket
+  • Unisex streetwear fit, sizes L to 3XL
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (48 chars)        : Black Clover Hoodie | Black Bulls Anime Pullover
+Meta Description (144 chars) : Black Clover Black Bulls hoodie in ink-black with gold bull-skull back print and clover chest. Brushed fleece, unisex fit, sizes L-3XL. ₦21,000.
+Focus keyword                       : Black Clover hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black Clover Black Bulls pullover hoodie, front and back, ink-black with gold five-leaf clover chest print and large bull-skull insignia on the back
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-Manga style studio product shot of a black pullover anime hoodie on an invisible mannequin, three-quarter angle. Ink black #111111 garment against a paper white #FAFAFA seamless backdrop. Gold-tone Black Bulls bull-skull insignia glowing on the back panel, single manga-red #E2261C accent in halftone dots and sharp speed lines radiating behind the hoodie. Ink splatter framing, bold manga panel borders, dramatic cinematic side lighting, premium streetwear catalog feel, high detail on brushed-fleece texture and ribbed cuffs.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

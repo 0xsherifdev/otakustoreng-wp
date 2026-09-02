@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Naruto Stickers
+SLUG         : naruto-stickers
+BUMPA ID     : 1139658
+WOO TYPE     : simple
+PARENT SKU   : OSN-1139658
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Stickers
+  - Shop by Anime > Naruto
+
+TAGS: Naruto stickers, anime stickers, vinyl sticker pack, waterproof stickers, laptop stickers, Naruto Uzumaki, Kakashi, Sasuke, anime merch Nigeria, Hidden Leaf
+FRANCHISE: Naruto    CHARACTER: Naruto Uzumaki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦1,000
+Total stock   : 984
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Deck out your gear with the whole Hidden Leaf roster.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A 10-piece pack of waterproof Naruto vinyl stickers - Naruto, Kakashi, Sasuke, Sakura and more. Vivid, fade-resistant die-cuts that stick clean to laptops, bottles, phones and notebooks. Mix-and-match shinobi energy in one drop.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Bring the Hidden Leaf to every surface you own. This Naruto sticker pack loads you up with fan-favourite shinobi - from Naruto Uzumaki and Kakashi to Sasuke, Sakura, Gaara and the iconic Sharingan crest - in bold die-cut vinyl that pops against any background.</p><p>Each sticker is printed in vivid, fade-resistant colour and finished with a waterproof coating, so your laptop, water bottle, journal or phone case stays looking sharp through daily wear. Peel, stick and customise your kit your way. Anime-inspired fan art, not affiliated with the official franchise.</p><ul><li>Pack of 10 die-cut Naruto vinyl stickers</li><li>Waterproof, scratch- and fade-resistant finish</li><li>Vivid full-colour print with clean cut edges</li><li>Sticks to laptops, water bottles, phones, notebooks, skateboards and more</li><li>Smooth, residue-free peel-and-stick backing</li><li>Designs feature Naruto, Kakashi, Sasuke, Sakura, Gaara, Jiraiya and the Sharingan</li><li>Fan / anime-inspired artwork - not official or licensed merchandise</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • 10-piece die-cut Naruto vinyl sticker pack
+  • Waterproof and fade-resistant for everyday use
+  • Vivid full-colour print with crisp cut edges
+  • Sticks to laptops, bottles, phones and notebooks
+  • Features Naruto, Kakashi, Sasuke, Sakura and more
+  • Fan / anime-inspired, not official merch
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (44 chars)        : Naruto Stickers - 10pc Waterproof Vinyl Pack
+Meta Description (150 chars) : Naruto sticker pack: 10 waterproof, fade-resistant vinyl die-cuts featuring Naruto, Kakashi, Sasuke and more. For laptops, bottles and phones. ₦1,000.
+Focus keyword                       : Naruto stickers
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Spread of die-cut Naruto vinyl stickers featuring Naruto, Kakashi, Sasuke, Sakura, Gaara, Jiraiya and the Sharingan crest.
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio flat-lay of a 10-piece Naruto-inspired vinyl sticker pack fanned across a paper-white #FAFAFA surface, ink-black #111111 background panel. Single manga-red #E2261C accent stripe and a bold red "STICK THE ROSTER" callout. Halftone dot shading, sharp speed lines radiating from the stickers, subtle ink splatter at the corners, divided into clean manga panels. Premium, cinematic, high-contrast product photography lighting; crisp die-cut sticker edges catching a soft highlight.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

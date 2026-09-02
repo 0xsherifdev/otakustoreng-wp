@@ -1,0 +1,84 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : One Peice Op Silver N Gold Chaun
+SLUG         : one-peice-op-silver-n-gold-chaun
+BUMPA ID     : 1134753
+WOO TYPE     : variable
+PARENT SKU   : OSN-1134753
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Shop by Anime > One Piece
+
+TAGS: One Piece necklace, Straw Hat Jolly Roger pendant, Luffy necklace, anime layered necklace, skull and crossbones pendant, One Piece accessories, anime jewelry Nigeria, silver and gold chain
+FRANCHISE: One Piece    CHARACTER: Monkey D. Luffy
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦6,000
+Total stock   : 400
+VARIATIONS (attribute: Color)
+  Silver         | ₦6,000 | stock 200  | SKU OSN-1134753-SILVER
+  Gold           | ₦6,000 | stock 200  | SKU OSN-1134753-GOLD
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Layered Straw Hat Jolly Roger pendant chain
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Set sail with this layered One Piece necklace: a fine curb chain stacked over a bold cable chain, finished with the Straw Hat Jolly Roger pendant. Fan-made, anime-inspired, and built for everyday wear in silver or gold.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Rep the Straw Hat crew without saying a word. This layered One Piece necklace stacks a slim curb chain over a chunkier cable/paperclip chain, anchored by the iconic skull-and-crossbones Jolly Roger pendant in Luffy's signature straw-hat style. The two-tier drop gives it real presence, while the open cut-out pendant keeps it clean and wearable with anything from a tee to a hoodie.</p>
+<p>Choose Silver for a crisp, cool-toned finish or Gold for a warmer statement glow. Anime-inspired, fan-made design for One Piece fans, not affiliated with or endorsed by the official rights holders.</p>
+<ul>
+<li>Design: layered double-chain necklace with Straw Hat Jolly Roger (skull-and-crossbones) pendant</li>
+<li>Style: one fine curb chain layered over a bolder cable/paperclip-link chain</li>
+<li>Finish options: Silver tone or Gold tone</li>
+<li>Pendant: open cut-out design for a clean, modern look</li>
+<li>Closure: lobster-clasp style fastening</li>
+<li>Wear: lightweight, everyday accessory that pairs with casual and streetwear fits</li>
+<li>Care: keep dry, wipe clean, and store flat to preserve the finish</li>
+<li>In the box: one layered Straw Hat pendant necklace in your chosen colour</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Iconic Straw Hat Jolly Roger pendant from One Piece
+  • Layered look: fine curb chain over a bold cable chain
+  • Choose Silver tone or Gold tone to match your fit
+  • Clean open cut-out pendant, lightweight for daily wear
+  • Fan-made, anime-inspired design for One Piece fans
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (52 chars)        : One Piece Straw Hat Layered Necklace | Silver & Gold
+Meta Description (151 chars) : One Piece layered necklace with the Straw Hat Jolly Roger pendant. Fan-made, anime-inspired, in silver or gold. ₦6,000. Ships nationwide and worldwide.
+Focus keyword                       : One Piece necklace
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: One Piece layered necklace with Straw Hat Jolly Roger skull pendant, shown in silver and gold finishes
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-Manga product studio shot of a layered One Piece-inspired necklace: a fine curb chain stacked over a bold cable-link chain with a cut-out Straw Hat Jolly Roger (skull-and-crossbones) pendant. Two pieces side by side, one silver-tone and one gold-tone. Ink black #111111 background, paper white #FAFAFA accents, single manga-red #E2261C accent on a thin underline and one ink splatter; halftone dot texture, subtle speed lines radiating from the pendants, manga panel framing. Premium, cinematic product lighting, crisp metallic reflections, high detail. No text, no logos, no watermark.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

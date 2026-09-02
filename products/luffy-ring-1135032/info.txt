@@ -1,0 +1,82 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Luffy Ring
+SLUG         : luffy-ring-1135032
+BUMPA ID     : 1135032
+WOO TYPE     : simple
+PARENT SKU   : OSN-1135032
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Shop by Anime > One Piece
+
+TAGS: Luffy ring, One Piece ring, anime ring, Straw Hat Pirates, Monkey D Luffy, adjustable ring, anime accessories, anime jewelry
+FRANCHISE: One Piece    CHARACTER: Monkey D. Luffy
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦2,500
+Total stock   : 1000
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Throw your fist up. Claim the throne.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A bold, antiqued statement ring with a gold-tone Luffy raising his fist over a sunburst of speed lines, framed by carved waves. Open adjustable band fits most fingers, so any pirate can rep the Straw Hats every day.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some crews follow flags. The King of the Pirates throws his fist to the sky. This <strong>Luffy Ring</strong> turns that moment into everyday hardware: a raised gold-tone figure of Luffy mid-charge, set against engraved speed lines and a sunburst, wrapped in carved ocean waves and manga-style lettering. The antiqued silver-tone finish gives the detail real depth, so it reads like a battle panel pulled straight off the page.</p>
+<p>It's a fan-made, One Piece-inspired piece built to be worn, not boxed. The open shank flexes to fit, so it sits comfortably whether you stack it or run it solo. Affordable enough to grab on impulse, loud enough to start a conversation at the next meetup.</p>
+<ul>
+<li>Anime-inspired statement ring featuring Monkey D. Luffy with raised fist</li>
+<li>Two-tone look: antiqued silver-tone band with a gold-tone Luffy accent</li>
+<li>Sculpted detail: sunburst speed lines, carved ocean waves, manga lettering</li>
+<li>Open adjustable band - one size fits most, easy to size up or down</li>
+<li>Durable everyday metal alloy finish, made to be worn daily</li>
+<li>Wide statement band that stacks or stands on its own</li>
+<li>Fan / anime-inspired design - not official or affiliated with the rights holders</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Gold-tone Luffy raising his fist over a sunburst of speed lines
+  • Antiqued silver-tone band with sculpted ocean-wave detail
+  • Open adjustable shank - one size fits most fingers
+  • Durable everyday alloy, made to be worn not boxed
+  • Wide statement band that stacks or runs solo
+  • Fan-made One Piece-inspired ring - not official or affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (55 chars)        : Luffy Ring - One Piece Anime Adjustable Band | Otaku NG
+Meta Description (151 chars) : Anime-inspired Luffy ring with gold-tone fist, speed lines and carved waves on an adjustable silver-tone band. Rep One Piece daily. Ships from Nigeria.
+Focus keyword                       : Luffy ring
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Antiqued silver-tone Luffy ring with a gold-tone figure raising his fist over engraved speed lines and ocean waves
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a wide statement ring lying on ink-black #111111 surface, paper-white #FAFAFA halftone-dot backdrop, single manga-red #E2261C accent slash behind it. The ring is antiqued silver-tone with a gold-tone figure raising a fist over sculpted sunburst speed lines and carved ocean waves. Dramatic cinematic side lighting, sharp macro focus on the engraved detail, ink splatter and manga speed lines radiating from the band, premium high-contrast composition, single manga panel framing.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

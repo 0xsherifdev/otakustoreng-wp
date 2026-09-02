@@ -1,0 +1,86 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Kurapika  Acid tee
+SLUG         : kurapika-acid-tee
+BUMPA ID     : 4434919
+WOO TYPE     : variable
+PARENT SKU   : OSN-4434919
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+  - Shop by Anime > Hunter x Hunter
+
+TAGS: Kurapika, Hunter x Hunter, Kurapika t-shirt, anime acid wash tee, scarlet eyes, Kurta clan, anime graphic tee, vintage wash shirt, HxH merch, unisex anime tee
+FRANCHISE: Hunter x Hunter    CHARACTER: Kurapika
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦26,000
+Total stock   : 2500
+VARIATIONS (attribute: Size)
+  M              | ₦26,000 | stock 500  | SKU OSN-4434919-M
+  L              | ₦26,000 | stock 500  | SKU OSN-4434919-L
+  XL             | ₦26,000 | stock 500  | SKU OSN-4434919-XL
+  2XL            | ₦26,000 | stock 500  | SKU OSN-4434919-2XL
+  XXXL           | ₦26,000 | stock 500  | SKU OSN-4434919-XXXL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Scarlet eyes and chains, washed into vintage charcoal.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A Kurapika-inspired acid-wash tee built around the Kurta clan's scarlet eyes, chained heart and dagger motif. Vintage faded charcoal finish, big back print, subtle chest hit. Unisex regular fit, soft cotton, crew neck. Fan-made, not affiliated.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the last of the Kurta clan. This Kurapika-inspired acid-wash tee gathers everything that makes him unforgettable: the ring of scarlet eyes, the Nen-chained heart and the dagger pointed straight down the spine of the design. The stone-washed charcoal base gives every piece a one-of-a-kind vintage fade, so no two tees look exactly alike.</p>
+<p>A bold graphic dominates the back while a clean dagger emblem sits on the left chest, so it reads loud from behind and understated from the front. Built for daily rotation, it holds the print through wash after wash. Anime-inspired, fan-made and not affiliated with or endorsed by the rights holders.</p>
+<ul>
+<li>Character: Kurapika (Hunter x Hunter) fan design</li>
+<li>Acid-wash / stone-wash finish for a vintage faded look (each piece varies slightly)</li>
+<li>Soft cotton, unisex regular fit, classic crew neck</li>
+<li>Large back graphic print with a small front left-chest emblem</li>
+<li>Durable, fade-resistant print built for everyday wear</li>
+<li>Sizes: M, L, XL, 2XL, XXXL</li>
+<li>Care: machine wash cold, inside-out; do not tumble dry hot</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Scarlet-eyes, chained-heart and dagger Kurapika artwork
+  • Acid-wash charcoal finish with a unique vintage fade
+  • Bold back print plus subtle front chest emblem
+  • Soft cotton, unisex regular fit, crew neck
+  • Fade-resistant print made for daily wear
+  • Sizes M through XXXL
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (50 chars)        : Kurapika Acid Wash Tee | Hunter x Hunter Fan Shirt
+Meta Description (155 chars) : Kurapika acid-wash tee with scarlet eyes, chained heart and dagger art. Vintage charcoal finish, soft cotton, unisex fit. Sizes M-XXXL. Ships from Nigeria.
+Focus keyword                       : Kurapika acid wash tee
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Charcoal acid-wash Kurapika tee showing scarlet eyes, a chained red heart and a dagger on the back, with a small dagger emblem on the front chest
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a folded acid-wash charcoal anime t-shirt on ink-black #111111 surface; the Kurapika-inspired back graphic of a ring of eyes, a chained red heart and a dagger faces up, single manga-red #E2261C accent glowing against paper-white #FAFAFA halftone dots, dramatic speed lines and ink splatter framing the manga panel, cinematic premium lighting, sharp focus on the fabric weave and vintage faded texture.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

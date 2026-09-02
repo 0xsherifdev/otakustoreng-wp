@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Hxh Sticker
+SLUG         : hxh-sticker
+BUMPA ID     : 1141034
+WOO TYPE     : simple
+PARENT SKU   : OSN-1141034
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Stickers
+  - Shop by Anime > Hunter x Hunter
+
+TAGS: Hunter x Hunter stickers, HxH sticker pack, anime vinyl stickers, waterproof laptop stickers, Gon stickers, Killua stickers, anime decals, otaku stickers
+FRANCHISE: Hunter x Hunter    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦1,000
+Total stock   : 999
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Take the Hunter Exam everywhere you go
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A 10-piece Hunter x Hunter vinyl sticker pack built for Gon, Killua and Hisoka fans. Waterproof, fade-resistant ink that slaps onto laptops, bottles, phones and notebooks with bold, clean color.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Carry the Hunter Association on everything you own. This Hunter x Hunter sticker pack stacks ten anime-inspired vinyl decals so you can deck out a laptop lid, water bottle, phone case or notebook in one go. Vivid, fade-resistant print and clean die-cut edges mean every design pops like a fresh manga panel.</p><p>Cut from durable, waterproof vinyl that shrugs off spills, scuffs and daily handling. Peel, stick, and let the roster do the talking. Fan-made and anime-inspired, not affiliated with the official rights holders.</p><ul><li>Pack of 10 vinyl stickers, Hunter x Hunter theme</li><li>Waterproof and weather-resistant material</li><li>Vivid, fade-resistant printing with crisp die-cut edges</li><li>Sticks to laptops, water bottles, phones, notebooks, consoles and more</li><li>Strong residue-light adhesive for smooth surfaces</li><li>Wipe clean with a dry cloth; avoid soaking or scrubbing</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • 10-piece Hunter x Hunter vinyl sticker pack
+  • Waterproof and fade-resistant for everyday wear
+  • Sticks to laptops, bottles, phones and notebooks
+  • Bold, crisp die-cut anime-inspired designs
+  • Fan-made tribute, not official or licensed
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (53 chars)        : Hunter x Hunter Sticker Pack (10pcs) | Otaku Store NG
+Meta Description (155 chars) : Hunter x Hunter sticker pack: 10 waterproof, fade-resistant anime vinyl decals for laptops, bottles and phones. Ships nationwide and worldwide from ₦1,000.
+Focus keyword                       : Hunter x Hunter stickers
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Hunter x Hunter 10-piece anime vinyl sticker pack on a white background
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio flat-lay of a Hunter x Hunter inspired vinyl sticker pack, ten die-cut decals fanned across a paper-white #FAFAFA surface. Ink black #111111 shadows, single manga-red #E2261C accent on a hero sticker. Halftone dot texture, dynamic speed lines streaking from the corner, a flick of ink splatter, framed inside a clean manga panel border. Premium, cinematic product photography, high contrast, sharp focus.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

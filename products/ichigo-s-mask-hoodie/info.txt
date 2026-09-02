@@ -1,0 +1,91 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Ichigo’s Mask Hoodie
+SLUG         : ichigo-s-mask-hoodie
+BUMPA ID     : 2964647
+WOO TYPE     : variable
+PARENT SKU   : OSN-2964647
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+  - Shop by Anime > Bleach
+
+TAGS: Bleach hoodie, Ichigo hoodie, Hollow mask hoodie, Bleach anime merch, Ichigo Kurosaki, anime hoodie, Soul Reaper, Bleach merch
+FRANCHISE: Bleach    CHARACTER: Ichigo Kurosaki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦18,500
+Total stock   : 800
+VARIATIONS (attribute: Size & Material)
+  L-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964647-LTHICKCOTTON
+  L-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964647-LTHICKPOLYESTER
+  Xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964647-XLTHICKCOTTON
+  Xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964647-XLTHICKPOLYESTER
+  2xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964647-2XLTHICKCOTTON
+  2xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964647-2XLTHICKPOLYESTER
+  3xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964647-3XLTHICKCOTTON
+  3xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964647-3XLTHICKPOLYESTER
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Channel the Hollow within
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Black pullover hoodie blazing with Ichigo's torn Hollow mask on the chest and BLEACH down both sleeves. Brushed-fleece interior, kangaroo pocket, ribbed cuffs and hem. Pick Thick Cotton or Thick Polyester, sizes L to 3XL. Unisex streetwear fit.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>When Ichigo's inner Hollow takes over, the mask comes out, and so does this hoodie. The torn Hollow mask rips across the chest in blood-red and bone-white, with the iconic yellow eye staring you down, while BLEACH runs bold down both sleeves. It is a Soul Reaper statement piece built for every Shinigami, Quincy and Hollow fan in the roster.</p>
+<p>Cut for unisex streetwear layering with a brushed-fleece interior that keeps you warm, this anime-inspired pullover wears clean over a tee and just as hard on its own. Choose your fabric and lock in your size before it sells out.</p>
+<ul>
+<li>Pullover hoodie with full-colour Ichigo Hollow mask chest print and BLEACH sleeve graphics</li>
+<li>Fabric choice: Thick Cotton or Thick Polyester</li>
+<li>Sizes: L, XL, 2XL, 3XL</li>
+<li>Brushed-fleece lined interior for warmth</li>
+<li>Ribbed cuffs and hem to hold shape</li>
+<li>Front kangaroo pocket and adjustable drawstring hood</li>
+<li>Unisex streetwear fit</li>
+<li>Machine wash cold, inside-out; do not tumble dry the print</li>
+<li>Fan-made, anime-inspired design; not official or affiliated with the Bleach licensors</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Iconic Ichigo Hollow mask print across the chest in red, white and gold
+  • BLEACH graphics down both sleeves for full Soul Reaper energy
+  • Brushed-fleece interior for real warmth and comfort
+  • Choose Thick Cotton or Thick Polyester, sizes L to 3XL
+  • Ribbed cuffs and hem, kangaroo pocket, drawstring hood
+  • Unisex streetwear fit that layers easily
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (47 chars)        : Ichigo Hollow Mask Hoodie | Bleach Anime Hoodie
+Meta Description (155 chars) : Bleach Ichigo Hollow mask pullover hoodie. Brushed fleece, kangaroo pocket, ribbed cuffs. Thick Cotton or Polyester, L-3XL. Ships nationwide and worldwide.
+Focus keyword                       : Ichigo Hollow mask hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black Bleach pullover hoodie with Ichigo's torn Hollow mask printed in red and white on the chest and BLEACH down both sleeves
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a black pullover hoodie featuring Ichigo's torn Hollow mask graphic in manga-red and bone-white on the chest, BLEACH text down the sleeves. Ink black #111111 background, paper white #FAFAFA rim light, single manga-red #E2261C accent. Halftone dot shading, sharp speed lines radiating from the chest mask, ink splatter at the edges, framed in clean manga panels. Premium, cinematic, high-contrast streetwear catalog lighting, folded-flat hero composition. No visible logos or trademarks, no text watermarks.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

@@ -1,0 +1,85 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Aot Necklace
+SLUG         : aot-necklace
+BUMPA ID     : 1146058
+WOO TYPE     : simple
+PARENT SKU   : OSN-1146058
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Shop by Anime > Naruto
+  - Shop by Anime > Attack on Titan
+
+TAGS: Attack on Titan necklace, Wings of Freedom pendant, Survey Corps emblem, Scout Regiment merch, anime necklace, AOT accessories, anime cosplay jewellery, Otaku Store NG
+FRANCHISE: Attack on Titan    CHARACTER: Survey Corps
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,000
+Total stock   : 990
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Wings of Freedom on your chest.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Rep the Scouts with this Attack on Titan Wings of Freedom pendant necklace. The Survey Corps emblem rendered in crisp blue-and-white enamel on a black cord, ready for everyday wear or cosplay layering.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>The Survey Corps lives by one creed: humanity advances. Now you can carry the Wings of Freedom everywhere you go. This anime-inspired Attack on Titan necklace features the iconic Scout Regiment emblem rendered in clean blue-and-white enamel, with the crossed feathers catching the light just like the real deal on a Scout's cloak.</p>
+<p>Hung on an adjustable black cord, it sits clean over a tee or layers under your jacket collar. Lightweight, low-key, and instantly recognisable to anyone who knows the wall, it is the easiest way to fly your colours without saying a word. Wear the roster, Scout style.</p>
+<ul>
+<li><strong>Series:</strong> Attack on Titan (Shingeki no Kyojin) - Survey Corps / Scout Regiment</li>
+<li><strong>Item:</strong> Wings of Freedom emblem pendant necklace</li>
+<li><strong>Pendant material:</strong> Durable metal alloy with blue-and-white enamel fill</li>
+<li><strong>Chain:</strong> Black woven cord with adjustable closure</li>
+<li><strong>Style:</strong> Everyday wear, cosplay accessory, layering piece</li>
+<li><strong>Includes:</strong> 1x Wings of Freedom pendant on cord</li>
+<li><strong>Price:</strong> ₦4,000</li>
+<li><strong>Delivery:</strong> 1-5 days within Nigeria; nationwide and worldwide shipping</li>
+<li><strong>Care:</strong> Wipe clean with a soft dry cloth; keep away from water and harsh chemicals to protect the enamel</li>
+</ul>
+<p><em>Fan-made, anime-inspired merch. Not official or licensed; not affiliated with the creators or rights holders.</em></p>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Survey Corps Wings of Freedom emblem in blue-and-white enamel
+  • Durable metal alloy pendant on an adjustable black cord
+  • Lightweight and low-key for everyday wear or cosplay
+  • Instantly recognisable to any Attack on Titan fan
+  • Affordable way to rep the Scouts at just ₦4,000
+  • Ships 1-5 days within Nigeria, nationwide and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (51 chars)        : Attack on Titan Necklace - Wings of Freedom Pendant
+Meta Description (152 chars) : Attack on Titan Wings of Freedom pendant necklace. Survey Corps emblem in blue-and-white enamel on a black cord. ₦4,000. Ships nationwide and worldwide.
+Focus keyword                       : Attack on Titan necklace
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Attack on Titan Wings of Freedom pendant necklace with blue-and-white Survey Corps emblem on a black cord, held in hand.
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of an Attack on Titan Wings of Freedom enamel pendant on a black cord necklace, ink black #111111 background with paper white #FAFAFA accents and a single manga-red #E2261C accent line. Halftone dot shading, dynamic speed lines radiating behind the pendant, ink splatter framing, arranged inside a sharp manga panel border. The blue-and-white Survey Corps crossed-feathers emblem catches a hard rim light, premium and cinematic, high detail, dramatic contrast.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - QA fixes applied: SEO title 'Attack on Titan Necklace - Wings of Freedom Pendant' is 51 chars (OK), but verify count — it's fine. However the meta_description is 152 chars (OK).; The Survey Corps / Wings of Freedom emblem is correct for Attack on Titan, and the canonical colors are blue-and-white, so franchise/character/colors are accurate.; No 'official/licensed' claims and a proper fan-made disclaimer is present — good. No trademark issues.; Minor: short_description is ~40 words (within range) and on-voice — acceptable.; Specifics like 'metal alloy with enamel fill' and 'woven cord, adjustable closure' are true-to-type for an Accessories pendant and not invented measurements — acceptable. No fake awards/reviews.; Brand tagline 'Wear the roster.' was not present in the content; added it to the long description close to reinforce brand voice (optional brand reinforcement, not required). Otherwise voice is strong.; Overall the content is high quality; the only real edits are light polish for brand-voice tagline inclusion and tightening. No franchise/character/SEO/disclaimer errors were found, so changes are minor/optional.
+================================================================================

@@ -1,0 +1,89 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Chainsaw Zip Up Hoodie
+SLUG         : chainsaw-zip-up-hoodie
+BUMPA ID     : 1123105
+WOO TYPE     : variable
+PARENT SKU   : OSN-1123105
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+  - Shop by Anime > Chainsaw Man
+
+TAGS: Chainsaw Man hoodie, Chainsaw Man zip up hoodie, Pochita hoodie, Denji cosplay hoodie, anime zip up hoodie, chainsaw devil hoodie, anime cosplay streetwear, full face zip hoodie
+FRANCHISE: Chainsaw Man    CHARACTER: Chainsaw Man (Denji / Pochita)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦25,000
+Total stock   : 500
+VARIATIONS (attribute: Size)
+  M              | ₦25,000 | stock 100  | SKU OSN-1123105-M
+  L              | ₦25,000 | stock 100  | SKU OSN-1123105-L
+  XL             | ₦25,000 | stock 100  | SKU OSN-1123105-XL
+  2XL            | ₦25,000 | stock 100  | SKU OSN-1123105-2XL
+  XXXL           | ₦25,000 | stock 100  | SKU OSN-1123105-XXXL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Pull the cord. Become the Chainsaw Devil.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A full-zip cosplay hoodie built for Chainsaw Man fans, with a sculpted chainsaw-blade hood ridge, big round Pochita eyes and a zip-up devil face. Brushed-fleece warmth, ribbed cuffs and bold chest lettering — pure streetwear chaos.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>This is not a subtle hoodie — and that is the point. Our Chainsaw Zip Up Hoodie channels Denji's transformation into a wearable cosplay piece: a sculpted chainsaw-blade ridge runs over the crown of the hood, flanked by oversized round Pochita-style eyes, while the full-length front zip doubles as the Chainsaw Devil's grinning mouth. Zip it all the way up and your face disappears behind the design; leave it open for everyday streetwear duty.</p>
+<p>Cut in a relaxed unisex fit with a brushed-fleece interior for genuine warmth, it carries bold graffiti-style chest lettering and a roomy kangaroo pocket. A fan-made, anime-inspired tribute to Chainsaw Man — built for conventions, cosplay and cold-weather flexing alike. Not affiliated with or endorsed by the official rights holders.</p>
+<ul>
+<li>Full-length front zip styled as the Chainsaw Devil's mouth — zip up to mask the face</li>
+<li>Sculpted chainsaw-blade ridge over the hood with raised Pochita-inspired eyes</li>
+<li>Bold appliqué-style graffiti lettering across the chest</li>
+<li>Brushed-fleece interior for warmth; ribbed cuffs and hem to hold heat in</li>
+<li>Front kangaroo pocket for hands and essentials</li>
+<li>Relaxed unisex streetwear fit; sizes M, L, XL, 2XL, XXXL</li>
+<li>Made with cotton and polyester blend fabric</li>
+<li>Machine wash cold, inside-out; do not bleach; hang or low-tumble dry</li>
+<li>Choose your colour preference in the order notes at checkout</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Sculpted chainsaw-blade hood ridge with raised Pochita-style eyes
+  • Full-length zip styled as the Chainsaw Devil's grinning mouth
+  • Brushed-fleece interior with ribbed cuffs and hem for warmth
+  • Bold graffiti-style chest lettering on a relaxed unisex fit
+  • Roomy kangaroo pocket; sizes M through XXXL
+  • Fan-made, anime-inspired tribute — not affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (41 chars)        : Chainsaw Man Zip Up Hoodie | Cosplay Hood
+Meta Description (153 chars) : Chainsaw Man zip up hoodie with a sculpted chainsaw-blade hood, Pochita eyes and zip-up devil face. Fleece-lined unisex cosplay streetwear. Shop ₦25,000.
+Focus keyword                       : Chainsaw Man zip up hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Orange Chainsaw Man zip up cosplay hoodie with sculpted chainsaw-blade hood ridge, round Pochita eyes and graffiti chest lettering, worn outdoors
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of an orange Chainsaw Man full-zip cosplay hoodie on an invisible mannequin against an ink-black #111111 backdrop. Manga-red #E2261C halftone-dot glow and diagonal speed lines radiating behind the hood; the sculpted chainsaw-blade ridge over the crown and round Pochita-style eyes catch a hard cinematic key light. Paper-white #FAFAFA rim light traces the full-length zip running down the front like a grinning mouth. Subtle ink-splatter accents at the corners, framed in a single bold manga panel border. Premium, high-contrast, editorial; no text, no logos, no watermark.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

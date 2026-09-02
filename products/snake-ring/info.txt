@@ -1,0 +1,83 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Snake Ring
+SLUG         : snake-ring
+BUMPA ID     : 1874005
+WOO TYPE     : simple
+PARENT SKU   : OSN-1874005
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Rings
+  - Shop by Anime > Naruto
+
+TAGS: Orochimaru ring, snake ring, Naruto ring, Naruto accessories, anime ring, serpent wrap ring, silver-tone ring, Otaku Store NG
+FRANCHISE: Naruto    CHARACTER: Orochimaru
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦3,500
+Total stock   : 7
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Coil the serpent's curse around your finger.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A coiled serpent wraps your finger in polished silver-tone steel, scales etched down the body and gold-tone markings crowning the head. An Orochimaru-inspired statement ring built for daily wear and zero tarnish.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the Snake Sannin. This Orochimaru-inspired wrap ring coils a detailed serpent around your finger, its scaled body sculpted in high-polish silver-tone metal and crowned with subtle gold-tone markings across the head. The open, adjustable design hugs the finger with the tail trailing off in a clean, cinematic line, so it reads like a piece of Naruto lore you actually wear.</p>
+<p>Tarnish-resistant and built for everyday rotation, it stacks easily with other pieces or stands alone as a bold centrepiece. A fan-made, anime-inspired tribute, not affiliated with or endorsed by the official rights holders.</p>
+<ul>
+<li><strong>Design:</strong> coiled serpent wrap ring, Orochimaru / Naruto-inspired</li>
+<li><strong>Material:</strong> stainless steel / alloy with polished silver-tone finish</li>
+<li><strong>Accents:</strong> gold-tone etched markings across the snake's head</li>
+<li><strong>Fit:</strong> open wrap-style band, comfortable for daily wear</li>
+<li><strong>Finish:</strong> high-polish, tarnish-resistant for everyday use</li>
+<li><strong>Sizing:</strong> select your standard ring size at checkout</li>
+<li><strong>In the box:</strong> 1x Snake Ring</li>
+<li><strong>Care:</strong> wipe with a soft dry cloth; avoid harsh chemicals and prolonged water contact</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Coiled serpent wrap design inspired by Orochimaru, the Snake Sannin
+  • Polished silver-tone stainless steel / alloy with crisp scale detailing
+  • Gold-tone etched markings across the serpent's head
+  • Open wrap-style band, comfortable for everyday wear
+  • Tarnish-resistant high-polish finish
+  • Standard ring sizing selected at checkout
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (56 chars)        : Orochimaru Snake Ring | Naruto-Inspired | Otaku Store NG
+Meta Description (150 chars) : Orochimaru-inspired snake ring in polished silver-tone steel with gold-tone head detail. Tarnish-resistant wrap design, standard sizes. ₦3,500. Ships.
+Focus keyword                       : Orochimaru snake ring
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Silver-tone Orochimaru-inspired snake wrap ring with scaled body and gold-tone markings on the serpent's head
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product hero of a polished silver-tone coiled serpent wrap ring resting on ink-black #111111 stone, paper-white #FAFAFA halftone-dot backdrop, a single manga-red #E2261C ink splatter and diagonal speed lines streaking behind it; serpent scales and gold-tone head markings catching a hard cinematic rim light; framed inside a clean manga panel border; premium studio macro shot, high contrast, sharp focus on the snake head, shallow depth of field.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

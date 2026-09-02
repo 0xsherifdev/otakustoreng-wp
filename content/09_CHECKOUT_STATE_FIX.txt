@@ -1,0 +1,111 @@
+OTAKU STORE NG — FIX: INTERNATIONAL CHECKOUT "Please fill in all required fields"
+==================================================================================
+Symptom: International orders (e.g. Kenya) fail on "Place Order" with
+         "Please fill in all required fields", even though every visible field is
+         filled. Nigeria and Ghana check out fine.
+Scope:   Add as its OWN WPCode snippet (separate from the Lagos LGA snippet).
+Checkout type: CLASSIC / shortcode.
+
+
+==================================================================================
+WHAT CAUSED THIS (plain English)
+==================================================================================
+Three things stacked up:
+
+1) WooCommerce makes "State" a REQUIRED field for any country that has a built-in
+   states/regions list. Kenya has one (47 counties), so at checkout Kenya shows
+   "State *" and WooCommerce will not let the order through without it.
+
+2) The Terminal Africa plugin REPLACES the checkout's normal State + City selectors
+   with its OWN dropdowns so it can validate the international address and fetch
+   DHL/FedEx/UPS rates. In the request payload these appear as:
+        terminal_custom_shipping_state2 = 110      (Terminal's code for Nairobi)
+        terminal_custom_shipping_lga2   = Nairobi
+   (Terminal even labels them "state" and "lga".)
+
+3) Terminal writes the chosen CITY back into WooCommerce's native field
+   (billing_city = "Nairobi, Nairobi") ... but it does NOT write the chosen region
+   back into WooCommerce's native billing_state field. That value lives only inside
+   Terminal's own field. So the native field stays empty:
+        billing_state =            <-- EMPTY
+
+   Result: on "Place Order", WooCommerce checks its required fields, finds
+   billing_state empty, and rejects the order with the generic
+   "Please fill in all required fields."
+
+WHY NIGERIA WORKS:
+   For Nigeria you pick a real WooCommerce state (e.g. Lagos = LA) from the native
+   dropdown, so billing_state IS filled. (Your shipping zones also rely on it.)
+
+WHY GHANA WORKS:
+   WooCommerce does NOT enforce a required State for Ghana, so an empty State is
+   accepted. Ghana was never blocked.
+
+WHY ONLY KENYA BROKE:
+   Kenya is the combination of (a) required State + (b) Terminal owning the State
+   field and not syncing it back. Both conditions have to be true, and Kenya is the
+   first destination you tested where they were.
+
+
+==================================================================================
+THE FIX
+==================================================================================
+Tell WooCommerce that "State" is NOT required for any country EXCEPT Nigeria.
+- Nigeria keeps State required (your Lagos + interstate shipping zones match on it).
+- Every other country is handled by Terminal's own validated fields, so the native
+  State field can safely be optional. We lose nothing — Terminal still knows the real
+  destination from its own dropdowns.
+
+
+HOW TO INSTALL
+--------------
+1. WPCode > Code Snippets > + Add Snippet > "Add Your Custom Code (New Snippet)".
+2. Title: "Fix: International State not required (except NG)".
+3. Code Type: PHP Snippet.
+4. Paste everything below ===PHP START=== (no <?php needed).
+5. Insertion: Auto Insert > Run Everywhere. Toggle Active > Save Snippet.
+6. Hard-refresh the checkout and test (see TEST below).
+
+Keep this as a SEPARATE snippet from the Lagos LGA one so each can be toggled
+independently.
+
+
+===PHP START===
+// --- Otaku Store NG: make State optional for all countries except Nigeria ---
+// Terminal Africa owns the State field for international addresses and leaves
+// WooCommerce's native billing_state empty; countries like Kenya require State,
+// so checkout fails with "Please fill in all required fields". Nigeria must keep
+// State required because the custom shipping zones match on it.
+add_filter('woocommerce_checkout_fields', function ($fields) {
+    $country = '';
+    if (isset($_POST['billing_country'])) {
+        $country = wc_clean(wp_unslash($_POST['billing_country']));
+    } elseif (function_exists('WC') && WC()->customer) {
+        $country = WC()->customer->get_billing_country();
+    }
+    if ($country !== '' && $country !== 'NG') {
+        if (isset($fields['billing']['billing_state'])) {
+            $fields['billing']['billing_state']['required'] = false;
+        }
+        if (isset($fields['shipping']['shipping_state'])) {
+            $fields['shipping']['shipping_state']['required'] = false;
+        }
+    }
+    return $fields;
+}, 20);
+// --- end ---
+
+
+==================================================================================
+TEST
+==================================================================================
+1. Save snippet -> hard-refresh checkout (Cmd+Shift+R).
+2. KENYA order -> should now Place Order successfully.
+3. NIGERIA / Lagos -> State still REQUIRED; LGA dropdown + correct fee still work.
+4. UNITED STATES -> still works.
+5. GHANA -> still works (and remember Ghana's weight tiers still need Flexible
+   Shipping: 0-2kg = N25,000, over 2kg = N35,000).
+
+NOTE: because State becomes optional internationally, the WooCommerce order address
+may show a blank State for those orders — that's fine, Terminal carries the real
+destination in its own fields for the waybill.

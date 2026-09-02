@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Blue Lock Stickers
+SLUG         : blue-lock-stickers
+BUMPA ID     : 1831205
+WOO TYPE     : simple
+PARENT SKU   : OSN-1831205
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Stickers
+  - Shop by Anime > Blue Lock
+
+TAGS: Blue Lock stickers, anime stickers, Blue Lock, Isagi sticker, vinyl stickers, waterproof stickers, laptop stickers, anime sticker pack, Bachira, Nagi
+FRANCHISE: Blue Lock    CHARACTER: Isagi Yoichi
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦1,000
+Total stock   : 9
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Stack the Blue Lock roster on every surface.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A 10-piece Blue Lock vinyl sticker pack stacked with Isagi, Bachira, Nagi, Rin and the rest of the eleven. Waterproof, fade-resistant die-cuts that grip laptops, bottles and notebooks. Anime-inspired fan art.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Wear the roster everywhere you go. This Blue Lock vinyl sticker pack loads you up with the egoists who fight for the striker's spot, from Yoichi Isagi and Meguru Bachira to Seishiro Nagi, Hyoma Chigiri, Reo Mikage and Rin Itoshi, all rendered in bold anime-inspired art and that unmistakable Blue Lock blue.</p><p>Each die-cut sticker is printed on durable waterproof vinyl with a vivid, fade-resistant finish, so your favourite forwards survive bag straps, coffee spills and daily abuse. Slap them on laptops, water bottles, phone cases, notebooks, skateboards or your console and build a deck that says you bleed for the goal.</p><ul><li>Pack size: 10 pieces per pack</li><li>Material: durable waterproof vinyl</li><li>Print: vivid, fade-resistant colour with sharp die-cut edges</li><li>Sticks to: laptops, water bottles, phone cases, notebooks, skateboards, consoles</li><li>Design: assorted Blue Lock characters (Isagi, Bachira, Nagi, Chigiri, Reo, Rin and more)</li><li>Finish: smooth peel-and-stick backing</li><li>Care: wipe clean; avoid prolonged soaking and harsh scrubbing</li><li>Anime-inspired fan art; not official or affiliated</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • 10 waterproof vinyl stickers per pack
+  • Stacked with the Blue Lock cast: Isagi, Bachira, Nagi, Rin and more
+  • Vivid, fade-resistant print with clean die-cut edges
+  • Sticks to laptops, bottles, phones, notebooks and more
+  • Durable enough for daily carry and spills
+  • Anime-inspired fan art, not affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (47 chars)        : Blue Lock Stickers - 10pc Waterproof Vinyl Pack
+Meta Description (151 chars) : Blue Lock sticker pack: 10 waterproof vinyl die-cuts of Isagi, Bachira, Nagi and the cast. Fade-resistant, for laptops and bottles. Ships from Nigeria.
+Focus keyword                       : Blue Lock stickers
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Blue Lock vinyl sticker pack spread of die-cut anime characters including Isagi, Bachira, Nagi and Rin with soccer balls in blue tones
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product studio shot: a fanned-out pack of die-cut Blue Lock-inspired anime soccer stickers arranged on an ink-black #111111 surface, paper-white #FAFAFA halftone-dot backdrop, single manga-red #E2261C accent on a slashing speed-line and a small ink splatter. Crisp manga panel framing, dramatic cinematic side lighting catching the glossy vinyl edges, premium product photography, sharp focus, high contrast.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

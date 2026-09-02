@@ -1,0 +1,81 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Tomioka Kimono
+SLUG         : tomioka-kimono
+BUMPA ID     : 1771969
+WOO TYPE     : simple
+PARENT SKU   : OSN-1771969
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Kimono
+  - Shop by Anime > Demon Slayer
+
+TAGS: Tomioka kimono, Giyu Tomioka, Demon Slayer haori, anime kimono, haori robe, Water Hashira, Demon Slayer merch, anime layering jacket
+FRANCHISE: Demon Slayer    CHARACTER: Giyu Tomioka
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦15,000
+Total stock   : 98
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The Water Hashira's split haori, made to wear.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel the Water Hashira in this Tomioka-inspired open-front haori. Half deep maroon, half green-and-yellow geometric print, wide sleeves and a free-size drape that layers effortlessly over any tee or fit.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Giyu Tomioka never says much, but the haori does all the talking. This Demon Slayer-inspired kimono robe nails his signature split look: one panel in deep maroon, the other in that unmistakable green-and-gold geometric cube print. It is the Water Hashira pulled straight off the screen and into your wardrobe.</p>
+<p>Lightweight and open-front, it drapes over a plain tee, hoodie or full fit for an instant statement layer. Free-size cut with wide sleeves means it falls clean on most frames, whether you are heading to a con, a meet-up, or just want to wear the roster on a normal day.</p>
+<ul>
+<li>Anime-inspired Giyu Tomioka half-and-half haori design (fan-made, not affiliated with the official series)</li>
+<li>Open-front layering robe with wide, flowing sleeves</li>
+<li>Unisex free-size drape that fits most frames</li>
+<li>Lightweight, breathable fabric built for layering over a tee or hoodie</li>
+<li>All-over printed maroon and green geometric panels</li>
+<li>Care: gentle cold wash, hang dry, do not bleach or tumble dry</li>
+<li>Wear it open as a statement layer or styled over cosplay</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Iconic Giyu Tomioka split haori: maroon meets the green geometric cube print
+  • Open-front, wide-sleeve cut that layers over any tee or fit
+  • Unisex free-size drape designed to suit most frames
+  • Lightweight, breathable fabric for all-day comfort
+  • Vivid all-over print, con-ready and street-ready
+  • Fan-made anime-inspired design, not affiliated with the official series
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (40 chars)        : Tomioka Kimono | Demon Slayer Haori Robe
+Meta Description (149 chars) : Tomioka-inspired Demon Slayer haori. Maroon and green geometric split print, open-front unisex free-size robe. Wear the roster. Ships nationwide and.
+Focus keyword                       : Tomioka kimono
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Tomioka-inspired Demon Slayer haori with a split maroon and green geometric cube print, worn open over a white tee
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a Demon Slayer Tomioka-inspired open-front haori on an invisible mannequin, ink black #111111 background with paper white #FAFAFA negative space, single manga-red #E2261C accent slash; halftone dot shading, dramatic speed lines and ink splatter framing the wide sleeves and split maroon-and-green geometric panels, premium cinematic lighting, manga panel composition.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

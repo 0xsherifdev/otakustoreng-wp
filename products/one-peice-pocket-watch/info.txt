@@ -1,0 +1,85 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : One Peice Pocket Watch
+SLUG         : one-peice-pocket-watch
+BUMPA ID     : 1209720
+WOO TYPE     : simple
+PARENT SKU   : OSN-1209720
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Shop by Anime > One Piece
+
+TAGS: One Piece pocket watch, Straw Hat Jolly Roger, Mugiwara Pirates, Luffy merch, anime pocket watch, quartz pocket watch, One Piece accessories, anime collectible
+FRANCHISE: One Piece    CHARACTER: Monkey D. Luffy
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦6,000
+Total stock   : 100
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the Straw Hat Jolly Roger everywhere
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+An antique-bronze One Piece pocket watch with an openwork Straw Hat Jolly Roger cover, enamelled hat detail and a clean quartz dial. Pop the lid, read the time, rep the Mugiwara crew. Comes on a chain.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Every great pirate needs to know when the next adventure starts. This One Piece-inspired pocket watch puts the Straw Hat Jolly Roger right in your palm, with a hollowed openwork front cover framing Luffy's skull-and-crossbones crest, hand-finished in enamel yellow and manga-red, and ringed with "ONE PIECE" and "MUGIWARA PIRATES" lettering.</p>
+<p>Flip the lid open to reveal a crisp white quartz dial with bold Arabic numerals, while the reverse case carries an ornate vintage engraving. It clips to its included chain, so it rides easy in a pocket, on a belt loop or as a desk piece. An affordable, everyday way to fly the Mugiwara colours, whether you're sailing the Grand Line or just running late for class.</p>
+<ul>
+<li>Design: openwork Straw Hat Jolly Roger cover with enamelled hat detail</li>
+<li>Finish: antique-bronze tone, vintage engraved rear case</li>
+<li>Movement: quartz analogue dial with Arabic numerals</li>
+<li>Material: durable metal alloy</li>
+<li>Includes: pocket watch plus matching chain</li>
+<li>Wear it: pocket, belt loop, bag clip or display piece</li>
+<li>Care: wipe with a soft dry cloth; keep away from water</li>
+<li>Fan / anime-inspired collectible, not affiliated with the official franchise</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Openwork Straw Hat Jolly Roger cover with enamelled yellow-and-red hat
+  • Antique-bronze finish with an ornate engraved rear case
+  • Reliable quartz dial with easy-read Arabic numerals
+  • Comes on a matching chain for pocket, belt or bag
+  • Affordable everyday way to rep the Mugiwara crew
+  • Fan-made, anime-inspired collectible
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (46 chars)        : One Piece Pocket Watch | Straw Hat Jolly Roger
+Meta Description (151 chars) : One Piece pocket watch with an openwork Straw Hat Jolly Roger cover, quartz dial and chain. Antique-bronze fan collectible. Ships from Nigeria, ₦6,000.
+Focus keyword                       : One Piece pocket watch
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Antique-bronze One Piece pocket watch with an openwork Straw Hat Jolly Roger cover and enamelled yellow-and-red straw hat
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of an antique-bronze One Piece pocket watch with an openwork Straw Hat Jolly Roger cover, enamelled yellow-and-red hat and a quartz dial, lid flipped half-open on its chain. Ink black #111111 background, paper white #FAFAFA rim light, single manga-red #E2261C accent glow. Halftone dot texture, sharp speed lines radiating from the watch, ink splatter in corners, framed in clean manga panel borders. Premium, cinematic, high-detail, dramatic side lighting.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

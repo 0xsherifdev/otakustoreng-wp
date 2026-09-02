@@ -1,0 +1,81 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Naruto Wallet
+SLUG         : naruto-wallet
+BUMPA ID     : 2789177
+WOO TYPE     : simple
+PARENT SKU   : OSN-2789177
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Wallets
+  - Shop by Anime > Naruto
+
+TAGS: Naruto wallet, anime wallet, Naruto Uzumaki, PU leather bifold, anime card holder, Naruto merch, Hidden Leaf, anime gift, shinobi accessories
+FRANCHISE: Naruto    CHARACTER: Naruto Uzumaki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦9,000
+Total stock   : 9
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the Will of Fire in your back pocket
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A slim bifold Naruto wallet in durable PU leather, fronted with Naruto Uzumaki in his classic orange gear. Card slots, a note compartment and a snap-button strap keep your everyday carry locked down and shinobi-clean.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some ninjas hide their tools in a scroll. You keep yours in a bifold. This Naruto wallet puts Naruto Uzumaki front and centre, fingers locked in a hand sign against the Hidden Leaf swirl, finished in a warm cream-and-orange panel that reads like a manga cover in your hand.</p>
+<p>Built from smooth PU leather with a snap-button strap closure, it stays slim enough for a front pocket while holding your cards, cash and the occasional ramen-money emergency. Anime-inspired everyday carry for fans who never quit, dattebayo.</p>
+<ul>
+<li>Material: durable PU leather with stitched edges</li>
+<li>Format: compact bifold with snap-button strap closure</li>
+<li>Interior: multiple card slots plus a full-width note compartment</li>
+<li>Artwork: printed Naruto Uzumaki design with Hidden Leaf swirl detailing</li>
+<li>Carry: slim profile, sized for front or back pocket everyday use</li>
+<li>Care: wipe clean with a dry or lightly damp cloth; avoid soaking</li>
+<li>Fan / anime-inspired design, not affiliated with or endorsed by the rights holders</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Durable PU leather with clean stitched edges
+  • Snap-button strap closure keeps cards secure
+  • Multiple card slots plus a note compartment
+  • Slim bifold profile for easy everyday carry
+  • Bold printed Naruto Uzumaki artwork
+  • Fan-made, anime-inspired design
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : Naruto Wallet | PU Leather Bifold Card Holder
+Meta Description (153 chars) : Slim Naruto bifold wallet in PU leather with card slots, note compartment and snap closure. Anime-inspired everyday carry. Ships from Nigeria, worldwide.
+Focus keyword                       : Naruto wallet
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Naruto bifold wallet in PU leather showing Naruto Uzumaki in orange gear with the Hidden Leaf swirl and a snap-button strap closure
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a bifold anime wallet held open at a slight angle on a matte surface. Ink black #111111 background, paper white #FAFAFA negative space, single manga-red #E2261C accent on a thin diagonal speed-line and ink-splatter burst behind the wallet. Halftone dot shading, manga panel border framing, dramatic cinematic side lighting raking across the PU leather texture and the snap-button strap; visible card slots and stitched edges. Premium, high-contrast, editorial e-commerce hero image, sharp focus, shallow depth of field.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

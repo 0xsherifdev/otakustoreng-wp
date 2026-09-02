@@ -1,0 +1,83 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Op Laptop Skin
+SLUG         : op-laptop-skin
+BUMPA ID     : 1875687
+WOO TYPE     : simple
+PARENT SKU   : OSN-1875687
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Laptop Skins
+  - Shop by Anime > One Piece
+
+TAGS: One Piece laptop skin, anime laptop skin, vinyl laptop decal, One Piece merch, laptop wrap, anime laptop sticker, Straw Hats, anime accessories
+FRANCHISE: One Piece    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦7,500
+Total stock   : 8
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Wrap your rig in the Grand Line legend.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Refresh your laptop with bold One Piece-inspired art on a precision-cut vinyl skin. Bubble-free application, residue-free removal, and a slim profile that protects your lid from scuffs. Pick your exact size and model at checkout.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Set sail with a One Piece-inspired laptop skin built for fans who want their setup to match their roster. This precision-printed vinyl decal wraps your lid in bold, high-detail character art, giving your daily driver a fresh look without adding bulk. The textured matte finish resists fingerprints and glare, so your art stays sharp from boot to shutdown.</p>
+<p>Application is bubble-free thanks to air-egress adhesive, and removal is clean and residue-free when it is time for a new design. Choose your exact laptop size and model at checkout for an accurate, edge-to-edge fit.</p>
+<ul>
+<li>Material: durable printed vinyl decal with protective laminate top layer</li>
+<li>Finish: matte, anti-glare and fingerprint-resistant</li>
+<li>Adhesive: air-channel, bubble-free application; residue-free removal</li>
+<li>Fit: select your laptop size and model at checkout for an edge-to-edge match</li>
+<li>Protection: shields the lid from scratches, scuffs and everyday wear</li>
+<li>Profile: ultra-slim, adds no noticeable thickness and won't block vents or ports</li>
+<li>Design: One Piece-inspired character artwork, fan-made and not affiliated with the franchise</li>
+<li>What's included: 1x laptop skin (lid panel); cutouts depend on selected model</li>
+<li>Care: wipe clean with a soft, dry or slightly damp cloth; avoid harsh solvents</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold One Piece-inspired art that refreshes any laptop lid
+  • Bubble-free application with air-channel adhesive
+  • Residue-free removal leaves no sticky mess
+  • Matte, anti-glare finish resists fingerprints
+  • Select your exact size and model for an edge-to-edge fit
+  • Slim profile adds protection without bulk
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (46 chars)        : One Piece Laptop Skin | Anime Vinyl Decal Wrap
+Meta Description (140 chars) : One Piece-inspired laptop skin in durable matte vinyl. Bubble-free fit, residue-free removal, pick your size. Ships from Nigeria for ₦7,500.
+Focus keyword                       : One Piece laptop skin
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: One Piece-inspired anime laptop skin with bold character art applied to a laptop lid
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio shot of a laptop standing half-open at a three-quarter angle, its lid wrapped in a One Piece-inspired vinyl skin rendered in stark ink black (#111111) and paper white (#FAFAFA) with a single manga-red (#E2261C) accent. Halftone-dot shading and bold speed lines radiate behind the laptop, ink-splatter texture along the edges, framed inside crisp manga panels. Premium, cinematic lighting, dramatic shadows, high contrast, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

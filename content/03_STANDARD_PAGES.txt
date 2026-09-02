@@ -1,0 +1,465 @@
+################################################################################
+  OTAKU STORE NG  —  STANDARD PAGES  (paste into each WordPress/Elementor page)
+  Linked from the PAGES ▾ menu (see 02_MENUS_AND_PAGES.txt)
+################################################################################
+
+For each page below:
+  - Create the page in WordPress (Pages > Add New) with the PAGE TITLE.
+  - Paste the HTML BODY into the editor's Code/HTML view (or an Elementor HTML/Text
+    widget). It uses clean semantic tags — no inline styles, so it inherits your theme.
+  - Set the SEO TITLE and META DESCRIPTION in Yoast/Rank Math.
+
+
+
+================================================================================
+ PAGE: About Otaku Store NG
+ Slug: /about
+================================================================================
+SEO TITLE (44 chars): About Otaku Store NG | Fan-Built Anime Merch
+META DESCRIPTION (153 chars): Otaku Store NG is a fan-built anime merch brand. Premium all-over-print jerseys, hoodies, steel chains, decor and more. Fast Nigeria and global shipping.
+
+----- HTML BODY (paste into the page) -----
+<p>Otaku Store NG is a fan-built anime merch brand, made by the kind of people who rewatch the fight scene three times and argue about the best arc until 2 a.m. We started because finding premium anime gear in Nigeria meant either settling for thin, faded prints or paying a fortune to import and wait forever. So we built the store we always wanted, run by fans, for fans, with the heat turned all the way up.</p>
+
+<h2>What we make</h2>
+
+<p>Our signature drop is the all-over-print anime jersey, engineered with vivid, edge-to-edge prints that stay sharp wash after wash, starting from ₦23,000. Beyond the jerseys, we curate a full roster of pieces so you can rep your favourites head to toe and all over your space.</p>
+
+<ul>
+  <li>All-over-print jerseys, hoodies, t-shirts and kimono</li>
+  <li>Chains, necklaces, bracelets and rings in solid, durable steel</li>
+  <li>Wallets, phone cases and stickers</li>
+  <li>Figurines, display katana and weapons, LED lamps and room decor</li>
+  <li>Bottles and full cosplay fits</li>
+</ul>
+
+<h2>Why fans trust us</h2>
+
+<p>Fans trust us because we obsess over the details: bold, fade-resistant prints, weighty steel that does not tarnish on day two, and a curation that actually understands the culture instead of chasing every trend. Every piece is anime-inspired and fan-made; we are not affiliated with any series or studio, and we will never pretend to be.</p>
+
+<h2>Shipping, payments and returns</h2>
+
+<p>We dispatch within 1 to 3 business days and ship nationwide and worldwide, with delivery across Nigeria in roughly 2 to 7 days and international orders in about 7 to 21 days. Spend over ₦100,000 and your express shipping is on us. Not the right fit? Returns and exchanges are open for 30 days on unworn items with tags still on.</p>
+
+<p>Checkout is secure with Paystack, Flutterwave, Visa, Mastercard, Verve and bank transfer. When you need us, real fans are on WhatsApp, live chat, email at <a href="mailto:hello@otakustoreng.com">hello@otakustoreng.com</a> and Instagram <a href="https://instagram.com/otakustoreng">@otakustoreng</a>.</p>
+
+<p>This is fan-to-fan, no gatekeeping, just quality gear and people who get it. Wear the roster.</p>
+----- END -----
+
+
+================================================================================
+ PAGE: Contact Us
+ Slug: /contact
+================================================================================
+SEO TITLE (44 chars): Contact Otaku Store NG | Anime Merch Support
+META DESCRIPTION (144 chars): Questions about sizing, your order, or wholesale? Reach Otaku Store NG on WhatsApp, Instagram @otakustoreng, or email. We reply within 24 hours.
+
+----- HTML BODY (paste into the page) -----
+<p>Got a question? We're fans first, so consider us your squad. Whether you're stuck between two jersey sizes, checking on a parcel, or planning a bulk drop, we'd love to hear from you. Reach out on any channel below and a real person on the team will sort you out.</p>
+
+<h2>How to reach us</h2>
+<p>Pick whatever's easiest for you. We're active across all of these and reply fast.</p>
+<ul>
+  <li><strong>WhatsApp</strong> — the quickest way to get answers. Message us for live help with sizing, order updates, and anything in between.</li>
+  <li><strong>Instagram</strong> — slide into our DMs <a href="https://www.instagram.com/otakustoreng">@otakustoreng</a>. Same team, same speed, plus a front-row look at new drops.</li>
+  <li><strong>Email</strong> — for orders, returns, wholesale, or anything you'd rather put in writing: <a href="mailto:hello@otakustoreng.com">hello@otakustoreng.com</a>.</li>
+  <li><strong>Live chat</strong> — see the chat bubble on site? Tap it and talk to us right there while you shop.</li>
+</ul>
+
+<h2>Response time</h2>
+<p>We reply to every message <strong>within 24 hours</strong>, and usually a lot faster during support hours. WhatsApp and live chat are your fastest routes if you need a quick answer.</p>
+
+<h2>Support hours</h2>
+<p>Our team is online <strong>Monday to Saturday, 9:00am – 6:00pm (WAT)</strong>. Messages that land outside those hours (or on Sundays and public holidays) get answered first thing the next working day.</p>
+
+<h2>What we can help with</h2>
+<p>If it's about your gear or your order, we've got you. A few of the things we handle every day:</p>
+<ul>
+  <li><strong>Sizing &amp; fit</strong> — not sure which size to cop for a jersey, hoodie, or kimono? Tell us your measurements and we'll point you to the right fit.</li>
+  <li><strong>Orders &amp; tracking</strong> — questions about your order status, dispatch (1–3 business days), or where your parcel is right now. Nigeria delivery typically lands in 2–7 days; international in 7–21 days, and express shipping is on us for orders over ₦100,000.</li>
+  <li><strong>Returns &amp; exchanges</strong> — changed your mind or need a different size? Items can be returned or exchanged within 30 days, unworn and with tags on.</li>
+  <li><strong>Payments</strong> — help with checkout via Paystack, Flutterwave, Visa, Mastercard, Verve, or bank transfer.</li>
+  <li><strong>Wholesale &amp; bulk</strong> — kitting out a crew, a store, or a convention stall? Email us at <a href="mailto:hello@otakustoreng.com">hello@otakustoreng.com</a> for wholesale pricing and minimums.</li>
+  <li><strong>Product questions</strong> — curious about a signature all-over-print jersey (from ₦23,000), a display katana, LED lamp, chain, or any piece in the roster? Ask away.</li>
+</ul>
+
+<h2>Contact at a glance</h2>
+<table>
+  <thead>
+    <tr>
+      <th>Channel</th>
+      <th>Best for</th>
+      <th>Details</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>WhatsApp</td>
+      <td>Fast answers, sizing, order updates</td>
+      <td>Tap the WhatsApp link on site</td>
+    </tr>
+    <tr>
+      <td>Live chat</td>
+      <td>Quick help while you shop</td>
+      <td>Chat bubble on any page</td>
+    </tr>
+    <tr>
+      <td>Instagram</td>
+      <td>DMs, new drops, general questions</td>
+      <td><a href="https://www.instagram.com/otakustoreng">@otakustoreng</a></td>
+    </tr>
+    <tr>
+      <td>Email</td>
+      <td>Orders, returns, wholesale, anything in writing</td>
+      <td><a href="mailto:hello@otakustoreng.com">hello@otakustoreng.com</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Heads-up: Otaku Store NG is a fan-built, anime-inspired brand. Our designs are made by fans, for fans, and aren't official or licensed by, or affiliated with, any series or studio. Now tell us what you need, and welcome to the roster.</p>
+----- END -----
+
+
+================================================================================
+ PAGE: Track Your Order
+ Slug: /track-order
+================================================================================
+SEO TITLE (33 chars): Track Your Order | Otaku Store NG
+META DESCRIPTION (151 chars): Track your Otaku Store NG order in three easy steps. Get your confirmation email, tracking link, dispatch window, and NG plus worldwide delivery times.
+
+----- HTML BODY (paste into the page) -----
+<p>Your roster is on the way. Whether you copped a signature all-over-print jersey, a display katana, or a stack of stickers, here's exactly how to follow your order from checkout to your doorstep, anywhere in Nigeria or worldwide.</p>
+
+<h2>How tracking works</h2>
+<p>Three easy steps and you'll always know where your gear is.</p>
+<ul>
+  <li><strong>Order confirmation.</strong> The moment your payment goes through, we send a confirmation email with your order number and a full breakdown of what you ordered.</li>
+  <li><strong>Tracking number + link.</strong> Once your order is packed and handed to the courier, you'll get a second email with your tracking number and a tracking link. Tap the link to see live updates.</li>
+  <li><strong>Watch it move.</strong> Refresh the tracking link anytime to follow your package through each stage until it lands.</li>
+</ul>
+<p>Tip: check your spam or promotions folder if you don't see our emails. Add <a href="mailto:hello@otakustoreng.com">hello@otakustoreng.com</a> to your contacts so nothing slips past.</p>
+
+<h2>When does my order ship?</h2>
+<p>We dispatch within <strong>1-3 business days</strong> of your order. As soon as it leaves us, your tracking email is on its way. Orders over <strong>₦100,000</strong> ship free via express, so your roster gets to you faster.</p>
+
+<h2>How long will delivery take?</h2>
+<p>Delivery time depends on where you're shipping to. Here's what to expect once your order is dispatched.</p>
+<table>
+  <thead>
+    <tr>
+      <th>Destination</th>
+      <th>Dispatch window</th>
+      <th>Estimated delivery</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Within Nigeria</td>
+      <td>1-3 business days</td>
+      <td>~2-7 days</td>
+    </tr>
+    <tr>
+      <td>International</td>
+      <td>1-3 business days</td>
+      <td>~7-21 days</td>
+    </tr>
+  </tbody>
+</table>
+<p>These are estimates. Holidays, customs checks, and courier delays in your area can stretch timelines a little, so the tracking link is always your best source of truth.</p>
+
+<h2>Something look off?</h2>
+<p>If your tracking hasn't updated in a few days, your package looks stuck, or anything feels wrong, don't stress. We're fans too and we'll sort it with you fast. Have your order number handy and reach us through any of these:</p>
+<ul>
+  <li><strong>WhatsApp</strong> — the quickest way to get a real answer.</li>
+  <li><strong>Live chat</strong> — tap the chat bubble on our site during support hours.</li>
+  <li><strong>Instagram</strong> — DM us <a href="https://instagram.com/otakustoreng">@otakustoreng</a>.</li>
+  <li><strong>Email</strong> — <a href="mailto:hello@otakustoreng.com">hello@otakustoreng.com</a>.</li>
+</ul>
+
+<h2>A few quick answers</h2>
+<h3>I never got my tracking number. What now?</h3>
+<p>Tracking lands in your second email, sent after dispatch (1-3 business days). If it's been longer and there's nothing in your inbox or spam, message us on WhatsApp with your order number and we'll resend it.</p>
+
+<h3>My tracking link isn't moving.</h3>
+<p>Couriers sometimes scan packages in batches, so updates can pause for a day or two before jumping ahead. If it's stalled longer than that, reach out and we'll chase it down.</p>
+
+<h3>Can I change my delivery address?</h3>
+<p>If your order hasn't been dispatched yet, message us right away on WhatsApp and we'll do our best to update it before it ships.</p>
+
+<h3>What if I need to return or exchange something?</h3>
+<p>You've got 30 days to return or exchange any unworn item with tags still on. Just reach out and we'll walk you through it.</p>
+
+<p>Thanks for repping the roster with us. Your gear is in good hands.</p>
+----- END -----
+
+
+================================================================================
+ PAGE: Size Guide
+ Slug: /size-guide
+================================================================================
+SEO TITLE (51 chars): Size Guide | Otaku Store NG Anime Jerseys & Apparel
+META DESCRIPTION (152 chars): Find your fit at Otaku Store NG. Unisex anime jersey, hoodie & tee sizing (M-3XL) with chest and length charts, fit tips, and sublimated polyester care.
+
+----- HTML BODY (paste into the page) -----
+<p>Wear the roster, but make it fit right. Our apparel runs unisex and true to size, so most fans land in their usual everyday size. If you're caught between two, size up for a roomier, streetwear-leaning drape.</p>
+
+<h2>Jersey, Hoodie & Tee Sizing</h2>
+<p>Our signature all-over-print jerseys, hoodies, and tees come in M, L, XL, 2XL, and 3XL. All measurements below are approximate and listed in inches. Chest is measured flat across the front and doubled; length is taken from the highest point of the shoulder to the hem.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Size</th>
+      <th>Chest (in)</th>
+      <th>Length (in)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>M</td>
+      <td>40&ndash;42</td>
+      <td>28</td>
+    </tr>
+    <tr>
+      <td>L</td>
+      <td>43&ndash;45</td>
+      <td>29</td>
+    </tr>
+    <tr>
+      <td>XL</td>
+      <td>46&ndash;48</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td>2XL</td>
+      <td>49&ndash;51</td>
+      <td>31</td>
+    </tr>
+    <tr>
+      <td>3XL</td>
+      <td>52&ndash;54</td>
+      <td>32</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3>How to measure yourself</h3>
+<ul>
+  <li><strong>Chest:</strong> Wrap a tape measure around the fullest part of your chest, keeping it level under the arms.</li>
+  <li><strong>Length:</strong> Measure from the top of your shoulder straight down to where you want the hem to sit.</li>
+  <li><strong>Compare, don't guess:</strong> Lay a favourite tee or jersey flat and match it against the chart for the most reliable fit.</li>
+</ul>
+
+<h2>Fit Notes</h2>
+<ul>
+  <li>Cut for a comfortable, modern fit. True to size with a relaxed shoulder; size up if you're between sizes or prefer extra room.</li>
+  <li>Jerseys and hoodies wear slightly looser than a basic tee by design, so the print reads clean across the whole panel.</li>
+  <li>Allow a tolerance of about 1 inch either way, since each piece is cut and sewn for that all-over-print finish.</li>
+</ul>
+
+<h2>Fabric & Care</h2>
+<p>Our apparel is made from sublimated polyester, so the artwork is printed into the fabric rather than layered on top. That means the colour stays vivid and the print won't crack, peel, or fade with normal wear. To keep your piece looking fresh:</p>
+<ul>
+  <li>Machine wash <strong>cold</strong>, <strong>inside-out</strong>, with similar colours.</li>
+  <li>Use a mild detergent and avoid bleach or fabric softener.</li>
+  <li>Hang to dry or tumble dry on low. Skip high heat and iron inside-out on low if needed.</li>
+</ul>
+
+<h2>Other Pieces</h2>
+<p>Not everything needs a size chart. A couple of quick notes:</p>
+<ul>
+  <li><strong>Rings</strong> come in standard ring sizes, so order your usual size.</li>
+  <li><strong>Kimono</strong> are free-size and designed to drape comfortably across a wide range of body types.</li>
+</ul>
+
+<h2>Still Unsure?</h2>
+<p>If you're stuck between sizes or want a second opinion before you order, reach out and we'll help you nail the fit. Find us on WhatsApp, live chat, Instagram <a href="https://instagram.com/otakustoreng">@otakustoreng</a>, or email <a href="mailto:hello@otakustoreng.com">hello@otakustoreng.com</a>.</p>
+<p>And if the fit isn't right, you're covered: returns and exchanges are open within 30 days on unworn items with tags on. Enjoy free express shipping on orders over ₦100,000, with dispatch in 1&ndash;3 business days.</p>
+
+<p><em>Otaku Store NG is a fan-built, anime-inspired brand. Our designs are original and not affiliated with, endorsed by, or licensed from any series, studio, or rights holder.</em></p>
+----- END -----
+
+
+================================================================================
+ PAGE: Shipping & Returns
+ Slug: /shipping-returns
+================================================================================
+SEO TITLE (39 chars): Shipping &amp; Returns | Otaku Store NG
+META DESCRIPTION (150 chars): How Otaku Store NG ships anime jerseys, hoodies &amp; gear across Nigeria and worldwide. Free express over ₦100,000, 1-3 day dispatch, 30-day returns.
+
+----- HTML BODY (paste into the page) -----
+<p>Your roster is packed and ready to ship. Here's exactly how your order gets from our hands to yours, plus what to do if something isn't a perfect fit. No fine-print games, no surprises at checkout.</p>
+
+<h2>Shipping</h2>
+
+<p>We dispatch every order from Nigeria and deliver nationwide and worldwide. Whether you're repping your favourite series in Lagos, Abuja, London or Tokyo, we've got a route to your door.</p>
+
+<h3>Dispatch time</h3>
+<p>Orders are processed and dispatched within <strong>1-3 business days</strong>. All-over-print pieces and cosplay are made with care, so give us that short window to quality-check your order before it leaves us. You'll get tracking details as soon as it ships.</p>
+
+<h3>Delivery times</h3>
+<p>Once your order is on the move, here's what to expect:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Destination</th>
+      <th>Estimated delivery</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Nigeria (nationwide)</td>
+      <td>~2-7 business days</td>
+    </tr>
+    <tr>
+      <td>International</td>
+      <td>~7-21 business days</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Delivery windows start counting after dispatch, not from the moment you order. Timelines are estimates and can vary with courier load, public holidays, and customs clearance on international orders.</p>
+
+<h3>Free express shipping</h3>
+<p>Spend <strong>₦100,000 or more</strong> and your express shipping is on us, automatically applied at checkout. Stack your jersey, hoodie, a chain and a display katana, and let us cover the ride.</p>
+
+<h3>Shipping costs</h3>
+<p>For orders under ₦100,000, shipping is calculated at checkout based on your location and the size of your haul. You'll always see the full cost before you pay, in Naira (₦).</p>
+
+<h3>Customs, duties &amp; taxes (international)</h3>
+<p>For orders shipping outside Nigeria, any import duties, taxes, or customs fees set by your destination country are the buyer's responsibility. These aren't included in our prices and are charged separately by your local authorities. If you're unsure, check your country's import rules before ordering.</p>
+
+<h3>Payment methods</h3>
+<p>Check out securely with any of the following:</p>
+<ul>
+  <li>Paystack</li>
+  <li>Flutterwave</li>
+  <li>Visa, Mastercard and Verve cards</li>
+  <li>Bank transfer</li>
+</ul>
+
+<h2>Returns &amp; Exchanges</h2>
+
+<p>Want a different size, a different drop, or it just didn't land the way you hoped? We've got you. You can return or exchange eligible items within <strong>30 days</strong> of delivery.</p>
+
+<h3>What makes an item eligible</h3>
+<p>To keep things fair for every fan, returned and exchanged items must be:</p>
+<ul>
+  <li>Unworn and unwashed</li>
+  <li>With all original tags still attached</li>
+  <li>In their original packaging where applicable</li>
+  <li>Free from signs of wear, scents, marks or damage</li>
+</ul>
+
+<h3>What can't be returned</h3>
+<p>A few items are final sale and can't be returned or exchanged unless they arrive faulty or damaged:</p>
+<ul>
+  <li>Custom and made-to-order pieces, including personalised cosplay</li>
+  <li>Items marked "final sale" or "clearance" at checkout</li>
+  <li>Stickers and other opened consumable items</li>
+  <li>Pierced jewellery (earrings) for hygiene reasons, where applicable</li>
+</ul>
+
+<h3>How to start a return or exchange</h3>
+<p>Starting a return is quick. Reach out within your 30-day window with your order number and a quick note on what you'd like to do:</p>
+<ul>
+  <li><strong>WhatsApp:</strong> message us directly for the fastest response</li>
+  <li><strong>Email:</strong> <a href="mailto:hello@otakustoreng.com">hello@otakustoreng.com</a></li>
+  <li><strong>Live chat or Instagram:</strong> <a href="https://www.instagram.com/otakustoreng" rel="noopener">@otakustoreng</a></li>
+</ul>
+<p>We'll confirm your eligibility and send you simple return instructions. Please don't ship anything back before we've approved it, so we can make sure it reaches the right place.</p>
+
+<h3>Refund timing</h3>
+<p>Once your return arrives and passes our quality check, we'll process your refund within <strong>5-7 business days</strong> to your original payment method. Depending on your bank or card provider, it can take a few extra days to land in your account. We'll let you know the moment it's on its way.</p>
+
+<p>For exchanges, we'll dispatch your replacement as soon as your original item is received and approved, following the same 1-3 business day dispatch window.</p>
+
+<h3>Damaged, faulty or wrong items</h3>
+<p>If your order shows up damaged, faulty, or it's not what you ordered, reach out within <strong>7 days</strong> of delivery with a photo and your order number. We'll sort a replacement or refund and cover the return shipping. That's on us.</p>
+
+<h2>Still have questions?</h2>
+<p>Our team are fans too, and we're happy to help. Message us on WhatsApp, start a live chat, slide into <a href="https://www.instagram.com/otakustoreng" rel="noopener">@otakustoreng</a> on Instagram, or email <a href="mailto:hello@otakustoreng.com">hello@otakustoreng.com</a>. Wear the roster, with total confidence.</p>
+
+<p><em>Otaku Store NG creates fan-made, anime-inspired merchandise. We are independent fans and are not affiliated with, endorsed by, or officially licensed by any anime series, creator or studio.</em></p>
+----- END -----
+
+
+================================================================================
+ PAGE: FAQs
+ Slug: /faqs
+================================================================================
+SEO TITLE (45 chars): FAQs | Otaku Store NG — Anime Merch & Jerseys
+META DESCRIPTION (153 chars): Shipping, sizing, returns, payments and care — everything you need to know about Otaku Store NG anime jerseys and merch. Wear the roster with confidence.
+
+----- HTML BODY (paste into the page) -----
+<p>Got a question before you suit up? We've rounded up the ones we hear most from the fandom. If your answer isn't here, slide into our DMs on Instagram <a href="https://instagram.com/otakustoreng">@otakustoreng</a>, hit us on WhatsApp, start a live chat, or email <a href="mailto:hello@otakustoreng.com">hello@otakustoreng.com</a> — a real fan will get back to you.</p>
+
+<h2>The Brand &amp; Our Gear</h2>
+
+<h3>Are your jerseys and merch official or licensed?</h3>
+<p>No — and we're upfront about that. Otaku Store NG is a fan-built, fan-run brand. Every piece is anime-inspired and designed by us, for the culture. We are not affiliated with, endorsed by, or licensed by any anime series, studio, publisher or rights holder. What you get is original, premium fan merch made by people who love the roster as much as you do.</p>
+
+<h3>How do the jerseys fit — and how do I pick my size?</h3>
+<p>Our signature all-over-print jerseys (from ₦23,000) are cut for a relaxed, true-to-size streetwear fit. If you like a roomier, drapey look, go with your normal size; if you prefer it fitted, size down. Every product page carries a full size chart with chest, length and sleeve measurements — measure a jersey you already love and match it to the chart for the cleanest fit. Still unsure? Message us with your measurements and we'll call it for you.</p>
+
+<h2>Shipping &amp; Delivery</h2>
+
+<h3>How long does shipping take within Nigeria and worldwide?</h3>
+<p>We dispatch orders within 1–3 business days. After that:</p>
+<table>
+  <thead>
+    <tr>
+      <th>Destination</th>
+      <th>Estimated delivery (after dispatch)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Nigeria (nationwide)</td>
+      <td>~2–7 days</td>
+    </tr>
+    <tr>
+      <td>International (worldwide)</td>
+      <td>~7–21 days</td>
+    </tr>
+  </tbody>
+</table>
+<p>Delivery windows are estimates and can shift with customs and courier load, but we ship to your door wherever you rep from.</p>
+
+<h3>Is shipping free?</h3>
+<p>Yes — spend over ₦100,000 and you unlock free express shipping, in Nigeria and worldwide. Orders under that threshold are charged a flat shipping rate calculated at checkout based on your location. Stack a few pieces and the express upgrade is on us.</p>
+
+<h2>Payments, Orders &amp; Returns</h2>
+
+<h3>What payment methods do you accept?</h3>
+<p>We keep checkout easy and secure. You can pay with:</p>
+<ul>
+  <li>Paystack and Flutterwave</li>
+  <li>Visa, Mastercard and Verve cards</li>
+  <li>Direct bank transfer</li>
+</ul>
+<p>All prices are in Naira (₦), and every transaction runs through encrypted, trusted payment gateways.</p>
+
+<h3>What's your return and exchange policy?</h3>
+<p>We want you flexing your fit, not regretting it. You can return or exchange any item within 30 days of delivery, as long as it's unworn, unwashed and still has its original tags attached. To start a return or swap a size, reach out via WhatsApp, live chat or <a href="mailto:hello@otakustoreng.com">hello@otakustoreng.com</a> with your order number and we'll walk you through it.</p>
+
+<h3>How do I track my order?</h3>
+<p>Once your order ships, we'll email you a tracking number and link so you can follow it from our hands to yours. Can't find the email? Check your spam folder first, then message us with your order number on WhatsApp or Instagram <a href="https://instagram.com/otakustoreng">@otakustoreng</a> and we'll pull up your tracking on the spot.</p>
+
+<h2>Restocks &amp; Care</h2>
+
+<h3>Will sold-out drops be restocked?</h3>
+<p>Some of our designs are limited runs, so when they're gone they can stay gone — but core signature pieces do get restocked. The fastest way to never miss a return drop is to follow us on Instagram <a href="https://instagram.com/otakustoreng">@otakustoreng</a> and join our list. If there's a specific piece you're chasing, message us and we'll let you know if and when it's coming back.</p>
+
+<h3>How do I care for the all-over print?</h3>
+<p>Our prints are made to last when you treat them right:</p>
+<ul>
+  <li>Turn the garment inside out before washing.</li>
+  <li>Machine wash cold on a gentle cycle, or hand wash.</li>
+  <li>Use mild detergent — skip bleach and fabric softener.</li>
+  <li>Hang or lay flat to dry; avoid the tumble dryer.</li>
+  <li>If you must iron, iron inside out on low and never directly on the print.</li>
+</ul>
+<p>Follow these and your roster stays vivid, drop after drop.</p>
+----- END -----

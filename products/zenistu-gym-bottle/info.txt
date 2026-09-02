@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Zenistu gym bottle
+SLUG         : zenistu-gym-bottle
+BUMPA ID     : 4430216
+WOO TYPE     : simple
+PARENT SKU   : OSN-4430216
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Bottles & Drinkware
+  - Shop by Anime > Demon Slayer
+
+TAGS: Zenitsu gym bottle, Demon Slayer bottle, Zenitsu Agatsuma, anime water bottle, Kimetsu no Yaiba drinkware, gym sports bottle, anime gym gear, Thunder Breathing
+FRANCHISE: Demon Slayer    CHARACTER: Zenitsu Agatsuma
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦19,000
+Total stock   : 500
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Thunder Breathing fuel for every set
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Hit the gym in Hashira style with this Zenitsu-inspired sports bottle. Bold Demon Slayer artwork, a wide leak-resistant cap and a grab-and-go build that keeps you hydrated from warm-up to final rep.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Train like the fastest blade in the squad. This Zenitsu Agatsuma gym bottle channels Thunder Breathing energy with crisp, anime-inspired artwork built for fans who move. Whether you're chasing a PR or stretching between sets, it's the bottle that earns a spot in your bag.</p><p>Designed for everyday hydration, it pours clean, grips easy and looks loud on the rack. A fan tribute to Demon Slayer (Kimetsu no Yaiba) — anime-inspired, not affiliated with or endorsed by the official rights holders.</p><ul><li>Character: Zenitsu Agatsuma (Demon Slayer / Kimetsu no Yaiba) anime-inspired print</li><li>Type: single-wall gym and sports water bottle</li><li>Lid: screw-on cap with wide drinking mouth for fast sips</li><li>Use: ideal for gym, training, running and daily carry</li><li>Food-safe materials suitable for cold water and everyday drinks</li><li>Care: hand-wash recommended to protect the artwork; avoid abrasive scrubbing</li><li>Single option, no variants</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold Zenitsu Agatsuma Demon Slayer artwork that stands out on any gym rack
+  • Wide-mouth screw cap for fast, mess-free sips between sets
+  • Single-wall sports build that's light and easy to grab on the go
+  • Food-safe materials made for cold water and daily hydration
+  • Hand-wash design that keeps the anime print sharp for longer
+  • Ships nationwide and worldwide from Otaku Store NG
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (53 chars)        : Zenitsu Gym Bottle | Demon Slayer Sports Water Bottle
+Meta Description (149 chars) : Zenitsu Agatsuma gym bottle inspired by Demon Slayer. Bold anime print, wide leak-resistant cap, food-safe build. Train hydrated. Ships from Nigeria.
+Focus keyword                       : Zenitsu gym bottle
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Zenitsu Agatsuma Demon Slayer gym water bottle with anime-inspired character artwork
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a Zenitsu Agatsuma gym water bottle, centered on an ink-black #111111 backdrop with paper-white #FAFAFA halftone dots and dynamic speed lines radiating outward. Single manga-red #E2261C accent ink splatter and lightning-bolt motif framing the bottle. Cinematic rim lighting, sharp condensation droplets, premium matte finish, manga panel borders. High detail, dramatic contrast, editorial commercial photography.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

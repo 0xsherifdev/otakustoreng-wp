@@ -1,0 +1,72 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Luffy Cap Chain
+SLUG         : luffy-cap-chain
+BUMPA ID     : 1210442
+WOO TYPE     : simple
+PARENT SKU   : OSN-1210442
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > One Piece
+
+TAGS: Luffy Cap Chain, One Piece necklace, Luffy pendant, Straw Hat chain, anime necklace, One Piece accessories, Jolly Roger pendant, Monkey D Luffy, anime jewellery, ball chain necklace
+FRANCHISE: One Piece    CHARACTER: Monkey D. Luffy
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,500
+Total stock   : 510
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Straw Hat skull, locked on a ball chain.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Carry the captain's mark everywhere. This One Piece-inspired Luffy pendant pairs an antique-brass straw-hat coin with the Jolly Roger skull and a manga-red accent ring, hung on a tough stainless-steel ball chain that resists tarnish.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Set sail with the captain. The Luffy Cap Chain stamps the Straw Hat crew's Jolly Roger across a round antique-brass pendant, framed by a bold manga-red accent ring and finished with the iconic grinning skull in a straw hat. It's the kind of piece every One Piece fan clocks across a room.</p><p>Built around a sturdy stainless-steel ball chain, it wears light, sits clean under a tee or over a hoodie, and shrugs off everyday knocks. Anime-inspired and made for daily wear, not a display case.</p><ul><li>Design: One Piece-inspired Luffy straw-hat pendant with embossed Jolly Roger skull and manga-red accent ring</li><li>Pendant finish: antique-brass tone, round coin-style medallion</li><li>Chain: durable stainless-steel ball/bead chain, tarnish-resistant</li><li>Style: unisex, lightweight, everyday-friendly</li><li>Care: wipe clean with a soft, dry cloth; keep away from prolonged moisture</li><li>Included: 1 x Luffy Cap Chain pendant necklace</li><li>Note: fan / anime-inspired design, not affiliated with or endorsed by the official rights holders</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Antique-brass Straw Hat pendant with the One Piece Jolly Roger skull
+  • Bold manga-red accent ring frames the medallion
+  • Durable, tarnish-resistant stainless-steel ball chain
+  • Lightweight, unisex fit for everyday wear
+  • Wipe-clean finish that holds up to daily knocks
+  • Ships nationwide across Nigeria and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (54 chars)        : Luffy Cap Chain - One Piece Straw Hat Pendant Necklace
+Meta Description (152 chars) : One Piece-inspired Luffy Cap Chain: antique-brass Straw Hat skull pendant on a tarnish-resistant steel ball chain. Ships from Nigeria worldwide. ₦4,500.
+Focus keyword                       : Luffy Cap Chain
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Luffy Cap Chain - One Piece antique-brass Straw Hat pendant with Jolly Roger skull and red accent ring on a stainless-steel ball chain
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product studio shot of a One Piece-inspired Luffy straw-hat coin pendant on a stainless-steel ball chain, antique-brass medallion with embossed grinning Jolly Roger skull and a single manga-red accent ring. Ink black #111111 background, paper white #FAFAFA negative space, single manga-red #E2261C accent. Halftone dot texture, dramatic speed lines radiating outward, subtle ink splatter, framed in a clean manga panel. Premium, cinematic macro lighting, sharp focus on the embossed skull, glinting chain beads. No text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

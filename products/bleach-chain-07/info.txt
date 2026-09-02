@@ -1,0 +1,72 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Bleach Chain 07
+SLUG         : bleach-chain-07
+BUMPA ID     : 1248711
+WOO TYPE     : simple
+PARENT SKU   : OSN-1248711
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Bleach
+
+TAGS: Bleach necklace, Bleach chain, anime necklace, anime pendant, Soul Reaper, Gotei 13, anime jewelry, stainless steel necklace, unisex necklace, Bleach merch
+FRANCHISE: Bleach    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦5,000
+Total stock   : 5009
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Soul Reaper steel for everyday wear
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A Bleach-inspired pendant necklace for Soul Society fans. Cast in tarnish-resistant steel-tone metal with an adjustable chain, it sits clean against any fit and wipes back to a shine in seconds.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the Gotei 13 with the Bleach Chain 07, a fan-crafted pendant necklace built for fans who carry their roster on the chest. The crisp, anime-inspired emblem reads bold from across the room, while the polished steel-tone finish keeps it premium whether you're stacking it over a tee or letting it ride solo on a chain.</p><p>Tough, lightweight and made to be worn hard, it shrugs off everyday knocks and resists tarnish so the shine sticks around. A quick wipe with a soft cloth keeps the detail sharp drop after drop.</p><ul><li>Anime-inspired Bleach pendant on a matching link chain</li><li>Durable, tarnish-resistant steel-tone metal (stainless steel / alloy)</li><li>Adjustable-length chain with secure lobster-clasp closure</li><li>Lightweight, smooth finish — comfortable for all-day wear</li><li>Unisex design that layers easily or wears on its own</li><li>Wipe clean with a soft, dry cloth</li><li>Fan / anime-inspired piece — not affiliated with or endorsed by the rights holders</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold Bleach-inspired pendant for Soul Society fans
+  • Tarnish-resistant steel-tone metal that keeps its shine
+  • Adjustable chain with a secure lobster clasp
+  • Lightweight and comfortable for all-day, everyday wear
+  • Unisex — layer it or wear it solo
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (54 chars)        : Bleach Chain 07 - Anime Pendant Necklace | Otaku Store
+Meta Description (151 chars) : Bleach-inspired pendant necklace in tarnish-resistant steel-tone metal with an adjustable chain. Fan-crafted, unisex, built for daily wear. Ships from.
+Focus keyword                       : Bleach necklace
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Bleach-inspired steel-tone pendant necklace on a link chain, laid flat
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a Bleach-inspired steel-tone pendant necklace coiled on a flat surface. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent catching the pendant edge. Halftone dot texture and diagonal speed lines radiating behind the chain, subtle ink splatter in one corner, framed inside a clean manga panel. Cinematic rim lighting, sharp focus on the engraved emblem, premium high-contrast finish.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

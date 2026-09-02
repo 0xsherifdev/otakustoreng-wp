@@ -1,0 +1,72 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Wings Of Liberty Bracelet
+SLUG         : wings-of-liberty-bracelet
+BUMPA ID     : 1146344
+WOO TYPE     : simple
+PARENT SKU   : OSN-1146344
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Bracelets
+  - Shop by Anime > Attack on Titan
+
+TAGS: Attack on Titan, Wings of Liberty, Survey Corps, anime bracelet, stainless steel bracelet, anime accessories, Eren, Levi, AOT merch, scout regiment
+FRANCHISE: Attack on Titan    CHARACTER: Survey Corps
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦5,000
+Total stock   : 996
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The Survey Corps emblem on your wrist
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+An Attack on Titan-inspired stainless-steel bracelet stamped with the Wings of Liberty crest. Everyday-durable, tarnish-resistant and built for fans who ride for the Survey Corps. Pull it on and wear the roster.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Dedicate your heart. The Wings Of Liberty Bracelet channels the Survey Corps emblem from Attack on Titan into a clean, wearable piece you can pull on every single day. The crossed wings sit front and centre, finished in durable stainless steel that holds up to real life beyond the walls.</p><p>Subtle enough for daily wear, bold enough to flag your allegiance the second another fan clocks it. A fan-made, anime-inspired tribute to Eren, Levi and the scouts who keep marching forward.</p><ul><li>Material: stainless steel, tarnish and rust resistant</li><li>Design: Wings of Liberty / Survey Corps emblem motif</li><li>Style: everyday-durable band, comfortable for daily wear</li><li>Fit: unisex, suits most wrist sizes</li><li>Finish: smooth steel with detailed crest</li><li>Care: wipe clean with a soft dry cloth; avoid harsh chemicals</li><li>Fan / anime-inspired design, not official or affiliated</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Survey Corps Wings of Liberty emblem from Attack on Titan
+  • Stainless steel build that resists tarnish and rust
+  • Everyday-durable for daily wear, on or off duty
+  • Unisex fit that suits most wrist sizes
+  • Fan / anime-inspired tribute, not official or affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (49 chars)        : Wings Of Liberty Bracelet | Attack on Titan Steel
+Meta Description (147 chars) : Attack on Titan-inspired Wings of Liberty steel bracelet with the Survey Corps emblem. Durable, unisex everyday wear. ₦5,000. Ships nationwide and.
+Focus keyword                       : Wings of Liberty bracelet
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Stainless-steel Attack on Titan bracelet engraved with the Survey Corps Wings of Liberty emblem
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a stainless-steel bracelet engraved with the Survey Corps Wings of Liberty crossed-wings emblem, resting on a ridged ink-black surface. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent glow on the crest. Halftone dot texture, sharp speed lines radiating outward, subtle ink splatter, framed inside a clean manga panel border. Premium, cinematic macro lighting, high contrast, crisp metallic reflections.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

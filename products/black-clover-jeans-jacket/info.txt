@@ -1,0 +1,75 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Black Clover Jeans Jacket
+SLUG         : black-clover-jeans-jacket
+BUMPA ID     : 1124891
+WOO TYPE     : variable
+PARENT SKU   : OSN-1124891
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Uncategorized
+
+TAGS: Black Clover, Black Bulls, Asta, anime denim jacket, anime jacket, hooded denim jacket, anime streetwear, Black Clover merch
+FRANCHISE: Black Clover    CHARACTER: Black Bulls (Asta)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦27,500
+Total stock   : 500
+VARIATIONS (attribute: Size)
+  M              | ₦27,500 | stock 100  | SKU OSN-1124891-M
+  L              | ₦27,500 | stock 100  | SKU OSN-1124891-L
+  XL             | ₦27,500 | stock 100  | SKU OSN-1124891-XL
+  2XL            | ₦27,500 | stock 100  | SKU OSN-1124891-2XL
+  XXXL           | ₦27,500 | stock 100  | SKU OSN-1124891-XXXL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Repurpose the squad. Black Bulls denim, hood attached.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Black Clover-inspired denim jacket with the Black Bulls skull printed across the back and an attached drawstring hood. Distressed cuffs, ribbed hem and a layered hoodie look built for daily wear. Fan-made, not affiliated.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Wear the roster. This Black Clover-inspired jeans jacket fuses rugged black denim with a soft attached hood, putting the Black Bulls skull insignia front and centre across the back in gold. It is the layered hoodie-meets-jacket look Asta's squad would actually rep, finished with distressed sleeves, a contrast hood and ribbed cuffs for that worn-in, lived-in attitude.</p><p>Built for everyday rotation, it layers clean over a tee and throws on for cold mornings, campus runs or convention floors. A fan-made, anime-inspired piece for Black Clover die-hards, not affiliated with or endorsed by the official rights holders.</p><ul><li>Black Clover Black Bulls squad design, fan-inspired</li><li>Denim jacket body with an attached drawstring hoodie layer</li><li>Black Bulls skull insignia printed in gold across the back</li><li>Distressed detailing on sleeves and hem; ribbed cuffs and hem</li><li>Front-button closure with side pockets</li><li>Cotton and polyester blend for structure and warmth</li><li>Sizes: M, L, XL, 2XL, XXXL</li><li>Unisex streetwear fit; layers easily over a tee or hoodie</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Black Bulls skull insignia printed bold in gold across the back
+  • Hybrid build: black denim jacket with an attached drawstring hood
+  • Distressed sleeves and ribbed cuffs for a worn-in streetwear edge
+  • Cotton-polyester blend with structure and everyday warmth
+  • Unisex fit in five sizes, M through XXXL
+  • Fan-made Black Clover piece, not official or affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (46 chars)        : Black Clover Denim Jacket | Black Bulls Hooded
+Meta Description (151 chars) : Black Clover-inspired denim jacket with Black Bulls skull on the back and attached hood. Distressed denim streetwear, sizes M-XXXL. Ships from Nigeria.
+Focus keyword                       : Black Clover denim jacket
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black Clover denim jacket back view showing the gold Black Bulls skull insignia, white attached hood and distressed ribbed cuffs
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a black denim jacket with an attached white drawstring hood and a gold Black Bulls skull insignia across the back, displayed on a faceless mannequin. Ink black #111111 background, paper white #FAFAFA garment highlights, single manga-red #E2261C accent on a thin floor line and rim light. Halftone dot texture, dramatic speed lines radiating behind the jacket, ink splatter in the corners, framed inside a clean manga panel border. Premium, cinematic, high-contrast, sharp product focus.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

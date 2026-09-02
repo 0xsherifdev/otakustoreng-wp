@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Tsunade Figurine
+SLUG         : tsunade-figurine
+BUMPA ID     : 1624194
+WOO TYPE     : simple
+PARENT SKU   : OSN-1624194
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Figurines
+  - Shop by Anime > Naruto
+
+TAGS: Tsunade figurine, Naruto figurine, Tsunade statue, Fifth Hokage, Legendary Sannin, anime figurine, Naruto collectible, PVC figure
+FRANCHISE: Naruto    CHARACTER: Tsunade
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦20,000
+Total stock   : 10
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The Fifth Hokage, sculpted for your shelf
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Bring the legendary Sannin home. This anime-inspired Tsunade figurine is a pre-painted PVC display piece with sharp sculpting and crisp detail, built to anchor any Naruto collection on your shelf.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>The Slug Sannin. The Fifth Hokage. The strongest medical ninja in the village. This Tsunade figurine captures the powerhouse of Konoha in a detailed, pre-painted display piece that earns its spot front and centre on any Naruto shelf. From the signature haori to the confident stance, the sculpt is built to read clean from across the room and reward a close look.</p><p>Cast in durable PVC and finished by hand, it is a collector's display statue, not a toy. Pose it with your roster, light it up, and let the Hokage hold court. A fan-made, anime-inspired tribute for serious collectors.</p><ul><li>Character: Tsunade, Fifth Hokage from the Naruto series</li><li>Material: detailed sculpted PVC with a pre-painted finish</li><li>Type: static display figurine / collector statue (not an action toy)</li><li>Includes: figure with display base</li><li>Display: ideal for shelves, desks and detolf cabinets</li><li>Care: keep out of direct sunlight; dust gently with a soft, dry brush</li><li>Anime-inspired fan collectible; not affiliated with or endorsed by the rights holders</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Tsunade, the Fifth Hokage, in a detailed pre-painted sculpt
+  • Durable PVC display statue for collectors, not a toy
+  • Crisp paintwork and clean lines that read from across the room
+  • Ships from Nigeria nationwide and worldwide
+  • Anchors any Naruto or Sannin display lineup
+  • Anime-inspired fan collectible, not affiliated with rights holders
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (56 chars)        : Tsunade Figurine | Naruto Hokage Statue | Otaku Store NG
+Meta Description (144 chars) : Tsunade figurine from Naruto. Detailed pre-painted PVC display statue of the Fifth Hokage. Ships from Nigeria nationwide and worldwide. ₦20,000.
+Focus keyword                       : Tsunade figurine
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Pre-painted PVC Tsunade figurine from Naruto, the Fifth Hokage, on a display base
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a pre-painted PVC Tsunade figurine from Naruto, the Fifth Hokage in her green haori. Ink black #111111 background with paper white #FAFAFA negative space, a single manga-red #E2261C accent slashing behind the figure. Halftone dot shading, sharp speed lines radiating outward, a burst of ink splatter framed inside crisp manga panel borders. Dramatic cinematic side lighting, premium collectible catalog feel, high detail, shallow depth of field.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

@@ -1,0 +1,88 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Naruto Headwarmer
+SLUG         : naruto-headwarmer
+BUMPA ID     : 1143812
+WOO TYPE     : variable
+PARENT SKU   : OSN-1143812
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Headwear
+  - Shop by Anime > Naruto
+
+TAGS: Naruto beanie, Naruto headwarmer, anime beanie, Akatsuki cloud, Sharingan, Uchiha crest, Hidden Leaf, embroidered knit hat, anime headwear
+FRANCHISE: Naruto    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,500
+Total stock   : 796
+VARIATIONS (attribute: Style)
+  1              | ₦4,500 | stock 196  | SKU OSN-1143812-1
+  2              | ₦4,500 | stock 200  | SKU OSN-1143812-2
+  3              | ₦4,500 | stock 200  | SKU OSN-1143812-3
+  4              | ₦4,500 | stock 200  | SKU OSN-1143812-4
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Embroidered ninja beanie for the cold-weather shinobi
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A soft knitted cuffed beanie in deep black, embroidered with your pick of Naruto icon: Akatsuki cloud, Hidden Leaf, Sharingan or Uchiha crest. One-size, stretchy and warm — clean, everyday ninja energy.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Pull on the roster. This Naruto-inspired headwarmer is a classic black knitted beanie with a folded cuff and a crisp embroidered motif front-and-centre. Choose your allegiance: the Akatsuki red cloud, the Hidden Leaf (Konoha) symbol, the Sharingan eye, or the Uchiha clan crest — each stitched in for a clean, raised finish that beats a flat print.</p>
+<p>The ribbed knit stretches to hug your head, so it sits snug without squeezing, and the cuff folds down for extra warmth or rolls up for a shorter, streetwear fit. It is the easy daily cap for harmattan mornings, late gaming nights and anywhere you want subtle fan signal over loud cosplay. Fan-made and anime-inspired, not affiliated with or endorsed by the rights holders.</p>
+<ul>
+<li><strong>Type:</strong> Knitted cuffed beanie / headwarmer</li>
+<li><strong>Style options:</strong> 1 — Akatsuki red cloud; 2 — Hidden Leaf (Konoha) symbol; 3 — Sharingan eye; 4 — Uchiha clan crest</li>
+<li><strong>Colour:</strong> Black, with embroidered motif</li>
+<li><strong>Decoration:</strong> Embroidered emblem (raised stitch, not printed)</li>
+<li><strong>Material:</strong> Soft cotton-blend knit</li>
+<li><strong>Fit:</strong> One size, stretchy ribbed knit; fold-down cuff</li>
+<li><strong>Wear:</strong> Unisex; great for cool weather and everyday styling</li>
+<li><strong>Care:</strong> Cold hand wash, reshape and air dry; avoid tumble drying to protect the stitching</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Embroidered Naruto emblem with a clean, raised stitch finish
+  • Four icons to choose: Akatsuki cloud, Hidden Leaf, Sharingan, Uchiha crest
+  • Soft cotton-blend knit with a fold-down cuff for warmth
+  • One-size stretchy ribbed fit, unisex wear
+  • Subtle black colourway that pairs with any fit
+  • Fan-made, anime-inspired design
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (55 chars)        : Naruto Headwarmer Beanie | Embroidered | Otaku Store NG
+Meta Description (152 chars) : Naruto embroidered knit beanie in black — pick Akatsuki, Hidden Leaf, Sharingan or Uchiha. Soft, one-size, warm. ₦4,500. Ships nationwide and worldwide.
+Focus keyword                       : Naruto headwarmer beanie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Black knitted Naruto beanie with embroidered Akatsuki cloud, Hidden Leaf, Sharingan and Uchiha crest motifs
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-Manga studio product shot: a single black knitted cuffed beanie with a crisp embroidered manga-red Akatsuki cloud on the cuff, floating against an ink-black #111111 backdrop. Paper-white #FAFAFA halftone dots radiating outward, sharp diagonal speed lines, a thin manga-red #E2261C accent stripe slicing the frame, subtle ink splatter in the corners. Cinematic rim light catching the ribbed knit texture, premium high-contrast manga-panel composition, shallow depth of field.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

@@ -1,0 +1,138 @@
+OTAKU STORE NG — FIX: checkout stopped adding the delivery fee (Aug 2, 2026)
+=============================================================================
+Symptom: at checkout the Order summary showed only Subtotal and Total — NO shipping
+row at all, for EVERY destination (Lagos, other NG states, Ghana, international).
+The Lagos LGA dropdown still appeared and still listed the correct prices, but picking
+an LGA changed nothing. Total always equalled Subtotal.
+
+STATUS: FIXED. Root cause = a stale WooCommerce cache entry, NOT the zones, NOT the
+Lagos LGA snippet, NOT the Minimog theme, NOT Terminal Africa.
+
+
+=============================================================================
+ROOT CAUSE
+=============================================================================
+WooCommerce's WC_Cart::needs_shipping() begins with a short-circuit:
+
+    if ( ! wc_shipping_enabled() || 0 === wc_get_shipping_method_count( true ) ) {
+        return false;          // <-- the whole shipping system is skipped
+    }
+
+wc_get_shipping_method_count() does NOT count the zone methods on every request — it
+caches the number in a transient, validated against a "shipping" transient version.
+That cached number had gone stale at 0. WooCommerce therefore believed the store had
+zero shipping methods and skipped shipping entirely:
+
+  - needs_shipping()  -> false
+  - no shipping package was ever built, so no zone was ever matched
+  - no shipping row rendered on cart or checkout
+  - the "Ship to a different address?" checkbox disappeared (it is gated on the same
+    call) — this is the easiest visual canary
+  - it failed identically for Lagos, Oyo, Ghana and the USA, which is what proved the
+    cause was global rather than zone- or snippet-specific
+
+The admin screens all looked perfectly healthy the whole time — all 7 zones present,
+every method enabled — because the admin reads the database directly and never goes
+through the cached count. That is what makes this one so confusing.
+
+Most likely trigger: a database-level change that did not go through WooCommerce's own
+API, so the cache was never invalidated — e.g. an All-in-One WP Migration restore, a
+staging→live push, or a direct DB import. (Plugin was active; exact event not recoverable.)
+
+
+=============================================================================
+THE FIX (about 30 seconds, no code)
+=============================================================================
+WordPress Admin > WooCommerce > Status > Tools > "WooCommerce transients"
+  -> click "Clear transients"   (confirmation reads "Product transients cleared")
+
+That tool also refreshes the shipping transient version, which invalidates the stale
+method count. Shipping starts working again immediately — no cache plugin flush, no
+re-saving of zones, no plugin deactivation required.
+
+ALTERNATIVE (same effect): open WooCommerce > Settings > Shipping > any zone, edit any
+shipping method and re-save it. Saving a method bumps the shipping transient version.
+
+
+=============================================================================
+VERIFIED AFTER THE FIX (Aug 2, 2026)
+=============================================================================
+Checked directly against the live store (WooCommerce Store API + real checkout):
+
+  Lagos + LGA "Epe"          -> Home Delivery — Epe          N9,000   OK
+  Lagos + LGA "Mushin"       -> Home Delivery — Mushin       N2,500   OK
+  Lagos + LGA "Ibeju-Lekki"  -> Home Delivery — Ibeju-Lekki  N8,500   OK
+  Oyo (zone 4)               -> Home Delivery — N6,000       N6,000   OK
+  Ghana                      -> "0 - 2kg" N25,000 / "above 2kg" N35,000  OK
+  USA (rest of world)        -> Terminal method offered (see OPEN ITEMS)
+
+The LGA dropdown re-prices correctly on every change and the order total follows.
+The "Ship to a different address?" checkbox is back.
+
+
+=============================================================================
+IF IT EVER HAPPENS AGAIN — 10-SECOND TRIAGE
+=============================================================================
+1. CANARY: load the checkout with items in the cart. Is the "Ship to a different
+   address?" checkbox missing? If yes, shipping is dead store-wide (needs_shipping()
+   is false) — it is NOT a zone/LGA/theme problem, so do not start there.
+2. FIRST ACTION: WooCommerce > Status > Tools > Clear transients. Re-test.
+3. Only if that does not fix it, check in this order:
+     - WooCommerce > Settings > General > "Shipping location(s)" is not "Disable
+       shipping & shipping calculations"
+     - the zones still have enabled methods
+     - the cart's products are not marked Virtual (per-variation on variable products)
+4. RUN THIS AFTER EVERY migration/restore/DB import — clearing transients is harmless
+   (caches simply rebuild) and prevents exactly this failure.
+
+Quick independent check that bypasses the theme completely — needs_shipping must be
+true once a physical product is in the cart:
+   https://otakustoreng.com/wp-json/wc/store/v1/cart
+
+
+=============================================================================
+BUSINESS IMPACT — ORDERS THAT WERE UNDERCHARGED
+=============================================================================
+The outage began Jul 19, 2026 and ran to Aug 2, 2026 (~2 weeks). Audited all 182
+orders. The break is exact:
+
+  LAST website order that charged delivery : #8114  (2026-07-19)
+  FIRST website order with no delivery fee : #8115  (2026-07-19)
+
+Every website order from #8115 onward was placed with NO delivery fee. Orders created
+in the mobile app are unaffected — staff add delivery manually there, which is why the
+recent order list still looked normal and hid the problem.
+
+Website orders that were NOT cancelled and shipped with no delivery fee (10):
+
+  2026-07-20  #8120  Completed   N7,000.00
+  2026-07-21  #8122  Completed   N24,000.00
+  2026-07-21  #8127  Completed   N23,000.00
+  2026-07-23  #8134  Completed   N24,000.00
+  2026-07-25  #8171  Completed   N24,000.00
+  2026-07-26  #8202  Completed   N9,000.00
+  2026-07-27  #8204  Completed   N24,000.00
+  2026-08-01  #8275  Processing  N1,000.00
+  2026-08-01  #8287  Processing  N61,000.00
+  2026-08-02  #8310  Processing  N24,000.00
+
+The three still in Processing (#8275, #8287, #8310) have not shipped yet — delivery can
+still be collected on those before dispatch.
+
+
+=============================================================================
+OPEN ITEMS (pre-existing, not caused by this outage)
+=============================================================================
+* PRODUCT WEIGHTS ARE STILL EMPTY on every product/variation checked. This blocks
+  accurate Terminal Africa international quotes and makes the Ghana weight tiers
+  meaningless. Still the same TODO from 07_SHIPPING_SETUP.txt.
+* INTERNATIONAL RATE NOT CONFIRMED: with country = USA, Terminal renders its own
+  State/City selectors and loaded 1,059 US cities, but no price came back in testing.
+  That test used a Nigerian street address and postcode "00100" (not a valid US ZIP)
+  and the products have no weight, so this is inconclusive. Do one real test with a
+  genuine US address before trusting international checkout.
+* Terminal Africa was investigated and CLEARED: all 37 of its PHP files were scanned —
+  it never touches woocommerce_cart_needs_shipping, woocommerce_shipping_enabled or
+  woocommerce_product_is_virtual. Do NOT disable it; the Rest-of-World zone depends on
+  it and disabling it would break international shipping without fixing anything.
+  CURCY and Conditional Discounts were scanned and cleared the same way.

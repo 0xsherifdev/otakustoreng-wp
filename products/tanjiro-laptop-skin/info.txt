@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Tanjiro Laptop Skin
+SLUG         : tanjiro-laptop-skin
+BUMPA ID     : 1875651
+WOO TYPE     : simple
+PARENT SKU   : OSN-1875651
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Laptop Skins
+  - Shop by Anime > Demon Slayer
+
+TAGS: Tanjiro laptop skin, Demon Slayer laptop skin, anime laptop skin, Tanjiro Kamado, Demon Slayer merch, vinyl laptop decal, anime laptop sticker, Kimetsu no Yaiba
+FRANCHISE: Demon Slayer    CHARACTER: Tanjiro Kamado
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦7,500
+Total stock   : 9
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the hinokami flame on your lid.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Wrap your laptop in Tanjiro Kamado energy. This anime-inspired vinyl skin applies bubble-free, peels off clean with no sticky residue, and cuts down to fit your exact model. A premium refresh for any Demon Slayer fan.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Suit up your setup with the Tanjiro Laptop Skin from Otaku Store NG. Bold Demon Slayer artwork meets a premium printed vinyl finish, so every time you open your laptop the Hinokami fire is right there with you. Whether you're grinding through lectures, work, or late-night streams, your lid finally matches your fandom.</p><p>The skin goes on bubble-free with an air-release adhesive and peels away clean later, leaving no sticky residue behind. It's a one-size sheet built to be trimmed down, so you can match it to your laptop's brand and screen size in minutes.</p><ul><li>Material: durable printed vinyl decal with a smooth protective finish</li><li>Application: bubble-free, air-release adhesive for a flat, even lay</li><li>Removal: residue-free peel that won't damage your laptop shell</li><li>Sizing: one-size sheet sized for up to 16-inch laptops, trim to fit your model</li><li>Design: vibrant Tanjiro Kamado / Demon Slayer-inspired fan art</li><li>Surface: helps shield your lid from everyday scratches and scuffs</li><li>Included: 1 x laptop skin sheet</li><li>Note: fan-made and anime-inspired; not official or affiliated with any rights holder</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold Tanjiro Kamado fan art across a premium printed vinyl skin
+  • Bubble-free air-release application for a clean, flat finish
+  • Peels off residue-free without harming your laptop shell
+  • One-size sheet for up to 16-inch laptops, trim to fit your model
+  • Adds a light layer of scratch and scuff protection
+  • Anime-inspired design for true Demon Slayer fans
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (46 chars)        : Tanjiro Laptop Skin | Demon Slayer Vinyl Decal
+Meta Description (154 chars) : Tanjiro Kamado laptop skin in premium printed vinyl. Bubble-free, residue-free, trims to fit up to 16-inch laptops. Demon Slayer fan art from Otaku Store.
+Focus keyword                       : Tanjiro laptop skin
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Tanjiro Kamado Demon Slayer printed vinyl laptop skin applied to a closed laptop lid
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-Manga studio product shot of a laptop with a Tanjiro Kamado anime-inspired vinyl skin on the lid. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent on speed lines and ink splatter. Halftone dot shading, dynamic manga panel framing, dramatic rim lighting catching the smooth vinyl finish. Premium, cinematic, high detail, sharp focus on the decal texture.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

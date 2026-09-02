@@ -1,0 +1,73 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Pochita plushy
+SLUG         : pochita-plushy
+BUMPA ID     : 3009399
+WOO TYPE     : variable
+PARENT SKU   : OSN-3009399
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Shop by Anime > Chainsaw Man
+
+TAGS: Pochita plush, Chainsaw Man, Pochita plushie, anime plush, Chainsaw Man merch, bag charm, anime keychain plush, otaku gift
+FRANCHISE: Chainsaw Man    CHARACTER: Pochita
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦7,000
+Total stock   : 195
+VARIATIONS (attribute: Size)
+  25CM           | ₦16,000 | stock 98   | SKU OSN-3009399-25CM
+  10CM           | ₦7,000 | stock 97   | SKU OSN-3009399-10CM
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The Chainsaw Devil, soft enough to squeeze.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Squishy orange Pochita plush with the signature saw-blade ear, ringed eye and stubby legs. Choose the 25cm cuddle size or the 10cm bag-charm version with ball-chain clip. Soft, huggable Chainsaw Man fan merch.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>The little devil who started it all. This Pochita plush nails the Chainsaw Man look that fans love: bright orange fur, that one big ringed eye, the serrated saw-blade ear with its white pull-cord, and four stubby legs you can flop around however you like. Soft, lightly stuffed and built for squeezing, it is the perfect desk buddy, shelf piece or cuddle companion for any Chainsaw Man obsessive.</p><p>Pick your fit. The 25cm size is a proper huggable plush for your bed or display, while the 10cm version comes with a ball-chain clip so Pochita can ride along on your backpack, keys or pencil case. Either way you are carrying the Chainsaw Devil with you. Anime-inspired fan merch, not affiliated with the official series.</p><ul><li>Character: Pochita from Chainsaw Man (fan / anime-inspired)</li><li>Size options: 25CM (cuddle plush) or 10CM (bag charm)</li><li>10CM version includes a metal ball-chain clip for bags and keys</li><li>Soft plush exterior with a poly-fibre style fill</li><li>Signature details: saw-blade ear, white pull-cord, single ringed eye, stubby legs</li><li>Spot-clean recommended to keep the fur bright</li><li>Ships from Nigeria, nationwide and worldwide</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Iconic Pochita design: saw-blade ear, ringed eye and that bright Chainsaw Devil orange
+  • Soft, squeezable plush made for hugging and displaying
+  • Two sizes: 25cm cuddle plush or 10cm clip-on bag charm
+  • 10cm version comes with a ball-chain clip for bags, keys and pencil cases
+  • Standout shelf piece or desk buddy for any Chainsaw Man fan
+  • Ships from Nigeria nationwide and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (53 chars)        : Pochita Plush | Chainsaw Man Plushie | Otaku Store NG
+Meta Description (145 chars) : Soft Pochita plush from Chainsaw Man with saw-blade ear and ringed eye. 25cm cuddle size or 10cm bag charm with clip. Ships from Nigeria. ₦7,000.
+Focus keyword                       : Pochita plush
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Orange Pochita plush from Chainsaw Man with saw-blade ear, ringed eye and stubby legs
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product studio shot of an orange Pochita-style chainsaw-devil plush toy, ink black #111111 background with paper white #FAFAFA negative space, single manga-red #E2261C accent in a sharp diagonal speed-line slash behind the plush. Halftone dot shading, ink splatter flecks, framed inside a clean manga panel border. Plush is hero-lit and cinematic, soft fur texture, saw-blade ear with white pull-cord and single ringed eye clearly visible. Premium e-commerce packshot, high detail, dramatic rim light.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

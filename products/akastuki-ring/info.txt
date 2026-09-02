@@ -1,0 +1,73 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Akastuki Ring
+SLUG         : akastuki-ring
+BUMPA ID     : 1919949
+WOO TYPE     : simple
+PARENT SKU   : OSN-1919949
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Rings
+  - Shop by Anime > Naruto
+
+TAGS: Akatsuki ring, Naruto ring, anime ring, anime accessories, stainless steel ring, Naruto merch, Akatsuki, shinobi jewelry
+FRANCHISE: Naruto    CHARACTER: Akatsuki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦3,000
+Total stock   : 496
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The rogue ninja seal, sized for your hand.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel the rogue-ninja organization with this anime-inspired Akatsuki ring. Crafted in tarnish-resistant stainless steel with a polished finish, it carries the iconic crest detail for everyday wear. Buyer-selected sizing for the perfect fit. Fan-made, not affiliated.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Every member earned their ring. Now you can wear the legacy of the Akatsuki, the rogue-ninja syndicate that hunted the tailed beasts across the shinobi world. This anime-inspired piece reimagines the organization's signature member ring with a clean, polished face and that unmistakable insignia detail, built for fans who let their roster do the talking.</p><p>Cut from durable stainless steel alloy with a tarnish-resistant finish, it holds its shine through daily wear, so you can stack it, flex it, or run it solo. Pick your size at checkout and slot it onto your hand like a true S-rank.</p><ul><li>Material: stainless steel / alloy construction</li><li>Finish: polished, tarnish-resistant for daily wear</li><li>Design: Akatsuki-inspired crest detail (Naruto fan art)</li><li>Sizing: standard ring sizes; buyer selects size at checkout</li><li>Wear: lightweight, comfortable everyday fit</li><li>Care: wipe with a soft dry cloth; avoid harsh chemicals</li><li>Includes: 1x Akatsuki-inspired ring</li><li>Note: fan-made, anime-inspired design; not official or affiliated</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Akatsuki-inspired crest detail straight from the Naruto roster
+  • Stainless steel / alloy build with a polished, tarnish-resistant finish
+  • Standard ring sizes - choose your fit at checkout
+  • Lightweight and comfortable for everyday wear
+  • Stacks or runs solo for an S-rank look
+  • Fan-made, anime-inspired design - not official or affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (48 chars)        : Akatsuki Ring | Naruto Anime-Inspired Steel Ring
+Meta Description (153 chars) : Anime-inspired Akatsuki ring in tarnish-resistant stainless steel with a polished finish and iconic Naruto crest. Choose your size. Ships nationwide and.
+Focus keyword                       : Akatsuki ring
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Akatsuki-inspired stainless steel ring with the Naruto rogue-ninja crest, polished finish
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a polished stainless steel Akatsuki-inspired ring resting on a slab of ink-black stone. Palette strictly ink black #111111, paper white #FAFAFA, single manga-red #E2261C accent glinting off the ring's crest. Halftone dot texture in the background, sharp diagonal speed lines, a single splash of red ink splatter framed in a manga panel border. Cinematic macro lighting, premium and crisp, dramatic shadows. No text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

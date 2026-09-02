@@ -1,0 +1,81 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Itachi Land Yard
+SLUG         : itachi-land-yard
+BUMPA ID     : 2511121
+WOO TYPE     : simple
+PARENT SKU   : OSN-2511121
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Shop by Anime > Naruto
+
+TAGS: Itachi lanyard, Akatsuki lanyard, Naruto lanyard, Itachi Uchiha, anime card holder, Akatsuki cloud, Naruto merch, anime lanyard
+FRANCHISE: Naruto    CHARACTER: Itachi Uchiha
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦5,500
+Total stock   : 7
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Red cloud strap, crimson-moon card holder.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Carry the Uchiha legend everywhere. This Itachi lanyard pairs a black strap printed with the red Akatsuki cloud pattern, a sturdy metal lobster clasp and a vertical card holder showing Itachi beneath the crimson moon. Anime-inspired daily-carry gear.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some shinobi work in the shadows, and now you can rep the most haunting Uchiha of them all on your everyday carry. This Itachi lanyard runs a deep black neck strap printed end to end with the unmistakable red Akatsuki cloud pattern, finishing in a crisp vertical card holder that frames Itachi silhouetted against a blood-red moon with crows scattering into the night.</p>
+<p>Built for fans who never clock out of the roster, it keeps your ID, transit card, office badge or keys close while flexing serious Naruto energy. The metal lobster clasp snaps onto a card holder, keyring or phone loop, and the extra detachable strap makes it just as at home on your device as around your neck.</p>
+<ul>
+<li>Character / theme: Itachi Uchiha with the red Akatsuki cloud print (Naruto-inspired fan design)</li>
+<li>Strap: black fabric neck lanyard with all-over red cloud pattern</li>
+<li>Card holder: vertical PVC-style holder featuring the crimson-moon Itachi artwork</li>
+<li>Hardware: metal lobster clasp plus a small detachable phone/keyring strap</li>
+<li>Use it for: ID cards, transit passes, work badges, keys, USB drives and phone charms</li>
+<li>Style: dual-sided print so the design shows whichever way it hangs</li>
+<li>Care: wipe the card holder clean; hand wash the strap and air dry</li>
+<li>Fan / anime-inspired merch, not affiliated with or endorsed by the official rights holders</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • All-over red Akatsuki cloud print on a jet-black strap
+  • Vertical card holder with crimson-moon Itachi artwork
+  • Sturdy metal lobster clasp holds IDs, badges and keys
+  • Detachable phone/keyring strap for flexible everyday carry
+  • Dual-sided print shows the design from either side
+  • Fan-designed Naruto-inspired daily-carry gear
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (52 chars)        : Itachi Lanyard - Akatsuki Cloud Card Holder | Naruto
+Meta Description (152 chars) : Itachi lanyard with red Akatsuki cloud print and a crimson-moon card holder. Metal clasp for IDs, badges and keys. Naruto-inspired fan gear, ships from.
+Focus keyword                       : Itachi lanyard
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black Itachi lanyard printed with red Akatsuki clouds and a card holder showing Itachi under a red moon
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a black neck lanyard printed with a red Akatsuki-style cloud pattern, hanging with a metal lobster clasp and a vertical card holder showing a silhouetted shinobi beneath a glowing crimson moon with scattering crows. Ink black #111111 background, paper white #FAFAFA negative space, single manga-red #E2261C accent. Halftone dots, dramatic speed lines, ink splatter, manga panel framing, cinematic premium lighting, sharp shadows, high contrast, product centered, no text.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

@@ -1,0 +1,76 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Naruto Bedsheet N Pillow Case
+SLUG         : naruto-bedsheet-n-pillow-case
+BUMPA ID     : 1141359
+WOO TYPE     : variable
+PARENT SKU   : OSN-1141359
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Home & Decor > Room Decor
+  - Shop by Anime > Naruto
+
+TAGS: Naruto bedding, Akatsuki bedsheet, Itachi Uchiha, anime duvet cover, anime pillowcase, red cloud, anime room decor, otaku bedroom
+FRANCHISE: Naruto    CHARACTER: Itachi Uchiha / Akatsuki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦35,000
+Total stock   : 300
+VARIATIONS (attribute: Style)
+  1              | ₦35,000 | stock 100  | SKU OSN-1141359-1
+  2              | ₦35,000 | stock 100  | SKU OSN-1141359-2
+  3              | ₦35,000 | stock 100  | SKU OSN-1141359-3
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Akatsuki red clouds, straight to your bedroom.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Turn your room into rogue-ninja HQ with this Naruto-inspired duvet cover and pillowcase set. Choose the iconic Akatsuki red cloud or a full Itachi Uchiha print, both on deep ink-black bedding built for serious otaku sleep.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some fans rep the Hidden Leaf. The rest of us answer to the Akatsuki. This Naruto-inspired bedding set brings the rogue organisation's red cloud straight into your room, with crisp prints on a deep ink-black base that reads premium in any light. Pick the clean red-cloud layout or go full statement with the Itachi Uchiha portrait surrounded by his crows.</p><p>It is a soft, vivid microfibre set that refreshes your whole space without touching the rest of your decor. Tell us your bed size at checkout and we match the set to it, from single up to king. Wear the roster, even when you sleep.</p><ul><li>Includes: 1 duvet cover and matching pillowcase(s) (quantity scales with bed size)</li><li>Three style options: Style 1 and Style 3 feature the Akatsuki red cloud pattern; Style 2 features the full Itachi Uchiha print</li><li>Made from soft, breathable brushed microfibre with vivid, fade-resistant print</li><li>Reversible duvet cover with a clean white underside on the cloud designs</li><li>Sizing: select your bed size at checkout (single, double, queen, king)</li><li>Note: filling, insert and bedsheet not included unless stated</li><li>Care: machine wash cold, gentle cycle, tumble dry low, do not bleach</li><li>Fan-made, anime-inspired design; not official or affiliated with the rights holders</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Iconic Akatsuki red cloud and Itachi Uchiha designs
+  • Three styles to match your room
+  • Soft brushed microfibre with vivid, fade-resistant print
+  • Reversible duvet cover, deep ink-black base
+  • Sized to your bed, single through king
+  • Fan-made, anime-inspired - not official
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (56 chars)        : Naruto Akatsuki Bedsheet & Pillow Case Set | Otaku Store
+Meta Description (155 chars) : Naruto-inspired Akatsuki & Itachi duvet cover and pillowcase set. Soft microfibre, vivid print, 3 styles. Sized to your bed. Ships from Nigeria, worldwide.
+Focus keyword                       : Naruto Akatsuki bedding set
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Naruto Akatsuki red cloud duvet cover and pillowcase set on a black bed
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga style studio product shot of a folded anime-inspired bedding set: ink black #111111 duvet cover with a single bold manga-red #E2261C Akatsuki-style cloud, paper white #FAFAFA underside peeking out, stacked matching pillowcase on top. Background paper white with halftone dots, dramatic diagonal speed lines and subtle ink splatter framing the stack inside a manga panel border. Single red accent only, cinematic soft top light, premium catalogue feel, high detail, crisp fabric texture. No text, no logos, no watermark.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

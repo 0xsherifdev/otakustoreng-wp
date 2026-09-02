@@ -1,0 +1,69 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Kakeguri Stickers
+SLUG         : kakeguri-stickers
+BUMPA ID     : 1831213
+WOO TYPE     : simple
+PARENT SKU   : OSN-1831213
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Stickers
+
+TAGS: Kakegurui stickers, anime stickers, vinyl sticker pack, Yumeko Jabami, waterproof stickers, laptop stickers, anime merch, die-cut stickers
+FRANCHISE: Kakegurui    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦1,000
+Total stock   : 7
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+High-stakes ink for your everyday gear.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Ante up with this 10-piece Kakegurui-inspired vinyl sticker pack. Waterproof, fade-resistant prints of Yumeko and the gambling den that stick to laptops, bottles, phones and notebooks with a crisp die-cut finish.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Place your bet. This Kakegurui-inspired vinyl sticker pack brings the obsessive thrill of Hyakkaou Private Academy to your everyday carry, packed with Yumeko's signature stare, playing-card motifs and gambling-den energy in bold, fan-art style.</p><p>Each sticker is printed on durable waterproof vinyl with a vivid, fade-resistant finish, so they hold up against scuffs, splashes and daily wear. Slap them on a laptop lid, water bottle, phone case, notebook or console and build a deck that's all your own.</p><ul><li>Set of 10 die-cut vinyl stickers per pack</li><li>Waterproof, scratch- and fade-resistant print</li><li>Sticks to laptops, water bottles, phone cases, notebooks, journals and more</li><li>Best applied to clean, dry, smooth surfaces</li><li>Fan-made, anime-inspired artwork; not affiliated with or endorsed by the official rights holders</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • 10 die-cut vinyl stickers in every pack
+  • Waterproof and fade-resistant for daily wear
+  • Sticks to laptops, bottles, phones and notebooks
+  • Bold Kakegurui-inspired gambling-den fan art
+  • Vivid, high-detail print that pops on any surface
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (42 chars)        : Kakegurui Stickers - 10pc Vinyl Anime Pack
+Meta Description (149 chars) : Kakegurui-inspired vinyl sticker pack, 10pcs. Waterproof, fade-resistant Yumeko and gambling-den fan art for laptops, bottles and phones. Ships from.
+Focus keyword                       : Kakegurui stickers
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Pack of 10 Kakegurui-inspired die-cut vinyl anime stickers featuring Yumeko and gambling motifs
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a scattered pack of 10 die-cut anime gambling-themed vinyl stickers fanned across a paper-white #FAFAFA surface, ink black #111111 background, single manga-red #E2261C accent on a playing-card and a wide-eyed character sticker. Halftone dot shading, sharp speed lines radiating from center, ink splatter in corners, manga panel borders framing the layout. Cinematic top-down lighting, crisp glossy vinyl reflections, premium high-detail composition.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

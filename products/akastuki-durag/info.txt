@@ -1,0 +1,70 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Akastuki Durag
+SLUG         : akastuki-durag
+BUMPA ID     : 3041203
+WOO TYPE     : simple
+PARENT SKU   : OSN-3041203
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Headwear
+  - Shop by Anime > Naruto
+
+TAGS: Akatsuki durag, Naruto durag, anime durag, Akatsuki headwear, Naruto merch, wave cap, anime streetwear, red cloud Akatsuki
+FRANCHISE: Naruto    CHARACTER: Akatsuki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦8,000
+Total stock   : 8
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Cloud the world. Wave the red clouds.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Roll out in the Akatsuki durag, an anime-inspired wave cap stitched with the red cloud motif. Smooth, stretchy fabric with long tie tails locks in compression and style. One-size fit for every shinobi off duty.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Every legend needs a uniform. The Akatsuki Durag channels the most feared organization in <em>Naruto</em>, trading the cloak for a smooth-finish wave cap dressed in the unmistakable red cloud motif. Built to lay waves, protect your style, and read like a statement the moment you walk in.</p><p>Cut from soft, lightweight stretch fabric with long tie tails for a snug, customisable wrap, it works as daily headwear, a 360-wave companion, or the finishing piece on a streetwear fit. Fan-made and anime-inspired, not affiliated with the official franchise.</p><ul><li>Anime-inspired Akatsuki red-cloud design, printed motif</li><li>Smooth, lightweight stretch fabric for a flat, comfortable lay</li><li>Long tie tails for an adjustable, secure wrap</li><li>One-size fit suits most head shapes</li><li>Doubles as a wave cap, sleep cap or streetwear accessory</li><li>Care: hand wash cool, lay flat to dry, do not bleach</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold Akatsuki red-cloud motif from Naruto
+  • Smooth stretch fabric lays waves flat
+  • Long tie tails for a snug, adjustable wrap
+  • One-size fit for most head shapes
+  • Wear it as a wave cap, sleep cap or street accessory
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (55 chars)        : Akatsuki Durag | Naruto Anime Wave Cap | Otaku Store NG
+Meta Description (147 chars) : Akatsuki durag with the Naruto red-cloud motif. Smooth stretch fabric, long tie tails, one-size fit. Anime-inspired headwear. Ships nationwide and.
+Focus keyword                       : Akatsuki durag
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black Akatsuki durag with red cloud motif and long tie tails, Naruto anime-inspired wave cap
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a black durag printed with red Akatsuki clouds, displayed on a sleek mannequin head, three-quarter angle. Ink black #111111 background, paper white #FAFAFA rim light, single manga-red #E2261C accent on the cloud motif. Halftone dot texture, dynamic speed lines and ink-splatter framing the head, subtle manga panel border. Premium, cinematic, high-contrast, sharp focus on the smooth fabric weave and long tie tails.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

@@ -1,0 +1,92 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Demon Slayer Hoodie
+SLUG         : demon-slayer-hoodie
+BUMPA ID     : 2964494
+WOO TYPE     : variable
+PARENT SKU   : OSN-2964494
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+  - Shop by Anime > Demon Slayer
+
+TAGS: Demon Slayer hoodie, anime hoodie, Tanjiro, Demon Slayer Corps, anime pullover hoodie, anime streetwear, graphic hoodie, otaku merch
+FRANCHISE: Demon Slayer    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦18,500
+Total stock   : 800
+VARIATIONS (attribute: Size & Material)
+  L-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964494-LTHICKCOTTON
+  L-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964494-LTHICKPOLYESTER
+  Xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964494-XLTHICKCOTTON
+  Xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964494-XLTHICKPOLYESTER
+  2xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964494-2XLTHICKCOTTON
+  2xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964494-2XLTHICKPOLYESTER
+  3xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964494-3XLTHICKCOTTON
+  3xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964494-3XLTHICKPOLYESTER
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Breathe fire. Wear the Demon Slayer Corps.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Anime-inspired Demon Slayer pullover hoodie with bold graphic energy and brushed-fleece warmth. Choose thick cotton or thick polyester, ribbed cuffs, kangaroo pocket, unisex streetwear fit. Sizes L through 3XL.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Step into the Demon Slayer Corps with a hoodie built for fans who live and breathe the hunt. The bold anime-inspired graphic carries that signature Tanjiro energy, while the brushed-fleece interior keeps you wrapped in warmth on cool nights and late binge sessions. This is a fan-made tribute piece, anime-inspired and not affiliated with or licensed by the official series.</p>
+<p>Cut for everyday wear with a relaxed unisex streetwear fit, it layers clean over a tee or zipped under a jacket. Pick your fabric, pick your size, and add it to the roster.</p>
+<ul>
+<li>Pullover hoodie with bold Demon Slayer anime-inspired graphic print</li>
+<li>Fabric choice: Thick Cotton or Thick Polyester</li>
+<li>Brushed-fleece interior for soft, cosy warmth</li>
+<li>Ribbed cuffs and hem to lock in shape and heat</li>
+<li>Roomy front kangaroo pocket</li>
+<li>Lined drawstring hood</li>
+<li>Unisex streetwear fit, sizes L, XL, 2XL and 3XL</li>
+<li>Care: machine wash cold, inside-out; do not bleach; hang or tumble dry low</li>
+<li>Fan-made tribute, not official or licensed merchandise</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold Demon Slayer anime-inspired graphic print
+  • Choose Thick Cotton or Thick Polyester
+  • Brushed-fleece interior for real warmth
+  • Ribbed cuffs, hem and roomy kangaroo pocket
+  • Unisex streetwear fit, sizes L to 3XL
+  • Fan-made tribute, not official merch
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (53 chars)        : Demon Slayer Hoodie | Anime Pullover | Otaku Store NG
+Meta Description (148 chars) : Demon Slayer anime-inspired pullover hoodie. Thick cotton or polyester, brushed fleece, kangaroo pocket, sizes L-3XL. ₦18,500. Ships nationwide and.
+Focus keyword                       : Demon Slayer hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Demon Slayer anime-inspired pullover hoodie with bold graphic print, ribbed cuffs and kangaroo pocket
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a Demon Slayer anime-inspired pullover hoodie on an invisible mannequin, centred in a manga panel. Ink black #111111 background, paper white #FAFAFA hoodie fabric, single manga-red #E2261C accent on the drawstrings and graphic. Halftone dot shading, dynamic speed lines radiating outward, ink splatter at the edges, sharp panel border. Premium cinematic lighting, high contrast, crisp detail on ribbed cuffs and kangaroo pocket.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

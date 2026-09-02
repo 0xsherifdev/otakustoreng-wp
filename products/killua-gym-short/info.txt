@@ -1,0 +1,74 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Killua gym short
+SLUG         : killua-gym-short
+BUMPA ID     : 2987882
+WOO TYPE     : variable
+PARENT SKU   : OSN-2987882
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Shorts
+  - Shop by Anime > Hunter x Hunter
+
+TAGS: Killua shorts, Hunter x Hunter shorts, anime gym shorts, Killua Zoldyck, anime shorts, unisex anime shorts, Hunter x Hunter merch, anime-inspired shorts
+FRANCHISE: Hunter x Hunter    CHARACTER: Killua Zoldyck
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦16,000
+Total stock   : 399
+VARIATIONS (attribute: Size)
+  L              | ₦16,000 | stock 100  | SKU OSN-2987882-L
+  XL             | ₦16,000 | stock 99   | SKU OSN-2987882-XL
+  2XL            | ₦16,000 | stock 100  | SKU OSN-2987882-2XL
+  3XL            | ₦16,000 | stock 100  | SKU OSN-2987882-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Lightning-fast comfort for warm-weather fits
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Anime-inspired Killua gym shorts built for movement. Lightweight, breathable fabric with an elastic drawstring waist keeps you comfortable through workouts, lounging, or casual days. Unisex fit, bold Hunter x Hunter energy in every step.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the Zoldyck assassin's electric speed with these Killua gym shorts, designed for fans who want their roster on display. The lightweight, breathable build keeps you cool and free to move, whether you're hitting the gym, running errands, or just chilling in full Hunter x Hunter mode.</p><p>An elastic drawstring waist locks in a comfortable, adjustable fit, while the unisex cut works for everyone. Pair them with your favourite anime tee and wear the roster your way. Fan-made, anime-inspired design; not affiliated with or endorsed by the official rights holders.</p><ul><li>Anime-inspired Killua (Hunter x Hunter) print</li><li>Lightweight, breathable fabric for warm-weather wear</li><li>Elastic drawstring waist for an adjustable, secure fit</li><li>Unisex design that suits any fit</li><li>Size options: L, XL, 2XL, 3XL</li><li>Great for gym sessions, lounging, and casual everyday wear</li><li>Machine wash cold, inside out; hang or line dry to protect the print</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Anime-inspired Killua Zoldyck print from Hunter x Hunter
+  • Lightweight, breathable fabric made for warm weather
+  • Elastic drawstring waist for an adjustable, secure fit
+  • Unisex cut available in L, XL, 2XL and 3XL
+  • Perfect for the gym, lounging, or casual everyday fits
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (48 chars)        : Killua Gym Shorts | Hunter x Hunter Anime Shorts
+Meta Description (154 chars) : Anime-inspired Killua gym shorts from Hunter x Hunter. Lightweight, breathable, unisex with drawstring waist. Sizes L-3XL. Ships nationwide and worldwide.
+Focus keyword                       : Killua gym shorts
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Anime-inspired Killua gym shorts featuring a Hunter x Hunter print, shown flat with elastic drawstring waist
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga style studio product shot of folded anime gym shorts on a seamless backdrop. Ink black #111111 background, paper white #FAFAFA shorts fabric, single manga-red #E2261C accent on the drawstring and print detail. Halftone dot shading, sharp speed lines radiating outward, subtle ink splatter in the corners, framed inside a clean manga panel border. Premium, cinematic lighting, crisp focus, high-end apparel catalog aesthetic.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

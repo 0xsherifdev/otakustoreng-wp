@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Op Bracelet
+SLUG         : op-bracelet
+BUMPA ID     : 1149134
+WOO TYPE     : simple
+PARENT SKU   : OSN-1149134
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Bracelets
+  - Shop by Anime > One Piece
+
+TAGS: One Piece bracelet, anime bracelet, One Piece merch, Straw Hat, Jolly Roger, Luffy bracelet, anime accessories, otaku jewelry
+FRANCHISE: One Piece    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦6,500
+Total stock   : 0
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Crew up. Wear the Jolly Roger every day.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A One Piece-inspired bracelet for fans who carry their crew everywhere. Everyday-durable, easy fit, and built to take a daily beating without losing its edge. Stack it solo or pile it on. Fan-made, not affiliated.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some dreams don't fit in your pocket, so wear them on your wrist instead. The Op Bracelet is our One Piece-inspired piece for fans chasing the same horizon as the Straw Hats: bold enough to catch eyes, low-key enough to live on your arm every single day. From morning runs to late-night episodes, it stays on while you keep moving toward your One Piece.</p><p>Built for real wear, not a display case. Throw it on solo for a clean look or stack it with your other bands and rings for a full pirate-crew energy. A fan-made tribute to the world's most legendary voyage, designed to last as long as the journey.</p><ul><li>Style: One Piece-inspired fashion bracelet for everyday wear</li><li>Material: durable, skin-friendly construction built to handle daily use</li><li>Fit: comfortable, easy-on wear that stacks well with other bands</li><li>Design: subtle anime-inspired pirate styling, unisex appeal</li><li>Care: wipe clean with a soft dry cloth; keep away from water and harsh chemicals to preserve the finish</li><li>Fan-made / anime-inspired tribute, not official or affiliated with the franchise</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • One Piece-inspired design for true crew members
+  • Everyday-durable build that survives daily wear
+  • Easy, comfortable fit for any wrist
+  • Stacks cleanly with other bracelets and rings
+  • Unisex styling that works with any fit
+  • Fan-made tribute, not affiliated with the franchise
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (55 chars)        : One Piece Bracelet | Op Anime Bracelet - Otaku Store NG
+Meta Description (148 chars) : Shop the One Piece-inspired Op Bracelet at Otaku Store NG. Everyday-durable, easy fit, stacks great. ₦6,500. Ships nationwide & worldwide. Fan-made.
+Focus keyword                       : One Piece bracelet
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.png  (primary/featured)
+PRIMARY IMAGE ALT TEXT: One Piece-inspired Op Bracelet on a wrist, anime fashion accessory from Otaku Store NG
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a One Piece-inspired fashion bracelet resting on a folded cloth. Ink-black #111111 background with paper-white #FAFAFA negative space, a single manga-red #E2261C accent flowing as a thin ink splatter beneath the bracelet. Halftone-dot texture and sharp diagonal speed lines radiating outward, composed inside a clean manga panel frame. High-contrast cinematic lighting, crisp focus on the band, premium editorial feel. No text, no logos, no watermark.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

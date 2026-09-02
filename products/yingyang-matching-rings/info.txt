@@ -1,0 +1,82 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Yingyang Matching Rings
+SLUG         : yingyang-matching-rings
+BUMPA ID     : 1149102
+WOO TYPE     : simple
+PARENT SKU   : OSN-1149102
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Couple Accessories
+  - Accessories > Rings
+
+TAGS: yin-yang rings, matching couple rings, anime couple accessories, his and hers rings, adjustable rings, anime-inspired jewelry, couple gift, yin yang jewelry
+FRANCHISE: Generic Anime    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,500
+Total stock   : 992
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Two halves, one bond — wear the balance.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A his-and-hers yin-yang ring set where black and white halves complete each other. Adjustable open bands fit almost any finger, accented with tiny crystal dots. The anime-inspired couple piece that says you two are balance itself.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Light and dark. Calm and chaos. The Yingyang Matching Rings turn the oldest symbol of balance into a wearable bond for two. One ring carries the polished silver-tone half, the other the deep black half — slip them on side by side and the yin-yang clicks into place. It's the perfect anime-inspired statement for the duo who function as each other's opposite and equal.</p>
+<p>Each band is an open, adjustable cuff style, so there's no stressing over exact ring sizes — gently shape it to a snug, comfortable fit. Tiny inset crystal dots echo the classic yin-yang detailing for that extra glint. Built from durable everyday metal alloy, this set is made to be worn daily, gifted, and shown off at the next con.</p>
+<ul>
+<li>Sold as a matching his-and-hers / duo set (2 rings)</li>
+<li>Yin-yang design: one polished silver-tone half, one black half</li>
+<li>Tiny inset crystal accent dots completing the symbol</li>
+<li>Open, adjustable band — one size fits most fingers</li>
+<li>Durable metal alloy, built for everyday wear</li>
+<li>Anime-inspired couple aesthetic; ideal anniversary or fandom gift</li>
+<li>Ships nationwide across Nigeria and worldwide</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Matching duo set — two complementary yin-yang rings
+  • Adjustable open band fits most fingers, no sizing stress
+  • Polished silver-tone half meets deep black half
+  • Crystal accent dots complete the yin-yang motif
+  • Durable metal alloy for everyday wear
+  • Perfect anime-inspired gift for couples and best friends
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (46 chars)        : Yinyang Matching Rings | Anime Couple Ring Set
+Meta Description (150 chars) : Anime-inspired yin-yang matching ring set for couples. Black and white adjustable bands with crystal dots. Ships across Nigeria and worldwide. ₦4,500.
+Focus keyword                       : yin-yang matching rings
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Yin-yang matching couple ring set with a polished silver-tone half and a black half, tiny crystal accent dots, open adjustable band
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga style studio product shot of two yin-yang matching rings, one polished silver-tone and one black, arranged so their halves complete the yin-yang symbol. Ink black #111111 background, paper white #FAFAFA surface, single manga-red #E2261C accent ribbon of light. Halftone dot shading, dramatic speed lines radiating outward, subtle ink splatter framing the rings inside a manga panel border. Premium, cinematic, high-contrast macro lighting, glinting crystal dots catching the light.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

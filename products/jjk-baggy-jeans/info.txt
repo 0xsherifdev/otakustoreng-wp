@@ -1,0 +1,88 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Jjk Baggy Jeans
+SLUG         : jjk-baggy-jeans
+BUMPA ID     : 2119121
+WOO TYPE     : variable
+PARENT SKU   : OSN-2119121
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Trousers
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: JJK baggy jeans, Jujutsu Kaisen jeans, anime jeans, JJK trousers, anime baggy denim, Jujutsu Kaisen merch, anime streetwear, unisex anime jeans
+FRANCHISE: Jujutsu Kaisen    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦27,000
+Total stock   : 50
+VARIATIONS (attribute: Size)
+  M              | ₦27,000 | stock 10   | SKU OSN-2119121-M
+  L              | ₦27,000 | stock 10   | SKU OSN-2119121-L
+  XL             | ₦27,000 | stock 10   | SKU OSN-2119121-XL
+  2XL            | ₦27,000 | stock 10   | SKU OSN-2119121-2XL
+  3X1            | ₦27,000 | stock 10   | SKU OSN-2119121-3X1
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Curse-energy denim built for the everyday roster.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Anime-inspired Jujutsu Kaisen baggy jeans with a relaxed, loose fit and bold JJK-themed detailing. Unisex denim that drops straight from streetwear into sorcerer mode. Sizes M to 3XL, ₦27,000.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Step into the world of Jujutsu Kaisen with these fan-inspired baggy jeans, cut for that loose, lived-in streetwear silhouette every JJK head is chasing. The relaxed leg and roomy seat give you full range of motion, while the anime-inspired detailing keeps your fit unmistakably on-roster from the train platform to the meet-up.</p>
+<p>Pair them with your favourite JJK jersey, tee or hoodie and let the rest of the lobby know exactly which curse user you ride for. Unisex, durable and built to be worn hard.</p>
+<ul>
+<li>Material: durable cotton-blend denim with a soft, broken-in handfeel</li>
+<li>Fit: relaxed baggy cut with a loose, roomy leg</li>
+<li>Style: anime-inspired Jujutsu Kaisen graphic and stitch detailing</li>
+<li>Closure: standard button-and-zip fly with belt loops</li>
+<li>Pockets: classic five-pocket layout</li>
+<li>Sizes: M, L, XL, 2XL, 3XL — unisex sizing</li>
+<li>Pairs with: matching JJK jerseys, tees and hoodies</li>
+<li>Care: machine wash cold inside-out, hang dry to protect the print</li>
+<li>Fan-made / anime-inspired apparel — not official or affiliated with any rights holder</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Relaxed baggy cut for that loose, lived-in streetwear silhouette
+  • Anime-inspired Jujutsu Kaisen graphic and stitch detailing
+  • Durable cotton-blend denim with a soft, broken-in feel
+  • Classic five-pocket build with button-and-zip fly
+  • Unisex sizing from M to 3XL
+  • Built to pair with matching JJK jerseys and hoodies
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (44 chars)        : JJK Baggy Jeans | Jujutsu Kaisen Anime Denim
+Meta Description (142 chars) : Anime-inspired Jujutsu Kaisen baggy jeans. Relaxed unisex denim with bold JJK detailing, sizes M-3XL. ₦27,000, ships nationwide and worldwide.
+Focus keyword                       : JJK baggy jeans
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Jujutsu Kaisen-inspired baggy denim jeans with relaxed loose-leg fit and JJK detailing
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of relaxed baggy denim jeans laid on a seamless paper-white #FAFAFA backdrop, ink black #111111 shadows, single manga-red #E2261C accent on subtle Jujutsu Kaisen-inspired stitch detail. Halftone dot texture and speed lines streaking behind, faint ink splatter in the corner, framed inside a clean manga panel border. Premium cinematic lighting, high detail, editorial fashion catalogue feel.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

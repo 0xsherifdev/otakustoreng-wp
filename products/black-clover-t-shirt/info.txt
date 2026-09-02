@@ -1,0 +1,87 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Black clover T-shirt
+SLUG         : black-clover-t-shirt
+BUMPA ID     : 4269821
+WOO TYPE     : variable
+PARENT SKU   : OSN-4269821
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+
+TAGS: Black Clover, Black Clover t-shirt, anime t-shirt, Asta, Magic Knights, Clover Kingdom, anime graphic tee, otaku apparel
+FRANCHISE: Black Clover    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦14,000
+Total stock   : 2999
+VARIATIONS (attribute: Size)
+  S              | ₦14,000 | stock 500  | SKU OSN-4269821-S
+  M              | ₦14,000 | stock 500  | SKU OSN-4269821-M
+  L              | ₦14,000 | stock 500  | SKU OSN-4269821-L
+  XL             | ₦14,000 | stock 499  | SKU OSN-4269821-XL
+  2XL            | ₦14,000 | stock 500  | SKU OSN-4269821-2XL
+  XXXL           | ₦14,000 | stock 500  | SKU OSN-4269821-XXXL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Five-leaf grimoire energy for the Magic Knights faithful
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A Black Clover anime-inspired graphic tee built for fans of Asta's grit and the Clover Kingdom. Soft cotton, unisex regular fit, crew neck and a durable fade-resistant print that survives wash after wash.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Surpass your limits. This Black Clover anime-inspired t-shirt channels the relentless, never-give-up energy of the Clover Kingdom and its Magic Knights, printed bold for fans who live by the grind. Whether you ride with the Black Bulls or just love the series, this is roster-wear you can throw on every day.</p>
+<p>Cut as a unisex regular fit with a clean crew neck, it pairs soft, breathable fabric with a sharp, high-contrast graphic that holds its colour. Wear it to a meet-up, a binge session, or anywhere you want your fandom front and centre. Fan-made and anime-inspired, not affiliated with or endorsed by the official rights holders.</p>
+<ul>
+<li><strong>Design:</strong> Black Clover anime-inspired graphic print</li>
+<li><strong>Fabric:</strong> Soft, breathable cotton (cotton/polyester blend on all-over-print runs)</li>
+<li><strong>Fit:</strong> Unisex regular fit</li>
+<li><strong>Neckline:</strong> Classic crew neck</li>
+<li><strong>Print:</strong> Durable, fade-resistant graphic</li>
+<li><strong>Sizes:</strong> S, M, L, XL, 2XL, XXXL</li>
+<li><strong>Care:</strong> Machine wash cold, inside-out; do not tumble dry hot</li>
+<li><strong>Status:</strong> Fan / anime-inspired apparel, not official or licensed</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Black Clover anime-inspired graphic for true Magic Knights fans
+  • Soft, breathable cotton with a unisex regular fit
+  • Durable fade-resistant print that survives repeated washes
+  • Classic crew neck, everyday-wear comfort
+  • Wide size range from S all the way to XXXL
+  • Machine wash cold inside-out to keep colours sharp
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (40 chars)        : Black Clover T-Shirt | Anime Graphic Tee
+Meta Description (148 chars) : Black Clover anime-inspired graphic t-shirt in soft cotton. Unisex regular fit, crew neck, fade-resistant print. Sizes S-XXXL. Ships nationwide and.
+Focus keyword                       : Black Clover t-shirt
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black Clover anime-inspired graphic t-shirt with crew neck, unisex regular fit
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a folded anime graphic t-shirt on ink-black #111111 surface, paper-white #FAFAFA backdrop, single manga-red #E2261C accent on the garment graphic. Halftone dot texture, dynamic speed lines and ink splatter framing the tee in manga panels, dramatic cinematic side lighting, premium catalogue feel, high detail, sharp focus.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

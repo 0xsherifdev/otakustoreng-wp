@@ -1,0 +1,79 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Gojou Hoodie
+SLUG         : gojou-hoodie-2963737
+BUMPA ID     : 2963737
+WOO TYPE     : variable
+PARENT SKU   : OSN-2963737
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Gojo hoodie, Satoru Gojo, Jujutsu Kaisen hoodie, anime hoodie, JJK merch, anime pullover hoodie, anime streetwear, manga print hoodie
+FRANCHISE: Jujutsu Kaisen    CHARACTER: Satoru Gojo
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦18,500
+Total stock   : 800
+VARIATIONS (attribute: Size & Material)
+  L-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2963737-LTHICKCOTTON
+  L-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2963737-LTHICKPOLYESTER
+  Xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2963737-XLTHICKCOTTON
+  Xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2963737-XLTHICKPOLYESTER
+  2xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2963737-2XLTHICKCOTTON
+  2xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2963737-2XLTHICKPOLYESTER
+  3xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2963737-3XLTHICKCOTTON
+  3xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2963737-3XLTHICKPOLYESTER
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Six Eyes energy in fleece-lined streetwear black
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel the strongest sorcerer in this anime-inspired Gojo pullover hoodie. Brushed-fleece interior, ribbed cuffs and hem, roomy kangaroo pocket, and bold monochrome Gojo Satoru manga artwork with kanji detailing. Unisex streetwear fit, choose thick cotton or thick polyester.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Limitless drip. This Gojo hoodie puts Jujutsu Kaisen's strongest sorcerer front and centre with crisp monochrome manga artwork and kanji styling that hits hard against a deep black base. It is a fan-made, anime-inspired piece built for everyday wear, late-night rewatches, and convention floors alike.</p><p>The pullover silhouette comes with a brushed-fleece interior for warmth, ribbed cuffs and hem to lock in the fit, and a roomy kangaroo pocket. Pick your fabric feel and your size, then layer it into your rotation. Wear the roster.</p><ul><li>Anime-inspired Gojo Satoru graphic with manga linework and kanji detailing</li><li>Pullover hoodie with double-layer hood and drawstring</li><li>Brushed-fleece interior for cosy warmth</li><li>Ribbed cuffs and hem for a snug, lasting shape</li><li>Spacious front kangaroo pocket</li><li>Unisex streetwear fit</li><li>Fabric choice: Thick Cotton or Thick Polyester</li><li>Sizes: L, XL, 2XL, 3XL</li><li>Care: machine wash cold, inside-out; do not bleach</li><li>Fan / anime-inspired design, not official or affiliated with the rights holders</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold monochrome Gojo Satoru manga print with kanji detailing
+  • Brushed-fleece interior for everyday warmth
+  • Ribbed cuffs and hem with roomy kangaroo pocket
+  • Pick your feel: Thick Cotton or Thick Polyester
+  • Unisex streetwear fit, sizes L to 3XL
+  • Fan-made, anime-inspired design
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (43 chars)        : Gojo Hoodie | Jujutsu Kaisen Anime Pullover
+Meta Description (148 chars) : Anime-inspired Gojo Satoru hoodie from Jujutsu Kaisen. Brushed-fleece pullover, kangaroo pocket, thick cotton or polyester. Sizes L-3XL, ships from.
+Focus keyword                       : Gojo hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black pullover hoodie with monochrome Gojo Satoru manga print and Japanese kanji from Jujutsu Kaisen
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a black pullover hoodie laid flat on ink-black #111111 surface, lit cinematically. Hoodie features a high-contrast monochrome manga print of a white-haired sorcerer character with kanji panels in paper white #FAFAFA. Single manga-red #E2261C accent as a thin border frame and a small splatter. Halftone dot texture in the background, diagonal speed lines, ink splatter detailing, arranged like a manga panel. Premium streetwear catalogue aesthetic, sharp focus, dramatic side lighting, no text watermark.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

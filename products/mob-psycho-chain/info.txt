@@ -1,0 +1,85 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Mob Psycho Chain
+SLUG         : mob-psycho-chain
+BUMPA ID     : 1134581
+WOO TYPE     : variable
+PARENT SKU   : OSN-1134581
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Chains & Necklaces
+
+TAGS: Mob Psycho 100, Mob Psycho necklace, anime chain, Shigeo Kageyama, anime pendant, anime jewellery, stainless steel necklace, anime-inspired chain
+FRANCHISE: Mob Psycho 100    CHARACTER: Shigeo "Mob" Kageyama
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,200
+Total stock   : 400
+VARIATIONS (attribute: Style)
+  1              | ₦4,200 | stock 200  | SKU OSN-1134581-1
+  2              | ₦4,200 | stock 200  | SKU OSN-1134581-2
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Channel the 100% explosion. Wear the aura.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+An anime-inspired Mob Psycho 100 pendant chain for fans who hit 100%. Crafted in tarnish-resistant stainless steel with an adjustable chain, it carries the psychic-counter energy of Mob into your everyday fit. Choose your design.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>When the meter fills, everything changes. This anime-inspired pendant chain channels the quiet-then-explosive energy of Shigeo "Mob" Kageyama from <em>Mob Psycho 100</em> — the kind of piece that says you know exactly when to let it all out. Clean lines, a bold pendant, and that unmistakable psychic-counter mood make it an easy daily wear or a statement layer over your favourite drop.</p>
+<p>Built to last and built to flex, it pairs just as well with a tee and chains as it does under a jacket. Pick the design that matches your vibe and let the roster ride with you.</p>
+<ul>
+<li><strong>Series:</strong> Mob Psycho 100 (fan / anime-inspired, not affiliated or official)</li>
+<li><strong>Character energy:</strong> Shigeo "Mob" Kageyama and the 100% counter motif</li>
+<li><strong>Material:</strong> durable stainless-steel / alloy that resists tarnish and everyday wear</li>
+<li><strong>Chain:</strong> adjustable length to sit right on any neckline</li>
+<li><strong>Designs:</strong> choose Style 1 or Style 2 at checkout</li>
+<li><strong>Finish:</strong> smooth pendant with crisp detailing</li>
+<li><strong>Care:</strong> wipe clean with a soft, dry cloth; keep away from harsh chemicals</li>
+<li><strong>In the box:</strong> 1x pendant necklace in your chosen style</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Anime-inspired Mob Psycho 100 pendant for true fans
+  • Tarnish-resistant stainless-steel / alloy build
+  • Adjustable chain length for any neckline
+  • Two designs available - pick Style 1 or Style 2
+  • Lightweight, everyday-wear comfort that layers clean
+  • Easy care: just wipe with a soft dry cloth
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (46 chars)        : Mob Psycho 100 Chain Necklace | Otaku Store NG
+Meta Description (147 chars) : Anime-inspired Mob Psycho 100 pendant chain in tarnish-resistant steel. Adjustable, two designs. Ships from Nigeria nationwide & worldwide. ₦4,200.
+Focus keyword                       : Mob Psycho 100 chain necklace
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Mob Psycho 100 anime-inspired stainless-steel pendant chain necklace on a clean studio background
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of an anime-inspired stainless-steel pendant necklace, hung against an ink-black #111111 background with paper-white #FAFAFA negative space. A single manga-red #E2261C accent glows behind the pendant like a psychic counter hitting 100%. Halftone dot gradients, sharp speed lines radiating outward, subtle ink splatter framing the edges, divided into clean manga panels. Premium cinematic lighting, crisp metallic reflections on the chain, high contrast, sharp focus. No text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

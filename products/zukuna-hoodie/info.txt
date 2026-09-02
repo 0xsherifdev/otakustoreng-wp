@@ -1,0 +1,91 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Zukuna Hoodie
+SLUG         : zukuna-hoodie
+BUMPA ID     : 2964565
+WOO TYPE     : variable
+PARENT SKU   : OSN-2964565
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Sukuna hoodie, Jujutsu Kaisen hoodie, Ryomen Sukuna, anime zip-up hoodie, JJK merch, King of Curses, anime streetwear, fleece hoodie
+FRANCHISE: Jujutsu Kaisen    CHARACTER: Ryomen Sukuna
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦18,500
+Total stock   : 800
+VARIATIONS (attribute: Size & Material)
+  L-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964565-LTHICKCOTTON
+  L-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964565-LTHICKPOLYESTER
+  Xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964565-XLTHICKCOTTON
+  Xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964565-XLTHICKPOLYESTER
+  2xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964565-2XLTHICKCOTTON
+  2xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964565-2XLTHICKPOLYESTER
+  3xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964565-3XLTHICKCOTTON
+  3xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964565-3XLTHICKPOLYESTER
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The King of Curses, zipped up in ink-black fleece.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel the King of Curses in this Sukuna-inspired full-zip hoodie. Brushed fleece warmth, four-eyes chest print, cursed-hand and Jujutsu Kaisen kanji graphics, oversized unisex streetwear fit. Choose your size in thick cotton or thick polyester.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Domain expanded. The <strong>Zukuna Hoodie</strong> puts the King of Curses on your back with a bold Ryomen Sukuna-inspired print: the four-eyed glare across the left chest, the cursed mouthed-hand on the reverse, and crisp Jujutsu Kaisen-style kanji running down the front and sleeve. A single manga-red accent in the cursed tongue cuts through the ink-black canvas for that premium, panel-ready look.</p>
+<p>Built for everyday wear, this full-zip pullover layers brushed-fleece warmth with a relaxed, oversized unisex fit that drapes clean over a tee or a layered streetwear stack. Fan-made and anime-inspired, not affiliated with or endorsed by the official rights holders.</p>
+<ul>
+<li><strong>Style:</strong> Full-zip hooded sweatshirt with double-sided graphic print</li>
+<li><strong>Fabric choice:</strong> Thick cotton or thick polyester (select at checkout)</li>
+<li><strong>Interior:</strong> Brushed-fleece lining for warmth</li>
+<li><strong>Build:</strong> Ribbed cuffs and hem, lined drawstring hood, front zip closure with side pockets</li>
+<li><strong>Fit:</strong> Oversized unisex streetwear cut</li>
+<li><strong>Sizes:</strong> L, XL, 2XL and 3XL</li>
+<li><strong>Design:</strong> Sukuna four-eyes chest print, cursed-hand back graphic, Jujutsu Kaisen-style kanji detailing</li>
+<li><strong>Care:</strong> Machine wash cold, inside-out; do not bleach; hang or tumble dry low</li>
+<li><strong>Availability:</strong> Made to order on preorder</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Ryomen Sukuna four-eyes chest print with cursed-hand back graphic
+  • Jujutsu Kaisen-style kanji detailing down the front and sleeve
+  • Brushed-fleece interior for cold-weather warmth
+  • Full-zip closure with ribbed cuffs, hem and side pockets
+  • Oversized unisex streetwear fit, L through 3XL
+  • Pick thick cotton or thick polyester at checkout
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (54 chars)        : Sukuna Hoodie - Jujutsu Kaisen Zip-Up | Otaku Store NG
+Meta Description (144 chars) : Sukuna-inspired Jujutsu Kaisen zip-up hoodie with four-eyes and cursed-hand prints. Brushed fleece, oversized fit, cotton or polyester. ₦18,500.
+Focus keyword                       : Sukuna hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black Sukuna zip-up hoodie with four-eyes chest print, Jujutsu Kaisen kanji and cursed-hand back graphic
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a black full-zip anime hoodie inspired by Ryomen Sukuna from Jujutsu Kaisen, floating ghost-mannequin on a paper-white #FAFAFA backdrop framed inside crisp black manga panels. Ink-black #111111 garment showing the four-eyes chest print and cursed mouthed-hand graphic, single manga-red #E2261C accent glowing in the cursed tongue. Halftone dot shading, dramatic diagonal speed lines, ink splatter around the edges, cinematic premium lighting, high detail, sharp contrast, no text, no watermark.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

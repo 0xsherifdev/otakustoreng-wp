@@ -1,0 +1,80 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Naruto kunai 01
+SLUG         : naruto-kunai-01
+BUMPA ID     : 3074767
+WOO TYPE     : simple
+PARENT SKU   : OSN-3074767
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Katana & Weapons
+  - Shop by Anime > Naruto
+
+TAGS: Naruto kunai, wooden kunai, Naruto cosplay prop, Hidden Leaf kunai, anime kunai replica, Naruto display prop, ninja cosplay weapon, Naruto Uzumaki
+FRANCHISE: Naruto    CHARACTER: Naruto Uzumaki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦7,000
+Total stock   : 5
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The Hidden Leaf's signature blade, ready for your loadout.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A wooden Naruto-inspired kunai built for cosplay and shelf display. Lightweight, blunt and safe to handle, with the iconic ringed pommel and tapered profile every shinobi fan knows. A clean, affordable prop for fans of the Hidden Leaf.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel your inner shinobi with this Naruto-inspired wooden kunai, a fan-favourite display and cosplay prop modelled on the classic Hidden Leaf throwing knife. Carved with the unmistakable diamond-tapered blade and ringed pommel, it slots straight into any Naruto Uzumaki or Konoha ninja cosplay and looks sharp posed on a shelf, desk or collector's wall.</p>
+<p>Crafted entirely from wood, it is lightweight, blunt and safe to handle for photo shoots, conventions and roleplay, while still carrying that authentic anime-inspired silhouette. Decorative collector's prop only, not a functional blade and not affiliated with or endorsed by the official rights holders.</p>
+<ul>
+<li>Anime-inspired Naruto / Hidden Leaf kunai design with ringed pommel</li>
+<li>Material: solid wood construction</li>
+<li>Blunt, non-functional blade made for cosplay and display</li>
+<li>Lightweight and easy to hold for posing and photos</li>
+<li>Great for cosplay loadouts, prop collections and themed displays</li>
+<li>Care: keep dry, wipe with a soft dry cloth, store away from moisture</li>
+<li>Decorative prop only; keep away from children and follow local laws on prop blades</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Iconic Hidden Leaf kunai silhouette with ringed pommel
+  • Solid wood build: lightweight, blunt and safe to handle
+  • Perfect for Naruto cosplay loadouts and prop collections
+  • Display-ready on a shelf, desk or collector's wall
+  • Decorative anime-inspired prop, not a functional weapon
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (44 chars)        : Naruto Wooden Kunai - Cosplay & Display Prop
+Meta Description (150 chars) : Naruto-inspired wooden kunai for cosplay and display. Lightweight, blunt and safe with the iconic Hidden Leaf shape. Ships from Nigeria, nationwide &.
+Focus keyword                       : Naruto wooden kunai
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Naruto-inspired wooden kunai cosplay prop with diamond-tapered blade and ringed pommel
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-Manga studio product shot of a wooden Naruto-inspired kunai with a diamond-tapered blade and ringed pommel, laid diagonally across an ink-black #111111 surface with paper-white #FAFAFA halftone-dot panels behind it. Single manga-red #E2261C accent slash and dynamic speed lines radiating from the blade tip, subtle ink splatter in the corners. Cinematic top-down lighting, premium collector-prop look, sharp focus on the wood grain and handle wrap, manga panel framing.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

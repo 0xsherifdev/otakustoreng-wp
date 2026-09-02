@@ -1,0 +1,93 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Anime Silver Bracelet
+SLUG         : anime-silver-bracelet
+BUMPA ID     : 1134946
+WOO TYPE     : variable
+PARENT SKU   : OSN-1134946
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+
+TAGS: anime silver bracelet, anime bracelet, anime accessories, silver bracelet, anime jewelry, otaku accessories, anime gift, unisex bracelet
+FRANCHISE: Generic Anime    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦5,500
+Total stock   : 700
+VARIATIONS (attribute: Style)
+  1              | ₦5,500 | stock 100  | SKU OSN-1134946-1
+  2              | ₦5,500 | stock 100  | SKU OSN-1134946-2
+  3              | ₦5,500 | stock 100  | SKU OSN-1134946-3
+  4              | ₦5,500 | stock 100  | SKU OSN-1134946-4
+  5              | ₦5,500 | stock 100  | SKU OSN-1134946-5
+  6              | ₦5,500 | stock 100  | SKU OSN-1134946-6
+  7              | ₦5,500 | stock 100  | SKU OSN-1134946-7
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Silver-tone chains to rep your roster, daily.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Slip on the anime-inspired silver bracelet and carry your favourite series everywhere. Lightweight silver-tone metal with a clean, everyday finish across 7 designs to choose from. Subtle enough for school or work, sharp enough for any meet-up. Fan-made, not affiliated.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some fans wear the hoodie. Real ones let the details do the talking. The <strong>Anime Silver Bracelet</strong> is an anime-inspired everyday piece built to slip onto your wrist and quietly rep the roster, whether you are heading to class, the gym or a Saturday meet-up. Silver-tone metal, a clean finish and a weight light enough to forget you are wearing it.</p>
+<p>Choose from <strong>7 numbered designs</strong> (options are listed 1 through 7, top to bottom) so you can match the bracelet to the series or aesthetic you vibe with. At <strong>₦5,500</strong> it is an easy, affordable way to add anime flavour to any fit without going loud. Fan / anime-inspired merch, not official or affiliated with any studio.</p>
+<ul>
+<li><strong>Item:</strong> Anime-inspired silver-tone wrist bracelet</li>
+<li><strong>Designs:</strong> 7 styles to choose from (numbered 1-7 in the options, top to bottom)</li>
+<li><strong>Material:</strong> Durable silver-tone metal alloy with a polished finish</li>
+<li><strong>Wear:</strong> Lightweight, everyday-friendly; pairs with casual and streetwear fits</li>
+<li><strong>Fit:</strong> Unisex; designed for an adjustable / comfortable everyday wrist fit</li>
+<li><strong>Care:</strong> Keep dry, wipe clean with a soft cloth, store away from moisture and perfume to keep the shine</li>
+<li><strong>Price:</strong> ₦5,500</li>
+<li><strong>Shipping:</strong> Ships from Nigeria, nationwide and worldwide; typically 7-10 days within Nigeria</li>
+<li><strong>Note:</strong> Fan / anime-inspired design, not official or licensed</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • 7 silver-tone designs (numbered 1-7) to match your series
+  • Lightweight metal alloy with a clean, polished everyday finish
+  • Unisex fit that works with casual fits and streetwear
+  • Affordable way to rep anime daily at just ₦5,500
+  • Ships from Nigeria nationwide and worldwide
+  • Fan / anime-inspired, not official or licensed
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (50 chars)        : Anime Silver Bracelet | 7 Designs | Otaku Store NG
+Meta Description (151 chars) : Anime-inspired silver bracelet in 7 designs. Lightweight silver-tone metal, unisex everyday wear. Ships from Nigeria worldwide. ₦5,500. Fan-made merch.
+Focus keyword                       : anime silver bracelet
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+  05.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Anime-inspired silver-tone bracelet on a wrist, one of seven designs from Otaku Store NG
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a silver-tone anime-inspired wrist bracelet resting on an ink-black surface. Ink black #111111 background, paper white #FAFAFA rim light, single manga-red #E2261C accent slash behind the bracelet. Halftone dot texture, sharp diagonal speed lines, subtle ink splatter framing the metal. Premium, cinematic macro lighting catching the polished silver links; manga panel border. High detail, editorial product photography, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

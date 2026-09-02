@@ -1,0 +1,72 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Kunai And Shurinken Chain
+SLUG         : kunai-and-shurinken-chain
+BUMPA ID     : 1875862
+WOO TYPE     : simple
+PARENT SKU   : OSN-1875862
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Naruto
+
+TAGS: Naruto kunai chain, shuriken necklace, Hidden Leaf pendant, Naruto necklace, anime chain, kunai pendant, Konoha jewellery, ninja necklace
+FRANCHISE: Naruto    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦5,000
+Total stock   : 499
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Hidden Leaf weapons, worn on your chest
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Dual Naruto-inspired pendants: a coil-wrapped kunai and a four-point shuriken, both engraved with the Hidden Leaf crest in a gunmetal finish. Strung on an adjustable chain that resists tarnish and wipes clean. Anime-inspired, not affiliated.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Kit up like a Konoha shinobi. This Naruto-inspired chain pairs two iconic ninja tools, a coil-wrapped kunai blade and a four-point shuriken, both finished in deep gunmetal and engraved with the Hidden Leaf Village crest. It is the detail-heavy pickup for fans who want their roster on their chest, not just their wall.</p><p>Cast in durable, tarnish-resistant metal with a smooth chain that sits clean against the collar, it pairs just as well with a hoodie as a fit pic. A confident, low-key flex for any Naruto fan. Fan / anime-inspired merch, not official or licensed.</p><ul><li><strong>Franchise:</strong> Naruto / Hidden Leaf Village (Konoha) inspired</li><li><strong>Pendants:</strong> kunai dagger + four-point shuriken, both with engraved leaf crest</li><li><strong>Material:</strong> durable tarnish-resistant stainless-steel / alloy, gunmetal finish</li><li><strong>Chain:</strong> standard link chain, comfortable everyday wear length</li><li><strong>What's included:</strong> 1 chain with both kunai and shuriken pendants</li><li><strong>Care:</strong> wipe clean with a soft cloth; keep dry to preserve the finish</li><li><strong>Price:</strong> ₦5,000</li><li><strong>Shipping:</strong> ships from Nigeria, nationwide + worldwide</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Two pendants in one: kunai blade and four-point shuriken
+  • Engraved Hidden Leaf Village (Konoha) crest on both pieces
+  • Deep gunmetal finish for a stealthy, premium look
+  • Durable, tarnish-resistant metal that wipes clean
+  • Comfortable everyday chain length
+  • Fan / anime-inspired, not affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (55 chars)        : Naruto Kunai & Shuriken Chain Necklace | Otaku Store NG
+Meta Description (148 chars) : Naruto-inspired kunai and shuriken pendant chain with engraved Hidden Leaf crest. Gunmetal, tarnish-resistant. ₦5,000. Ships from Nigeria worldwide.
+Focus keyword                       : Naruto kunai and shuriken chain
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Gunmetal Naruto-inspired chain with a coil-wrapped kunai pendant and a four-point shuriken pendant, both engraved with the Hidden Leaf Village leaf crest, held in hand
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+DARK MANGA studio product shot: a gunmetal kunai pendant and a four-point shuriken pendant on a silver chain, both engraved with a stylized leaf crest, laid on ink-black #111111 surface with paper-white #FAFAFA negative space. A single manga-red #E2261C accent slash behind the pendants, dynamic speed lines and halftone dot screentone radiating outward, subtle ink splatter, manga panel framing. Premium, cinematic, high-contrast lighting catching the metal edges; no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

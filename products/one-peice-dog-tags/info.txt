@@ -1,0 +1,75 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : One Peice Dog Tags
+SLUG         : one-peice-dog-tags
+BUMPA ID     : 1146407
+WOO TYPE     : variable
+PARENT SKU   : OSN-1146407
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > One Piece
+
+TAGS: One Piece, dog tag necklace, anime necklace, pirate pendant, anime chain, Straw Hat crew, anime jewellery, anime-inspired accessory
+FRANCHISE: One Piece    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦6,000
+Total stock   : 399
+VARIATIONS (attribute: Style)
+  1              | ₦6,000 | stock 199  | SKU OSN-1146407-1
+  2              | ₦6,000 | stock 200  | SKU OSN-1146407-2
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Stamp your colours with a Grand Line dog tag.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+One Piece-inspired stainless-steel dog tag necklace for true Straw Hat crew. Pick from two bold pirate designs on a tarnish-resistant chain that wears clean day to night. Fan-made, not affiliated. Wear the roster.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Set sail looking the part. This One Piece-inspired dog tag necklace puts Grand Line attitude around your neck, engraved with crisp pirate detailing that reads loud across a room and clean up close. Built for fans who live the adventure, not just watch it.</p><p>Choose from two design options to match your favourite crew vibe, then stack it with the rest of your everyday carry. Tough, tarnish-resistant and ready to ride from class to convention. Fan-made and anime-inspired, not affiliated with or endorsed by the official rights holders.</p><ul><li>Style: anime-inspired dog tag pendant on a matching neck chain</li><li>Material: durable stainless-steel/alloy that resists everyday tarnish</li><li>Design options: choose Style 1 or Style 2 at checkout</li><li>Finish: engraved One Piece-inspired pirate detailing</li><li>Wear: lightweight, comfortable for all-day and layering</li><li>Care: wipe clean with a soft, dry cloth; keep away from harsh chemicals</li><li>Best for: everyday street style, cosplay and convention looks, gifting a fellow fan</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • One Piece-inspired pirate dog tag for diehard Straw Hat fans
+  • Two bold design options to pick your crew look
+  • Durable stainless-steel/alloy build that resists tarnish
+  • Lightweight pendant and chain made for all-day wear
+  • Easy care: just wipe clean with a soft, dry cloth
+  • Fan-made and anime-inspired, not officially affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (43 chars)        : One Piece Dog Tag Necklace | Otaku Store NG
+Meta Description (149 chars) : One Piece-inspired dog tag necklace in durable, tarnish-resistant steel. Two pirate designs. Ships from Nigeria, nationwide & worldwide. From ₦6,000.
+Focus keyword                       : One Piece dog tag necklace
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: One Piece-inspired stainless-steel dog tag pendant necklace with pirate detailing on a metal chain
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a One Piece-inspired stainless-steel dog tag pendant on a metal chain, laid on ink-black #111111 surface with paper-white #FAFAFA negative space. Single manga-red #E2261C accent slash behind the pendant, halftone dot texture, dynamic speed lines and a touch of ink splatter framing the chain in a manga panel. Cinematic premium lighting, sharp metallic highlights, shallow depth of field, high detail.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

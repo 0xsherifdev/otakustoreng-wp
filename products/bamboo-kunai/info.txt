@@ -1,0 +1,72 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Bamboo Kunai
+SLUG         : bamboo-kunai
+BUMPA ID     : 1507918
+WOO TYPE     : simple
+PARENT SKU   : OSN-1507918
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Shop by Anime > Naruto
+
+TAGS: Naruto kunai, cosplay kunai, Naruto cosplay prop, Hidden Leaf, Konoha, bamboo kunai replica, anime accessory, Naruto merch Nigeria
+FRANCHISE: Naruto    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦7,000
+Total stock   : 5
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Konoha-style bamboo cosplay kunai with red wrap and gift box
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel your inner shinobi with this Naruto-inspired Bamboo Kunai. A lightweight, blunt cosplay replica carved from bamboo with a painted blade, red-wrapped grip and ring pommel, packed in a Hidden Leaf gift box. Pure ninja flex for fans and collectors.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Every shinobi needs a signature blade, and this Bamboo Kunai answers the call. Inspired by the iconic throwing knives of <strong>Naruto</strong>, it nails the look fans know by heart: a carved bamboo diamond-shaped blade, a hand-wrapped red cord grip, and a bold ring pommel built for that classic ninja silhouette. It arrives nestled in a gift box stamped with the Hidden Leaf spiral, so it lands ready to display, cosplay or gift.</p><p>This is a cosplay and display prop, not a functional weapon. The bamboo blade is blunt and lightweight, made for photos, costumes, shelf flexing and convention runs rather than combat. Wear the roster and rep the Leaf Village wherever you go.</p><ul><li><strong>Item:</strong> Naruto-inspired cosplay kunai replica (prop, not a real blade)</li><li><strong>Design:</strong> diamond-shaped blade, red cord-wrapped handle, ring pommel</li><li><strong>Material:</strong> lightweight carved bamboo / wood build</li><li><strong>Finish:</strong> painted blade with contrast red grip wrap</li><li><strong>Included:</strong> 1x bamboo kunai prop + Hidden Leaf (Konoha) themed gift box</li><li><strong>Best for:</strong> cosplay, costume props, anime displays, gifting</li><li><strong>Safety:</strong> blunt tip, non-sharpened - display and costume use only</li><li><strong>Care:</strong> wipe clean with a dry cloth; keep away from open flame and moisture</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Naruto-inspired Konoha cosplay kunai with the classic ninja silhouette
+  • Carved bamboo diamond blade with red cord-wrapped grip and ring pommel
+  • Lightweight, blunt replica built for cosplay and display, not combat
+  • Arrives in a Hidden Leaf spiral gift box, ready to gift or shelf
+  • Fan / anime-inspired prop, not official or licensed merch
+  • Ships nationwide across Nigeria and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (49 chars)        : Naruto Bamboo Kunai Cosplay Prop | Otaku Store NG
+Meta Description (142 chars) : Naruto-inspired Bamboo Kunai cosplay prop with red-wrapped grip, ring pommel and Hidden Leaf gift box. ₦7,000. Ships nationwide and worldwide.
+Focus keyword                       : Naruto kunai
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Naruto-inspired Bamboo Kunai cosplay prop with carved bamboo blade, red-wrapped grip and ring pommel beside a Hidden Leaf gift box
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a Naruto-inspired bamboo cosplay kunai: carved diamond-shaped bamboo blade, red cord-wrapped grip, ring pommel, laid diagonally on an ink-black #111111 surface with a paper-white #FAFAFA halftone-dot backdrop. Single manga-red #E2261C accent in dynamic speed lines and a subtle ink splatter behind the blade, framed inside a clean manga panel. Cinematic rim lighting catching the blade edge, premium collectible feel, sharp focus, high detail.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - QA fixes applied: Material contradiction: product is named "Bamboo Kunai" but content described it as "lightweight molded plastic / resin-style build" with a "matte black blade." This is an inaccurate/hallucinated material claim that conflicts with the product name. Corrected to carved bamboo/wood throughout (material, finish, blade description, included items, highlights, image_alt, supplemental_image_prompt).; Care line strengthened to also keep the bamboo away from moisture (true-to-type for a wood/bamboo prop).; Tag "ninja kunai replica" replaced with "bamboo kunai replica" to better match the actual product.
+================================================================================

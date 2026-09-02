@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Zoro Black Bracelet
+SLUG         : zoro-black-bracelet
+BUMPA ID     : 1507850
+WOO TYPE     : simple
+PARENT SKU   : OSN-1507850
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Bracelets
+  - Shop by Anime > One Piece
+
+TAGS: Zoro bracelet, One Piece bracelet, Roronoa Zoro, anime bracelet, Zoro wanted poster, stainless steel wristband, One Piece accessories, anime jewelry
+FRANCHISE: One Piece    CHARACTER: Roronoa Zoro
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦5,000
+Total stock   : 9
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Wear the bounty. 320,000,000 Berries on your wrist.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Zoro's WANTED poster, laser-etched onto a polished stainless-steel ID plate and set on a soft black silicone band. Adjustable buckle clasp, everyday-durable, and built for One Piece fans who carry the bounty everywhere they go.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>The Pirate Hunter never backs down, and now neither does your wrist game. This Zoro Black Bracelet puts the Marine "WANTED Dead or Alive" bounty poster on a polished stainless-steel ID plate, laser-etched with Roronoa Zoro's face and his ₦-free 320,000,000 Berry bounty in crisp black-and-white detail.</p><p>The steel centrepiece sits on a flexible black silicone band with a stainless buckle clasp, so it adjusts to your fit and shrugs off sweat, training and daily wear. Low-key from a distance, unmistakable up close, it is the kind of piece that gets a nod from the crew who knows. Anime-inspired, designed by fans for fans, not affiliated with or endorsed by the official rights holders.</p><ul><li>Featured design: Roronoa Zoro "WANTED Dead or Alive" bounty poster (One Piece)</li><li>Centrepiece: polished stainless-steel ID plate with laser-etched artwork</li><li>Band: soft, flexible black silicone</li><li>Clasp: stainless-steel adjustable buckle for a custom fit</li><li>Style: everyday-durable, sweat-resistant, unisex</li><li>Finish: jet-black band with high-contrast monochrome engraving</li><li>Care: wipe clean with a soft dry cloth; keep away from harsh chemicals</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Roronoa Zoro WANTED bounty poster laser-etched on a steel ID plate
+  • Polished stainless-steel centrepiece with crisp monochrome detail
+  • Soft black silicone band, sweat-resistant and everyday-durable
+  • Adjustable stainless buckle clasp for a custom unisex fit
+  • Anime-inspired One Piece fan design, low-key yet unmistakable
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (48 chars)        : Zoro Black Bracelet | One Piece Wanted Wristband
+Meta Description (150 chars) : Zoro WANTED bounty bracelet: laser-etched steel ID plate on a black silicone band with adjustable buckle. One Piece fan wristband, ships nationwide &.
+Focus keyword                       : Zoro bracelet
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black silicone Roronoa Zoro bracelet with a polished stainless-steel ID plate laser-etched with his One Piece WANTED bounty poster and adjustable buckle clasp
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product studio shot of a black silicone wristband with a polished stainless-steel ID plate engraved with a "WANTED" bounty poster. Ink-black background #111111, paper-white #FAFAFA highlights, a single manga-red #E2261C accent slashing behind the bracelet. Halftone dot texture, sharp diagonal speed lines, ink-splatter detail framing a clean manga panel. Cinematic rim lighting on the chrome buckle, premium e-commerce hero composition, high contrast, crisp focus on the etched steel plate.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

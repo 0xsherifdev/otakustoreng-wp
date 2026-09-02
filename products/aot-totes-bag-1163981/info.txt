@@ -1,0 +1,73 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Aot Totes Bag
+SLUG         : aot-totes-bag-1163981
+BUMPA ID     : 1163981
+WOO TYPE     : simple
+PARENT SKU   : OSN-1163981
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Tote Bags
+  - Shop by Anime > Attack on Titan
+
+TAGS: Attack on Titan, AOT, anime tote bag, canvas tote bag, Scouts, anime merch, Otaku Store NG, everyday carry
+FRANCHISE: Attack on Titan    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,500
+Total stock   : 999
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the fight beyond the walls.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+An Attack on Titan canvas tote built for the daily haul. Sturdy fabric, reinforced handles and bold anime-inspired artwork that holds books, groceries and con loot while you wear the roster with pride.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some bags just carry stuff. This one carries the war for humanity. The Otaku Store NG Attack on Titan tote pairs roomy everyday capacity with bold, fan-inspired AOT artwork printed across durable canvas, so your daily carry hits as hard as a Scout charging the Titans.</p><p>From campus runs to grocery hauls to convention loot, the reinforced handles and generous main compartment keep up with whatever the day throws at you. Throw it over your shoulder, grab your gear and move.</p><ul><li>Material: sturdy woven canvas with a structured, hold-its-shape feel</li><li>Reinforced stitched handles built for shoulder or hand carry</li><li>Spacious open main compartment for books, laptops, groceries and con hauls</li><li>Bold Attack on Titan fan-inspired character artwork, printed for everyday wear</li><li>Lightweight, foldable and easy to pack away when not in use</li><li>Single size, one print option (no variants)</li><li>Care: hand wash cold, reshape and air dry, do not tumble dry</li><li>Fan-made / anime-inspired design; not official or affiliated with the franchise</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Sturdy canvas build with reinforced stitched handles
+  • Roomy open compartment for books, laptops and con hauls
+  • Bold Attack on Titan fan-inspired artwork
+  • Lightweight and foldable for easy everyday carry
+  • Ships nationwide across Nigeria and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (48 chars)        : Attack on Titan Canvas Tote Bag | Otaku Store NG
+Meta Description (152 chars) : Attack on Titan canvas tote bag with reinforced handles and bold anime-inspired art. Roomy everyday carry. Ships across Nigeria and worldwide. Wear the.
+Focus keyword                       : Attack on Titan tote bag
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Attack on Titan canvas tote bag with bold anime-inspired AOT artwork and reinforced handles
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a canvas tote bag standing upright, bold Attack on Titan fan-inspired character artwork printed across the front. Ink black #111111 background, paper white #FAFAFA tote body, single manga-red #E2261C accent on the print and a thin frame. Halftone dot shading, dynamic speed lines radiating outward, subtle ink splatter, composed inside a clean manga panel border. Premium cinematic lighting, sharp focus, high contrast, product-catalog quality.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

@@ -1,0 +1,83 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Op Bracelet With Ring
+SLUG         : op-bracelet-with-ring
+BUMPA ID     : 1920141
+WOO TYPE     : simple
+PARENT SKU   : OSN-1920141
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Bracelets
+  - Shop by Anime > One Piece
+
+TAGS: One Piece bracelet, Straw Hat ring, Jolly Roger, Luffy, anime hand chain, skull bracelet, anime accessories, One Piece jewelry
+FRANCHISE: One Piece    CHARACTER: Monkey D. Luffy
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦6,500
+Total stock   : 500
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Straw Hat Jolly Roger cuff-and-ring hand chain
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A One Piece-inspired hand harness for the crew that flies the Straw Hat flag. A black cuff carries Luffy's skull-and-crossbones plaque, linked by a silver-tone chain to a matching skull ring with red straw-hat accent.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Set sail looking the part. This One Piece-inspired hand chain pairs a bold black cuff bracelet with a matching skull ring, joined by a flowing silver-tone chain so the whole set moves as one on your hand. The centrepiece is the Straw Hat Jolly Roger, finished with a hit of manga-red on the hat for that unmistakable crew emblem.</p>
+<p>Built for everyday wear, the cuff uses a durable strap with a secure fastening while the ring sits cleanly on the finger. It is a statement piece for fans who want their fits to fly the flag without saying a word. Fan / anime-inspired, not affiliated with or endorsed by the official rights holders.</p>
+<ul>
+<li>Style: linked hand-chain set — cuff bracelet, finger ring and connecting chain</li>
+<li>Design: One Piece-inspired Straw Hat Jolly Roger (skull-and-crossbones) with red straw-hat accent</li>
+<li>Materials: alloy metal emblem and ring with a black faux-leather cuff strap</li>
+<li>Finish: silver-tone metal with manga-red colour detail</li>
+<li>Fastening: adjustable cuff strap for an everyday, comfortable fit</li>
+<li>Wear: unisex; pairs cleanly with tees, hoodies and other Straw Hat pieces</li>
+<li>In the box: 1 cuff bracelet, 1 ring and connecting chain (single set)</li>
+<li>Care: wipe with a dry cloth; keep away from water, perfume and lotions to protect the finish</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • One Piece-inspired Straw Hat Jolly Roger emblem with red hat accent
+  • Connected set: cuff bracelet linked to a finger ring by a silver-tone chain
+  • Black faux-leather cuff with secure, everyday-comfortable fastening
+  • Silver-tone alloy skull plaque and matching skull ring
+  • Unisex statement piece that layers with the rest of your roster
+  • Fan-made, anime-inspired design — not officially affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (48 chars)        : One Piece Bracelet & Ring Hand Chain | Straw Hat
+Meta Description (153 chars) : One Piece-inspired hand chain: black cuff bracelet linked to a Straw Hat Jolly Roger skull ring. Bold, unisex, everyday-durable. Ships from Nigeria in ₦.
+Focus keyword                       : One Piece bracelet and ring
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: One Piece-inspired black cuff bracelet with Straw Hat skull emblem linked by a silver chain to a matching skull ring, worn on a hand
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a One Piece-inspired hand-chain set: a black faux-leather cuff bracelet bearing a silver skull-and-crossbones plaque with a small manga-red straw hat, connected by a silver-tone chain to a matching skull ring. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent on the hat. Halftone dots, dramatic speed lines and ink-splatter framing the piece in a manga panel; crisp metal reflections, cinematic premium lighting, high detail. No text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

@@ -1,0 +1,89 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Ichigo Op Black N White Hoodie
+SLUG         : ichigo-op-black-n-white-hoodie
+BUMPA ID     : 1123091
+WOO TYPE     : variable
+PARENT SKU   : OSN-1123091
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+  - Shop by Anime > Bleach
+
+TAGS: Ichigo hoodie, Bleach hoodie, Ichigo Kurosaki, anime hoodie, Bleach merch, Hollow mask, Soul Reaper, streetwear hoodie, manga hoodie, unisex hoodie
+FRANCHISE: Bleach    CHARACTER: Ichigo Kurosaki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦25,000
+Total stock   : 500
+VARIATIONS (attribute: Size)
+  M              | ₦25,000 | stock 100  | SKU OSN-1123091-M
+  L              | ₦25,000 | stock 100  | SKU OSN-1123091-L
+  XL             | ₦25,000 | stock 100  | SKU OSN-1123091-XL
+  2XL            | ₦25,000 | stock 100  | SKU OSN-1123091-2XL
+  XXXL           | ₦25,000 | stock 100  | SKU OSN-1123091-XXXL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Half-Hollow Ichigo on a layered black pullover.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel Ichigo's Hollow-mask form in this black pullover hoodie. Brushed-fleece warmth, a layered white hem-and-cuff look, vertical kanji and the Bleach graphic, finished with a red sleeve-zip detail. Unisex streetwear fit built for Soul Reaper energy.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>When Ichigo's Hollow mask cracks into place, the whole fight shifts, and that's the exact moment printed across the chest of this Bleach-inspired pullover hoodie. The half-masked Ichigo graphic sits beside his name in bold vertical kanji and the classic Bleach wordmark, all set against deep ink-black with a layered white hem and cuffs that fake the double-hem streetwear look without the bulk.</p>
+<p>Brushed-fleece on the inside keeps it warm for late nights and cold mornings, while the relaxed unisex cut wears just as well over a tee as it does on its own. A red zip detail on the sleeve adds the techwear edge. This is a fan-made, anime-inspired piece and is not affiliated with or endorsed by the official Bleach licensors.</p>
+<ul>
+<li>Pullover hoodie with a printed half-Hollow Ichigo Kurosaki graphic, vertical kanji and Bleach wordmark</li>
+<li>Layered two-tone styling: black body with contrast white hem and cuffs</li>
+<li>Brushed-fleece interior for warmth and comfort</li>
+<li>Ribbed cuffs and hem to hold shape and lock in heat</li>
+<li>Functional red zip detail on the sleeve</li>
+<li>Adjustable drawstring hood</li>
+<li>Relaxed unisex streetwear fit</li>
+<li>Available in M, L, XL, 2XL and XXXL</li>
+<li>Cotton-and-polyester blend fabric</li>
+<li>Machine wash cold, inside-out; do not tumble dry hot</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Half-Hollow Ichigo Kurosaki graphic with vertical kanji and the Bleach wordmark
+  • Layered black-and-white look with contrast hem and cuffs
+  • Brushed-fleece interior with ribbed cuffs and hem for warmth
+  • Functional red zip detail on the sleeve for a techwear edge
+  • Relaxed unisex streetwear fit, M through XXXL
+  • Cotton-and-polyester blend, machine washable inside-out
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (49 chars)        : Ichigo Bleach Hoodie | Hollow Mask Black Pullover
+Meta Description (143 chars) : Bleach-inspired Ichigo Hollow-mask hoodie in layered black and white. Brushed-fleece pullover, unisex fit, M-XXXL. Ships from Nigeria. ₦25,000.
+Focus keyword                       : Ichigo Bleach hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black Bleach-inspired pullover hoodie with a half-Hollow-mask Ichigo Kurosaki graphic, vertical Japanese kanji, white layered hem and cuffs, and a red zip detail on the sleeve.
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-Manga studio product shot of a black anime streetwear pullover hoodie hanging on a matte black hanger, ink black #111111 background with paper white #FAFAFA negative space, single manga-red #E2261C accent on the sleeve zip tab. Halftone dot texture and diagonal speed lines radiate behind the garment like a manga panel, subtle ink splatter at the edges. The hoodie shows a layered white hem and cuffs and a bold chest graphic. Cinematic premium lighting, sharp focus, high contrast, glossy magazine feel.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

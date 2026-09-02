@@ -1,0 +1,82 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : 3 In One Kunai Chain
+SLUG         : 3-in-one-kunai-chain
+BUMPA ID     : 1927312
+WOO TYPE     : simple
+PARENT SKU   : OSN-1927312
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Naruto
+
+TAGS: kunai chain, naruto necklace, kunai pendant, anime necklace, naruto accessories, ninja knife pendant, minato kunai, anime chain, shinobi jewelry, pendant set
+FRANCHISE: Naruto    CHARACTER: Minato Namikaze
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦5,500
+Total stock   : 9
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Three kunai pendants. One ninja flex.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A Naruto-inspired kunai pendant set that ships three blades in one drop. Cast in tarnish-resistant metal on adjustable chains, these ninja-knife necklaces layer clean and wear daily. Fan-made tribute, built for the roster.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Throw on the blade that started the legend. This <strong>3 In One Kunai Chain</strong> is a Naruto-inspired tribute to the shinobi toolkit, headlined by the three-pronged kunai of the Fourth Hokage, Minato Namikaze. You get a trio of kunai pendants in a single drop, so you can run one clean or stack all three for a full ninja-armory layer.</p>
+<p>Each pendant is cast in durable, tarnish-resistant metal with crisp blade detailing and hangs on an adjustable chain that sits right whether you wear it tucked or out. Energetic enough for con season, low-key enough for everyday rotation. Fan-made and anime-inspired, not affiliated with or endorsed by the official rights holders.</p>
+<ul>
+<li>Set of three kunai-style pendants (3-in-1) in a single purchase</li>
+<li>Naruto-inspired ninja-knife design, including the three-pronged Hokage kunai motif</li>
+<li>Durable, tarnish-resistant metal construction with detailed blade casting</li>
+<li>Adjustable chain length, comfortable for daily wear or layering</li>
+<li>Lightweight pendants that stack cleanly without weighing you down</li>
+<li>Wipe clean with a soft dry cloth; keep away from water and harsh chemicals</li>
+<li>Unisex styling that suits casual fits, streetwear, and cosplay loadouts</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • 3-in-1 set: three kunai pendants in one drop
+  • Naruto-inspired, featuring the three-pronged Hokage kunai
+  • Durable tarnish-resistant metal with crisp blade detail
+  • Adjustable chain, built for daily wear or layering
+  • Lightweight and unisex, stacks clean for cosplay or street
+  • Fan-made tribute, not official or affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (50 chars)        : 3 In One Kunai Chain - Naruto Pendant Necklace Set
+Meta Description (155 chars) : Naruto-inspired 3 In One Kunai Chain: three ninja-knife pendants on adjustable tarnish-resistant chains. Fan-made shinobi necklace set. Ships from Nigeria.
+Focus keyword                       : kunai chain necklace
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Naruto-inspired 3 In One Kunai Chain set with three metal ninja-knife pendants on adjustable chains
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of three metal kunai-knife pendants on adjustable chains, including a three-pronged ninja kunai, arranged in a fanned manga panel layout. Ink black #111111 background, paper white #FAFAFA negative space, single manga-red #E2261C accent on a slashing speed-line streak. Halftone dot shading, sharp ink splatter, dramatic rim light catching the polished metal blades. Premium cinematic close-up, high contrast, crisp edges.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

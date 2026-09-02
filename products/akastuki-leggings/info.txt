@@ -1,0 +1,74 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Akastuki Leggings
+SLUG         : akastuki-leggings
+BUMPA ID     : 1145163
+WOO TYPE     : variable
+PARENT SKU   : OSN-1145163
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Trousers
+  - Shop by Anime > Naruto
+
+TAGS: Akatsuki leggings, Naruto leggings, anime leggings, Akatsuki cloud print, unisex anime trousers, Naruto merch, anime joggers, otaku fashion
+FRANCHISE: Naruto    CHARACTER: Akatsuki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦8,000
+Total stock   : 40
+VARIATIONS (attribute: Size)
+  M              | ₦8,000 | stock 10   | SKU OSN-1145163-M
+  L              | ₦8,000 | stock 10   | SKU OSN-1145163-L
+  XL             | ₦8,000 | stock 10   | SKU OSN-1145163-XL
+  2XL            | ₦8,000 | stock 10   | SKU OSN-1145163-2XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Rogue-ninja style, painted in red clouds.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Akatsuki-inspired leggings built for fans who move. Stretch fabric with an elastic waist hugs every step, while the red-cloud print channels the rogue ninja crew. Unisex fit, true comfort, ready to pair with your favourite hoodie or jersey.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the most feared crew in the shinobi world. These Akatsuki-inspired leggings carry the signature red-cloud motif across a smooth, second-skin fabric that moves with you, whether you're at the gym, layered under a fit, or lounging on a binge day. Energetic on the eye, easy on the body.</p><p>Cut for everyday wear with a stretch elastic waist and a unisex silhouette, they pair perfectly with a matching anime jersey or oversized hoodie. Fan-made and anime-inspired, not affiliated with or endorsed by the official rights holders.</p><ul><li>Anime-inspired Akatsuki red-cloud print (Naruto fan design)</li><li>Stretch knit fabric with a comfortable elastic waistband</li><li>Unisex fit, true-to-size sizing</li><li>Available in M, L, XL and 2XL</li><li>Second-skin feel, ideal for training, layering or lounging</li><li>Pairs with matching anime jerseys and hoodies</li><li>Machine wash cold, inside out; hang or lay flat to dry</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Akatsuki red-cloud print inspired by Naruto
+  • Stretch fabric with comfortable elastic waist
+  • Unisex fit in M, L, XL and 2XL
+  • Built for training, layering or lounging
+  • Pairs with matching anime jerseys and hoodies
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (44 chars)        : Akatsuki Leggings | Naruto-Inspired Trousers
+Meta Description (149 chars) : Akatsuki-inspired leggings with the iconic red-cloud print. Stretch fabric, elastic waist, unisex fit in M-2XL. Naruto fan style. Ships nationwide &.
+Focus keyword                       : Akatsuki leggings
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Akatsuki red-cloud print leggings inspired by Naruto, unisex stretch fit
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+DARK MANGA studio product shot of unisex athletic leggings laid flat, ink black #111111 background with paper white #FAFAFA paneling, single manga-red #E2261C cloud motifs accented across the fabric; halftone dot shading, dynamic speed lines radiating outward, subtle ink splatter in corners, framed inside bold manga panel borders; dramatic cinematic side lighting, premium streetwear catalog feel, high detail, sharp focus.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

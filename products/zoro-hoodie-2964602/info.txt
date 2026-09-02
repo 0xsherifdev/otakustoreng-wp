@@ -1,0 +1,89 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Zoro Hoodie
+SLUG         : zoro-hoodie-2964602
+BUMPA ID     : 2964602
+WOO TYPE     : variable
+PARENT SKU   : OSN-2964602
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+  - Shop by Anime > One Piece
+
+TAGS: Zoro hoodie, One Piece hoodie, Roronoa Zoro, anime hoodie, anime pullover, One Piece merch, streetwear hoodie, Otaku Store NG
+FRANCHISE: One Piece    CHARACTER: Roronoa Zoro
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦18,500
+Total stock   : 800
+VARIATIONS (attribute: Size & Material)
+  L-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964602-LTHICKCOTTON
+  L-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964602-LTHICKPOLYESTER
+  Xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964602-XLTHICKCOTTON
+  Xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964602-XLTHICKPOLYESTER
+  2xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964602-2XLTHICKCOTTON
+  2xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964602-2XLTHICKPOLYESTER
+  3xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964602-3XLTHICKCOTTON
+  3xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964602-3XLTHICKPOLYESTER
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Three-sword style energy in brushed fleece.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel the Pirate Hunter in this anime-inspired Zoro pullover hoodie. Black brushed-fleece build with his sharp-eyed front graphic, katakana sleeve print and green Jolly Roger on the back. Unisex streetwear fit, ribbed cuffs and a kangaroo pocket.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Wear the roster. This Zoro hoodie puts the Pirate Hunter front and centre with his battle-ready glare printed across the chest, "ロロノア・ゾロ" katakana running down both sleeves, and his unmistakable green skull-and-crossed-swords Jolly Roger blazing across the back. It is a clean, fan-favourite One Piece flex for anyone who lives by the three-sword style.</p>
+<p>Built for everyday wear, the brushed-fleece interior keeps you warm while the unisex streetwear cut layers easily over a tee or under a jacket. Pick your fabric, lock in your size, and rep the Straw Hat crew. Anime-inspired fan design, not affiliated with or endorsed by the official licence.</p>
+<ul>
+<li>Pullover hoodie with drawstring hood and front kangaroo pocket</li>
+<li>Soft brushed-fleece interior for warmth and comfort</li>
+<li>Ribbed cuffs and hem to hold their shape</li>
+<li>Chest graphic of Zoro's eyes, katakana sleeve print, green Jolly Roger on the back</li>
+<li>Fabric choice: thick cotton or thick polyester</li>
+<li>Sizes: L, XL, 2XL, 3XL — unisex streetwear fit</li>
+<li>Machine wash cold, inside-out; do not tumble dry hot to protect the print</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold Zoro chest graphic with katakana down both sleeves
+  • Green skull-and-swords Jolly Roger printed across the back
+  • Soft brushed-fleece interior for everyday warmth
+  • Unisex streetwear fit with kangaroo pocket and ribbed cuffs
+  • Choose thick cotton or thick polyester fabric
+  • Sizes L through 3XL
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (55 chars)        : Zoro Hoodie | One Piece Anime Pullover | Otaku Store NG
+Meta Description (150 chars) : Zoro pullover hoodie with chest graphic, katakana sleeves and green Jolly Roger. Brushed fleece, unisex fit, sizes L-3XL. ₦18,500. Ships nationwide &.
+Focus keyword                       : Zoro hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black Zoro pullover hoodie showing his eyes chest graphic and katakana sleeve print on the front, with a green skull-and-crossed-swords Jolly Roger on the back
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a folded black anime pullover hoodie on a paper-white #FAFAFA surface against an ink-black #111111 backdrop. Single manga-red #E2261C accent in dramatic speed lines and ink splatter radiating behind it, with subtle halftone dot texture and a manga-panel border. Cinematic side lighting catching the brushed-fleece texture and ribbed cuffs, the green Jolly Roger graphic just visible. Premium, high-contrast, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

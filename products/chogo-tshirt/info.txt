@@ -1,0 +1,72 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Chogo Tshirt
+SLUG         : chogo-tshirt
+BUMPA ID     : 1286730
+WOO TYPE     : simple
+PARENT SKU   : OSN-1286730
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Choso t-shirt, Jujutsu Kaisen shirt, Choso Jujutsu Kaisen, anime t-shirt, JJK merch, Cursed Spirit tee, graphic anime tee, Choso merch, unisex anime shirt, Jujutsu Kaisen Nigeria
+FRANCHISE: Jujutsu Kaisen    CHARACTER: Choso
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦14,000
+Total stock   : 1000
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Blood-cursed sorcerer, front and back ink
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel the eldest Death Painting with this Choso front-and-back graphic tee. Bold "Cursed Spirit" art, Jujutsu Kaisen kanji, and a soft cotton crew-neck cut built for everyday wear. Fan-made, not affiliated.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Big-brother energy, fully weaponised. This Choso tee puts the blood-manipulating sorcerer front and centre, with bold "CHOSO / CURSED SPIRIT" art and the unmistakable Jujutsu Kaisen kanji (呪術廻戦) running across the chest. The back panel goes all-in on the Death Painting himself mid-technique, while the front keeps it clean for the days you want subtle flex over full statement.</p><p>Cut from soft 100% cotton in a relaxed unisex fit, it wears just as easily under a hoodie at a convention as it does solo on a regular day. Fade-resistant graphics keep the ink sharp wash after wash, so the roster stays loud. This is a fan-made, anime-inspired design and is not official or affiliated with the franchise.</p><ul><li>Character: Choso, the eldest Death Painting Cursed Womb from Jujutsu Kaisen</li><li>Material: 100% soft cotton</li><li>Fit: unisex regular fit with a crew neck</li><li>Print: front and back graphic with character art plus Japanese kanji and hiragana detailing</li><li>Durability: durable, fade-resistant print</li><li>Colours available: white, black, blue, pink, purple</li><li>Care: machine wash cold, inside-out; do not iron directly on the print</li><li>Note at checkout: leave the colour you want in the order notes</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Front-and-back Choso graphic with bold Cursed Spirit artwork
+  • Authentic Jujutsu Kaisen kanji (呪術廻戦) chest print
+  • Soft 100% cotton in a relaxed unisex regular fit
+  • Durable, fade-resistant print that survives the wash cycle
+  • Five colourways: white, black, blue, pink and purple
+  • Fan-made anime-inspired design, not affiliated with the franchise
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (40 chars)        : Choso T-Shirt | Jujutsu Kaisen Anime Tee
+Meta Description (151 chars) : Choso Jujutsu Kaisen graphic t-shirt with front-and-back Cursed Spirit art. Soft cotton, unisex fit, 5 colours. Fan-made. Ships from Nigeria worldwide.
+Focus keyword                       : Choso t-shirt
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Black Choso Jujutsu Kaisen t-shirt showing front kanji print and back Cursed Spirit character graphic
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a folded black anime graphic t-shirt featuring Choso from Jujutsu Kaisen, on an ink-black #111111 backdrop with paper-white #FAFAFA halftone dots and a single manga-red #E2261C accent slashing diagonally. Sharp speed lines and ink-splatter framing the tee in a manga panel layout, dramatic cinematic side lighting catching the fabric texture, "CURSED SPIRIT" energy, premium streetwear catalogue aesthetic, high detail, no text overlays.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

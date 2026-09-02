@@ -1,0 +1,89 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : One Piece T Shirts
+SLUG         : one-piece-t-shirts
+BUMPA ID     : 1125440
+WOO TYPE     : variable
+PARENT SKU   : OSN-1125440
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+  - Shop by Anime > One Piece
+
+TAGS: One Piece t-shirt, Luffy t-shirt, Gear 5 shirt, Monkey D Luffy, anime t-shirt, One Piece merch, anime streetwear, Straw Hat crew
+FRANCHISE: One Piece    CHARACTER: Monkey D. Luffy
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦14,000
+Total stock   : 497
+VARIATIONS (attribute: Size)
+  M              | ₦14,000 | stock 100  | SKU OSN-1125440-M
+  L              | ₦14,000 | stock 99   | SKU OSN-1125440-L
+  XL             | ₦14,000 | stock 100  | SKU OSN-1125440-XL
+  2XL            | ₦14,000 | stock 98   | SKU OSN-1125440-2XL
+  XXXL           | ₦14,000 | stock 100  | SKU OSN-1125440-XXXL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Gear 5 graphics for the next King of the Pirates
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Set sail in style with our One Piece tee collection. Soft, thick cotton with bold Luffy Gear 5 and Straw Hat manga-panel graphics, unisex regular fit and a fade-resistant print built to ride out every storm.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Raise the Jolly Roger. This One Piece T-shirt collection puts Monkey D. Luffy front and centre, from grayscale Straw Hat manga panels to the explosive Gear 5 back graphic in crisp black, clean white and vintage sand colourways. Anime-inspired streetwear made for fans who wear the roster loud.</p>
+<p>Cut from soft, thick cotton in a unisex regular fit with a clean crew neck, it sits easy on the shoulders and layers like a dream. The print is durable and fade-resistant, so the artwork stays sharp wash after wash. Choose your design from the photo slides and tell us your pick at checkout.</p>
+<ul>
+<li><strong>Fabric:</strong> soft, thick cotton, breathable and built to last</li>
+<li><strong>Fit:</strong> unisex regular fit with a classic crew neck</li>
+<li><strong>Print:</strong> bold One Piece / Luffy graphics, durable and fade-resistant</li>
+<li><strong>Designs:</strong> multiple Luffy artworks and colourways. Indicate your chosen slide at checkout</li>
+<li><strong>Sizes:</strong> M, L, XL, 2XL, XXXL</li>
+<li><strong>Care:</strong> machine wash cold, inside-out; do not tumble dry hot</li>
+<li><strong>Style note:</strong> fan-made, anime-inspired design. Not official or affiliated with the franchise</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold Monkey D. Luffy Gear 5 and Straw Hat manga-panel graphics
+  • Soft, thick cotton in a comfy unisex regular fit
+  • Durable, fade-resistant print that survives the wash
+  • Multiple designs and colourways: black, white and sand
+  • Sizes M through XXXL for a roomy streetwear look
+  • Classic crew neck, easy to layer or wear solo
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (42 chars)        : One Piece T-Shirt | Luffy Gear 5 Anime Tee
+Meta Description (149 chars) : Shop One Piece T-shirts featuring Luffy Gear 5 and Straw Hat graphics. Soft thick cotton, unisex fit, fade-resistant print. Sizes M-XXXL. Ships from.
+Focus keyword                       : One Piece T-Shirt
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: One Piece Monkey D. Luffy Gear 5 graphic t-shirt in black and white, unisex regular fit
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a One Piece anime-inspired t-shirt, ink black #111111 background with paper white #FAFAFA negative space, single manga-red #E2261C accent. A folded black cotton tee laid flat on textured paper, large Luffy Gear 5 back graphic facing up, surrounded by halftone dot gradients, sharp speed lines and a splash of ink splatter framed inside crisp manga panels. Cinematic top-down lighting, premium streetwear catalog feel, high contrast, no text watermark, photoreal fabric texture.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

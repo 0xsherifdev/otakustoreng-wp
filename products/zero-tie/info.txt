@@ -1,0 +1,82 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Zero Tie
+SLUG         : zero-tie
+BUMPA ID     : 4435140
+WOO TYPE     : simple
+PARENT SKU   : OSN-4435140
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Ties
+  - Shop by Anime > One Piece
+
+TAGS: One Piece tie, Straw Hat Pirates, Jolly Roger necktie, anime necktie, Luffy tie, One Piece merch, anime tie Nigeria, cosplay necktie
+FRANCHISE: One Piece    CHARACTER: Straw Hat Pirates (Jolly Roger)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦9,500
+Total stock   : 500
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Fly the Straw Hat flag from collar to boardroom.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Rep the Straw Hat Pirates with this One Piece-inspired necktie. Smooth woven black silk-feel finish covered in the Jolly Roger skull-and-straw-hat crest. Standard adult length for work, weddings and conventions alike.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Set sail in style. This One Piece-inspired necktie carries the Straw Hat Pirates' Jolly Roger, the iconic skull-and-crossbones grinning under Luffy's signature straw hat, printed in crisp white across a deep ink-black ground. It is the cleanest way to rep the crew when a hoodie won't cut it, and subtle enough that only true nakama will catch the reference.</p>
+<p>The smooth woven finish ties a sharp, dimpled knot and sits flat against the shirt, taking you from the office to a wedding to convention floor without missing a beat. Knot it, flip the collar, and fly your flag.</p>
+<ul>
+<li>Anime-inspired Straw Hat Pirates Jolly Roger print (fan-made, not affiliated with or endorsed by the official rights holders)</li>
+<li>Smooth woven microfibre fabric with a silk-like sheen</li>
+<li>Standard adult necktie length and width</li>
+<li>Self-tie design; works with any standard knot (four-in-hand, half-Windsor)</li>
+<li>Pointed blade with a clean, dimple-friendly finish</li>
+<li>Pairs with a white or black shirt for maximum contrast</li>
+<li>Spot clean or dry clean only; do not machine wash or wring</li>
+<li>Includes 1 necktie</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Straw Hat Pirates Jolly Roger print on deep ink-black
+  • Smooth woven microfibre with a silk-like sheen
+  • Standard adult length, self-tie design
+  • Knots clean for office, weddings and conventions
+  • Subtle fan flex only real nakama will spot
+  • Fan-made / anime-inspired, not affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (56 chars)        : One Piece Straw Hat Jolly Roger Necktie | Otaku Store NG
+Meta Description (150 chars) : One Piece-inspired Straw Hat Pirates Jolly Roger necktie. Smooth woven black tie, standard adult length. Ships from Nigeria, nationwide and worldwide.
+Focus keyword                       : One Piece necktie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: One Piece-inspired black necktie printed with the Straw Hat Pirates Jolly Roger skull-and-crossbones crest, shown beside the One Piece logo and Sanji wearing the tie
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga style studio product shot of a black anime necktie printed with a white skull-and-straw-hat Jolly Roger pattern, coiled and standing knot-up on a paper-white #FAFAFA surface against an ink-black #111111 backdrop. Single manga-red #E2261C accent as a thin diagonal speed-line band behind the tie, halftone dot texture, sharp ink splatter in one corner, framed inside a clean manga panel border. Premium, cinematic, high-contrast lighting, crisp focus on the woven fabric weave. No text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

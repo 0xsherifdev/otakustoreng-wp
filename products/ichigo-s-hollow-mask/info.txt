@@ -1,0 +1,83 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Ichigo's Hollow Mask
+SLUG         : ichigo-s-hollow-mask
+BUMPA ID     : 1286800
+WOO TYPE     : simple
+PARENT SKU   : OSN-1286800
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Masks
+  - Shop by Anime > Bleach
+
+TAGS: Ichigo Hollow mask, Bleach mask, Bleach cosplay, Ichigo Kurosaki, Hollow mask, anime mask, cosplay mask, anime cosplay Nigeria
+FRANCHISE: Bleach    CHARACTER: Ichigo Kurosaki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦17,000
+Total stock   : 999
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Channel the Hollow within. Cosplay-ready Bleach mask.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Slip into Ichigo's Hollow form with this fan-inspired Bleach mask. Sculpted with the signature snarling fanged grin and red stripe detailing, it is built for cosplay, conventions and shelf display. A statement piece for any Soul Reaper at heart.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Embrace the inner Hollow with this Ichigo's Hollow Mask, a fan-inspired tribute to one of <em>Bleach</em>'s most iconic transformations. Modelled on Ichigo Kurosaki's Hollow form, it captures the bone-white face, the jagged fanged grin and the bold red stripe markings that fans instantly recognise from the moment his power surges past its limit.</p>
+<p>Whether you are completing a Soul Reaper cosplay, posing for con photos or mounting it on the shelf as a centrepiece, this mask brings serious presence. Built to wear and built to display, it is the kind of detail that turns a costume into a statement.</p>
+<ul>
+<li>Character: Ichigo Kurosaki Hollow form, inspired by <em>Bleach</em></li>
+<li>Use: cosplay, costume events, conventions and display</li>
+<li>Design: sculpted snarling fanged grin with signature red stripe detailing</li>
+<li>Finish: bone-white face with bold manga-accurate markings</li>
+<li>Wear style: face-covering mask designed for costume completion</li>
+<li>What's included: 1x Ichigo Hollow mask</li>
+<li>Care: wipe clean with a soft dry cloth; store away from direct heat and sunlight</li>
+<li>Note: fan / anime-inspired collectible, not affiliated with or endorsed by the official rights holders</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Ichigo Hollow form design inspired by Bleach
+  • Sculpted fanged grin with signature red stripe markings
+  • Perfect for cosplay, conventions and shelf display
+  • Bone-white finish with bold manga-accurate detailing
+  • Wipe-clean and ready to wear out of the box
+  • Ships nationwide across Nigeria and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (57 chars)        : Ichigo Hollow Mask | Bleach Cosplay Mask | Otaku Store NG
+Meta Description (147 chars) : Ichigo's Hollow Mask from Bleach. Fan-inspired cosplay and display mask with the iconic fanged grin and red stripes. Ships across Nigeria. ₦17,000.
+Focus keyword                       : Ichigo Hollow mask
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Ichigo Kurosaki Hollow form cosplay mask from Bleach with bone-white face, fanged grin and red stripe markings
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of an Ichigo Hollow cosplay mask: bone-white face with a snarling fanged grin and single manga-red #E2261C stripe markings, displayed on a matte stand. Ink black #111111 background, paper white #FAFAFA rim light, halftone dot texture and sharp speed lines radiating outward, subtle ink splatter framing the panel. Cinematic, premium, high-contrast manga panel composition, dramatic side lighting.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

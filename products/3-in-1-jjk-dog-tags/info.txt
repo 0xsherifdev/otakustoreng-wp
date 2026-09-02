@@ -1,0 +1,83 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : 3 In 1 Jjk Dog Tags
+SLUG         : 3-in-1-jjk-dog-tags
+BUMPA ID     : 1202991
+WOO TYPE     : simple
+PARENT SKU   : OSN-1202991
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Jujutsu Kaisen, JJK, dog tag necklace, Itadori, Sukuna, anime necklace, anime chain, anime pendant, chains & necklaces, anime accessories
+FRANCHISE: Jujutsu Kaisen    CHARACTER: Yuji Itadori / Sukuna
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦13,000
+Total stock   : 100
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Three Jujutsu Kaisen dog tags, one cursed roster.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A Jujutsu Kaisen-inspired 3-in-1 dog tag set built around the Itadori and Sukuna split-face art. Bold printed pendants on a sturdy steel-tone box chain, tarnish-resistant and ready to wear every day. Fan-made, not affiliated.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Wear the cursed energy. This Jujutsu Kaisen-inspired dog tag set leads with the Itadori and Sukuna split-face panel, framed by the 呪術廻戦 logo and kanji detailing for a clean, high-contrast look that reads loud from across the room. The matte black pendant pops against a polished steel-tone chain, so it sits just as well over a hoodie as it does on a plain tee.</p>
+<p>This is a 3-in-1 drop, giving you a trio of sorcerer designs to rotate through your fits or split with the squad. Anime-inspired and fan-made, never claiming to be official, just built for fans who want their roster on their chest.</p>
+<ul>
+<li>Anime-inspired Jujutsu Kaisen dog tag pendant set, featuring the Itadori and Sukuna split-face artwork</li>
+<li>3-in-1 set, a trio of printed sorcerer designs</li>
+<li>Durable stainless-steel / alloy build that resists tarnish for everyday wear</li>
+<li>Printed pendant on a steel-tone box-link chain at a standard, easy-to-layer length</li>
+<li>Lobster-clasp closure for a secure fit</li>
+<li>Unisex styling, wears well solo or stacked with other chains</li>
+<li>Wipe clean with a soft, dry cloth</li>
+<li>Ships nationwide across Nigeria and worldwide</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • 3-in-1 set of Jujutsu Kaisen-inspired dog tag pendants
+  • Itadori and Sukuna split-face artwork with the 呪術廻戦 logo
+  • Tarnish-resistant stainless-steel / alloy build for daily wear
+  • Steel-tone box-link chain with a secure lobster clasp
+  • Unisex fit, wear solo or stacked
+  • Fan-made and anime-inspired, not affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (52 chars)        : 3-in-1 Jujutsu Kaisen Dog Tag Necklace Set | Itadori
+Meta Description (155 chars) : Jujutsu Kaisen-inspired 3-in-1 dog tag necklace set with Itadori and Sukuna art. Tarnish-resistant steel-tone chain. ₦13,000. Ships from Nigeria worldwide.
+Focus keyword                       : Jujutsu Kaisen dog tag necklace
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Jujutsu Kaisen dog tag necklace with Itadori and Sukuna split-face artwork on a steel-tone box chain
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a black anime dog tag pendant on a polished steel-tone box chain, pendant printed with a stylized split-face sorcerer portrait and Japanese-style logo. Ink black #111111 background, paper white #FAFAFA negative space, single manga-red #E2261C accent. Halftone dot shading, sharp speed lines and ink splatter radiating behind the pendant, manga panel framing, dramatic rim lighting, premium cinematic close-up, shallow depth of field. Fan-made anime-inspired styling, no official logos or text.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

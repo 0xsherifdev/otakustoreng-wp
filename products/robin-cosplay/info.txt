@@ -1,0 +1,78 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Robin Cosplay
+SLUG         : robin-cosplay
+BUMPA ID     : 1164051
+WOO TYPE     : variable
+PARENT SKU   : OSN-1164051
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Cosplay
+  - Shop by Anime > One Piece
+
+TAGS: Nico Robin cosplay, One Piece cosplay, Robin costume, Straw Hat Pirates, anime cosplay, cosplay costume, One Piece outfit, convention cosplay
+FRANCHISE: One Piece    CHARACTER: Nico Robin
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦51,000
+Total stock   : 49
+VARIATIONS (attribute: Size)
+  M              | ₦51,000 | stock 10   | SKU OSN-1164051-M
+  L              | ₦51,000 | stock 9    | SKU OSN-1164051-L
+  XL             | ₦51,000 | stock 10   | SKU OSN-1164051-XL
+  2XL            | ₦51,000 | stock 10   | SKU OSN-1164051-2XL
+  XXXL           | ₦51,000 | stock 10   | SKU OSN-1164051-XXXL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Channel the Demon Child of Ohara, full kit included.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+An anime-inspired Nico Robin cosplay set built for conventions, shoots and events. The full outfit arrives ready to wear, cap included, so you can step into the Straw Hats' archaeologist look the moment it lands. Check your size before ordering.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Step into the shoes of Ohara's last survivor with this anime-inspired Nico Robin cosplay set. Tailored for the Straw Hats' cool-headed archaeologist, the full outfit lands ready to wear so you can own the panel at your next convention, photoshoot or watch party. Confident, comfortable and built to move, this is how you wear the roster.</p><p>Constructed from durable polyester for a clean drape and all-day wearability, the costume arrives as a complete look, cap and all. Please confirm your size from the dropdown before ordering, since fit varies by piece.</p><ul><li>Character: Nico Robin (anime-inspired, fan-made, not affiliated with or endorsed by the official rights holders)</li><li>Full costume set: all pieces shown for the character, cap included</li><li>Material: polyester construction for durability and easy movement</li><li>Sizes available: M, L, XL, 2XL, XXXL — check the size option before ordering</li><li>Best for: conventions, cosplay shoots, anime events and themed parties</li><li>Care: gentle cold wash, hang dry, do not bleach or tumble dry</li><li>Note: accessories such as wigs and footwear are not included unless shown in the photos</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Complete Nico Robin outfit set — cap and all pieces shown included
+  • Durable polyester build with a clean drape for all-day con wear
+  • Sizes M through XXXL — confirm your fit before ordering
+  • Made for conventions, cosplay shoots and anime events
+  • Anime-inspired fan design, not affiliated with the official franchise
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (59 chars)        : Nico Robin Cosplay Costume Set | One Piece | Otaku Store NG
+Meta Description (149 chars) : Anime-inspired Nico Robin cosplay set with cap and full outfit. Polyester build, sizes M-XXXL. Ships from Nigeria nationwide and worldwide. Wear the.
+Focus keyword                       : Nico Robin cosplay
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Nico Robin One Piece anime-inspired cosplay costume set with cap, full outfit displayed
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a Nico Robin One Piece cosplay costume set displayed on an invisible mannequin, ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent. Halftone dot shading, dynamic speed lines and ink splatter framing the outfit within angular manga panels. Cap and full costume crisply lit, cinematic premium lighting, high contrast, sharp focus, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

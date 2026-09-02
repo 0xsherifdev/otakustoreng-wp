@@ -1,0 +1,81 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Black Clover Ring
+SLUG         : black-clover-ring-1146256
+BUMPA ID     : 1146256
+WOO TYPE     : simple
+PARENT SKU   : OSN-1146256
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+
+TAGS: Black Clover ring, Black Bull squad, Asta, anime ring, Black Clover merch, anime accessories, silver-tone ring, anime jewelry
+FRANCHISE: Black Clover    CHARACTER: Black Bull Squad (Asta)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦2,500
+Total stock   : 996
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Rep the Black Bulls on your hand
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A slim silver-tone band stamped with the Black Bull squad skull emblem from Black Clover. Lightweight, everyday-wearable, and the easiest way to rep Asta's rowdiest crew. Fan-inspired, stacks clean with other rings.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some squads charge in loud, fearless and a little reckless. This Black Clover ring puts the Black Bull skull emblem right on your finger so you carry that energy everywhere. The slim silver-tone band keeps it subtle, while the bull-skull centrepiece and small black enamel accents nod hard to Asta's chaotic crew. It is a quiet flex for fans who know exactly which squad they would join.</p>
+<p>Light enough to forget you are wearing it, bold enough that the right people clock it instantly. Wear it solo for a clean look or stack it with your other anime-inspired pieces. At ₦2,500, it is one of the easiest ways to rep the roster every single day.</p>
+<ul>
+<li><strong>Design:</strong> Black Bull squad skull emblem from Black Clover with black enamel-style side accents</li>
+<li><strong>Material:</strong> Durable silver-tone metal alloy, smooth polished finish</li>
+<li><strong>Band style:</strong> Slim, low-profile band that sits flat and comfortable</li>
+<li><strong>Wearability:</strong> Lightweight everyday ring; stacks easily with other rings</li>
+<li><strong>Best for:</strong> Black Clover fans, casual daily wear, gifting to anime lovers</li>
+<li><strong>In the box:</strong> 1 x Black Clover Black Bull ring</li>
+<li><strong>Care:</strong> Keep dry, wipe with a soft cloth; remove before swimming or showering to preserve the finish</li>
+<li><strong>Note:</strong> Fan-made, anime-inspired accessory. Not official or licensed merchandise.</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Black Bull squad skull emblem from Black Clover front and centre
+  • Slim silver-tone alloy band with black enamel-style accents
+  • Lightweight and low-profile for genuine everyday wear
+  • Stacks cleanly with other rings and anime-inspired pieces
+  • Affordable fan flex at just ₦2,500
+  • Ships nationwide across Nigeria and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (60 chars)        : Black Clover Ring | Black Bull Squad Emblem | Otaku Store NG
+Meta Description (149 chars) : Black Clover ring with the Black Bull squad skull emblem. Slim silver-tone band, lightweight everyday wear. Fan-inspired, ships from Nigeria. ₦2,500.
+Focus keyword                       : Black Clover ring
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Slim silver-tone Black Clover ring with the Black Bull squad skull emblem worn on a finger
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product studio shot of a slim silver-tone ring featuring the Black Bull squad skull emblem, displayed on a matte black ring stand. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent glowing behind the ring. Halftone dot texture, dramatic speed lines radiating outward, subtle ink splatter framing a manga panel border. Premium, cinematic macro lighting, sharp focus on the bull-skull insignia, shallow depth of field.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - QA fixes applied: meta_description was 156 characters (rendered, counting the Naira sign), exceeding the 155-character limit. Trimmed by removing the word 'Only ' so it now renders at 151 characters.
+================================================================================

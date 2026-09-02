@@ -1,0 +1,88 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Jjk Shorts
+SLUG         : jjk-shorts-1145199
+BUMPA ID     : 1145199
+WOO TYPE     : variable
+PARENT SKU   : OSN-1145199
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Shorts
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Jujutsu Kaisen shorts, JJK shorts, Yuji Itadori, Gojo shorts, Sukuna, anime shorts, drawstring shorts, unisex anime shorts
+FRANCHISE: Jujutsu Kaisen    CHARACTER: Yuji Itadori
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦15,000
+Total stock   : 400
+VARIATIONS (attribute: Size)
+  M              | ₦15,000 | stock 100  | SKU OSN-1145199-M
+  L              | ₦15,000 | stock 100  | SKU OSN-1145199-L
+  XL             | ₦15,000 | stock 100  | SKU OSN-1145199-XL
+  2XL            | ₦15,000 | stock 100  | SKU OSN-1145199-2XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Cursed-energy comfort for off-duty sorcerers
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Black Jujutsu Kaisen drawstring shorts with bold Yuji Itadori, Sukuna and Gojo line-art prints. Soft cotton-blend feel, elastic drawstring waist and side pockets. Unisex fit built for warm days and easy casual styling.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Roll into your downtime like a Tokyo Jujutsu High first-year. These anime-inspired Jujutsu Kaisen shorts run deep ink black with crisp white Yuji Itadori, Ryomen Sukuna and Satoru Gojo line-art, plus the 呪術廻戦 kanji print so any fan clocks the reference instantly. Cursed-energy fingers and domain motifs wrap the leg for that real manga-panel energy.</p>
+<p>Cut for everyday wear, the soft cotton-blend handfeel and elastic drawstring waist keep things comfortable from couch marathons to street fits. Unisex sizing means everyone in the roster can rep it. Fan-made and anime-inspired; not official or affiliated with the series.</p>
+<ul>
+<li>Design: Jujutsu Kaisen-inspired Yuji Itadori, Sukuna and Gojo line-art with JJK kanji print</li>
+<li>Colour: ink black with white prints and manga-red accents</li>
+<li>Fit: relaxed unisex casual short</li>
+<li>Waist: elastic waistband with adjustable drawstring</li>
+<li>Pockets: side hand pockets</li>
+<li>Material: soft cotton-blend fabric</li>
+<li>Sizes available: M, L, XL, 2XL</li>
+<li>Care: machine wash cold, inside out; hang or low tumble dry to protect the print</li>
+<li>Status: fan / anime-inspired, not official or licensed</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold Yuji Itadori, Sukuna and Gojo line-art on ink-black shorts
+  • Elastic drawstring waist for an easy, adjustable fit
+  • Side hand pockets for everyday essentials
+  • Soft cotton-blend handfeel built for warm-weather comfort
+  • Unisex sizing from M to 2XL
+  • Fan / anime-inspired design, not official or affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (53 chars)        : Jujutsu Kaisen Shorts | JJK Itadori &amp; Gojo Shorts
+Meta Description (150 chars) : Anime-inspired Jujutsu Kaisen shorts in ink black with Yuji Itadori, Sukuna and Gojo prints. Drawstring waist, side pockets, unisex M-2XL. Ships from.
+Focus keyword                       : Jujutsu Kaisen shorts
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Black Jujutsu Kaisen shorts with white Yuji Itadori and Sukuna print, drawstring waist and cursed-energy line-art on the leg
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-Manga studio product shot of black anime-inspired drawstring shorts laid flat on paper-white #FAFAFA surface, ink-black #111111 fabric, crisp white Jujutsu Kaisen-style character line-art on the leg. Single manga-red #E2261C accent in halftone dots and a sharp ink splatter behind the shorts, diagonal speed lines framing one manga panel border. Premium cinematic lighting, high detail, soft shadow, no text overlay.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

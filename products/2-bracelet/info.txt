@@ -1,0 +1,79 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : 2 Bracelet
+SLUG         : 2-bracelet
+BUMPA ID     : 1182176
+WOO TYPE     : simple
+PARENT SKU   : OSN-1182176
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Bracelets
+
+TAGS: anime bracelet, anime-inspired bracelet, everyday bracelet, stackable bracelet, unisex bracelet, anime accessories, otaku merch, anime jewelry
+FRANCHISE: Generic Anime    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦6,000
+Total stock   : 0
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Everyday anime-inspired bracelet, built to wear daily
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+An anime-inspired bracelet for the daily roster. Clean lines, a comfortable everyday fit and durable hardware that takes school runs, gym sessions and late-night marathons in stride. Stack it solo or layer it up.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some pieces shout. This one just shows up every day. The Otaku Store NG anime-inspired bracelet is built for the fans who want their fandom on their wrist without the fuss, with a clean profile that pairs as easily with a hoodie as it does with a fit you actually planned.</p>
+<p>Durable hardware, a comfortable fit and a low-key look mean you can wear it from lectures to the dojo to the next big drop. Run it solo for a subtle nod or stack it with the rest of your collection and wear the roster your way.</p>
+<ul>
+<li><strong>Style:</strong> anime-inspired everyday bracelet</li>
+<li><strong>Build:</strong> durable, corrosion-resistant hardware made for daily wear</li>
+<li><strong>Fit:</strong> comfortable standard fit, sits easy on the wrist</li>
+<li><strong>Wear:</strong> unisex, stack-friendly with rings and other bracelets</li>
+<li><strong>Care:</strong> wipe clean with a soft dry cloth; keep away from perfume, water and harsh chemicals to protect the finish</li>
+<li><strong>In the box:</strong> 1 anime-inspired bracelet</li>
+<li><strong>Note:</strong> fan-made, anime-inspired design; not official or licensed merchandise and not affiliated with any studio or rights holder</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Anime-inspired design for true fans, built for daily wear
+  • Durable, corrosion-resistant hardware that handles real life
+  • Comfortable everyday fit that sits easy on the wrist
+  • Unisex and stack-friendly with rings and other bracelets
+  • Ships nationwide across Nigeria and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (40 chars)        : Anime-Inspired Bracelet | Otaku Store NG
+Meta Description (144 chars) : Anime-inspired everyday bracelet from Otaku Store NG. Durable hardware, comfortable fit, stack-friendly. ₦6,000. Ships nationwide and worldwide.
+Focus keyword                       : anime-inspired bracelet
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.png  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Anime-inspired everyday bracelet from Otaku Store NG on a plain background
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a single anime-inspired bracelet resting on a matte ink-black surface (#111111), paper-white (#FAFAFA) backdrop with bold halftone dot texture and diagonal speed lines, one manga-red (#E2261C) accent stripe slashing across the frame, subtle ink splatter in the corners, framed inside a clean manga panel border, cinematic key light, premium and crisp, high detail, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

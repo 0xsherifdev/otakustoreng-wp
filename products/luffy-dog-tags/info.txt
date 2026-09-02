@@ -1,0 +1,75 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Luffy Dog Tags
+SLUG         : luffy-dog-tags
+BUMPA ID     : 1146400
+WOO TYPE     : variable
+PARENT SKU   : OSN-1146400
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > One Piece
+
+TAGS: Luffy, One Piece, Luffy necklace, dog tag necklace, anime necklace, One Piece chain, Straw Hat, anime accessories, stainless steel pendant
+FRANCHISE: One Piece    CHARACTER: Monkey D. Luffy
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦7,500
+Total stock   : 191
+VARIATIONS (attribute: Style)
+  1              | ₦7,500 | stock 92   | SKU OSN-1146400-1
+  2              | ₦7,500 | stock 99   | SKU OSN-1146400-2
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Set sail wearing the King of the Pirates
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel Luffy's never-quit spirit with this anime-inspired One Piece dog tag necklace. Forged in tarnish-resistant steel with a bold pendant and adjustable chain, it's a clean, durable everyday flex for any Straw Hat fan.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Hoist the Jolly Roger and wear the dream. This Luffy dog tag necklace puts One Piece's most relentless captain right on your chest, with crisp detailing that reads from across the room and a weight that sits just right. Built for fans who want their loyalty on display without the loud, costume look.</p><p>Crafted from durable, tarnish-resistant steel on an adjustable chain, it pairs as easily with a plain tee as it does with your boldest fit. Pick your style and run it daily, gym to street.</p><ul><li>Anime-inspired One Piece / Luffy dog tag pendant (fan-made, not affiliated or official)</li><li>Material: durable stainless-steel construction that resists tarnish</li><li>Available in 2 style options so you can pick your favourite design</li><li>Adjustable chain length for a comfortable, everyday fit</li><li>Lightweight feel, suitable for daily wear by men and women</li><li>Pendant on a matching chain; wipe clean with a soft dry cloth</li><li>Ships nationwide across Nigeria and worldwide</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold Luffy dog tag pendant for everyday One Piece flex
+  • Durable tarnish-resistant stainless-steel build
+  • Adjustable chain for a comfortable fit
+  • 2 style options to match your vibe
+  • Lightweight, unisex daily wear
+  • Wipe clean and ready for the next adventure
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (41 chars)        : Luffy Dog Tags Necklace | One Piece Chain
+Meta Description (155 chars) : Anime-inspired Luffy dog tag necklace in tarnish-resistant steel. Adjustable chain, 2 styles. Ships from Nigeria nationwide and worldwide. Wear the roster.
+Focus keyword                       : Luffy dog tags necklace
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Luffy One Piece anime-inspired stainless-steel dog tag pendant necklace on an adjustable chain
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a stainless-steel Luffy dog tag pendant necklace coiled on a flat surface, ink black #111111 background with paper white #FAFAFA negative space, single manga-red #E2261C accent catching the pendant edge; halftone dots and dramatic speed lines radiating outward, subtle ink splatter, manga panel framing; cinematic rim lighting, premium high-contrast macro detail, sharp focus on the engraved pendant.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

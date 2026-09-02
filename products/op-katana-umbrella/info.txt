@@ -1,0 +1,74 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Op Katana Umbrella
+SLUG         : op-katana-umbrella
+BUMPA ID     : 1627662
+WOO TYPE     : simple
+PARENT SKU   : OSN-1627662
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Katana & Weapons
+  - Shop by Anime > One Piece
+
+TAGS: katana umbrella, One Piece umbrella, sword umbrella, anime umbrella, katana handle umbrella, samurai umbrella, cosplay prop, anime accessories
+FRANCHISE: One Piece    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦32,000
+Total stock   : 6
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Sheathe the storm. Draw the drip.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A One Piece-inspired katana umbrella with a sword-style handle and slim saya-look sheath. Long-shaft, manual-open canopy that keeps you dry and turns heads on a rainy commute. Fan-made display and everyday-carry statement piece, not affiliated.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Carry the roster, even in the rain. The Op Katana Umbrella reimagines a pirate-era blade as a fully functional long umbrella, complete with a sword-style grip and a slim sheath that hides the canopy like a real saya. Pull the handle, draw the shaft, and walk in dressed like you just stepped off the Going Merry.</p><p>This is an anime-inspired fan piece built for everyday carry and cosplay flex. The blade is a canopy and shaft, not a sharpened weapon, so it is safe to wield through any downpour while still looking like the deck of a pirate ship belongs to you. Keep away from small children and treat it like any pointed object.</p><ul><li>Style: katana-handle long umbrella inspired by One Piece swordsman energy</li><li>Approx. length: 100cm when sheathed, carried like a katana</li><li>Approx. weight: around 1kg</li><li>Canopy: full-size rain coverage with ribbed frame</li><li>Handle (tsuka): sword-style grip with wrap-look detailing</li><li>Sheath (saya): slim scabbard housing doubles as the carry case</li><li>Open mechanism: manual draw-and-open action</li><li>Best for: daily commute, cosplay props, anime collectors and gifting</li><li>Care: open to air-dry fully before re-sheathing to avoid damp</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Katana-style handle and slim saya-look sheath for full swordsman drip
+  • Functional full-size canopy with ribbed frame for real rain coverage
+  • Roughly 100cm sheathed and about 1kg, carried just like a blade
+  • Manual draw-and-open action that feels like unsheathing a sword
+  • One Piece-inspired fan design for commute, cosplay and collecting
+  • Anime-inspired fan piece, not official or affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : Op Katana Umbrella | One Piece Sword Umbrella
+Meta Description (147 chars) : One Piece-inspired katana umbrella with sword handle and saya-look sheath. Full-size rain canopy, ~100cm, carried like a blade. Ships from Nigeria.
+Focus keyword                       : katana umbrella
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: One Piece-inspired katana umbrella with a sword-style handle and slim saya-look sheath standing upright
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a katana-styled long umbrella standing upright, sword-shaped handle and slim scabbard sheath clearly visible. Ink black #111111 background, paper white #FAFAFA key light, single manga-red #E2261C accent on a thin rain-slick reflection. Halftone dot texture, sharp speed lines radiating outward, subtle ink splatter at the base, framed inside a clean manga panel. Premium, cinematic, high-contrast, vertical composition.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

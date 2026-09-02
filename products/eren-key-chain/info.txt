@@ -1,0 +1,73 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Eren Key Chain
+SLUG         : eren-key-chain
+BUMPA ID     : 1507879
+WOO TYPE     : simple
+PARENT SKU   : OSN-1507879
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Attack on Titan
+
+TAGS: Eren necklace, Attack on Titan necklace, anime pendant, AOT merch, Eren Yeager, anime chain, stainless steel pendant, Attack on Titan accessories
+FRANCHISE: Attack on Titan    CHARACTER: Eren Yeager
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,500
+Total stock   : 507
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the will to fight back, every day.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+An Eren-inspired pendant necklace for Attack on Titan fans. Cast in durable, tarnish-resistant stainless steel on an adjustable chain, this everyday piece wears clean and reps the roster wherever you roam.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some fans push forward no matter what stands in the way - and this Eren-inspired pendant is built for them. Forged in tarnish-resistant metal with crisp detailing, it channels the relentless energy of Attack on Titan's frontline without ever feeling loud. Slip it over a tee or layer it with your other chains; either way, it reads premium up close.</p><p>Designed for daily wear, it sits comfortably on an adjustable chain and wipes clean in seconds. A fan-made, anime-inspired piece (not affiliated with or endorsed by the rights holders) made for collectors who wear the roster with pride.</p><ul><li>Material: durable stainless-steel / alloy build that resists tarnish and everyday wear</li><li>Style: Eren-inspired pendant necklace, dog-tag-friendly silhouette</li><li>Chain: adjustable / standard length for a comfortable everyday fit</li><li>Finish: crisp, detailed casting with a premium look up close</li><li>Care: wipe clean with a soft, dry cloth</li><li>Includes: one pendant on chain, ready to wear</li><li>Fandom: Attack on Titan - fan / anime-inspired, not official or licensed</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Eren-inspired pendant for true Attack on Titan fans
+  • Tarnish-resistant stainless-steel / alloy build for daily wear
+  • Adjustable chain length for a comfortable everyday fit
+  • Crisp, detailed casting that looks premium up close
+  • Wipe clean in seconds with a soft, dry cloth
+  • Ships nationwide across Nigeria and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : Eren Pendant Necklace | Attack on Titan Chain
+Meta Description (155 chars) : Eren-inspired Attack on Titan pendant necklace in tarnish-resistant steel on an adjustable chain. Fan-made, premium daily wear. Ships from Nigeria. ₦4,500.
+Focus keyword                       : Eren Attack on Titan necklace
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Eren-inspired Attack on Titan stainless-steel pendant necklace on an adjustable chain
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product studio shot of an Eren Yeager-inspired stainless-steel pendant necklace lying on ink-black #111111 surface, paper-white #FAFAFA halftone-dot backdrop, single manga-red #E2261C accent catching the pendant edge. Speed lines and ink-splatter framing the composition in manga panels, dramatic cinematic side lighting, sharp metallic reflections, premium jewelry close-up, high detail, no text.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

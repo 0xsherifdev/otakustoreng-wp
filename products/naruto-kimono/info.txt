@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Naruto Kimono
+SLUG         : naruto-kimono
+BUMPA ID     : 1771929
+WOO TYPE     : simple
+PARENT SKU   : OSN-1771929
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Kimono
+  - Shop by Anime > Naruto
+
+TAGS: Naruto kimono, Kurama haori, Naruto haori, anime kimono, Nine-Tails, Naruto cardigan, anime cosplay layer, open-front kimono, unisex anime apparel
+FRANCHISE: Naruto    CHARACTER: Kurama (Nine-Tails)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦15,000
+Total stock   : 98
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Channel the Nine-Tails. Open-front haori drape.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A Kurama-inspired open-front haori in ink black and chakra orange, with clawed slash marks, flame hems and swirling cloud motifs. Lightweight, wide-sleeved and free-size — drop it over a tee and instantly own the room.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>The Nine-Tails roars across your shoulders. This Naruto-inspired haori channels Kurama with a glowing red fox eye, raking claw slashes and flame-licked hems set against deep ink black and burning chakra orange. A clean open-front drape with key-fret trim down the placket keeps it sharp from every angle.</p><p>Cut as a lightweight layering piece with wide, flowing sleeves and a relaxed free-size fit, it slides over a plain tee, hoodie or fit and pulls the whole look together. Anime-inspired fan apparel, not affiliated with or endorsed by the official rights holders.</p><ul><li>Style: open-front haori / kimono robe, unisex layering piece</li><li>Design: Kurama-themed all-over print — fox eye, claw slashes, flames, cloud swirls and spiral motifs</li><li>Fit: free-size relaxed drape with wide three-quarter sleeves</li><li>Colourway: ink black with chakra-orange print and key-fret placket trim</li><li>Wear: layer over a tee, hoodie or shirt for everyday or convention looks</li><li>Care: gentle cold machine wash, hang dry, do not bleach, cool iron if needed</li><li>Includes: 1 x Naruto-inspired haori (worn over your own base layer)</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Kurama (Nine-Tails) all-over print: fox eye, claw slashes and flame hems
+  • Open-front haori drape with wide three-quarter sleeves
+  • Unisex free-size fit layers over any tee or hoodie
+  • Ink black and chakra-orange colourway with key-fret trim
+  • Lightweight feel for everyday wear or conventions
+  • Gentle cold wash, hang dry to keep colours bold
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (43 chars)        : Naruto Kurama Kimono Haori | Otaku Store NG
+Meta Description (152 chars) : Naruto-inspired Kurama haori kimono in black and orange. Open-front drape, wide sleeves, unisex free-size. Ships from Nigeria, nationwide and worldwide.
+Focus keyword                       : Naruto kimono
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Naruto Kurama-inspired open-front haori kimono in black and orange with fox eye, claw slashes, flame hems and cloud swirl print, front and back view
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga style studio product shot of a black-and-orange anime haori kimono on an invisible mannequin, three-quarter sleeves spread to show all-over print. Ink black #111111 background, paper white #FAFAFA rim light, single manga-red #E2261C accent on a fox eye motif. Halftone dot shading, bold speed lines radiating outward, ink splatter at the hem, framed in a clean manga panel. Premium, cinematic, high-contrast fashion lighting, sharp focus on fabric texture and flame print.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

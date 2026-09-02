@@ -1,0 +1,75 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Vegeta Jersey
+SLUG         : vegeta-jersey
+BUMPA ID     : 2193818
+WOO TYPE     : variable
+PARENT SKU   : OSN-2193818
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Jerseys
+  - Shop by Anime > Dragon Ball
+
+TAGS: Vegeta, Dragon Ball, Dragon Ball Z, anime jersey, all-over-print jersey, Saiyan, anime streetwear, dye-sublimated jersey
+FRANCHISE: Dragon Ball    CHARACTER: Vegeta
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦23,000
+Total stock   : 29
+VARIATIONS (attribute: Size)
+  L              | ₦23,000 | stock 10   | SKU OSN-2193818-L
+  XL             | ₦23,000 | stock 9    | SKU OSN-2193818-XL
+  2XL            | ₦23,000 | stock 10   | SKU OSN-2193818-2XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Wear the pride of the Saiyan prince.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel the Saiyan prince with this all-over-print Vegeta jersey. Vivid edge-to-edge Dragon Ball graphics on lightweight, breathable polyester. Unisex, true-to-size, and built for cons, watch parties, and everyday otaku streetwear. Ships nationwide and worldwide.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Bow to no one. This <strong>Vegeta jersey</strong> brings the Saiyan prince to your shoulders with a vivid, edge-to-edge dye-sublimated print inspired by Dragon Ball. The all-over graphic wraps the entire jersey in bold colour and detail, so you stand out the moment you walk into any convention, match-watch party, or anime meetup.</p><p>Cut in a relaxed unisex fit and made from lightweight, breathable 100% polyester, it stays cool and comfortable whether you're powering up on the dance floor or layering it over a tee for everyday streetwear. The print won't crack or peel like cheap transfers because the colour is sublimated right into the fabric. Secure checkout, fast nationwide and worldwide delivery, and easy returns come standard.</p><ul><li><strong>Material:</strong> Lightweight, breathable 100% polyester</li><li><strong>Print:</strong> All-over-print (dye-sublimated), vivid edge-to-edge Dragon Ball graphics</li><li><strong>Fit:</strong> Relaxed unisex cut, true to size</li><li><strong>Sizing:</strong> Available in L, XL and 2XL; if you're between sizes, size up</li><li><strong>Care:</strong> Machine wash cold inside-out; do not iron the print directly</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • All-over dye-sublimated print: vivid Vegeta graphics edge to edge
+  • Lightweight, breathable 100% polyester that stays cool all day
+  • Relaxed unisex fit, true to size (between sizes? size up)
+  • Perfect for conventions, watch parties and anime streetwear layering
+  • Colour sublimated into the fabric so it won't crack or peel
+  • Secure checkout with fast nationwide + worldwide delivery
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (48 chars)        : Vegeta Anime Jersey | Dragon Ball All-Over Print
+Meta Description (154 chars) : Vegeta anime jersey with vivid all-over Dragon Ball print on breathable polyester. Unisex fit, sizes L-2XL. ₦23,000. Fast nationwide + worldwide delivery.
+Focus keyword                       : Vegeta anime jersey
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Vegeta Dragon Ball all-over-print anime jersey in vivid colour, front view
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga aesthetic studio shot of an all-over-print anime jersey displayed on an invisible mannequin, centered in frame. Ink black #111111 background with paper white #FAFAFA halftone screentone dots and dynamic manga speed lines radiating outward. A single bold manga-red #E2261C accent slashing diagonally behind the jersey like a brush-ink splatter for energy. High contrast monochrome composition with one red pop, premium anime-streetwear mood, cinematic dramatic lighting, manga panel layout border framing the shot, sharp detail, photorealistic fabric texture.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Zenistu steel katana
+SLUG         : zenistu-steel-katana
+BUMPA ID     : 4032619
+WOO TYPE     : simple
+PARENT SKU   : OSN-4032619
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Katana & Weapons
+  - Shop by Anime > Demon Slayer
+
+TAGS: Zenitsu katana, Demon Slayer katana, Nichirin blade, Zenitsu Agatsuma, Thunder Breathing, cosplay katana, display sword, anime katana
+FRANCHISE: Demon Slayer    CHARACTER: Zenitsu Agatsuma
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦98,000
+Total stock   : 497
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Thunder Breathing, mounted on your wall.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Zenitsu's lightning-streaked Nichirin blade rendered as a full-size display katana. Steel blade with the signature yellow bolt motif, white cord tsuka, matching saya and wall mount included. Built for collectors and cosplay, not combat.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>When Zenitsu finally stops trembling, the whole arena goes white with Thunder Breathing. This anime-inspired display katana channels that exact energy: a full-length steel blade hand-finished with Zenitsu Agatsuma's signature yellow lightning-bolt pattern running edge to tip, capped by a sunburst tsuba and a white cord-wrapped tsuka studded with golden diamonds.</p><p>It is a decorative collector and cosplay prop, not a functional weapon. Pull it for con day, then rack it on the included wall mount so the lightning catches the light from across the room. A fan-made tribute to Demon Slayer, not official or licensed merchandise.</p><ul><li>Themed display katana inspired by Zenitsu Agatsuma's Nichirin blade from Demon Slayer</li><li>Stainless/alloy display blade with the signature yellow lightning-bolt etch motif</li><li>White cord-wrapped tsuka (handle) with golden diamond accents and sunburst tsuba</li><li>Matching white saya (scabbard) with yellow fittings</li><li>Wall-mount bracket, care cloth and fittings included for instant display</li><li>Intended for display, cosplay and collecting only; not sharpened for combat use</li><li>Keep out of reach of children; follow your local laws on bladed display items</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Zenitsu's signature yellow lightning-bolt blade etch
+  • Full-size steel display katana for cosplay and collecting
+  • White cord-wrapped tsuka with golden diamond accents
+  • Matching saya plus wall-mount bracket included
+  • Decorative prop only, not sharpened for combat
+  • Fan-made tribute, not official merchandise
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (49 chars)        : Zenitsu Steel Katana | Demon Slayer Display Sword
+Meta Description (153 chars) : Zenitsu Nichirin display katana from Demon Slayer. Steel blade with yellow lightning motif, white tsuka, saya and wall mount. Cosplay and collector prop.
+Focus keyword                       : Zenitsu katana
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Zenitsu steel display katana with yellow lightning-bolt blade, white cord-wrapped handle, white scabbard and wall-mount bracket
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-Manga studio product shot of a Zenitsu-inspired Demon Slayer display katana. Ink black #111111 background, paper white #FAFAFA accents, single manga-red #E2261C highlight only on a thin rim-light and a small price tag. Steel blade angled diagonally across the frame catching a hard cinematic key light, yellow lightning-bolt etch glowing along the edge, white cord-wrapped tsuka with golden diamonds and sunburst tsuba in sharp focus. Layered halftone dot texture, dynamic diagonal speed lines, subtle ink splatter, framed inside a clean manga panel border. Premium, high-contrast, cinematic collector hero shot, no text, no watermark.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

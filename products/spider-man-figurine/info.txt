@@ -1,0 +1,70 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Spider-Man Figurine
+SLUG         : spider-man-figurine
+BUMPA ID     : 1873970
+WOO TYPE     : simple
+PARENT SKU   : OSN-1873970
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Figurines
+
+TAGS: Spider-Man figurine, Spider-Man statue, PVC figurine, collector figurine, anime-inspired figure, display statue, Spider-Man collectible, desk figurine
+FRANCHISE: Marvel    CHARACTER: Spider-Man
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦17,500
+Total stock   : 10
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The web-slinger, ready to perch on your shelf
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Crouched mid-crawl on a red Spider-emblem base, this pre-painted PVC Spider-Man figurine nails the classic web-slinger pose. A clean, detailed display piece built to anchor any collector's shelf or desk.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Spidey hits his signature crouch, one hand planted, fingers splayed, eyes locked on the next swing. This anime-inspired Spider-Man figurine captures that iconic wall-crawler energy in crisp, pre-painted PVC, with the webbing texture sculpted right into the suit and that red-and-blue colourway popping just like it should.</p><p>It sits low and dynamic on a round display base styled after the classic Spider-emblem, so the whole piece reads like a single hero moment frozen in time. Built for the shelf, the cabinet or the desk, not the toy box, this is a collector's display statue that earns its spot in any roster. Wear the roster, build the shelf.</p><ul><li>Material: detailed pre-painted PVC display figurine</li><li>Pose: classic crouching web-slinger stance, mounted on an included round Spider-emblem display base</li><li>Base width: approx 13.5cm; compact statue ideal for shelves, desks and display cabinets</li><li>Includes: one figurine plus display base (single piece, no variants)</li><li>Finish: factory pre-painted, ready to display straight out of the box</li><li>Care: display piece, not a toy; keep out of direct sunlight and dust gently with a soft dry cloth</li><li>Fan / anime-inspired collectible, not affiliated with or endorsed by any official rights holder</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Classic crouching web-slinger pose, sculpted in fine detail
+  • Pre-painted PVC with webbing texture and bold red-and-blue finish
+  • Includes round Spider-emblem display base, approx 13.5cm wide
+  • Compact collector statue, perfect for shelves, desks and cabinets
+  • Ready to display straight out of the box, no assembly needed
+  • Fan / anime-inspired piece, not affiliated with any rights holder
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (59 chars)        : Spider-Man Figurine | PVC Collector Statue – Otaku Store NG
+Meta Description (151 chars) : Pre-painted PVC Spider-Man figurine in the classic crouch pose with display base. Detailed collector statue at ₦17,500. Ships nationwide and worldwide.
+Focus keyword                       : Spider-Man figurine
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Pre-painted PVC Spider-Man figurine crouching in the classic web-slinger pose on a round red Spider-emblem display base
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-Manga studio product shot of a crouching Spider-Man collector figurine on a round emblem base, three-quarter low angle. Ink black #111111 backdrop with paper white #FAFAFA rim light, single manga-red #E2261C accent glow tracing the figure's silhouette. Halftone dot gradient and sharp speed lines radiating from behind the pose, subtle ink splatter at the base, framed inside a clean manga panel border. Premium, cinematic, high-contrast collectible photography.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

@@ -1,0 +1,85 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Hidden Leaf Logo Headwarmer
+SLUG         : hidden-leaf-logo-headwarmer-1143734
+BUMPA ID     : 1143734
+WOO TYPE     : variable
+PARENT SKU   : OSN-1143734
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Headwear
+  - Shop by Anime > Naruto
+
+TAGS: Hidden Leaf beanie, Naruto headwear, Konoha beanie, anime beanie, Naruto beanie, forehead protector beanie, anime headwarmer, ninja headband beanie
+FRANCHISE: Naruto    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦6,000
+Total stock   : 298
+VARIATIONS (attribute: Color)
+  Black          | ₦6,000 | stock 98   | SKU OSN-1143734-BLACK
+  Blue           | ₦6,000 | stock 100  | SKU OSN-1143734-BLUE
+  Ash            | ₦6,000 | stock 100  | SKU OSN-1143734-ASH
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Konoha cuffed beanie with a riveted metal forehead-protector plate.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A knit cuffed beanie built for shinobi season. A polished metal plate stamped with the Hidden Leaf symbol sits on the fold, riveted like a real forehead protector. Soft cotton-blend, one-size stretch fit, three colourways. Wear the roster.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Pull on your village allegiance. The Hidden Leaf Logo Headwarmer is a ribbed cuffed beanie with a brushed metal plate riveted to the fold, stamped with the Konoha leaf symbol so the whole thing reads like a real shinobi forehead protector. It is the easy way to rep Naruto on the daily without going full cosplay.</p>
+<p>The soft cotton-blend knit stretches to a comfortable one-size fit, holds its shape through wash after wash, and stays warm without crushing your hair. Pick Black for stealth, Blue for the classic ninja look, or Ash for an everyday neutral. Fan-made and anime-inspired, not affiliated with the official franchise.</p>
+<ul>
+<li>Type: ribbed knit cuffed beanie (headwarmer) with folded brim</li>
+<li>Motif: metal plate stamped with the Hidden Leaf (Konoha) symbol, riveted to the cuff</li>
+<li>Material: soft cotton-blend knit</li>
+<li>Fit: one-size stretch fit, unisex, suits most adult head sizes</li>
+<li>Colour options: Black, Blue, Ash</li>
+<li>Style: forehead-protector inspired, everyday streetwear</li>
+<li>Care: hand or gentle machine wash cold, reshape and air dry</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Riveted metal plate stamped with the Konoha leaf, just like a real forehead protector
+  • Soft cotton-blend knit that stays warm without flattening your hair
+  • One-size stretch fit, unisex and comfortable for most adults
+  • Three colourways: Black, Blue and Ash
+  • Ribbed cuffed brim that holds its shape wash after wash
+  • Fan-made, anime-inspired Naruto streetwear
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (52 chars)        : Hidden Leaf Logo Headwarmer Beanie | Naruto Headwear
+Meta Description (139 chars) : Naruto-inspired Hidden Leaf beanie with a riveted metal Konoha plate. Soft cotton-blend knit, one-size fit, in Black, Blue and Ash. ₦6,000.
+Focus keyword                       : Hidden Leaf headwarmer
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Hidden Leaf Logo Headwarmer knit beanies in black, blue and ash with riveted metal Konoha leaf plates
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a ribbed knit cuffed beanie with a polished metal forehead-protector plate stamped with the Hidden Leaf (Konoha) leaf symbol riveted to the fold. Ink black #111111 background, paper white #FAFAFA beanie hero, single manga-red #E2261C accent in a slash of speed lines behind the cap. Halftone dot texture, ink splatter, sharp manga panel framing, dramatic cinematic side lighting catching the metal plate, premium streetwear catalogue aesthetic, high detail, no text.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

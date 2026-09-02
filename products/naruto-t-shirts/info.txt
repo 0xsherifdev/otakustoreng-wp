@@ -1,0 +1,89 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Naruto T Shirts
+SLUG         : naruto-t-shirts
+BUMPA ID     : 1125424
+WOO TYPE     : variable
+PARENT SKU   : OSN-1125424
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+  - Shop by Anime > Naruto
+
+TAGS: Naruto, Naruto t-shirt, anime t-shirt, anime graphic tee, shinobi shirt, Hidden Leaf, unisex anime tee, otaku fashion
+FRANCHISE: Naruto    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦14,000
+Total stock   : 498
+VARIATIONS (attribute: Size)
+  M              | ₦14,000 | stock 99   | SKU OSN-1125424-M
+  L              | ₦14,000 | stock 99   | SKU OSN-1125424-L
+  XL             | ₦14,000 | stock 100  | SKU OSN-1125424-XL
+  2XL            | ₦14,000 | stock 100  | SKU OSN-1125424-2XL
+  XXXL           | ₦14,000 | stock 100  | SKU OSN-1125424-XXXL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Suit up in shinobi style, off the page.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Anime-inspired Naruto graphic tee in soft, durable cotton. Unisex regular fit with a crew neck and fade-resistant print built to survive the wash and turn heads at every con, meetup or chill day.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the Hidden Leaf with a Naruto graphic tee made for fans who live and breathe the saga. The artwork lands bold and clean against soft cotton, so you carry the roster with you whether you are queuing for the next episode drop or repping your favourite arc at a meetup.</p>
+<p>Cut in a unisex regular fit with a classic crew neck, it layers easy and wears in like a favourite. The print is built to stay sharp wash after wash, so your fit keeps its edge long after the hype cools. This is a fan-made, anime-inspired design and is not affiliated with or endorsed by the official rights holders.</p>
+<ul>
+<li>Soft, breathable cotton fabric with a comfortable everyday hand-feel</li>
+<li>Unisex regular fit, classic crew neck</li>
+<li>Bold Naruto-inspired front graphic, fade-resistant print</li>
+<li>Available sizes: M, L, XL, 2XL, XXXL</li>
+<li>Indicate the slide (first slide) you want at checkout to confirm your design</li>
+<li>Machine wash cold, inside-out; hang or line dry to protect the print</li>
+<li>Fan / anime-inspired design, not official or licensed merchandise</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Soft, breathable cotton for all-day comfort
+  • Unisex regular fit with a classic crew neck
+  • Bold Naruto-inspired graphic that holds its colour
+  • Fade-resistant print, machine wash cold inside-out
+  • Sizes M through XXXL for an easy fit
+  • Pick your design at checkout via the first slide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (51 chars)        : Naruto T-Shirt | Anime Graphic Tee | Otaku Store NG
+Meta Description (154 chars) : Anime-inspired Naruto graphic tee in soft cotton. Unisex fit, crew neck, fade-resistant print. Sizes M-XXXL. Ships from Nigeria, nationwide and worldwide.
+Focus keyword                       : Naruto t-shirt
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Naruto-inspired anime graphic t-shirt in soft cotton with a bold front print, unisex regular fit
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a folded Naruto-inspired graphic t-shirt on a flat surface. Ink black #111111 background, paper white #FAFAFA fabric tones, single manga-red #E2261C accent on the print and a thin diagonal speed-line streak. Halftone dot shading, subtle ink splatter in the corners, framed inside a clean manga panel border. Premium, cinematic studio lighting, sharp focus on fabric texture, high detail, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

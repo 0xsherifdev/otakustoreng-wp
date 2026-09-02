@@ -1,0 +1,89 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Zenistu Hoodie
+SLUG         : zenistu-hoodie-2964538
+BUMPA ID     : 2964538
+WOO TYPE     : variable
+PARENT SKU   : OSN-2964538
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+  - Shop by Anime > Demon Slayer
+
+TAGS: Zenitsu hoodie, Demon Slayer hoodie, Zenitsu Agatsuma, Thunder Breathing, anime hoodie, Kimetsu no Yaiba, anime streetwear, pullover hoodie
+FRANCHISE: Demon Slayer    CHARACTER: Zenitsu Agatsuma
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦18,500
+Total stock   : 800
+VARIATIONS (attribute: Size & Material)
+  L-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964538-LTHICKCOTTON
+  L-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964538-LTHICKPOLYESTER
+  Xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964538-XLTHICKCOTTON
+  Xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964538-XLTHICKPOLYESTER
+  2xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964538-2XLTHICKCOTTON
+  2xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964538-2XLTHICKPOLYESTER
+  3xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964538-3XLTHICKCOTTON
+  3xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964538-3XLTHICKPOLYESTER
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Thunder Breathing energy on premium fleece
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel Zenitsu's Thunderclap and Flash with this anime-inspired pullover hoodie. Bold Thunder Breathing graphic up front, his name inked down both sleeves, brushed-fleece warmth and a unisex streetwear fit built for everyday wear.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>When the pressure's on, Zenitsu moves faster than the eye can follow, and this hoodie carries that same electric energy. The Thunder Breathing graphic explodes across the chest in lightning and ink, while his name (我妻善逸) runs boldly down both sleeves, so you wear the roster from every angle. A Demon Slayer fan piece for anyone who knows the real strength is the one move done perfectly.</p>
+<p>Cut in a relaxed unisex streetwear shape with a brushed-fleece interior that keeps the warmth in, it layers easily and wears soft from day one. Pick your size and your fabric below.</p>
+<ul>
+<li><strong>Design:</strong> Zenitsu Agatsuma Thunder Breathing print, front graphic plus Japanese-name sleeve detailing (fan / anime-inspired, not affiliated)</li>
+<li><strong>Style:</strong> Pullover hoodie with kangaroo pocket and lined hood</li>
+<li><strong>Fabric choice:</strong> Thick Cotton or Thick Polyester, both with brushed-fleece interior for warmth</li>
+<li><strong>Fit:</strong> Unisex streetwear fit, relaxed and layer-friendly</li>
+<li><strong>Build:</strong> Ribbed cuffs and hem to lock in shape and heat</li>
+<li><strong>Sizes:</strong> L, XL, 2XL and 3XL, each available in Thick Cotton or Thick Polyester</li>
+<li><strong>Care:</strong> Machine wash cold, inside-out; hang or line dry to protect the print</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold Zenitsu Thunder Breathing graphic with lightning and ink detail
+  • Japanese name (我妻善逸) printed down both sleeves
+  • Brushed-fleece interior for real warmth
+  • Choice of Thick Cotton or Thick Polyester fabric
+  • Unisex streetwear fit with kangaroo pocket and lined hood
+  • Ribbed cuffs and hem to hold their shape
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (44 chars)        : Zenitsu Hoodie | Demon Slayer Anime Pullover
+Meta Description (149 chars) : Zenitsu Thunder Breathing hoodie, anime-inspired Demon Slayer pullover. Brushed-fleece warmth, cotton or polyester, unisex fit. Ships nationwide and.
+Focus keyword                       : Zenitsu hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black Zenitsu Agatsuma Demon Slayer pullover hoodie with Thunder Breathing chest graphic and Japanese name printed down both sleeves
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a folded black anime pullover hoodie on a paper-white #FAFAFA surface against an ink-black #111111 backdrop. Halftone dot texture, dramatic speed lines and ink splatter radiating outward, single manga-red #E2261C accent slashing across one corner. The hoodie's yellow Thunder Breathing graphic and Japanese-name sleeve print catch a cinematic rim light. Premium product photography, high contrast, manga panel framing, crisp focus on fabric weave.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

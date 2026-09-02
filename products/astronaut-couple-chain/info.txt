@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Astronaut Couple Chain
+SLUG         : astronaut-couple-chain
+BUMPA ID     : 1254755
+WOO TYPE     : simple
+PARENT SKU   : OSN-1254755
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Couple Accessories
+  - Accessories > Chains & Necklaces
+
+TAGS: astronaut couple chain, couple necklace set, magnetic heart necklace, matching couple chains, anime couple accessories, his and hers necklace, spaceman pendant, long distance gift
+FRANCHISE: Generic Anime    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦6,000
+Total stock   : 505
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Two astronauts, one magnetic heart.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A his-and-hers astronaut chain set with a magnetic split-heart clasp that snaps two halves into one. Silver-tone box chains, spaceman pendants, anime-inspired space aesthetic. The gift for the partner who's your whole galaxy.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some bonds are written in the stars. The Astronaut Couple Chain is a matching duo set built around a magnetic split-heart connector: wear them apart and each of you carries a tiny spaceman pendant, bring them close and the heart snaps whole. It's the anime-inspired space romance you've felt in a hundred episodes, now hanging at your throat.</p><p>Two silver-tone box chains, two detailed astronaut charms (one cradling a star), and that satisfying magnetic click. Everyday-durable, lightweight, and easy to layer. A clean, premium gift for an anniversary, a long-distance link, or just because they're your whole galaxy.</p><ul><li>Set of 2 matching necklaces (his-and-hers / duo) sold as one set</li><li>Astronaut / spaceman pendant on each chain, with star accent detailing</li><li>Magnetic split-heart connector that joins the two pendants into one heart</li><li>Silver-tone box-link chains with lobster-clasp closure</li><li>Alloy and metal construction; lightweight, everyday wear</li><li>Anime-inspired space aesthetic; fan-made, not affiliated with any studio</li><li>Wipe clean with a soft dry cloth; keep away from water and perfume to preserve shine</li><li>Arrives ready to gift to your lover, your best friend, or your crew</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Magnetic split-heart clasp snaps both halves into one
+  • Matching set of 2: astronaut pendants for both of you
+  • Silver-tone box chains, lightweight everyday wear
+  • Star-accent spaceman detailing, anime-inspired space look
+  • Perfect couple, bestie, or long-distance gift
+  • Ships from Nigeria, nationwide and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (52 chars)        : Astronaut Couple Chain | Magnetic Heart Necklace Set
+Meta Description (151 chars) : Astronaut Couple Chain: matching silver-tone necklaces with a magnetic split-heart clasp. Anime-inspired duo set, ₦6,000. Ships from Nigeria worldwide.
+Focus keyword                       : astronaut couple chain
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Pair of silver astronaut couple necklaces with spaceman pendants and a magnetic split-heart connector
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a matching astronaut couple necklace set: two silver-tone box chains with detailed spaceman pendants and a magnetic split-heart connector clicking together mid-air. Ink black #111111 background, paper white #FAFAFA rim light, single manga-red #E2261C accent glint off the heart. Halftone dot texture, sharp speed lines radiating from the joined heart, subtle ink splatter, framed in a manga panel. Premium, cinematic, high-contrast macro detail.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

@@ -1,0 +1,84 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Luffy's Katana
+SLUG         : luffy-s-katana
+BUMPA ID     : 1144989
+WOO TYPE     : variable
+PARENT SKU   : OSN-1144989
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Katana & Weapons
+  - Shop by Anime > One Piece
+
+TAGS: Luffy katana, One Piece katana, anime display sword, cosplay katana, One Piece replica, Luffy sword, anime weapon prop, collector katana
+FRANCHISE: One Piece    CHARACTER: Monkey D. Luffy
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦40,000
+Total stock   : 108
+VARIATIONS (attribute: Material)
+  Wooden         | ₦40,000 | stock 10   | SKU OSN-1144989-WOODEN
+  Steel          | ₦98,000 | stock 98   | SKU OSN-1144989-STEEL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Hoist the captain's blade. Display-ready.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A One Piece-inspired display katana built for the captain's crew. White saya with purple bands, gold-tone fittings and a clean themed blade — a striking collector and cosplay prop that anchors any shelf or photo shoot.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Claim a piece of the roster. This Luffy's Katana is a fan-made, One Piece-inspired display sword styled after the Straw Hat crew's swordsmanship — a crisp white scabbard (saya) wrapped in purple bands, a matching tsuka handle wrap and bold gold-tone fittings that catch the light from across the room. It's the kind of prop that turns a shelf, a wall mount or a cosplay loadout into a statement.</p>
+<p>Choose your finish: a Steel version with a metal display blade that ships with a sword stand and a wearable sword belt, or a lighter Wooden version ideal for safer cosplay handling. This is a decorative collector and cosplay piece for display only — not a functional weapon. Keep it away from children and follow your local laws on bladed display items.</p>
+<ul>
+<li><strong>Series:</strong> One Piece (fan / anime-inspired — not affiliated or licensed)</li>
+<li><strong>Type:</strong> Decorative display katana / cosplay prop</li>
+<li><strong>Material options:</strong> Steel (metal display blade) or Wooden</li>
+<li><strong>Included with Steel:</strong> Sword stand + wearable sword belt</li>
+<li><strong>Wooden version:</strong> Blade only — no stand or belt included</li>
+<li><strong>Design:</strong> White saya with purple bands, themed tsuka wrap, gold-tone tsuba and fittings</li>
+<li><strong>Best for:</strong> Collectors, anime room display, conventions and cosplay photos</li>
+<li><strong>Care:</strong> Wipe with a dry, soft cloth; store indoors away from moisture and direct heat</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • One Piece-inspired captain's display katana for collectors and cosplayers
+  • Pick Steel (metal display blade) or a lighter Wooden finish
+  • Steel version includes a sword stand and wearable sword belt
+  • White saya, purple bands and gold-tone fittings for a clean, premium look
+  • Decorative display prop only — not a functional weapon; keep away from children
+  • Fan / anime-inspired design, not official or affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (48 chars)        : Luffy's Katana | One Piece Display Sword Replica
+Meta Description (151 chars) : Luffy's Katana — a One Piece-inspired display sword in Steel or Wooden. Steel ships with stand and belt. Fan-made cosplay and collector prop. Shop now.
+Focus keyword                       : Luffy katana
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: One Piece-inspired Luffy display katana with white saya, purple bands and gold-tone fittings
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a One Piece-inspired display katana: white scabbard with purple bands, white handle wrap and gold-tone guard, blade half-drawn. Ink black #111111 background, paper white #FAFAFA negative space, single manga-red #E2261C accent slash behind the blade. Halftone dot shading, dynamic speed lines, ink splatter, manga panel framing. Premium, cinematic collector-prop presentation, dramatic rim lighting, no text.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

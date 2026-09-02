@@ -1,0 +1,84 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Misa Chain In Death Note
+SLUG         : misa-chain-in-death-note
+BUMPA ID     : 1134650
+WOO TYPE     : simple
+PARENT SKU   : OSN-1134650
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+
+TAGS: Misa Amane necklace, Death Note necklace, Misa cross pendant, anime necklace, gothic cross necklace, Death Note merch, anime chain, cosplay accessory
+FRANCHISE: Death Note    CHARACTER: Misa Amane
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,500
+Total stock   : 997
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Misa Amane's gothic cross, cast in steel.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel the Second Kira with Misa Amane's signature gothic cross pendant. This anime-inspired Death Note necklace pairs a polished silver-tone dagger crucifix with a sturdy box-link chain that resists tarnish and wears every day.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Lights, Misa, action. This is Misa Amane's unmistakable gothic cross from <strong>Death Note</strong> — the winged dagger crucifix she wears under the lace and leather — reborn as a wearable piece for fans who live a little dangerously. The pendant catches the light with sharp, sculpted edges, hanging from a clean box-link chain that sits well over a tee, a corset top, or your favourite cosplay fit.</p>
+<p>Built from durable, tarnish-resistant metal with a bright silver-tone finish, it is light enough for all-day wear yet detailed enough to draw a knowing nod from any Death Note fan. An anime-inspired fan piece — wear the roster.</p>
+<ul>
+<li><strong>Character:</strong> Misa Amane (the Second Kira) from Death Note</li>
+<li><strong>Pendant style:</strong> gothic winged-dagger cross / crucifix</li>
+<li><strong>Material:</strong> durable tarnish-resistant stainless-steel / alloy, polished silver-tone finish</li>
+<li><strong>Chain:</strong> box-link chain with secure lobster clasp</li>
+<li><strong>Worn by:</strong> unisex — great for men and women, cosplay or everyday</li>
+<li><strong>In the box:</strong> one pendant on chain</li>
+<li><strong>Care:</strong> wipe clean with a soft dry cloth; keep away from water and perfume to preserve the shine</li>
+<li><strong>Note:</strong> fan-made, anime-inspired accessory — not official or affiliated</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Misa Amane's iconic gothic dagger-cross pendant from Death Note
+  • Polished silver-tone finish with sharp, sculpted detail
+  • Durable, tarnish-resistant metal for everyday wear
+  • Box-link chain with a secure lobster clasp
+  • Unisex fit — perfect for cosplay or daily styling
+  • Fan-made anime-inspired piece, not official or affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (44 chars)        : Misa Amane Cross Necklace | Death Note Chain
+Meta Description (152 chars) : Misa Amane's gothic cross pendant from Death Note. Anime-inspired silver-tone dagger crucifix on a tarnish-resistant box-link chain. Ships nationwide &.
+Focus keyword                       : Misa Amane necklace
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Silver-tone Misa Amane gothic dagger-cross pendant from Death Note on a box-link chain, shown beside artwork of Misa Amane wearing it
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a polished silver-tone gothic winged-dagger crucifix pendant on a box-link chain, anime-inspired Misa Amane necklace from Death Note. Ink black #111111 backdrop, paper white #FAFAFA negative space, single manga-red #E2261C accent glint on the blade edge. Halftone dot shading, sharp speed lines radiating from the pendant, subtle ink splatter in the corners, framed in a clean manga panel border. Dramatic rim lighting, high-contrast cinematic premium jewelry photography, sharp focus, macro detail on the sculpted metal.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

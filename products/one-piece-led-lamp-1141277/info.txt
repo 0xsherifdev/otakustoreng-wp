@@ -1,0 +1,93 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : One Piece Led Lamp
+SLUG         : one-piece-led-lamp-1141277
+BUMPA ID     : 1141277
+WOO TYPE     : variable
+PARENT SKU   : OSN-1141277
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Home & Decor > Room Decor
+  - Shop by Anime > One Piece
+
+TAGS: One Piece LED lamp, One Piece night light, anime 3D lamp, Luffy lamp, Zoro lamp, anime room decor, 3D illusion lamp, Straw Hat decor, otaku desk lamp, anime night light
+FRANCHISE: One Piece    CHARACTER: Monkey D. Luffy
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦16,000
+Total stock   : 797
+VARIATIONS (attribute: Style)
+  1              | ₦16,000 | stock 97   | SKU OSN-1141277-1
+  2              | ₦16,000 | stock 100  | SKU OSN-1141277-2
+  3              | ₦16,000 | stock 100  | SKU OSN-1141277-3
+  4              | ₦16,000 | stock 100  | SKU OSN-1141277-4
+  5              | ₦16,000 | stock 100  | SKU OSN-1141277-5
+  6              | ₦16,000 | stock 100  | SKU OSN-1141277-6
+  7              | ₦16,000 | stock 100  | SKU OSN-1141277-7
+  8              | ₦16,000 | stock 100  | SKU OSN-1141277-8
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+3D acrylic glow that lights up your set sail
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A laser-etched acrylic illusion lamp that makes your favourite Straw Hat float in mid-air. Switch between 16 colours by remote or touch, then set the whole room to your crew's vibe. Pick your design and light up the night.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Drop a piece of the Grand Line straight onto your desk. This anime-inspired 3D illusion lamp uses a precision laser-etched clear acrylic panel that catches LED light to make Luffy, Zoro and the Straw Hat crew appear to hover in glowing relief. By day it is clean see-through art; by night it floods your room with colour.</p>
+<p>Cycle through 16 colours and lighting modes with the included remote or a tap on the base, so you can match your mood, your stream setup or your sleep routine. Light, low-heat and powered over USB, it is the easy upgrade every otaku desk, shelf or bedside has been missing.</p>
+<ul>
+<li>3D laser-etched clear acrylic panel on a sturdy ABS base</li>
+<li>16 colours with multiple lighting modes, switchable by remote or touch</li>
+<li>Remote control included for hands-free colour changes</li>
+<li>USB powered (cable included) for desk, shelf or bedside use</li>
+<li>Cool, energy-saving LEDs safe to leave on as a night light</li>
+<li>8 design options: Luffy, Zoro and Straw Hat crew artwork plus the Jolly Roger logo</li>
+<li>Fan-made, anime-inspired decor; not affiliated with the official rights holders</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • 16 colours plus lighting modes, set by remote or touch
+  • 3D laser-etched acrylic makes the art float in light
+  • Remote control included for hands-free switching
+  • USB powered with cool, energy-saving LEDs
+  • 8 designs: Luffy, Zoro, crew art and Jolly Roger logo
+  • Perfect night light for desk, shelf or bedside
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (43 chars)        : One Piece 3D LED Lamp | 16 Colours + Remote
+Meta Description (150 chars) : One Piece 3D LED illusion lamp with 16 colours and remote. Luffy, Zoro and crew designs that glow. Anime-inspired room decor, shipping nationwide and.
+Focus keyword                       : One Piece LED lamp
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+  05.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: One Piece 3D acrylic LED illusion lamp glowing blue with an etched Zoro design on a black base
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product studio shot of a 3D acrylic illusion LED lamp: a laser-etched clear panel of a One Piece-inspired Straw Hat pirate character on a matte black ABS base, glowing in a single manga-red #E2261C accent against an ink-black #111111 background. Paper-white #FAFAFA halftone dots and diagonal speed lines radiating from the lamp, subtle ink splatter in the corners, framed inside a clean manga panel border. Cinematic rim lighting, premium, high-contrast, sharp focus on the etched lines.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

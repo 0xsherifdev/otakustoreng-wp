@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Sukuna Tote Bag
+SLUG         : sukuna-tote-bag
+BUMPA ID     : 2221774
+WOO TYPE     : simple
+PARENT SKU   : OSN-2221774
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Tote Bags
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Sukuna tote bag, Jujutsu Kaisen tote bag, anime tote bag, Sukuna, Jujutsu Kaisen, canvas tote bag, anime canvas bag, JJK merch
+FRANCHISE: Jujutsu Kaisen    CHARACTER: Sukuna
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦7,000
+Total stock   : 9
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the King of Curses everywhere you go
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A bold canvas tote built for the everyday haul. Black cotton, reinforced shoulder handles and a striking red-panel Sukuna print. Roomy enough for books, groceries or your full con loot. Fan-made, anime-inspired, never affiliated.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some days you just need to carry it all, and you might as well do it under the gaze of the King of Curses. The Sukuna Tote Bag pairs a deep black canvas body with a high-contrast red panel print of Ryomen Sukuna, his name stamped in clean white block lettering beneath the 両面宿儺 kanji. It is loud where it counts and minimal everywhere else, so it reads premium from across the room.</p><p>Built around long, reinforced handles, it slings comfortably over the shoulder and opens wide for books, gym kit, market runs or a full convention haul. A true everyday workhorse for any Jujutsu Kaisen fan who wants to wear the roster, not just watch it.</p><ul><li>Sturdy woven canvas body in ink black</li><li>Bold red-panel Sukuna artwork with white "SUKUNA" lettering and 両面宿儺 kanji</li><li>Long shoulder-length handles, reinforced at the stress points</li><li>Spacious open main compartment for books, groceries and con hauls</li><li>Lightweight, foldable and easy to carry when empty</li><li>Spot clean or hand wash cold; lay flat to dry to protect the print</li><li>Unisex everyday carry; fan-made and anime-inspired, not affiliated with the rights holders</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold red-panel Sukuna print on deep black canvas
+  • Long reinforced handles sit comfortably on the shoulder
+  • Roomy open main compartment for books, groceries and con hauls
+  • Lightweight and foldable for easy everyday carry
+  • Unisex design that pairs with any fit
+  • Fan-made, anime-inspired, not affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (43 chars)        : Sukuna Tote Bag | Jujutsu Kaisen Canvas Bag
+Meta Description (155 chars) : Sukuna canvas tote bag with a bold red-panel print and reinforced handles. Roomy everyday carry for JJK fans. Ships from Nigeria, nationwide and worldwide.
+Focus keyword                       : Sukuna tote bag
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black canvas tote bag with a red-panel print of Sukuna from Jujutsu Kaisen and white SUKUNA lettering, shown with long shoulder handles
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a black canvas tote bag standing upright, featuring a bold manga-red #E2261C panel print of Sukuna with white block lettering. Background ink black #111111 fading to paper white #FAFAFA, single manga-red accent, halftone dot shading, dynamic speed lines and a scatter of ink splatter framing the bag in a clean manga panel. Premium, cinematic, high-contrast studio lighting, sharp focus on the canvas weave and reinforced handles.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

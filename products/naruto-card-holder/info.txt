@@ -1,0 +1,75 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Naruto Card Holder
+SLUG         : naruto-card-holder
+BUMPA ID     : 1149174
+WOO TYPE     : variable
+PARENT SKU   : OSN-1149174
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Shop by Anime > Naruto
+
+TAGS: Naruto card holder, Akatsuki lanyard, Naruto lanyard, anime card holder, Akatsuki red cloud, Naruto accessories, anime lanyard, Itachi, card case lanyard, Naruto merch
+FRANCHISE: Naruto    CHARACTER: Akatsuki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,000
+Total stock   : 40
+VARIATIONS (attribute: Style)
+  1              | ₦4,000 | stock 10   | SKU OSN-1149174-1
+  2              | ₦4,000 | stock 10   | SKU OSN-1149174-2
+  3              | ₦4,000 | stock 10   | SKU OSN-1149174-3
+  4              | ₦4,000 | stock 10   | SKU OSN-1149174-4
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Rep the Akatsuki everywhere your cards go
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+An anime-inspired Naruto card holder built around the iconic Akatsuki red-cloud lanyard. A hard card case keeps your ID, transit and bank cards safe, while a detachable clasp lets you clip it to bags, belt loops or keys.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Carry your cards like a rogue ninja. This Naruto-inspired card holder pairs the unmistakable Akatsuki red-cloud lanyard with a sturdy card case, so your ID, transit pass and bank cards stay protected while you rep the roster every single day. Choose from four designs spanning the darkest corners of the series, from the full Akatsuki line-up to Itachi and Sharingan-charged artwork.</p><p>The detachable metal clasp means you can wear it around your neck, clip it to a backpack, or hook it onto your keys in seconds. Lightweight, everyday-ready and built to handle the daily grind, it is the easy win for any fan who wants their cards to do the talking.</p><ul><li>Item: anime-inspired lanyard card holder (card case + neck strap)</li><li>Franchise theme: Naruto / Akatsuki</li><li>Strap design: signature Akatsuki red-cloud pattern on a black lanyard</li><li>Card case: hard-shell sleeve sized for standard ID, transit and bank cards</li><li>Hardware: metal lobster clasp plus a detachable quick-release clip</li><li>Style options: 4 designs (Akatsuki group, Itachi, Sharingan face, Akatsuki symbol)</li><li>Wear it: around the neck, clipped to bags, belt loops or keys</li><li>Care: wipe clean with a dry or slightly damp cloth</li><li>Fan / anime-inspired design, not affiliated with or endorsed by the rights holders</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Iconic Akatsuki red-cloud lanyard for instant fan recognition
+  • Hard-shell case fits standard ID, transit and bank cards
+  • Detachable metal clasp clips to bags, belt loops or keys
+  • Choose from 4 Naruto-inspired designs
+  • Lightweight and built for the daily grind
+  • Anime-inspired fan design, not affiliated with the rights holders
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (52 chars)        : Naruto Akatsuki Card Holder Lanyard | Otaku Store NG
+Meta Description (153 chars) : Naruto Akatsuki card holder with red-cloud lanyard and a hard card case. 4 designs, detachable clip. Ships from Nigeria nationwide and worldwide. ₦4,000.
+Focus keyword                       : Naruto card holder
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Naruto Akatsuki card holder with red-cloud lanyard and hard card case in four designs
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a Naruto Akatsuki-inspired lanyard card holder, hard card case hanging from a black neck strap printed with red Akatsuki clouds, detachable metal clasp catching light. Ink black #111111 background, paper white #FAFAFA negative space, single manga-red #E2261C accent on the clouds. Halftone dot shading, sharp speed lines radiating behind the card case, subtle ink splatter framing the edges, manga panel border. Premium, cinematic, high-contrast, crisp detail.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

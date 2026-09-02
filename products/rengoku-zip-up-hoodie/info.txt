@@ -1,0 +1,91 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Rengoku Zip Up Hoodie
+SLUG         : rengoku-zip-up-hoodie
+BUMPA ID     : 2964661
+WOO TYPE     : variable
+PARENT SKU   : OSN-2964661
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Hoodies
+  - Shop by Anime > Demon Slayer
+
+TAGS: Rengoku hoodie, Demon Slayer hoodie, Kyojuro Rengoku, anime zip up hoodie, Flame Hashira, Demon Slayer merch, anime streetwear, fan hoodie
+FRANCHISE: Demon Slayer    CHARACTER: Kyojuro Rengoku
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦18,500
+Total stock   : 797
+VARIATIONS (attribute: Size & Material)
+  L-Thick Cotton | ₦21,000 | stock 97   | SKU OSN-2964661-LTHICKCOTTON
+  L-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964661-LTHICKPOLYESTER
+  Xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964661-XLTHICKCOTTON
+  Xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964661-XLTHICKPOLYESTER
+  2xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964661-2XLTHICKCOTTON
+  2xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964661-2XLTHICKPOLYESTER
+  3xl-Thick Cotton | ₦21,000 | stock 100  | SKU OSN-2964661-3XLTHICKCOTTON
+  3xl-Thick Polyester | ₦18,500 | stock 100  | SKU OSN-2964661-3XLTHICKPOLYESTER
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Set your heart ablaze in Flame Hashira gold
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Black full-zip hoodie blazing with Kyojuro Rengoku graphics: a flame-gold back portrait, Demon Slayer kanji down one sleeve and the Corps emblem on the chest. Brushed-fleece warmth, ribbed cuffs, oversized streetwear fit. Pick cotton or polyester.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the Flame Hashira every time you zip up. This Kyojuro Rengoku hoodie runs deep black with bold flame-gold artwork: a framed back-panel portrait of Rengoku mid-stance, the Demon Slayer kanji striping down one sleeve, Japanese lettering down the other, and the Demon Slayer Corps emblem sitting clean on the chest. It is a fan-made, anime-inspired piece built for fans who want the roster on their back, not just on a poster.</p>
+<p>The brushed-fleece interior keeps the warmth in while the unisex, slightly oversized cut layers easily over a tee or longline shirt. Full-length zip, hood and ribbed trims give it that everyday streetwear feel that holds its shape wear after wear.</p>
+<ul>
+<li>Front-zip pullover-style hoodie with adjustable drawstring hood</li>
+<li>Anime-inspired Kyojuro Rengoku print: flame-gold back portrait, sleeve kanji and chest Corps emblem</li>
+<li>Brushed-fleece interior for cosy warmth</li>
+<li>Ribbed cuffs and hem to lock in the fit</li>
+<li>Unisex, relaxed streetwear silhouette</li>
+<li>Choice of fabric at checkout: thick cotton or thick polyester</li>
+<li>Sizes: L, XL, 2XL, 3XL</li>
+<li>Machine wash cold, inside-out; do not tumble dry the print</li>
+<li>Fan-made and anime-inspired; not official or affiliated with the rights holders</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Flame-gold Kyojuro Rengoku back portrait with sleeve kanji and chest Corps emblem
+  • Brushed-fleece interior for real warmth
+  • Full-length zip with drawstring hood
+  • Choice of thick cotton or thick polyester at checkout
+  • Unisex oversized streetwear fit, sizes L to 3XL
+  • Ribbed cuffs and hem that hold their shape
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (47 chars)        : Rengoku Zip Up Hoodie | Demon Slayer Fan Hoodie
+Meta Description (144 chars) : Rengoku zip up hoodie in flame-gold Demon Slayer print. Brushed fleece, full zip, cotton or polyester. Sizes L to 3XL. ₦18,500, ships worldwide.
+Focus keyword                       : Rengoku zip up hoodie
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black Rengoku zip up hoodie showing flame-gold Kyojuro Rengoku back portrait, Demon Slayer sleeve kanji and chest Corps emblem
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a black full-zip anime hoodie laid flat against an ink-black #111111 background, paper-white #FAFAFA halftone-dot texture bleeding in from the corners. The hoodie's flame-gold Kyojuro Rengoku back portrait and sleeve kanji glow under a single hard cinematic key light. Sharp manga speed lines radiate behind it, a single manga-red #E2261C ink splatter accent slashing across one corner, framed inside a clean manga panel border. Premium, high-contrast, moody, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

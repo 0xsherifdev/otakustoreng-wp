@@ -1,0 +1,79 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Sukuna Shoes
+SLUG         : sukuna-shoes
+BUMPA ID     : 1141549
+WOO TYPE     : variable
+PARENT SKU   : OSN-1141549
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Shoes
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Sukuna shoes, Jujutsu Kaisen sneakers, anime shoes, Sukuna sneakers, Ryomen Sukuna, anime sneakers, JJK merch, unisex anime sneakers
+FRANCHISE: Jujutsu Kaisen    CHARACTER: Ryomen Sukuna
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦35,000
+Total stock   : 799
+VARIATIONS (attribute: Size)
+  38             | ₦35,000 | stock 99   | SKU OSN-1141549-38
+  39             | ₦35,000 | stock 100  | SKU OSN-1141549-39
+  40             | ₦35,000 | stock 100  | SKU OSN-1141549-40
+  41             | ₦35,000 | stock 100  | SKU OSN-1141549-41
+  42             | ₦35,000 | stock 100  | SKU OSN-1141549-42
+  43             | ₦35,000 | stock 100  | SKU OSN-1141549-43
+  44             | ₦35,000 | stock 100  | SKU OSN-1141549-44
+  45             | ₦35,000 | stock 100  | SKU OSN-1141549-45
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Step into the King of Curses.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Anime-inspired Sukuna sneakers with all-over Jujutsu Kaisen art, cursed-mark detailing and a cushioned sole built for daily wear. Unisex, true to size, available 38 to 45. Just pick your size and lace up.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the King of Curses every time you lace up. These fan-made Sukuna sneakers wrap the whole upper in bold Jujutsu Kaisen art, from his cursed facial markings to that menacing grin, finished in a striking palette that turns heads on campus, on the train or at the next anime meet.</p><p>Built for real wear, not just the gram. A cushioned sole keeps you comfortable through long days, while the durable upper and lace-up fit make these an easy go-to for fans who want their roster on their feet. Unisex sizing and a true-to-size cut mean you simply choose your number and go.</p><ul><li><strong>Design:</strong> all-over Sukuna print, anime-inspired Jujutsu Kaisen artwork (fan-made, not affiliated)</li><li><strong>Style:</strong> low-top lace-up sneakers, unisex</li><li><strong>Sole:</strong> cushioned, flexible outsole for everyday comfort</li><li><strong>Sizing:</strong> true to size; available in 38, 39, 40, 41, 42, 43, 44 and 45 — pick your shoe size at checkout</li><li><strong>Fit:</strong> secure lace-up closure</li><li><strong>Care:</strong> spot clean with a damp cloth; air dry, avoid direct heat</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • All-over Sukuna print with signature cursed markings
+  • Cushioned sole tuned for all-day comfort
+  • Unisex, true-to-size fit in 38-45
+  • Durable lace-up build for daily wear
+  • Fan-made Jujutsu Kaisen design, anime-inspired
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (44 chars)        : Sukuna Shoes | Jujutsu Kaisen Anime Sneakers
+Meta Description (135 chars) : Sukuna anime sneakers with all-over Jujutsu Kaisen print and a cushioned sole. Unisex, true to size 38-45. Ships from Nigeria, ₦35,000.
+Focus keyword                       : Sukuna shoes
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Sukuna anime sneakers with all-over Jujutsu Kaisen cursed-mark print on a low-top lace-up shoe
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a pair of low-top anime sneakers covered in all-over Sukuna cursed-mark artwork. Ink black #111111 backdrop, paper white #FAFAFA highlights, single manga-red #E2261C accent on the laces and cursed markings. Halftone dot shading, sharp speed lines radiating behind the shoes, ink splatter at the edges, framed inside a clean manga panel. Premium cinematic lighting, three-quarter hero angle, crisp focus, dramatic shadow.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

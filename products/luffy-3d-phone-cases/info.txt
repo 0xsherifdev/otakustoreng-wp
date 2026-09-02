@@ -1,0 +1,83 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Luffy 3d Phone Cases
+SLUG         : luffy-3d-phone-cases
+BUMPA ID     : 1138563
+WOO TYPE     : simple
+PARENT SKU   : OSN-1138563
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Phone Cases
+  - Shop by Anime > One Piece
+
+TAGS: Luffy phone case, One Piece phone case, anime iPhone case, 3D phone case, One Piece merch, Luffy, Monkey D. Luffy, anime phone case
+FRANCHISE: One Piece    CHARACTER: Monkey D. Luffy
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦7,800
+Total stock   : 1000
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Pirate King energy, molded in 3D relief.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A One Piece-inspired Luffy phone case with raised 3D artwork and a slim protective shell. Precise cutouts, screen-guarding lip and grippy hold so you carry the future Pirate King everywhere you go.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Set sail with the future Pirate King on your side. This Luffy 3D phone case turns a One Piece-inspired design into sculpted, raised relief artwork you can actually feel, sitting on a slim protective shell built to take the daily beating of pockets, bags and dropped calls.</p>
+<p>The fitted form hugs your phone without the bulk, while raised edges around the screen and camera keep the parts that matter off hard surfaces. Tactile detailing, precise cutouts and full button access mean it looks like a statement piece and behaves like everyday armour. Anime-inspired fan design, not affiliated with or endorsed by the official rights holders.</p>
+<ul>
+<li><strong>Design:</strong> Monkey D. Luffy, One Piece-inspired 3D relief artwork</li>
+<li><strong>Build:</strong> slim protective shell with shock-absorbing fit</li>
+<li><strong>Screen protection:</strong> raised lip around screen and camera</li>
+<li><strong>Access:</strong> precise cutouts for ports, speakers and buttons</li>
+<li><strong>Feel:</strong> textured, grippy hold that resists slipping</li>
+<li><strong>Compatibility:</strong> iPhone models (select your model at checkout)</li>
+<li><strong>Style:</strong> single design, no variant options</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Sculpted 3D relief Luffy artwork you can feel
+  • Slim protective shell with raised screen and camera lip
+  • Precise cutouts for full button, port and speaker access
+  • Textured grippy finish that fights drops and slips
+  • Made for iPhone, choose your model at checkout
+  • One Piece-inspired fan design, not affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (44 chars)        : Luffy 3D Phone Case | One Piece iPhone Cover
+Meta Description (155 chars) : One Piece-inspired Luffy 3D phone case for iPhone. Raised relief art, slim protective shell, precise cutouts and screen-guarding lip. Ships nationwide and.
+Focus keyword                       : Luffy 3D phone case
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: One Piece-inspired Luffy 3D relief phone case fitted on an iPhone, slim protective shell
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a Luffy-inspired 3D relief iPhone case standing upright. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent on the straw-hat motif. Halftone dot shading, dramatic speed lines radiating behind the case, subtle ink splatter in the corners, framed inside a clean manga panel border. Raised sculpted artwork catching cinematic side light, premium glossy finish, shallow depth of field, high-contrast, no text.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

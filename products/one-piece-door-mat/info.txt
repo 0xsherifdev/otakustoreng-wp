@@ -1,0 +1,86 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : One Piece Door Mat
+SLUG         : one-piece-door-mat
+BUMPA ID     : 1241300
+WOO TYPE     : variable
+PARENT SKU   : OSN-1241300
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Home & Decor > Room Decor
+  - Shop by Anime > One Piece
+
+TAGS: One Piece door mat, anime floor mat, Zoro decor, Ace door mat, Trafalgar Law, anime room decor, bathroom mat, Otaku Store NG
+FRANCHISE: One Piece    CHARACTER: Zoro / Ace / Law
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦8,000
+Total stock   : 29
+VARIATIONS (attribute: Style)
+  1              | ₦8,000 | stock 9    | SKU OSN-1241300-1
+  2              | ₦8,000 | stock 10   | SKU OSN-1241300-2
+  3              | ₦8,000 | stock 10   | SKU OSN-1241300-3
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Step onto the Grand Line every morning
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Anchor your space with a One Piece floor mat built for daily wear. Pick your fighter: Zoro, Ace or Law in full-bleed, fade-resistant print. Soft underfoot, slip-resistant backing and quick-drying. The clean finish to any otaku setup.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Roll out the Grand Line right at your door. This One Piece floor mat turns a plain entryway or bathroom into a crew member's quarters, with edge-to-edge anime-inspired art that lands the moment you walk in. Choose your captain and let the print do the talking.</p>
+<p>Three styles to claim: <strong>Style 1 - Roronoa Zoro</strong> in a fierce green-aura standoff, <strong>Style 2 - Portgas D. Ace</strong> wreathed in flame under his signature hat, and <strong>Style 3 - Trafalgar Law</strong> in cool blues. Soft, low-profile and easy to clean, it sits flat and stays put through the daily traffic of a real otaku home.</p>
+<ul>
+<li><strong>Design:</strong> One Piece anime-inspired full-bleed print (fan art, not affiliated with the official franchise)</li>
+<li><strong>Style options:</strong> 1 - Zoro, 2 - Ace, 3 - Law (select at checkout)</li>
+<li><strong>Size:</strong> approx. 40 x 60 cm - ideal for doorways, kitchen, bedside or bathroom</li>
+<li><strong>Surface:</strong> soft, comfortable underfoot with vivid, fade-resistant colour</li>
+<li><strong>Backing:</strong> slip-resistant base to keep the mat in place</li>
+<li><strong>Care:</strong> quick-drying; wipe clean or gently hand wash, air dry flat</li>
+<li><strong>Best for:</strong> entryways, bathrooms, gaming corners and anime rooms</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Three styles to choose: Zoro, Ace or Law
+  • Full-bleed, fade-resistant anime-inspired print
+  • Soft and comfortable underfoot
+  • Slip-resistant backing stays put
+  • Quick-drying, easy to wipe clean
+  • Approx. 40 x 60 cm - fits doorways and bathrooms
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (53 chars)        : One Piece Door Mat - Zoro, Ace & Law | Otaku Store NG
+Meta Description (142 chars) : One Piece door mat with full-bleed Zoro, Ace or Law art. Soft, slip-resistant, quick-drying floor mat. Ships nationwide and worldwide. ₦8,000.
+Focus keyword                       : One Piece door mat
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: One Piece anime-inspired door mat featuring Roronoa Zoro in a green aura, placed on a bathroom floor
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga style studio shot of a rectangular anime door mat laid flat on an ink-black #111111 floor, lit cinematically. Paper-white #FAFAFA halftone-dot backdrop with bold manga speed lines radiating toward the mat and a single manga-red #E2261C ink-splatter accent in one corner. The mat shown at a slight three-quarter angle within a clean manga panel border, premium product photography, dramatic rim light, ink splatter detailing, high contrast, no text.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

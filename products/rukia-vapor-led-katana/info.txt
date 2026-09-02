@@ -1,0 +1,83 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Rukia Vapor Led Katana
+SLUG         : rukia-vapor-led-katana
+BUMPA ID     : 4614400
+WOO TYPE     : simple
+PARENT SKU   : OSN-4614400
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Katana & Weapons
+  - Shop by Anime > Bleach
+
+TAGS: Rukia katana, Sode no Shirayuki, Bleach sword, LED katana, anime katana replica, cosplay katana, display katana, light up sword, Rukia Kuchiki
+FRANCHISE: Bleach    CHARACTER: Rukia Kuchiki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦90,000
+Total stock   : 98
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Sode no Shirayuki, lit in vapor light.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel Rukia's Sode no Shirayuki with this anime-inspired LED display katana. Pure-white saya and wrapped tsuka, a glowing color-shift blade strip and trailing ribbon. Built for collectors, cosplay and shelf-stopping display.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Snow piles. Sode no Shirayuki, Rukia Kuchiki's blade, brought to life as a fan-crafted LED display katana. The all-white saya and clean braided tsuka nail her zanpakuto's signature look, while a glowing light strip runs the length of the blade in vapor-soft color, so it reads pure white on the shelf and electric in the dark. The flowing ribbon at the pommel finishes the silhouette every Bleach fan knows.</p>
+<p>This is a decorative collector and cosplay prop, not a functional weapon. It is designed to be displayed, photographed and carried on stage, never used for harm. Keep it away from children and follow your local laws on bladed display items.</p>
+<ul>
+<li><strong>Character:</strong> Rukia Kuchiki's Sode no Shirayuki, anime-inspired (fan-made, not affiliated)</li>
+<li><strong>Type:</strong> LED light-up display katana with matching scabbard</li>
+<li><strong>Lighting:</strong> Color-shift LED blade strip with selectable colors (rainbow, white, red, blue, green, yellow, purple and more)</li>
+<li><strong>Power:</strong> Battery-powered light strip (batteries not included)</li>
+<li><strong>Build:</strong> Alloy/stainless blade with white braided tsuka handle wrap and circular guard styling</li>
+<li><strong>Includes:</strong> Katana, white saya (scabbard) and decorative pommel ribbon</li>
+<li><strong>Best for:</strong> Display, cosplay, photography and collecting</li>
+<li><strong>Care:</strong> Wipe with a dry, soft cloth; keep away from moisture and remove batteries when stored</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Sode no Shirayuki styling: all-white saya, braided tsuka and trailing ribbon
+  • Color-shift LED blade strip glows from soft white to full rainbow
+  • Battery-powered light-up display piece for dark-room display and night photos
+  • Cosplay-ready prop that completes any Rukia Kuchiki loadout
+  • Decorative collector replica, not a functional weapon
+  • Fan-made, anime-inspired tribute (not official or affiliated)
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (50 chars)        : Rukia Vapor LED Katana | Sode no Shirayuki Replica
+Meta Description (150 chars) : Rukia Sode no Shirayuki LED display katana from Bleach. White saya, braided tsuka and a color-shift glowing blade for cosplay and collectors. ₦90,000.
+Focus keyword                       : Rukia LED katana
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: White Rukia Sode no Shirayuki LED display katana from Bleach with glowing rainbow blade strip, braided handle and scabbard
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a white anime display katana inspired by Sode no Shirayuki, laid diagonally across the frame. Ink black #111111 background, paper white #FAFAFA blade and scabbard, single manga-red #E2261C accent on the cord and ribbon. The blade carries a glowing light strip rendered as a clean luminous line. Halftone dot texture, sharp speed lines radiating from the hilt, subtle ink splatter at the edges, framed inside a manga panel border. Premium, cinematic lighting, high contrast, crisp focus, collectible prop hero shot.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

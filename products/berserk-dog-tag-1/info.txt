@@ -1,0 +1,82 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Berserk Dog Tag 1
+SLUG         : berserk-dog-tag-1
+BUMPA ID     : 1507903
+WOO TYPE     : simple
+PARENT SKU   : OSN-1507903
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Berserk
+
+TAGS: Berserk, Guts, dog tag necklace, anime necklace, Brand of Sacrifice, Dragon Slayer, stainless steel pendant, anime jewellery, Berserk merch, Black Swordsman
+FRANCHISE: Berserk    CHARACTER: Guts
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦6,000
+Total stock   : 9
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the Brand of Sacrifice.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A Berserk-inspired steel dog tag pendant featuring Guts mid-strike, the Dragon Slayer and the crimson Brand of Sacrifice. Tarnish-resistant, full-colour print, on a sturdy steel chain. Everyday-tough fan jewellery for the Black Swordsman faithful.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>The eclipse never stopped haunting Guts, and now you can carry that same fire around your neck. This Berserk-inspired dog tag pendant captures the Black Swordsman mid-strike, the towering Dragon Slayer at his back and the crimson Brand of Sacrifice burning above him. It is loud, it is mean, and it sits perfectly under a tee or over a black hoodie.</p>
+<p>Built from durable, tarnish-resistant stainless-steel/alloy with a sharp full-colour printed face and polished edges, it is made to take the daily beating a Berserk fan will give it. Slide it on a steel chain, layer it with your other pieces, and wear the roster. Fan-made, anime-inspired and not affiliated with the official Berserk licence.</p>
+<ul>
+<li>Berserk-inspired Guts dog tag pendant with the Brand of Sacrifice and Dragon Slayer artwork</li>
+<li>Durable stainless-steel / alloy build that resists tarnish and everyday wear</li>
+<li>Full-colour printed pendant face with clean, polished tag edges</li>
+<li>Supplied on a sturdy steel link chain, ready to wear out of the box</li>
+<li>Lightweight, classic dog-tag silhouette that layers easily with other chains</li>
+<li>Easy care: wipe clean with a soft, dry cloth; keep away from harsh chemicals</li>
+<li>Ships from Nigeria, nationwide and worldwide</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Guts mid-strike with the burning Brand of Sacrifice and Dragon Slayer
+  • Tarnish-resistant stainless-steel / alloy build for daily wear
+  • Vivid full-colour printed pendant face with polished edges
+  • Comes on a sturdy steel chain, ready to wear out of the box
+  • Lightweight dog-tag shape that layers with your other chains
+  • Fan-made, anime-inspired; not affiliated with the official licence
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (46 chars)        : Berserk Guts Dog Tag Necklace | Otaku Store NG
+Meta Description (149 chars) : Berserk-inspired Guts dog tag necklace with the Brand of Sacrifice. Tarnish-resistant steel, full-colour print, on a steel chain. Ships from Nigeria.
+Focus keyword                       : Berserk dog tag necklace
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Berserk-inspired stainless-steel dog tag necklace showing Guts with a raised bandaged fist, the Dragon Slayer greatsword and the red Brand of Sacrifice over a dark eclipse, on a steel link chain.
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a rectangular stainless-steel dog tag pendant on a steel link chain, the printed face showing a fierce armoured swordsman and a glowing crimson rune emblem over a black eclipse. Ink black #111111 background, paper white #FAFAFA rim light, single manga-red #E2261C accent glow from the emblem. Halftone dot texture, sharp speed lines radiating outward, a flick of ink splatter in one corner, framed inside a clean manga panel border. Premium, cinematic, high-contrast macro detail on the polished steel edges; no text, no watermark.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

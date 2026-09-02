@@ -1,0 +1,80 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Death Note Stickers
+SLUG         : death-note-stickers
+BUMPA ID     : 1831211
+WOO TYPE     : simple
+PARENT SKU   : OSN-1831211
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Stickers
+
+TAGS: Death Note stickers, anime stickers, vinyl sticker pack, Light Yagami, Ryuk sticker, L Lawliet, Misa Amane, laptop stickers, waterproof stickers, anime merch Nigeria
+FRANCHISE: Death Note    CHARACTER: Light Yagami
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦1,000
+Total stock   : 199
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+A whole shinigami world for your gear
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A 10-piece Death Note vinyl sticker pack stacked with Light, L, Ryuk and Misa. Waterproof, fade-resistant die-cuts that lock onto laptops, bottles, phones and notebooks. Slap on the roster and let everyone know whose side you're on.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Pick up the notebook that changed everything. This 10-piece Death Note sticker pack hands you the full cast of the cat-and-mouse classic, from Light Yagami and his god complex to L crouched in the shadows, plus Ryuk grinning over his apple and Misa Amane in full Gothic-lolita mode. Each die-cut is printed in rich, vivid colour with crisp linework that does the original art justice.</p>
+<p>Built from durable waterproof vinyl, these stickers shrug off scratches, spills and sunlight, so they stay sharp on your laptop lid, water bottle, phone case, skateboard, notebook or console. Peel, position and press for a clean, bubble-free finish. Fan-made and anime-inspired, not affiliated with the official rights holders.</p>
+<ul>
+<li>Pack size: 10 pieces per pack</li>
+<li>Designs featured: Light Yagami, L, Ryuk, Misa Amane and Death Note logo art</li>
+<li>Material: durable waterproof vinyl</li>
+<li>Finish: vivid, fade-resistant colour print</li>
+<li>Style: assorted die-cut shapes</li>
+<li>Sticks to: laptops, water bottles, phones, notebooks, skateboards, consoles and more</li>
+<li>Application: peel and stick on clean, dry surfaces</li>
+<li>Best on smooth, non-porous surfaces for maximum hold</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • 10 waterproof vinyl stickers in every pack
+  • Features Light, L, Ryuk and Misa
+  • Vivid, fade-resistant colour print
+  • Sticks to laptops, bottles, phones and notebooks
+  • Durable die-cuts that resist scratches and spills
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (47 chars)        : Death Note Stickers Pack of 10 | Otaku Store NG
+Meta Description (152 chars) : Death Note sticker pack: 10 waterproof vinyl die-cuts of Light, L, Ryuk and Misa. Fade-resistant, for laptops, bottles and more. Ships NG and worldwide.
+Focus keyword                       : Death Note stickers
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Death Note vinyl sticker pack featuring Light Yagami, L, Ryuk, Misa Amane and the Death Note logo as assorted die-cut anime stickers
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product studio shot of a scattered Death Note vinyl sticker pack on an ink-black #111111 surface, paper-white #FAFAFA halftone-dot backdrop, single manga-red #E2261C accent on the Death Note logo sticker. Die-cut stickers of Light Yagami, L, Ryuk and Misa fanned out, speed lines radiating from center, subtle ink splatter in corners, manga panel framing, dramatic cinematic side lighting, crisp glossy vinyl highlights, premium editorial composition.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

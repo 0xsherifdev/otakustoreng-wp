@@ -1,0 +1,72 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : 5 In 1 Bracelet With Rings
+SLUG         : 5-in-1-bracelet-with-rings
+BUMPA ID     : 1163821
+WOO TYPE     : simple
+PARENT SKU   : OSN-1163821
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Bracelets
+
+TAGS: anime hand chain, 5 in 1 ring bracelet, ring bracelet harness, stainless steel bracelet, anime streetwear accessory, cosplay hand chain, silver finger chain, adjustable bracelet
+FRANCHISE: Generic Anime    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,500
+Total stock   : 502
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Five linked rings, one chained wrist harness
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Anime-streetwear hand chain done right: five connected rings drop from a wrist chain into one linked harness. Stainless-steel, silver-tone, with a lobster clasp and extender for an adjustable fit. Subtle, sharp, made to layer over any cosplay or everyday drip.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Wear the roster on your hand. This 5-in-1 hand chain links five slim rings to a wrist chain with fine connecting strands, so one clasp locks in the whole harness. It is the kind of cold, metallic detail you see on protagonists in their pre-fight stare-down: minimal, sharp, and built to read across a room.</p><p>The silver-tone stainless-steel finish keeps a clean mirror shine that plays with any palette, whether you are layering it over a cosplay fit or wearing it as everyday anime-inspired streetwear. Slip the rings on, clasp the wrist chain, and let the linked chains fall into place.</p><ul><li>Style: connected hand chain harness, five rings linked to a wrist chain</li><li>Material: stainless steel, silver-tone polished finish</li><li>Closure: lobster clasp with chain extender for an adjustable wrist fit</li><li>Rings: open-band style to suit a range of finger sizes</li><li>Worn on: back of the hand, rings across the fingers, chain at the wrist</li><li>Includes: 1 x 5-in-1 ring-and-bracelet hand chain</li><li>Care: keep dry, wipe with a soft cloth, store flat to avoid tangling</li><li>Aesthetic: anime / manga streetwear; fan-made, not affiliated with any studio</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Five connected rings drop into one chained wrist harness
+  • Polished silver-tone stainless steel for a cold, clean shine
+  • Lobster clasp and extender chain for an adjustable wrist fit
+  • Open-band rings suit a range of finger sizes
+  • Layers over cosplay fits or everyday anime streetwear
+  • Fan-made anime-inspired design, not affiliated with any studio
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (50 chars)        : 5-in-1 Ring Bracelet Hand Chain | Anime Streetwear
+Meta Description (152 chars) : Anime-inspired 5-in-1 hand chain: five linked rings on a stainless-steel wrist chain. Silver-tone, adjustable lobster clasp. Ships from Nigeria. ₦4,500.
+Focus keyword                       : anime hand chain bracelet
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Silver-tone stainless-steel 5-in-1 hand chain with five linked rings worn across the fingers and a chain at the wrist
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a silver-tone stainless-steel 5-in-1 hand-chain bracelet: five slim linked rings cascading from a fine wrist chain with a lobster clasp, laid on a clean surface. Ink black #111111 background, paper white #FAFAFA negative space, single manga-red #E2261C accent on a thin underline panel. Halftone-dot shading, sharp speed lines radiating behind the chains, subtle ink splatter at one corner, framed inside a bold manga panel border. Premium, cinematic, high-contrast lighting catching the polished metal; macro detail on the chain links and ring bands. No text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

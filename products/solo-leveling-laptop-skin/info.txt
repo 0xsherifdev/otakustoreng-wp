@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Solo Leveling Laptop Skin
+SLUG         : solo-leveling-laptop-skin
+BUMPA ID     : 1875661
+WOO TYPE     : simple
+PARENT SKU   : OSN-1875661
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Laptop Skins
+  - Shop by Anime > Solo Leveling
+
+TAGS: Solo Leveling, Sung Jinwoo, laptop skin, anime laptop decal, vinyl skin, Shadow Monarch, anime merch, laptop wrap
+FRANCHISE: Solo Leveling    CHARACTER: Sung Jinwoo
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦7,500
+Total stock   : 10
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Arise. Wrap your laptop in Shadow Monarch energy.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Turn your laptop into a Hunter's weapon with this Solo Leveling vinyl skin. Bold, fan-inspired Sung Jinwoo art applies bubble-free and peels off clean with zero residue. Choose your size and model for a precise fit.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Level up your setup with the Solo Leveling Laptop Skin, a precision-cut vinyl decal built for fans who live by "Arise." Channel the Shadow Monarch with crisp, high-saturation Sung Jinwoo artwork that wraps your lid in pure Hunter energy and turns an ordinary machine into a statement piece.</p><p>Engineered for a clean, professional finish, this skin goes on bubble-free and comes off residue-free, so you can switch up your look whenever the mood strikes. Just pick your size and laptop model at checkout for a sharp, edge-to-edge fit. Anime-inspired fan art, not affiliated with or endorsed by the official rights holders.</p><ul><li><strong>Material:</strong> Durable printed adhesive vinyl with a protective laminate top layer</li><li><strong>Finish:</strong> Matte, scratch-resistant surface that resists fingerprints and glare</li><li><strong>Application:</strong> Bubble-free, air-channel adhesive for a smooth, professional fit</li><li><strong>Removal:</strong> Clean, residue-free peel that won't damage your laptop</li><li><strong>Fit:</strong> Buyer selects size and laptop make/model for a precise, edge-to-edge wrap</li><li><strong>Coverage:</strong> Lid skin; cut to your chosen model's dimensions</li><li><strong>Design:</strong> Solo Leveling fan-inspired Sung Jinwoo / Shadow Monarch artwork</li><li><strong>Care:</strong> Wipe gently with a dry or slightly damp microfiber cloth; avoid harsh chemicals</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold Sung Jinwoo / Shadow Monarch fan-inspired artwork
+  • Bubble-free application with air-channel adhesive
+  • Residue-free removal that protects your laptop
+  • Matte, scratch-resistant laminate finish
+  • Choose your size and laptop model for a precise fit
+  • Premium printed vinyl built to last
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (51 chars)        : Solo Leveling Laptop Skin | Sung Jinwoo Vinyl Decal
+Meta Description (149 chars) : Solo Leveling laptop skin with bold Sung Jinwoo fan art. Bubble-free vinyl decal, residue-free removal, custom-fit to your model. Ships nationwide &.
+Focus keyword                       : Solo Leveling laptop skin
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Solo Leveling laptop skin featuring Sung Jinwoo Shadow Monarch fan art on a laptop lid
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga style studio shot of a laptop lid wrapped in a Solo Leveling Sung Jinwoo vinyl skin. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent glow. Halftone dot shading, dynamic speed lines radiating from the lid, ink splatter framing, manga panel borders. Cinematic premium product lighting, sharp focus on the matte vinyl texture and Shadow Monarch artwork, three-quarter angle.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

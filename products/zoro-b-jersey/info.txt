@@ -1,0 +1,76 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Zoro B Jersey
+SLUG         : zoro-b-jersey
+BUMPA ID     : 4846010
+WOO TYPE     : variable
+PARENT SKU   : OSN-4846010
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Jerseys
+  - Shop by Anime > One Piece
+
+TAGS: Zoro, Roronoa Zoro, One Piece, anime jersey, all-over print, football jersey, anime streetwear, Santoryu
+FRANCHISE: One Piece    CHARACTER: Roronoa Zoro
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦23,000
+Total stock   : 250
+VARIATIONS (attribute: Size)
+  M              | ₦23,000 | stock 50   | SKU OSN-4846010-M
+  L              | ₦23,000 | stock 50   | SKU OSN-4846010-L
+  XL             | ₦23,000 | stock 50   | SKU OSN-4846010-XL
+  2XL            | ₦23,000 | stock 50   | SKU OSN-4846010-2XL
+  3XL            | ₦23,000 | stock 50   | SKU OSN-4846010-3XL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Three-sword swagger, edge-to-edge ink
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Channel the Pirate Hunter in this all-over-print Zoro football jersey. Vivid edge-to-edge One Piece graphics, breathable 100% polyester, and a bold green-and-white "56" gridiron look built for cons, watch parties, and everyday streetwear flexing.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Strap in for some Santoryu energy. This Zoro B Jersey wraps you in vivid, edge-to-edge dye-sublimated artwork of Roronoa Zoro mid-draw, framed by a clean green-and-white gridiron layout and a bold number "56". The colours stay saturated wash after wash because the graphics are printed into the fabric, not slapped on top, so there's nothing to crack, peel, or fade.</p><p>Cut in an American-football jersey silhouette with a relaxed unisex fit, it's lightweight and breathable for long convention days, One Piece match-watch parties, or layering into your everyday fit. Runs true to size; if you're between sizes or want a roomier drape, size up.</p><ul><li><strong>Material:</strong> 100% polyester, lightweight and breathable</li><li><strong>Print:</strong> All-over dye-sublimation, edge-to-edge, won't crack or peel</li><li><strong>Fit:</strong> Unisex, relaxed American-football jersey cut</li><li><strong>Sizing:</strong> True to size (M-3XL); size up if between sizes</li><li><strong>Care:</strong> Machine wash cold inside-out, do not iron the print directly, hang to dry</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • All-over-print Roronoa Zoro artwork, edge to edge with zero peeling or cracking
+  • Lightweight, breathable 100% polyester for all-day convention comfort
+  • Relaxed unisex American-football cut, true to size (M-3XL)
+  • Bold green/white gridiron "56" colourway built for streetwear layering
+  • Secure checkout with fast nationwide and worldwide delivery
+  • Easy returns - shop with confidence
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (44 chars)        : Zoro Anime Jersey - One Piece All-Over Print
+Meta Description (140 chars) : Roronoa Zoro all-over-print anime jersey. Breathable One Piece football jersey, unisex M-3XL. ₦23,000. Fast nationwide & worldwide delivery.
+Focus keyword                       : Zoro anime jersey
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Roronoa Zoro One Piece all-over-print football jersey in green and white with number 56 and three-sword graphic
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga aesthetic studio shot of a folded all-over-print anime football jersey featuring Roronoa Zoro, displayed on ink-black #111111 surface with paper-white #FAFAFA backdrop. High-contrast monochrome scene accented by halftone screentone dots and manga speed lines radiating outward, a single bold manga-red #E2261C slash of brush-ink splatter for energy. Cinematic premium anime-streetwear product photography, dramatic side lighting, sharp focus on fabric texture, manga panel border framing.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

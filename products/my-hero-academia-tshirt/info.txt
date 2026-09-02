@@ -1,0 +1,82 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : My Hero Academia Tshirt
+SLUG         : my-hero-academia-tshirt
+BUMPA ID     : 1131427
+WOO TYPE     : variable
+PARENT SKU   : OSN-1131427
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+  - Shop by Anime > My Hero Academia
+
+TAGS: My Hero Academia t-shirt, anime t-shirt, My Hero Academia merch, Plus Ultra tee, anime graphic tee, MHA shirt, Boku no Hero Academia, unisex anime tee
+FRANCHISE: My Hero Academia    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦12,000
+Total stock   : 995
+VARIATIONS (attribute: Size & Style)
+  M-1            | ₦12,000 | stock 99   | SKU OSN-1131427-M1
+  M-2            | ₦12,000 | stock 100  | SKU OSN-1131427-M2
+  L-1            | ₦12,000 | stock 99   | SKU OSN-1131427-L1
+  L-2            | ₦12,000 | stock 100  | SKU OSN-1131427-L2
+  Xl-1           | ₦12,000 | stock 98   | SKU OSN-1131427-XL1
+  Xl-2           | ₦12,000 | stock 100  | SKU OSN-1131427-XL2
+  2xl-1          | ₦12,000 | stock 99   | SKU OSN-1131427-2XL1
+  2xl-2          | ₦12,000 | stock 100  | SKU OSN-1131427-2XL2
+  3xl-1          | ₦12,000 | stock 100  | SKU OSN-1131427-3XL1
+  3xl-2          | ₦12,000 | stock 100  | SKU OSN-1131427-3XL2
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Go beyond. Plus Ultra graphic tee for true Heroes.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Suit up like a U.A. student in this My Hero Academia inspired graphic tee. Soft, breathable cotton, unisex regular fit and a bold fade-resistant print built to survive every training arc. Pick your slide design at checkout.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel your inner Pro Hero with this My Hero Academia inspired graphic tee, made for fans who live by Plus Ultra. Crisp manga-style artwork sits on a soft, breathable body with a clean crew neck and a comfortable unisex regular fit, so it works for everyday wear, conventions and weekend lounging alike.</p><p>The durable, fade-resistant print is built to hold its colour through wash after wash. Choose your preferred slide design from the size and style options at checkout and wear the roster with confidence.</p><ul><li>Fan-made, anime-inspired My Hero Academia design (not official or affiliated)</li><li>Material: soft, breathable cotton</li><li>Unisex regular fit with classic crew neck</li><li>Sizes: M, L, XL, 2XL, 3XL (two slide designs per size: option -1 and -2)</li><li>Durable, fade-resistant graphic print</li><li>Select your slide design (first or second) in the size and style dropdown</li><li>Care: machine wash cold inside-out, do not bleach, hang or low-tumble dry</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold My Hero Academia inspired manga graphic print
+  • Soft, breathable cotton for all-day comfort
+  • Unisex regular fit with classic crew neck
+  • Durable fade-resistant print survives every wash
+  • Two slide designs per size, M up to 3XL
+  • Fan art design, not official or affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (44 chars)        : My Hero Academia T-Shirt | Anime Graphic Tee
+Meta Description (149 chars) : Shop the My Hero Academia inspired graphic tee at Otaku Store NG. Soft cotton, unisex fit, fade-resistant print. Sizes M-3XL, ships nationwide. From.
+Focus keyword                       : My Hero Academia t-shirt
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: My Hero Academia inspired anime graphic t-shirt in unisex regular fit with bold manga print
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga style studio product shot of a folded anime graphic t-shirt, ink black #111111 background with paper white #FAFAFA accents and a single manga-red #E2261C accent. Halftone dot texture, dramatic speed lines and ink splatter framing the tee in a comic panel layout. Crisp My Hero Academia inspired manga artwork on the chest, premium cinematic lighting, sharp folds, high detail, no logos or text.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

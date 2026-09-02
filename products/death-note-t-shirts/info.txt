@@ -1,0 +1,76 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Death Note T Shirts
+SLUG         : death-note-t-shirts
+BUMPA ID     : 1125406
+WOO TYPE     : variable
+PARENT SKU   : OSN-1125406
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+
+TAGS: Death Note, Death Note t-shirt, anime t-shirt, anime graphic tee, Light Yagami, L Lawliet, manga shirt, otaku apparel, anime merch Nigeria, unisex anime tee
+FRANCHISE: Death Note    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦12,000
+Total stock   : 498
+VARIATIONS (attribute: Size)
+  M              | ₦12,000 | stock 99   | SKU OSN-1125406-M
+  L              | ₦12,000 | stock 100  | SKU OSN-1125406-L
+  XL             | ₦12,000 | stock 99   | SKU OSN-1125406-XL
+  2XL            | ₦12,000 | stock 100  | SKU OSN-1125406-2XL
+  XXXL           | ₦12,000 | stock 100  | SKU OSN-1125406-XXXL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Write the name. Own the shirt.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Step into the deadly game of wits with this Death Note anime-inspired graphic tee. Soft cotton, unisex regular fit, and a bold fade-resistant print built for everyday wear. Sizes M through XXXL.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>For every fan who lives by the rules of the Death Note, this tee channels the psychological cat-and-mouse battle between Light and L into a statement piece you can wear anywhere. The crisp manga-inspired graphic sits on soft, breathable cotton with a crew neck and an easy unisex regular fit that drops just right whether you are at a convention, a meet-up, or out on a normal day.</p><p>The print is built to last with durable, fade-resistant inks that hold their punch wash after wash, so your favourite shinigami-fuelled design stays sharp. This is a fan-made, anime-inspired piece and is not official or affiliated with the original creators.</p><ul><li>Material: soft 100% cotton</li><li>Fit: unisex regular fit</li><li>Neckline: classic crew neck</li><li>Print: durable, fade-resistant anime graphic</li><li>Available colours: white, black, blue, pink, purple (choose your design slide at checkout)</li><li>Sizes: M, L, XL, 2XL, XXXL</li><li>Care: machine wash cold, inside-out; do not bleach; hang or tumble dry low</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Death Note anime-inspired graphic print
+  • Soft 100% cotton, breathable everyday feel
+  • Unisex regular fit with classic crew neck
+  • Durable fade-resistant print that survives the wash
+  • Five colourways: white, black, blue, pink, purple
+  • Sizes M to XXXL for a roster-wide fit
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (38 chars)        : Death Note T-Shirt | Anime Graphic Tee
+Meta Description (145 chars) : Death Note anime-inspired graphic t-shirt in soft cotton. Unisex regular fit, fade-resistant print, sizes M-XXXL. Ships nationwide and worldwide.
+Focus keyword                       : Death Note t-shirt
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Death Note anime-inspired graphic t-shirt in black with bold manga print, unisex regular fit
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a folded Death Note anime-inspired t-shirt, ink black #111111 background with paper white #FAFAFA negative space, single manga-red #E2261C accent on the graphic, halftone dot shading, dramatic speed lines and ink splatter framing the garment in clean manga panels, cinematic premium lighting, high detail, no text watermark
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

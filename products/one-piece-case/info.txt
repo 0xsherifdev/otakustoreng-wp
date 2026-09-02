@@ -1,0 +1,70 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : One Piece Case
+SLUG         : one-piece-case
+BUMPA ID     : 1504905
+WOO TYPE     : simple
+PARENT SKU   : OSN-1504905
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Shop by Anime > One Piece
+
+TAGS: One Piece phone case, anime phone case, One Piece merch, silicone phone case, iPhone anime case, Android anime case, jolly roger case, anime accessories
+FRANCHISE: One Piece    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦7,000
+Total stock   : 10
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Soft silicone armor for the Grand Line grind
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A One Piece-inspired soft silicone phone case in monochrome black or paper white, stamped with the iconic logo, jolly roger and straw-hat art. Slim, grippy and shock-cushioning, with a matching wrist lanyard. Available for iPhone and Android.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Set sail with a case that flies your colours. This One Piece-inspired soft silicone phone case wraps your handset in slim, grippy protection while a bold monochrome print stamps the legendary logo, jolly roger and straw-hat motif across the back and down the side rail. Choose ink black or paper white and let the crew ride shotgun everywhere you go.</p><p>The flexible liquid-silicone shell hugs raised camera and screen edges to cushion knocks, drops and scuffs, while the smooth-touch finish resists fingerprints and feels premium in hand. A matching wrist lanyard keeps your phone secure on the move. A clean, confident pick for any fan sailing the Grand Line.</p><ul><li>Material: soft flexible silicone shell with smooth-touch finish</li><li>Design: One Piece-inspired logo, jolly roger and straw-hat artwork, printed wrap-around side detailing</li><li>Colour options: ink black or paper white</li><li>Protection: raised camera and screen lips, shock-cushioning flexible edges</li><li>Included: 1 phone case plus matching wrist lanyard strap</li><li>Compatibility: available for a wide range of iPhone and Android models — confirm your exact model at checkout</li><li>Precise cut-outs for camera, ports, buttons and speakers</li><li>Care: wipe clean with a slightly damp cloth; avoid harsh solvents</li><li>Fan / anime-inspired merchandise, not affiliated with or endorsed by the rights holders</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Soft liquid-silicone shell with grippy smooth-touch finish
+  • Bold One Piece logo, jolly roger and straw-hat artwork
+  • Pick your crew colour: ink black or paper white
+  • Raised camera and screen lips cushion drops and scuffs
+  • Matching wrist lanyard strap included
+  • Available for a wide range of iPhone and Android models
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (56 chars)        : One Piece Phone Case | iPhone & Android | Otaku Store NG
+Meta Description (147 chars) : One Piece-inspired soft silicone phone case with logo and jolly roger art, plus wrist lanyard. Black or white, for iPhone & Android. ₦7,000. Ships.
+Focus keyword                       : One Piece phone case
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: One Piece-inspired soft silicone phone cases in black and white with logo, jolly roger and straw-hat art and matching wrist lanyards
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product hero shot of a soft silicone smartphone case standing upright on a matte ink-black #111111 surface, paper-white #FAFAFA case variant beside it. One Piece-inspired jolly roger and logo artwork rendered in stark black ink. Single manga-red #E2261C accent on a thin diagonal speed-line and a small ink-splatter behind the case. Halftone dot texture in the background, dramatic cinematic side lighting, manga panel framing, premium studio look, high detail, no text overlays.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

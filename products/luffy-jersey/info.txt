@@ -1,0 +1,70 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Luffy jersey
+SLUG         : luffy-jersey
+BUMPA ID     : 3099587
+WOO TYPE     : simple
+PARENT SKU   : OSN-3099587
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > Jerseys
+  - Shop by Anime > One Piece
+
+TAGS: Luffy, One Piece, anime jersey, all-over print jersey, dye sublimation, baseball jersey, anime streetwear, Monkey D. Luffy
+FRANCHISE: One Piece    CHARACTER: Monkey D. Luffy
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦23,000
+Total stock   : 198
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+King of the Pirates, edge-to-edge.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Set sail in style with this all-over-print Luffy anime jersey. Vivid edge-to-edge One Piece graphics on lightweight, breathable polyester. A button-up baseball cut built for conventions, watch parties, and everyday streetwear layering.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Claim your spot on the Thousand Sunny with the Luffy Anime Jersey from Otaku Store NG. This all-over-print (dye-sublimated) jersey wraps you in vivid, edge-to-edge One Piece graphics inspired by the future King of the Pirates himself, so the artwork runs seamlessly across the whole garment instead of a flat front print.</p><p>Cut in a classic button-up baseball style with a unisex fit, it is lightweight, breathable, and made to move whether you are at a convention, a match-watch party, or layering it over a tee for everyday streetwear. Shop with confidence: secure checkout, fast nationwide and worldwide delivery, and easy returns.</p><ul><li><strong>Material:</strong> 100% polyester, lightweight and breathable</li><li><strong>Print:</strong> All-over dye-sublimated graphics, edge-to-edge, fade-resistant</li><li><strong>Fit:</strong> Unisex button-up baseball cut, true to size</li><li><strong>Sizing:</strong> Available in M, L, XL, 2XL, 3XL. Between sizes? Size up for a relaxed fit.</li><li><strong>Care:</strong> Machine wash cold inside-out, do not iron directly on the print, hang dry.</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • All-over dye-sublimated print: vivid One Piece graphics from collar to hem
+  • Lightweight, breathable 100% polyester that keeps you cool
+  • Unisex button-up baseball cut, true to size (M-3XL)
+  • Perfect for conventions, watch parties, and streetwear layering
+  • Secure checkout with fast nationwide + worldwide delivery
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : Luffy Anime Jersey | One Piece All-Over Print
+Meta Description (136 chars) : Shop the Luffy anime jersey: all-over-print One Piece graphics on breathable polyester. Unisex, M-3XL. Fast worldwide delivery. ₦23,000.
+Focus keyword                       : Luffy anime jersey
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Luffy anime jersey featuring all-over-print One Piece graphics on a button-up baseball cut
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga aesthetic studio shot of a button-up anime baseball jersey featuring Monkey D. Luffy from One Piece, displayed on an invisible mannequin. Palette strictly ink black #111111 background and paper white #FAFAFA, with a single bold manga-red #E2261C accent used sparingly for energy (a thin sash of red speed lines slicing across the frame). Heavy halftone and screentone dot textures, dynamic manga speed lines radiating from the jersey, brush-ink splatter in the corners, framed inside a high-contrast manga panel layout. Premium anime-streetwear, bold and cinematic, monochrome with one red pop, sharp studio lighting.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

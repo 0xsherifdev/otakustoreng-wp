@@ -1,0 +1,83 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Aot Stickers
+SLUG         : aot-stickers
+BUMPA ID     : 1141004
+WOO TYPE     : simple
+PARENT SKU   : OSN-1141004
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Stickers
+  - Shop by Anime > Attack on Titan
+
+TAGS: Attack on Titan stickers, AOT stickers, anime vinyl stickers, Levi stickers, Eren stickers, Survey Corps stickers, waterproof laptop stickers, anime sticker pack
+FRANCHISE: Attack on Titan    CHARACTER: Levi, Eren, Mikasa
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦1,000
+Total stock   : 993
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Wings of Freedom, ready to stick.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Suit up for the Survey Corps with a 10-piece Attack on Titan vinyl sticker pack. Waterproof, fade-resistant decals of Levi, Eren, Mikasa, the Titans and the Wings of Freedom for laptops, bottles, phones and more.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Answer the call of the Survey Corps. This Attack on Titan vinyl sticker pack stacks the whole roster onto your gear: Captain Levi mid-strike, Eren, Mikasa and Armin, Reiner and the looming Colossal, Armored, Beast and Female Titans, plus the iconic Wings of Freedom emblem. Each die-cut decal is printed in rich, vivid colour for that screen-accurate look fans clock instantly.</p>
+<p>Built to ride everywhere you do, the stickers are waterproof and durable, so they hold up against scuffs, splashes and daily wear. Peel, position, press and you have an instant glow-up for any flat surface. A clean, energetic way to wear the roster on the things you carry every day.</p>
+<ul>
+<li><strong>Pack size:</strong> 10 pieces per pack, mixed Attack on Titan designs</li>
+<li><strong>Featured:</strong> Levi, Eren, Mikasa, Armin, Reiner, Titans and the Wings of Freedom emblem</li>
+<li><strong>Material:</strong> Durable waterproof vinyl with a vivid, fade-resistant print</li>
+<li><strong>Finish:</strong> Die-cut shapes with a peel-and-stick backing</li>
+<li><strong>Sticks to:</strong> Laptops, water bottles, phones, notebooks, skateboards, luggage and most smooth surfaces</li>
+<li><strong>Style:</strong> Fan-made, anime-inspired art; not affiliated with or endorsed by the original creators</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • 10 die-cut vinyl stickers in every pack
+  • Levi, Eren, Mikasa, the Titans and Wings of Freedom art
+  • Waterproof and durable for everyday wear
+  • Vivid, fade-resistant colour print
+  • Peel-and-stick onto laptops, bottles, phones and more
+  • Fan / anime-inspired design, not affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (42 chars)        : Attack on Titan Stickers | 10pc Vinyl Pack
+Meta Description (153 chars) : Attack on Titan vinyl sticker pack, 10pcs. Waterproof Levi, Eren, Mikasa and Titan decals for laptops, bottles and phones. Ships from Nigeria, worldwide.
+Focus keyword                       : Attack on Titan stickers
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Attack on Titan vinyl sticker pack featuring Levi, Eren, Mikasa, the Titans and the Wings of Freedom emblem
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product photo of a fanned-out Attack on Titan vinyl sticker pack on an ink-black #111111 surface, paper-white #FAFAFA highlights and a single manga-red #E2261C accent on the Wings of Freedom emblem. Die-cut decals of Levi, Eren and a Titan visible. Halftone dot texture, diagonal speed lines and ink splatter framing the shot, sharp manga panel composition, premium cinematic studio lighting, high detail.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

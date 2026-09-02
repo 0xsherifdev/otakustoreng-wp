@@ -1,0 +1,70 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Thor Figurine
+SLUG         : thor-figurine
+BUMPA ID     : 1624212
+WOO TYPE     : simple
+PARENT SKU   : OSN-1624212
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Collectibles > Figurines
+
+TAGS: Thor figurine, Thor Odinson, Marvel figure, Avengers collectible, action figure, anime figurine, collector statue, PVC figure, Otaku Store NG
+FRANCHISE: Marvel    CHARACTER: Thor (Thor Odinson)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦20,000
+Total stock   : 10
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The God of Thunder, ready for your shelf.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Bring the God of Thunder home. This Thor Odinson collector figure features sculpted battle armor, a flowing red cape, and his iconic axe and hammer accessories on a display base. Articulated, pre-painted, and built for the shelf.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Thor steps off the battlefield and onto your shelf. This collector figure captures the God of Thunder in full battle gear, from the flowing red cape to the intricately sculpted black armor and that unmistakable, battle-ready stare. It is a fan-made, anime-inspired display piece for collectors who want the roster represented properly.</p><p>Posed on its own display base with his signature axe and hammer accessories in hand, this is a detailed, pre-painted statue made for showing off, not for play. Add it to your lineup and let the thunder roll.</p><ul><li><strong>Character:</strong> Thor (Thor Odinson)</li><li><strong>Material:</strong> Pre-painted PVC display figure</li><li><strong>Scale:</strong> Approx. 4-inch / ~12 cm tall (compact shelf size)</li><li><strong>Articulation:</strong> Multiple points of articulation for posing</li><li><strong>Includes:</strong> Thor figure, axe and hammer accessories, display base, windowed collector box</li><li><strong>Best for:</strong> Display and collecting (not a children's toy)</li><li><strong>Care:</strong> Keep out of direct sunlight; dust gently with a soft, dry cloth</li><li><strong>Note:</strong> Fan / anime-inspired collectible, not official or affiliated with any rights holder</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • God of Thunder in full sculpted battle armor with flowing red cape
+  • Comes with axe and hammer accessories plus a display base
+  • Articulated joints let you set the pose your shelf deserves
+  • Pre-painted PVC, compact ~4-inch (12 cm) display scale
+  • Arrives in a windowed collector box ready to gift or display
+  • Fan / anime-inspired collectible, not official or affiliated
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (45 chars)        : Thor Figurine | Thor Odinson Collector Figure
+Meta Description (148 chars) : Thor Odinson collector figurine with sculpted armor, red cape, axe and hammer accessories on a display base. Articulated, pre-painted. Ships across.
+Focus keyword                       : Thor figurine
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Thor Odinson collector figurine in black battle armor and red cape, holding axe and hammer, on a display base beside its windowed collector box
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-Manga studio product shot of a Thor Odinson collector figurine in black battle armor with a flowing red cape, holding an axe and hammer, standing on a display base. Ink black #111111 background, paper white #FAFAFA negative space, single manga-red #E2261C accent on the cape and a slash of speed lines. Halftone dot shading, dynamic ink splatter, bold manga panel framing, dramatic rim lighting, premium cinematic depth of field. The figure crisp and hero-lit center frame.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

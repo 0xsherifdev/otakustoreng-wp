@@ -1,0 +1,76 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Jjk Iphone Case
+SLUG         : jjk-iphone-case
+BUMPA ID     : 1163790
+WOO TYPE     : variable
+PARENT SKU   : OSN-1163790
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Phone Cases
+  - Shop by Anime > Jujutsu Kaisen
+
+TAGS: Jujutsu Kaisen iPhone case, JJK phone case, Gojo phone case, Sukuna phone case, Geto phone case, anime iPhone case, anime phone case, Jujutsu Kaisen merch
+FRANCHISE: Jujutsu Kaisen    CHARACTER: Gojo Satoru
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦5,500
+Total stock   : 30
+VARIATIONS (attribute: Style)
+  Gojou          | ₦5,500 | stock 10   | SKU OSN-1163790-GOJOU
+  Sukuna         | ₦5,500 | stock 10   | SKU OSN-1163790-SUKUNA
+  Geto           | ₦5,500 | stock 10   | SKU OSN-1163790-GETO
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Cursed energy, locked onto your iPhone.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Anime-inspired Jujutsu Kaisen iPhone case with bold Gojo, Sukuna or Geto artwork. A slim protective shell with raised screen edges and precise cutouts. Pick your sorcerer and your exact iPhone model at checkout.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Carry the strongest roster in your pocket. This Jujutsu Kaisen-inspired iPhone case puts Gojo, Sukuna or Geto front and centre in crisp, high-impact print, built to ride with you everywhere from class to the train to the next late-night episode binge.</p><p>The slim shell hugs your phone without the bulk, while raised edges sit proudly above the screen and camera so face-down moments and pocket scuffs do not ruin the day. Choose your sorcerer and tell us your exact iPhone model at checkout so the cutouts line up perfectly.</p><ul><li>Design options: Gojo, Sukuna or Geto print</li><li>Slim protective shell with a snug, low-profile fit</li><li>Raised edges to help protect the screen and camera</li><li>Precise cutouts for ports, buttons and camera</li><li>Compatible with iPhone only - state your exact model at checkout</li><li>Vibrant anime-inspired artwork printed across the back</li><li>Easy on, easy off for quick swaps</li><li>Fan-made, anime-inspired design (not affiliated with or endorsed by the rights holders)</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Three sorcerer designs: Gojo, Sukuna or Geto
+  • Slim shell with raised screen and camera edges
+  • Precise cutouts for ports, buttons and camera
+  • Made for iPhone - confirm your model at checkout
+  • Bold anime-inspired print that holds its colour
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (47 chars)        : Jujutsu Kaisen iPhone Case - Gojo, Sukuna, Geto
+Meta Description (150 chars) : Anime-inspired Jujutsu Kaisen iPhone case with Gojo, Sukuna or Geto art. Slim shell, raised edges, precise cutouts. Pick your design and iPhone model.
+Focus keyword                       : Jujutsu Kaisen iPhone case
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+  04.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Jujutsu Kaisen iPhone case with anime-inspired Gojo artwork on a slim black shell
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a slim iPhone case standing upright, back facing camera, featuring a bold anime-inspired Jujutsu Kaisen sorcerer illustration. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent. Halftone dot shading, dynamic speed lines and ink splatter framing the case in manga panels. Premium, cinematic lighting, sharp focus on the raised edges and precise cutouts, high contrast, no text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

@@ -1,0 +1,71 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Devil Fruit Airpod Case
+SLUG         : devil-fruit-airpod-case
+BUMPA ID     : 2265300
+WOO TYPE     : simple
+PARENT SKU   : OSN-2265300
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > AirPods Cases
+  - Shop by Anime > One Piece
+
+TAGS: Devil Fruit AirPods case, One Piece AirPods case, anime AirPods case, One Piece accessories, Devil Fruit, anime AirPods cover, AirPods case Nigeria, One Piece merch
+FRANCHISE: One Piece    CHARACTER: (none)
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦7,000
+Total stock   : 8
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Eat the fruit. Guard your buds.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+An anime-inspired Devil Fruit AirPods case for One Piece crews. Shock-absorbing cover with a precise charging-port cutout and a clip-on ring to hook onto your bag or keys. Pick your AirPods model at checkout.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Set sail with a Devil Fruit AirPods case built for fans who never leave the crew behind. The signature swirl print channels the most legendary power-up in One Piece, wrapped around a snug cover that snaps over your AirPods and takes the daily knocks so your buds stay flawless.</p><p>The slim shell keeps the LED visible, lines up perfectly with the charging port, and ships with a metal clip so your case rides on your bag, belt loop or keyring. Fan-made and anime-inspired; not affiliated with or endorsed by the original creators.</p><ul><li>Material: durable shock-absorbing cover (soft-touch finish)</li><li>Design: Devil Fruit swirl print, One Piece-inspired artwork</li><li>Precise port cutout for charging without removing the case</li><li>Front LED stays visible; secure snap-on fit</li><li>Includes metal carabiner/keyring clip for bag or keys</li><li>Buyer selects AirPods model and design at checkout</li><li>Easy to wipe clean with a soft, slightly damp cloth</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Devil Fruit swirl art for One Piece fans
+  • Shock-absorbing cover guards against drops and scuffs
+  • Precise port cutout charges without removing the case
+  • Clip-on ring hooks to your bag, keys or belt loop
+  • Front LED stays visible with a secure snap-on fit
+  • Choose your AirPods model and design at checkout
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (48 chars)        : Devil Fruit AirPods Case | One Piece Anime Cover
+Meta Description (150 chars) : Anime-inspired Devil Fruit AirPods case for One Piece fans. Shock-absorbing cover, precise port cutout, clip-on ring. Ships from Nigeria. From ₦7,000.
+Focus keyword                       : Devil Fruit AirPods case
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Devil Fruit swirl-print AirPods case with clip-on ring, One Piece anime-inspired design
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of an anime-inspired Devil Fruit AirPods case resting on an ink-black surface. Ink black #111111 background, paper white #FAFAFA highlights, single manga-red #E2261C accent on the Devil Fruit swirl print. Halftone dot shading, dynamic speed lines radiating behind the case, subtle ink splatter, framed in a clean manga panel. Metal clip catching a sharp specular highlight, cinematic premium lighting, high detail, no text.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - Original Bumpa description was empty/placeholder — copy written fresh.
+================================================================================

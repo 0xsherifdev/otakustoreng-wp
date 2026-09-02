@@ -1,0 +1,76 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Itachi T Shirt
+SLUG         : itachi-t-shirt-1125498
+BUMPA ID     : 1125498
+WOO TYPE     : variable
+PARENT SKU   : OSN-1125498
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Apparel > T-Shirts
+  - Shop by Anime > Naruto
+
+TAGS: Itachi Uchiha t-shirt, Naruto t-shirt, Akatsuki shirt, anime t-shirt, Itachi merch, Uchiha clan tee, Naruto anime apparel, anime graphic tee
+FRANCHISE: Naruto    CHARACTER: Itachi Uchiha
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦12,000
+Total stock   : 500
+VARIATIONS (attribute: Size)
+  M              | ₦12,000 | stock 100  | SKU OSN-1125498-M
+  L              | ₦12,000 | stock 100  | SKU OSN-1125498-L
+  XL             | ₦12,000 | stock 100  | SKU OSN-1125498-XL
+  2XL            | ₦12,000 | stock 100  | SKU OSN-1125498-2XL
+  XXXL           | ₦12,000 | stock 100  | SKU OSN-1125498-XXXL
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Crimson moon, crows, and a single hand sign.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+Step into the Akatsuki with this Itachi Uchiha graphic tee. A jet-black crew neck framing Itachi, his crimson moon and crow halo in bold front print, on soft, breathable cotton built for everyday wear. Unisex regular fit.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some shinobi cast genjutsu. Itachi just looks at you. This Naruto-inspired tee captures the Uchiha prodigy mid hand-sign, wrapped in his Akatsuki cloud cloak and crowned by a blood-red moon scattered with crows. The high-contrast front print pops against deep black fabric, making it the kind of piece that earns a second glance from anyone who knows the story.</p><p>Cut for everyday rotation, it pairs soft cotton comfort with a clean unisex shape, so it wears just as well under a hoodie as it does on its own. Fan-made and anime-inspired, not affiliated with or endorsed by the official rights holders.</p><ul><li>Front graphic print of Itachi Uchiha with crimson moon and crow motif</li><li>Soft, breathable cotton for all-day comfort</li><li>Unisex regular fit with a classic crew neck</li><li>Durable, fade-resistant print built to survive the wash</li><li>Available in M, L, XL, 2XL and XXXL</li><li>Machine wash cold, inside-out; tumble dry low to protect the print</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Bold front print of Itachi Uchiha in his Akatsuki cloak
+  • Crimson moon and crow halo for that signature Uchiha mood
+  • Soft, breathable cotton in deep black
+  • Unisex regular fit, classic crew neck
+  • Durable fade-resistant graphic, machine washable
+  • Sizes M to XXXL
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (57 chars)        : Itachi Uchiha T-Shirt | Naruto Anime Tee | Otaku Store NG
+Meta Description (153 chars) : Itachi Uchiha graphic tee in deep black with crimson moon and crow print. Soft cotton, unisex fit, sizes M-XXXL. ₦12,000. Ships nationwide and worldwide.
+Focus keyword                       : Itachi Uchiha t-shirt
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+PRIMARY IMAGE ALT TEXT: Black Itachi Uchiha graphic t-shirt showing Itachi in his Akatsuki cloak casting a hand sign against a red moon and crows
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of a folded jet-black crew-neck t-shirt featuring an Itachi Uchiha-style front graphic, laid on ink-black #111111 surface with paper-white #FAFAFA negative space. Single manga-red #E2261C accent glowing like a crimson moon behind the shirt, scattered crow silhouettes, halftone dot shading, sharp speed lines and ink-splatter framing the manga panel. Premium cinematic lighting, high contrast, crisp fabric texture, dramatic top-down composition.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

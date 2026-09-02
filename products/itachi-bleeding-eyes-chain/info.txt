@@ -1,0 +1,72 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Itachi Bleeding Eyes Chain
+SLUG         : itachi-bleeding-eyes-chain
+BUMPA ID     : 1121922
+WOO TYPE     : simple
+PARENT SKU   : OSN-1121922
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Naruto
+
+TAGS: Itachi necklace, Sharingan pendant, Naruto chain, Akatsuki jewellery, anime necklace, Itachi Uchiha, stainless steel pendant, Naruto merch, bleeding eyes chain, anime chains Nigeria
+FRANCHISE: Naruto    CHARACTER: Itachi Uchiha
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,000
+Total stock   : 510
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+The Sharingan that weeps blood. Wear the weight of it.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A cut-out Sharingan pendant dripping with Itachi's signature bleeding-eye motif, hung on a polished stainless-steel curb chain. Tarnish-resistant, lightweight, and built for everyday wear. Subtle enough for class, sharp enough for the convention floor.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Some clans choose love over peace, and Itachi paid for it in blood. The <strong>Itachi Bleeding Eyes Chain</strong> captures that exact heartbreak: a stylised Sharingan rendered as a weeping eye, the tears spilling down into clean cut-out lines. It is the Mangekyo legend made wearable, anime-inspired for the fans who know what those tears cost.</p><p>The pendant hangs from a slim, polished stainless-steel curb chain that sits flat against the chest and catches light without screaming for attention. Layer it over a black tee, stack it with your other Akatsuki pieces, or wear it solo when you want only the real ones to clock the reference. Premium feel, fan-built energy, ready to ship nationwide and worldwide.</p><ul><li><strong>Design:</strong> Itachi-inspired bleeding Sharingan eye, open cut-out pendant</li><li><strong>Pendant material:</strong> Tarnish-resistant stainless-steel alloy, polished silver-tone finish</li><li><strong>Chain:</strong> Matching stainless-steel curb-link chain with lobster clasp</li><li><strong>Length:</strong> Standard unisex chain length, comfortable everyday fit</li><li><strong>Weight:</strong> Lightweight, all-day wearable</li><li><strong>Care:</strong> Wipe clean with a soft dry cloth; keep away from harsh chemicals and water to preserve shine</li><li><strong>Included:</strong> 1x bleeding-eyes pendant on chain</li><li><strong>Style note:</strong> Fan / anime-inspired merch, not official or licensed</li></ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Itachi-inspired bleeding Sharingan pendant with detailed cut-out tear lines
+  • Tarnish-resistant stainless-steel alloy in a polished silver-tone finish
+  • Slim curb-link chain with secure lobster clasp, sits flat on the chest
+  • Lightweight and unisex; layers easily with other Akatsuki pieces
+  • Wipe clean and go; built for everyday wear
+  • Ships from Nigeria nationwide and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (44 chars)        : Itachi Bleeding Eyes Chain | Naruto Necklace
+Meta Description (146 chars) : Itachi-inspired bleeding Sharingan pendant on a stainless-steel chain. Tarnish-resistant, lightweight Naruto necklace. ₦4,000. Ships nationwide &.
+Focus keyword                       : Itachi bleeding eyes chain
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Silver-tone stainless-steel Itachi bleeding Sharingan eye pendant on a curb chain, Naruto-inspired necklace
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga product hero shot of a silver-tone stainless-steel pendant shaped like a stylised bleeding Sharingan eye with dripping tear lines, hanging on a fine curb-link chain. Ink-black #111111 background, paper-white #FAFAFA halftone dot texture bleeding in from the edges, a single manga-red #E2261C ink-splatter accent dripping behind the pendant to echo the bleeding eye. Sharp speed lines radiating from the pendant, framed inside a clean manga panel border. Premium, cinematic studio lighting, crisp metallic reflections, high contrast, macro detail on the cut-out eye motif.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

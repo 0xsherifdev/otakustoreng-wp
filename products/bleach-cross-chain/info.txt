@@ -1,0 +1,86 @@
+================================================================================
+ OTAKU STORE NG — PRODUCT SHEET
+================================================================================
+PRODUCT NAME : Bleach Cross Chain
+SLUG         : bleach-cross-chain
+BUMPA ID     : 1179653
+WOO TYPE     : simple
+PARENT SKU   : OSN-1179653
+
+--------------------------------------------------------------------------------
+ CATEGORIES (WooCommerce)
+--------------------------------------------------------------------------------
+  - Accessories
+  - Accessories > Chains & Necklaces
+  - Shop by Anime > Bleach
+
+TAGS: Bleach cross chain, Bleach necklace, Ichigo Kurosaki pendant, anime cross necklace, anime chain, Soul Reaper accessory, anime pendant necklace, Bleach merch, cosplay chain, Bleach accessories
+FRANCHISE: Bleach    CHARACTER: Ichigo Kurosaki
+
+--------------------------------------------------------------------------------
+ PRICING (NGN)  &  STOCK
+--------------------------------------------------------------------------------
+Regular price : ₦4,500
+Total stock   : 98
+(simple product — no size variations)
+
+--------------------------------------------------------------------------------
+ SUBTITLE / HOOK
+--------------------------------------------------------------------------------
+Carry the cross. Channel your inner Soul Reaper.
+
+--------------------------------------------------------------------------------
+ SHORT DESCRIPTION  (WooCommerce excerpt)
+--------------------------------------------------------------------------------
+A bold, anime-inspired Bleach cross pendant on a sturdy chain. Forged in tarnish-resistant metal with a matte-and-shine finish, it wears clean from streetwear fits to convention drops. Adjustable, easy to style, built for daily roster duty.
+
+--------------------------------------------------------------------------------
+ LONG DESCRIPTION  (WooCommerce description — HTML, paste into the editor's Text/HTML tab)
+--------------------------------------------------------------------------------
+<p>Channel the substitute Soul Reaper energy with the Bleach Cross Chain, an anime-inspired pendant built for fans who let their fits do the talking. The cross silhouette nods to Ichigo Kurosaki's iconic look, rendered in a clean, weighty finish that catches the light without screaming for attention. Layer it over a tee, drop it under an open shirt, or stack it with your other roster pieces.</p>
+<p>Made from durable, tarnish-resistant metal so it holds its shine through everyday wear, this is a piece designed to move with you, from campus to convention floor. Wear the roster.</p>
+<ul>
+<li>Anime-inspired Bleach cross pendant (Ichigo Kurosaki style)</li>
+<li>Durable, tarnish-resistant stainless-steel / alloy construction</li>
+<li>Matte-and-shine finish that resists everyday scuffs</li>
+<li>Standard, comfortable chain length suited for layering</li>
+<li>Lobster-clasp closure for a secure fit</li>
+<li>Unisex design, ideal for streetwear and cosplay styling</li>
+<li>Wipe clean with a soft, dry cloth; store dry to keep the shine</li>
+<li>Includes: 1 cross pendant on chain</li>
+<li>Fan / anime-inspired piece, not affiliated with or endorsed by the official rights holders</li>
+</ul>
+
+--------------------------------------------------------------------------------
+ PRODUCT HIGHLIGHTS
+--------------------------------------------------------------------------------
+  • Anime-inspired Bleach cross pendant nodding to Ichigo's iconic look
+  • Tarnish-resistant metal that keeps its shine through daily wear
+  • Matte-and-shine finish, secure lobster-clasp closure
+  • Unisex styling for streetwear, layering and cosplay
+  • Easy care: just wipe clean with a soft, dry cloth
+  • Ships nationwide across Nigeria and worldwide
+
+--------------------------------------------------------------------------------
+ SEO  (Yoast / Rank Math)
+--------------------------------------------------------------------------------
+SEO Title (44 chars)        : Bleach Cross Chain | Ichigo Pendant Necklace
+Meta Description (155 chars) : Anime-inspired Bleach cross chain in tarnish-resistant metal. Bold Ichigo-style pendant for streetwear and cosplay. ₦4,500. Ships nationwide and worldwide.
+Focus keyword                       : Bleach cross chain
+
+--------------------------------------------------------------------------------
+ IMAGES IN THIS FOLDER
+--------------------------------------------------------------------------------
+  01.jpg  (primary/featured)
+  02.jpg  (gallery)
+  03.jpg  (gallery)
+PRIMARY IMAGE ALT TEXT: Bleach-inspired cross pendant necklace on a metal chain, Ichigo Kurosaki style
+
+GOOGLE FLOW IMAGE PROMPT (optional supplemental lifestyle/studio shot):
+Dark-manga studio product shot of an anime-inspired cross pendant necklace laid on ink-black #111111 surface, single manga-red #E2261C accent ribbon beneath it, paper-white #FAFAFA highlights catching the metal cross. Halftone dot texture in background, dynamic speed lines radiating from the pendant, subtle ink splatter framing the composition in manga panels. Premium cinematic lighting, sharp focus on the chain links, high-contrast monochrome with one bold red accent. No text, no logos.
+
+--------------------------------------------------------------------------------
+ NOTES / DATA FLAGS
+--------------------------------------------------------------------------------
+  - No data flags.
+================================================================================

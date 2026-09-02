@@ -53,3 +53,8 @@ tmp/
 # products/**/*.jpg
 # products/**/*.png
 # content/hero/*.png
+
+# ── Conductor ───────────────────────────────────────────────────────────
+# Machine-local workspace config. A shared team default would go in
+# .conductor/settings.toml (tracked) instead.
+.conductor/settings.local.toml
